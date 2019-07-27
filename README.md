@@ -2,10 +2,10 @@
 Полностью готовый сервер Lineage 2 Interlude. 
 
 ## Требования:
-Система: Linux (Ubuntu/Debian/ArchLinux), Windows Xp и выше.
-Процессор: 2-ух ядерный 2.7 ГГц.
-Оперативная память: For Linux [400 MB] For Windows [1GB]
-Java: 7-я версия и выше.
+- Система: Linux (Ubuntu/Debian/ArchLinux), Windows Xp и выше.
+- Процессор: 2-ух ядерный 2.7 ГГц.
+- Оперативная память: For Linux [400 MB] For Windows [1GB]
+- Java: 7-я версия и выше.
 
 ## Установка
 - Залить backup БД через Navicat. (Создать 2 базы [la2_login] и [la2_game]
