@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<list>
+  <accessorie id="5808" name="Party Mask"  >
+   <set icon="icon.etc_party_mask_i00"/>
+   <set bodyPart="FACE" grade="NONE"/>
+   <set crystallizable="false" />
+   <set weight="10" price="500000"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </accessorie>
+</list>

@@ -1,0 +1,193 @@
+<?xml version='1.0' encoding='utf-8'?>
+
+<!-- Weapon's S Grade -->
+
+<list>
+
+<!-- Heaven's Divider Focus -->
+<item id="1">
+<ingredient id="4037" count="15" enchant="0"/>
+<production id="6607" count="1" enchant="0"/>
+</item>
+
+<!-- Heaven's Divider Health -->
+<item id="2">
+<ingredient id="4037" count="15" enchant="0"/>
+<production id="6606" count="1" enchant="0"/>
+</item>
+
+<!-- Heaven's Divider Haste -->
+<item id="3">
+<ingredient id="4037" count="15" enchant="0"/>
+<production id="6605" count="1" enchant="0"/>
+</item>
+
+<!-- Forgotten Blade Haste -->
+<item id="4">
+<ingredient id="4037" count="15" enchant="0"/>
+<production id="6581" count="1" enchant="0"/>
+</item>
+
+<!-- Forgotten Blade Health -->
+<item id="5">
+<ingredient id="4037" count="15" enchant="0"/>
+<production id="6582" count="1" enchant="0"/>
+</item>
+
+<!-- Forgotten Blade Focus -->
+<item id="6">
+<ingredient id="4037" count="15" enchant="0"/>
+<production id="6583" count="1" enchant="0"/>
+</item>
+
+<!-- Arcana Mace Acumen -->
+<item id="7">
+<ingredient id="4037" count="15" enchant="0"/>
+<production id="6608" count="1" enchant="0"/>
+</item>
+
+<!-- Arcana Mace MP Regeneration -->
+<item id="8">
+<ingredient id="4037" count="15" enchant="0"/>
+<production id="6609" count="1" enchant="0"/>
+</item>
+
+<!-- Arcana Mace Mana Up -->
+<item id="9">
+<ingredient id="4037" count="15" enchant="0"/>
+<production id="6610" count="1" enchant="0"/>
+</item>
+
+<!-- Basalt Battlehammer Health -->
+<item id="10">
+<ingredient id="4037" count="15" enchant="0"/>
+<production id="6585" count="1" enchant="0"/>
+</item>
+
+<!-- Basalt Battlehammer HP Drain -->
+<item id="11">
+<ingredient id="4037" count="15" enchant="0"/>
+<production id="6584" count="1" enchant="0"/>
+</item>
+
+<!-- Basalt Battlehammer HP Regeneration -->
+<item id="12">
+<ingredient id="4037" count="15" enchant="0"/>
+<production id="6586" count="1" enchant="0"/>
+</item>
+
+<!-- Angel Slayer Crt. Damage -->
+<item id="13">
+<ingredient id="4037" count="15" enchant="0"/>
+<production id="6590" count="1" enchant="0"/>
+</item>
+
+<!-- Angel Slayer HP Drain -->
+<item id="14">
+<ingredient id="4037" count="15" enchant="0"/>
+<production id="6591" count="1" enchant="0"/>
+</item>
+
+<!-- Angel Slayer Haste -->
+<item id="15">
+<ingredient id="4037" count="15" enchant="0"/>
+<production id="6592" count="1" enchant="0"/>
+</item>
+
+<!-- Dragon Hunter Axe HP Regeneration -->
+<item id="16">
+<ingredient id="4037" count="15" enchant="0"/>
+<production id="6596" count="1" enchant="0"/>
+</item>
+
+<!-- Dragon Hunter Axe Health -->
+<item id="17">
+<ingredient id="4037" count="15" enchant="0"/>
+<production id="6597" count="1" enchant="0"/>
+</item>
+
+<!-- Dragon Hunter Axe HP Drain -->
+<item id="18">
+<ingredient id="4037" count="15" enchant="0"/>
+<production id="6598" count="1" enchant="0"/>
+</item>
+
+<!-- Saint Spear Health -->
+<item id="19">
+<ingredient id="4037" count="15" enchant="0"/>
+<production id="6599" count="1" enchant="0"/>
+</item>
+
+<!-- Saint Spear Guidance -->
+<item id="20">
+<ingredient id="4037" count="15" enchant="0"/>
+<production id="6600" count="1" enchant="0"/>
+</item>
+
+<!-- Saint Spear Haste -->
+<item id="21">
+<ingredient id="4037" count="15" enchant="0"/>
+<production id="6601" count="1" enchant="0"/>
+</item>
+
+<!-- Demon Splinter Focus -->
+<item id="22">
+<ingredient id="4037" count="15" enchant="0"/>
+<production id="6602" count="1" enchant="0"/>
+</item>
+
+<!-- Demon Splinter Health -->
+<item id="23">
+<ingredient id="4037" count="15" enchant="0"/>
+<production id="6603" count="1" enchant="0"/>
+</item>
+
+<!-- Demon Splinter Crt. Stun -->
+<item id="24">
+<ingredient id="4037" count="15" enchant="0"/>
+<production id="6604" count="1" enchant="0"/>
+</item>
+
+<!-- Draconic Bow Cheap Shot -->
+<item id="25">
+<ingredient id="4037" count="15" enchant="0"/>
+<production id="7576" count="1" enchant="0"/>
+</item>
+
+<!-- Draconic Bow Focus -->
+<item id="26">
+<ingredient id="4037" count="15" enchant="0"/>
+<production id="7577" count="1" enchant="0"/>
+</item>
+
+<!-- Draconic Bow Critical Slow -->
+<item id="27">
+<ingredient id="4037" count="15" enchant="0"/>
+<production id="7578" count="1" enchant="0"/>
+</item>
+
+<!-- Tallum Blade*Dark Legion's Edge -->
+<item id="28">
+<ingredient id="4037" count="15" enchant="0"/>
+<production id="6580" count="1" enchant="0"/>
+</item>
+
+<!-- Shining Bow - Cheap Shot -->
+<item id="29">
+<ingredient id="4037" count="15" enchant="0"/>
+<production id="6593" count="1" enchant="0"/>
+</item>
+
+<!-- Shining Bow - Focus -->
+<item id="30">
+<ingredient id="4037" count="15" enchant="0"/>
+<production id="6594" count="1" enchant="0"/>
+</item>
+
+<!-- Shining Bow - Critical Slow -->
+<item id="31">
+<ingredient id="4037" count="15" enchant="0"/>
+<production id="6595" count="1" enchant="0"/>
+</item>
+
+</list>

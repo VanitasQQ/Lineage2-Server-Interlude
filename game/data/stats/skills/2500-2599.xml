@@ -1,0 +1,1005 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE list SYSTEM "skills.dtd">
+<list>
+<skill id="2500" levels="1" name="Beast Soulshot Compressed Pack">
+  <set name="itemConsumeId" val="10515"/>
+  <set name="itemConsumeCount" val="1"/>
+  <set name="target" val="TARGET_SELF"/>
+  <set name="skillType" val="EXTRACTABLE"/>
+  <set name="operateType" val="OP_ACTIVE"/>
+  <cond msgId="129">
+    <and>
+       <player invSize="10"/>
+       <player weight="80"/>
+    </and>
+  </cond>
+</skill>
+<skill id="2501" levels="1" name="Beast Spiritshot Compressed Pack">
+  <set name="itemConsumeId" val="10516"/>
+  <set name="itemConsumeCount" val="1"/>
+  <set name="target" val="TARGET_SELF"/>
+  <set name="skillType" val="EXTRACTABLE"/>
+  <set name="operateType" val="OP_ACTIVE"/>
+  <cond msgId="129">
+    <and>
+       <player invSize="10"/>
+       <player weight="80"/>
+    </and>
+  </cond>
+</skill>
+<skill id="2502" levels="1" name="Blessed Beast Spiritshot Compressed Pack">
+  <set name="itemConsumeId" val="10517"/>
+  <set name="itemConsumeCount" val="1"/>
+  <set name="target" val="TARGET_SELF"/>
+  <set name="skillType" val="EXTRACTABLE"/>
+  <set name="operateType" val="OP_ACTIVE"/>
+  <cond msgId="129">
+    <and>
+       <player invSize="10"/>
+       <player weight="80"/>
+    </and>
+  </cond>
+</skill>
+<skill id="2504" levels="1" name="Old Agathion">
+  <set name="itemConsumeId" val="10408"/>
+  <set name="itemConsumeCount" val="1"/>
+  <set name="target" val="TARGET_SELF"/>
+  <set name="skillType" val="EXTRACTABLE"/>
+  <set name="operateType" val="OP_ACTIVE"/>
+  <cond msgId="129">
+    <and>
+       <player invSize="10"/>
+       <player weight="80"/>
+    </and>
+  </cond>
+</skill>
+<skill id="2505" levels="1" name="Chant of Combat">
+  <set name="target" val="TARGET_SELF"/>
+  <set name="skillType" val="BUFF"/>
+  <set name="operateType" val="OP_ACTIVE"/>
+</skill>
+<skill id="2506" levels="1" name="Chant of Critical">
+  <set name="target" val="TARGET_SELF"/>
+  <set name="skillType" val="BUFF"/>
+  <set name="operateType" val="OP_ACTIVE"/>
+</skill>
+<skill id="2507" levels="1" name="Chant of Blood Awakening">
+  <set name="target" val="TARGET_SELF"/>
+  <set name="skillType" val="BUFF"/>
+  <set name="operateType" val="OP_ACTIVE"/>
+</skill>
+<skill id="2508" levels="1" name="Squash Seed">
+  <set name="target" val="TARGET_NONE"/>
+  <set name="skillType" val="NOTDONE"/>
+  <set name="operateType" val="OP_PASSIVE"/>
+  <set name="hitTime" val="1500"/>
+</skill>
+<skill id="2509" levels="1" name="Large Squash Seed">
+  <set name="target" val="TARGET_NONE"/>
+  <set name="skillType" val="NOTDONE"/>
+  <set name="operateType" val="OP_PASSIVE"/>
+  <set name="hitTime" val="1500"/>
+</skill>
+<skill id="2510" levels="1" name="Mysterious Cube">
+  <set name="referenceId" val="10632"/>
+  <set name="target" val="TARGET_SELF"/>
+  <set name="skillType" val="EXTRACTABLE"/>
+  <set name="operateType" val="OP_ACTIVE"/>
+  <set name="hitTime" val="1000"/>
+  <set name="staticHitTime" val="true"/>
+  <set name="reuseDelay" val="86400000"/>
+  <set name="staticReuse" val="true"/>
+  <cond msgId="129">
+    <and>
+       <player invSize="10"/>
+       <player weight="80"/>
+    </and>
+  </cond>
+</skill>
+<skill id="2512" levels="1" name="Herb of Vampiric Rage">
+  <set name="staticHitTime" val="true"/>
+  <set name="target" val="TARGET_SELF"/>
+  <set name="skillType" val="BUFF"/>
+  <set name="operateType" val="OP_ACTIVE"/>
+  <set name="isPotion" val="true"/>
+  <set name="buffDuration" val="300000"/>
+  <for>
+    <effect name="Buff" time="300" val="0" stackOrder="9" stackType="vampRage">
+      <add order="0x40" stat="absorbDam" val="9"/>
+    </effect>
+  </for>
+</skill>
+<skill id="2513" levels="1" name="Herb of Doubt">
+  <set name="hitTime" val="100"/>
+  <set name="staticHitTime" val="true"/>
+  <set name="target" val="TARGET_SELF"/>
+  <set name="skillType" val="BUFF"/>
+  <set name="operateType" val="OP_ACTIVE"/>
+  <set name="isPotion" val="true"/>
+  <set name="buffDuration" val="300000"/>
+  <for>
+    <effect count="1" name="BigHead" time="300" val="0" abnormal="bighead" stackOrder="300" stackType="big_head"/>
+  </for>
+</skill>
+<skill id="2514" levels="1" name="Herb of Critical Attack - Power">
+  <set name="hitTime" val="100"/>
+  <set name="staticHitTime" val="true"/>
+  <set name="target" val="TARGET_SELF"/>
+  <set name="skillType" val="BUFF"/>
+  <set name="operateType" val="OP_ACTIVE"/>
+  <set name="isPotion" val="true"/>
+  <set name="buffDuration" val="300000"/>
+  <for>
+    <effect count="1" name="Buff" time="300" val="0" stackOrder="1.5" stackType="critical_dmg_up">
+      <mul order="0x30" stat="cAtk" val="1.5"/>
+    </effect>
+  </for>
+</skill>
+<skill id="2515" levels="1" name="Lucky Clover - D-Grade">
+  <set name="target" val="TARGET_NONE"/>
+  <set name="skillType" val="NOTDONE"/>
+  <set name="operateType" val="OP_PASSIVE"/>
+</skill>
+<skill id="2516" levels="1" name="Lucky Clover - C-Grade">
+  <set name="target" val="TARGET_NONE"/>
+  <set name="skillType" val="NOTDONE"/>
+  <set name="operateType" val="OP_PASSIVE"/>
+</skill>
+<skill id="2517" levels="1" name="Lucky Clover - B-Grade">
+  <set name="target" val="TARGET_NONE"/>
+  <set name="skillType" val="NOTDONE"/>
+  <set name="operateType" val="OP_PASSIVE"/>
+</skill>
+<skill id="2518" levels="1" name="Lucky Clover - A-Grade">
+  <set name="target" val="TARGET_NONE"/>
+  <set name="skillType" val="NOTDONE"/>
+  <set name="operateType" val="OP_PASSIVE"/>
+</skill>
+<skill id="2519" levels="1" name="Lucky Clover - S-Grade">
+  <set name="target" val="TARGET_NONE"/>
+  <set name="skillType" val="NOTDONE"/>
+  <set name="operateType" val="OP_PASSIVE"/>
+</skill>
+<skill id="2520" levels="1" name="Lucky Clover - D-Grade">
+  <set name="target" val="TARGET_NONE"/>
+  <set name="skillType" val="NOTDONE"/>
+  <set name="operateType" val="OP_PASSIVE"/>
+</skill>
+<skill id="2521" levels="1" name="Lucky Clover - C-Grade">
+  <set name="target" val="TARGET_NONE"/>
+  <set name="skillType" val="NOTDONE"/>
+  <set name="operateType" val="OP_PASSIVE"/>
+</skill>
+<skill id="2522" levels="1" name="Lucky Clover - B-Grade">
+  <set name="target" val="TARGET_NONE"/>
+  <set name="skillType" val="NOTDONE"/>
+  <set name="operateType" val="OP_PASSIVE"/>
+</skill>
+<skill id="2523" levels="1" name="Lucky Clover - A-Grade">
+  <set name="target" val="TARGET_NONE"/>
+  <set name="skillType" val="NOTDONE"/>
+  <set name="operateType" val="OP_PASSIVE"/>
+</skill>
+<skill id="2524" levels="1" name="Lucky Clover - S-Grade">
+  <set name="target" val="TARGET_NONE"/>
+  <set name="skillType" val="NOTDONE"/>
+  <set name="operateType" val="OP_PASSIVE"/>
+</skill>
+<skill id="2525" levels="1" name="Scroll to move to Kamael Village">
+  <set name="target" val="TARGET_NONE"/>
+  <set name="skillType" val="NOTDONE"/>
+  <set name="operateType" val="OP_PASSIVE"/>
+  <set name="hitTime" val="10000"/>
+</skill>
+<skill id="2526" levels="1" name="Evasion Counter">
+  <set name="target" val="TARGET_SELF"/>
+  <set name="skillType" val="NOTDONE"/>
+  <set name="operateType" val="OP_PASSIVE"/>
+  <set name="hitTime" val="1500"/>
+</skill>
+<skill id="2527" levels="1" name="Evasion Chance">
+  <set name="target" val="TARGET_SELF"/>
+  <set name="skillType" val="NOTDONE"/>
+  <set name="operateType" val="OP_PASSIVE"/>
+  <set name="hitTime" val="1500"/>
+</skill>
+<skill id="2528" levels="1" name="Evasion Haste">
+  <set name="target" val="TARGET_SELF"/>
+  <set name="skillType" val="NOTDONE"/>
+  <set name="operateType" val="OP_PASSIVE"/>
+  <set name="hitTime" val="1500"/>
+</skill>
+<skill id="2529" levels="1" name="Shadow Step">
+  <set name="target" val="TARGET_SELF"/>
+  <set name="skillType" val="NOTDONE"/>
+  <set name="operateType" val="OP_PASSIVE"/>
+  <set name="hitTime" val="1500"/>
+</skill>
+<skill id="2530" levels="1" name="Recovery Item for Battlefield Use">
+  <set name="target" val="TARGET_NONE"/>
+  <set name="skillType" val="NOTDONE"/>
+  <set name="operateType" val="OP_PASSIVE"/>
+</skill>
+<skill id="2531" levels="1" name="Adventurer's Scroll of Escape">
+  <set name="target" val="TARGET_SELF"/>
+  <set name="hitTime" val="20000"/>
+  <set name="staticHitTime" val="true"/>
+  <set name="skillType" val="RECALL"/>
+  <set name="operateType" val="OP_ACTIVE"/>
+</skill>
+<skill id="2532" levels="1" name="Pathfinder Supplies">
+  <!-- Done by L2Emu-RT -->
+  <set name="itemConsumeId" val="10836"/>
+  <set name="itemConsumeCount" val="1"/>
+  <set name="target" val="TARGET_SELF"/>
+  <set name="skillType" val="EXTRACTABLE_COMBO"/>
+  <set name="operateType" val="OP_ACTIVE"/>
+  <cond msgId="129">
+    <and>
+       <player invSize="10"/>
+       <player weight="80"/>
+    </and>
+  </cond>
+</skill>
+<skill id="2533" levels="1" name="Pathfinder Supplies">
+  <!-- Done by L2Emu-RT -->
+  <set name="itemConsumeId" val="10837"/>
+  <set name="itemConsumeCount" val="1"/>
+  <set name="target" val="TARGET_SELF"/>
+  <set name="skillType" val="EXTRACTABLE_COMBO"/>
+  <set name="operateType" val="OP_ACTIVE"/>
+  <cond msgId="129">
+    <and>
+       <player invSize="10"/>
+       <player weight="80"/>
+    </and>
+  </cond>
+</skill>
+<skill id="2534" levels="1" name="Pathfinder Supplies">
+  <!-- Done by L2Emu-RT -->
+  <set name="itemConsumeId" val="10838"/>
+  <set name="itemConsumeCount" val="1"/>
+  <set name="target" val="TARGET_SELF"/>
+  <set name="skillType" val="EXTRACTABLE_COMBO"/>
+  <set name="operateType" val="OP_ACTIVE"/>
+  <cond msgId="129">
+    <and>
+       <player invSize="10"/>
+       <player weight="80"/>
+    </and>
+  </cond>
+</skill>
+<skill id="2535" levels="1" name="Pathfinder Supplies">
+  <!-- Done by L2Emu-RT -->
+  <set name="itemConsumeId" val="10839"/>
+  <set name="itemConsumeCount" val="1"/>
+  <set name="target" val="TARGET_SELF"/>
+  <set name="skillType" val="EXTRACTABLE_COMBO"/>
+  <set name="operateType" val="OP_ACTIVE"/>
+  <cond msgId="129">
+    <and>
+       <player invSize="10"/>
+       <player weight="80"/>
+    </and>
+  </cond>
+</skill>
+<skill id="2536" levels="1" name="Pathfinder Supplies">
+  <!-- Done by L2Emu-RT -->
+  <set name="itemConsumeId" val="10840"/>
+  <set name="itemConsumeCount" val="1"/>
+  <set name="target" val="TARGET_SELF"/>
+  <set name="skillType" val="EXTRACTABLE_COMBO"/>
+  <set name="operateType" val="OP_ACTIVE"/>
+  <cond msgId="129">
+    <and>
+       <player invSize="10"/>
+       <player weight="80"/>
+    </and>
+  </cond>
+</skill>
+<skill id="2537" levels="1" name="Pathfinder Supplies">
+  <!-- Done by L2Emu-RT -->
+  <set name="itemConsumeId" val="10841"/>
+  <set name="itemConsumeCount" val="1"/>
+  <set name="target" val="TARGET_SELF"/>
+  <set name="skillType" val="EXTRACTABLE_COMBO"/>
+  <set name="operateType" val="OP_ACTIVE"/>
+  <cond msgId="129">
+    <and>
+       <player invSize="10"/>
+       <player weight="80"/>
+    </and>
+  </cond>
+</skill>
+<skill id="2538" levels="1" name="Pathfinder Supplies">
+  <!-- Done by L2Emu-RT -->
+  <set name="itemConsumeId" val="10842"/>
+  <set name="itemConsumeCount" val="1"/>
+  <set name="target" val="TARGET_SELF"/>
+  <set name="skillType" val="EXTRACTABLE_COMBO"/>
+  <set name="operateType" val="OP_ACTIVE"/>
+  <cond msgId="129">
+    <and>
+       <player invSize="10"/>
+       <player weight="80"/>
+    </and>
+  </cond>
+</skill>
+<skill id="2539" levels="1" name="Pathfinder Supplies">
+  <!-- Done by L2Emu-RT -->
+  <set name="itemConsumeId" val="10843"/>
+  <set name="itemConsumeCount" val="1"/>
+  <set name="target" val="TARGET_SELF"/>
+  <set name="skillType" val="EXTRACTABLE_COMBO"/>
+  <set name="operateType" val="OP_ACTIVE"/>
+  <cond msgId="129">
+    <and>
+       <player invSize="10"/>
+       <player weight="80"/>
+    </and>
+  </cond>
+</skill>
+<skill id="2540" levels="1" name="Pathfinder Supplies">
+  <!-- Done by L2Emu-RT -->
+  <set name="itemConsumeId" val="10844"/>
+  <set name="itemConsumeCount" val="1"/>
+  <set name="target" val="TARGET_SELF"/>
+  <set name="skillType" val="EXTRACTABLE_COMBO"/>
+  <set name="operateType" val="OP_ACTIVE"/>
+  <cond msgId="129">
+    <and>
+       <player invSize="10"/>
+       <player weight="80"/>
+    </and>
+  </cond>
+</skill>
+<skill id="2541" levels="1" name="Pathfinder Supplies">
+  <!-- Done by L2Emu-RT -->
+  <set name="itemConsumeId" val="10845"/>
+  <set name="itemConsumeCount" val="1"/>
+  <set name="target" val="TARGET_SELF"/>
+  <set name="skillType" val="EXTRACTABLE_COMBO"/>
+  <set name="operateType" val="OP_ACTIVE"/>
+  <cond msgId="129">
+    <and>
+       <player invSize="10"/>
+       <player weight="80"/>
+    </and>
+  </cond>
+</skill>
+<skill id="2542" levels="1" name="Pathfinder Supplies">
+  <!-- Done by L2Emu-RT -->
+  <set name="itemConsumeId" val="10846"/>
+  <set name="itemConsumeCount" val="1"/>
+  <set name="target" val="TARGET_SELF"/>
+  <set name="skillType" val="EXTRACTABLE_COMBO"/>
+  <set name="operateType" val="OP_ACTIVE"/>
+  <cond msgId="129">
+    <and>
+       <player invSize="10"/>
+       <player weight="80"/>
+    </and>
+  </cond>
+</skill>
+<skill id="2543" levels="1" name="Pathfinder Supplies">
+  <!-- Done by L2Emu-RT -->
+  <set name="itemConsumeId" val="10847"/>
+  <set name="itemConsumeCount" val="1"/>
+  <set name="target" val="TARGET_SELF"/>
+  <set name="skillType" val="EXTRACTABLE_COMBO"/>
+  <set name="operateType" val="OP_ACTIVE"/>
+  <cond msgId="129">
+    <and>
+       <player invSize="10"/>
+       <player weight="80"/>
+    </and>
+  </cond>
+</skill>
+<skill id="2544" levels="1" name="Pathfinder Supplies">
+  <!-- Done by L2Emu-RT -->
+  <set name="itemConsumeId" val="10848"/>
+  <set name="itemConsumeCount" val="1"/>
+  <set name="target" val="TARGET_SELF"/>
+  <set name="skillType" val="EXTRACTABLE_COMBO"/>
+  <set name="operateType" val="OP_ACTIVE"/>
+  <cond msgId="129">
+    <and>
+       <player invSize="10"/>
+       <player weight="80"/>
+    </and>
+  </cond>
+</skill>
+<skill id="2545" levels="1" name="Pathfinder Supplies">
+  <!-- Done by L2Emu-RT -->
+  <set name="itemConsumeId" val="10849"/>
+  <set name="itemConsumeCount" val="1"/>
+  <set name="target" val="TARGET_SELF"/>
+  <set name="skillType" val="EXTRACTABLE_COMBO"/>
+  <set name="operateType" val="OP_ACTIVE"/>
+  <cond msgId="129">
+    <and>
+       <player invSize="10"/>
+       <player weight="80"/>
+    </and>
+  </cond>
+</skill>
+<skill id="2546" levels="1" name="Pathfinder Supplies">
+  <!-- Done by L2Emu-RT -->
+  <set name="itemConsumeId" val="10850"/>
+  <set name="itemConsumeCount" val="1"/>
+  <set name="target" val="TARGET_SELF"/>
+  <set name="skillType" val="EXTRACTABLE_COMBO"/>
+  <set name="operateType" val="OP_ACTIVE"/>
+  <cond msgId="129">
+    <and>
+       <player invSize="10"/>
+       <player weight="80"/>
+    </and>
+  </cond>
+</skill>
+<skill id="2547" levels="1" name="Pathfinder Supplies">
+  <!-- Done by L2Emu-RT -->
+  <set name="itemConsumeId" val="10851"/>
+  <set name="itemConsumeCount" val="1"/>
+  <set name="target" val="TARGET_SELF"/>
+  <set name="skillType" val="EXTRACTABLE_COMBO"/>
+  <set name="operateType" val="OP_ACTIVE"/>
+  <cond msgId="129">
+    <and>
+       <player invSize="10"/>
+       <player weight="80"/>
+    </and>
+  </cond>
+</skill>
+<skill id="2548" levels="1" name="Pathfinder Supplies">
+  <!-- Done by L2Emu-RT -->
+  <set name="itemConsumeId" val="10852"/>
+  <set name="itemConsumeCount" val="1"/>
+  <set name="target" val="TARGET_SELF"/>
+  <set name="skillType" val="EXTRACTABLE_COMBO"/>
+  <set name="operateType" val="OP_ACTIVE"/>
+  <cond msgId="129">
+    <and>
+       <player invSize="10"/>
+       <player weight="80"/>
+    </and>
+  </cond>
+</skill>
+<skill id="2549" levels="1" name="Pathfinder Supplies">
+  <!-- Done by L2Emu-RT -->
+  <set name="itemConsumeId" val="10853"/>
+  <set name="itemConsumeCount" val="1"/>
+  <set name="target" val="TARGET_SELF"/>
+  <set name="skillType" val="EXTRACTABLE_COMBO"/>
+  <set name="operateType" val="OP_ACTIVE"/>
+  <cond msgId="129">
+    <and>
+       <player invSize="10"/>
+       <player weight="80"/>
+    </and>
+  </cond>
+</skill>
+<skill id="2550" levels="1" name="Pathfinder Supplies">
+  <!-- Done by L2Emu-RT -->
+  <set name="itemConsumeId" val="10854"/>
+  <set name="itemConsumeCount" val="1"/>
+  <set name="target" val="TARGET_SELF"/>
+  <set name="skillType" val="EXTRACTABLE_COMBO"/>
+  <set name="operateType" val="OP_ACTIVE"/>
+  <cond msgId="129">
+    <and>
+       <player invSize="10"/>
+       <player weight="80"/>
+    </and>
+  </cond>
+</skill>
+<skill id="2551" levels="1" name="Pathfinder Supplies">
+  <!-- Done by L2Emu-RT -->
+  <set name="itemConsumeId" val="10855"/>
+  <set name="itemConsumeCount" val="1"/>
+  <set name="target" val="TARGET_SELF"/>
+  <set name="skillType" val="EXTRACTABLE_COMBO"/>
+  <set name="operateType" val="OP_ACTIVE"/>
+  <cond msgId="129">
+    <and>
+       <player invSize="10"/>
+       <player weight="80"/>
+    </and>
+  </cond>
+</skill>
+<skill id="2552" levels="1" name="Pathfinder Supplies">
+  <!-- Done by L2Emu-RT -->
+  <set name="itemConsumeId" val="10856"/>
+  <set name="itemConsumeCount" val="1"/>
+  <set name="target" val="TARGET_SELF"/>
+  <set name="skillType" val="EXTRACTABLE_COMBO"/>
+  <set name="operateType" val="OP_ACTIVE"/>
+  <cond msgId="129">
+    <and>
+       <player invSize="10"/>
+       <player weight="80"/>
+    </and>
+  </cond>
+</skill>
+<skill id="2553" levels="1" name="Pathfinder Supplies">
+  <!-- Done by L2Emu-RT -->
+  <set name="itemConsumeId" val="10857"/>
+  <set name="itemConsumeCount" val="1"/>
+  <set name="target" val="TARGET_SELF"/>
+  <set name="skillType" val="EXTRACTABLE_COMBO"/>
+  <set name="operateType" val="OP_ACTIVE"/>
+  <cond msgId="129">
+    <and>
+       <player invSize="10"/>
+       <player weight="80"/>
+    </and>
+  </cond>
+</skill>
+<skill id="2554" levels="1" name="Pathfinder Supplies">
+  <!-- Done by L2Emu-RT -->
+  <set name="itemConsumeId" val="10858"/>
+  <set name="itemConsumeCount" val="1"/>
+  <set name="target" val="TARGET_SELF"/>
+  <set name="skillType" val="EXTRACTABLE_COMBO"/>
+  <set name="operateType" val="OP_ACTIVE"/>
+  <cond msgId="129">
+    <and>
+       <player invSize="10"/>
+       <player weight="80"/>
+    </and>
+  </cond>
+</skill>
+<skill id="2555" levels="1" name="Pathfinder Supplies">
+  <!-- Done by L2Emu-RT -->
+  <set name="itemConsumeId" val="10859"/>
+  <set name="itemConsumeCount" val="1"/>
+  <set name="target" val="TARGET_SELF"/>
+  <set name="skillType" val="EXTRACTABLE_COMBO"/>
+  <set name="operateType" val="OP_ACTIVE"/>
+  <cond msgId="129">
+    <and>
+       <player invSize="10"/>
+       <player weight="80"/>
+    </and>
+  </cond>
+</skill>
+<skill id="2556" levels="1" name="Pathfinder Supplies">
+  <!-- Done by L2Emu-RT -->
+  <set name="itemConsumeId" val="10860"/>
+  <set name="itemConsumeCount" val="1"/>
+  <set name="target" val="TARGET_SELF"/>
+  <set name="skillType" val="EXTRACTABLE_COMBO"/>
+  <set name="operateType" val="OP_ACTIVE"/>
+  <cond msgId="129">
+    <and>
+       <player invSize="10"/>
+       <player weight="80"/>
+    </and>
+  </cond>
+</skill>
+<skill id="2557" levels="1" name="Pathfinder Supplies">
+  <!-- Done by L2Emu-RT -->
+  <set name="itemConsumeId" val="10861"/>
+  <set name="itemConsumeCount" val="1"/>
+  <set name="target" val="TARGET_SELF"/>
+  <set name="skillType" val="EXTRACTABLE_COMBO"/>
+  <set name="operateType" val="OP_ACTIVE"/>
+  <cond msgId="129">
+    <and>
+       <player invSize="10"/>
+       <player weight="80"/>
+    </and>
+  </cond>
+</skill>
+<skill id="2558" levels="1" name="Pathfinder Supplies">
+  <!-- Done by L2Emu-RT -->
+  <set name="itemConsumeId" val="10862"/>
+  <set name="itemConsumeCount" val="1"/>
+  <set name="target" val="TARGET_SELF"/>
+  <set name="skillType" val="EXTRACTABLE_COMBO"/>
+  <set name="operateType" val="OP_ACTIVE"/>
+  <cond msgId="129">
+    <and>
+       <player invSize="10"/>
+       <player weight="80"/>
+    </and>
+  </cond>
+</skill>
+<skill id="2559" levels="1" name="Pathfinder Supplies">
+  <!-- Done by L2Emu-RT -->
+  <set name="itemConsumeId" val="10863"/>
+  <set name="itemConsumeCount" val="1"/>
+  <set name="target" val="TARGET_SELF"/>
+  <set name="skillType" val="EXTRACTABLE_COMBO"/>
+  <set name="operateType" val="OP_ACTIVE"/>
+  <cond msgId="129">
+    <and>
+       <player invSize="10"/>
+       <player weight="80"/>
+    </and>
+  </cond>
+</skill>
+<skill id="2560" levels="1" name="Pathfinder Supplies">
+  <!-- Done by L2Emu-RT -->
+  <set name="itemConsumeId" val="10864"/>
+  <set name="itemConsumeCount" val="1"/>
+  <set name="target" val="TARGET_SELF"/>
+  <set name="skillType" val="EXTRACTABLE_COMBO"/>
+  <set name="operateType" val="OP_ACTIVE"/>
+  <cond msgId="129">
+    <and>
+       <player invSize="10"/>
+       <player weight="80"/>
+    </and>
+  </cond>
+</skill>
+<skill id="2561" levels="1" name="Pathfinder Supplies">
+  <!-- Done by L2Emu-RT -->
+  <set name="itemConsumeId" val="10865"/>
+  <set name="itemConsumeCount" val="1"/>
+  <set name="target" val="TARGET_SELF"/>
+  <set name="skillType" val="EXTRACTABLE_COMBO"/>
+  <set name="operateType" val="OP_ACTIVE"/>
+  <cond msgId="129">
+    <and>
+       <player invSize="10"/>
+       <player weight="80"/>
+    </and>
+  </cond>
+</skill>
+<skill id="2562" levels="1" name="Pathfinder Supplies">
+  <!-- Done by L2Emu-RT -->
+  <set name="itemConsumeId" val="12824"/>
+  <set name="itemConsumeCount" val="1"/>
+  <set name="target" val="TARGET_SELF"/>
+  <set name="skillType" val="EXTRACTABLE_COMBO"/>
+  <set name="operateType" val="OP_ACTIVE"/>
+  <cond msgId="129">
+    <and>
+       <player invSize="10"/>
+       <player weight="80"/>
+    </and>
+  </cond>
+</skill>
+<skill id="2563" levels="1" name="Pathfinder Supplies">
+  <!-- Done by L2Emu-RT -->
+  <set name="itemConsumeId" val="12825"/>
+  <set name="itemConsumeCount" val="1"/>
+  <set name="target" val="TARGET_SELF"/>
+  <set name="skillType" val="EXTRACTABLE_COMBO"/>
+  <set name="operateType" val="OP_ACTIVE"/>
+  <cond msgId="129">
+    <and>
+       <player invSize="10"/>
+       <player weight="80"/>
+    </and>
+  </cond>
+</skill>
+<skill id="2564" levels="1" name="Pathfinder Supplies">
+  <!-- Done by L2Emu-RT -->
+  <set name="itemConsumeId" val="12826"/>
+  <set name="itemConsumeCount" val="1"/>
+  <set name="target" val="TARGET_SELF"/>
+  <set name="skillType" val="EXTRACTABLE_COMBO"/>
+  <set name="operateType" val="OP_ACTIVE"/>
+  <cond msgId="129">
+    <and>
+       <player invSize="10"/>
+       <player weight="80"/>
+    </and>
+  </cond>
+</skill>
+<skill id="2565" levels="1" name="Pathfinder Supplies">
+  <!-- Done by L2Emu-RT -->
+  <set name="itemConsumeId" val="12827"/>
+  <set name="itemConsumeCount" val="1"/>
+  <set name="target" val="TARGET_SELF"/>
+  <set name="skillType" val="EXTRACTABLE_COMBO"/>
+  <set name="operateType" val="OP_ACTIVE"/>
+  <cond msgId="129">
+    <and>
+       <player invSize="10"/>
+       <player weight="80"/>
+    </and>
+  </cond>
+</skill>
+<skill id="2566" levels="1" name="Pathfinder Supplies">
+  <!-- Done by L2Emu-RT -->
+  <set name="itemConsumeId" val="12828"/>
+  <set name="itemConsumeCount" val="1"/>
+  <set name="target" val="TARGET_SELF"/>
+  <set name="skillType" val="EXTRACTABLE_COMBO"/>
+  <set name="operateType" val="OP_ACTIVE"/>
+  <cond msgId="129">
+    <and>
+       <player invSize="10"/>
+       <player weight="80"/>
+    </and>
+  </cond>
+</skill>
+<skill id="2567" levels="1" name="Pathfinder Supplies">
+  <!-- Done by L2Emu-RT -->
+  <set name="itemConsumeId" val="12829"/>
+  <set name="itemConsumeCount" val="1"/>
+  <set name="target" val="TARGET_SELF"/>
+  <set name="skillType" val="EXTRACTABLE_COMBO"/>
+  <set name="operateType" val="OP_ACTIVE"/>
+  <cond msgId="129">
+    <and>
+       <player invSize="10"/>
+       <player weight="80"/>
+    </and>
+  </cond>
+</skill>
+<skill id="2568" levels="1" name="Pathfinder Supplies">
+  <!-- Done by L2Emu-RT -->
+  <set name="itemConsumeId" val="12830"/>
+  <set name="itemConsumeCount" val="1"/>
+  <set name="target" val="TARGET_SELF"/>
+  <set name="skillType" val="EXTRACTABLE_COMBO"/>
+  <set name="operateType" val="OP_ACTIVE"/>
+  <cond msgId="129">
+    <and>
+       <player invSize="10"/>
+       <player weight="80"/>
+    </and>
+  </cond>
+</skill>
+<skill id="2569" levels="1" name="Pathfinder Supplies">
+  <!-- Done by L2Emu-RT -->
+  <set name="itemConsumeId" val="12831"/>
+  <set name="itemConsumeCount" val="1"/>
+  <set name="target" val="TARGET_SELF"/>
+  <set name="skillType" val="EXTRACTABLE_COMBO"/>
+  <set name="operateType" val="OP_ACTIVE"/>
+  <cond msgId="129">
+    <and>
+       <player invSize="10"/>
+       <player weight="80"/>
+    </and>
+  </cond>
+</skill>
+<skill id="2570" levels="1" name="Pathfinder Supplies">
+  <!-- Done by L2Emu-RT -->
+  <set name="itemConsumeId" val="12832"/>
+  <set name="itemConsumeCount" val="1"/>
+  <set name="target" val="TARGET_SELF"/>
+  <set name="skillType" val="EXTRACTABLE_COMBO"/>
+  <set name="operateType" val="OP_ACTIVE"/>
+  <cond msgId="129">
+    <and>
+       <player invSize="10"/>
+       <player weight="80"/>
+    </and>
+  </cond>
+</skill>
+<skill id="2571" levels="1" name="Pathfinder Supplies">
+  <!-- Done by L2Emu-RT -->
+  <set name="itemConsumeId" val="12833"/>
+  <set name="itemConsumeCount" val="1"/>
+  <set name="target" val="TARGET_SELF"/>
+  <set name="skillType" val="EXTRACTABLE_COMBO"/>
+  <set name="operateType" val="OP_ACTIVE"/>
+  <cond msgId="129">
+    <and>
+       <player invSize="10"/>
+       <player weight="80"/>
+    </and>
+  </cond>
+</skill>
+<skill id="2572" levels="1" name="Pathfinder's Reward">
+  <set name="itemConsumeId" val="13003"/>
+  <set name="itemConsumeCount" val="1"/>
+  <set name="target" val="TARGET_SELF"/>
+  <set name="skillType" val="EXTRACTABLE"/>
+  <set name="operateType" val="OP_ACTIVE"/>
+  <cond msgId="129">
+    <and>
+       <player invSize="10"/>
+       <player weight="80"/>
+    </and>
+  </cond>
+</skill>
+<skill id="2573" levels="1" name="Pathfinder's Reward">
+  <set name="itemConsumeId" val="13004"/>
+  <set name="itemConsumeCount" val="1"/>
+  <set name="target" val="TARGET_SELF"/>
+  <set name="skillType" val="EXTRACTABLE"/>
+  <set name="operateType" val="OP_ACTIVE"/>
+  <cond msgId="129">
+    <and>
+       <player invSize="10"/>
+       <player weight="80"/>
+    </and>
+  </cond>
+</skill>
+<skill id="2574" levels="1" name="Pathfinder's Reward">
+  <set name="itemConsumeId" val="13005"/>
+  <set name="itemConsumeCount" val="1"/>
+  <set name="target" val="TARGET_SELF"/>
+  <set name="skillType" val="EXTRACTABLE"/>
+  <set name="operateType" val="OP_ACTIVE"/>
+  <cond msgId="129">
+    <and>
+       <player invSize="10"/>
+       <player weight="80"/>
+    </and>
+  </cond>
+</skill>
+<skill id="2575" levels="1" name="Pathfinder's Reward">
+  <set name="itemConsumeId" val="13006"/>
+  <set name="itemConsumeCount" val="1"/>
+  <set name="target" val="TARGET_SELF"/>
+  <set name="skillType" val="EXTRACTABLE"/>
+  <set name="operateType" val="OP_ACTIVE"/>
+  <cond msgId="129">
+    <and>
+       <player invSize="10"/>
+       <player weight="80"/>
+    </and>
+  </cond>
+</skill>
+<skill id="2576" levels="1" name="Pathfinder's Reward">
+  <set name="itemConsumeId" val="13007"/>
+  <set name="itemConsumeCount" val="1"/>
+  <set name="target" val="TARGET_SELF"/>
+  <set name="skillType" val="EXTRACTABLE"/>
+  <set name="operateType" val="OP_ACTIVE"/>
+  <cond msgId="129">
+    <and>
+       <player invSize="10"/>
+       <player weight="80"/>
+    </and>
+  </cond>
+</skill>
+<skill id="2577" levels="1" name="Instant Defense">
+  <set name="target" val="TARGET_SELF"/>
+  <set name="skillType" val="BUFF"/>
+  <set name="operateType" val="OP_ACTIVE"/>
+  <set name="isMagic" val="true"/>
+  <set name="reuseDelay" val="10000"/>
+  <set name="buffDuration" val="5000"/>
+  <for>
+    <effect count="1" name="Invincible" time="5" val="0" stackOrder="1" stackType="Instant_Shield"/>
+  </for>
+</skill>
+<skill id="2578" levels="1" name="Cure Poison Paralyze">
+  <set name="target" val="TARGET_NONE"/>
+  <set name="skillType" val="NOTDONE"/>
+  <set name="operateType" val="OP_PASSIVE"/>
+</skill>
+<skill id="2579" levels="1" name="Cure Death Clock">
+  <set name="target" val="TARGET_NONE"/>
+  <set name="skillType" val="NOTDONE"/>
+  <set name="operateType" val="OP_PASSIVE"/>
+</skill>
+<skill id="2580" levels="1" name="Vitality Replenishing Herb">
+  <set name="hitTime" val="100"/>
+  <set name="target" val="TARGET_SELF"/>
+  <set name="skillType" val="BUFF"/>
+  <set name="operateType" val="OP_ACTIVE"/>
+  <set name="isPotion" val="true"/>
+  <set name="buffDuration" val="300000"/>
+  <for>
+    <effect count="1" name="VitalityFlame" time="300" val="0"/>
+  </for>
+</skill>
+<skill id="2581" levels="1" name="not_used">
+  <set name="target" val="TARGET_NONE"/>
+  <set name="skillType" val="NOTDONE"/>
+  <set name="operateType" val="OP_PASSIVE"/>
+</skill>
+<skill id="2582" levels="1" name="not_used">
+  <set name="target" val="TARGET_NONE"/>
+  <set name="skillType" val="NOTDONE"/>
+  <set name="operateType" val="OP_PASSIVE"/>
+</skill>
+<skill id="2583" levels="1" name="not_used">
+  <set name="target" val="TARGET_NONE"/>
+  <set name="skillType" val="NOTDONE"/>
+  <set name="operateType" val="OP_PASSIVE"/>
+</skill>
+<skill id="2584" levels="1" name="Item - Special Sound Crystal">
+  <set name="target" val="TARGET_SELF"/>
+  <set name="skillType" val="DUMMY"/>
+  <set name="operateType" val="OP_ACTIVE"/>
+</skill>
+<skill id="2585" levels="1" name="Item - Special Sound Crystal">
+  <set name="target" val="TARGET_SELF"/>
+  <set name="skillType" val="DUMMY"/>
+  <set name="operateType" val="OP_ACTIVE"/>
+</skill>
+<skill id="2586" levels="2" name="Energy Replenishing Potion">
+  <set name="target" val="TARGET_NONE"/>
+  <set name="skillType" val="NOTDONE"/>
+  <set name="operateType" val="OP_PASSIVE"/>
+</skill>
+<skill id="2587" levels="1" name="Increase number of teleport slots">
+  <set name="target" val="TARGET_NONE"/>
+  <set name="skillType" val="NOTDONE"/>
+  <set name="operateType" val="OP_PASSIVE"/>
+</skill>
+<skill id="2588" levels="1" name="My Teleport">
+  <set name="target" val="TARGET_NONE"/>
+  <set name="skillType" val="NOTDONE"/>
+  <set name="operateType" val="OP_PASSIVE"/>
+  <set name="hitTime" val="20000"/>
+</skill>
+<skill id="2589" levels="1" name="Extra Entrance Pass - Kamaloka (Hall of the Abyss)">
+  <set name="target" val="TARGET_NONE"/>
+  <set name="skillType" val="NOTDONE"/>
+  <set name="operateType" val="OP_PASSIVE"/>
+</skill>
+<skill id="2590" levels="1" name="Extra Entrance Pass - Near Kamaloka">
+  <set name="target" val="TARGET_NONE"/>
+  <set name="skillType" val="NOTDONE"/>
+  <set name="operateType" val="OP_PASSIVE"/>
+</skill>
+<skill id="2591" levels="1" name="Extra Entrance Pass - Kamaloka (Labyrinth of the Abyss)">
+  <set name="target" val="TARGET_NONE"/>
+  <set name="skillType" val="NOTDONE"/>
+  <set name="operateType" val="OP_PASSIVE"/>
+</skill>
+<skill id="2592" levels="1" name="Quick Healing Potion">
+  <set name="power" val="435"/>
+  <set name="target" val="TARGET_SELF"/>
+  <set name="skillType" val="HEAL_STATIC"/>
+  <set name="operateType" val="OP_ACTIVE"/>
+  <set name="isPotion" val="true"/>
+</skill>
+<skill id="2593" levels="1" name="Bow/Crossbow Attack Resistance Potion">
+  <set name="target" val="TARGET_SELF"/>
+  <set name="skillType" val="BUFF"/>
+  <set name="operateType" val="OP_ACTIVE"/>
+  <set name="isPotion" val="true"/>
+  <set name="buffDuration" val="300000"/>
+  <for>
+    <effect count="1" name="Buff" time="300" val="0" stackOrder="1" stackType="deflect">
+      <mul order="0x30" stat="bowWpnVuln" val="0.6"/>
+      <mul order="0x30" stat="crossbowWpnVuln" val="0.8"/>
+    </effect>
+  </for>
+</skill>
+<skill id="2594" levels="1" name="Pailaka Scroll of Escape">
+  <set name="target" val="TARGET_SELF"/>
+  <set name="hitTime" val="20000"/>
+  <set name="staticHitTime" val="true"/>
+  <set name="skillType" val="RECALL"/>
+  <set name="operateType" val="OP_ACTIVE"/>
+</skill>
+<skill id="2595" levels="1" name="Gran Kain's Blessed Scroll of Escape">
+  <set name="target" val="TARGET_SELF"/>
+  <set name="hitTime" val="200"/>
+  <set name="staticHitTime" val="true"/>
+  <set name="skillType" val="RECALL"/>
+  <set name="operateType" val="OP_ACTIVE"/>
+</skill>
+<skill id="2596" levels="1" name="Gran Kain's Blessed Scroll of Resurrection">
+  <set name="power" val="100"/>
+  <set name="target" val="TARGET_CORPSE_PLAYER"/>
+  <set name="hitTime" val="3000"/>
+  <set name="staticHitTime" val="true"/>
+  <set name="skillType" val="RESURRECT"/>
+  <set name="operateType" val="OP_ACTIVE"/>
+  <set name="castRange" val="400"/>
+  <set name="effectRange" val="600"/>
+  <cond msgId="113" addName="1">
+    <player SiegeZone="15"/>
+  </cond>
+</skill>
+<skill id="2597" levels="1" name="Gran Kain's Echo Crystal - Theme of Journey">
+  <set name="target" val="TARGET_SELF"/>
+  <set name="skillType" val="DUMMY"/>
+  <set name="operateType" val="OP_ACTIVE"/>
+</skill>
+<skill id="2598" levels="1" name="Gran Kain's Echo Crystal - Theme of Battle">
+  <set name="target" val="TARGET_SELF"/>
+  <set name="skillType" val="DUMMY"/>
+  <set name="operateType" val="OP_ACTIVE"/>
+</skill>
+<skill id="2599" levels="1" name="Gran Kain's Echo Crystal - Theme of Love">
+  <set name="target" val="TARGET_SELF"/>
+  <set name="skillType" val="DUMMY"/>
+  <set name="operateType" val="OP_ACTIVE"/>
+</skill>
+</list>

@@ -1,0 +1,5111 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<list>
+  <etc id="8000" name="Dawn Mercenary Posting Ticket (Bow/Stationary)" itemType="Scroll" >
+   <set icon="icon.mticket_bow_fix_i00"/>
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="8001" name="Dawn Mercenary Posting Ticket (Cleric/Stationary)" itemType="Scroll" >
+   <set icon="icon.mticket_cleric_fix_i00"/>
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="8002" name="Dawn Mercenary Posting Ticket (Wizard/Stationary)" itemType="Scroll" >
+   <set icon="icon.mticket_wizard_fix_i00"/>
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="8003" name="Dawn Mercenary Posting Ticket (Sword/Mobile)" itemType="Scroll" >
+   <set icon="icon.mticket_sword_move_i00"/>
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="8004" name="Dawn Mercenary Posting Ticket (Spear/Mobile)" itemType="Scroll" >
+   <set icon="icon.mticket_pole_move_i00"/>
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="8005" name="Dawn Mercenary Posting Ticket (Bow/Mobile)" itemType="Scroll" >
+   <set icon="icon.mticket_bow_move_i00"/>
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="8006" name="Dawn Mercenary Posting Ticket (Cleric/Mobile)" itemType="Scroll" >
+   <set icon="icon.mticket_cleric_move_i00"/>
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="8007" name="Dawn Mercenary Posting Ticket (Wizard/Mobile)" itemType="Scroll" >
+   <set icon="icon.mticket_wizard_move_i00"/>
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="8008" name="Greater Recruit Posting Ticket (Sword/Stationary)" itemType="Scroll" >
+   <set icon="icon.mticket_sword_fix_i00"/>
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="8009" name="Greater Recruit Posting Ticket (Spear/Stationary)" itemType="Scroll" >
+   <set icon="icon.mticket_pole_fix_i00"/>
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="8010" name="Greater Recruit Posting Ticket (Bow/Stationary)" itemType="Scroll" >
+   <set icon="icon.mticket_bow_fix_i00"/>
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="8011" name="Greater Recruit Posting Ticket (Cleric/Stationary)" itemType="Scroll" >
+   <set icon="icon.mticket_cleric_fix_i00"/>
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="8012" name="Greater Recruit Posting Ticket (Wizard/Stationary)" itemType="Scroll" >
+   <set icon="icon.mticket_wizard_fix_i00"/>
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="8013" name="Greater Recruit Posting Ticket (Sword/Mobile)" itemType="Scroll" >
+   <set icon="icon.mticket_sword_move_i00"/>
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="8014" name="Greater Recruit Posting Ticket (Spear/Mobile)" itemType="Scroll" >
+   <set icon="icon.mticket_pole_move_i00"/>
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="8015" name="Greater Recruit Posting Ticket (Bow/Mobile)" itemType="Scroll" >
+   <set icon="icon.mticket_bow_move_i00"/>
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="8016" name="Greater Recruit Posting Ticket (Cleric/Mobile)" itemType="Scroll" >
+   <set icon="icon.mticket_cleric_move_i00"/>
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="8017" name="Greater Recruit Posting Ticket (Wizard/Mobile)" itemType="Scroll" >
+   <set icon="icon.mticket_wizard_move_i00"/>
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="8018" name="Recruit Posting Ticket (Sword/Stationary)" itemType="Scroll" >
+   <set icon="icon.mticket_sword_fix_i00"/>
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="8019" name="Recruit Posting Ticket (Spear/Stationary)" itemType="Scroll" >
+   <set icon="icon.mticket_pole_fix_i00"/>
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="8020" name="Recruit Posting Ticket (Bow/Stationary)" itemType="Scroll" >
+   <set icon="icon.mticket_bow_fix_i00"/>
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="8021" name="Recruit Posting Ticket (Cleric/Stationary)" itemType="Scroll" >
+   <set icon="icon.mticket_cleric_fix_i00"/>
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="8022" name="Recruit Posting Ticket (Wizard/Stationary)" itemType="Scroll" >
+   <set icon="icon.mticket_wizard_fix_i00"/>
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="8023" name="Recruit Posting Ticket (Sword/Mobile)" itemType="Scroll" >
+   <set icon="icon.mticket_sword_move_i00"/>
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="8024" name="Recruit Posting Ticket (Spear/Mobile)" itemType="Scroll" >
+   <set icon="icon.mticket_pole_move_i00"/>
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="8025" name="Recruit Posting Ticket (Bow/Mobile)" itemType="Scroll" >
+   <set icon="icon.mticket_bow_move_i00"/>
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="8026" name="Recruit Posting Ticket (Cleric/Mobile)" itemType="Scroll" >
+   <set icon="icon.mticket_cleric_move_i00"/>
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="8027" name="Recruit Posting Ticket (Wizard/Mobile)" itemType="Scroll" >
+   <set icon="icon.mticket_wizard_move_i00"/>
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="8028" name="Nephilim Warrior Posting Ticket" itemType="Scroll" >
+   <set icon="icon.mticket_sword_move_i00"/>
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="8029" name="Nephilim Shaman Posting Ticket" itemType="Other" >
+   <set icon="icon.mticket_wizard_move_i00"/>
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="8030" name="Hot Spring Nectar" itemType="Quest" >
+   <set icon="icon.etc_hot_spring_nectar_i00"/>
+   <set stackable="true"/>
+   <set sellable="false" tradeable="false" />
+   <set dropable="false" destroyable="true"/>
+  </etc>
+  <etc id="8031" name="Hot Spring Mineral Water" itemType="Other" >
+   <set icon="icon.etc_hot_spring_mineral_i00"/>
+   <set stackable="true"/>
+   <set sellable="false" tradeable="false" />
+   <set dropable="false" destroyable="true"/>
+  </etc>
+  <etc id="8032" name="Hot Spring Water" itemType="Quest" >
+   <set icon="icon.etc_hot_spring_fountain_i00"/>
+   <set stackable="true"/>
+   <set sellable="false" tradeable="false" />
+   <set dropable="false" destroyable="true"/>
+  </etc>
+  <etc id="8033" name="Hot Spring Sulfur" itemType="Quest" >
+   <set icon="icon.etc_hot_spring_sulfur_i00"/>
+   <set stackable="true"/>
+   <set sellable="false" tradeable="false" />
+   <set dropable="false" destroyable="true"/>
+  </etc>
+  <etc id="8034" name="Rainbow Springs Clan Hall War Decree" itemType="Other" >
+   <set icon="icon.etc_hs_agit_war_joining_certificate_i00"/>
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="8035" name="Hot Spring Letter A" itemType="Other" >
+   <set icon="icon.etc_alphabet_a_i00"/>
+   <set stackable="true"/>
+   <set sellable="false" tradeable="false" />
+   <set dropable="false" destroyable="true"/>
+  </etc>
+  <etc id="8036" name="Hot Spring Letter B" itemType="Other" >
+   <set icon="icon.etc_alphabet_b_i00"/>
+   <set stackable="true"/>
+   <set sellable="false" tradeable="false" />
+   <set dropable="false" destroyable="true"/>
+  </etc>
+  <etc id="8037" name="Hot Spring Letter C" itemType="Other" >
+   <set icon="icon.etc_alphabet_c_i00"/>
+   <set stackable="true"/>
+   <set sellable="false" tradeable="false" />
+   <set dropable="false" destroyable="true"/>
+  </etc>
+  <etc id="8038" name="Hot Spring Letter D" itemType="Other" >
+   <set icon="icon.etc_alphabet_d_i00"/>
+   <set stackable="true"/>
+   <set sellable="false" tradeable="false" />
+   <set dropable="false" destroyable="true"/>
+  </etc>
+  <etc id="8039" name="Hot Spring Letter E" itemType="Other" >
+   <set icon="icon.etc_alphabet_e_i00"/>
+   <set stackable="true"/>
+   <set sellable="false" tradeable="false" />
+   <set dropable="false" destroyable="true"/>
+  </etc>
+  <etc id="8040" name="Hot Spring Letter F" itemType="Other" >
+   <set icon="icon.etc_alphabet_f_i00"/>
+   <set stackable="true"/>
+   <set sellable="false" tradeable="false" />
+   <set dropable="false" destroyable="true"/>
+  </etc>
+  <etc id="8041" name="Hot Spring Letter G" itemType="Other" >
+   <set icon="icon.etc_alphabet_g_i00"/>
+   <set stackable="true"/>
+   <set sellable="false" tradeable="false" />
+   <set dropable="false" destroyable="true"/>
+  </etc>
+  <etc id="8042" name="Hot Spring Letter H" itemType="Other" >
+   <set icon="icon.etc_alphabet_h_i00"/>
+   <set stackable="true"/>
+   <set sellable="false" tradeable="false" />
+   <set dropable="false" destroyable="true"/>
+  </etc>
+  <etc id="8043" name="Hot Spring Letter I" itemType="Other" >
+   <set icon="icon.etc_alphabet_i_i00"/>
+   <set stackable="true"/>
+   <set sellable="false" tradeable="false" />
+   <set dropable="false" destroyable="true"/>
+  </etc>
+  <etc id="8044" name="Hot Spring Letter J" itemType="Other" >
+   <set icon="icon.skill4416_etc"/>
+   <set stackable="true"/>
+   <set sellable="false" tradeable="false" />
+   <set dropable="false" destroyable="true"/>
+  </etc>
+  <etc id="8045" name="Hot Spring Letter K" itemType="Other" >
+   <set icon="icon.etc_alphabet_k_i00"/>
+   <set stackable="true"/>
+   <set sellable="false" tradeable="false" />
+   <set dropable="false" destroyable="true"/>
+  </etc>
+  <etc id="8046" name="Hot Spring Letter L" itemType="Other" >
+   <set icon="icon.etc_alphabet_l_i00"/>
+   <set stackable="true"/>
+   <set sellable="false" tradeable="false" />
+   <set dropable="false" destroyable="true"/>
+  </etc>
+  <etc id="8047" name="Hot Spring Letter N" itemType="Other" >
+   <set icon="icon.etc_alphabet_n_i00"/>
+   <set stackable="true"/>
+   <set sellable="false" tradeable="false" />
+   <set dropable="false" destroyable="true"/>
+  </etc>
+  <etc id="8048" name="Hot Spring Letter O" itemType="Other" >
+   <set icon="icon.etc_alphabet_o_i00"/>
+   <set stackable="true"/>
+   <set sellable="false" tradeable="false" />
+   <set dropable="false" destroyable="true"/>
+  </etc>
+  <etc id="8049" name="Hot Spring Letter P" itemType="Other" >
+   <set icon="icon.etc_alphabet_p_i00"/>
+   <set stackable="true"/>
+   <set sellable="false" tradeable="false" />
+   <set dropable="false" destroyable="true"/>
+  </etc>
+  <etc id="8050" name="Hot Spring Letter R" itemType="Other" >
+   <set icon="icon.etc_alphabet_r_i00"/>
+   <set stackable="true"/>
+   <set sellable="false" tradeable="false" />
+   <set dropable="false" destroyable="true"/>
+  </etc>
+  <etc id="8051" name="Hot Spring Letter S" itemType="Other" >
+   <set icon="icon.etc_alphabet_s_i00"/>
+   <set stackable="true"/>
+   <set sellable="false" tradeable="false" />
+   <set dropable="false" destroyable="true"/>
+  </etc>
+  <etc id="8052" name="Hot Spring letter T" itemType="Other" >
+   <set icon="icon.etc_alphabet_t_i00"/>
+   <set stackable="true"/>
+   <set sellable="false" tradeable="false" />
+   <set dropable="false" destroyable="true"/>
+  </etc>
+  <etc id="8053" name="Hot Spring Letter U" itemType="Other" >
+   <set icon="icon.etc_alphabet_u_i00"/>
+   <set stackable="true"/>
+   <set sellable="false" tradeable="false" />
+   <set dropable="false" destroyable="true"/>
+  </etc>
+  <etc id="8054" name="Hot Spring Letter W" itemType="Other" >
+   <set icon="icon.etc_alphabet_w_i00"/>
+   <set stackable="true"/>
+   <set sellable="false" tradeable="false" />
+   <set dropable="false" destroyable="true"/>
+  </etc>
+  <etc id="8055" name="Hot Spring Letter Y" itemType="Other" >
+   <set icon="icon.etc_alphabet_y_i00"/>
+   <set stackable="true"/>
+   <set sellable="false" tradeable="false" />
+   <set dropable="false" destroyable="true"/>
+  </etc>
+  <etc id="8056" name="Key of Splendor Room" itemType="Other" >
+   <set icon="icon.etc_old_key_i03"/>
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="8057" name="Silver Hemocyte" itemType="Other" >
+   <set icon="icon.etc_lesser_potion_clear_i00"/>
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="8058" name="Lockup Research Report" itemType="Quest" >
+   <set icon="icon.etc_magic_book_blue_i00"/>
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="8059" name="Research Report" itemType="Other" >
+   <set icon="icon.etc_magic_book_blue_i00"/>
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="8060" name="Key of Enigma" itemType="Other" >
+   <set icon="icon.etc_key_i00"/>
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="8061" name="Scribbled Memo" itemType="Quest" >
+   <set icon="icon.etc_memopad_i00"/>
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="8062" name="Blood of Maille Lizardman" itemType="Quest" >
+   <set icon="icon.etc_lesser_potion_purple_i00"/>
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="8063" name="Leg of King Araneid" itemType="Quest" >
+   <set icon="icon.etc_sting_b_i00"/>
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="8064" name="Visitor's Mark" itemType="Quest" >
+   <set icon="icon.etc_red_rose_i00"/>
+   <set stackable="true"/>
+   <set sellable="false" tradeable="false" />
+   <set dropable="false" destroyable="true"/>
+  </etc>
+  <etc id="8065" name="Faded Visitor's Mark" itemType="Quest" >
+   <set icon="icon.etc_white_rose_i00"/>
+   <set stackable="true"/>
+   <set sellable="false" tradeable="false" />
+   <set dropable="false" destroyable="true"/>
+  </etc>
+  <etc id="8066" name="Necromancer's Heart" itemType="Quest" >
+   <set icon="icon.etc_bodypart_heart_i00"/>
+   <set stackable="true"/>
+   <set sellable="false" tradeable="false" />
+   <set dropable="false" destroyable="true"/>
+  </etc>
+  <etc id="8067" name="Pagan's Mark" itemType="Quest" >
+   <set icon="icon.etc_totem_necklace_red_i00"/>
+   <set stackable="true"/>
+   <set sellable="false" tradeable="false" />
+   <set dropable="false" destroyable="true"/>
+  </etc>
+  <etc id="8068" name="Pagan Totem" itemType="Quest" >
+   <set icon="icon.etc_totem_necklace_green_i00"/>
+   <set stackable="true"/>
+   <set sellable="false" tradeable="false" />
+   <set dropable="false" destroyable="false"/>
+  </etc>
+  <etc id="8069" name="Monk's Scripture" itemType="Quest" >
+   <set icon="icon.etc_magic_book_white_i00"/>
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="8070" name="Water Bottle" itemType="Quest" >
+   <set icon="icon.etc_potion_yellow_i00"/>
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="8071" name="Bottle of water from the Holy Grail" itemType="Quest" >
+   <set icon="icon.etc_potion_yellow_i00"/>
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="8072" name="Antelope Skin" itemType="Quest" >
+   <set icon="icon.etc_leather_brown_i00"/>
+   <set stackable="true"/>
+   <set sellable="false" tradeable="false" />
+   <set dropable="false" destroyable="true"/>
+  </etc>
+  <etc id="8073" name="Frintezza's Magic Force Field Removal Scroll" itemType="Quest" >
+   <set icon="icon.etc_scroll_gray_i00"/>
+   <set stackable="true"/>
+   <set sellable="false" tradeable="false" />
+   <set dropable="false" destroyable="true"/>
+  </etc>
+  <etc id="8074" name="Watching Eyes" itemType="Quest" >
+   <set icon="icon.etc_eyeball_i00"/>
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="8075" name="Roughly Hewn Rock Golem Shard" itemType="Quest" >
+   <set icon="icon.etc_debris_i00"/>
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="8076" name="Delu Lizardman's Scale" itemType="Quest" >
+   <set icon="icon.etc_scale_of_medusa_green_i00"/>
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="8077" name="Silver Ice Crystal" itemType="Quest" >
+   <set icon="icon.etc_broken_crystal_silver_i00"/>
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="8078" name="Black Ice Crystal" itemType="Quest" >
+   <set icon="icon.etc_gem_black_i00"/>
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="8079" name="Misa's Letter" itemType="Quest" >
+   <set icon="icon.etc_letter_red_i00"/>
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="8080" name="Rafforty's Letter" itemType="Quest" >
+   <set icon="icon.etc_letter_envelope_i00"/>
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="8081" name="Piece of Tablet" itemType="Quest" >
+   <set icon="icon.etc_broken_tablet_fragment_i00"/>
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="8082" name="Report Piece" itemType="Quest" >
+   <set icon="icon.etc_piece_of_report_i00"/>
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="8083" name="Scout's Memo" itemType="Quest" >
+   <set icon="icon.etc_piece_of_report_i00"/>
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="8084" name="Crystal of Purity" itemType="Other" >
+   <set icon="icon.etc_crystal_ball_white_i00"/>
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="8085" name="Fang of Stakato" itemType="Quest" >
+   <set icon="icon.etc_fang_red_i00"/>
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="8086" name="Box Containing the Fire of Holy Spirit" itemType="Quest" >
+   <set icon="icon.etc_jewel_box_i00"/>
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="8087" name="Cursed Doll" itemType="Other" >
+   <set icon="icon.etc_totem_red_i00"/>
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="8088" name="Orc Grave Goods" itemType="Other" >
+   <set icon="icon.etc_orcish_talisman_i00"/>
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="8089" name="Cursed Grave Goods" itemType="Other" >
+   <set icon="icon.etc_totem_black_i00"/>
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="8090" name="Electric Wave Detector" itemType="Other" >
+   <set icon="icon.weapon_the_staff_of_hero_i00"/>
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="8091" name="Electric Wave Detector" itemType="Other" >
+   <set icon="icon.weapon_the_staff_of_hero_i01"/>
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="8092" name="Telescope Golem's Corpse" itemType="Other" >
+   <set icon="icon.etc_debris_i00"/>
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="8093" name="Golem's Dispatcher" itemType="Other" >
+   <set icon="icon.etc_mechanic_box_i00"/>
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="8094" name="Storage Medium" itemType="Other" >
+   <set icon="icon.etc_calculator_i00"/>
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="8095" name="Storage Medium" itemType="Other" >
+   <set icon="icon.etc_calculator_i00"/>
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="8096" name="Ginzu Golem's Black Box" itemType="Other" >
+   <set icon="icon.etc_mechanic_box_i00"/>
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="8097" name="X-688" itemType="Other" >
+   <set icon="icon.etc_map_ivory_i00"/>
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="8098" name="Supplying Goods for Railroad Worker" itemType="Quest" >
+   <set icon="icon.etc_squares_wood_i00"/>
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="8099" name="Thief Guild's Mark" itemType="Other" >
+   <set icon="icon.etc_fang_ivory_i00"/>
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="8100" name="Destroyed Golem Shards" itemType="Quest" >
+   <set icon="icon.etc_debris_i00"/>
+   <set stackable="true"/>
+   <set sellable="false" tradeable="false" />
+   <set dropable="false" destroyable="true"/>
+  </etc>
+  <etc id="8101" name="Dwarf's Favor" itemType="Other" >
+   <set icon="icon.etc_letter_white_i00"/>
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="8153" name="Adventurer's Guide Book" itemType="Other" >
+   <set icon="icon.etc_spell_books_blue_i00"/>
+   <set price="2000"/>
+   <set stackable="false"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="8154" name="Herb of Life" itemType="Herb" >
+   <set icon="icon.skill4416_etc"/>
+   <set stackable="false"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="8155" name="Herb of Mana" itemType="Herb" >
+   <set icon="icon.skill4416_etc"/>
+   <set stackable="false"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="8156" name="Herb of Power" itemType="Herb" >
+   <set icon="icon.skill4416_etc"/>
+   <set stackable="false"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="8157" name="Herb of Magic" itemType="Herb" >
+   <set icon="icon.skill4416_etc"/>
+   <set stackable="false"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="8158" name="Memento Mori: C-Grade" itemType="Other" >
+   <set icon="icon.etc_raid_a_i02"/>
+   <set price="10000"/>
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="8159" name="Memento Mori: B-Grade" itemType="Other" >
+   <set icon="icon.etc_raid_a_i01"/>
+   <set price="20000"/>
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="8160" name="Memento Mori: A-Grade" itemType="Other" >
+   <set icon="icon.etc_raid_a_i00"/>
+   <set price="50000"/>
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="8161" name="Dragon Heart: C-Grade" itemType="Other" >
+   <set icon="icon.etc_raid_b_i02"/>
+   <set price="10000"/>
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="8162" name="Dragon Heart: B-Grade" itemType="Other" >
+   <set icon="icon.etc_raid_b_i01"/>
+   <set price="20000"/>
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="8163" name="Dragon Heart: A-Grade" itemType="Other" >
+   <set icon="icon.etc_raid_b_i00"/>
+   <set price="50000"/>
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="8164" name="Earth Egg: C-Grade" itemType="Other" >
+   <set icon="icon.etc_raid_c_i02"/>
+   <set price="10000"/>
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="8165" name="Earth Egg: B-Grade" itemType="Other" >
+   <set icon="icon.etc_raid_c_i01"/>
+   <set price="20000"/>
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="8166" name="Earth Egg: A-Grade" itemType="Other" >
+   <set icon="icon.etc_raid_c_i00"/>
+   <set price="50000"/>
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="8167" name="Nonliving Nucleus: C-Grade" itemType="Other" >
+   <set icon="icon.etc_raid_d_i02"/>
+   <set price="10000"/>
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="8168" name="Nonliving Nucleus: B-Grade" itemType="Other" >
+   <set icon="icon.etc_raid_d_i01"/>
+   <set price="20000"/>
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="8169" name="Nonliving Nucleus: A-Grade" itemType="Other" >
+   <set icon="icon.etc_raid_d_i00"/>
+   <set price="50000"/>
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="8170" name="Angelic Essence: C-Grade" itemType="Other" >
+   <set icon="icon.etc_raid_e_i02"/>
+   <set price="10000"/>
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="8171" name="Angelic Essence: B-Grade" itemType="Other" >
+   <set icon="icon.etc_raid_e_i01"/>
+   <set price="20000"/>
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="8172" name="Angelic Essence: A-Grade" itemType="Other" >
+   <set icon="icon.etc_raid_e_i00"/>
+   <set price="50000"/>
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="8173" name="Cradle of Creation: C-Grade (Not used)" itemType="Other" >
+   <set icon="icon.skill4416_etc"/>
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="8174" name="Cradle of Creation: B-Grade (Not used)" itemType="Other" >
+   <set icon="icon.skill4416_etc"/>
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="8175" name="Cradle of Creation" itemType="Other" >
+   <set icon="icon.etc_raid_g_i00"/>
+   <set price="50000"/>
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="8176" name="Destruction Tombstone" itemType="Other" >
+   <set icon="icon.etc_raid_f_i00"/>
+   <set price="10000"/>
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="8192" name="Soul Breaking Arrow" itemType="Other" >
+   <set icon="icon.etc_destory_soul_arrow_i00"/>
+   <set weight="3" />
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="false" destroyable="true"/>
+  </etc>
+  <etc id="8193" name="Fisherman's Potion - Green" itemType="Other" >
+   <set icon="icon.etc_oblivion_green_i00"/>
+   <set weight="100" price="5000"/>
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="8194" name="Fisherman's Potion - Jade" itemType="Other" >
+   <set icon="icon.etc_oblivion_jade_i00"/>
+   <set weight="100" price="5000"/>
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="8195" name="Fisherman's Potion - Blue" itemType="Other" >
+   <set icon="icon.etc_oblivion_blue_i00"/>
+   <set weight="100" price="5000"/>
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="8196" name="Fisherman's Potion - Yellow" itemType="Other" >
+   <set icon="icon.etc_oblivion_yellow_i00"/>
+   <set weight="100" price="5000"/>
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="8197" name="Fisherman's Potion - Orange" itemType="Other" >
+   <set icon="icon.etc_oblivion_orange_i00"/>
+   <set weight="100" price="5000"/>
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="8198" name="Fisherman's Potion - Purple" itemType="Other" >
+   <set icon="icon.etc_oblivion_violet_i00"/>
+   <set weight="100" price="5000"/>
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="8199" name="Fisherman's Potion - Red" itemType="Other" >
+   <set icon="icon.etc_oblivion_red_i00"/>
+   <set weight="100" price="5000"/>
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="8200" name="Fisherman's Potion - White" itemType="Other" >
+   <set icon="icon.etc_oblivion_white_i00"/>
+   <set weight="100" price="5000"/>
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="8201" name="Fisherman's Potion - Black" itemType="Other" >
+   <set icon="icon.etc_oblivion_black_i00"/>
+   <set weight="100" />
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="8202" name="Fishing Potion" itemType="Seed" >
+   <set icon="icon.etc_oblivion_black_i00"/>
+   <set weight="100" price="5000"/>
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="8223" name="Seed: Twin Codran" itemType="Seed" >
+   <set icon="icon.etc_codran_seed_i00"/>
+   <set weight="1" price="50"/>
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="8224" name="Seed: Great Codran" itemType="Seed" >
+   <set icon="icon.etc_codran_seed_i00"/>
+   <set weight="1" price="75"/>
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="8225" name="Seed: Desert Codran" itemType="Seed" >
+   <set icon="icon.etc_codran_seed_i00"/>
+   <set weight="1" price="100"/>
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="8226" name="Seed: Blue Coba" itemType="Seed" >
+   <set icon="icon.etc_blue_coba_seed_i00"/>
+   <set weight="1" price="400"/>
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="8227" name="Seed: Red Coba" itemType="Seed" >
+   <set icon="icon.etc_red_coba_seed_i00"/>
+   <set weight="1" price="500"/>
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="8228" name="Seed: Golden Coba" itemType="Seed" >
+   <set icon="icon.etc_golden_coba_seed_i00"/>
+   <set weight="1" price="650"/>
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="8229" name="Seed: Desert Coba" itemType="Seed" >
+   <set icon="icon.etc_desert_coba_seed_i00"/>
+   <set weight="1" price="750"/>
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="8230" name="Seed: Alternative Twin Codran" itemType="Seed" >
+   <set icon="icon.etc_codran_seed_i00"/>
+   <set weight="1" price="50"/>
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="8231" name="Seed: Alternative Great Codran" itemType="Seed" >
+   <set icon="icon.etc_codran_seed_i00"/>
+   <set weight="1" price="75"/>
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="8232" name="Seed: Alternative Desert Codran" itemType="Seed" >
+   <set icon="icon.etc_codran_seed_i00"/>
+   <set weight="1" price="100"/>
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="8233" name="Seed: Alternative Blue Coba" itemType="Seed" >
+   <set icon="icon.etc_blue_coba_seed_i00"/>
+   <set weight="1" price="400"/>
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="8234" name="Seed: Alternative Red Coba" itemType="Seed" >
+   <set icon="icon.etc_red_coba_seed_i00"/>
+   <set weight="1" price="500"/>
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="8235" name="Seed: Alternative Golden Coba" itemType="Seed" >
+   <set icon="icon.etc_golden_coba_seed_i00"/>
+   <set weight="1" price="650"/>
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="8236" name="Seed: Alternative Desert Coba" itemType="Seed" >
+   <set icon="icon.etc_desert_coba_seed_i00"/>
+   <set weight="1" price="750"/>
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="8237" name="Seed: Dark Coda" itemType="Seed" >
+   <set icon="icon.etc_coda_seed_i00"/>
+   <set weight="1" price="5"/>
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="8238" name="Seed: Red Coda" itemType="Seed" >
+   <set icon="icon.etc_coda_seed_i00"/>
+   <set weight="1" price="5"/>
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="8239" name="Seed: Chilly Coda" itemType="Seed" >
+   <set icon="icon.etc_coda_seed_i00"/>
+   <set weight="1" price="5"/>
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="8240" name="Seed: Blue Coda" itemType="Seed" >
+   <set icon="icon.etc_coda_seed_i00"/>
+   <set weight="1" price="10"/>
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="8241" name="Seed: Golden Coda" itemType="Seed" >
+   <set icon="icon.etc_coda_seed_i00"/>
+   <set weight="1" price="20"/>
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="8242" name="Seed: Lute Coda" itemType="Seed" >
+   <set icon="icon.etc_coda_seed_i00"/>
+   <set weight="1" price="30"/>
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="8243" name="Seed: Desert Coda" itemType="Seed" >
+   <set icon="icon.etc_coda_seed_i00"/>
+   <set weight="1" price="20"/>
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="8244" name="Seed: Red Cobol" itemType="Seed" >
+   <set icon="icon.etc_cobol_seed_i00"/>
+   <set weight="1" price="20"/>
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="8245" name="Seed: Chilly Cobol" itemType="Seed" >
+   <set icon="icon.etc_cobol_seed_i00"/>
+   <set weight="1" price="25"/>
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="8246" name="Seed: Blue Cobol" itemType="Seed" >
+   <set icon="icon.etc_cobol_seed_i00"/>
+   <set weight="1" price="50"/>
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="8247" name="Seed: Thorn Cobol" itemType="Seed" >
+   <set icon="icon.etc_cobol_seed_i00"/>
+   <set weight="1" price="50"/>
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="8248" name="Seed: Golden Cobol" itemType="Seed" >
+   <set icon="icon.etc_cobol_seed_i00"/>
+   <set weight="1" price="50"/>
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="8249" name="Seed: Great Cobol" itemType="Seed" >
+   <set icon="icon.etc_cobol_seed_i00"/>
+   <set weight="1" price="50"/>
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="8250" name="Seed: Red Codran" itemType="Seed" >
+   <set icon="icon.etc_codran_seed_i00"/>
+   <set weight="1" price="40"/>
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="8251" name="Seed: Sea Codran" itemType="Seed" >
+   <set icon="icon.etc_codran_seed_i00"/>
+   <set weight="1" price="50"/>
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="8252" name="Seed: Chilly Codran" itemType="Seed" >
+   <set icon="icon.etc_codran_seed_i00"/>
+   <set weight="1" price="40"/>
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="8253" name="Seed: Blue Codran" itemType="Seed" >
+   <set icon="icon.etc_codran_seed_i00"/>
+   <set weight="1" price="50"/>
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="8254" name="Seed: Twin Codran" itemType="Seed" >
+   <set icon="icon.etc_codran_seed_i00"/>
+   <set weight="1" price="50"/>
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="8255" name="Alternative Dark Coda Seed" itemType="Seed" >
+   <set icon="icon.etc_coda_seed_i00"/>
+   <set weight="1" price="5"/>
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="8256" name="Alternative Red Coda Seed" itemType="Seed" >
+   <set icon="icon.etc_coda_seed_i00"/>
+   <set weight="1" price="5"/>
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="8257" name="Seed: Alternative Chilly Coda" itemType="Seed" >
+   <set icon="icon.etc_coda_seed_i00"/>
+   <set weight="1" price="5"/>
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="8258" name="Alternative Blue Coda Seed" itemType="Seed" >
+   <set icon="icon.etc_coda_seed_i00"/>
+   <set weight="1" price="10"/>
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="8259" name="Seed: Alternative Golden Coda" itemType="Seed" >
+   <set icon="icon.etc_coda_seed_i00"/>
+   <set weight="1" price="20"/>
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="8260" name="Alternative Lute Coda Seed" itemType="Seed" >
+   <set icon="icon.etc_coda_seed_i00"/>
+   <set weight="1" price="30"/>
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="8261" name="Alternative Desert Coda Seed" itemType="Seed" >
+   <set icon="icon.etc_coda_seed_i00"/>
+   <set weight="1" price="20"/>
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="8262" name="Seed: Alternative Red Cobol" itemType="Seed" >
+   <set icon="icon.etc_cobol_seed_i00"/>
+   <set weight="1" price="20"/>
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="8263" name="Seed: Alternative Chilly Cobol" itemType="Seed" >
+   <set icon="icon.etc_cobol_seed_i00"/>
+   <set weight="1" price="25"/>
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="8264" name="Seed: Alternative Blue Cobol" itemType="Seed" >
+   <set icon="icon.etc_cobol_seed_i00"/>
+   <set weight="1" price="50"/>
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="8265" name="Alternative Thorn Cobol Seed" itemType="Seed" >
+   <set icon="icon.etc_cobol_seed_i00"/>
+   <set weight="1" price="50"/>
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="8266" name="Seed: Alternative Golden Cobol" itemType="Seed" >
+   <set icon="icon.etc_cobol_seed_i00"/>
+   <set weight="1" price="50"/>
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="8267" name="Seed: Alternative Great Cobol" itemType="Seed" >
+   <set icon="icon.etc_cobol_seed_i00"/>
+   <set weight="1" price="40"/>
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="8268" name="Seed: Alternative Red Codran" itemType="Seed" >
+   <set icon="icon.etc_codran_seed_i00"/>
+   <set weight="1" price="40"/>
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="8269" name="Seed: Alternative Sea Codran" itemType="Seed" >
+   <set icon="icon.etc_codran_seed_i00"/>
+   <set weight="1" price="50"/>
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="8270" name="Seed: Alternative Chilly Codran" itemType="Seed" >
+   <set icon="icon.etc_codran_seed_i00"/>
+   <set weight="1" price="40"/>
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="8271" name="Seed: Alternative Blue Codran" itemType="Seed" >
+   <set icon="icon.etc_codran_seed_i00"/>
+   <set weight="1" price="50"/>
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="8272" name="Seed: Alternative Twin Codran" itemType="Seed" >
+   <set icon="icon.etc_codran_seed_i00"/>
+   <set weight="1" price="50"/>
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="8273" name="Anteroom Key" itemType="Other" >
+   <set icon="icon.etc_old_key_i03"/>
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="8274" name="Chapel Key" itemType="Other" >
+   <set icon="icon.etc_old_key_i03"/>
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="8275" name="Key of Darkness" itemType="Other" >
+   <set icon="icon.etc_old_key_i03"/>
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="8276" name="Sekina's Scale" itemType="Quest" >
+   <set icon="icon.etc_scale_of_medusa_blue_i00"/>
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="8277" name="Themis' Scale" itemType="Quest" >
+   <set icon="icon.etc_scale_of_medusa_red_i00"/>
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="8278" name="Vermilion Shard" itemType="Quest" >
+   <set icon="icon.etc_bark_gold_i00"/>
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="8279" name="Nucleus of Hekaton Prime" itemType="Other" >
+   <set icon="icon.etc_bead_silver_i00"/>
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="8280" name="Tiphon Shard" itemType="Quest" >
+   <set icon="icon.etc_gargoyle_claw_i00"/>
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="8281" name="Glaki's Necleus" itemType="Quest" >
+   <set icon="icon.etc_bead_gold_i00"/>
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="8282" name="Rahha's Fang" itemType="Quest" >
+   <set icon="icon.etc_fang_red_i00"/>
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="8283" name="Sting of Giant Poison Bee" itemType="Quest" >
+   <set icon="icon.etc_sting_a_i00"/>
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="8284" name="Cloudy Gem" itemType="Quest" >
+   <set icon="icon.etc_oriharukon_ore_i00"/>
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="8285" name="Talon of Young Araneid" itemType="Quest" >
+   <set icon="icon.etc_claw_i00"/>
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="8286" name="Fairy Breath" itemType="Quest" >
+   <set icon="icon.etc_dragons_blood_i01"/>
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="8287" name="Starstone" itemType="Quest" >
+   <set icon="icon.etc_crystal_blue_i00"/>
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="8288" name="Yumi's Letter" itemType="Quest" >
+   <set icon="icon.etc_letter_red_i00"/>
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="8289" name="Starstone" itemType="Quest" >
+   <set icon="icon.etc_crystal_blue_i00"/>
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="8290" name="Flower of Pavel" itemType="Quest" >
+   <set icon="icon.etc_flower_i02"/>
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="8291" name="Heart of Atlanta" itemType="Quest" >
+   <set icon="icon.etc_inf_ore_medium_i00"/>
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="8292" name="Wendy's Necklace" itemType="Quest" >
+   <set icon="icon.accessary_necklace_of_devotion_i00"/>
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="8293" name="Trainer License" itemType="Quest" >
+   <set icon="icon.etc_paper_red_i00"/>
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="8294" name="Recipe: Steel Sword (100%)" itemType="Receipe" >
+   <set icon="icon.etc_recipe_blue_i00"/>
+   <set weight="30" price="8180"/>
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="8295" name="Recipe: Titan Sword (100%)" itemType="Receipe" >
+   <set icon="icon.etc_recipe_blue_i00"/>
+   <set weight="30" price="28000"/>
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="8296" name="Recipe: Pa'agrian Sword (100%)" itemType="Receipe" >
+   <set icon="icon.etc_recipe_yellow_i00"/>
+   <set weight="30" price="86000"/>
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="8297" name="Recipe: Guardian's Sword (100%)" itemType="Receipe" >
+   <set icon="icon.etc_recipe_red_i00"/>
+   <set weight="30" price="262000"/>
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="8298" name="Recipe: Guardian's Sword (60%)" itemType="Receipe" >
+   <set icon="icon.etc_recipe_red_i00"/>
+   <set weight="30" price="262000"/>
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="8299" name="Recipe: Infernal Master (100%)" itemType="Receipe" >
+   <set icon="icon.etc_recipe_violet_i00"/>
+   <set weight="30" price="366000"/>
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="8300" name="Recipe: Infernal Master (60%)" itemType="Receipe" >
+   <set icon="icon.etc_recipe_violet_i00"/>
+   <set weight="30" price="366000"/>
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="8301" name="Recipe: Priest Sword (100%)" itemType="Receipe" >
+   <set icon="icon.etc_recipe_blue_i00"/>
+   <set weight="30" price="28000"/>
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="8302" name="Recipe: Sword of Magic Fog (100%)" itemType="Receipe" >
+   <set icon="icon.etc_recipe_blue_i00"/>
+   <set weight="30" price="28000"/>
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="8303" name="Recipe: Mysterious Sword (100%)" itemType="Receipe" >
+   <set icon="icon.etc_recipe_yellow_i00"/>
+   <set weight="30" />
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="8304" name="Recipe: Ecliptic Sword (100%)" itemType="Receipe" >
+   <set icon="icon.etc_recipe_yellow_i00"/>
+   <set weight="30" />
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="8305" name="Recipe: Wizard's Tear (100%)" itemType="Receipe" >
+   <set icon="icon.etc_recipe_red_i00"/>
+   <set weight="30" price="262000"/>
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="8306" name="Recipe: Wizard's Tear (60%)" itemType="Receipe" >
+   <set icon="icon.etc_recipe_red_i00"/>
+   <set weight="30" price="262000"/>
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="8307" name="Recipe: Priest Mace (100%)" itemType="Receipe" >
+   <set icon="icon.etc_recipe_blue_i00"/>
+   <set weight="30" price="28000"/>
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="8308" name="Recipe: Ecliptic Axe (100%)" itemType="Receipe" >
+   <set icon="icon.etc_recipe_yellow_i00"/>
+   <set weight="30" price="122600"/>
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="8309" name="Recipe: Spell Breaker (100%)" itemType="Receipe" >
+   <set icon="icon.etc_recipe_red_i00"/>
+   <set weight="30" price="173600"/>
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="8310" name="Recipe: Spell Breaker (60%)" itemType="Receipe" >
+   <set icon="icon.etc_recipe_red_i00"/>
+   <set weight="30" price="173600"/>
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="8311" name="Recipe: Kaim Vanul's Bones (100%)" itemType="Receipe" >
+   <set icon="icon.etc_recipe_red_i00"/>
+   <set weight="30" price="262000"/>
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="8312" name="Recipe: Kaim Vanul's Bones (60%)" itemType="Receipe" >
+   <set icon="icon.etc_recipe_red_i00"/>
+   <set weight="30" price="262000"/>
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="8313" name="Recipe: Spiritual Eye (100%)" itemType="Receipe" >
+   <set icon="icon.etc_recipe_violet_i00"/>
+   <set weight="30" price="366000"/>
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="8314" name="Recipe: Spiritual Eye (60%)" itemType="Receipe" >
+   <set icon="icon.etc_recipe_violet_i00"/>
+   <set weight="30" price="366000"/>
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="8315" name="Recipe: Flaming Dragon Skull (100%)" itemType="Receipe" >
+   <set icon="icon.etc_recipe_violet_i00"/>
+   <set weight="30" price="540000"/>
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="8316" name="Recipe: Flaming Dragon Skull (60%)" itemType="Receipe" >
+   <set icon="icon.etc_recipe_violet_i00"/>
+   <set weight="30" price="540000"/>
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="8317" name="Recipe: Titan Hammer (100%)" itemType="Receipe" >
+   <set icon="icon.etc_recipe_blue_i00"/>
+   <set weight="30" price="28000"/>
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="8318" name="Recipe: Dwarven Hammer (100%)" itemType="Receipe" >
+   <set icon="icon.etc_recipe_yellow_i00"/>
+   <set weight="30" price="122600"/>
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="8319" name="Recipe: Karik Horn (100%)" itemType="Receipe" >
+   <set icon="icon.etc_recipe_yellow_i00"/>
+   <set weight="30" />
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="8320" name="Recipe: Destroyer Hammer (100%)" itemType="Receipe" >
+   <set icon="icon.etc_recipe_violet_i00"/>
+   <set weight="30" price="366000"/>
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="8321" name="Recipe: Ice Storm Hammer (100%)" itemType="Receipe" >
+   <set icon="icon.etc_recipe_red_i00"/>
+   <set weight="30" price="173600"/>
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="8322" name="Recipe: Ice Storm Hammer (60%)" itemType="Receipe" >
+   <set icon="icon.etc_recipe_red_i00"/>
+   <set weight="30" price="173600"/>
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="8323" name="Recipe: Star Buster (100%)" itemType="Receipe" >
+   <set icon="icon.etc_recipe_red_i00"/>
+   <set weight="30" />
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="8324" name="Recipe: Star Buster (60%)" itemType="Receipe" >
+   <set icon="icon.etc_recipe_red_i00"/>
+   <set weight="30" />
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="8325" name="Recipe: Doom Crusher (100%)" itemType="Receipe" >
+   <set icon="icon.etc_recipe_violet_i00"/>
+   <set weight="30" price="540000"/>
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="8326" name="Recipe: Doom Crusher (60%)" itemType="Receipe" >
+   <set icon="icon.etc_recipe_violet_i00"/>
+   <set weight="30" price="540000"/>
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="8327" name="Steel Sword Blade" itemType="Material" >
+   <set icon="icon.etc_sword_body_i00"/>
+   <set weight="60" price="11912"/>
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="8328" name="Titan Sword Blade" itemType="Material" >
+   <set icon="icon.etc_sword_body_i00"/>
+   <set weight="60" price="20950"/>
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="8329" name="Pa'agrian Sword Blade" itemType="Material" >
+   <set icon="icon.etc_sword_body_i00"/>
+   <set weight="60" price="38420"/>
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="8330" name="Guardian Sword Blade" itemType="Material" >
+   <set icon="icon.etc_sword_body_i00"/>
+   <set weight="60" price="45769"/>
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="8331" name="Infernal Master Blade" itemType="Material" >
+   <set icon="icon.etc_sword_body_i00"/>
+   <set weight="60" price="58615"/>
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="8332" name="Priest Sword Blade" itemType="Material" >
+   <set icon="icon.etc_sword_body_i00"/>
+   <set weight="60" price="12037"/>
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="8333" name="Sword of Magic Fog Blade" itemType="Material" >
+   <set icon="icon.etc_sword_body_i00"/>
+   <set weight="60" price="20300"/>
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="8334" name="Mysterious Sword Blade" itemType="Material" >
+   <set icon="icon.etc_sword_body_i00"/>
+   <set weight="60" price="25187"/>
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="8335" name="Ecliptic Sword Blade" itemType="Material" >
+   <set icon="icon.etc_sword_body_i00"/>
+   <set weight="60" price="43890"/>
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="8336" name="Blade of the Wizard's Tear" itemType="Material" >
+   <set icon="icon.etc_sword_body_i00"/>
+   <set weight="60" price="45692"/>
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="8337" name="Priest Mace Head" itemType="Material" >
+   <set icon="icon.etc_squares_gray_i00"/>
+   <set weight="60" />
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="8338" name="Axe of Eclipse Head" itemType="Material" >
+   <set icon="icon.etc_squares_gray_i00"/>
+   <set weight="60" price="41636"/>
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="8339" name="Spell Breaker Head" itemType="Material" >
+   <set icon="icon.etc_squares_gray_i00"/>
+   <set weight="60" price="34950"/>
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="8340" name="Bones Head of Kaim Vanul" itemType="Material" >
+   <set icon="icon.etc_squares_gray_i00"/>
+   <set weight="60" price="45769"/>
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="8341" name="Spiritual Eye Piece" itemType="Material" >
+   <set icon="icon.etc_squares_gray_i00"/>
+   <set weight="60" price="59384"/>
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="8342" name="Flaming Dragon Skull Piece" itemType="Material" >
+   <set icon="icon.etc_squares_gray_i00"/>
+   <set weight="60" price="72914"/>
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="8343" name="Titan Hammer Piece" itemType="Material" >
+   <set icon="icon.etc_squares_gray_i00"/>
+   <set weight="60" price="19757"/>
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="8344" name="Dwarven Hammer Piece" itemType="Material" >
+   <set icon="icon.etc_squares_gray_i00"/>
+   <set weight="60" />
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="8345" name="Karik Horn Piece" itemType="Material" >
+   <set icon="icon.etc_squares_gray_i00"/>
+   <set weight="60" />
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="8346" name="Hammer Piece of Destroyer" itemType="Material" >
+   <set icon="icon.etc_squares_gray_i00"/>
+   <set weight="60" price="59308"/>
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="8347" name="Ice Storm Hammer Head" itemType="Material" >
+   <set icon="icon.etc_squares_gray_i00"/>
+   <set weight="60" price="38867"/>
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="8348" name="Star Buster Head" itemType="Material" >
+   <set icon="icon.etc_squares_gray_i00"/>
+   <set weight="60" price="45846"/>
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="8349" name="Doom Crusher Head" itemType="Material" >
+   <set icon="icon.etc_squares_gray_i00"/>
+   <set weight="60" price="72929"/>
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="8351" name="Black Colored Fish Scale" itemType="Material" >
+   <set icon="icon.etc_gludio_fish_scale_i00"/>
+   <set weight="10" price="900"/>
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="8352" name="Red Colored Fish Scale" itemType="Material" >
+   <set icon="icon.etc_dion_fish_scale_i00"/>
+   <set weight="10" price="700"/>
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="8353" name="Green Colored Fish Scale" itemType="Material" >
+   <set icon="icon.etc_giran_fish_scale_i00"/>
+   <set weight="10" price="100"/>
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="8354" name="Yellow Colored Fish Scale" itemType="Material" >
+   <set icon="icon.etc_oren_fish_scale_i00"/>
+   <set weight="10" price="400"/>
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="8355" name="Blue Colored Fish Scale" itemType="Material" >
+   <set icon="icon.etc_aden_fish_scale_i00"/>
+   <set weight="10" price="300"/>
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="8356" name="White Colored Fish Scale" itemType="Material" >
+   <set icon="icon.etc_innadrile_fish_scale_i00"/>
+   <set weight="10" price="800"/>
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="8357" name="Orange Colored Fish Scale" itemType="Material" >
+   <set icon="icon.etc_godad_fish_scale_i00"/>
+   <set weight="10" price="500"/>
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="8358" name="Purple Colored Fish Scale" itemType="Material" >
+   <set icon="icon.etc_rune_fish_scale_i00"/>
+   <set weight="10" price="600"/>
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="8359" name="Jade Colored Fish Scale" itemType="Other" >
+   <set icon="icon.etc_schuttgart_fish_scale_i00"/>
+   <set weight="10" price="200"/>
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="8360" name="Adventurer's Box - C Accessory" itemType="Other" >
+   <set icon="icon.etc_jewel_box_i00"/>
+   <set weight="20" />
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="8361" name="Adventurer's Box - B Accessory" itemType="Other" >
+   <set icon="icon.etc_jewel_box_i00"/>
+   <set weight="20" />
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="8362" name="Adventurer's Box - Hair Accessory" itemType="Other" >
+   <set icon="icon.etc_jewel_box_i00"/>
+   <set weight="20" />
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="8363" name="Adventurer's Box - Cradle of Creation" itemType="Receipe" >
+   <set icon="icon.etc_jewel_box_i00"/>
+   <set weight="20" />
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="8364" name="Recipe: Party Hat (100%)" itemType="Receipe" >
+   <set icon="icon.etc_recipe_green_i00"/>
+   <set weight="30" price="400000"/>
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="8365" name="Recipe: Party Hat (70%)" itemType="Receipe" >
+   <set icon="icon.etc_recipe_green_i00"/>
+   <set weight="30" price="400000"/>
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="8366" name="Recipe: Feathered Hat (100%)" itemType="Receipe" >
+   <set icon="icon.etc_recipe_green_i00"/>
+   <set weight="30" price="400000"/>
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="8367" name="Recipe: Feathered Hat (70%)" itemType="Receipe" >
+   <set icon="icon.etc_recipe_green_i00"/>
+   <set weight="30" price="400000"/>
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="8368" name="Recipe: Artisan's Goggles (100%)" itemType="Receipe" >
+   <set icon="icon.etc_recipe_green_i00"/>
+   <set weight="30" price="400000"/>
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="8369" name="Recipe: Artisan's Goggles (70%)" itemType="Receipe" >
+   <set icon="icon.etc_recipe_green_i00"/>
+   <set weight="30" price="400000"/>
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="8370" name="Recipe: Red Horn of Victory (100%)" itemType="Receipe" >
+   <set icon="icon.etc_recipe_green_i00"/>
+   <set weight="30" />
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="8371" name="Recipe: Little Angel Wings (100%)" itemType="Receipe" >
+   <set icon="icon.etc_recipe_green_i00"/>
+   <set weight="30" price="100000"/>
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="8372" name="Recipe: Fairy Antennae (100%)" itemType="Receipe" >
+   <set icon="icon.etc_recipe_green_i00"/>
+   <set weight="30" price="100000"/>
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="8373" name="Party Hat Fabric" itemType="Material" >
+   <set icon="icon.etc_leather_yellow_i00"/>
+   <set weight="60" price="10000"/>
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="8374" name="Feathered Hat Fabric" itemType="Material" >
+   <set icon="icon.etc_leather_yellow_i00"/>
+   <set weight="60" price="10000"/>
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="8375" name="Artisan's Goggles Fabric" itemType="Material" >
+   <set icon="icon.etc_leather_yellow_i00"/>
+   <set weight="60" price="10000"/>
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="8376" name="Red Horn of Victory Fragment" itemType="Material" >
+   <set icon="icon.etc_broken_crystal_red_i00"/>
+   <set weight="60" />
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="8377" name="Little Angel Wings Piece" itemType="Material" >
+   <set icon="icon.etc_broken_crystal_green_i00"/>
+   <set weight="60" price="5000"/>
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="8378" name="Fairy Antennae Piece" itemType="Material" >
+   <set icon="icon.etc_broken_crystal_green_i00"/>
+   <set weight="60" price="5000"/>
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="8379" name="Petrification Scroll" itemType="Material" >
+   <set icon="icon.etc_piece_of_paper_white_i00"/>
+   <set weight="120" />
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="8380" name="Spellbook: Betray" itemType="Spellbook" >
+   <set icon="icon.etc_spell_books_summon_i00"/>
+   <set weight="120" price="6250"/>
+   <set stackable="false"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="8381" name="Spellbook: Mass Curse Fear" itemType="Spellbook" >
+   <set icon="icon.etc_spell_books_black_i00"/>
+   <set weight="120" price="6750"/>
+   <set stackable="false"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="8382" name="Spellbook: Mass Curse Gloom" itemType="Spellbook" >
+   <set icon="icon.etc_spell_books_black_i00"/>
+   <set weight="120" price="6750"/>
+   <set stackable="false"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="8383" name="Spellbook: Mass Surrender to Fire" itemType="Spellbook" >
+   <set icon="icon.etc_spell_books_summon_i00"/>
+   <set weight="120" price="6750"/>
+   <set stackable="false"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="8384" name="Spellbook: Mass Surrender to Water" itemType="Spellbook" >
+   <set icon="icon.etc_spell_books_summon_i00"/>
+   <set weight="120" price="6750"/>
+   <set stackable="false"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="8385" name="Spellbook: Mass Surrender to Wind" itemType="Spellbook" >
+   <set icon="icon.etc_spell_books_summon_i00"/>
+   <set weight="120" price="6750"/>
+   <set stackable="false"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="8386" name="Spellbook - Arcane Disruption" itemType="Spellbook" >
+   <set icon="icon.etc_spell_books_summon_i00"/>
+   <set weight="120" price="6250"/>
+   <set stackable="false"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="8387" name="Spellbook - Summon Cursed Bones" itemType="Spellbook" >
+   <set icon="icon.etc_spell_books_black_i00"/>
+   <set weight="120" price="7200"/>
+   <set stackable="false"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="8388" name="Spellbook: Greater Might" itemType="Spellbook" >
+   <set icon="icon.etc_spell_books_assistance_i00"/>
+   <set weight="120" price="6750"/>
+   <set stackable="false"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="8389" name="Spellbook: Greater Shield" itemType="Spellbook" >
+   <set icon="icon.etc_spell_books_assistance_i00"/>
+   <set weight="120" price="6750"/>
+   <set stackable="false"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="8390" name="Amulet: War Chant" itemType="Spellbook" >
+   <set icon="icon.etc_orcish_talisman_i00"/>
+   <set weight="120" price="6750"/>
+   <set stackable="false"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="8391" name="Amulet: Earth Chant" itemType="Spellbook" >
+   <set icon="icon.etc_orcish_talisman_i00"/>
+   <set weight="120" price="6750"/>
+   <set stackable="false"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="8392" name="Spellbook: Holy Resistance" itemType="Spellbook" >
+   <set icon="icon.etc_spell_books_assistance_i00"/>
+   <set weight="120" price="6750"/>
+   <set stackable="false"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="8393" name="Spellbook: Unholy Resistance" itemType="Spellbook" >
+   <set icon="icon.etc_spell_books_assistance_i00"/>
+   <set weight="120" price="6750"/>
+   <set stackable="false"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="8394" name="Spellbook: Trance" itemType="Spellbook" >
+   <set icon="icon.etc_spell_books_assistance_i00"/>
+   <set weight="120" price="6250"/>
+   <set stackable="false"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="8395" name="Spellbook: Erase" itemType="Spellbook" >
+   <set icon="icon.etc_spell_books_assistance_i00"/>
+   <set weight="120" price="6250"/>
+   <set stackable="false"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="8396" name="Spellbook: Magical Backfire" itemType="Spellbook" >
+   <set icon="icon.etc_spell_books_assistance_i00"/>
+   <set weight="120" price="6250"/>
+   <set stackable="false"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="8397" name="Spellbook: Clarity" itemType="Spellbook" >
+   <set icon="icon.etc_spell_books_assistance_i00"/>
+   <set weight="120" price="6750"/>
+   <set stackable="false"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="8398" name="Spellbook: Mana Burn" itemType="Spellbook" >
+   <set icon="icon.etc_spell_books_assistance_i00"/>
+   <set weight="120" price="6250"/>
+   <set stackable="false"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="8399" name="Spellbook: Mana Storm" itemType="Spellbook" >
+   <set icon="icon.etc_spell_books_assistance_i00"/>
+   <set weight="120" price="6750"/>
+   <set stackable="false"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="8400" name="Spellbook: Turn Undead" itemType="Spellbook" >
+   <set icon="icon.etc_spell_books_assistance_i00"/>
+   <set weight="120" price="6250"/>
+   <set stackable="false"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="8401" name="Spellbook: Major Heal" itemType="Spellbook" >
+   <set icon="icon.etc_spell_books_assistance_i00"/>
+   <set weight="120" price="6250"/>
+   <set stackable="false"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="8402" name="Spellbook: Major Group Heal" itemType="Spellbook" >
+   <set icon="icon.etc_spell_books_assistance_i00"/>
+   <set weight="120" price="6750"/>
+   <set stackable="false"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="8403" name="Small Nimble Green Fish - Upper Grade" itemType="Other" >
+   <set icon="icon.etc_tuna_i06"/>
+   <set weight="100" />
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+   <skills>
+     <skill id="2261" level="1"/>
+   </skills>
+  </etc>
+  <etc id="8404" name="Small Ugly Green Fish - Upper Grade" itemType="Other" >
+   <set icon="icon.etc_angler_i06"/>
+   <set weight="100" />
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+   <skills>
+     <skill id="2261" level="2"/>
+   </skills>
+  </etc>
+  <etc id="8405" name="Small Pudgy Green Fish - Upper Grade" itemType="Other" >
+   <set icon="icon.etc_bream_i06"/>
+   <set weight="100" />
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+   <skills>
+     <skill id="2261" level="3"/>
+   </skills>
+  </etc>
+  <etc id="8406" name="Nimble Green Fish - Upper Grade" itemType="Other" >
+   <set icon="icon.etc_tuna_i06"/>
+   <set weight="100" />
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+   <skills>
+     <skill id="2261" level="4"/>
+   </skills>
+  </etc>
+  <etc id="8407" name="Ugly Green Fish - Upper Grade" itemType="Other" >
+   <set icon="icon.etc_angler_i06"/>
+   <set weight="100" />
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+   <skills>
+     <skill id="2261" level="5"/>
+   </skills>
+  </etc>
+  <etc id="8408" name="Pudgy Green Fish - Upper Grade" itemType="Other" >
+   <set icon="icon.etc_bream_i06"/>
+   <set weight="100" />
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+   <skills>
+     <skill id="2261" level="6"/>
+   </skills>
+  </etc>
+  <etc id="8409" name="Large Nimble Green Fish - Upper Grade" itemType="Other" >
+   <set icon="icon.etc_tuna_i06"/>
+   <set weight="100" />
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+   <skills>
+     <skill id="2261" level="7"/>
+   </skills>
+  </etc>
+  <etc id="8410" name="Large Ugly Green Fish - Upper Grade" itemType="Other" >
+   <set icon="icon.etc_angler_i06"/>
+   <set weight="100" />
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+   <skills>
+     <skill id="2261" level="8"/>
+   </skills>
+  </etc>
+  <etc id="8411" name="Large Pudgy Green Fish - Upper Grade" itemType="Other" >
+   <set icon="icon.etc_bream_i06"/>
+   <set weight="100" price="265"/>
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+   <skills>
+     <skill id="2261" level="9"/>
+   </skills>
+  </etc>
+  <etc id="8412" name="Small Jade Nimble Fish - Upper Grade" itemType="Other" >
+   <set icon="icon.etc_tuna_i07"/>
+   <set weight="100" />
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+   <skills>
+     <skill id="2262" level="1"/>
+   </skills>
+  </etc>
+  <etc id="8413" name="Small Jade Ugly Fish - Upper Grade" itemType="Other" >
+   <set icon="icon.etc_angler_i07"/>
+   <set weight="100" />
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+   <skills>
+     <skill id="2262" level="2"/>
+   </skills>
+  </etc>
+  <etc id="8414" name="Small Jade Fat Fish - Upper Grade" itemType="Other" >
+   <set icon="icon.etc_bream_i07"/>
+   <set weight="100" price="310"/>
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+   <skills>
+     <skill id="2262" level="3"/>
+   </skills>
+  </etc>
+  <etc id="8415" name="Jade Nimble Fish - Upper Grade" itemType="Other" >
+   <set icon="icon.etc_tuna_i07"/>
+   <set weight="100" />
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+   <skills>
+     <skill id="2262" level="4"/>
+   </skills>
+  </etc>
+  <etc id="8416" name="Jade Ugly Fish - Upper Grade" itemType="Other" >
+   <set icon="icon.etc_angler_i07"/>
+   <set weight="100" />
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+   <skills>
+     <skill id="2262" level="5"/>
+   </skills>
+  </etc>
+  <etc id="8417" name="Jade Fat Fish - Upper Grade" itemType="Other" >
+   <set icon="icon.etc_bream_i07"/>
+   <set weight="100" />
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+   <skills>
+     <skill id="2262" level="6"/>
+   </skills>
+  </etc>
+  <etc id="8418" name="Large Jade Nimble Fish - Upper Grade" itemType="Other" >
+   <set icon="icon.etc_tuna_i07"/>
+   <set weight="100" price="365"/>
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+   <skills>
+     <skill id="2262" level="7"/>
+   </skills>
+  </etc>
+  <etc id="8419" name="Large Jade Ugly Fish - Upper Grade" itemType="Other" >
+   <set icon="icon.etc_angler_i07"/>
+   <set weight="100" />
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+   <skills>
+     <skill id="2262" level="8"/>
+   </skills>
+  </etc>
+  <etc id="8420" name="Large Jade Fat Fish - Upper Grade" itemType="Other" >
+   <set icon="icon.etc_bream_i07"/>
+   <set weight="100" price="385"/>
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+   <skills>
+     <skill id="2262" level="9"/>
+   </skills>
+  </etc>
+  <etc id="8421" name="Small Blue Nimble Fish - Upper Grade" itemType="Other" >
+   <set icon="icon.etc_tuna_i01"/>
+   <set weight="100" />
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+   <skills>
+     <skill id="2263" level="1"/>
+   </skills>
+  </etc>
+  <etc id="8422" name="Small Blue Ugly Fish - Upper Grade" itemType="Other" >
+   <set icon="icon.etc_angler_i01"/>
+   <set weight="100" />
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+   <skills>
+     <skill id="2263" level="2"/>
+   </skills>
+  </etc>
+  <etc id="8423" name="Small Blue Fat Fish - Upper Grade" itemType="Other" >
+   <set icon="icon.etc_bream_i01"/>
+   <set weight="100" price="410"/>
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+   <skills>
+     <skill id="2263" level="3"/>
+   </skills>
+  </etc>
+  <etc id="8424" name="Blue Nimble Fish - Upper Grade" itemType="Other" >
+   <set icon="icon.etc_tuna_i01"/>
+   <set weight="100" />
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+   <skills>
+     <skill id="2263" level="4"/>
+   </skills>
+  </etc>
+  <etc id="8425" name="Blue Ugly Fish - Upper Grade" itemType="Other" >
+   <set icon="icon.etc_angler_i01"/>
+   <set weight="100" price="418"/>
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+   <skills>
+     <skill id="2263" level="5"/>
+   </skills>
+  </etc>
+  <etc id="8426" name="Blue Fat Fish - Upper Grade" itemType="Other" >
+   <set icon="icon.etc_bream_i01"/>
+   <set weight="100" />
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+   <skills>
+     <skill id="2263" level="6"/>
+   </skills>
+  </etc>
+  <etc id="8427" name="Large Blue Nimble Fish - Upper Grade" itemType="Other" >
+   <set icon="icon.etc_tuna_i01"/>
+   <set weight="100" />
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+   <skills>
+     <skill id="2263" level="7"/>
+   </skills>
+  </etc>
+  <etc id="8428" name="Large Blue Ugly Fish - Upper Grade" itemType="Other" >
+   <set icon="icon.etc_angler_i01"/>
+   <set weight="100" />
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+   <skills>
+     <skill id="2263" level="8"/>
+   </skills>
+  </etc>
+  <etc id="8429" name="Large Blue Fat Fish - Upper Grade" itemType="Other" >
+   <set icon="icon.etc_bream_i01"/>
+   <set weight="100" />
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+   <skills>
+     <skill id="2263" level="9"/>
+   </skills>
+  </etc>
+  <etc id="8430" name="Small Yellow Nimble Fish - Upper Grade" itemType="Other" >
+   <set icon="icon.etc_tuna_i02"/>
+   <set weight="100" price="442"/>
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+   <skills>
+     <skill id="2264" level="1"/>
+   </skills>
+  </etc>
+  <etc id="8431" name="Small Yellow Ugly Fish - Upper Grade" itemType="Other" >
+   <set icon="icon.etc_angler_i02"/>
+   <set weight="100" />
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+   <skills>
+     <skill id="2264" level="2"/>
+   </skills>
+  </etc>
+  <etc id="8432" name="Small Yellow Fat Fish - Upper Grade" itemType="Other" >
+   <set icon="icon.etc_bream_i02"/>
+   <set weight="100" />
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+   <skills>
+     <skill id="2264" level="3"/>
+   </skills>
+  </etc>
+  <etc id="8433" name="Yellow Nimble Fish - Upper Grade" itemType="Other" >
+   <set icon="icon.etc_tuna_i02"/>
+   <set weight="100" />
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+   <skills>
+     <skill id="2264" level="4"/>
+   </skills>
+  </etc>
+  <etc id="8434" name="Yellow Ugly Fish - Upper Grade" itemType="Other" >
+   <set icon="icon.etc_angler_i02"/>
+   <set weight="100" />
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+   <skills>
+     <skill id="2264" level="5"/>
+   </skills>
+  </etc>
+  <etc id="8435" name="Yellow Fat Fish - Upper Grade" itemType="Other" >
+   <set icon="icon.etc_bream_i02"/>
+   <set weight="100" />
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+   <skills>
+     <skill id="2264" level="6"/>
+   </skills>
+  </etc>
+  <etc id="8436" name="Large Yellow Nimble Fish - Upper Grade" itemType="Other" >
+   <set icon="icon.etc_tuna_i02"/>
+   <set weight="100" price="580"/>
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+   <skills>
+     <skill id="2264" level="7"/>
+   </skills>
+  </etc>
+  <etc id="8437" name="Large Yellow Ugly Fish - Upper Grade" itemType="Other" >
+   <set icon="icon.etc_angler_i02"/>
+   <set weight="100" price="594"/>
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+   <skills>
+     <skill id="2264" level="8"/>
+   </skills>
+  </etc>
+  <etc id="8438" name="Large Yellow Fat Fish - Upper Grade" itemType="Other" >
+   <set icon="icon.etc_bream_i02"/>
+   <set weight="100" />
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+   <skills>
+     <skill id="2264" level="9"/>
+   </skills>
+  </etc>
+  <etc id="8439" name="Small Orange Nimble Fish - Upper Grade" itemType="Other" >
+   <set icon="icon.etc_tuna_i08"/>
+   <set weight="100" price="622"/>
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+   <skills>
+     <skill id="2265" level="1"/>
+   </skills>
+  </etc>
+  <etc id="8440" name="Small Orange Ugly Fish - Upper Grade" itemType="Other" >
+   <set icon="icon.etc_angler_i08"/>
+   <set weight="100" price="635"/>
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+   <skills>
+     <skill id="2265" level="2"/>
+   </skills>
+  </etc>
+  <etc id="8441" name="Small Orange Fat Fish - Upper Grade" itemType="Other" >
+   <set icon="icon.etc_bream_i08"/>
+   <set weight="100" price="649"/>
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+   <skills>
+     <skill id="2265" level="3"/>
+   </skills>
+  </etc>
+  <etc id="8442" name="Orange Nimble Fish - Upper Grade" itemType="Other" >
+   <set icon="icon.etc_tuna_i08"/>
+   <set weight="100" />
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+   <skills>
+     <skill id="2265" level="4"/>
+   </skills>
+  </etc>
+  <etc id="8443" name="Orange Ugly Fish - Upper Grade" itemType="Other" >
+   <set icon="icon.etc_angler_i08"/>
+   <set weight="100" />
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+   <skills>
+     <skill id="2265" level="5"/>
+   </skills>
+  </etc>
+  <etc id="8444" name="Orange Fat Fish - Upper Grade" itemType="Other" >
+   <set icon="icon.etc_bream_i08"/>
+   <set weight="100" />
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+   <skills>
+     <skill id="2265" level="6"/>
+   </skills>
+  </etc>
+  <etc id="8445" name="Large Orange Nimble Fish - Upper Grade" itemType="Other" >
+   <set icon="icon.etc_tuna_i08"/>
+   <set weight="100" />
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+   <skills>
+     <skill id="2265" level="7"/>
+   </skills>
+  </etc>
+  <etc id="8446" name="Large Orange Ugly Fish - Upper Grade" itemType="Other" >
+   <set icon="icon.etc_angler_i08"/>
+   <set weight="100" />
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+   <skills>
+     <skill id="2265" level="8"/>
+   </skills>
+  </etc>
+  <etc id="8447" name="Large Orange Fat Fish - Upper Grade" itemType="Other" >
+   <set icon="icon.etc_bream_i08"/>
+   <set weight="100" />
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+   <skills>
+     <skill id="2265" level="9"/>
+   </skills>
+  </etc>
+  <etc id="8448" name="Small Purple Nimble Fish - Upper Grade" itemType="Other" >
+   <set icon="icon.etc_tuna_i04"/>
+   <set weight="100" />
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+   <skills>
+     <skill id="2266" level="1"/>
+   </skills>
+  </etc>
+  <etc id="8449" name="Small Purple Ugly Fish - Upper Grade" itemType="Other" >
+   <set icon="icon.etc_angler_i04"/>
+   <set weight="100" />
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+   <skills>
+     <skill id="2266" level="2"/>
+   </skills>
+  </etc>
+  <etc id="8450" name="Small Purple Fat Fish - Upper Grade" itemType="Other" >
+   <set icon="icon.etc_bream_i04"/>
+   <set weight="100" />
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+   <skills>
+     <skill id="2266" level="3"/>
+   </skills>
+  </etc>
+  <etc id="8451" name="Purple Nimble Fish - Upper Grade" itemType="Other" >
+   <set icon="icon.etc_tuna_i04"/>
+   <set weight="100" />
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+   <skills>
+     <skill id="2266" level="4"/>
+   </skills>
+  </etc>
+  <etc id="8452" name="Purple Ugly Fish - Upper Grade" itemType="Other" >
+   <set icon="icon.etc_angler_i04"/>
+   <set weight="100" />
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+   <skills>
+     <skill id="2266" level="5"/>
+   </skills>
+  </etc>
+  <etc id="8453" name="Purple Fat Fish - Upper Grade" itemType="Other" >
+   <set icon="icon.etc_bream_i04"/>
+   <set weight="100" />
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+   <skills>
+     <skill id="2266" level="6"/>
+   </skills>
+  </etc>
+  <etc id="8454" name="Large Purple Nimble Fish - Upper Grade" itemType="Other" >
+   <set icon="icon.etc_tuna_i04"/>
+   <set weight="100" />
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+   <skills>
+     <skill id="2266" level="7"/>
+   </skills>
+  </etc>
+  <etc id="8455" name="Large Purple Ugly Fish - Upper Grade" itemType="Other" >
+   <set icon="icon.etc_angler_i04"/>
+   <set weight="100" />
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+   <skills>
+     <skill id="2266" level="8"/>
+   </skills>
+  </etc>
+  <etc id="8456" name="Large Purple Fat Fish - Upper Grade" itemType="Other" >
+   <set icon="icon.etc_bream_i04"/>
+   <set weight="100" />
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+   <skills>
+     <skill id="2266" level="9"/>
+   </skills>
+  </etc>
+  <etc id="8457" name="Small Red Nimble Fish - Upper Grade" itemType="Other" >
+   <set icon="icon.etc_tuna_i03"/>
+   <set weight="100" />
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+   <skills>
+     <skill id="2267" level="1"/>
+   </skills>
+  </etc>
+  <etc id="8458" name="Small Red Ugly Fish - Upper Grade" itemType="Other" >
+   <set icon="icon.etc_angler_i03"/>
+   <set weight="100" />
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+   <skills>
+     <skill id="2267" level="2"/>
+   </skills>
+  </etc>
+  <etc id="8459" name="Small Red Fat Fish - Upper Grade" itemType="Other" >
+   <set icon="icon.etc_bream_i03"/>
+   <set weight="100" price="1326"/>
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+   <skills>
+     <skill id="2267" level="3"/>
+   </skills>
+  </etc>
+  <etc id="8460" name="Red Nimble Fish - Upper Grade" itemType="Other" >
+   <set icon="icon.etc_tuna_i03"/>
+   <set weight="100" />
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+   <skills>
+     <skill id="2267" level="4"/>
+   </skills>
+  </etc>
+  <etc id="8461" name="Red Ugly Fish - Upper Grade" itemType="Other" >
+   <set icon="icon.etc_angler_i03"/>
+   <set weight="100" />
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+   <skills>
+     <skill id="2267" level="5"/>
+   </skills>
+  </etc>
+  <etc id="8462" name="Red Fat Fish - Upper Grade" itemType="Other" >
+   <set icon="icon.etc_bream_i03"/>
+   <set weight="100" />
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+   <skills>
+     <skill id="2267" level="6"/>
+   </skills>
+  </etc>
+  <etc id="8463" name="Large Red Nimble Fish - Upper Grade" itemType="Other" >
+   <set icon="icon.etc_tuna_i03"/>
+   <set weight="100" />
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+   <skills>
+     <skill id="2267" level="7"/>
+   </skills>
+  </etc>
+  <etc id="8464" name="Large Red Ugly Fish - Upper Grade" itemType="Other" >
+   <set icon="icon.etc_angler_i03"/>
+   <set weight="100" price="1608"/>
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+   <skills>
+     <skill id="2267" level="8"/>
+   </skills>
+  </etc>
+  <etc id="8465" name="Large Red Fat Fish - Upper Grade" itemType="Other" >
+   <set icon="icon.etc_bream_i03"/>
+   <set weight="100" />
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+   <skills>
+     <skill id="2267" level="9"/>
+   </skills>
+  </etc>
+  <etc id="8466" name="Small White Nimble Fish - Upper Grade" itemType="Other" >
+   <set icon="icon.etc_tuna_i00"/>
+   <set weight="100" />
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+   <skills>
+     <skill id="2268" level="1"/>
+   </skills>
+  </etc>
+  <etc id="8467" name="Small White Ugly Fish - Upper Grade" itemType="Other" >
+   <set icon="icon.etc_angler_i00"/>
+   <set weight="100" />
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+   <skills>
+     <skill id="2268" level="2"/>
+   </skills>
+  </etc>
+  <etc id="8468" name="Small White Fat Fish - Upper Grade" itemType="Other" >
+   <set icon="icon.etc_bream_i00"/>
+   <set weight="100" />
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+   <skills>
+     <skill id="2268" level="3"/>
+   </skills>
+  </etc>
+  <etc id="8469" name="White Nimble Fish - Upper Grade" itemType="Other" >
+   <set icon="icon.etc_tuna_i00"/>
+   <set weight="100" />
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+   <skills>
+     <skill id="2268" level="4"/>
+   </skills>
+  </etc>
+  <etc id="8470" name="White Ugly Fish - Upper Grade" itemType="Other" >
+   <set icon="icon.etc_angler_i00"/>
+   <set weight="100" />
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+   <skills>
+     <skill id="2268" level="5"/>
+   </skills>
+  </etc>
+  <etc id="8471" name="White Fat Fish - Upper Grade" itemType="Other" >
+   <set icon="icon.etc_bream_i00"/>
+   <set weight="100" />
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+   <skills>
+     <skill id="2268" level="6"/>
+   </skills>
+  </etc>
+  <etc id="8472" name="High Grade - Large White Nimble Fish" itemType="Other" >
+   <set icon="icon.etc_tuna_i00"/>
+   <set weight="100" />
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+   <skills>
+     <skill id="2268" level="7"/>
+   </skills>
+  </etc>
+  <etc id="8473" name="Large White Ugly Fish - Upper Grade" itemType="Other" >
+   <set icon="icon.etc_angler_i00"/>
+   <set weight="100" />
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+   <skills>
+     <skill id="2268" level="8"/>
+   </skills>
+  </etc>
+  <etc id="8474" name="Large White Fat Fish - Upper Grade" itemType="Other" >
+   <set icon="icon.etc_bream_i00"/>
+   <set weight="100" />
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+   <skills>
+     <skill id="2268" level="9"/>
+   </skills>
+  </etc>
+  <etc id="8475" name="Small Black Nimble Fish: Upper Grade" itemType="Other" >
+   <set icon="icon.etc_tuna_i05"/>
+   <set weight="100" />
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+   <skills>
+     <skill id="2269" level="1"/>
+   </skills>
+  </etc>
+  <etc id="8476" name="Small Black Ugly Fish - Upper Grade" itemType="Other" >
+   <set icon="icon.etc_angler_i05"/>
+   <set weight="100" />
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+   <skills>
+     <skill id="2269" level="2"/>
+   </skills>
+  </etc>
+  <etc id="8477" name="Small Black Fat Fish - Upper Grade" itemType="Other" >
+   <set icon="icon.etc_bream_i05"/>
+   <set weight="100" />
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+   <skills>
+     <skill id="2269" level="3"/>
+   </skills>
+  </etc>
+  <etc id="8478" name="Black Nimble Fish - Upper Grade" itemType="Other" >
+   <set icon="icon.etc_tuna_i05"/>
+   <set weight="100" />
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+   <skills>
+     <skill id="2269" level="4"/>
+   </skills>
+  </etc>
+  <etc id="8479" name="Black Ugly Fish - Upper Grade" itemType="Other" >
+   <set icon="icon.etc_angler_i05"/>
+   <set weight="100" />
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+   <skills>
+     <skill id="2269" level="5"/>
+   </skills>
+  </etc>
+  <etc id="8480" name="Black Fat Fish - Upper Grade" itemType="Other" >
+   <set icon="icon.etc_bream_i05"/>
+   <set weight="100" />
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+   <skills>
+     <skill id="2269" level="6"/>
+   </skills>
+  </etc>
+  <etc id="8481" name="Large Black Nimble Fish - Upper Grade" itemType="Other" >
+   <set icon="icon.etc_tuna_i05"/>
+   <set weight="100" />
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+   <skills>
+     <skill id="2269" level="7"/>
+   </skills>
+  </etc>
+  <etc id="8482" name="Large Black Ugly Fish - Upper Grade" itemType="Other" >
+   <set icon="icon.etc_angler_i05"/>
+   <set weight="100" />
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+   <skills>
+     <skill id="2269" level="8"/>
+   </skills>
+  </etc>
+  <etc id="8483" name="Large Black Fat Fish - Upper Grade" itemType="Other" >
+   <set icon="icon.etc_bream_i05"/>
+   <set weight="100" />
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+   <skills>
+     <skill id="2269" level="9"/>
+   </skills>
+  </etc>
+  <etc id="8484" name="Prize-Winning Fishing Lure" itemType="Other" >
+   <set icon="icon.etc_gludio_fish_lure_i00"/>
+   <set weight="4" price="240"/>
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="8485" name="Prize-Winning Night Fishing Lure" itemType="Other" >
+   <set icon="icon.etc_gludio_fish_lure_i00"/>
+   <set weight="4" price="240"/>
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="8486" name="Prize-Winning Novice Fishing Lure" itemType="Other" >
+   <set icon="icon.etc_gludio_fish_lure_i00"/>
+   <set weight="5" price="100"/>
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="8487" name="Recipe: Destroyer Hammer (60%)" itemType="Receipe" >
+   <set icon="icon.etc_recipe_violet_i00"/>
+   <set weight="30" price="366000"/>
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="8488" name="Engraved Hammer" itemType="Quest" >
+   <set icon="icon.weapon_big_hammer_i00"/>
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="8489" name="Daimon's Eyes" itemType="Quest" >
+   <set icon="icon.etc_eyeball_i00"/>
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="8490" name="Hestia's Fairy Stone" itemType="Quest" >
+   <set icon="icon.etc_crystal_gold_i00"/>
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="8491" name="Nucleus of Lesser Golem" itemType="Quest" >
+   <set icon="icon.etc_bead_white_i00"/>
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="8492" name="Falston's Fang" itemType="Quest" >
+   <set icon="icon.etc_fang_ivory_i00"/>
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="8493" name="Shaid's Talon" itemType="Quest" >
+   <set icon="icon.etc_claw_i00"/>
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="8494" name="Nucleus of Flamestone Giant" itemType="Quest" >
+   <set icon="icon.etc_bead_red_i00"/>
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="8495" name="Book of Grey Star" itemType="Quest" >
+   <set icon="icon.etc_memopad_i00"/>
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="8496" name="Gludio's Luminous Lure" itemType="Other" >
+   <set icon="icon.etc_gludio_fish_lure_i00"/>
+   <set weight="5" />
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="8497" name="Dion's Luminous Lure" itemType="Other" >
+   <set icon="icon.etc_gludio_fish_lure_i00"/>
+   <set weight="4" />
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="8498" name="Giran's Luminous Lure" itemType="Other" >
+   <set icon="icon.etc_gludio_fish_lure_i00"/>
+   <set weight="3" />
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="8499" name="Oren's Luminous Lure" itemType="Other" >
+   <set icon="icon.etc_gludio_fish_lure_i00"/>
+   <set weight="5" />
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="8500" name="Aden's Luminous Lure" itemType="Other" >
+   <set icon="icon.etc_gludio_fish_lure_i00"/>
+   <set weight="4" />
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="8501" name="Innadril's Luminous Lure" itemType="Other" >
+   <set icon="icon.etc_gludio_fish_lure_i00"/>
+   <set weight="3" />
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="8502" name="Goddard's Luminous Lure" itemType="Other" >
+   <set icon="icon.etc_gludio_fish_lure_i00"/>
+   <set weight="5" />
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="8503" name="Rune's Luminous Lure" itemType="Other" >
+   <set icon="icon.etc_gludio_fish_lure_i00"/>
+   <set weight="4" />
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="8504" name="Schuttgart's Luminous Lure" itemType="Other" >
+   <set icon="icon.etc_gludio_fish_lure_i00"/>
+   <set weight="3" />
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="8505" name="Green Luminous Lure - Low Grade" itemType="Other" >
+   <set icon="icon.etc_gludio_fish_lure_i00"/>
+   <set weight="5" />
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="8506" name="Green Luminous Lure" itemType="Other" >
+   <set icon="icon.etc_bait_i00"/>
+   <set weight="4" price="120"/>
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="8507" name="Green Colored Lure - High Grade" itemType="Other" >
+   <set icon="icon.etc_gludio_fish_lure_i00"/>
+   <set weight="3" />
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="8508" name="Purple Luminous Lure - Low Grade" itemType="Other" >
+   <set icon="icon.etc_gludio_fish_lure_i00"/>
+   <set weight="5" />
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="8509" name="Purple Luminous Lure" itemType="Other" >
+   <set icon="icon.etc_bait_i01"/>
+   <set weight="4" price="180"/>
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="8510" name="Purple Luminous Lure - High Grade" itemType="Other" >
+   <set icon="icon.etc_gludio_fish_lure_i00"/>
+   <set weight="3" />
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="8511" name="Yellow Luminous Lure - Low Grade" itemType="Other" >
+   <set icon="icon.etc_gludio_fish_lure_i00"/>
+   <set weight="5" />
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="8512" name="Yellow Luminous Lure" itemType="Other" >
+   <set icon="icon.etc_bait_i02"/>
+   <set weight="4" price="150"/>
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="8513" name="Yellow Luminous Lure - High Grade" itemType="Other" >
+   <set icon="icon.etc_gludio_fish_lure_i00"/>
+   <set weight="3" />
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="8514" name="Remnants of Old Dwarves' Dreams" itemType="Quest" >
+   <set icon="icon.etc_inf_ore_high_i00"/>
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="8515" name="Charm of Courage: No Grade" itemType="Scroll" >
+   <set icon="icon.etc_charm_of_courage_i00"/>
+   <set weight="10" price="2000"/>
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="8516" name="Charm of Courage: D-Grade" itemType="Scroll" >
+   <set icon="icon.etc_charm_of_courage_i01"/>
+   <set weight="10" price="6600"/>
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="8517" name="Charm of Courage: C-Grade" itemType="Scroll" >
+   <set icon="icon.etc_charm_of_courage_i02"/>
+   <set weight="10" price="13200"/>
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="8518" name="Charm of Courage: B-Grade" itemType="Scroll" >
+   <set icon="icon.etc_charm_of_courage_i03"/>
+   <set weight="10" price="26000"/>
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="8519" name="Charm of Courage: A-Grade" itemType="Scroll" >
+   <set icon="icon.etc_charm_of_courage_i04"/>
+   <set weight="10" price="54000"/>
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="8520" name="Charm of Courage: S-Grade" itemType="Scroll" >
+   <set icon="icon.etc_charm_of_courage_i05"/>
+   <set weight="10" price="100000"/>
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="8521" name="Seed: Sea Coba" itemType="Seed" >
+   <set icon="icon.etc_sea_coba_seed_i00"/>
+   <set weight="1" price="900"/>
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="8522" name="Seed: Alternative Sea Coba" itemType="Seed" >
+   <set icon="icon.etc_sea_coba_seed_i00"/>
+   <set weight="1" price="900"/>
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="8523" name="Seed: Twin Coba" itemType="Seed" >
+   <set icon="icon.etc_twin_coba_seed_i00"/>
+   <set weight="1" price="1000"/>
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="8524" name="Seed: Alternative Twin Coba" itemType="Seed" >
+   <set icon="icon.etc_twin_coba_seed_i00"/>
+   <set weight="1" price="1000"/>
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="8525" name="Seed: Great Coba" itemType="Seed" >
+   <set icon="icon.etc_great_coba_seed_i00"/>
+   <set weight="1" price="1200"/>
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="8526" name="Seed: Alternative Great Coba" itemType="Seed" >
+   <set icon="icon.etc_great_coba_seed_i00"/>
+   <set weight="1" price="1200"/>
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="8534" name="Adventurer's Box: C-Grade Accessory (Low Grade)" itemType="Other" >
+   <set icon="icon.etc_box_of_adventure_1_i00"/>
+   <set weight="20" />
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+   <skills>
+     <skill id="2270" level="1"/>
+   </skills>
+  </etc>
+  <etc id="8535" name="Adventurer's Box: C-Grade Accessory (Medium Grade)" itemType="Other" >
+   <set icon="icon.etc_box_of_adventure_1_i00"/>
+   <set weight="20" />
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+   <skills>
+     <skill id="2270" level="2"/>
+   </skills>
+  </etc>
+  <etc id="8536" name="Adventurer's Box: C-Grade Accessory (High Grade)" itemType="Other" >
+   <set icon="icon.etc_box_of_adventure_1_i00"/>
+   <set weight="20" />
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+   <skills>
+     <skill id="2270" level="3"/>
+   </skills>
+  </etc>
+  <etc id="8537" name="Adventurer's Box: B-Grade Accessory (Low Grade)" itemType="Other" >
+   <set icon="icon.etc_box_of_adventure_2_i00"/>
+   <set weight="20" />
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+   <skills>
+     <skill id="2270" level="4"/>
+   </skills>
+  </etc>
+  <etc id="8538" name="Adventurer's Box: B-Grade Accessory (High Grade)" itemType="Other" >
+   <set icon="icon.etc_box_of_adventure_3_i00"/>
+   <set weight="20" />
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+   <skills>
+     <skill id="2270" level="5"/>
+   </skills>
+  </etc>
+  <etc id="8539" name="Adventurer's Box: Hair Accessory" itemType="Other" >
+   <set icon="icon.etc_box_of_adventure_4_i00"/>
+   <set weight="20" />
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+   <skills>
+     <skill id="2270" level="6"/>
+   </skills>
+  </etc>
+  <etc id="8540" name="Adventurer's Box: Cradle of Creation" itemType="Other" >
+   <set icon="icon.etc_box_of_adventure_5_i00"/>
+   <set weight="20" />
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+   <skills>
+     <skill id="2270" level="7"/>
+   </skills>
+  </etc>
+  <etc id="8542" name="Newbie Travel Token" itemType="Other" >
+   <set icon="icon.etc_coins_gold_i00"/>
+   <set weight="10" />
+   <set stackable="true"/>
+   <set sellable="false" tradeable="false" />
+   <set dropable="false" destroyable="true"/>
+  </etc>
+  <etc id="8543" name="Bead Parcel" itemType="Quest" >
+   <set icon="icon.accessary_mage_earing_i00"/>
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="8544" name="Timora Orc's Head" itemType="Quest" >
+   <set icon="icon.etc_skull_red_i00"/>
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="8545" name="Kasha Spider's Tooth" itemType="Quest" >
+   <set icon="icon.etc_claw_i00"/>
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="8546" name="Horn of Baar Dre Vanul" itemType="Quest" >
+   <set icon="icon.etc_horn_i00"/>
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="8547" name="Old Box" itemType="Other" >
+   <set icon="icon.etc_box_of_adventure_1_i00"/>
+   <set weight="100" price="1500"/>
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="8548" name="Hot Springs Lure" itemType="Other" >
+   <set icon="icon.etc_bait_i02"/>
+   <set weight="3" price="200"/>
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="8549" name="Bruin Lizardman Blood" itemType="Quest" >
+   <set icon="icon.etc_lesser_potion_purple_i00"/>
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="8550" name="Picot Araneid's Leg" itemType="Quest" >
+   <set icon="icon.etc_sting_b_i00"/>
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="8551" name="Box of Cheerleading Gear Used to encourage victory." itemType="Material" >
+   <set icon="icon.etc_box_of_adventure_1_i00"/>
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="8553" name="Red Mask of Victory,Fabric" itemType="Receipe" >
+   <set icon="icon.etc_piece_of_cloth_red_i00"/>
+   <set weight="60" />
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="8554" name="Recipe: Red Mask of Victory (100%)" itemType="Receipe" >
+   <set icon="icon.etc_recipe_green_i00"/>
+   <set weight="30" />
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="8555" name="Echo Crystal - Viva Victory Korea" itemType="Other" >
+   <set icon="icon.etc_echo_crystal_i00"/>
+   <set weight="10" />
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+   <skills>
+     <skill id="2272" level="1"/>
+   </skills>
+  </etc>
+  <etc id="8556" name="Dewdrop of Destruction" itemType="Other" >
+   <set icon="icon.etc_lesser_potion_red_i00"/>
+   <set weight="3" />
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="false" destroyable="true"/>
+  </etc>
+  <etc id="8570" name="Event Gift Box" itemType="Other" >
+   <set icon="icon.etc_box_of_adventure_3_i00"/>
+   <set weight="20" />
+   <set stackable="true"/>
+   <set sellable="false" tradeable="false" />
+   <set dropable="false" destroyable="true"/>
+  </etc>
+  <etc id="8571" name="Event Gift Box" itemType="Other" >
+   <set icon="icon.etc_box_of_adventure_3_i00"/>
+   <set weight="20" />
+   <set stackable="true"/>
+   <set sellable="false" tradeable="false" />
+   <set dropable="false" destroyable="true"/>
+  </etc>
+  <etc id="8572" name="Event Gift Box" itemType="Other" >
+   <set icon="icon.etc_box_of_adventure_3_i00"/>
+   <set weight="20" />
+   <set stackable="true"/>
+   <set sellable="false" tradeable="false" />
+   <set dropable="false" destroyable="true"/>
+  </etc>
+  <etc id="8573" name="Event Gift Box" itemType="Other" >
+   <set icon="icon.etc_box_of_adventure_3_i00"/>
+   <set weight="20" />
+   <set stackable="true"/>
+   <set sellable="false" tradeable="false" />
+   <set dropable="false" destroyable="true"/>
+  </etc>
+  <etc id="8574" name="Event Gift Box" itemType="Other" >
+   <set icon="icon.etc_box_of_adventure_3_i00"/>
+   <set weight="20" />
+   <set stackable="true"/>
+   <set sellable="false" tradeable="false" />
+   <set dropable="false" destroyable="true"/>
+  </etc>
+  <etc id="8575" name="Event Gift Box" itemType="Other" >
+   <set icon="icon.etc_box_of_adventure_3_i00"/>
+   <set weight="20" />
+   <set stackable="true"/>
+   <set sellable="false" tradeable="false" />
+   <set dropable="false" destroyable="true"/>
+  </etc>
+  <etc id="8592" name="Weapon Exchange Coupon - No Grade" itemType="Other" >
+   <set icon="icon.etc_lottery_card_i00"/>
+   <set weight="1" />
+   <set stackable="false"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="8593" name="Weapon Exchange Coupon - D Grade" itemType="Scroll" >
+   <set icon="icon.etc_lottery_card_i00"/>
+   <set weight="1" />
+   <set stackable="false"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="8594" name="Scroll: Recovery (No Grade)" itemType="Scroll" >
+   <set icon="icon.etc_penalty_recovery_i00"/>
+   <set weight="10" price="2000"/>
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="8595" name="Scroll: Recovery (Grade D)" itemType="Scroll" >
+   <set icon="icon.etc_penalty_recovery_i01"/>
+   <set weight="10" price="4800"/>
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="8596" name="Scroll: Recovery (Grade C)" itemType="Scroll" >
+   <set icon="icon.etc_penalty_recovery_i02"/>
+   <set weight="10" price="14000"/>
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="8597" name="Scroll: Recovery (Grade B)" itemType="Scroll" >
+   <set icon="icon.etc_penalty_recovery_i03"/>
+   <set weight="10" price="28000"/>
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="8598" name="Scroll: Recovery (Grade A)" itemType="Scroll" >
+   <set icon="icon.etc_penalty_recovery_i04"/>
+   <set weight="10" price="48000"/>
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="8599" name="Scroll: Recovery (Grade S)" itemType="Scroll" >
+   <set icon="icon.etc_penalty_recovery_i05"/>
+   <set weight="10" price="80000"/>
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="8600" name="Herb of Life" itemType="Herb" >
+   <set icon="icon.skill4416_etc"/>
+   <set stackable="false"/>
+   <set sellable="false" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="8601" name="Greater Herb of Life" itemType="Herb" >
+   <set icon="icon.skill4416_etc"/>
+   <set stackable="false"/>
+   <set sellable="false" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="8602" name="Superior Herb of Life" itemType="Herb" >
+   <set icon="icon.skill4416_etc"/>
+   <set stackable="false"/>
+   <set sellable="false" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="8603" name="Herb of Mana" itemType="Herb" >
+   <set icon="icon.skill4416_etc"/>
+   <set stackable="false"/>
+   <set sellable="false" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="8604" name="Greater Herb of Mana" itemType="Herb" >
+   <set icon="icon.skill4416_etc"/>
+   <set stackable="false"/>
+   <set sellable="false" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="8605" name="Superior Herb of Mana" itemType="Herb" >
+   <set icon="icon.skill4416_etc"/>
+   <set stackable="false"/>
+   <set sellable="false" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="8606" name="Herb of Power" itemType="Herb" >
+   <set icon="icon.skill4416_etc"/>
+   <set stackable="false"/>
+   <set sellable="false" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="8607" name="Herb of Magic" itemType="Herb" >
+   <set icon="icon.skill4416_etc"/>
+   <set stackable="false"/>
+   <set sellable="false" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="8608" name="Herb of Atk. Spd." itemType="Herb" >
+   <set icon="icon.etc_attack_sp_herb_i00"/>
+   <set stackable="false"/>
+   <set sellable="false" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="8609" name="Herb of Casting Spd." itemType="Herb" >
+   <set icon="icon.etc_magic_sp_herb_i00"/>
+   <set stackable="false"/>
+   <set sellable="false" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="8610" name="Herb of Critical Attack - Probability" itemType="Herb" >
+   <set icon="icon.etc_critical_herb_i00"/>
+   <set stackable="false"/>
+   <set sellable="false" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="8611" name="Herb of Speed" itemType="Herb" >
+   <set icon="icon.etc_move_herb_i00"/>
+   <set stackable="false"/>
+   <set sellable="false" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="8612" name="Herb of the Warrior" itemType="Herb" >
+   <set icon="icon.etc_warrior_set_i00"/>
+   <set stackable="false"/>
+   <set sellable="false" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="8613" name="Herb of the Mystic" itemType="Herb" >
+   <set icon="icon.etc_magic_set_i00"/>
+   <set stackable="false"/>
+   <set sellable="false" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="8614" name="Herb of Recovery" itemType="Herb" >
+   <set icon="icon.etc_recovery_set_i00"/>
+   <set stackable="false"/>
+   <set sellable="false" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="8615" name="Summoning Crystal" itemType="Other" >
+   <set icon="icon.etc_recall_crystal_i00"/>
+   <set weight="10" price="35000"/>
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="8616" name="Spellbook: Summon Friend" itemType="Spellbook" >
+   <set icon="icon.etc_party_sommons_i00"/>
+   <set weight="120" price="6250"/>
+   <set stackable="false"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="8617" name="Spellbook: Word of Invitation" itemType="Spellbook" >
+   <set icon="icon.etc_party_sommons_i01"/>
+   <set weight="120" />
+   <set stackable="false"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="8618" name="Ancient Book - Divine Inspiration (Modern Language Version)" itemType="Spellbook" >
+   <set icon="icon.etc_add_buffslot_i00"/>
+   <set weight="120" />
+   <set stackable="false"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="8619" name="Ancient Book - Divine Inspiration (Original Language Version)" itemType="Spellbook" >
+   <set icon="icon.etc_add_buffslot_i01"/>
+   <set weight="120" />
+   <set stackable="false"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="8620" name="Ancient Book - Divine Inspiration (Manuscript)" itemType="Spellbook" >
+   <set icon="icon.etc_add_buffslot_i02"/>
+   <set weight="120" />
+   <set stackable="false"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="8621" name="Ancient Book - Divine Inspiration (Original Version)" itemType="Spellbook" >
+   <set icon="icon.etc_add_buffslot_i03"/>
+   <set weight="120" />
+   <set stackable="false"/>
+   <set sellable="false" tradeable="false" />
+   <set dropable="false" destroyable="true"/>
+  </etc>
+  <etc id="8622" name="Elixir of Life (No Grade)" itemType="Potion" >
+   <set icon="icon.etc_super_hp_potion_i00"/>
+   <set weight="5" />
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="8623" name="Elixir of Life (D-Grade)" itemType="Potion" >
+   <set icon="icon.etc_super_hp_potion_i01"/>
+   <set weight="5" />
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="8624" name="Elixir of Life (C-Grade)" itemType="Potion" >
+   <set icon="icon.etc_super_hp_potion_i02"/>
+   <set weight="5" />
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="8625" name="Elixir of Life (B-Grade)" itemType="Potion" >
+   <set icon="icon.etc_super_hp_potion_i03"/>
+   <set weight="5" />
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="8626" name="Elixir of Life (A-Grade)" itemType="Potion" >
+   <set icon="icon.etc_super_hp_potion_i04"/>
+   <set weight="5" />
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="8627" name="Elixir of Life (S-Grade)" itemType="Potion" >
+   <set icon="icon.etc_super_hp_potion_i05"/>
+   <set weight="5" />
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="8628" name="Elixir of Mental Strength (No Grade)" itemType="Potion" >
+   <set icon="icon.etc_super_mp_potion_i00"/>
+   <set weight="5" />
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="8629" name="Elixir of Mental Strength (D-Grade)" itemType="Potion" >
+   <set icon="icon.etc_super_mp_potion_i01"/>
+   <set weight="5" />
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="8630" name="Elixir of Mental Strength (C-Grade)" itemType="Potion" >
+   <set icon="icon.etc_super_mp_potion_i02"/>
+   <set weight="5" />
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="8631" name="Elixir of Mental Strength (B-Grade)" itemType="Potion" >
+   <set icon="icon.etc_super_mp_potion_i03"/>
+   <set weight="5" />
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="8632" name="Elixir of Mental Strength (A-Grade)" itemType="Potion" >
+   <set icon="icon.etc_super_mp_potion_i04"/>
+   <set weight="5" />
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="8633" name="Elixir of Mental Strength (S-Grade)" itemType="Potion" >
+   <set icon="icon.etc_super_mp_potion_i05"/>
+   <set weight="5" />
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="8634" name="Elixir of CP (No Grade)" itemType="Potion" >
+   <set icon="icon.etc_super_cp_potion_i00"/>
+   <set weight="5" />
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="8635" name="Elixir of CP (D-Grade)" itemType="Potion" >
+   <set icon="icon.etc_super_cp_potion_i01"/>
+   <set weight="5" />
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="8636" name="Elixir of CP (C-Grade)" itemType="Potion" >
+   <set icon="icon.etc_super_cp_potion_i02"/>
+   <set weight="5" />
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="8637" name="Elixir of CP (B-Grade)" itemType="Potion" >
+   <set icon="icon.etc_super_cp_potion_i03"/>
+   <set weight="5" />
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="8638" name="Elixir of CP (A-Grade)" itemType="Potion" >
+   <set icon="icon.etc_super_cp_potion_i04"/>
+   <set weight="5" />
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="8639" name="Elixir of CP (S-Grade)" itemType="Potion" >
+   <set icon="icon.etc_super_cp_potion_i05"/>
+   <set weight="5" />
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="8640" name="Recipe: Elixir of Life (No Grade) (100%)" itemType="Receipe" >
+   <set icon="icon.etc_recipe_white_i00"/>
+   <set weight="30" />
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="8641" name="Recipe: Elixir of Life (D-Grade)" itemType="Receipe" >
+   <set icon="icon.etc_recipe_blue_i00"/>
+   <set weight="30" />
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="8642" name="Recipe: Elixir of Life (C-Grade) (100%)" itemType="Receipe" >
+   <set icon="icon.etc_recipe_yellow_i00"/>
+   <set weight="30" />
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="8643" name="Recipe: Elixir of Life (B-Grade) (100%)" itemType="Receipe" >
+   <set icon="icon.etc_recipe_red_i00"/>
+   <set weight="30" price="2000"/>
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="8644" name="Recipe: Elixir of Life (A-Grade) (100%)" itemType="Receipe" >
+   <set icon="icon.etc_recipe_violet_i00"/>
+   <set weight="30" price="2500"/>
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="8645" name="Recipe: Elixir of Life (S-Grade) (100%)" itemType="Receipe" >
+   <set icon="icon.etc_recipe_black_i00"/>
+   <set weight="30" price="3000"/>
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="8646" name="Recipe: Elixir of Mental Strength (No Grade) (100%)" itemType="Receipe" >
+   <set icon="icon.etc_recipe_white_i00"/>
+   <set weight="30" price="640"/>
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="8647" name="Recipe: Elixir of Mental Strength (D-Grade) (100%)" itemType="Receipe" >
+   <set icon="icon.etc_recipe_blue_i00"/>
+   <set weight="30" price="1200"/>
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="8648" name="Recipe: Elixir of Mental Strength (C-Grade) (100%)" itemType="Receipe" >
+   <set icon="icon.etc_recipe_yellow_i00"/>
+   <set weight="30" price="1760"/>
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="8649" name="Recipe: Elixir of Mental Strength (B-Grade) (100%)" itemType="Receipe" >
+   <set icon="icon.etc_recipe_red_i00"/>
+   <set weight="30" price="2320"/>
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="8650" name="Recipe: Elixir of Mental Strength (A-Grade) (100%)" itemType="Receipe" >
+   <set icon="icon.etc_recipe_violet_i00"/>
+   <set weight="30" price="2880"/>
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="8651" name="Recipe: Elixir of Mental Strength (S-Grade) (100%)" itemType="Receipe" >
+   <set icon="icon.etc_recipe_black_i00"/>
+   <set weight="30" price="3360"/>
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="8652" name="Recipe: Elixir of CP (No Grade) (100%)" itemType="Receipe" >
+   <set icon="icon.etc_recipe_white_i00"/>
+   <set weight="30" />
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="8653" name="Recipe: Elixir of CP (D-Grade) (100%)" itemType="Receipe" >
+   <set icon="icon.etc_recipe_blue_i00"/>
+   <set weight="30" />
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="8654" name="Recipe: Elixir of CP (C-Grade) (100%)" itemType="Receipe" >
+   <set icon="icon.etc_recipe_yellow_i00"/>
+   <set weight="30" />
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="8655" name="Recipe: Elixir of CP (B-Grade) (100%)" itemType="Receipe" >
+   <set icon="icon.etc_recipe_red_i00"/>
+   <set weight="30" />
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="8656" name="Recipe: Elixir of CP (A-Grade) (100%)" itemType="Receipe" >
+   <set icon="icon.etc_recipe_violet_i00"/>
+   <set weight="30" />
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="8657" name="Recipe: Elixir of CP (S-Grade) (100%)" itemType="Receipe" >
+   <set icon="icon.etc_recipe_black_i00"/>
+   <set weight="30" />
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="8658" name="Mysterious Solvent" itemType="Other" >
+   <set icon="icon.etc_dragon_blood_i00"/>
+   <set weight="2" price="100"/>
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="8659" name="Coffer of Shadows" itemType="Potion" >
+   <set icon="icon.etc_box_of_adventure_1_i00"/>
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="8663" name="Mystery Potion (Event)" itemType="Potion" >
+   <set icon="icon.etc_lesser_potion_clear_i00"/>
+   <set weight="50" />
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="8664" name="Facelifting Potion - A (Event)" itemType="Potion" >
+   <set icon="icon.etc_lesser_potion_purple_i00"/>
+   <set weight="50" />
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="8665" name="Facelifting Potion - B (Event)" itemType="Potion" >
+   <set icon="icon.etc_lesser_potion_purple_i00"/>
+   <set weight="50" />
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="8666" name="Facelifting Potion - C (Event)" itemType="Potion" >
+   <set icon="icon.etc_lesser_potion_purple_i00"/>
+   <set weight="50" />
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="8667" name="Dye Potion - A (Event)" itemType="Potion" >
+   <set icon="icon.etc_lesser_potion_scarlet_i00"/>
+   <set weight="50" />
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="8668" name="Dye Potion - B (Event)" itemType="Potion" >
+   <set icon="icon.etc_lesser_potion_scarlet_i00"/>
+   <set weight="50" />
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="8669" name="Dye Potion - C (Event)" itemType="Potion" >
+   <set icon="icon.etc_lesser_potion_scarlet_i00"/>
+   <set weight="50" />
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="8670" name="Dye Potion - D (Event)" itemType="Potion" >
+   <set icon="icon.etc_lesser_potion_scarlet_i00"/>
+   <set weight="50" />
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="8671" name="Hair Style Change Potion - A (Event)" itemType="Potion" >
+   <set icon="icon.etc_lesser_potion_green_i00"/>
+   <set weight="50" />
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="8672" name="Hair Style Change Potion - B (Event)" itemType="Potion" >
+   <set icon="icon.etc_lesser_potion_green_i00"/>
+   <set weight="50" />
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="8673" name="Hair Style Change Potion - C (Event)" itemType="Potion" >
+   <set icon="icon.etc_lesser_potion_green_i00"/>
+   <set weight="50" />
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="8674" name="Hair Style Change Potion - D (Event)" itemType="Potion" >
+   <set icon="icon.etc_lesser_potion_green_i00"/>
+   <set weight="50" />
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="8675" name="Hair Style Change Potion - E (Event)" itemType="Potion" >
+   <set icon="icon.etc_lesser_potion_green_i00"/>
+   <set weight="50" />
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="8676" name="Hair Style Change Potion - F (Event)" itemType="Potion" >
+   <set icon="icon.etc_lesser_potion_green_i00"/>
+   <set weight="50" />
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="8677" name="Hair Style Change Potion - G (Event)" itemType="Potion" >
+   <set icon="icon.etc_lesser_potion_green_i00"/>
+   <set weight="50" />
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="8690" name="Recipe: Sirra's Blade (60%)" itemType="Receipe" >
+   <set icon="icon.etc_recipe_violet_i00"/>
+   <set weight="30" />
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="8691" name="Recipe: Sirra's Blade (100%)" itemType="Receipe" >
+   <set icon="icon.etc_recipe_violet_i00"/>
+   <set weight="30" />
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="8692" name="Recipe: Sword of Ipos (60%)" itemType="Receipe" >
+   <set icon="icon.etc_recipe_violet_i00"/>
+   <set weight="30" />
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="8693" name="Recipe: Sword of Ipos (100%)" itemType="Receipe" >
+   <set icon="icon.etc_recipe_violet_i00"/>
+   <set weight="30" />
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="8694" name="Recipe: Barakiel's Axe (60%)" itemType="Receipe" >
+   <set icon="icon.etc_recipe_violet_i00"/>
+   <set weight="30" />
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="8695" name="Recipe: Barakiel's Axe (100%)" itemType="Receipe" >
+   <set icon="icon.etc_recipe_violet_i00"/>
+   <set weight="30" />
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="8696" name="Recipe: Behemoth's Tuning Fork (60%)" itemType="Receipe" >
+   <set icon="icon.etc_recipe_violet_i00"/>
+   <set weight="30" />
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="8697" name="Recipe: Behemoth's Tuning Fork (100%)" itemType="Receipe" >
+   <set icon="icon.etc_recipe_violet_i00"/>
+   <set weight="30" />
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="8698" name="Recipe: Naga Storm (60%)" itemType="Receipe" >
+   <set icon="icon.etc_recipe_violet_i00"/>
+   <set weight="30" />
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="8699" name="Recipe: Naga Storm (100%)" itemType="Receipe" >
+   <set icon="icon.etc_recipe_violet_i00"/>
+   <set weight="30" />
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="8700" name="Recipe: Tiphon's Spear (60%)" itemType="Receipe" >
+   <set icon="icon.etc_recipe_violet_i00"/>
+   <set weight="30" />
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="8701" name="Recipe: Tiphon's Spear (100%)" itemType="Receipe" >
+   <set icon="icon.etc_recipe_violet_i00"/>
+   <set weight="30" />
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="8702" name="Recipe: Shyeed's Bow (60%)" itemType="Receipe" >
+   <set icon="icon.etc_recipe_violet_i00"/>
+   <set weight="30" price="706000"/>
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="8703" name="Recipe: Shyeed's Bow (100%)" itemType="Receipe" >
+   <set icon="icon.etc_recipe_violet_i00"/>
+   <set weight="30" price="706000"/>
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="8704" name="Recipe: Sobekk's Hurricane (60%)" itemType="Receipe" >
+   <set icon="icon.etc_recipe_violet_i00"/>
+   <set weight="30" />
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="8705" name="Recipe: Sobekk's Hurricane (100%)" itemType="Receipe" >
+   <set icon="icon.etc_recipe_violet_i00"/>
+   <set weight="30" />
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="8706" name="Recipe: Themis' Tongue (60%)" itemType="Receipe" >
+   <set icon="icon.etc_recipe_violet_i00"/>
+   <set weight="30" />
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="8707" name="Recipe: Themis' Tongue (100%)" itemType="Receipe" >
+   <set icon="icon.etc_recipe_violet_i00"/>
+   <set weight="30" />
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="8708" name="Recipe: Cabrio's Hand (60%)" itemType="Receipe" >
+   <set icon="icon.etc_recipe_violet_i00"/>
+   <set weight="30" />
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="8709" name="Recipe: Cabrio's Hand (100%)" itemType="Receipe" >
+   <set icon="icon.etc_recipe_violet_i00"/>
+   <set weight="30" />
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="8710" name="Recipe: Daimon Crystal (60%)" itemType="Receipe" >
+   <set icon="icon.etc_recipe_violet_i00"/>
+   <set weight="30" />
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="8711" name="Recipe: Daimon Crystal (100%)" itemType="Receipe" >
+   <set icon="icon.etc_recipe_violet_i00"/>
+   <set weight="30" />
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="8712" name="Sirra's Blade Edge" itemType="Material" >
+   <set icon="icon.etc_sword_body_i00"/>
+   <set weight="60" />
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="8713" name="Sword of Ipos Blade" itemType="Material" >
+   <set icon="icon.etc_sword_body_i00"/>
+   <set weight="60" />
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="8714" name="Barakiel's Axe Piece" itemType="Material" >
+   <set icon="icon.etc_bark_gold_i00"/>
+   <set weight="60" />
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="8715" name="Behemoth's Tuning Fork Piece" itemType="Material" >
+   <set icon="icon.etc_bark_gold_i00"/>
+   <set weight="60" />
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="8716" name="Naga Storm Piece" itemType="Material" >
+   <set icon="icon.etc_bark_gold_i00"/>
+   <set weight="60" />
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="8717" name="Tiphon's Spear Edge" itemType="Material" >
+   <set icon="icon.etc_sword_body_i00"/>
+   <set weight="60" />
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="8718" name="Shyeed's Bow Shaft" itemType="Material" >
+   <set icon="icon.etc_branch_gold_i00"/>
+   <set weight="60" />
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="8719" name="Sobekk's Hurricane Edge" itemType="Material" >
+   <set icon="icon.etc_sword_body_i00"/>
+   <set weight="60" />
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="8720" name="Themis' Tongue Piece" itemType="Material" >
+   <set icon="icon.etc_bark_gold_i00"/>
+   <set weight="60" />
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="8721" name="Cabrio's Hand Head" itemType="Material" >
+   <set icon="icon.etc_squares_gray_i00"/>
+   <set weight="60" />
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="8722" name="Daimon Crystal Fragment" itemType="Material" >
+   <set icon="icon.etc_bark_gold_i00"/>
+   <set weight="60" />
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="8723" name="Life Stone: level 46" itemType="Other" >
+   <set icon="icon.etc_mineral_general_i00"/>
+   <set weight="2" price="5000"/>
+   <set stackable="false"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="8724" name="Life Stone: level 49" itemType="Other" >
+   <set icon="icon.etc_mineral_general_i00"/>
+   <set weight="2" price="6000"/>
+   <set stackable="false"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="8725" name="Life Stone: level 52" itemType="Other" >
+   <set icon="icon.etc_mineral_general_i00"/>
+   <set weight="2" price="7200"/>
+   <set stackable="false"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="8726" name="Life Stone: level 55" itemType="Other" >
+   <set icon="icon.etc_mineral_general_i00"/>
+   <set weight="2" price="8640"/>
+   <set stackable="false"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="8727" name="Life Stone: level 58" itemType="Other" >
+   <set icon="icon.etc_mineral_general_i01"/>
+   <set weight="2" price="10000"/>
+   <set stackable="false"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="8728" name="Life Stone: level 61" itemType="Other" >
+   <set icon="icon.etc_mineral_general_i01"/>
+   <set weight="2" price="12000"/>
+   <set stackable="false"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="8729" name="Life Stone: level 64" itemType="Other" >
+   <set icon="icon.etc_mineral_general_i02"/>
+   <set weight="2" price="15000"/>
+   <set stackable="false"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="8730" name="Life Stone: level 67" itemType="Other" >
+   <set icon="icon.etc_mineral_general_i02"/>
+   <set weight="2" price="18000"/>
+   <set stackable="false"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="8731" name="Life Stone: level 70" itemType="Other" >
+   <set icon="icon.etc_mineral_general_i02"/>
+   <set weight="2" price="21600"/>
+   <set stackable="false"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="8732" name="Life Stone: level 76" itemType="Other" >
+   <set icon="icon.etc_mineral_general_i03"/>
+   <set weight="2" price="24000"/>
+   <set stackable="false"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="8733" name="Mid-Grade Life Stone: level 46" itemType="Other" >
+   <set icon="icon.etc_mineral_special_i00"/>
+   <set weight="2" price="20000"/>
+   <set stackable="false"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="8734" name="Mid-Grade Life Stone: level 49" itemType="Other" >
+   <set icon="icon.etc_mineral_special_i00"/>
+   <set weight="2" price="24000"/>
+   <set stackable="false"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="8735" name="Mid-Grade Life Stone: level 52" itemType="Other" >
+   <set icon="icon.etc_mineral_special_i00"/>
+   <set weight="2" price="28800"/>
+   <set stackable="false"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="8736" name="Mid-Grade Life Stone: level 55" itemType="Other" >
+   <set icon="icon.etc_mineral_special_i00"/>
+   <set weight="2" price="34560"/>
+   <set stackable="false"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="8737" name="Mid-Grade Life Stone: level 58" itemType="Other" >
+   <set icon="icon.etc_mineral_special_i01"/>
+   <set weight="2" price="40000"/>
+   <set stackable="false"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="8738" name="Mid-Grade Life Stone: level 61" itemType="Other" >
+   <set icon="icon.etc_mineral_special_i01"/>
+   <set weight="2" price="48000"/>
+   <set stackable="false"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="8739" name="Mid-Grade Life Stone: level 64" itemType="Other" >
+   <set icon="icon.etc_mineral_special_i02"/>
+   <set weight="2" price="60000"/>
+   <set stackable="false"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="8740" name="Mid-Grade Life Stone: level 67" itemType="Other" >
+   <set icon="icon.etc_mineral_special_i02"/>
+   <set weight="2" price="72000"/>
+   <set stackable="false"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="8741" name="Mid-Grade Life Stone: level 70" itemType="Other" >
+   <set icon="icon.etc_mineral_special_i02"/>
+   <set weight="2" price="86400"/>
+   <set stackable="false"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="8742" name="Mid-Grade Life Stone: level 76" itemType="Other" >
+   <set icon="icon.etc_mineral_special_i03"/>
+   <set weight="2" price="96000"/>
+   <set stackable="false"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="8743" name="High-Grade Life Stone: level 46" itemType="Other" >
+   <set icon="icon.etc_mineral_rare_i00"/>
+   <set weight="2" price="200000"/>
+   <set stackable="false"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="8744" name="High-Grade Life Stone: level 49" itemType="Other" >
+   <set icon="icon.etc_mineral_rare_i00"/>
+   <set weight="2" price="240000"/>
+   <set stackable="false"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="8745" name="High-Grade Life Stone: level 52" itemType="Other" >
+   <set icon="icon.etc_mineral_rare_i00"/>
+   <set weight="2" price="288000"/>
+   <set stackable="false"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="8746" name="High-Grade Life Stone: level 55" itemType="Other" >
+   <set icon="icon.etc_mineral_rare_i00"/>
+   <set weight="2" price="345600"/>
+   <set stackable="false"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="8747" name="High-Grade Life Stone: level 58" itemType="Other" >
+   <set icon="icon.etc_mineral_rare_i01"/>
+   <set weight="2" price="400000"/>
+   <set stackable="false"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="8748" name="High-Grade Life Stone: level 61" itemType="Other" >
+   <set icon="icon.etc_mineral_rare_i01"/>
+   <set weight="2" price="480000"/>
+   <set stackable="false"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="8749" name="High-Grade Life Stone: level 64" itemType="Other" >
+   <set icon="icon.etc_mineral_rare_i02"/>
+   <set weight="2" price="600000"/>
+   <set stackable="false"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="8750" name="High-Grade Life Stone: level 67" itemType="Other" >
+   <set icon="icon.etc_mineral_rare_i02"/>
+   <set weight="2" price="720000"/>
+   <set stackable="false"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="8751" name="High-Grade Life Stone: level 70" itemType="Other" >
+   <set icon="icon.etc_mineral_rare_i02"/>
+   <set weight="2" price="864000"/>
+   <set stackable="false"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="8752" name="High-Grade Life Stone: level 76" itemType="Other" >
+   <set icon="icon.etc_mineral_rare_i03"/>
+   <set weight="2" price="960000"/>
+   <set stackable="false"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="8753" name="Top-Grade Life Stone: level 46" itemType="Other" >
+   <set icon="icon.etc_mineral_unique_i00"/>
+   <set weight="2" price="1000000"/>
+   <set stackable="false"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="8754" name="Top-Grade Life Stone: level 49" itemType="Other" >
+   <set icon="icon.etc_mineral_unique_i00"/>
+   <set weight="2" price="1200000"/>
+   <set stackable="false"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="8755" name="Top-Grade Life Stone: level 52" itemType="Other" >
+   <set icon="icon.etc_mineral_unique_i00"/>
+   <set weight="2" price="1440000"/>
+   <set stackable="false"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="8756" name="Top-Grade Life Stone: level 55" itemType="Other" >
+   <set icon="icon.etc_mineral_unique_i00"/>
+   <set weight="2" price="1728000"/>
+   <set stackable="false"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="8757" name="Top-Grade Life Stone: level 58" itemType="Other" >
+   <set icon="icon.etc_mineral_unique_i01"/>
+   <set weight="2" price="2000000"/>
+   <set stackable="false"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="8758" name="Top-Grade Life Stone: level 61" itemType="Other" >
+   <set icon="icon.etc_mineral_unique_i01"/>
+   <set weight="2" price="2400000"/>
+   <set stackable="false"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="8759" name="Top-Grade Life Stone: level 64" itemType="Other" >
+   <set icon="icon.etc_mineral_unique_i02"/>
+   <set weight="2" price="3000000"/>
+   <set stackable="false"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="8760" name="Top-Grade Life Stone: level 67" itemType="Other" >
+   <set icon="icon.etc_mineral_unique_i02"/>
+   <set weight="2" price="3600000"/>
+   <set stackable="false"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="8761" name="Top-Grade Life Stone: level 70" itemType="Other" >
+   <set icon="icon.etc_mineral_unique_i02"/>
+   <set weight="2" price="4320000"/>
+   <set stackable="false"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="8762" name="Top-Grade Life Stone: level 76" itemType="Other" >
+   <set icon="icon.etc_mineral_unique_i03"/>
+   <set weight="2" price="4800000"/>
+   <set stackable="false"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="8764" name="Trap Stone" itemType="Quest" >
+   <set icon="icon.etc_capture_stone_i00"/>
+   <set weight="2" price="500"/>
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="8765" name="Red Gem" itemType="Quest" >
+   <set icon="icon.etc_bead_red_i00"/>
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="8766" name="Spirit Bead" itemType="Other" >
+   <set icon="icon.etc_bead_blue_i00"/>
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="8767" name="Tyrannosaurus Claw" itemType="Quest" >
+   <set icon="icon.etc_claw_i00"/>
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="8768" name="Diary Fragment" itemType="Quest" >
+   <set icon="icon.etc_piece_of_paper_white_i00"/>
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="8769" name="Expedition Member's Letter" itemType="Quest" >
+   <set icon="icon.etc_letter_envelope_i00"/>
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="8770" name="Ornithomimus Claw" itemType="Quest" >
+   <set icon="icon.etc_claw_i00"/>
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="8771" name="Deinonychus Bone" itemType="Quest" >
+   <set icon="icon.etc_piece_bone_red_i00"/>
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="8772" name="Pachycephalosaurus Skin" itemType="Quest" >
+   <set icon="icon.etc_leather_yellow_i00"/>
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="8773" name="Practice Elrokian Trap" itemType="Quest" >
+   <set icon="icon.weapon_seize_mace_i00"/>
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="8774" name="Dinosaur Tissue" itemType="Quest" >
+   <set icon="icon.etc_bodypart_heart_i00"/>
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="8775" name="Dinosaur Egg" itemType="Quest" >
+   <set icon="icon.etc_dragon_egg_i05"/>
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="8776" name="Bones of a Plains Dinosaur" itemType="Quest" >
+   <set icon="icon.etc_piece_bone_black_i00"/>
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="8777" name="Ancient Creatures and How I Long To Be With Them" itemType="Quest" >
+   <set icon="icon.etc_spellbook_gray_i00"/>
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="8778" name="Mantarasa Egg" itemType="Quest" >
+   <set icon="icon.etc_dragon_egg_i03"/>
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="8779" name="Ornithomimus Claw" itemType="Quest" >
+   <set icon="icon.etc_claw_i00"/>
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="8780" name="Deinonychus Bone Fragment" itemType="Quest" >
+   <set icon="icon.etc_fang_red_i00"/>
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="8781" name="Epitaph of Wisdom" itemType="Quest" >
+   <set icon="icon.etc_ancient_tablet_i00"/>
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="8782" name="Gazkh Fragment" itemType="Quest" >
+   <set icon="icon.etc_piece_of_gazk_i00"/>
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="8783" name="Bone Powder" itemType="Quest" >
+   <set icon="icon.etc_powder_gray_i00"/>
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="8784" name="Gazkh" itemType="Quest" >
+   <set icon="icon.etc_head_of_gazk_i00"/>
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="8785" name="Dinosaur Fang Necklace" itemType="Quest" >
+   <set icon="icon.etc_ketra_friendship_1_i00"/>
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="8786" name="Primeval Potion" itemType="Potion" >
+   <set icon="icon.etc_potion_red_i00"/>
+   <set weight="2" />
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="8787" name="Sprigant's Fruit" itemType="Other" >
+   <set icon="icon.etc_fruit_green_i00"/>
+   <set weight="2" />
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="8868" name="Ziggo's Gemstone" itemType="Quest" >
+   <set icon="icon.etc_jewel_red_i00"/>
+   <set price="200000000"/>
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="8869" name="Shadow Item Exchange Coupon: D Grade" itemType="Other" >
+   <set icon="icon.etc_lottery_card_i00"/>
+   <set stackable="true"/>
+   <set sellable="false" tradeable="false" />
+   <set dropable="false" destroyable="true"/>
+  </etc>
+  <etc id="8870" name="Shadow Item Exchange Coupon: C Grade" itemType="Other" >
+   <set icon="icon.etc_lottery_card_i00"/>
+   <set stackable="true"/>
+   <set sellable="false" tradeable="false" />
+   <set dropable="false" destroyable="true"/>
+  </etc>
+  <etc id="8871" name="Strategy Guide" itemType="Other" >
+   <set icon="icon.etc_paper_black_i00"/>
+   <set weight="20" price="45000"/>
+   <set stackable="false"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="8872" name="Flash Gunpowder" itemType="Other" >
+   <set icon="icon.etc_powder_gray_i00"/>
+   <set weight="20" price="1500"/>
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="8873" name="Phoenix Blood" itemType="Other" >
+   <set icon="icon.etc_feather_gold_i00"/>
+   <set weight="20" price="20000"/>
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="8874" name="Einhasad's Holy Water" itemType="Other" >
+   <set icon="icon.etc_holy_grail_i00"/>
+   <set weight="20" price="20000"/>
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="8875" name="Battle Symbol" itemType="Other" >
+   <set icon="icon.etc_debris_i00"/>
+   <set weight="20" price="20000"/>
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="8876" name="Magic Symbol" itemType="Other" >
+   <set icon="icon.etc_dragon_egg_i02"/>
+   <set weight="20" price="20000"/>
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="8877" name="Spellbook: Soul of the Phoenix" itemType="Spellbook" >
+   <set icon="icon.etc_spell_books_element_i00"/>
+   <set weight="120" />
+   <set stackable="false"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="8878" name="Spellbook: Summon Feline King" itemType="Spellbook" >
+   <set icon="icon.etc_spell_books_summon_i00"/>
+   <set weight="120" />
+   <set stackable="false"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="8879" name="Spellbook: Summon Magnus the Unicorn" itemType="Spellbook" >
+   <set icon="icon.etc_spell_books_summon_i00"/>
+   <set weight="120" />
+   <set stackable="false"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="8880" name="Spellbook: Summon Spectral Knight" itemType="Spellbook" >
+   <set icon="icon.etc_spell_books_summon_i00"/>
+   <set weight="120" />
+   <set stackable="false"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="8881" name="Spellbook: Cleanse" itemType="Spellbook" >
+   <set icon="icon.etc_spell_books_assistance_i00"/>
+   <set weight="120" />
+   <set stackable="false"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="8882" name="Spellbook: Salvation" itemType="Spellbook" >
+   <set icon="icon.etc_spell_books_assistance_i00"/>
+   <set weight="120" price="110000"/>
+   <set stackable="false"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="8883" name="Spellbook: Mystic Immunity" itemType="Spellbook" >
+   <set icon="icon.etc_spell_books_assistance_i00"/>
+   <set weight="120" price="110000"/>
+   <set stackable="false"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="8884" name="Spellbook: Spell Turning" itemType="Spellbook" >
+   <set icon="icon.etc_spell_books_assistance_i00"/>
+   <set weight="120" />
+   <set stackable="false"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="8885" name="Amulet: Magnus' Chant" itemType="Spellbook" >
+   <set icon="icon.etc_orcish_talisman_i00"/>
+   <set weight="120" />
+   <set stackable="false"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="8886" name="Amulet: Victories of Pa'agrio" itemType="Spellbook" >
+   <set icon="icon.etc_orcish_talisman_i00"/>
+   <set weight="120" />
+   <set stackable="false"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="8887" name="Amulet: Pa'agrio's Emblem" itemType="Spellbook" >
+   <set icon="icon.etc_orcish_talisman_i00"/>
+   <set weight="120" />
+   <set stackable="false"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="8888" name="Amulet: Pa'agrio's Fist" itemType="Spellbook" >
+   <set icon="icon.etc_orcish_talisman_i00"/>
+   <set weight="120" price="110000"/>
+   <set stackable="false"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="8889" name="Amulet: Gate Chant" itemType="Spellbook" >
+   <set icon="icon.etc_orcish_talisman_i00"/>
+   <set weight="120" />
+   <set stackable="false"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="8890" name="Spellbook: Summon Attractive Cubic" itemType="Spellbook" >
+   <set icon="icon.etc_spell_books_summon_i00"/>
+   <set weight="120" price="7700"/>
+   <set stackable="false"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="8891" name="Spellbook: Aura Flash" itemType="Spellbook" >
+   <set icon="icon.etc_spell_books_white_i00"/>
+   <set weight="120" price="6750"/>
+   <set stackable="false"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="8892" name="Ancient Tactical Manual: Symbol of Defense" itemType="Spellbook" >
+   <set icon="icon.etc_spell_books_assistance_i00"/>
+   <set weight="120" />
+   <set stackable="false"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="8893" name="Ancient Tactical Manual: Symbol of Noise" itemType="Spellbook" >
+   <set icon="icon.etc_spell_books_assistance_i00"/>
+   <set weight="120" />
+   <set stackable="false"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="8894" name="Ancient Tactical Manual: Symbol of Resistance" itemType="Spellbook" >
+   <set icon="icon.etc_spell_books_assistance_i00"/>
+   <set weight="120" />
+   <set stackable="false"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="8895" name="Ancient Tactical Manual: Symbol of Honor" itemType="Spellbook" >
+   <set icon="icon.etc_spell_books_assistance_i00"/>
+   <set weight="120" />
+   <set stackable="false"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="8896" name="Ancient Tactical Manual: Symbol of Energy" itemType="Spellbook" >
+   <set icon="icon.etc_spell_books_assistance_i00"/>
+   <set weight="120" price="120000"/>
+   <set stackable="false"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="8897" name="Ancient Tactical Manual: Symbol of the Sniper" itemType="Spellbook" >
+   <set icon="icon.etc_spell_books_assistance_i00"/>
+   <set weight="120" />
+   <set stackable="false"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="8898" name="Ancient Tactical Manual: Symbol of the Assassin" itemType="Spellbook" >
+   <set icon="icon.etc_spell_books_assistance_i00"/>
+   <set weight="120" />
+   <set stackable="false"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="8899" name="Ancient Spellbook: Volcano" itemType="Spellbook" >
+   <set icon="icon.etc_spell_books_element_i00"/>
+   <set weight="120" />
+   <set stackable="false"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="8900" name="Ancient Spellbook: Cyclone" itemType="Spellbook" >
+   <set icon="icon.etc_spell_books_element_i00"/>
+   <set weight="120" />
+   <set stackable="false"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="8901" name="Ancient Spellbook: Raging Waves" itemType="Spellbook" >
+   <set icon="icon.etc_spell_books_element_i00"/>
+   <set weight="120" />
+   <set stackable="false"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="8902" name="Ancient Spellbook: Day of Doom" itemType="Spellbook" >
+   <set icon="icon.etc_spell_books_element_i00"/>
+   <set weight="120" />
+   <set stackable="false"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="8903" name="Ancient Spellbook: Gehenna" itemType="Spellbook" >
+   <set icon="icon.etc_spell_books_element_i00"/>
+   <set weight="120" />
+   <set stackable="false"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="8904" name="Ancient Spellbook: Anti-Summoning Field" itemType="Spellbook" >
+   <set icon="icon.etc_spell_books_element_i00"/>
+   <set weight="120" />
+   <set stackable="false"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="8905" name="Ancient Spellbook: Purification Field" itemType="Spellbook" >
+   <set icon="icon.etc_spell_books_element_i00"/>
+   <set weight="120" />
+   <set stackable="false"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="8906" name="Ancient Spellbook: Miracle" itemType="Spellbook" >
+   <set icon="icon.etc_spell_books_element_i00"/>
+   <set weight="120" />
+   <set stackable="false"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="8907" name="Ancient Spellbook: Flames of Invincibility" itemType="Spellbook" >
+   <set icon="icon.etc_spell_books_element_i00"/>
+   <set weight="120" />
+   <set stackable="false"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="8908" name="Ancient Spellbook: Mass Recharge" itemType="Spellbook" >
+   <set icon="icon.etc_spell_books_element_i00"/>
+   <set weight="120" />
+   <set stackable="false"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="8909" name="Blueprint: Summon Swoop Cannon" itemType="Spellbook" >
+   <set icon="icon.etc_plan_i00"/>
+   <set weight="120" price="9600"/>
+   <set stackable="false"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="8924" name="Boat Ticket: Primeval Isle to Rune." itemType="Other" >
+   <set icon="icon.etc_ticket_red_i00"/>
+   <set weight="20" price="25000"/>
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="8925" name="Boat Ticket: Rune to Primeval Isle." itemType="Other" >
+   <set icon="icon.etc_ticket_blue_i00"/>
+   <set weight="20" price="25000"/>
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="8939" name="Dominic's Mark" itemType="Quest" >
+   <set icon="icon.etc_leash_i00"/>
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="8940" name="Mark of the Future: Human" itemType="Quest" >
+   <set icon="icon.etc_jewel_green_i00"/>
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="8941" name="Mark of the Future: Dwarf" itemType="Quest" >
+   <set icon="icon.etc_jewel_gold_i00"/>
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="8942" name="Mark of the Future: Elf" itemType="Quest" >
+   <set icon="icon.etc_jewel_silver_i00"/>
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="8943" name="Mark of the Future: Dark Elf" itemType="Quest" >
+   <set icon="icon.etc_jewel_white_i00"/>
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="8944" name="Mark of the Future: Orc" itemType="Quest" >
+   <set icon="icon.etc_jewel_red_i00"/>
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="8945" name="Spellbook: Celestial Shield" itemType="Spellbook" >
+   <set icon="icon.etc_spell_books_element_i00"/>
+   <set weight="120" price="8100"/>
+   <set stackable="false"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="8946" name="Spellbook: Invocation" itemType="Spellbook" >
+   <set icon="icon.etc_spell_books_element_i00"/>
+   <set weight="120" price="6250"/>
+   <set stackable="false"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="8952" name="Greater Herb of Life" itemType="Herb" >
+   <set icon="icon.skill4416_etc"/>
+   <set stackable="false"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="8953" name="Greater Herb of Mana" itemType="Herb" >
+   <set icon="icon.skill4416_etc"/>
+   <set stackable="false"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="8954" name="Blue Primeval Crystal" itemType="Scroll" >
+   <set icon="icon.etc_sp_crystal_i00"/>
+   <set weight="10" price="50000"/>
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="8955" name="Green Primeval Crystal" itemType="Scroll" >
+   <set icon="icon.etc_sp_crystal_i02"/>
+   <set weight="10" price="100000"/>
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="8956" name="Red Primeval Crystal" itemType="Scroll" >
+   <set icon="icon.etc_sp_crystal_i01"/>
+   <set weight="10" price="200000"/>
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="8957" name="Attack Orders" itemType="Other" >
+   <set icon="icon.etc_lottery_card_i00"/>
+   <set weight="1" />
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="8958" name="Defense Orders" itemType="Other" >
+   <set icon="icon.etc_lottery_card_i00"/>
+   <set weight="1" />
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="8959" name="Supply Orders" itemType="Other" >
+   <set icon="icon.etc_lottery_card_i00"/>
+   <set weight="1" />
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="8960" name="No Grade Shadow Armor Set Box" itemType="Other" >
+   <set icon="icon.etc_box_of_adventure_1_i00"/>
+   <set weight="100" />
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="8961" name="D-Grade Shadow Armor Set Box" itemType="Other" >
+   <set icon="icon.etc_box_of_adventure_1_i00"/>
+   <set weight="100" />
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="8962" name="C-Grade Shadow Armor Set Box" itemType="Other" >
+   <set icon="icon.etc_box_of_adventure_1_i00"/>
+   <set weight="100" />
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="8963" name="B-Grade Shadow Armor Set Box" itemType="Other" >
+   <set icon="icon.etc_box_of_adventure_1_i00"/>
+   <set weight="100" />
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="8964" name="A-Grade Shadow Armor Set Box" itemType="Other" >
+   <set icon="icon.etc_box_of_adventure_1_i00"/>
+   <set weight="100" />
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="8965" name="S-Grade Shadow Armor Set Box" itemType="Other" >
+   <set icon="icon.etc_box_of_adventure_1_i00"/>
+   <set weight="100" />
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="8966" name="No Grade Item Set Box (Warrior Use)" itemType="Other" >
+   <set icon="icon.etc_box_of_adventure_1_i00"/>
+   <set weight="100" />
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="8967" name="D Grade Item Set Box (Warrior Use)" itemType="Other" >
+   <set icon="icon.etc_box_of_adventure_1_i00"/>
+   <set weight="100" />
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="8968" name="C Grade Item Set Box (Warrior Use)" itemType="Other" >
+   <set icon="icon.etc_box_of_adventure_1_i00"/>
+   <set weight="100" />
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="8969" name="B Grade Item Set Box (Warrior Use)" itemType="Other" >
+   <set icon="icon.etc_box_of_adventure_1_i00"/>
+   <set weight="100" />
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="8970" name="A Grade Item Set Box (Warrior Use)" itemType="Other" >
+   <set icon="icon.etc_box_of_adventure_1_i00"/>
+   <set weight="100" />
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="8971" name="A,S Grade Item Set Box (Warrior Use)" itemType="Other" >
+   <set icon="icon.etc_box_of_adventure_1_i00"/>
+   <set weight="100" />
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+</list>

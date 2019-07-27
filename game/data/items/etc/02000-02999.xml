@@ -1,0 +1,4957 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<list>
+  <etc id="2000" name="Tallum Helm Design" itemType="Material" >
+   <set icon="icon.etc_pouch_yellow_i00"/>
+   <set weight="60" price="5782"/>
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="2001" name="Helm of Avadon Design" itemType="Material" >
+   <set icon="icon.etc_pouch_yellow_i00"/>
+   <set weight="60" price="5782"/>
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="2002" name="Helmet of Pledge Pattern" itemType="Material" >
+   <set icon="icon.etc_letter_red_i00"/>
+   <set weight="60" price="5782"/>
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="2003" name="Gauntlets of Ghost Pattern" itemType="Material" >
+   <set icon="icon.etc_letter_red_i00"/>
+   <set weight="60" price="3673"/>
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="2004" name="Adamantite Boots Design" itemType="Material" >
+   <set icon="icon.etc_pouch_yellow_i00"/>
+   <set weight="60" price="3673"/>
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="2005" name="Broadsword Blade" itemType="Material" >
+   <set icon="icon.etc_sword_body_i00"/>
+   <set weight="60" price="2800"/>
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="2006" name="Willow Staff Head" itemType="Material" >
+   <set icon="icon.etc_squares_gray_i00"/>
+   <set weight="60" price="2800"/>
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="2007" name="Bow Shaft" itemType="Material" >
+   <set icon="icon.etc_branch_gold_i00"/>
+   <set weight="60" price="2800"/>
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="2008" name="Cedar Staff Head" itemType="Material" >
+   <set icon="icon.etc_squares_gray_i00"/>
+   <set weight="60" price="5140"/>
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="2009" name="Dirk Blade" itemType="Material" >
+   <set icon="icon.etc_sword_body_i00"/>
+   <set weight="60" price="5640"/>
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="2010" name="Brandish Blade" itemType="Material" >
+   <set icon="icon.etc_sword_body_i00"/>
+   <set weight="60" price="5140"/>
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="2011" name="Short Spear Edge" itemType="Material" >
+   <set icon="icon.etc_sword_body_i00"/>
+   <set weight="60" price="8767"/>
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="2012" name="Sword of Reflection Blade" itemType="Material" >
+   <set icon="icon.etc_sword_body_i00"/>
+   <set weight="60" price="9600"/>
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="2013" name="Forest Bow Shaft" itemType="Material" >
+   <set icon="icon.etc_branch_gold_i00"/>
+   <set weight="60" price="9267"/>
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="2014" name="Iron Hammer Head" itemType="Material" >
+   <set icon="icon.etc_squares_silver_i00"/>
+   <set weight="60" price="17400"/>
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="2015" name="Sword Breaker Edge" itemType="Material" >
+   <set icon="icon.etc_sword_body_i00"/>
+   <set weight="60" price="16400"/>
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="2016" name="Composite Bow Shaft" itemType="Material" >
+   <set icon="icon.etc_branch_gold_i00"/>
+   <set weight="60" price="17067"/>
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="2017" name="Saber Blade" itemType="Material" >
+   <set icon="icon.etc_sword_body_i00"/>
+   <set weight="60" price="15050"/>
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="2018" name="Assassin Knife Edge" itemType="Material" >
+   <set icon="icon.etc_sword_body_i00"/>
+   <set weight="60" price="15050"/>
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="2019" name="Trident Edge" itemType="Material" >
+   <set icon="icon.etc_sword_body_i00"/>
+   <set weight="60" price="9300"/>
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="2020" name="Temptation of Abyss Piece" itemType="Material" >
+   <set icon="icon.etc_oriharukon_ore_i00"/>
+   <set weight="60" price="11425"/>
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="2021" name="Spinebone Sword Blade" itemType="Material" >
+   <set icon="icon.etc_sword_body_i00"/>
+   <set weight="60" price="15840"/>
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="2022" name="Mace of Judgment Head" itemType="Material" >
+   <set icon="icon.etc_squares_silver_i00"/>
+   <set weight="60" price="12840"/>
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="2023" name="Conjuror's Staff Head" itemType="Material" >
+   <set icon="icon.etc_squares_gray_i00"/>
+   <set weight="60" price="16140"/>
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="2024" name="Elven Bow Shaft" itemType="Material" >
+   <set icon="icon.etc_branch_gold_i00"/>
+   <set weight="60" price="14040"/>
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="2025" name="Dwarven Trident Edge" itemType="Material" >
+   <set icon="icon.etc_sword_body_i00"/>
+   <set weight="60" price="14440"/>
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="2026" name="Two-Handed Sword Edge" itemType="Material" >
+   <set icon="icon.etc_sword_body_i00"/>
+   <set weight="60" price="16617"/>
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="2027" name="Spiked Club Head" itemType="Material" >
+   <set icon="icon.etc_squares_gray_i00"/>
+   <set weight="60" price="15267"/>
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="2028" name="Shilen Knife Edge" itemType="Material" >
+   <set icon="icon.etc_sword_body_i00"/>
+   <set weight="60" price="16833"/>
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="2029" name="Gastraphetes Shaft" itemType="Material" >
+   <set icon="icon.etc_branch_gold_i00"/>
+   <set weight="60" price="16767"/>
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="2030" name="Tome of Blood Page" itemType="Material" >
+   <set icon="icon.etc_piece_of_paper_gray_i00"/>
+   <set weight="60" price="17100"/>
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="2031" name="Morning Star Head" itemType="Material" >
+   <set icon="icon.etc_squares_gray_i00"/>
+   <set weight="60" price="19757"/>
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="2032" name="Goat Head Staff Head" itemType="Material" >
+   <set icon="icon.etc_squares_gray_i00"/>
+   <set weight="60" price="21643"/>
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="2033" name="Winged Spear Blade" itemType="Material" >
+   <set icon="icon.etc_sword_body_i00"/>
+   <set weight="60" price="17929"/>
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="2034" name="Sword of Revolution Blade" itemType="Material" >
+   <set icon="icon.etc_sword_body_i00"/>
+   <set weight="60" price="18929"/>
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="2035" name="Tarbar Head" itemType="Material" >
+   <set icon="icon.etc_squares_gray_i00"/>
+   <set weight="60" price="19757"/>
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="2036" name="Skull Breaker Head" itemType="Material" >
+   <set icon="icon.etc_squares_gray_i00"/>
+   <set weight="60" price="19757"/>
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="2037" name="Heavy Bone Club Head" itemType="Material" >
+   <set icon="icon.etc_squares_gray_i00"/>
+   <set weight="60" price="19757"/>
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="2038" name="Maingauche Edge" itemType="Material" >
+   <set icon="icon.etc_sword_body_i00"/>
+   <set weight="60" price="18929"/>
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="2039" name="Bich'Hwa Edge" itemType="Material" >
+   <set icon="icon.etc_sword_body_i00"/>
+   <set weight="60" price="19757"/>
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="2040" name="Strengthened Long Bow Shaft" itemType="Material" >
+   <set icon="icon.etc_branch_gold_i00"/>
+   <set weight="60" price="17286"/>
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="2041" name="War Pick Head" itemType="Material" >
+   <set icon="icon.etc_squares_gray_i00"/>
+   <set weight="60" price="17929"/>
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="2042" name="Crucifix of Blood Piece" itemType="Material" >
+   <set icon="icon.etc_squares_gray_i00"/>
+   <set weight="60" price="21643"/>
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="2043" name="Eye of Infinity Stone" itemType="Material" >
+   <set icon="icon.etc_crystal_ball_gold_i00"/>
+   <set weight="60" price="21643"/>
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="2044" name="Cursed Maingauche Edge" itemType="Material" >
+   <set icon="icon.etc_sword_body_i00"/>
+   <set weight="60" price="18929"/>
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="2045" name="Blue Crystal Skull Part" itemType="Material" >
+   <set icon="icon.etc_skull_red_i00"/>
+   <set weight="60" price="21786"/>
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="2046" name="Demon Fangs Part" itemType="Material" >
+   <set icon="icon.etc_horn_i00"/>
+   <set weight="60" price="21786"/>
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="2047" name="Claymore Blade" itemType="Material" >
+   <set icon="icon.etc_sword_body_i00"/>
+   <set weight="60" price="22750"/>
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="2048" name="Bonebreaker Head" itemType="Material" >
+   <set icon="icon.etc_squares_gray_i00"/>
+   <set weight="60" price="24188"/>
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="2049" name="Atuba Hammer Head" itemType="Material" >
+   <set icon="icon.etc_squares_gray_i00"/>
+   <set weight="60" price="24188"/>
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="2050" name="Ghost Staff Head" itemType="Material" >
+   <set icon="icon.etc_squares_gray_i00"/>
+   <set weight="60" price="22812"/>
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="2051" name="Staff of Life Shaft" itemType="Material" >
+   <set icon="icon.etc_branch_gold_i00"/>
+   <set weight="60" price="22812"/>
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="2052" name="Mithril Dagger Blade" itemType="Material" >
+   <set icon="icon.etc_sword_body_i00"/>
+   <set weight="60" price="23062"/>
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="2053" name="Scallop Jamadhr Edge" itemType="Material" >
+   <set icon="icon.etc_sword_body_i00"/>
+   <set weight="60" price="24188"/>
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="2054" name="Light Crossbow Shaft" itemType="Material" >
+   <set icon="icon.etc_branch_gold_i00"/>
+   <set weight="60" price="23500"/>
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="2055" name="Glaive Edge" itemType="Material" >
+   <set icon="icon.etc_sword_body_i00"/>
+   <set weight="60" price="24188"/>
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="2056" name="Vajra Wand Frame" itemType="Material" >
+   <set icon="icon.etc_mold_i00"/>
+   <set weight="60" price="22812"/>
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="2057" name="Ancient Reagent Remnant" itemType="Material" >
+   <set icon="icon.etc_potion_clear_i00"/>
+   <set weight="60" price="22812"/>
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="2058" name="Atuba Mace Head" itemType="Material" >
+   <set icon="icon.etc_squares_gray_i00"/>
+   <set weight="60" price="24188"/>
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="2059" name="Flamberge Blade" itemType="Material" >
+   <set icon="icon.etc_sword_body_i00"/>
+   <set weight="60" price="24125"/>
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="2060" name="Stormbringer Blade" itemType="Material" >
+   <set icon="icon.etc_sword_body_i00"/>
+   <set weight="60" price="24425"/>
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="2061" name="Big Hammer Head" itemType="Material" >
+   <set icon="icon.etc_squares_gray_i00"/>
+   <set weight="60" price="26800"/>
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="2062" name="Scythe Edge" itemType="Material" >
+   <set icon="icon.etc_sword_body_i00"/>
+   <set weight="60" price="22750"/>
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="2063" name="Battle Axe Head" itemType="Material" >
+   <set icon="icon.etc_squares_gray_i00"/>
+   <set weight="60" price="26800"/>
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="2064" name="Silver Axe Head" itemType="Material" >
+   <set icon="icon.etc_squares_gray_i00"/>
+   <set weight="60" price="26800"/>
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="2065" name="Skull Graver Head" itemType="Material" >
+   <set icon="icon.etc_squares_gray_i00"/>
+   <set weight="60" price="26800"/>
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="2066" name="Heavy Doom Hammer Head" itemType="Material" >
+   <set icon="icon.etc_squares_gray_i00"/>
+   <set weight="60" price="22750"/>
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="2067" name="Crystal Staff Head" itemType="Material" >
+   <set icon="icon.etc_squares_gray_i00"/>
+   <set weight="60" price="27000"/>
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="2068" name="Stick of Faith Shaft" itemType="Material" >
+   <set icon="icon.etc_branch_gold_i00"/>
+   <set weight="60" price="27000"/>
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="2069" name="Heavy Doom Axe Blade" itemType="Material" >
+   <set icon="icon.etc_sword_body_i00"/>
+   <set weight="60" price="22750"/>
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="2070" name="Cursed Dagger Blade" itemType="Material" >
+   <set icon="icon.etc_sword_body_i00"/>
+   <set weight="60" price="24425"/>
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="2071" name="Wolverine Needle Edge" itemType="Material" >
+   <set icon="icon.etc_sword_body_i00"/>
+   <set weight="60" price="24425"/>
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="2072" name="Dark Elven Dagger Edge" itemType="Material" >
+   <set icon="icon.etc_sword_body_i00"/>
+   <set weight="60" price="24425"/>
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="2073" name="Chakram Edge" itemType="Material" >
+   <set icon="icon.etc_sword_body_i00"/>
+   <set weight="60" price="26800"/>
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="2074" name="Crystallized Ice Bow Shaft" itemType="Material" >
+   <set icon="icon.etc_branch_gold_i00"/>
+   <set weight="60" price="26538"/>
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="2075" name="Orcish Glaive Blade" itemType="Material" >
+   <set icon="icon.etc_sword_body_i00"/>
+   <set weight="60" price="22750"/>
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="2076" name="Body Slasher Blade" itemType="Material" >
+   <set icon="icon.etc_sword_body_i00"/>
+   <set weight="60" price="22750"/>
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="2077" name="Shamshir Blade" itemType="Material" >
+   <set icon="icon.etc_sword_body_i00"/>
+   <set weight="60" price="29556"/>
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="2078" name="Katana Blade" itemType="Material" >
+   <set icon="icon.etc_sword_body_i00"/>
+   <set weight="60" price="29556"/>
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="2079" name="Bec De Corbin Blade" itemType="Material" >
+   <set icon="icon.etc_sword_body_i00"/>
+   <set weight="60" price="31667"/>
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="2080" name="Spirit Sword Blade" itemType="Material" >
+   <set icon="icon.etc_sword_body_i00"/>
+   <set weight="60" price="29556"/>
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="2081" name="Raid Sword Blade" itemType="Material" >
+   <set icon="icon.etc_sword_body_i00"/>
+   <set weight="60" price="29556"/>
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="2082" name="Cursed Staff Head" itemType="Material" >
+   <set icon="icon.etc_squares_gray_i00"/>
+   <set weight="60" price="30911"/>
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="2083" name="Stiletto Edge" itemType="Material" >
+   <set icon="icon.etc_sword_body_i00"/>
+   <set weight="60" price="29556"/>
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="2084" name="Soulfire Dirk Blade" itemType="Material" >
+   <set icon="icon.etc_sword_body_i00"/>
+   <set weight="60" price="29556"/>
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="2085" name="Crossbow Shaft" itemType="Material" >
+   <set icon="icon.etc_branch_gold_i00"/>
+   <set weight="60" price="26189"/>
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="2086" name="Elven Bow of Nobility Shaft" itemType="Material" >
+   <set icon="icon.etc_branch_gold_i00"/>
+   <set weight="60" price="26189"/>
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="2087" name="Tears of Fairy Drop" itemType="Material" >
+   <set icon="icon.etc_lesser_potion_clear_i00"/>
+   <set weight="60" price="30911"/>
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="2088" name="Horn of Glory Fragment" itemType="Material" >
+   <set icon="icon.etc_claw_i00"/>
+   <set weight="60" price="30911"/>
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="2089" name="Caliburs Edge" itemType="Material" >
+   <set icon="icon.etc_sword_body_i00"/>
+   <set weight="60" price="37450"/>
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="2090" name="Delusional Blade" itemType="Material" >
+   <set icon="icon.etc_sword_body_i00"/>
+   <set weight="60" price="37450"/>
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="2091" name="Tsurugi Blade" itemType="Material" >
+   <set icon="icon.etc_sword_body_i00"/>
+   <set weight="60" price="37450"/>
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="2092" name="Homunkulus's Sword Blade" itemType="Material" >
+   <set icon="icon.etc_sword_body_i00"/>
+   <set weight="60" price="37450"/>
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="2093" name="Poleaxe Blade" itemType="Material" >
+   <set icon="icon.etc_sword_body_i00"/>
+   <set weight="60" price="34200"/>
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="2094" name="Sword of Limit Blade" itemType="Material" >
+   <set icon="icon.etc_sword_body_i00"/>
+   <set weight="60" price="37450"/>
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="2095" name="Sword of Nightmare Blade" itemType="Material" >
+   <set icon="icon.etc_sword_body_i00"/>
+   <set weight="60" price="37450"/>
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="2096" name="Sword of Whispering Death Blade" itemType="Material" >
+   <set icon="icon.etc_sword_body_i00"/>
+   <set weight="60" price="37450"/>
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="2097" name="War Axe Blade" itemType="Material" >
+   <set icon="icon.etc_sword_body_i00"/>
+   <set weight="60" price="37000"/>
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="2098" name="Nirvana Axe Blade" itemType="Material" >
+   <set icon="icon.etc_sword_body_i00"/>
+   <set weight="60" price="37000"/>
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="2099" name="Stick of Eternity Shaft" itemType="Material" >
+   <set icon="icon.etc_branch_gold_i00"/>
+   <set weight="60" price="35900"/>
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="2100" name="Paradia Staff Head" itemType="Material" >
+   <set icon="icon.etc_squares_gray_i00"/>
+   <set weight="60" price="35900"/>
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="2101" name="Inferno Staff Head" itemType="Material" >
+   <set icon="icon.etc_squares_gray_i00"/>
+   <set weight="60" price="35900"/>
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="2102" name="Pa'agrian Hammer Head" itemType="Material" >
+   <set icon="icon.etc_squares_gray_i00"/>
+   <set weight="60" price="34200"/>
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="2103" name="Sage's Staff Head" itemType="Material" >
+   <set icon="icon.etc_squares_gray_i00"/>
+   <set weight="60" price="35900"/>
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="2104" name="Club of Nature Head" itemType="Material" >
+   <set icon="icon.etc_squares_gray_i00"/>
+   <set weight="60" price="35900"/>
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="2105" name="Mace of The Underworld Head" itemType="Material" >
+   <set icon="icon.etc_squares_gray_i00"/>
+   <set weight="60" price="37000"/>
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="2106" name="Grace Dagger Edge" itemType="Material" >
+   <set icon="icon.etc_sword_body_i00"/>
+   <set weight="60" price="37450"/>
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="2107" name="Dark Screamer Edge" itemType="Material" >
+   <set icon="icon.etc_sword_body_i00"/>
+   <set weight="60" price="37450"/>
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="2108" name="Fisted Blade Piece" itemType="Material" >
+   <set icon="icon.etc_sword_body_i00"/>
+   <set weight="60" price="37000"/>
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="2109" name="Akat Longbow Shaft" itemType="Material" >
+   <set icon="icon.etc_branch_gold_i00"/>
+   <set weight="60" price="41130"/>
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="2110" name="Heathen's Book Page" itemType="Material" >
+   <set icon="icon.etc_piece_of_paper_white_i00"/>
+   <set weight="60" price="35900"/>
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="2111" name="Hex Doll Fragment" itemType="Material" >
+   <set icon="icon.etc_bark_gold_i00"/>
+   <set weight="60" price="35900"/>
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="2112" name="Pa'agrian Axe Blade" itemType="Material" >
+   <set icon="icon.etc_sword_body_i00"/>
+   <set weight="60" price="39900"/>
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="2113" name="Scorpion Blade" itemType="Material" >
+   <set icon="icon.etc_sword_body_i00"/>
+   <set weight="60" price="39900"/>
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="2114" name="Widowmaker Head" itemType="Material" >
+   <set icon="icon.etc_squares_gray_i00"/>
+   <set weight="60" price="39900"/>
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="2115" name="Samurai Longsword Blade" itemType="Material" >
+   <set icon="icon.etc_sword_body_i00"/>
+   <set weight="60" price="46636"/>
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="2116" name="Deadman's Staff Head" itemType="Material" >
+   <set icon="icon.etc_squares_gray_i00"/>
+   <set weight="60" price="43818"/>
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="2117" name="Ghoul's Staff Head" itemType="Material" >
+   <set icon="icon.etc_squares_gray_i00"/>
+   <set weight="60" price="43818"/>
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="2118" name="Demon's Staff Head" itemType="Material" >
+   <set icon="icon.etc_squares_gray_i00"/>
+   <set weight="60" price="43818"/>
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="2119" name="Crystal Dagger Blade" itemType="Material" >
+   <set icon="icon.etc_sword_body_i00"/>
+   <set weight="60" price="43136"/>
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="2120" name="Great Pata Blade" itemType="Material" >
+   <set icon="icon.etc_sword_body_i00"/>
+   <set weight="60" price="45964"/>
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="2121" name="Eminence Bow Shaft" itemType="Material" >
+   <set icon="icon.etc_branch_gold_i00"/>
+   <set weight="60" price="47218"/>
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="2122" name="Orcish Poleaxe Blade" itemType="Material" >
+   <set icon="icon.etc_sword_body_i00"/>
+   <set weight="60" price="43818"/>
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="2123" name="Candle of Wisdom Model" itemType="Material" >
+   <set icon="icon.etc_mold_i00"/>
+   <set weight="60" price="43818"/>
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="2124" name="Blessed Branch Splinter" itemType="Material" >
+   <set icon="icon.etc_branch_blue_i00"/>
+   <set weight="60" price="43818"/>
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="2125" name="Phoenix Feather Piece" itemType="Material" >
+   <set icon="icon.etc_feather_gold_i00"/>
+   <set weight="60" price="43818"/>
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="2126" name="Cerberus Eye Fragment" itemType="Material" >
+   <set icon="icon.etc_eyeball_i00"/>
+   <set weight="60" price="43818"/>
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="2127" name="Scroll of Destruction Page" itemType="Material" >
+   <set icon="icon.etc_scroll_gray_i00"/>
+   <set weight="60" price="43818"/>
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="2128" name="Claws of Black Dragon Piece" itemType="Material" >
+   <set icon="icon.etc_claw_i00"/>
+   <set weight="60" price="43818"/>
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="2129" name="Three Eyed Crow's Feather Piece" itemType="Material" >
+   <set icon="icon.etc_feather_black_i00"/>
+   <set weight="60" price="43818"/>
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="2130" name="Gemstone D" itemType="Material" >
+   <set icon="icon.etc_crystal_ball_silver_i00"/>
+   <set weight="2" price="1000"/>
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="2131" name="Gemstone C" itemType="Material" >
+   <set icon="icon.etc_crystal_ball_green_i00"/>
+   <set weight="2" price="3000"/>
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="2132" name="Gemstone B" itemType="Material" >
+   <set icon="icon.etc_bead_green_i00"/>
+   <set weight="2" price="10000"/>
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="2133" name="Gemstone A" itemType="Material" >
+   <set icon="icon.etc_bead_red_i00"/>
+   <set weight="2" price="30000"/>
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="2134" name="Gemstone S" itemType="Material" >
+   <set icon="icon.etc_bead_silver_i00"/>
+   <set weight="2" price="100000"/>
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="2135" name="Recipe: Braided Hemp" itemType="Receipe" >
+   <set icon="icon.etc_recipe_white_i00"/>
+   <set weight="30" price="680"/>
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="2136" name="Recipe: Cokes" itemType="Receipe" >
+   <set icon="icon.etc_recipe_white_i00"/>
+   <set weight="30" price="680"/>
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="2137" name="Recipe: Steel" itemType="Receipe" >
+   <set icon="icon.etc_recipe_white_i00"/>
+   <set weight="30" price="680"/>
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="2138" name="Recipe: Coarse Bone Powder (100%)" itemType="Receipe" >
+   <set icon="icon.etc_recipe_white_i00"/>
+   <set weight="30" price="680"/>
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="2139" name="Recipe: Steel Mold" itemType="Receipe" >
+   <set icon="icon.etc_recipe_white_i00"/>
+   <set weight="30" price="1000"/>
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="2140" name="Recipe: High Grade Suede" itemType="Receipe" >
+   <set icon="icon.etc_recipe_white_i00"/>
+   <set weight="30" price="1000"/>
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="2141" name="Recipe: Silver Mold" itemType="Receipe" >
+   <set icon="icon.etc_recipe_white_i00"/>
+   <set weight="30" price="1000"/>
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="2142" name="Recipe: Varnish of Purity" itemType="Receipe" >
+   <set icon="icon.etc_recipe_white_i00"/>
+   <set weight="30" price="1000"/>
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="2143" name="Recipe: Synthetic Cokes" itemType="Receipe" >
+   <set icon="icon.etc_recipe_white_i00"/>
+   <set weight="30" price="1000"/>
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="2144" name="Recipe: Compound Braid" itemType="Receipe" >
+   <set icon="icon.etc_recipe_white_i00"/>
+   <set weight="30" price="1000"/>
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="2145" name="Recipe: Mithril Alloy" itemType="Receipe" >
+   <set icon="icon.etc_recipe_blue_i00"/>
+   <set weight="30" price="2800"/>
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="2146" name="Recipe: Artisan's frame" itemType="Receipe" >
+   <set icon="icon.etc_recipe_blue_i00"/>
+   <set weight="30" price="2800"/>
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="2147" name="Recipe: Blacksmith's frame" itemType="Receipe" >
+   <set icon="icon.etc_recipe_blue_i00"/>
+   <set weight="30" price="2800"/>
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="2148" name="Recipe: Crafted Leather" itemType="Receipe" >
+   <set icon="icon.etc_recipe_blue_i00"/>
+   <set weight="30" price="2800"/>
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="2149" name="Recipe: Metallic Fiber" itemType="Receipe" >
+   <set icon="icon.etc_recipe_blue_i00"/>
+   <set weight="30" price="2800"/>
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="2150" name="Recipe: Blue Diamond Necklace" itemType="Receipe" >
+   <set icon="icon.etc_recipe_white_i00"/>
+   <set weight="30" price="426"/>
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="2151" name="Recipe: Necklace of Devotion" itemType="Receipe" >
+   <set icon="icon.etc_recipe_blue_i00"/>
+   <set weight="30" price="718"/>
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="2152" name="Recipe: Enchanted Necklace" itemType="Receipe" >
+   <set icon="icon.etc_recipe_blue_i00"/>
+   <set weight="30" price="1136"/>
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="2153" name="Recipe: Tiger's Eye Earring" itemType="Receipe" >
+   <set icon="icon.etc_recipe_blue_i00"/>
+   <set weight="30" price="1286"/>
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="2154" name="Recipe: Elven Earring" itemType="Receipe" >
+   <set icon="icon.etc_recipe_blue_i00"/>
+   <set weight="30" price="1868"/>
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="2155" name="Recipe: Elven Ring" itemType="Receipe" >
+   <set icon="icon.etc_recipe_blue_i00"/>
+   <set weight="30" price="1246"/>
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="2156" name="Recipe: Elven Necklace" itemType="Receipe" >
+   <set icon="icon.etc_recipe_blue_i00"/>
+   <set weight="30" price="2500"/>
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="2157" name="Recipe: Omen Beast's Eye Earring" itemType="Receipe" >
+   <set icon="icon.etc_recipe_blue_i00"/>
+   <set weight="30" price="2420"/>
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="2158" name="Recipe: Mithril Ring" itemType="Receipe" >
+   <set icon="icon.etc_recipe_blue_i00"/>
+   <set weight="30" price="1616"/>
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="2159" name="Recipe: Necklace of Darkness" itemType="Receipe" >
+   <set icon="icon.etc_recipe_blue_i00"/>
+   <set weight="30" price="3240"/>
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="2160" name="Recipe: Moonstone Earring" itemType="Receipe" >
+   <set icon="icon.etc_recipe_yellow_i00"/>
+   <set weight="30" price="3100"/>
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="2161" name="Recipe: Aquastone Ring" itemType="Receipe" >
+   <set icon="icon.etc_recipe_yellow_i00"/>
+   <set weight="30" price="2060"/>
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="2162" name="Recipe: Aquastone Necklace" itemType="Receipe" >
+   <set icon="icon.etc_recipe_yellow_i00"/>
+   <set weight="30" price="4140"/>
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="2163" name="Recipe: Earring of Protection" itemType="Receipe" >
+   <set icon="icon.etc_recipe_yellow_i00"/>
+   <set weight="30" price="3920"/>
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="2164" name="Recipe: Ring of Protection" itemType="Receipe" >
+   <set icon="icon.etc_recipe_yellow_i00"/>
+   <set weight="30" price="2600"/>
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="2165" name="Recipe: Necklace of Protection" itemType="Receipe" >
+   <set icon="icon.etc_recipe_yellow_i00"/>
+   <set weight="30" price="5220"/>
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="2166" name="Recipe: Earrings of Binding (100%)" itemType="Receipe" >
+   <set icon="icon.etc_recipe_yellow_i00"/>
+   <set weight="30" price="5900"/>
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="2167" name="Recipe: Ring of Ages" itemType="Receipe" >
+   <set icon="icon.etc_recipe_yellow_i00"/>
+   <set weight="30" price="3920"/>
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="2168" name="Recipe: Necklace of Mermaid" itemType="Receipe" >
+   <set icon="icon.etc_recipe_yellow_i00"/>
+   <set weight="30" price="7860"/>
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="2169" name="Recipe: Necklace of Binding" itemType="Receipe" >
+   <set icon="icon.etc_recipe_yellow_i00"/>
+   <set weight="30" price="11300"/>
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="2170" name="Recipe: Nassen's Earring" itemType="Receipe" >
+   <set icon="icon.etc_recipe_yellow_i00"/>
+   <set weight="30" price="8480"/>
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="2171" name="Recipe: Sage's Ring" itemType="Receipe" >
+   <set icon="icon.etc_recipe_red_i00"/>
+   <set weight="30" price="5640"/>
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="2172" name="Recipe: Sage's Necklace" itemType="Receipe" >
+   <set icon="icon.etc_recipe_red_i00"/>
+   <set weight="30" price="11300"/>
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="2173" name="Recipe: Hard Leather Shirt" itemType="Receipe" >
+   <set icon="icon.etc_recipe_white_i00"/>
+   <set weight="30" price="738"/>
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="2174" name="Recipe: Hard Leather Gaiters" itemType="Receipe" >
+   <set icon="icon.etc_recipe_white_i00"/>
+   <set weight="30" price="460"/>
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="2175" name="Recipe: Boots" itemType="Receipe" >
+   <set icon="icon.etc_recipe_white_i00"/>
+   <set weight="30" price="246"/>
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="2176" name="Recipe: Leather Boots" itemType="Receipe" >
+   <set icon="icon.etc_recipe_blue_i00"/>
+   <set weight="30" price="418"/>
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="2177" name="Recipe: Bone Helmet" itemType="Receipe" >
+   <set icon="icon.etc_recipe_blue_i00"/>
+   <set weight="30" price="626"/>
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="2178" name="Recipe: Dark Stockings" itemType="Receipe" >
+   <set icon="icon.etc_recipe_blue_i00"/>
+   <set weight="30" price="1250"/>
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="2179" name="Recipe: Crafted Leather Gloves" itemType="Receipe" >
+   <set icon="icon.etc_recipe_blue_i00"/>
+   <set weight="30" price="418"/>
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="2180" name="Recipe: Scale Mail" itemType="Receipe" >
+   <set icon="icon.etc_recipe_blue_i00"/>
+   <set weight="30" price="2660"/>
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="2181" name="Recipe: White Tunic" itemType="Receipe" >
+   <set icon="icon.etc_recipe_blue_i00"/>
+   <set weight="30" price="1998"/>
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="2182" name="Recipe: Scale Gaiters" itemType="Receipe" >
+   <set icon="icon.etc_recipe_blue_i00"/>
+   <set weight="30" price="1666"/>
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="2183" name="Recipe: Mithril Banded Mail" itemType="Receipe" >
+   <set icon="icon.etc_recipe_blue_i00"/>
+   <set weight="30" price="3040"/>
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="2184" name="Recipe: Mithril Banded Gaiters" itemType="Receipe" >
+   <set icon="icon.etc_recipe_blue_i00"/>
+   <set weight="30" price="1904"/>
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="2185" name="Recipe: Iron Boots" itemType="Receipe" >
+   <set icon="icon.etc_recipe_blue_i00"/>
+   <set weight="30" price="1016"/>
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="2186" name="Recipe: Brigandine Tunic" itemType="Receipe" >
+   <set icon="icon.etc_recipe_blue_i00"/>
+   <set weight="30" price="5980"/>
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="2187" name="Recipe: Manticore Skin Shirt" itemType="Receipe" >
+   <set icon="icon.etc_recipe_blue_i00"/>
+   <set weight="30" price="4480"/>
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="2188" name="Recipe: Manticore Skin Gaiters" itemType="Receipe" >
+   <set icon="icon.etc_recipe_blue_i00"/>
+   <set weight="30" price="2800"/>
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="2189" name="Recipe: Mithril Tunic" itemType="Receipe" >
+   <set icon="icon.etc_recipe_blue_i00"/>
+   <set weight="30" price="4480"/>
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="2190" name="Recipe: Mithril Stockings" itemType="Receipe" >
+   <set icon="icon.etc_recipe_blue_i00"/>
+   <set weight="30" price="2800"/>
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="2191" name="Recipe: RIP Gauntlets" itemType="Receipe" >
+   <set icon="icon.etc_recipe_blue_i00"/>
+   <set weight="30" price="1494"/>
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="2192" name="Recipe: Kite Shield" itemType="Receipe" >
+   <set icon="icon.etc_recipe_blue_i00"/>
+   <set weight="30" price="1568"/>
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="2193" name="Recipe: Boots of Power" itemType="Receipe" >
+   <set icon="icon.etc_recipe_blue_i00"/>
+   <set weight="30" price="1494"/>
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="2194" name="Recipe: Mithril Gloves" itemType="Receipe" >
+   <set icon="icon.etc_recipe_blue_i00"/>
+   <set weight="30" price="1956"/>
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="2195" name="Recipe: Half Plate Armor" itemType="Receipe" >
+   <set icon="icon.etc_recipe_blue_i00"/>
+   <set weight="30" price="7820"/>
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="2196" name="Recipe: Plate Gaiters" itemType="Receipe" >
+   <set icon="icon.etc_recipe_blue_i00"/>
+   <set weight="30" price="4880"/>
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="2197" name="Recipe: Salamander Skin Mail" itemType="Receipe" >
+   <set icon="icon.etc_recipe_blue_i00"/>
+   <set weight="30" price="9540"/>
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="2198" name="Recipe: Sage's Rag" itemType="Receipe" >
+   <set icon="icon.etc_recipe_blue_i00"/>
+   <set weight="30" price="9540"/>
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="2199" name="Recipe: Karmian Stockings" itemType="Receipe" >
+   <set icon="icon.etc_recipe_yellow_i00"/>
+   <set weight="30" price="4740"/>
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="2200" name="Recipe: Chain Helmet" itemType="Receipe" >
+   <set icon="icon.etc_recipe_blue_i00"/>
+   <set weight="30" price="2940"/>
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="2201" name="Recipe: Square Shield" itemType="Receipe" >
+   <set icon="icon.etc_recipe_blue_i00"/>
+   <set weight="30" price="2060"/>
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="2202" name="Recipe: Assault Boots" itemType="Receipe" >
+   <set icon="icon.etc_recipe_blue_i00"/>
+   <set weight="30" price="1956"/>
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="2203" name="Recipe: Mithril Boots" itemType="Receipe" >
+   <set icon="icon.etc_recipe_yellow_i00"/>
+   <set weight="30" price="918"/>
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="2204" name="Recipe: Chain Mail Shirt" itemType="Receipe" >
+   <set icon="icon.etc_recipe_yellow_i00"/>
+   <set weight="30" price="10100"/>
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="2205" name="Recipe: Chain Gaiters" itemType="Receipe" >
+   <set icon="icon.etc_recipe_yellow_i00"/>
+   <set weight="30" price="6320"/>
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="2206" name="Recipe: Mithril Shirt" itemType="Receipe" >
+   <set icon="icon.etc_recipe_yellow_i00"/>
+   <set weight="30" price="7580"/>
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="2207" name="Recipe: Karmian Tunic" itemType="Receipe" >
+   <set icon="icon.etc_recipe_yellow_i00"/>
+   <set weight="30" price="7580"/>
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="2208" name="Recipe: Ogre Power Gauntlets" itemType="Receipe" >
+   <set icon="icon.etc_recipe_blue_i00"/>
+   <set weight="30" price="1956"/>
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="2209" name="Recipe: Eldarake" itemType="Receipe" >
+   <set icon="icon.etc_recipe_yellow_i00"/>
+   <set weight="30" price="2660"/>
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="2210" name="Recipe: Steel Plate Helmet" itemType="Receipe" >
+   <set icon="icon.etc_recipe_yellow_i00"/>
+   <set weight="30" price="4120"/>
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="2211" name="Recipe: Plated Leather Armor" itemType="Receipe" >
+   <set icon="icon.etc_recipe_yellow_i00"/>
+   <set weight="30" price="8920"/>
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="2212" name="Recipe: Plated Leather Gaiters" itemType="Receipe" >
+   <set icon="icon.etc_recipe_yellow_i00"/>
+   <set weight="30" price="5580"/>
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="2213" name="Recipe: Dwarven Chain Mail Shirt" itemType="Receipe" >
+   <set icon="icon.etc_recipe_yellow_i00"/>
+   <set weight="30" price="12880"/>
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="2214" name="Recipe: Dwarven Chain Gaiters" itemType="Receipe" >
+   <set icon="icon.etc_recipe_yellow_i00"/>
+   <set weight="30" price="8060"/>
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="2215" name="Recipe: Robe of Seal" itemType="Receipe" >
+   <set icon="icon.etc_recipe_yellow_i00"/>
+   <set weight="30" price="15700"/>
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="2216" name="Recipe: Great Helmet" itemType="Receipe" >
+   <set icon="icon.etc_recipe_yellow_i00"/>
+   <set weight="30" price="4840"/>
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="2217" name="Recipe: Knight's Shield" itemType="Receipe" >
+   <set icon="icon.etc_recipe_yellow_i00"/>
+   <set weight="30" price="3380"/>
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="2218" name="Recipe: Pa'agrian Hand" itemType="Receipe" >
+   <set icon="icon.etc_recipe_yellow_i00"/>
+   <set weight="30" price="3220"/>
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="2219" name="Recipe: Crimson Boots" itemType="Receipe" >
+   <set icon="icon.etc_recipe_yellow_i00"/>
+   <set weight="30" price="3220"/>
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="2220" name="Recipe: Rind Leather Armor" itemType="Receipe" >
+   <set icon="icon.etc_recipe_yellow_i00"/>
+   <set weight="30" price="9660"/>
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="2221" name="Recipe: Rind Leather Gaiters" itemType="Receipe" >
+   <set icon="icon.etc_recipe_yellow_i00"/>
+   <set weight="30" price="6040"/>
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="2222" name="Recipe: Composite Armor" itemType="Receipe" >
+   <set icon="icon.etc_recipe_yellow_i00"/>
+   <set weight="30" price="32000"/>
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="2223" name="Recipe: Tower Shield" itemType="Receipe" >
+   <set icon="icon.etc_recipe_yellow_i00"/>
+   <set weight="30" price="5160"/>
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="2224" name="Recipe: Demon's Tunic" itemType="Receipe" >
+   <set icon="icon.etc_recipe_yellow_i00"/>
+   <set weight="30" price="14720"/>
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="2225" name="Recipe: Demon's Stockings" itemType="Receipe" >
+   <set icon="icon.etc_recipe_yellow_i00"/>
+   <set weight="30" price="9200"/>
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="2226" name="Recipe: Mithril Gauntlets" itemType="Receipe" >
+   <set icon="icon.etc_recipe_yellow_i00"/>
+   <set weight="30" price="4900"/>
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="2227" name="Recipe: Forgotten Boots" itemType="Receipe" >
+   <set icon="icon.etc_recipe_yellow_i00"/>
+   <set weight="30" price="4900"/>
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="2228" name="Recipe: Shining Circlet" itemType="Receipe" >
+   <set icon="icon.etc_recipe_yellow_i00"/>
+   <set weight="30" price="7360"/>
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="2229" name="Recipe: Theca Leather Armor" itemType="Receipe" >
+   <set icon="icon.etc_recipe_yellow_i00"/>
+   <set weight="30" price="16500"/>
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="2230" name="Recipe: Theca Leather Gaiters" itemType="Receipe" >
+   <set icon="icon.etc_recipe_yellow_i00"/>
+   <set weight="30" price="10320"/>
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="2231" name="Recipe: Full Plate Armor" itemType="Receipe" >
+   <set icon="icon.etc_recipe_yellow_i00"/>
+   <set weight="30" price="46400"/>
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="2232" name="Recipe: Drake Leather Armor" itemType="Receipe" >
+   <set icon="icon.etc_recipe_yellow_i00"/>
+   <set weight="30" price="34800"/>
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="2233" name="Recipe: Divine Tunic" itemType="Receipe" >
+   <set icon="icon.etc_recipe_yellow_i00"/>
+   <set weight="30" price="21400"/>
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="2234" name="Recipe: Divine Stockings" itemType="Receipe" >
+   <set icon="icon.etc_recipe_yellow_i00"/>
+   <set weight="30" price="13420"/>
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="2235" name="Recipe: Mithril Helmet" itemType="Receipe" >
+   <set icon="icon.etc_recipe_yellow_i00"/>
+   <set weight="30" price="10720"/>
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="2236" name="Recipe: Cap of Mana" itemType="Receipe" >
+   <set icon="icon.etc_recipe_yellow_i00"/>
+   <set weight="30" price="10720"/>
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="2237" name="Recipe: Paradia Hood" itemType="Receipe" >
+   <set icon="icon.etc_recipe_yellow_i00"/>
+   <set weight="30" price="10720"/>
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="2238" name="Recipe: Hood of Solar Eclipse" itemType="Receipe" >
+   <set icon="icon.etc_recipe_yellow_i00"/>
+   <set weight="30" price="10720"/>
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="2239" name="Recipe: Hood of Summoning" itemType="Receipe" >
+   <set icon="icon.etc_recipe_yellow_i00"/>
+   <set weight="30" price="10720"/>
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="2240" name="Recipe: Elemental Hood" itemType="Receipe" >
+   <set icon="icon.etc_recipe_yellow_i00"/>
+   <set weight="30" price="10720"/>
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="2241" name="Recipe: Hood of Grace" itemType="Receipe" >
+   <set icon="icon.etc_recipe_yellow_i00"/>
+   <set weight="30" price="10720"/>
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="2242" name="Recipe: Phoenix Hood" itemType="Receipe" >
+   <set icon="icon.etc_recipe_yellow_i00"/>
+   <set weight="30" price="10720"/>
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="2243" name="Recipe: Hood of Aid" itemType="Receipe" >
+   <set icon="icon.etc_recipe_yellow_i00"/>
+   <set weight="30" price="10720"/>
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="2244" name="Recipe: Flame Helm" itemType="Receipe" >
+   <set icon="icon.etc_recipe_yellow_i00"/>
+   <set weight="30" price="10720"/>
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="2245" name="Recipe: Tallum Helm" itemType="Receipe" >
+   <set icon="icon.etc_recipe_violet_i00"/>
+   <set weight="30" price="10720"/>
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="2246" name="Recipe: Helm of Avadon" itemType="Receipe" >
+   <set icon="icon.etc_recipe_yellow_i00"/>
+   <set weight="30" price="10720"/>
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="2247" name="Recipe: Helmet of Pledge" itemType="Receipe" >
+   <set icon="icon.etc_recipe_yellow_i00"/>
+   <set weight="30" price="10720"/>
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="2248" name="Recipe: Gauntlets of Ghost" itemType="Receipe" >
+   <set icon="icon.etc_recipe_yellow_i00"/>
+   <set weight="30" price="7160"/>
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="2249" name="Recipe: Adamantite Boots" itemType="Receipe" >
+   <set icon="icon.etc_recipe_yellow_i00"/>
+   <set weight="30" price="7160"/>
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="2250" name="Recipe: Bone Arrow" itemType="Receipe" >
+   <set icon="icon.etc_recipe_blue_i00"/>
+   <set weight="30" price="800"/>
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="2251" name="Recipe: Steel Arrow" itemType="Receipe" >
+   <set icon="icon.etc_recipe_yellow_i00"/>
+   <set weight="30" price="1200"/>
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="2252" name="Recipe: Iron Hammer" itemType="Receipe" >
+   <set icon="icon.etc_recipe_white_i00"/>
+   <set weight="30" price="4880"/>
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="2253" name="Recipe: Sword Breaker" itemType="Receipe" >
+   <set icon="icon.etc_recipe_white_i00"/>
+   <set weight="30" price="4880"/>
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="2254" name="Recipe: Composite Bow" itemType="Receipe" >
+   <set icon="icon.etc_recipe_white_i00"/>
+   <set weight="30" price="4880"/>
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="2255" name="Recipe: Saber" itemType="Receipe" >
+   <set icon="icon.etc_recipe_blue_i00"/>
+   <set weight="30" price="8180"/>
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="2256" name="Recipe: Assassin Knife" itemType="Receipe" >
+   <set icon="icon.etc_recipe_blue_i00"/>
+   <set weight="30" price="8180"/>
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="2257" name="Recipe: Trident" itemType="Receipe" >
+   <set icon="icon.etc_recipe_blue_i00"/>
+   <set weight="30" price="8180"/>
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="2258" name="Recipe: Temptation of Abyss" itemType="Receipe" >
+   <set icon="icon.etc_recipe_blue_i00"/>
+   <set weight="30" price="8180"/>
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="2259" name="Recipe: Spinebone Sword" itemType="Receipe" >
+   <set icon="icon.etc_recipe_blue_i00"/>
+   <set weight="30" price="12880"/>
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="2260" name="Recipe: Mace of Judgment" itemType="Receipe" >
+   <set icon="icon.etc_recipe_blue_i00"/>
+   <set weight="30" price="12880"/>
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="2261" name="Recipe: Conjuror's Staff" itemType="Receipe" >
+   <set icon="icon.etc_recipe_blue_i00"/>
+   <set weight="30" price="12880"/>
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="2262" name="Recipe: Elven Bow" itemType="Receipe" >
+   <set icon="icon.etc_recipe_blue_i00"/>
+   <set weight="30" price="12880"/>
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="2263" name="Recipe: Dwarven Trident" itemType="Receipe" >
+   <set icon="icon.etc_recipe_blue_i00"/>
+   <set weight="30" price="12880"/>
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="2264" name="Recipe: Two-handed Sword" itemType="Receipe" >
+   <set icon="icon.etc_recipe_blue_i00"/>
+   <set weight="30" price="19340"/>
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="2265" name="Recipe: Spiked Club" itemType="Receipe" >
+   <set icon="icon.etc_recipe_blue_i00"/>
+   <set weight="30" price="19340"/>
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="2266" name="Recipe: Shilen Knife" itemType="Receipe" >
+   <set icon="icon.etc_recipe_blue_i00"/>
+   <set weight="30" price="19340"/>
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="2267" name="Recipe: Gastraphetes" itemType="Receipe" >
+   <set icon="icon.etc_recipe_blue_i00"/>
+   <set weight="30" price="19340"/>
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="2268" name="Recipe: Tome of Blood" itemType="Receipe" >
+   <set icon="icon.etc_recipe_blue_i00"/>
+   <set weight="30" price="19340"/>
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="2269" name="Recipe: Morning Star" itemType="Receipe" >
+   <set icon="icon.etc_recipe_blue_i00"/>
+   <set weight="30" price="28000"/>
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="2270" name="Recipe: Goat Head Staff" itemType="Receipe" >
+   <set icon="icon.etc_recipe_blue_i00"/>
+   <set weight="30" price="28000"/>
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="2271" name="Recipe: Winged Spear" itemType="Receipe" >
+   <set icon="icon.etc_recipe_blue_i00"/>
+   <set weight="30" price="28000"/>
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="2272" name="Recipe: Sword of Revolution" itemType="Receipe" >
+   <set icon="icon.etc_recipe_blue_i00"/>
+   <set weight="30" price="28000"/>
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="2273" name="Recipe: Tarbar" itemType="Receipe" >
+   <set icon="icon.etc_recipe_blue_i00"/>
+   <set weight="30" price="28000"/>
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="2274" name="Recipe: Skull Breaker" itemType="Receipe" >
+   <set icon="icon.etc_recipe_blue_i00"/>
+   <set weight="30" price="28000"/>
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="2275" name="Recipe: Heavy Bone Club" itemType="Receipe" >
+   <set icon="icon.etc_recipe_blue_i00"/>
+   <set weight="30" price="28000"/>
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="2276" name="Recipe: Maingauche" itemType="Receipe" >
+   <set icon="icon.etc_recipe_blue_i00"/>
+   <set weight="30" price="28000"/>
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="2277" name="Recipe: Bich'hwa" itemType="Receipe" >
+   <set icon="icon.etc_recipe_blue_i00"/>
+   <set weight="30" price="28000"/>
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="2278" name="Recipe: Strengthened Long Bow" itemType="Receipe" >
+   <set icon="icon.etc_recipe_blue_i00"/>
+   <set weight="30" price="28000"/>
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="2279" name="Recipe: War Pick" itemType="Receipe" >
+   <set icon="icon.etc_recipe_blue_i00"/>
+   <set weight="30" price="28000"/>
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="2280" name="Recipe: Crucifix of Blood" itemType="Receipe" >
+   <set icon="icon.etc_recipe_blue_i00"/>
+   <set weight="30" price="28000"/>
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="2281" name="Recipe: Eye of Infinity" itemType="Receipe" >
+   <set icon="icon.etc_recipe_blue_i00"/>
+   <set weight="30" price="28000"/>
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="2282" name="Recipe: Cursed Maingauche" itemType="Receipe" >
+   <set icon="icon.etc_recipe_blue_i00"/>
+   <set weight="30" price="28000"/>
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="2283" name="Recipe: Blue Crystal Skull" itemType="Receipe" >
+   <set icon="icon.etc_recipe_blue_i00"/>
+   <set weight="30" price="30400"/>
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="2284" name="Recipe: Demon Fangs" itemType="Receipe" >
+   <set icon="icon.etc_recipe_blue_i00"/>
+   <set weight="30" price="30400"/>
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="2285" name="Recipe: Claymore" itemType="Receipe" >
+   <set icon="icon.etc_recipe_blue_i00"/>
+   <set weight="30" price="36000"/>
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="2286" name="Recipe: Bonebreaker" itemType="Receipe" >
+   <set icon="icon.etc_recipe_blue_i00"/>
+   <set weight="30" price="36000"/>
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="2287" name="Recipe: Atuba Hammer" itemType="Receipe" >
+   <set icon="icon.etc_recipe_blue_i00"/>
+   <set weight="30" price="36000"/>
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="2288" name="Recipe: Ghost Staff" itemType="Receipe" >
+   <set icon="icon.etc_recipe_blue_i00"/>
+   <set weight="30" price="36000"/>
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="2289" name="Recipe: Staff of Life" itemType="Receipe" >
+   <set icon="icon.etc_recipe_blue_i00"/>
+   <set weight="30" price="36000"/>
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="2290" name="Recipe: Mithril Dagger" itemType="Receipe" >
+   <set icon="icon.etc_recipe_blue_i00"/>
+   <set weight="30" price="36000"/>
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="2291" name="Recipe: Scallop Jamadhr" itemType="Receipe" >
+   <set icon="icon.etc_recipe_blue_i00"/>
+   <set weight="30" price="36000"/>
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="2292" name="Recipe: Light Crossbow" itemType="Receipe" >
+   <set icon="icon.etc_recipe_blue_i00"/>
+   <set weight="30" price="36000"/>
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="2293" name="Recipe: Glaive" itemType="Receipe" >
+   <set icon="icon.etc_recipe_blue_i00"/>
+   <set weight="30" price="36000"/>
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="2294" name="Recipe: Vajra Wands" itemType="Receipe" >
+   <set icon="icon.etc_recipe_blue_i00"/>
+   <set weight="30" price="36000"/>
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="2295" name="Recipe: Ancient Reagent" itemType="Receipe" >
+   <set icon="icon.etc_recipe_blue_i00"/>
+   <set weight="30" price="36000"/>
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="2296" name="Recipe: Atuba Mace" itemType="Receipe" >
+   <set icon="icon.etc_recipe_blue_i00"/>
+   <set weight="30" price="36000"/>
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="2297" name="Recipe: Flamberge" itemType="Receipe" >
+   <set icon="icon.etc_recipe_yellow_i00"/>
+   <set weight="30" price="45800"/>
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="2298" name="Recipe: Stormbringer" itemType="Receipe" >
+   <set icon="icon.etc_recipe_yellow_i00"/>
+   <set weight="30" price="45800"/>
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="2299" name="Recipe: Big Hammer" itemType="Receipe" >
+   <set icon="icon.etc_recipe_yellow_i00"/>
+   <set weight="30" price="45800"/>
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="2300" name="Recipe: Scythe" itemType="Receipe" >
+   <set icon="icon.etc_recipe_yellow_i00"/>
+   <set weight="30" price="45800"/>
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="2301" name="Recipe: Battle Axe" itemType="Receipe" >
+   <set icon="icon.etc_recipe_yellow_i00"/>
+   <set weight="30" price="45800"/>
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="2302" name="Recipe: Silver Axe" itemType="Receipe" >
+   <set icon="icon.etc_recipe_yellow_i00"/>
+   <set weight="30" price="45800"/>
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="2303" name="Recipe: Skull Graver" itemType="Receipe" >
+   <set icon="icon.etc_recipe_yellow_i00"/>
+   <set weight="30" price="45800"/>
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="2304" name="Recipe: Heavy Doom Hammer" itemType="Receipe" >
+   <set icon="icon.etc_recipe_yellow_i00"/>
+   <set weight="30" price="45800"/>
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="2305" name="Recipe: Crystal Staff" itemType="Receipe" >
+   <set icon="icon.etc_recipe_yellow_i00"/>
+   <set weight="30" price="45800"/>
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="2306" name="Recipe: Stick of Faith" itemType="Receipe" >
+   <set icon="icon.etc_recipe_yellow_i00"/>
+   <set weight="30" price="45800"/>
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="2307" name="Recipe: Heavy Doom Axe" itemType="Receipe" >
+   <set icon="icon.etc_recipe_yellow_i00"/>
+   <set weight="30" price="45800"/>
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="2308" name="Recipe: Cursed Dagger" itemType="Receipe" >
+   <set icon="icon.etc_recipe_yellow_i00"/>
+   <set weight="30" price="45800"/>
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="2309" name="Recipe: Wolverine Needle" itemType="Receipe" >
+   <set icon="icon.etc_recipe_yellow_i00"/>
+   <set weight="30" price="45800"/>
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="2310" name="Recipe: Dark Elven Dagger" itemType="Receipe" >
+   <set icon="icon.etc_recipe_yellow_i00"/>
+   <set weight="30" price="45800"/>
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="2311" name="Recipe: Chakram" itemType="Receipe" >
+   <set icon="icon.etc_recipe_yellow_i00"/>
+   <set weight="30" price="45800"/>
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="2312" name="Recipe: Crystallized Ice Bow" itemType="Receipe" >
+   <set icon="icon.etc_recipe_yellow_i00"/>
+   <set weight="30" price="45800"/>
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="2313" name="Recipe: Orcish Glaive" itemType="Receipe" >
+   <set icon="icon.etc_recipe_yellow_i00"/>
+   <set weight="30" price="45800"/>
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="2314" name="Recipe: Body Slasher" itemType="Receipe" >
+   <set icon="icon.etc_recipe_yellow_i00"/>
+   <set weight="30" price="45800"/>
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="2315" name="Recipe: Shamshir" itemType="Receipe" >
+   <set icon="icon.etc_recipe_yellow_i00"/>
+   <set weight="30" price="57400"/>
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="2316" name="Recipe: Katana" itemType="Receipe" >
+   <set icon="icon.etc_recipe_yellow_i00"/>
+   <set weight="30" price="57400"/>
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="2317" name="Recipe: Bec de Corbin" itemType="Receipe" >
+   <set icon="icon.etc_recipe_yellow_i00"/>
+   <set weight="30" price="57400"/>
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="2318" name="Recipe: Spirit Sword" itemType="Receipe" >
+   <set icon="icon.etc_recipe_yellow_i00"/>
+   <set weight="30" price="57400"/>
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="2319" name="Recipe: Raid Sword" itemType="Receipe" >
+   <set icon="icon.etc_recipe_yellow_i00"/>
+   <set weight="30" price="57400"/>
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="2320" name="Recipe: Cursed Staff" itemType="Receipe" >
+   <set icon="icon.etc_recipe_yellow_i00"/>
+   <set weight="30" price="57400"/>
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="2321" name="Recipe: Stiletto" itemType="Receipe" >
+   <set icon="icon.etc_recipe_yellow_i00"/>
+   <set weight="30" price="57400"/>
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="2322" name="Recipe: Soulfire Dirk" itemType="Receipe" >
+   <set icon="icon.etc_recipe_yellow_i00"/>
+   <set weight="30" price="57400"/>
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="2323" name="Recipe: Elemental Bow" itemType="Receipe" >
+   <set icon="icon.etc_recipe_yellow_i00"/>
+   <set weight="30" price="57400"/>
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="2324" name="Recipe: Elven Bow of Nobility" itemType="Receipe" >
+   <set icon="icon.etc_recipe_yellow_i00"/>
+   <set weight="30" price="57400"/>
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="2325" name="Recipe: Tears of Fairy" itemType="Receipe" >
+   <set icon="icon.etc_recipe_yellow_i00"/>
+   <set weight="30" price="57400"/>
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="2326" name="Recipe: Horn of Glory" itemType="Receipe" >
+   <set icon="icon.etc_recipe_yellow_i00"/>
+   <set weight="30" price="57400"/>
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="2327" name="Recipe: Caliburs" itemType="Receipe" >
+   <set icon="icon.etc_recipe_yellow_i00"/>
+   <set weight="30" price="86000"/>
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="2328" name="Recipe: Sword of Delusion" itemType="Receipe" >
+   <set icon="icon.etc_recipe_yellow_i00"/>
+   <set weight="30" price="86000"/>
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="2329" name="Recipe: Tsurugi" itemType="Receipe" >
+   <set icon="icon.etc_recipe_yellow_i00"/>
+   <set weight="30" price="86000"/>
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="2330" name="Recipe: Homunkulus's Sword" itemType="Receipe" >
+   <set icon="icon.etc_recipe_yellow_i00"/>
+   <set weight="30" price="86000"/>
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="2331" name="Recipe: Poleaxe" itemType="Receipe" >
+   <set icon="icon.etc_recipe_yellow_i00"/>
+   <set weight="30" price="86000"/>
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="2332" name="Recipe: Sword of Limit" itemType="Receipe" >
+   <set icon="icon.etc_recipe_yellow_i00"/>
+   <set weight="30" price="86000"/>
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="2333" name="Recipe: Sword of Nightmare" itemType="Receipe" >
+   <set icon="icon.etc_recipe_yellow_i00"/>
+   <set weight="30" price="86000"/>
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="2334" name="Recipe: Sword of Whispering Death" itemType="Receipe" >
+   <set icon="icon.etc_recipe_yellow_i00"/>
+   <set weight="30" price="86000"/>
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="2335" name="Recipe: War Axe" itemType="Receipe" >
+   <set icon="icon.etc_recipe_yellow_i00"/>
+   <set weight="30" price="86000"/>
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="2336" name="Recipe: Nirvana Axe" itemType="Receipe" >
+   <set icon="icon.etc_recipe_yellow_i00"/>
+   <set weight="30" price="86000"/>
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="2337" name="Recipe: Stick of Eternity" itemType="Receipe" >
+   <set icon="icon.etc_recipe_yellow_i00"/>
+   <set weight="30" price="86000"/>
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="2338" name="Recipe: Paradia Staff" itemType="Receipe" >
+   <set icon="icon.etc_recipe_yellow_i00"/>
+   <set weight="30" price="86000"/>
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="2339" name="Recipe: Inferno Staff" itemType="Receipe" >
+   <set icon="icon.etc_recipe_yellow_i00"/>
+   <set weight="30" price="86000"/>
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="2340" name="Recipe: Pa'agrian Hammer" itemType="Receipe" >
+   <set icon="icon.etc_recipe_yellow_i00"/>
+   <set weight="30" price="86000"/>
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="2341" name="Recipe: Sage's Staff" itemType="Receipe" >
+   <set icon="icon.etc_recipe_yellow_i00"/>
+   <set weight="30" price="86000"/>
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="2342" name="Recipe: Club of Nature" itemType="Receipe" >
+   <set icon="icon.etc_recipe_yellow_i00"/>
+   <set weight="30" price="86000"/>
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="2343" name="Recipe: Mace of the Underworld" itemType="Receipe" >
+   <set icon="icon.etc_recipe_yellow_i00"/>
+   <set weight="30" price="86000"/>
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="2344" name="Recipe: Grace Dagger" itemType="Receipe" >
+   <set icon="icon.etc_recipe_yellow_i00"/>
+   <set weight="30" price="86000"/>
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="2345" name="Recipe: Dark Screamer" itemType="Receipe" >
+   <set icon="icon.etc_recipe_yellow_i00"/>
+   <set weight="30" price="86000"/>
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="2346" name="Recipe: Fisted Blade" itemType="Receipe" >
+   <set icon="icon.etc_recipe_yellow_i00"/>
+   <set weight="30" price="86000"/>
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="2347" name="Recipe: Akat Long Bow" itemType="Receipe" >
+   <set icon="icon.etc_recipe_yellow_i00"/>
+   <set weight="30" price="86000"/>
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="2348" name="Recipe: Heathen's Book" itemType="Receipe" >
+   <set icon="icon.etc_recipe_yellow_i00"/>
+   <set weight="30" price="86000"/>
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="2349" name="Recipe: Hex Doll" itemType="Receipe" >
+   <set icon="icon.etc_recipe_yellow_i00"/>
+   <set weight="30" price="86000"/>
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="2350" name="Recipe: Pa'agrian Axe" itemType="Receipe" >
+   <set icon="icon.etc_recipe_yellow_i00"/>
+   <set weight="30" price="95600"/>
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="2351" name="Recipe: Scorpion" itemType="Receipe" >
+   <set icon="icon.etc_recipe_yellow_i00"/>
+   <set weight="30" price="95600"/>
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="2352" name="Recipe: Widow Maker" itemType="Receipe" >
+   <set icon="icon.etc_recipe_yellow_i00"/>
+   <set weight="30" price="95600"/>
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="2353" name="Recipe: Samurai Longsword" itemType="Receipe" >
+   <set icon="icon.etc_recipe_yellow_i00"/>
+   <set weight="30" price="122600"/>
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="2354" name="Recipe: Deadman's Staff" itemType="Receipe" >
+   <set icon="icon.etc_recipe_yellow_i00"/>
+   <set weight="30" price="122600"/>
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="2355" name="Recipe: Ghoul's Staff" itemType="Receipe" >
+   <set icon="icon.etc_recipe_yellow_i00"/>
+   <set weight="30" price="122600"/>
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="2356" name="Recipe: Demon's Staff" itemType="Receipe" >
+   <set icon="icon.etc_recipe_yellow_i00"/>
+   <set weight="30" price="122600"/>
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="2357" name="Recipe: Crystal Dagger" itemType="Receipe" >
+   <set icon="icon.etc_recipe_yellow_i00"/>
+   <set weight="30" price="122600"/>
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="2358" name="Recipe: Great Pata" itemType="Receipe" >
+   <set icon="icon.etc_recipe_yellow_i00"/>
+   <set weight="30" price="122600"/>
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="2359" name="Recipe: Eminence Bow" itemType="Receipe" >
+   <set icon="icon.etc_recipe_yellow_i00"/>
+   <set weight="30" price="122600"/>
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="2360" name="Recipe: Orcish Poleaxe" itemType="Receipe" >
+   <set icon="icon.etc_recipe_yellow_i00"/>
+   <set weight="30" price="122600"/>
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="2361" name="Recipe: Candle of Wisdom" itemType="Receipe" >
+   <set icon="icon.etc_recipe_yellow_i00"/>
+   <set weight="30" price="122600"/>
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="2362" name="Recipe: Blessed Branch" itemType="Receipe" >
+   <set icon="icon.etc_recipe_yellow_i00"/>
+   <set weight="30" price="122600"/>
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="2363" name="Recipe: Phoenix Feather" itemType="Receipe" >
+   <set icon="icon.etc_recipe_yellow_i00"/>
+   <set weight="30" price="122600"/>
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="2364" name="Recipe: Cerberus Eye" itemType="Receipe" >
+   <set icon="icon.etc_recipe_yellow_i00"/>
+   <set weight="30" price="122600"/>
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="2365" name="Recipe: Scroll of Destruction" itemType="Receipe" >
+   <set icon="icon.etc_recipe_yellow_i00"/>
+   <set weight="30" price="122600"/>
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="2366" name="Recipe: Claws of Black Dragon" itemType="Receipe" >
+   <set icon="icon.etc_recipe_yellow_i00"/>
+   <set weight="30" price="122600"/>
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="2367" name="Recipe: Three Eyed Crow's Feather" itemType="Receipe" >
+   <set icon="icon.etc_recipe_yellow_i00"/>
+   <set weight="30" price="122600"/>
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="2375" name="Wolf Collar" itemType="PetCollar" >
+   <set icon="icon.etc_prefect_belt_i00"/>
+   <set weight="10" />
+   <set stackable="false"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="2508" name="Cursed Bone" itemType="Material" >
+   <set icon="icon.etc_piece_bone_red_i00"/>
+   <set weight="3" price="300"/>
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="2509" name="Spiritshot: No Grade" itemType="Shot" >
+   <set icon="icon.etc_spell_shot_white_i00"/>
+   <set weight="5" />
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="2510" name="Spiritshot: D-grade" itemType="Shot" >
+   <set icon="icon.etc_spell_shot_blue_i00"/>
+   <set weight="5" />
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="2511" name="Spiritshot: C-grade" itemType="Shot" >
+   <set icon="icon.etc_spell_shot_green_i00"/>
+   <set weight="3" />
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="2512" name="Spiritshot: B-grade" itemType="Shot" >
+   <set icon="icon.etc_spell_shot_red_i00"/>
+   <set weight="3" />
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="2513" name="Spiritshot: A-grade" itemType="Shot" >
+   <set icon="icon.etc_spell_shot_silver_i00"/>
+   <set weight="2" />
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="2514" name="Spiritshot: S-grade" itemType="Shot" >
+   <set icon="icon.etc_spell_shot_gold_i00"/>
+   <set weight="2" />
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="2515" name="Food For Wolves" itemType="Other" >
+   <set icon="icon.etc_pouch_yellow_i00"/>
+   <set weight="10" price="108"/>
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="2627" name="Mark of Challenger" itemType="Quest" >
+   <set icon="icon.etc_jewel_silver_i00"/>
+   <set stackable="true"/>
+   <set sellable="false" tradeable="false" />
+   <set dropable="false" destroyable="true"/>
+  </etc>
+  <etc id="2628" name="Letter of Kash" itemType="Quest" >
+   <set icon="icon.etc_scroll_gray_i00"/>
+   <set stackable="true"/>
+   <set sellable="false" tradeable="false" />
+   <set dropable="false" destroyable="true"/>
+  </etc>
+  <etc id="2629" name="Watcher's 1st Eye" itemType="Quest" >
+   <set icon="icon.etc_eyeball_i00"/>
+   <set stackable="true"/>
+   <set sellable="false" tradeable="false" />
+   <set dropable="false" destroyable="true"/>
+  </etc>
+  <etc id="2630" name="Watcher's 2nd Eye" itemType="Quest" >
+   <set icon="icon.etc_eyeball_i00"/>
+   <set stackable="true"/>
+   <set sellable="false" tradeable="false" />
+   <set dropable="false" destroyable="true"/>
+  </etc>
+  <etc id="2631" name="Scroll of Shyslassys" itemType="Quest" >
+   <set icon="icon.etc_scroll_of_enchant_weapon_i01"/>
+   <set stackable="true"/>
+   <set sellable="false" tradeable="false" />
+   <set dropable="false" destroyable="true"/>
+  </etc>
+  <etc id="2632" name="Broken Key" itemType="Quest" >
+   <set icon="icon.etc_mold_i00"/>
+   <set stackable="true"/>
+   <set sellable="false" tradeable="false" />
+   <set dropable="false" destroyable="true"/>
+  </etc>
+  <etc id="2633" name="Mark of Duty" itemType="Quest" >
+   <set icon="icon.accessary_necklace_of_holy_spirit_i00"/>
+   <set stackable="true"/>
+   <set sellable="false" tradeable="false" />
+   <set dropable="false" destroyable="true"/>
+  </etc>
+  <etc id="2634" name="Letter of Dustin" itemType="Quest" >
+   <set icon="icon.etc_piece_of_paper_white_i00"/>
+   <set stackable="true"/>
+   <set sellable="false" tradeable="false" />
+   <set dropable="false" destroyable="true"/>
+  </etc>
+  <etc id="2635" name="Knights Tear" itemType="Quest" >
+   <set icon="icon.etc_crystal_ball_red_i00"/>
+   <set stackable="true"/>
+   <set sellable="false" tradeable="false" />
+   <set dropable="false" destroyable="true"/>
+  </etc>
+  <etc id="2636" name="Mirror of Orpic" itemType="Quest" >
+   <set icon="icon.etc_mirror_i00"/>
+   <set stackable="true"/>
+   <set sellable="false" tradeable="false" />
+   <set dropable="false" destroyable="true"/>
+  </etc>
+  <etc id="2637" name="Tear of Confession" itemType="Quest" >
+   <set icon="icon.etc_crystal_ball_white_i00"/>
+   <set stackable="true"/>
+   <set sellable="false" tradeable="false" />
+   <set dropable="false" destroyable="true"/>
+  </etc>
+  <etc id="2638" name="Report Piece" itemType="Quest" >
+   <set icon="icon.etc_leather_gray_i00"/>
+   <set stackable="true"/>
+   <set sellable="false" tradeable="false" />
+   <set dropable="false" destroyable="true"/>
+  </etc>
+  <etc id="2639" name="Report Piece" itemType="Quest" >
+   <set icon="icon.etc_letter_white_i00"/>
+   <set stackable="true"/>
+   <set sellable="false" tradeable="false" />
+   <set dropable="false" destroyable="true"/>
+  </etc>
+  <etc id="2640" name="Tear of Loyalty" itemType="Quest" >
+   <set icon="icon.etc_crystal_ball_silver_i00"/>
+   <set stackable="true"/>
+   <set sellable="false" tradeable="false" />
+   <set dropable="false" destroyable="true"/>
+  </etc>
+  <etc id="2641" name="Militas Article" itemType="Quest" >
+   <set icon="icon.etc_jewel_box_i00"/>
+   <set stackable="true"/>
+   <set sellable="false" tradeable="false" />
+   <set dropable="false" destroyable="true"/>
+  </etc>
+  <etc id="2642" name="Saints Ashes Urn" itemType="Quest" >
+   <set icon="icon.etc_oil_pot_white_i00"/>
+   <set stackable="true"/>
+   <set sellable="false" tradeable="false" />
+   <set dropable="false" destroyable="true"/>
+  </etc>
+  <etc id="2643" name="Athebaldt's Skull" itemType="Quest" >
+   <set icon="icon.etc_skull_white_i00"/>
+   <set stackable="true"/>
+   <set sellable="false" tradeable="false" />
+   <set dropable="false" destroyable="true"/>
+  </etc>
+  <etc id="2644" name="Athebaldt's Ribs" itemType="Quest" >
+   <set icon="icon.etc_rib_white_i00"/>
+   <set stackable="true"/>
+   <set sellable="false" tradeable="false" />
+   <set dropable="false" destroyable="true"/>
+  </etc>
+  <etc id="2645" name="Athebaldt's Shin" itemType="Quest" >
+   <set icon="icon.etc_piece_bone_white_i00"/>
+   <set stackable="true"/>
+   <set sellable="false" tradeable="false" />
+   <set dropable="false" destroyable="true"/>
+  </etc>
+  <etc id="2646" name="Letter of Windawood" itemType="Quest" >
+   <set icon="icon.etc_letter_blue_i00"/>
+   <set stackable="true"/>
+   <set sellable="false" tradeable="false" />
+   <set dropable="false" destroyable="true"/>
+  </etc>
+  <etc id="2647" name="Dufners Letter" itemType="Quest" >
+   <set icon="icon.etc_scroll_white_i00"/>
+   <set stackable="true"/>
+   <set sellable="false" tradeable="false" />
+   <set dropable="false" destroyable="true"/>
+  </etc>
+  <etc id="2648" name="Terry's 1st Order" itemType="Quest" >
+   <set icon="icon.etc_scroll_of_resurrection_i01"/>
+   <set stackable="true"/>
+   <set sellable="false" tradeable="false" />
+   <set dropable="false" destroyable="true"/>
+  </etc>
+  <etc id="2649" name="Terry's 2nd Order" itemType="Quest" >
+   <set icon="icon.etc_scroll_of_return_i00"/>
+   <set stackable="true"/>
+   <set sellable="false" tradeable="false" />
+   <set dropable="false" destroyable="true"/>
+  </etc>
+  <etc id="2650" name="Terry's Letter" itemType="Quest" >
+   <set icon="icon.etc_letter_blue_i00"/>
+   <set stackable="true"/>
+   <set sellable="false" tradeable="false" />
+   <set dropable="false" destroyable="true"/>
+  </etc>
+  <etc id="2651" name="Viktor's Letter" itemType="Quest" >
+   <set icon="icon.etc_letter_red_i00"/>
+   <set stackable="true"/>
+   <set sellable="false" tradeable="false" />
+   <set dropable="false" destroyable="true"/>
+  </etc>
+  <etc id="2652" name="Hawkeye's Letter" itemType="Quest" >
+   <set icon="icon.etc_letter_white_i00"/>
+   <set stackable="true"/>
+   <set sellable="false" tradeable="false" />
+   <set dropable="false" destroyable="true"/>
+  </etc>
+  <etc id="2653" name="Mysterious Runestone" itemType="Quest" >
+   <set icon="icon.etc_crystal_blue_i00"/>
+   <set stackable="true"/>
+   <set sellable="false" tradeable="false" />
+   <set dropable="false" destroyable="true"/>
+  </etc>
+  <etc id="2654" name="Ol Mahum Runestone" itemType="Quest" >
+   <set icon="icon.etc_crystal_red_i00"/>
+   <set stackable="true"/>
+   <set sellable="false" tradeable="false" />
+   <set dropable="false" destroyable="true"/>
+  </etc>
+  <etc id="2655" name="Turek Runestone" itemType="Quest" >
+   <set icon="icon.etc_crystal_silver_i00"/>
+   <set stackable="true"/>
+   <set sellable="false" tradeable="false" />
+   <set dropable="false" destroyable="true"/>
+  </etc>
+  <etc id="2656" name="Ant Runestone" itemType="Quest" >
+   <set icon="icon.etc_crystal_white_i00"/>
+   <set stackable="true"/>
+   <set sellable="false" tradeable="false" />
+   <set dropable="false" destroyable="true"/>
+  </etc>
+  <etc id="2657" name="Turak Bugbear Runestone" itemType="Quest" >
+   <set icon="icon.etc_crystal_gold_i00"/>
+   <set stackable="true"/>
+   <set sellable="false" tradeable="false" />
+   <set dropable="false" destroyable="true"/>
+  </etc>
+  <etc id="2658" name="Terry's Box" itemType="Quest" >
+   <set icon="icon.etc_jewel_box_i00"/>
+   <set stackable="true"/>
+   <set sellable="false" tradeable="false" />
+   <set dropable="false" destroyable="true"/>
+  </etc>
+  <etc id="2659" name="Viktor's Request" itemType="Quest" >
+   <set icon="icon.etc_scroll_of_enchant_armor_i01"/>
+   <set stackable="true"/>
+   <set sellable="false" tradeable="false" />
+   <set dropable="false" destroyable="true"/>
+  </etc>
+  <etc id="2660" name="Medusa Scales" itemType="Quest" >
+   <set icon="icon.etc_parasite_i00"/>
+   <set stackable="true"/>
+   <set sellable="false" tradeable="false" />
+   <set dropable="false" destroyable="true"/>
+  </etc>
+  <etc id="2661" name="Shilen's Runestone" itemType="Quest" >
+   <set icon="icon.etc_crystal_green_i00"/>
+   <set stackable="true"/>
+   <set sellable="false" tradeable="false" />
+   <set dropable="false" destroyable="true"/>
+  </etc>
+  <etc id="2662" name="Analysis Request" itemType="Quest" >
+   <set icon="icon.etc_recipe_blue_i00"/>
+   <set stackable="true"/>
+   <set sellable="false" tradeable="false" />
+   <set dropable="false" destroyable="true"/>
+  </etc>
+  <etc id="2663" name="Marina's Letter" itemType="Quest" >
+   <set icon="icon.etc_piece_of_paper_white_i00"/>
+   <set stackable="true"/>
+   <set sellable="false" tradeable="false" />
+   <set dropable="false" destroyable="true"/>
+  </etc>
+  <etc id="2664" name="Experiment Tools" itemType="Quest" >
+   <set icon="icon.etc_squares_wood_i00"/>
+   <set stackable="true"/>
+   <set sellable="false" tradeable="false" />
+   <set dropable="false" destroyable="true"/>
+  </etc>
+  <etc id="2665" name="Analysis Result" itemType="Quest" >
+   <set icon="icon.etc_recipe_red_i00"/>
+   <set stackable="true"/>
+   <set sellable="false" tradeable="false" />
+   <set dropable="false" destroyable="true"/>
+  </etc>
+  <etc id="2666" name="Terry's 3rd Order" itemType="Quest" >
+   <set icon="icon.etc_scroll_of_enchant_weapon_i01"/>
+   <set stackable="true"/>
+   <set sellable="false" tradeable="false" />
+   <set dropable="false" destroyable="true"/>
+  </etc>
+  <etc id="2667" name="List of Host" itemType="Quest" >
+   <set icon="icon.etc_piece_of_paper_black_i00"/>
+   <set stackable="true"/>
+   <set sellable="false" tradeable="false" />
+   <set dropable="false" destroyable="true"/>
+  </etc>
+  <etc id="2668" name="Abyss Runestone" itemType="Quest" >
+   <set icon="icon.etc_crystal_blue_i00"/>
+   <set stackable="true"/>
+   <set sellable="false" tradeable="false" />
+   <set dropable="false" destroyable="true"/>
+  </etc>
+  <etc id="2669" name="Abyss Runestone" itemType="Quest" >
+   <set icon="icon.etc_crystal_silver_i00"/>
+   <set stackable="true"/>
+   <set sellable="false" tradeable="false" />
+   <set dropable="false" destroyable="true"/>
+  </etc>
+  <etc id="2670" name="Abyss Runestone" itemType="Quest" >
+   <set icon="icon.etc_crystal_white_i00"/>
+   <set stackable="true"/>
+   <set sellable="false" tradeable="false" />
+   <set dropable="false" destroyable="true"/>
+  </etc>
+  <etc id="2671" name="Abyss Runestone" itemType="Quest" >
+   <set icon="icon.etc_crystal_green_i00"/>
+   <set stackable="true"/>
+   <set sellable="false" tradeable="false" />
+   <set dropable="false" destroyable="true"/>
+  </etc>
+  <etc id="2672" name="Terry's Report" itemType="Quest" >
+   <set icon="icon.etc_scroll_of_enchant_weapon_i00"/>
+   <set stackable="true"/>
+   <set sellable="false" tradeable="false" />
+   <set dropable="false" destroyable="true"/>
+  </etc>
+  <etc id="2673" name="Mark of Seeker" itemType="Quest" >
+   <set icon="icon.etc_jewel_green_i00"/>
+   <set stackable="true"/>
+   <set sellable="false" tradeable="false" />
+   <set dropable="false" destroyable="true"/>
+  </etc>
+  <etc id="2674" name="Mark of Scholar" itemType="Quest" >
+   <set icon="icon.etc_jewel_blue_i00"/>
+   <set stackable="true"/>
+   <set sellable="false" tradeable="false" />
+   <set dropable="false" destroyable="true"/>
+  </etc>
+  <etc id="2675" name="Mirien's 1st Sigil" itemType="Quest" >
+   <set icon="icon.shield_shield_of_mana_i00"/>
+   <set stackable="true"/>
+   <set sellable="false" tradeable="false" />
+   <set dropable="false" destroyable="true"/>
+  </etc>
+  <etc id="2676" name="Mirien's 2nd Sigil" itemType="Quest" >
+   <set icon="icon.shield_shield_of_pledge_i00"/>
+   <set stackable="true"/>
+   <set sellable="false" tradeable="false" />
+   <set dropable="false" destroyable="true"/>
+  </etc>
+  <etc id="2677" name="Mirien's 3rd Sigil" itemType="Quest" >
+   <set icon="icon.shield_round_shield_i00"/>
+   <set stackable="true"/>
+   <set sellable="false" tradeable="false" />
+   <set dropable="false" destroyable="true"/>
+  </etc>
+  <etc id="2678" name="Mirien's Instruction" itemType="Quest" >
+   <set icon="icon.etc_scroll_gray_i00"/>
+   <set stackable="true"/>
+   <set sellable="false" tradeable="false" />
+   <set dropable="false" destroyable="true"/>
+  </etc>
+  <etc id="2679" name="Maria's 1st Letter" itemType="Quest" >
+   <set icon="icon.etc_letter_blue_i00"/>
+   <set stackable="true"/>
+   <set sellable="false" tradeable="false" />
+   <set dropable="false" destroyable="true"/>
+  </etc>
+  <etc id="2680" name="Maria's 2nd Letter" itemType="Quest" >
+   <set icon="icon.etc_letter_red_i00"/>
+   <set stackable="true"/>
+   <set sellable="false" tradeable="false" />
+   <set dropable="false" destroyable="true"/>
+  </etc>
+  <etc id="2681" name="Lucas's Letter" itemType="Quest" >
+   <set icon="icon.etc_letter_white_i00"/>
+   <set stackable="true"/>
+   <set sellable="false" tradeable="false" />
+   <set dropable="false" destroyable="true"/>
+  </etc>
+  <etc id="2682" name="Lucilla's Handbag" itemType="Quest" >
+   <set icon="icon.etc_pouch_yellow_i00"/>
+   <set stackable="true"/>
+   <set sellable="false" tradeable="false" />
+   <set dropable="false" destroyable="true"/>
+  </etc>
+  <etc id="2683" name="Creta's 1st Letter" itemType="Quest" >
+   <set icon="icon.etc_letter_blue_i00"/>
+   <set stackable="true"/>
+   <set sellable="false" tradeable="false" />
+   <set dropable="false" destroyable="true"/>
+  </etc>
+  <etc id="2684" name="Creta's Painting1" itemType="Quest" >
+   <set icon="icon.etc_scroll_of_enchant_armor_i00"/>
+   <set stackable="true"/>
+   <set sellable="false" tradeable="false" />
+   <set dropable="false" destroyable="true"/>
+  </etc>
+  <etc id="2685" name="Creta's Painting2" itemType="Quest" >
+   <set icon="icon.etc_scroll_of_resurrection_i00"/>
+   <set stackable="true"/>
+   <set sellable="false" tradeable="false" />
+   <set dropable="false" destroyable="true"/>
+  </etc>
+  <etc id="2686" name="Creta's Painting3" itemType="Quest" >
+   <set icon="icon.etc_scroll_of_return_i00"/>
+   <set stackable="true"/>
+   <set sellable="false" tradeable="false" />
+   <set dropable="false" destroyable="true"/>
+  </etc>
+  <etc id="2687" name="Brown Scroll Scrap" itemType="Quest" >
+   <set icon="icon.etc_map_piece_yellow_i00"/>
+   <set stackable="true"/>
+   <set sellable="false" tradeable="false" />
+   <set dropable="false" destroyable="true"/>
+  </etc>
+  <etc id="2688" name="Crystal of Purity" itemType="Quest" >
+   <set icon="icon.etc_gem_clear_i00"/>
+   <set stackable="true"/>
+   <set sellable="false" tradeable="false" />
+   <set dropable="false" destroyable="true"/>
+  </etc>
+  <etc id="2689" name="High Priest's Sigil" itemType="Quest" >
+   <set icon="icon.shield_sages_shield_i01"/>
+   <set stackable="true"/>
+   <set sellable="false" tradeable="false" />
+   <set dropable="false" destroyable="true"/>
+  </etc>
+  <etc id="2690" name="Grand Magister's Sigil" itemType="Quest" >
+   <set icon="icon.shield_doom_shield_i00"/>
+   <set stackable="true"/>
+   <set sellable="false" tradeable="false" />
+   <set dropable="false" destroyable="true"/>
+  </etc>
+  <etc id="2691" name="Crono's Sigil" itemType="Quest" >
+   <set icon="icon.shield_another_worlds_shield_i01"/>
+   <set stackable="true"/>
+   <set sellable="false" tradeable="false" />
+   <set dropable="false" destroyable="true"/>
+  </etc>
+  <etc id="2692" name="Sylvain's Letter" itemType="Quest" >
+   <set icon="icon.etc_piece_of_paper_gray_i00"/>
+   <set stackable="true"/>
+   <set sellable="false" tradeable="false" />
+   <set dropable="false" destroyable="true"/>
+  </etc>
+  <etc id="2693" name="Symbol of Sylvain" itemType="Quest" >
+   <set icon="icon.etc_coins_blue_i00"/>
+   <set stackable="true"/>
+   <set sellable="false" tradeable="false" />
+   <set dropable="false" destroyable="true"/>
+  </etc>
+  <etc id="2694" name="Jurek's List" itemType="Quest" >
+   <set icon="icon.etc_piece_of_paper_black_i00"/>
+   <set stackable="true"/>
+   <set sellable="false" tradeable="false" />
+   <set dropable="false" destroyable="true"/>
+  </etc>
+  <etc id="2695" name="Monster Eye Destroyer Skin" itemType="Quest" >
+   <set icon="icon.etc_leather_yellow_i00"/>
+   <set stackable="true"/>
+   <set sellable="false" tradeable="false" />
+   <set dropable="false" destroyable="true"/>
+  </etc>
+  <etc id="2696" name="Shaman's Necklace" itemType="Quest" >
+   <set icon="icon.etc_totem_necklace_red_i00"/>
+   <set stackable="true"/>
+   <set sellable="false" tradeable="false" />
+   <set dropable="false" destroyable="true"/>
+  </etc>
+  <etc id="2697" name="Shackle's Scalp" itemType="Quest" >
+   <set icon="icon.etc_leather_brown_i00"/>
+   <set stackable="true"/>
+   <set sellable="false" tradeable="false" />
+   <set dropable="false" destroyable="true"/>
+  </etc>
+  <etc id="2698" name="Symbol of Jurek" itemType="Quest" >
+   <set icon="icon.etc_coins_gold_i00"/>
+   <set stackable="true"/>
+   <set sellable="false" tradeable="false" />
+   <set dropable="false" destroyable="true"/>
+  </etc>
+  <etc id="2699" name="Cronos Letter" itemType="Quest" >
+   <set icon="icon.etc_letter_red_i00"/>
+   <set stackable="true"/>
+   <set sellable="false" tradeable="false" />
+   <set dropable="false" destroyable="true"/>
+  </etc>
+  <etc id="2700" name="Dieter's Key" itemType="Quest" >
+   <set icon="icon.etc_key_i00"/>
+   <set stackable="true"/>
+   <set sellable="false" tradeable="false" />
+   <set dropable="false" destroyable="true"/>
+  </etc>
+  <etc id="2701" name="Creta's 2nd Letter" itemType="Quest" >
+   <set icon="icon.etc_letter_white_i00"/>
+   <set stackable="true"/>
+   <set sellable="false" tradeable="false" />
+   <set dropable="false" destroyable="true"/>
+  </etc>
+  <etc id="2702" name="Dieter's Letter" itemType="Quest" >
+   <set icon="icon.etc_letter_blue_i00"/>
+   <set stackable="true"/>
+   <set sellable="false" tradeable="false" />
+   <set dropable="false" destroyable="true"/>
+  </etc>
+  <etc id="2703" name="Dieter's Diary" itemType="Quest" >
+   <set icon="icon.etc_spell_books_blue_i00"/>
+   <set stackable="true"/>
+   <set sellable="false" tradeable="false" />
+   <set dropable="false" destroyable="true"/>
+  </etc>
+  <etc id="2704" name="Raut's Letter Envelope" itemType="Quest" >
+   <set icon="icon.etc_plate_silver_i00"/>
+   <set stackable="true"/>
+   <set sellable="false" tradeable="false" />
+   <set dropable="false" destroyable="true"/>
+  </etc>
+  <etc id="2705" name="Triff's Ring" itemType="Quest" >
+   <set icon="icon.accessary_aquastone_ring_i00"/>
+   <set stackable="true"/>
+   <set sellable="false" tradeable="false" />
+   <set dropable="false" destroyable="true"/>
+  </etc>
+  <etc id="2706" name="Scripture Chapter 1" itemType="Quest" >
+   <set icon="icon.etc_spell_books_blue_i00"/>
+   <set stackable="true"/>
+   <set sellable="false" tradeable="false" />
+   <set dropable="false" destroyable="true"/>
+  </etc>
+  <etc id="2707" name="Scripture Chapter 2" itemType="Quest" >
+   <set icon="icon.etc_spell_books_red_i00"/>
+   <set stackable="true"/>
+   <set sellable="false" tradeable="false" />
+   <set dropable="false" destroyable="true"/>
+  </etc>
+  <etc id="2708" name="Scripture Chapter 3" itemType="Quest" >
+   <set icon="icon.weapon_apprentices_spellbook_i00"/>
+   <set stackable="true"/>
+   <set sellable="false" tradeable="false" />
+   <set dropable="false" destroyable="true"/>
+  </etc>
+  <etc id="2709" name="Scripture Chapter 4" itemType="Quest" >
+   <set icon="icon.weapon_apprentices_spellbook_i01"/>
+   <set stackable="true"/>
+   <set sellable="false" tradeable="false" />
+   <set dropable="false" destroyable="true"/>
+  </etc>
+  <etc id="2710" name="Valkon's Request" itemType="Quest" >
+   <set icon="icon.etc_scroll_gray_i00"/>
+   <set stackable="true"/>
+   <set sellable="false" tradeable="false" />
+   <set dropable="false" destroyable="true"/>
+  </etc>
+  <etc id="2711" name="Poitan's Notes" itemType="Quest" >
+   <set icon="icon.weapon_apprentices_spellbook_i01"/>
+   <set stackable="true"/>
+   <set sellable="false" tradeable="false" />
+   <set dropable="false" destroyable="true"/>
+  </etc>
+  <etc id="2712" name="Scriptures of Knowledge" itemType="Quest" >
+   <set icon="icon.etc_spell_books_red_i00"/>
+   <set stackable="true"/>
+   <set sellable="false" tradeable="false" />
+   <set dropable="false" destroyable="true"/>
+  </etc>
+  <etc id="2713" name="Strong Liquor" itemType="Quest" >
+   <set icon="icon.etc_potion_gold_i00"/>
+   <set stackable="true"/>
+   <set sellable="false" tradeable="false" />
+   <set dropable="false" destroyable="true"/>
+  </etc>
+  <etc id="2714" name="Crystal of Purity" itemType="Quest" >
+   <set icon="icon.etc_gem_clear_i00"/>
+   <set stackable="true"/>
+   <set sellable="false" tradeable="false" />
+   <set dropable="false" destroyable="true"/>
+  </etc>
+  <etc id="2715" name="Casian's List" itemType="Quest" >
+   <set icon="icon.etc_piece_of_paper_white_i00"/>
+   <set stackable="true"/>
+   <set sellable="false" tradeable="false" />
+   <set dropable="false" destroyable="true"/>
+  </etc>
+  <etc id="2716" name="Ghoul's Skin" itemType="Quest" >
+   <set icon="icon.etc_leather_gray_i00"/>
+   <set stackable="true"/>
+   <set sellable="false" tradeable="false" />
+   <set dropable="false" destroyable="true"/>
+  </etc>
+  <etc id="2717" name="Medusa's Blood" itemType="Quest" >
+   <set icon="icon.etc_lesser_potion_scarlet_i00"/>
+   <set stackable="true"/>
+   <set sellable="false" tradeable="false" />
+   <set dropable="false" destroyable="true"/>
+  </etc>
+  <etc id="2718" name="Fettered Soul's Ichor" itemType="Quest" >
+   <set icon="icon.etc_reagent_red_i00"/>
+   <set stackable="true"/>
+   <set sellable="false" tradeable="false" />
+   <set dropable="false" destroyable="true"/>
+  </etc>
+  <etc id="2719" name="Enchanted Gargoyle's Nail" itemType="Quest" >
+   <set icon="icon.etc_horn_i00"/>
+   <set stackable="true"/>
+   <set sellable="false" tradeable="false" />
+   <set dropable="false" destroyable="true"/>
+  </etc>
+  <etc id="2720" name="Symbol of Cronos" itemType="Quest" >
+   <set icon="icon.etc_coins_silver_i00"/>
+   <set stackable="true"/>
+   <set sellable="false" tradeable="false" />
+   <set dropable="false" destroyable="true"/>
+  </etc>
+  <etc id="2721" name="Mark of Pilgrim" itemType="Quest" >
+   <set icon="icon.etc_jewel_silver_i00"/>
+   <set stackable="true"/>
+   <set sellable="false" tradeable="false" />
+   <set dropable="false" destroyable="true"/>
+  </etc>
+  <etc id="2722" name="Book of Sage" itemType="Quest" >
+   <set icon="icon.etc_spellbook_gray_i00"/>
+   <set stackable="true"/>
+   <set sellable="false" tradeable="false" />
+   <set dropable="false" destroyable="true"/>
+  </etc>
+  <etc id="2723" name="Voucher of Trial" itemType="Quest" >
+   <set icon="icon.etc_totem_necklace_black_i00"/>
+   <set stackable="true"/>
+   <set sellable="false" tradeable="false" />
+   <set dropable="false" destroyable="true"/>
+  </etc>
+  <etc id="2724" name="Spirit of Flame" itemType="Quest" >
+   <set icon="icon.etc_bead_red_i00"/>
+   <set stackable="true"/>
+   <set sellable="false" tradeable="false" />
+   <set dropable="false" destroyable="true"/>
+  </etc>
+  <etc id="2725" name="Essence of Flame" itemType="Quest" >
+   <set icon="icon.etc_gem_red_i00"/>
+   <set stackable="true"/>
+   <set sellable="false" tradeable="false" />
+   <set dropable="false" destroyable="true"/>
+  </etc>
+  <etc id="2726" name="Book of Gerald" itemType="Quest" >
+   <set icon="icon.weapon_apprentices_spellbook_i00"/>
+   <set stackable="true"/>
+   <set sellable="false" tradeable="false" />
+   <set dropable="false" destroyable="true"/>
+  </etc>
+  <etc id="2727" name="Gray Badge" itemType="Quest" >
+   <set icon="icon.etc_badge_black_i00"/>
+   <set stackable="true"/>
+   <set sellable="false" tradeable="false" />
+   <set dropable="false" destroyable="true"/>
+  </etc>
+  <etc id="2728" name="Picture of Nahir" itemType="Quest" >
+   <set icon="icon.etc_plate_black_i00"/>
+   <set stackable="true"/>
+   <set sellable="false" tradeable="false" />
+   <set dropable="false" destroyable="true"/>
+  </etc>
+  <etc id="2729" name="Hair of Nahir" itemType="Quest" >
+   <set icon="icon.etc_mane_i00"/>
+   <set stackable="true"/>
+   <set sellable="false" tradeable="false" />
+   <set dropable="false" destroyable="true"/>
+  </etc>
+  <etc id="2730" name="Statue of Einhasad" itemType="Quest" >
+   <set icon="icon.etc_jewel_box_i00"/>
+   <set stackable="true"/>
+   <set sellable="false" tradeable="false" />
+   <set dropable="false" destroyable="true"/>
+  </etc>
+  <etc id="2731" name="Book of Darkness" itemType="Quest" >
+   <set icon="icon.etc_spell_books_red_i00"/>
+   <set stackable="true"/>
+   <set sellable="false" tradeable="false" />
+   <set dropable="false" destroyable="true"/>
+  </etc>
+  <etc id="2732" name="Debris of Willow" itemType="Quest" >
+   <set icon="icon.etc_bark_gold_i00"/>
+   <set stackable="true"/>
+   <set sellable="false" tradeable="false" />
+   <set dropable="false" destroyable="true"/>
+  </etc>
+  <etc id="2733" name="Tag of Rumor" itemType="Quest" >
+   <set icon="icon.etc_piece_of_paper_gray_i00"/>
+   <set stackable="true"/>
+   <set sellable="false" tradeable="false" />
+   <set dropable="false" destroyable="true"/>
+  </etc>
+  <etc id="2734" name="Mark of Trust" itemType="Quest" >
+   <set icon="icon.etc_jewel_green_i00"/>
+   <set stackable="true"/>
+   <set sellable="false" tradeable="false" />
+   <set dropable="false" destroyable="true"/>
+  </etc>
+  <etc id="2735" name="Letter to Elf" itemType="Quest" >
+   <set icon="icon.etc_scroll_of_enchant_armor_i00"/>
+   <set stackable="true"/>
+   <set sellable="false" tradeable="false" />
+   <set dropable="false" destroyable="true"/>
+  </etc>
+  <etc id="2736" name="Letter to Darkelf" itemType="Quest" >
+   <set icon="icon.etc_scroll_of_enchant_weapon_i00"/>
+   <set stackable="true"/>
+   <set sellable="false" tradeable="false" />
+   <set dropable="false" destroyable="true"/>
+  </etc>
+  <etc id="2737" name="Letter to Dwarf" itemType="Quest" >
+   <set icon="icon.etc_scroll_of_resurrection_i00"/>
+   <set stackable="true"/>
+   <set sellable="false" tradeable="false" />
+   <set dropable="false" destroyable="true"/>
+  </etc>
+  <etc id="2738" name="Letter to Orc" itemType="Quest" >
+   <set icon="icon.etc_scroll_of_return_i00"/>
+   <set stackable="true"/>
+   <set sellable="false" tradeable="false" />
+   <set dropable="false" destroyable="true"/>
+  </etc>
+  <etc id="2739" name="Letter to Seresin" itemType="Quest" >
+   <set icon="icon.etc_scroll_gray_i00"/>
+   <set stackable="true"/>
+   <set sellable="false" tradeable="false" />
+   <set dropable="false" destroyable="true"/>
+  </etc>
+  <etc id="2740" name="Scroll of Dark Elf Trust" itemType="Quest" >
+   <set icon="icon.etc_scroll_of_enchant_weapon_i01"/>
+   <set stackable="true"/>
+   <set sellable="false" tradeable="false" />
+   <set dropable="false" destroyable="true"/>
+  </etc>
+  <etc id="2741" name="Scroll of Elf Trust" itemType="Quest" >
+   <set icon="icon.etc_scroll_of_enchant_armor_i01"/>
+   <set stackable="true"/>
+   <set sellable="false" tradeable="false" />
+   <set dropable="false" destroyable="true"/>
+  </etc>
+  <etc id="2742" name="Scroll of Dwarf Trust" itemType="Quest" >
+   <set icon="icon.etc_scroll_of_resurrection_i01"/>
+   <set stackable="true"/>
+   <set sellable="false" tradeable="false" />
+   <set dropable="false" destroyable="true"/>
+  </etc>
+  <etc id="2743" name="Scroll of Orc Trust" itemType="Quest" >
+   <set icon="icon.etc_scroll_of_return_i01"/>
+   <set stackable="true"/>
+   <set sellable="false" tradeable="false" />
+   <set dropable="false" destroyable="true"/>
+  </etc>
+  <etc id="2744" name="Recommendation of Hollint" itemType="Quest" >
+   <set icon="icon.etc_letter_white_i00"/>
+   <set stackable="true"/>
+   <set sellable="false" tradeable="false" />
+   <set dropable="false" destroyable="true"/>
+  </etc>
+  <etc id="2745" name="Order of Asterios" itemType="Quest" >
+   <set icon="icon.etc_letter_red_i00"/>
+   <set stackable="true"/>
+   <set sellable="false" tradeable="false" />
+   <set dropable="false" destroyable="true"/>
+  </etc>
+  <etc id="2746" name="Breath of Winds" itemType="Quest" >
+   <set icon="icon.etc_potion_green_i00"/>
+   <set stackable="true"/>
+   <set sellable="false" tradeable="false" />
+   <set dropable="false" destroyable="true"/>
+  </etc>
+  <etc id="2747" name="Seed of Verdure" itemType="Quest" >
+   <set icon="icon.etc_broken_crystal_green_i00"/>
+   <set stackable="true"/>
+   <set sellable="false" tradeable="false" />
+   <set dropable="false" destroyable="true"/>
+  </etc>
+  <etc id="2748" name="Letter from Thifiell" itemType="Quest" >
+   <set icon="icon.etc_letter_blue_i00"/>
+   <set stackable="true"/>
+   <set sellable="false" tradeable="false" />
+   <set dropable="false" destroyable="true"/>
+  </etc>
+  <etc id="2749" name="Blood of Guardian Basilisk" itemType="Quest" >
+   <set icon="icon.etc_reagent_red_i00"/>
+   <set stackable="true"/>
+   <set sellable="false" tradeable="false" />
+   <set dropable="false" destroyable="true"/>
+  </etc>
+  <etc id="2750" name="Giant Aphid" itemType="Quest" >
+   <set icon="icon.etc_reagent_green_i00"/>
+   <set stackable="true"/>
+   <set sellable="false" tradeable="false" />
+   <set dropable="false" destroyable="true"/>
+  </etc>
+  <etc id="2751" name="Stakatos Fluids" itemType="Quest" >
+   <set icon="icon.etc_reagent_blue_i00"/>
+   <set stackable="true"/>
+   <set sellable="false" tradeable="false" />
+   <set dropable="false" destroyable="true"/>
+  </etc>
+  <etc id="2752" name="Basilisk Plasma" itemType="Quest" >
+   <set icon="icon.etc_potion_red_i00"/>
+   <set stackable="true"/>
+   <set sellable="false" tradeable="false" />
+   <set dropable="false" destroyable="true"/>
+  </etc>
+  <etc id="2753" name="Honey Dew" itemType="Quest" >
+   <set icon="icon.etc_potion_gold_i00"/>
+   <set stackable="true"/>
+   <set sellable="false" tradeable="false" />
+   <set dropable="false" destroyable="true"/>
+  </etc>
+  <etc id="2754" name="Stakato Ichor" itemType="Quest" >
+   <set icon="icon.etc_potion_blue_i00"/>
+   <set stackable="true"/>
+   <set sellable="false" tradeable="false" />
+   <set dropable="false" destroyable="true"/>
+  </etc>
+  <etc id="2755" name="Order of Clayton" itemType="Quest" >
+   <set icon="icon.etc_letter_blue_i00"/>
+   <set stackable="true"/>
+   <set sellable="false" tradeable="false" />
+   <set dropable="false" destroyable="true"/>
+  </etc>
+  <etc id="2756" name="Parasite of Lota" itemType="Quest" >
+   <set icon="icon.etc_totem_black_i00"/>
+   <set stackable="true"/>
+   <set sellable="false" tradeable="false" />
+   <set dropable="false" destroyable="true"/>
+  </etc>
+  <etc id="2757" name="Letter to Manakia" itemType="Quest" >
+   <set icon="icon.etc_piece_of_paper_black_i00"/>
+   <set stackable="true"/>
+   <set sellable="false" tradeable="false" />
+   <set dropable="false" destroyable="true"/>
+  </etc>
+  <etc id="2758" name="Letter of Manakia" itemType="Quest" >
+   <set icon="icon.etc_piece_of_paper_gray_i00"/>
+   <set stackable="true"/>
+   <set sellable="false" tradeable="false" />
+   <set dropable="false" destroyable="true"/>
+  </etc>
+  <etc id="2759" name="Letter to Nikola" itemType="Quest" >
+   <set icon="icon.etc_piece_of_paper_white_i00"/>
+   <set stackable="true"/>
+   <set sellable="false" tradeable="false" />
+   <set dropable="false" destroyable="true"/>
+  </etc>
+  <etc id="2760" name="Order of Nikola" itemType="Quest" >
+   <set icon="icon.etc_scroll_white_i00"/>
+   <set stackable="true"/>
+   <set sellable="false" tradeable="false" />
+   <set dropable="false" destroyable="true"/>
+  </etc>
+  <etc id="2761" name="Heartstone of Porta" itemType="Quest" >
+   <set icon="icon.etc_poison_pouch_i00"/>
+   <set stackable="true"/>
+   <set sellable="false" tradeable="false" />
+   <set dropable="false" destroyable="true"/>
+  </etc>
+  <etc id="2762" name="Mark of Duelist" itemType="Quest" >
+   <set icon="icon.etc_jewel_red_i00"/>
+   <set stackable="true"/>
+   <set sellable="false" tradeable="false" />
+   <set dropable="false" destroyable="true"/>
+  </etc>
+  <etc id="2763" name="Order Gludio" itemType="Quest" >
+   <set icon="icon.etc_scroll_of_enchant_armor_i01"/>
+   <set stackable="true"/>
+   <set sellable="false" tradeable="false" />
+   <set dropable="false" destroyable="true"/>
+  </etc>
+  <etc id="2764" name="Order Dion" itemType="Quest" >
+   <set icon="icon.etc_scroll_of_enchant_weapon_i01"/>
+   <set stackable="true"/>
+   <set sellable="false" tradeable="false" />
+   <set dropable="false" destroyable="true"/>
+  </etc>
+  <etc id="2765" name="Order Giran" itemType="Quest" >
+   <set icon="icon.etc_scroll_of_resurrection_i01"/>
+   <set stackable="true"/>
+   <set sellable="false" tradeable="false" />
+   <set dropable="false" destroyable="true"/>
+  </etc>
+  <etc id="2766" name="Order Oren" itemType="Quest" >
+   <set icon="icon.etc_scroll_of_return_i01"/>
+   <set stackable="true"/>
+   <set sellable="false" tradeable="false" />
+   <set dropable="false" destroyable="true"/>
+  </etc>
+  <etc id="2767" name="Order Aden" itemType="Quest" >
+   <set icon="icon.etc_scroll_of_enchant_armor_i00"/>
+   <set stackable="true"/>
+   <set sellable="false" tradeable="false" />
+   <set dropable="false" destroyable="true"/>
+  </etc>
+  <etc id="2768" name="Puncher's Shard" itemType="Quest" >
+   <set icon="icon.etc_stone_black_i00"/>
+   <set stackable="true"/>
+   <set sellable="false" tradeable="false" />
+   <set dropable="false" destroyable="true"/>
+  </etc>
+  <etc id="2769" name="Noble Ant's Feeler" itemType="Quest" >
+   <set icon="icon.etc_insect_leg_i00"/>
+   <set stackable="true"/>
+   <set sellable="false" tradeable="false" />
+   <set dropable="false" destroyable="true"/>
+  </etc>
+  <etc id="2770" name="Drone's Chitin" itemType="Quest" >
+   <set icon="icon.etc_fang_red_i00"/>
+   <set stackable="true"/>
+   <set sellable="false" tradeable="false" />
+   <set dropable="false" destroyable="true"/>
+  </etc>
+  <etc id="2771" name="Dead Seeker Fang" itemType="Quest" >
+   <set icon="icon.etc_fang_gray_i00"/>
+   <set stackable="true"/>
+   <set sellable="false" tradeable="false" />
+   <set dropable="false" destroyable="true"/>
+  </etc>
+  <etc id="2772" name="Overlord Necklace" itemType="Quest" >
+   <set icon="icon.accessary_necklace_of_anguish_i00"/>
+   <set stackable="true"/>
+   <set sellable="false" tradeable="false" />
+   <set dropable="false" destroyable="true"/>
+  </etc>
+  <etc id="2773" name="Fettered Soul's Chain" itemType="Quest" >
+   <set icon="icon.etc_totem_necklace_red_i00"/>
+   <set stackable="true"/>
+   <set sellable="false" tradeable="false" />
+   <set dropable="false" destroyable="true"/>
+  </etc>
+  <etc id="2774" name="Chief's Amulet" itemType="Quest" >
+   <set icon="icon.etc_orcish_talisman_i00"/>
+   <set stackable="true"/>
+   <set sellable="false" tradeable="false" />
+   <set dropable="false" destroyable="true"/>
+  </etc>
+  <etc id="2775" name="Enchanted Eye Meat" itemType="Quest" >
+   <set icon="icon.etc_meat_i00"/>
+   <set stackable="true"/>
+   <set sellable="false" tradeable="false" />
+   <set dropable="false" destroyable="true"/>
+  </etc>
+  <etc id="2776" name="Tamrin Orc's Ring" itemType="Quest" >
+   <set icon="icon.accessary_cerberuss_ring_i00"/>
+   <set stackable="true"/>
+   <set sellable="false" tradeable="false" />
+   <set dropable="false" destroyable="true"/>
+  </etc>
+  <etc id="2777" name="Tamrin Orc's Arrow" itemType="Quest" >
+   <set icon="icon.weapon_wooden_arrow_i01"/>
+   <set stackable="true"/>
+   <set sellable="false" tradeable="false" />
+   <set dropable="false" destroyable="true"/>
+  </etc>
+  <etc id="2778" name="Final Order" itemType="Quest" >
+   <set icon="icon.etc_scroll_white_i00"/>
+   <set stackable="true"/>
+   <set sellable="false" tradeable="false" />
+   <set dropable="false" destroyable="true"/>
+  </etc>
+  <etc id="2779" name="Excuro's Skin" itemType="Quest" >
+   <set icon="icon.etc_leather_brown_i00"/>
+   <set stackable="true"/>
+   <set sellable="false" tradeable="false" />
+   <set dropable="false" destroyable="true"/>
+  </etc>
+  <etc id="2780" name="Krator's Shard" itemType="Quest" >
+   <set icon="icon.etc_stone_gray_i00"/>
+   <set stackable="true"/>
+   <set sellable="false" tradeable="false" />
+   <set dropable="false" destroyable="true"/>
+  </etc>
+  <etc id="2781" name="Grandi's Skin" itemType="Quest" >
+   <set icon="icon.etc_leather_gray_i00"/>
+   <set stackable="true"/>
+   <set sellable="false" tradeable="false" />
+   <set dropable="false" destroyable="true"/>
+  </etc>
+  <etc id="2782" name="Timak Orc's Belt" itemType="Quest" >
+   <set icon="icon.etc_piece_of_cloth_black_i00"/>
+   <set stackable="true"/>
+   <set sellable="false" tradeable="false" />
+   <set dropable="false" destroyable="true"/>
+  </etc>
+  <etc id="2783" name="Lakin's Mace" itemType="Quest" >
+   <set icon="icon.weapon_spike_club_i00"/>
+   <set stackable="true"/>
+   <set sellable="false" tradeable="false" />
+   <set dropable="false" destroyable="true"/>
+  </etc>
+  <etc id="2784" name="Luther's Letter" itemType="Quest" >
+   <set icon="icon.etc_scroll_gray_i00"/>
+   <set stackable="true"/>
+   <set sellable="false" tradeable="false" />
+   <set dropable="false" destroyable="true"/>
+  </etc>
+  <etc id="2785" name="Alex's Warrant" itemType="Quest" >
+   <set icon="icon.etc_letter_white_i00"/>
+   <set stackable="true"/>
+   <set sellable="false" tradeable="false" />
+   <set dropable="false" destroyable="true"/>
+  </etc>
+  <etc id="2786" name="Leirynn's 1st Order" itemType="Quest" >
+   <set icon="icon.etc_recipe_blue_i00"/>
+   <set stackable="true"/>
+   <set sellable="false" tradeable="false" />
+   <set dropable="false" destroyable="true"/>
+  </etc>
+  <etc id="2787" name="Delu Totem" itemType="Quest" >
+   <set icon="icon.etc_totem_necklace_green_i00"/>
+   <set stackable="true"/>
+   <set sellable="false" tradeable="false" />
+   <set dropable="false" destroyable="true"/>
+  </etc>
+  <etc id="2788" name="Leirynn's 2nd Order" itemType="Quest" >
+   <set icon="icon.etc_recipe_red_i00"/>
+   <set stackable="true"/>
+   <set sellable="false" tradeable="false" />
+   <set dropable="false" destroyable="true"/>
+  </etc>
+  <etc id="2789" name="Chief Kalki's Fang" itemType="Quest" >
+   <set icon="icon.etc_fang_ivory_i00"/>
+   <set stackable="true"/>
+   <set sellable="false" tradeable="false" />
+   <set dropable="false" destroyable="true"/>
+  </etc>
+  <etc id="2790" name="Leirynn's Report" itemType="Quest" >
+   <set icon="icon.etc_scroll_white_i00"/>
+   <set stackable="true"/>
+   <set sellable="false" tradeable="false" />
+   <set dropable="false" destroyable="true"/>
+  </etc>
+  <etc id="2791" name="Strange Map" itemType="Quest" >
+   <set icon="icon.etc_map_yellow_i00"/>
+   <set stackable="true"/>
+   <set sellable="false" tradeable="false" />
+   <set dropable="false" destroyable="true"/>
+  </etc>
+  <etc id="2792" name="Lambert's Map" itemType="Quest" >
+   <set icon="icon.etc_map_yellow_i00"/>
+   <set stackable="true"/>
+   <set sellable="false" tradeable="false" />
+   <set dropable="false" destroyable="true"/>
+  </etc>
+  <etc id="2793" name="Alex's Letter" itemType="Quest" >
+   <set icon="icon.etc_piece_of_paper_white_i00"/>
+   <set stackable="true"/>
+   <set sellable="false" tradeable="false" />
+   <set dropable="false" destroyable="true"/>
+  </etc>
+  <etc id="2794" name="Alex's Order" itemType="Quest" >
+   <set icon="icon.etc_piece_of_paper_white_i00"/>
+   <set stackable="true"/>
+   <set sellable="false" tradeable="false" />
+   <set dropable="false" destroyable="true"/>
+  </etc>
+  <etc id="2795" name="Wine Catalog" itemType="Quest" >
+   <set icon="icon.etc_spell_books_red_i00"/>
+   <set stackable="true"/>
+   <set sellable="false" tradeable="false" />
+   <set dropable="false" destroyable="true"/>
+  </etc>
+  <etc id="2796" name="Tyra's Contract" itemType="Quest" >
+   <set icon="icon.etc_letter_blue_i00"/>
+   <set stackable="true"/>
+   <set sellable="false" tradeable="false" />
+   <set dropable="false" destroyable="true"/>
+  </etc>
+  <etc id="2797" name="Red Spore Dust" itemType="Quest" >
+   <set icon="icon.etc_powder_red_i00"/>
+   <set stackable="true"/>
+   <set sellable="false" tradeable="false" />
+   <set dropable="false" destroyable="true"/>
+  </etc>
+  <etc id="2798" name="Malrukian Wine" itemType="Quest" >
+   <set icon="icon.etc_lesser_potion_purple_i00"/>
+   <set stackable="true"/>
+   <set sellable="false" tradeable="false" />
+   <set dropable="false" destroyable="true"/>
+  </etc>
+  <etc id="2799" name="Old Order" itemType="Quest" >
+   <set icon="icon.etc_piece_of_paper_black_i00"/>
+   <set stackable="true"/>
+   <set sellable="false" tradeable="false" />
+   <set dropable="false" destroyable="true"/>
+  </etc>
+  <etc id="2800" name="Jax's Diary" itemType="Quest" >
+   <set icon="icon.etc_spellbook_blue_i00"/>
+   <set stackable="true"/>
+   <set sellable="false" tradeable="false" />
+   <set dropable="false" destroyable="true"/>
+  </etc>
+  <etc id="2801" name="1st Torn Map Piece" itemType="Quest" >
+   <set icon="icon.etc_map_piece_yellow_i00"/>
+   <set stackable="true"/>
+   <set sellable="false" tradeable="false" />
+   <set dropable="false" destroyable="true"/>
+  </etc>
+  <etc id="2802" name="2nd Torn Map Piece" itemType="Quest" >
+   <set icon="icon.etc_map_piece_yellow_i00"/>
+   <set stackable="true"/>
+   <set sellable="false" tradeable="false" />
+   <set dropable="false" destroyable="true"/>
+  </etc>
+  <etc id="2803" name="Solt's Map" itemType="Quest" >
+   <set icon="icon.etc_map_yellow_i00"/>
+   <set stackable="true"/>
+   <set sellable="false" tradeable="false" />
+   <set dropable="false" destroyable="true"/>
+  </etc>
+  <etc id="2804" name="Makel's Map" itemType="Quest" >
+   <set icon="icon.etc_map_yellow_i00"/>
+   <set stackable="true"/>
+   <set sellable="false" tradeable="false" />
+   <set dropable="false" destroyable="true"/>
+  </etc>
+  <etc id="2805" name="Combined Map" itemType="Quest" >
+   <set icon="icon.etc_map_ivory_i00"/>
+   <set stackable="true"/>
+   <set sellable="false" tradeable="false" />
+   <set dropable="false" destroyable="true"/>
+  </etc>
+  <etc id="2806" name="Rusted Key" itemType="Quest" >
+   <set icon="icon.etc_key_i00"/>
+   <set stackable="true"/>
+   <set sellable="false" tradeable="false" />
+   <set dropable="false" destroyable="true"/>
+  </etc>
+  <etc id="2807" name="Gold Bar" itemType="Quest" >
+   <set icon="icon.etc_lump_yellow_i00"/>
+   <set stackable="true"/>
+   <set sellable="false" tradeable="false" />
+   <set dropable="false" destroyable="true"/>
+  </etc>
+  <etc id="2808" name="Alex's Recommend" itemType="Quest" >
+   <set icon="icon.etc_letter_white_i00"/>
+   <set stackable="true"/>
+   <set sellable="false" tradeable="false" />
+   <set dropable="false" destroyable="true"/>
+  </etc>
+  <etc id="2809" name="Mark of Searcher" itemType="Quest" >
+   <set icon="icon.etc_badge_gold_i00"/>
+   <set stackable="true"/>
+   <set sellable="false" tradeable="false" />
+   <set dropable="false" destroyable="true"/>
+  </etc>
+  <etc id="2810" name="Report of Perrin" itemType="Quest" >
+   <set icon="icon.etc_letter_blue_i00"/>
+   <set stackable="true"/>
+   <set sellable="false" tradeable="false" />
+   <set dropable="false" destroyable="true"/>
+  </etc>
+  <etc id="2811" name="Kristina's Letter" itemType="Quest" >
+   <set icon="icon.etc_piece_of_paper_white_i00"/>
+   <set stackable="true"/>
+   <set sellable="false" tradeable="false" />
+   <set dropable="false" destroyable="true"/>
+  </etc>
+  <etc id="2812" name="Picture of Windy" itemType="Quest" >
+   <set icon="icon.etc_plate_white_i00"/>
+   <set stackable="true"/>
+   <set sellable="false" tradeable="false" />
+   <set dropable="false" destroyable="true"/>
+  </etc>
+  <etc id="2813" name="Golden Statue" itemType="Quest" >
+   <set icon="icon.etc_orcish_talisman_i00"/>
+   <set stackable="true"/>
+   <set sellable="false" tradeable="false" />
+   <set dropable="false" destroyable="true"/>
+  </etc>
+  <etc id="2814" name="Windy's Pebbles" itemType="Quest" >
+   <set icon="icon.etc_stone_gray_i00"/>
+   <set stackable="true"/>
+   <set sellable="false" tradeable="false" />
+   <set dropable="false" destroyable="true"/>
+  </etc>
+  <etc id="2815" name="Order of Sorius" itemType="Quest" >
+   <set icon="icon.etc_letter_red_i00"/>
+   <set stackable="true"/>
+   <set sellable="false" tradeable="false" />
+   <set dropable="false" destroyable="true"/>
+  </etc>
+  <etc id="2816" name="1st Secret Letter" itemType="Quest" >
+   <set icon="icon.etc_scroll_gray_i00"/>
+   <set stackable="true"/>
+   <set sellable="false" tradeable="false" />
+   <set dropable="false" destroyable="true"/>
+  </etc>
+  <etc id="2817" name="2nd Secret Letter" itemType="Quest" >
+   <set icon="icon.etc_scroll_white_i00"/>
+   <set stackable="true"/>
+   <set sellable="false" tradeable="false" />
+   <set dropable="false" destroyable="true"/>
+  </etc>
+  <etc id="2818" name="3rd Secret Letter" itemType="Quest" >
+   <set icon="icon.weapon_scroll_of_wisdom_i00"/>
+   <set stackable="true"/>
+   <set sellable="false" tradeable="false" />
+   <set dropable="false" destroyable="true"/>
+  </etc>
+  <etc id="2819" name="4th Secret Letter" itemType="Quest" >
+   <set icon="icon.weapon_scroll_of_wisdom_i01"/>
+   <set stackable="true"/>
+   <set sellable="false" tradeable="false" />
+   <set dropable="false" destroyable="true"/>
+  </etc>
+  <etc id="2820" name="Mark of Healer" itemType="Quest" >
+   <set icon="icon.etc_jewel_white_i00"/>
+   <set stackable="true"/>
+   <set sellable="false" tradeable="false" />
+   <set dropable="false" destroyable="true"/>
+  </etc>
+  <etc id="2821" name="Mark of Reformer" itemType="Quest" >
+   <set icon="icon.etc_jewel_gold_i00"/>
+   <set stackable="true"/>
+   <set sellable="false" tradeable="false" />
+   <set dropable="false" destroyable="true"/>
+  </etc>
+  <etc id="2822" name="Book of Reform" itemType="Quest" >
+   <set icon="icon.weapon_apprentices_spellbook_i01"/>
+   <set stackable="true"/>
+   <set sellable="false" tradeable="false" />
+   <set dropable="false" destroyable="true"/>
+  </etc>
+  <etc id="2823" name="Letter of Introduction" itemType="Quest" >
+   <set icon="icon.etc_scroll_of_enchant_armor_i00"/>
+   <set stackable="true"/>
+   <set sellable="false" tradeable="false" />
+   <set dropable="false" destroyable="true"/>
+  </etc>
+  <etc id="2824" name="Sla's Letter" itemType="Quest" >
+   <set icon="icon.etc_piece_of_paper_black_i00"/>
+   <set stackable="true"/>
+   <set sellable="false" tradeable="false" />
+   <set dropable="false" destroyable="true"/>
+  </etc>
+  <etc id="2825" name="Greetings" itemType="Quest" >
+   <set icon="icon.etc_piece_of_paper_gray_i00"/>
+   <set stackable="true"/>
+   <set sellable="false" tradeable="false" />
+   <set dropable="false" destroyable="true"/>
+  </etc>
+  <etc id="2826" name="Ol Mahum's Money" itemType="Quest" >
+   <set icon="icon.etc_coins_silver_i00"/>
+   <set stackable="true"/>
+   <set sellable="false" tradeable="false" />
+   <set dropable="false" destroyable="true"/>
+  </etc>
+  <etc id="2827" name="Katari's Letter" itemType="Quest" >
+   <set icon="icon.etc_letter_blue_i00"/>
+   <set stackable="true"/>
+   <set sellable="false" tradeable="false" />
+   <set dropable="false" destroyable="true"/>
+  </etc>
+  <etc id="2828" name="Nyakuri's Letter" itemType="Quest" >
+   <set icon="icon.etc_letter_red_i00"/>
+   <set stackable="true"/>
+   <set sellable="false" tradeable="false" />
+   <set dropable="false" destroyable="true"/>
+  </etc>
+  <etc id="2829" name="Undead List" itemType="Quest" >
+   <set icon="icon.etc_recipe_red_i00"/>
+   <set stackable="true"/>
+   <set sellable="false" tradeable="false" />
+   <set dropable="false" destroyable="true"/>
+  </etc>
+  <etc id="2830" name="Ramus's Letter" itemType="Quest" >
+   <set icon="icon.etc_letter_white_i00"/>
+   <set stackable="true"/>
+   <set sellable="false" tradeable="false" />
+   <set dropable="false" destroyable="true"/>
+  </etc>
+  <etc id="2831" name="Ripped Diary" itemType="Quest" >
+   <set icon="icon.etc_map_piece_ivory_i00"/>
+   <set stackable="true"/>
+   <set sellable="false" tradeable="false" />
+   <set dropable="false" destroyable="true"/>
+  </etc>
+  <etc id="2832" name="Huge Nail" itemType="Quest" >
+   <set icon="icon.weapon_heavy_chisel_i00"/>
+   <set stackable="true"/>
+   <set sellable="false" tradeable="false" />
+   <set dropable="false" destroyable="true"/>
+  </etc>
+  <etc id="2833" name="Letter of Betrayer" itemType="Quest" >
+   <set icon="icon.etc_scroll_gray_i00"/>
+   <set stackable="true"/>
+   <set sellable="false" tradeable="false" />
+   <set dropable="false" destroyable="true"/>
+  </etc>
+  <etc id="2834" name="Bone Fragment" itemType="Quest" >
+   <set icon="icon.etc_rib_black_i00"/>
+   <set stackable="true"/>
+   <set sellable="false" tradeable="false" />
+   <set dropable="false" destroyable="true"/>
+  </etc>
+  <etc id="2835" name="Bone Fragment" itemType="Quest" >
+   <set icon="icon.etc_piece_bone_white_i00"/>
+   <set stackable="true"/>
+   <set sellable="false" tradeable="false" />
+   <set dropable="false" destroyable="true"/>
+  </etc>
+  <etc id="2836" name="Bone Fragment" itemType="Quest" >
+   <set icon="icon.etc_molar_black_i00"/>
+   <set stackable="true"/>
+   <set sellable="false" tradeable="false" />
+   <set dropable="false" destroyable="true"/>
+  </etc>
+  <etc id="2837" name="Bone Fragment" itemType="Quest" >
+   <set icon="icon.etc_molar_white_i00"/>
+   <set stackable="true"/>
+   <set sellable="false" tradeable="false" />
+   <set dropable="false" destroyable="true"/>
+  </etc>
+  <etc id="2838" name="Bone Fragment" itemType="Quest" >
+   <set icon="icon.etc_rib_white_i00"/>
+   <set stackable="true"/>
+   <set sellable="false" tradeable="false" />
+   <set dropable="false" destroyable="true"/>
+  </etc>
+  <etc id="2839" name="Bone Fragment" itemType="Quest" >
+   <set icon="icon.etc_rib_black_i00"/>
+   <set stackable="true"/>
+   <set sellable="false" tradeable="false" />
+   <set dropable="false" destroyable="true"/>
+  </etc>
+  <etc id="2840" name="Mark of Magus" itemType="Quest" >
+   <set icon="icon.etc_mark_yellow_i00"/>
+   <set stackable="true"/>
+   <set sellable="false" tradeable="false" />
+   <set dropable="false" destroyable="true"/>
+  </etc>
+  <etc id="2841" name="Rukal's Letter" itemType="Quest" >
+   <set icon="icon.etc_letter_blue_i00"/>
+   <set stackable="true"/>
+   <set sellable="false" tradeable="false" />
+   <set dropable="false" destroyable="true"/>
+  </etc>
+  <etc id="2842" name="Parina's Letter" itemType="Quest" >
+   <set icon="icon.etc_letter_red_i00"/>
+   <set stackable="true"/>
+   <set sellable="false" tradeable="false" />
+   <set dropable="false" destroyable="true"/>
+  </etc>
+  <etc id="2843" name="Lilac Charm" itemType="Quest" >
+   <set icon="icon.etc_badge_gold_i00"/>
+   <set stackable="true"/>
+   <set sellable="false" tradeable="false" />
+   <set dropable="false" destroyable="true"/>
+  </etc>
+  <etc id="2844" name="1st Golden Seed" itemType="Quest" >
+   <set icon="icon.etc_pouch_yellow_i00"/>
+   <set stackable="true"/>
+   <set sellable="false" tradeable="false" />
+   <set dropable="false" destroyable="true"/>
+  </etc>
+  <etc id="2845" name="2nd Golden Seed" itemType="Quest" >
+   <set icon="icon.etc_pouch_gray_i00"/>
+   <set stackable="true"/>
+   <set sellable="false" tradeable="false" />
+   <set dropable="false" destroyable="true"/>
+  </etc>
+  <etc id="2846" name="3rd Golden Seed" itemType="Quest" >
+   <set icon="icon.etc_pouch_brown_i00"/>
+   <set stackable="true"/>
+   <set sellable="false" tradeable="false" />
+   <set dropable="false" destroyable="true"/>
+  </etc>
+  <etc id="2847" name="Score of Elements" itemType="Quest" >
+   <set icon="icon.etc_recipe_red_i00"/>
+   <set stackable="true"/>
+   <set sellable="false" tradeable="false" />
+   <set dropable="false" destroyable="true"/>
+  </etc>
+  <etc id="2848" name="Dazzling Drop" itemType="Quest" >
+   <set icon="icon.etc_crystal_ball_blue_i00"/>
+   <set stackable="true"/>
+   <set sellable="false" tradeable="false" />
+   <set dropable="false" destroyable="true"/>
+  </etc>
+  <etc id="2849" name="Flame Crystal" itemType="Quest" >
+   <set icon="icon.etc_gem_red_i00"/>
+   <set stackable="true"/>
+   <set sellable="false" tradeable="false" />
+   <set dropable="false" destroyable="true"/>
+  </etc>
+  <etc id="2850" name="Harpy's Feather" itemType="Quest" >
+   <set icon="icon.etc_feather_white_i00"/>
+   <set stackable="true"/>
+   <set sellable="false" tradeable="false" />
+   <set dropable="false" destroyable="true"/>
+  </etc>
+  <etc id="2851" name="Wyrm's Wingbone" itemType="Quest" >
+   <set icon="icon.etc_piece_bone_red_i00"/>
+   <set stackable="true"/>
+   <set sellable="false" tradeable="false" />
+   <set dropable="false" destroyable="true"/>
+  </etc>
+  <etc id="2852" name="Windsus Mane" itemType="Quest" >
+   <set icon="icon.etc_mane_i00"/>
+   <set stackable="true"/>
+   <set sellable="false" tradeable="false" />
+   <set dropable="false" destroyable="true"/>
+  </etc>
+  <etc id="2853" name="Enchanted Monster Eye Shell" itemType="Quest" >
+   <set icon="icon.etc_bark_gold_i00"/>
+   <set stackable="true"/>
+   <set sellable="false" tradeable="false" />
+   <set dropable="false" destroyable="true"/>
+  </etc>
+  <etc id="2854" name="Enchanted Stone Golem Powder" itemType="Quest" >
+   <set icon="icon.etc_powder_gray_i00"/>
+   <set stackable="true"/>
+   <set sellable="false" tradeable="false" />
+   <set dropable="false" destroyable="true"/>
+  </etc>
+  <etc id="2855" name="Enchanted Iron Golem Scrap" itemType="Quest" >
+   <set icon="icon.etc_stone_black_i00"/>
+   <set stackable="true"/>
+   <set sellable="false" tradeable="false" />
+   <set dropable="false" destroyable="true"/>
+  </etc>
+  <etc id="2856" name="Tone of Water" itemType="Quest" >
+   <set icon="icon.etc_scroll_of_enchant_armor_i01"/>
+   <set stackable="true"/>
+   <set sellable="false" tradeable="false" />
+   <set dropable="false" destroyable="true"/>
+  </etc>
+  <etc id="2857" name="Tone of Fire" itemType="Quest" >
+   <set icon="icon.etc_scroll_of_enchant_weapon_i01"/>
+   <set stackable="true"/>
+   <set sellable="false" tradeable="false" />
+   <set dropable="false" destroyable="true"/>
+  </etc>
+  <etc id="2858" name="Tone of Wind" itemType="Quest" >
+   <set icon="icon.etc_scroll_of_return_i01"/>
+   <set stackable="true"/>
+   <set sellable="false" tradeable="false" />
+   <set dropable="false" destroyable="true"/>
+  </etc>
+  <etc id="2859" name="Tone of Earth" itemType="Quest" >
+   <set icon="icon.etc_scroll_of_resurrection_i01"/>
+   <set stackable="true"/>
+   <set sellable="false" tradeable="false" />
+   <set dropable="false" destroyable="true"/>
+  </etc>
+  <etc id="2860" name="Salamander Charm" itemType="Quest" >
+   <set icon="icon.etc_piece_of_cloth_red_i00"/>
+   <set stackable="true"/>
+   <set sellable="false" tradeable="false" />
+   <set dropable="false" destroyable="true"/>
+  </etc>
+  <etc id="2861" name="Sylph Charm" itemType="Quest" >
+   <set icon="icon.etc_piece_of_cloth_white_i00"/>
+   <set stackable="true"/>
+   <set sellable="false" tradeable="false" />
+   <set dropable="false" destroyable="true"/>
+  </etc>
+  <etc id="2862" name="Undine Charm" itemType="Quest" >
+   <set icon="icon.etc_piece_of_cloth_blue_i00"/>
+   <set stackable="true"/>
+   <set sellable="false" tradeable="false" />
+   <set dropable="false" destroyable="true"/>
+  </etc>
+  <etc id="2863" name="Serpent Charm" itemType="Quest" >
+   <set icon="icon.etc_piece_of_cloth_green_i00"/>
+   <set stackable="true"/>
+   <set sellable="false" tradeable="false" />
+   <set dropable="false" destroyable="true"/>
+  </etc>
+  <etc id="2864" name="Recommendation of Balanki" itemType="Quest" >
+   <set icon="icon.etc_letter_blue_i00"/>
+   <set stackable="true"/>
+   <set sellable="false" tradeable="false" />
+   <set dropable="false" destroyable="true"/>
+  </etc>
+  <etc id="2865" name="Recommendation of Filaur" itemType="Quest" >
+   <set icon="icon.etc_letter_red_i00"/>
+   <set stackable="true"/>
+   <set sellable="false" tradeable="false" />
+   <set dropable="false" destroyable="true"/>
+  </etc>
+  <etc id="2866" name="Recommendation of Arin" itemType="Quest" >
+   <set icon="icon.etc_letter_white_i00"/>
+   <set stackable="true"/>
+   <set sellable="false" tradeable="false" />
+   <set dropable="false" destroyable="true"/>
+  </etc>
+  <etc id="2867" name="Mark of Maestro" itemType="Quest" >
+   <set icon="icon.etc_badge_silver_i00"/>
+   <set stackable="true"/>
+   <set sellable="false" tradeable="false" />
+   <set dropable="false" destroyable="true"/>
+  </etc>
+  <etc id="2868" name="Letter of Solder Detachment" itemType="Quest" >
+   <set icon="icon.etc_scroll_of_return_i01"/>
+   <set stackable="true"/>
+   <set sellable="false" tradeable="false" />
+   <set dropable="false" destroyable="true"/>
+  </etc>
+  <etc id="2869" name="Paint of Kamuru" itemType="Quest" >
+   <set icon="icon.etc_scroll_gray_i00"/>
+   <set stackable="true"/>
+   <set sellable="false" tradeable="false" />
+   <set dropable="false" destroyable="true"/>
+  </etc>
+  <etc id="2870" name="Necklace of Kamuru" itemType="Quest" >
+   <set icon="icon.accessary_necklace_of_darkness_i00"/>
+   <set stackable="true"/>
+   <set sellable="false" tradeable="false" />
+   <set dropable="false" destroyable="true"/>
+  </etc>
+  <etc id="2871" name="Paint of Teleport Device" itemType="Quest" >
+   <set icon="icon.etc_recipe_blue_i00"/>
+   <set stackable="true"/>
+   <set sellable="false" tradeable="false" />
+   <set dropable="false" destroyable="true"/>
+  </etc>
+  <etc id="2872" name="Teleport Device" itemType="Quest" >
+   <set icon="icon.etc_squares_gray_i00"/>
+   <set stackable="true"/>
+   <set sellable="false" tradeable="false" />
+   <set dropable="false" destroyable="false"/>
+  </etc>
+  <etc id="2873" name="Architecture of Cruma" itemType="Quest" >
+   <set icon="icon.etc_scroll_white_i00"/>
+   <set stackable="true"/>
+   <set sellable="false" tradeable="false" />
+   <set dropable="false" destroyable="true"/>
+  </etc>
+  <etc id="2874" name="Report of Cruma" itemType="Quest" >
+   <set icon="icon.etc_scroll_gray_i00"/>
+   <set stackable="true"/>
+   <set sellable="false" tradeable="false" />
+   <set dropable="false" destroyable="true"/>
+  </etc>
+  <etc id="2875" name="Ingredients of Antidote" itemType="Quest" >
+   <set icon="icon.etc_piece_of_paper_gray_i00"/>
+   <set stackable="true"/>
+   <set sellable="false" tradeable="false" />
+   <set dropable="false" destroyable="true"/>
+  </etc>
+  <etc id="2876" name="Stinger Wasp Needle" itemType="Quest" >
+   <set icon="icon.etc_horn_i00"/>
+   <set stackable="true"/>
+   <set sellable="false" tradeable="false" />
+   <set dropable="false" destroyable="true"/>
+  </etc>
+  <etc id="2877" name="Marsh Spider's Web" itemType="Quest" >
+   <set icon="icon.etc_skein_white_i00"/>
+   <set stackable="true"/>
+   <set sellable="false" tradeable="false" />
+   <set dropable="false" destroyable="true"/>
+  </etc>
+  <etc id="2878" name="Blood of Leech" itemType="Quest" >
+   <set icon="icon.etc_reagent_red_i00"/>
+   <set stackable="true"/>
+   <set sellable="false" tradeable="false" />
+   <set dropable="false" destroyable="true"/>
+  </etc>
+  <etc id="2879" name="Mark of Warspirit" itemType="Quest" >
+   <set icon="icon.etc_jewel_red_i00"/>
+   <set stackable="true"/>
+   <set sellable="false" tradeable="false" />
+   <set dropable="false" destroyable="true"/>
+  </etc>
+  <etc id="2880" name="Vendetta Totem" itemType="Quest" >
+   <set icon="icon.etc_orcish_talisman_i00"/>
+   <set stackable="true"/>
+   <set sellable="false" tradeable="false" />
+   <set dropable="false" destroyable="true"/>
+  </etc>
+  <etc id="2881" name="Tamlin Orc Head" itemType="Quest" >
+   <set icon="icon.etc_pouch_brown_i00"/>
+   <set stackable="true"/>
+   <set sellable="false" tradeable="false" />
+   <set dropable="false" destroyable="true"/>
+  </etc>
+  <etc id="2882" name="Warspirit Totem" itemType="Quest" >
+   <set icon="icon.accessary_another_worlds_necklace_i00"/>
+   <set stackable="true"/>
+   <set sellable="false" tradeable="false" />
+   <set dropable="false" destroyable="true"/>
+  </etc>
+  <etc id="2883" name="Orim's Contract" itemType="Quest" >
+   <set icon="icon.etc_scroll_gray_i00"/>
+   <set stackable="true"/>
+   <set sellable="false" tradeable="false" />
+   <set dropable="false" destroyable="true"/>
+  </etc>
+  <etc id="2884" name="Porta's Eye" itemType="Quest" >
+   <set icon="icon.etc_eyeball_i00"/>
+   <set stackable="true"/>
+   <set sellable="false" tradeable="false" />
+   <set dropable="false" destroyable="true"/>
+  </etc>
+  <etc id="2885" name="Excuro's Scale" itemType="Quest" >
+   <set icon="icon.etc_parasite_i00"/>
+   <set stackable="true"/>
+   <set sellable="false" tradeable="false" />
+   <set dropable="false" destroyable="true"/>
+  </etc>
+  <etc id="2886" name="Mordeos Talon" itemType="Quest" >
+   <set icon="icon.etc_claw_i00"/>
+   <set stackable="true"/>
+   <set sellable="false" tradeable="false" />
+   <set dropable="false" destroyable="true"/>
+  </etc>
+  <etc id="2887" name="Braki's Remains" itemType="Quest" >
+   <set icon="icon.etc_ashes_black_i00"/>
+   <set stackable="true"/>
+   <set sellable="false" tradeable="false" />
+   <set dropable="false" destroyable="true"/>
+  </etc>
+  <etc id="2888" name="Pekiron's Totem" itemType="Quest" >
+   <set icon="icon.etc_totem_black_i00"/>
+   <set stackable="true"/>
+   <set sellable="false" tradeable="false" />
+   <set dropable="false" destroyable="true"/>
+  </etc>
+  <etc id="2889" name="Tonar's Skull" itemType="Quest" >
+   <set icon="icon.etc_skull_black_i00"/>
+   <set stackable="true"/>
+   <set sellable="false" tradeable="false" />
+   <set dropable="false" destroyable="true"/>
+  </etc>
+  <etc id="2890" name="Tonar's Rib Bone" itemType="Quest" >
+   <set icon="icon.etc_rib_black_i00"/>
+   <set stackable="true"/>
+   <set sellable="false" tradeable="false" />
+   <set dropable="false" destroyable="true"/>
+  </etc>
+  <etc id="2891" name="Tonar's Spine" itemType="Quest" >
+   <set icon="icon.etc_ginseng_gray_i00"/>
+   <set stackable="true"/>
+   <set sellable="false" tradeable="false" />
+   <set dropable="false" destroyable="true"/>
+  </etc>
+  <etc id="2892" name="Tonar's Arm Bone" itemType="Quest" >
+   <set icon="icon.etc_piece_bone_black_i00"/>
+   <set stackable="true"/>
+   <set sellable="false" tradeable="false" />
+   <set dropable="false" destroyable="true"/>
+  </etc>
+  <etc id="2893" name="Tonar's Thigh Bone" itemType="Quest" >
+   <set icon="icon.etc_piece_bone_black_i00"/>
+   <set stackable="true"/>
+   <set sellable="false" tradeable="false" />
+   <set dropable="false" destroyable="true"/>
+  </etc>
+  <etc id="2894" name="Tonar's Remains" itemType="Quest" >
+   <set icon="icon.etc_ashes_black_i00"/>
+   <set stackable="true"/>
+   <set sellable="false" tradeable="false" />
+   <set dropable="false" destroyable="true"/>
+  </etc>
+  <etc id="2895" name="Manakia's Totem" itemType="Quest" >
+   <set icon="icon.etc_totem_green_i00"/>
+   <set stackable="true"/>
+   <set sellable="false" tradeable="false" />
+   <set dropable="false" destroyable="true"/>
+  </etc>
+  <etc id="2896" name="Hermodt's Skull" itemType="Quest" >
+   <set icon="icon.etc_skull_red_i00"/>
+   <set stackable="true"/>
+   <set sellable="false" tradeable="false" />
+   <set dropable="false" destroyable="true"/>
+  </etc>
+  <etc id="2897" name="Hermodt's Rib Bone" itemType="Quest" >
+   <set icon="icon.etc_rib_red_i00"/>
+   <set stackable="true"/>
+   <set sellable="false" tradeable="false" />
+   <set dropable="false" destroyable="true"/>
+  </etc>
+  <etc id="2898" name="Hermodt's Spine" itemType="Quest" >
+   <set icon="icon.etc_ginseng_red_i00"/>
+   <set stackable="true"/>
+   <set sellable="false" tradeable="false" />
+   <set dropable="false" destroyable="true"/>
+  </etc>
+  <etc id="2899" name="Hermodt's Arm Bone" itemType="Quest" >
+   <set icon="icon.etc_piece_bone_red_i00"/>
+   <set stackable="true"/>
+   <set sellable="false" tradeable="false" />
+   <set dropable="false" destroyable="true"/>
+  </etc>
+  <etc id="2900" name="Hermodt's Thigh Bone" itemType="Quest" >
+   <set icon="icon.etc_piece_bone_red_i00"/>
+   <set stackable="true"/>
+   <set sellable="false" tradeable="false" />
+   <set dropable="false" destroyable="true"/>
+  </etc>
+  <etc id="2901" name="Hermodt's Remains" itemType="Quest" >
+   <set icon="icon.etc_ashes_red_i00"/>
+   <set stackable="true"/>
+   <set sellable="false" tradeable="false" />
+   <set dropable="false" destroyable="true"/>
+  </etc>
+  <etc id="2902" name="Racoy's Totem" itemType="Quest" >
+   <set icon="icon.etc_totem_red_i00"/>
+   <set stackable="true"/>
+   <set sellable="false" tradeable="false" />
+   <set dropable="false" destroyable="true"/>
+  </etc>
+  <etc id="2903" name="Vivyan's Letter" itemType="Quest" >
+   <set icon="icon.etc_letter_white_i00"/>
+   <set stackable="true"/>
+   <set sellable="false" tradeable="false" />
+   <set dropable="false" destroyable="true"/>
+  </etc>
+  <etc id="2904" name="Insect Diagram Book" itemType="Quest" >
+   <set icon="icon.etc_spellbook_gray_i00"/>
+   <set stackable="true"/>
+   <set sellable="false" tradeable="false" />
+   <set dropable="false" destroyable="true"/>
+  </etc>
+  <etc id="2905" name="Kiruna's Skull" itemType="Quest" >
+   <set icon="icon.etc_skull_white_i00"/>
+   <set stackable="true"/>
+   <set sellable="false" tradeable="false" />
+   <set dropable="false" destroyable="true"/>
+  </etc>
+  <etc id="2906" name="Kiruna's Rib Bone" itemType="Quest" >
+   <set icon="icon.etc_rib_white_i00"/>
+   <set stackable="true"/>
+   <set sellable="false" tradeable="false" />
+   <set dropable="false" destroyable="true"/>
+  </etc>
+  <etc id="2907" name="Kiruna's Spine" itemType="Quest" >
+   <set icon="icon.etc_ginseng_yellow_i00"/>
+   <set stackable="true"/>
+   <set sellable="false" tradeable="false" />
+   <set dropable="false" destroyable="true"/>
+  </etc>
+  <etc id="2908" name="Kiruna's Arm Bone" itemType="Quest" >
+   <set icon="icon.etc_piece_bone_white_i00"/>
+   <set stackable="true"/>
+   <set sellable="false" tradeable="false" />
+   <set dropable="false" destroyable="true"/>
+  </etc>
+  <etc id="2909" name="Kiruna's Thigh Bone" itemType="Quest" >
+   <set icon="icon.etc_piece_bone_white_i00"/>
+   <set stackable="true"/>
+   <set sellable="false" tradeable="false" />
+   <set dropable="false" destroyable="true"/>
+  </etc>
+  <etc id="2910" name="Kiruna's Remains" itemType="Quest" >
+   <set icon="icon.etc_ashes_white_i00"/>
+   <set stackable="true"/>
+   <set sellable="false" tradeable="false" />
+   <set dropable="false" destroyable="true"/>
+  </etc>
+  <etc id="2911" name="Braki's Remains" itemType="Quest" >
+   <set icon="icon.etc_oil_pot_black_i00"/>
+   <set stackable="true"/>
+   <set sellable="false" tradeable="false" />
+   <set dropable="false" destroyable="true"/>
+  </etc>
+  <etc id="2912" name="Tonar's Remains" itemType="Quest" >
+   <set icon="icon.etc_oil_pot_black_i00"/>
+   <set stackable="true"/>
+   <set sellable="false" tradeable="false" />
+   <set dropable="false" destroyable="true"/>
+  </etc>
+  <etc id="2913" name="Hermodt's Remains" itemType="Quest" >
+   <set icon="icon.etc_oil_pot_white_i00"/>
+   <set stackable="true"/>
+   <set sellable="false" tradeable="false" />
+   <set dropable="false" destroyable="true"/>
+  </etc>
+  <etc id="2914" name="Kiruna's Remains" itemType="Quest" >
+   <set icon="icon.etc_oil_pot_white_i00"/>
+   <set stackable="true"/>
+   <set sellable="false" tradeable="false" />
+   <set dropable="false" destroyable="true"/>
+  </etc>
+  <etc id="2916" name="Broken Teleport Device" itemType="Quest" >
+   <set icon="icon.etc_plate_silver_i00"/>
+   <set stackable="true"/>
+   <set sellable="false" tradeable="false" />
+   <set dropable="false" destroyable="true"/>
+  </etc>
+  <etc id="2917" name="Ring of Binding Gemstone" itemType="Material" >
+   <set icon="icon.etc_bead_silver_i00"/>
+   <set weight="60" price="3482"/>
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="2918" name="Mithril Scale Gaiters Material" itemType="Material" >
+   <set icon="icon.etc_plate_silver_i00"/>
+   <set weight="60" price="3371"/>
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="2919" name="Brigandine Gaiters Material" itemType="Material" >
+   <set icon="icon.etc_plate_silver_i00"/>
+   <set weight="60" price="3371"/>
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="2920" name="Elven Mithril Tunic Pattern" itemType="Material" >
+   <set icon="icon.etc_piece_of_cloth_white_i00"/>
+   <set weight="60" price="3921"/>
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="2921" name="Elven Mithril Stockings Pattern" itemType="Material" >
+   <set icon="icon.etc_piece_of_cloth_white_i00"/>
+   <set weight="60" price="2518"/>
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="2922" name="Brigandine Helmet Design" itemType="Material" >
+   <set icon="icon.etc_pouch_brown_i00"/>
+   <set weight="60" price="5193"/>
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="2923" name="Manticore Skin Boot Lining" itemType="Material" >
+   <set icon="icon.etc_leather_gray_i00"/>
+   <set weight="60" price="1480"/>
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="2924" name="Brigandine Boots Design" itemType="Material" >
+   <set icon="icon.etc_pouch_brown_i00"/>
+   <set weight="60" price="1480"/>
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="2925" name="Elven Mithril Boots Design" itemType="Material" >
+   <set icon="icon.etc_pouch_brown_i00"/>
+   <set weight="60" price="1480"/>
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="2926" name="Manticore Skin Gloves Lining" itemType="Material" >
+   <set icon="icon.etc_leather_gray_i00"/>
+   <set weight="60" price="1480"/>
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="2927" name="Brigandine Gauntlets Pattern" itemType="Material" >
+   <set icon="icon.etc_letter_red_i00"/>
+   <set weight="60" price="1480"/>
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="2928" name="Mithril Gloves Design" itemType="Material" >
+   <set icon="icon.etc_pouch_brown_i00"/>
+   <set weight="60" price="1480"/>
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="2929" name="Brigandine Shield Fragment" itemType="Material" >
+   <set icon="icon.etc_plate_silver_i00"/>
+   <set weight="60" price="1389"/>
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="2930" name="Plate Helmet Design" itemType="Material" >
+   <set icon="icon.etc_pouch_brown_i00"/>
+   <set weight="60" price="2481"/>
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="2931" name="Salamander Skin Boot Lining" itemType="Material" >
+   <set icon="icon.etc_leather_gray_i00"/>
+   <set weight="60" price="1792"/>
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="2932" name="Plate Boots Design" itemType="Material" >
+   <set icon="icon.etc_pouch_brown_i00"/>
+   <set weight="60" price="1792"/>
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="2933" name="Sage's Worn Gloves Lining" itemType="Material" >
+   <set icon="icon.etc_leather_gray_i00"/>
+   <set weight="60" price="1792"/>
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="2934" name="Plate Shield Fragment" itemType="Material" >
+   <set icon="icon.etc_plate_silver_i00"/>
+   <set weight="60" price="1762"/>
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="2935" name="Tempered Mithril Gaiters Fragment" itemType="Material" >
+   <set icon="icon.etc_plate_silver_i00"/>
+   <set weight="60" price="3763"/>
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="2936" name="Chain Hood Pattern" itemType="Material" >
+   <set icon="icon.etc_letter_red_i00"/>
+   <set weight="60" price="2725"/>
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="2937" name="Chain Boots Part" itemType="Material" >
+   <set icon="icon.etc_plate_silver_i00"/>
+   <set weight="60" price="2225"/>
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="2938" name="Karmian Boots Fabric" itemType="Material" >
+   <set icon="icon.etc_leather_gray_i00"/>
+   <set weight="60" price="2225"/>
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="2939" name="Plate Leather Boot Lining" itemType="Material" >
+   <set icon="icon.etc_leather_gray_i00"/>
+   <set weight="60" price="2225"/>
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="2940" name="Dwarven Chain Boots Part" itemType="Material" >
+   <set icon="icon.etc_plate_silver_i00"/>
+   <set weight="60" price="2225"/>
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="2941" name="Boots of Seal Pattern" itemType="Material" >
+   <set icon="icon.etc_letter_red_i00"/>
+   <set weight="60" price="2225"/>
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="2942" name="Reinforced Mithril Gloves Design" itemType="Material" >
+   <set icon="icon.etc_pouch_brown_i00"/>
+   <set weight="60" price="2225"/>
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="2943" name="Chain Gloves Design" itemType="Material" >
+   <set icon="icon.etc_pouch_brown_i00"/>
+   <set weight="60" price="2225"/>
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="2944" name="Karmian Gloves Fabric" itemType="Material" >
+   <set icon="icon.etc_leather_gray_i00"/>
+   <set weight="60" price="2225"/>
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="2945" name="Chain Shield Fragment" itemType="Material" >
+   <set icon="icon.etc_plate_silver_i00"/>
+   <set weight="60" price="2475"/>
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="2946" name="Plate Leather Gloves Design" itemType="Material" >
+   <set icon="icon.etc_pouch_brown_i00"/>
+   <set weight="60" price="3578"/>
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="2947" name="Dwarven Chain Shield Fragment" itemType="Material" >
+   <set icon="icon.etc_plate_silver_i00"/>
+   <set weight="60" price="2800"/>
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="2948" name="Rind Leather Boot Lining" itemType="Material" >
+   <set icon="icon.etc_leather_gray_i00"/>
+   <set weight="60" price="2378"/>
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="2949" name="Dwarven Chain Gloves Design" itemType="Material" >
+   <set icon="icon.etc_pouch_brown_i00"/>
+   <set weight="60" price="2378"/>
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="2950" name="Gloves of Seal Pattern" itemType="Material" >
+   <set icon="icon.etc_letter_red_i00"/>
+   <set weight="60" price="2378"/>
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="2951" name="Rind Leather Gloves Design" itemType="Material" >
+   <set icon="icon.etc_pouch_brown_i00"/>
+   <set weight="60" price="2378"/>
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="2952" name="Demon's Boots Fabric" itemType="Material" >
+   <set icon="icon.etc_piece_of_cloth_red_i00"/>
+   <set weight="60" price="3400"/>
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="2953" name="Demon's Gloves Fabric" itemType="Material" >
+   <set icon="icon.etc_piece_of_cloth_red_i00"/>
+   <set weight="60" price="3400"/>
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="2954" name="Theca Leather Boots Texture" itemType="Material" >
+   <set icon="icon.etc_leather_gray_i00"/>
+   <set weight="60" price="3160"/>
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="2955" name="Theca Leather Gloves Texture" itemType="Material" >
+   <set icon="icon.etc_leather_gray_i00"/>
+   <set weight="60" price="3160"/>
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="2956" name="Composite Boots Part" itemType="Material" >
+   <set icon="icon.etc_plate_silver_i00"/>
+   <set weight="60" price="3400"/>
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="2957" name="Composite Helmet Design" itemType="Material" >
+   <set icon="icon.etc_pouch_brown_i00"/>
+   <set weight="60" price="4560"/>
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="2958" name="Divine Boots Fabric" itemType="Material" >
+   <set icon="icon.etc_leather_gray_i00"/>
+   <set weight="60" price="3673"/>
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="2959" name="Full Plate Helmet Design" itemType="Material" >
+   <set icon="icon.etc_pouch_brown_i00"/>
+   <set weight="60" price="5782"/>
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="2960" name="Drake Leather Boots Design" itemType="Material" >
+   <set icon="icon.etc_pouch_brown_i00"/>
+   <set weight="60" price="3673"/>
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="2961" name="Full Plate Boots Part" itemType="Material" >
+   <set icon="icon.etc_plate_silver_i00"/>
+   <set weight="60" price="3673"/>
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="2962" name="Drake Leather Gloves Design" itemType="Material" >
+   <set icon="icon.etc_pouch_brown_i00"/>
+   <set weight="60" price="3673"/>
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="2963" name="Full Plate Gauntlets Part" itemType="Material" >
+   <set icon="icon.etc_plate_silver_i00"/>
+   <set weight="60" price="3673"/>
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="2964" name="Divine Gloves Pattern" itemType="Material" >
+   <set icon="icon.etc_letter_red_i00"/>
+   <set weight="60" price="3673"/>
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="2965" name="Blessed Gloves Design" itemType="Material" >
+   <set icon="icon.etc_leather_gray_i00"/>
+   <set weight="60" price="3673"/>
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="2966" name="Full Plate Shield Fragment" itemType="Material" >
+   <set icon="icon.etc_plate_silver_i00"/>
+   <set weight="60" price="3655"/>
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="2967" name="Elven Long Sword Blade" itemType="Material" >
+   <set icon="icon.etc_sword_body_i00"/>
+   <set weight="60" price="23062"/>
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="2968" name="Dwarven Warhammer Head" itemType="Material" >
+   <set icon="icon.etc_squares_gray_i00"/>
+   <set weight="60" price="30067"/>
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="2969" name="Yaksa Mace Head" itemType="Material" >
+   <set icon="icon.etc_squares_gray_i00"/>
+   <set weight="60" price="38364"/>
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="2970" name="Recipe: Ring of Binding" itemType="Receipe" >
+   <set icon="icon.etc_recipe_yellow_i00"/>
+   <set weight="30" price="5640"/>
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="2971" name="Recipe: Mithril Scale Gaiters" itemType="Receipe" >
+   <set icon="icon.etc_recipe_blue_i00"/>
+   <set weight="30" price="3740"/>
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="2972" name="Recipe: Brigandine Gaiters" itemType="Receipe" >
+   <set icon="icon.etc_recipe_blue_i00"/>
+   <set weight="30" price="3740"/>
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="2973" name="Recipe: Elven Mithril Tunic" itemType="Receipe" >
+   <set icon="icon.etc_recipe_blue_i00"/>
+   <set weight="30" price="4480"/>
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="2974" name="Recipe: Elven Mithril Stockings" itemType="Receipe" >
+   <set icon="icon.etc_recipe_blue_i00"/>
+   <set weight="30" price="2800"/>
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="2975" name="Recipe: Brigandine Helmet" itemType="Receipe" >
+   <set icon="icon.etc_recipe_blue_i00"/>
+   <set weight="30" price="2240"/>
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="2976" name="Recipe: Manticore Skin Boots" itemType="Receipe" >
+   <set icon="icon.etc_recipe_blue_i00"/>
+   <set weight="30" price="1494"/>
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="2977" name="Recipe: Brigandine Boots" itemType="Receipe" >
+   <set icon="icon.etc_recipe_blue_i00"/>
+   <set weight="30" price="1494"/>
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="2978" name="Recipe: Elven Mithril Boots" itemType="Receipe" >
+   <set icon="icon.etc_recipe_blue_i00"/>
+   <set weight="30" price="1494"/>
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="2979" name="Recipe: Manticore Skin Gloves" itemType="Receipe" >
+   <set icon="icon.etc_recipe_blue_i00"/>
+   <set weight="30" price="1494"/>
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="2980" name="Recipe: Brigandine Gauntlets" itemType="Receipe" >
+   <set icon="icon.etc_recipe_blue_i00"/>
+   <set weight="30" price="1494"/>
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="2981" name="Recipe: Mithril Gloves" itemType="Receipe" >
+   <set icon="icon.etc_recipe_blue_i00"/>
+   <set weight="30" price="1494"/>
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="2982" name="Recipe: Brigandine Shield" itemType="Receipe" >
+   <set icon="icon.etc_recipe_blue_i00"/>
+   <set weight="30" price="1568"/>
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="2983" name="Recipe: Plate Helmet" itemType="Receipe" >
+   <set icon="icon.etc_recipe_blue_i00"/>
+   <set weight="30" price="2940"/>
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="2984" name="Recipe: Salamander Skin Boots" itemType="Receipe" >
+   <set icon="icon.etc_recipe_blue_i00"/>
+   <set weight="30" price="1956"/>
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="2985" name="Recipe: Plate Boots" itemType="Receipe" >
+   <set icon="icon.etc_recipe_blue_i00"/>
+   <set weight="30" price="1956"/>
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="2986" name="Recipe: Sage's Worn Gloves" itemType="Receipe" >
+   <set icon="icon.etc_recipe_blue_i00"/>
+   <set weight="30" price="1956"/>
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="2987" name="Recipe: Plate Shield" itemType="Receipe" >
+   <set icon="icon.etc_recipe_blue_i00"/>
+   <set weight="30" price="2060"/>
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="2988" name="Recipe: Tempered Mithril Gaiters" itemType="Receipe" >
+   <set icon="icon.etc_recipe_yellow_i00"/>
+   <set weight="30" price="4740"/>
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="2989" name="Recipe: Chain Hood" itemType="Receipe" >
+   <set icon="icon.etc_recipe_yellow_i00"/>
+   <set weight="30" price="3780"/>
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="2990" name="Recipe: Chain Boots" itemType="Receipe" >
+   <set icon="icon.etc_recipe_yellow_i00"/>
+   <set weight="30" price="2520"/>
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="2991" name="Recipe: Karmian Boots" itemType="Receipe" >
+   <set icon="icon.etc_recipe_yellow_i00"/>
+   <set weight="30" price="2520"/>
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="2992" name="Recipe: Plated Leather Boots" itemType="Receipe" >
+   <set icon="icon.etc_recipe_yellow_i00"/>
+   <set weight="30" price="2520"/>
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="2993" name="Recipe: Dwarven Chain Boots" itemType="Receipe" >
+   <set icon="icon.etc_recipe_yellow_i00"/>
+   <set weight="30" price="2520"/>
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="2994" name="Recipe: Boots of Seal" itemType="Receipe" >
+   <set icon="icon.etc_recipe_yellow_i00"/>
+   <set weight="30" price="2520"/>
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="2995" name="Recipe: Reinforced Mithril Gloves" itemType="Receipe" >
+   <set icon="icon.etc_recipe_yellow_i00"/>
+   <set weight="30" price="2520"/>
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="2996" name="Recipe: Chain Gloves" itemType="Receipe" >
+   <set icon="icon.etc_recipe_yellow_i00"/>
+   <set weight="30" price="2520"/>
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="2997" name="Recipe: Karmian Gloves" itemType="Receipe" >
+   <set icon="icon.etc_recipe_yellow_i00"/>
+   <set weight="30" price="2520"/>
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="2998" name="Recipe: Chain Shield" itemType="Receipe" >
+   <set icon="icon.etc_recipe_yellow_i00"/>
+   <set weight="30" price="2660"/>
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+  <etc id="2999" name="Recipe: Plated Leather Gloves" itemType="Receipe" >
+   <set icon="icon.etc_recipe_yellow_i00"/>
+   <set weight="30" price="2980"/>
+   <set stackable="true"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </etc>
+</list>

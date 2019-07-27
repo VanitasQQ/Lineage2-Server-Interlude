@@ -1,0 +1,2316 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<list>
+  <weapon id="2368" name="Training Gloves" weaponType="DualFist" >
+   <set icon="icon.weapon_training_gloves_i00"/>
+   <set bodyPart="LRHAND" grade="NONE"/>
+   <set crystallizable="false" />
+   <set weight="1580" price="138"/>
+   <set sellable="false" tradeable="false" />
+   <set dropable="false" destroyable="true"/>
+
+   <stats>
+    <set stat="pAtk" order="0x8" val="7"/>
+    <set stat="mAtk" order="0x8" val="5"/>
+    <set stat="rCrit" order="0x8" val="4"/>
+    <add stat="accCombat" order="0x10" val="4"/>
+    <set stat="pAtkSpd" order="0x8" val="325"/>
+    <enchant stat="pAtk" order="0xc" val="0"/>
+    <enchant stat="mAtk" order="0xc" val="0"/>
+   </stats>
+  </weapon>
+  <weapon id="2369" name="Squire's Sword" weaponType="Sword" >
+   <set icon="icon.weapon_squires_sword_i00"/>
+   <set bodyPart="RHAND" grade="NONE"/>
+   <set crystallizable="false" />
+   <set weight="1600" price="138"/>
+   <set sellable="false" tradeable="false" />
+   <set dropable="false" destroyable="true"/>
+
+   <stats>
+    <set stat="pAtk" order="0x8" val="6"/>
+    <set stat="mAtk" order="0x8" val="5"/>
+    <set stat="rCrit" order="0x8" val="8"/>
+    <add stat="accCombat" order="0x10" val="0"/>
+    <set stat="pAtkSpd" order="0x8" val="379"/>
+    <enchant stat="pAtk" order="0xc" val="0"/>
+    <enchant stat="mAtk" order="0xc" val="0"/>
+   </stats>
+  </weapon>
+  <weapon id="2370" name="Guild Member's Club" weaponType="Blunt" >
+   <set icon="icon.weapon_club_i00"/>
+   <set bodyPart="RHAND" grade="NONE"/>
+   <set crystallizable="false" />
+   <set weight="1910" price="138"/>
+   <set sellable="false" tradeable="false" />
+   <set dropable="false" destroyable="true"/>
+
+   <stats>
+    <set stat="pAtk" order="0x8" val="6"/>
+    <set stat="mAtk" order="0x8" val="5"/>
+    <set stat="rCrit" order="0x8" val="4"/>
+    <add stat="accCombat" order="0x10" val="4"/>
+    <set stat="pAtkSpd" order="0x8" val="379"/>
+    <enchant stat="pAtk" order="0xc" val="0"/>
+    <enchant stat="mAtk" order="0xc" val="0"/>
+   </stats>
+  </weapon>
+  <weapon id="2371" name="Fist of Butcher" weaponType="DualFist" >
+   <set icon="icon.weapon_iron_glove_i00"/>
+   <set bodyPart="LRHAND" grade="NONE"/>
+   <set crystallizable="false" />
+   <set weight="1400" price="25500"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <stats>
+    <set stat="pAtk" order="0x8" val="16"/>
+    <set stat="mAtk" order="0x8" val="10"/>
+    <set stat="rCrit" order="0x8" val="4"/>
+    <add stat="accCombat" order="0x10" val="4"/>
+    <set stat="pAtkSpd" order="0x8" val="325"/>
+    <enchant stat="pAtk" order="0xc" val="0"/>
+    <enchant stat="mAtk" order="0xc" val="0"/>
+   </stats>
+  </weapon>
+  <weapon id="2372" name="Dagger of Adept" weaponType="Dagger" >
+   <set icon="icon.weapon_doomed_dagger_i00"/>
+   <set bodyPart="RHAND" grade="NONE"/>
+   <set crystallizable="false" />
+   <set weight="1050" price="25500"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <stats>
+    <set stat="pAtk" order="0x8" val="11"/>
+    <set stat="mAtk" order="0x8" val="10"/>
+    <set stat="rCrit" order="0x8" val="12"/>
+    <add stat="accCombat" order="0x10" val="-3"/>
+    <set stat="pAtkSpd" order="0x8" val="433"/>
+    <enchant stat="pAtk" order="0xc" val="0"/>
+    <enchant stat="mAtk" order="0xc" val="0"/>
+   </stats>
+  </weapon>
+  <weapon id="2373" name="Eldritch Staff" weaponType="BigBlunt" >
+   <set icon="icon.weapon_apprentices_staff_i00"/>
+   <set bodyPart="LRHAND" grade="NONE"/>
+   <set crystallizable="false" />
+   <set weight="1050" price="25500"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <stats>
+    <set stat="pAtk" order="0x8" val="13"/>
+    <set stat="mAtk" order="0x8" val="13"/>
+    <set stat="rCrit" order="0x8" val="4"/>
+    <add stat="accCombat" order="0x10" val="4"/>
+    <set stat="pAtkSpd" order="0x8" val="325"/>
+    <enchant stat="pAtk" order="0xc" val="0"/>
+    <enchant stat="mAtk" order="0xc" val="0"/>
+   </stats>
+  </weapon>
+  <weapon id="2374" name="Red Sunset Dagger" weaponType="Dagger" >
+   <set icon="icon.weapon_doomed_dagger_i00"/>
+   <set bodyPart="RHAND" grade="NONE"/>
+   <set crystallizable="false" />
+   <set weight="1100" price="25500"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <stats>
+    <set stat="pAtk" order="0x8" val="11"/>
+    <set stat="mAtk" order="0x8" val="10"/>
+    <set stat="rCrit" order="0x8" val="12"/>
+    <add stat="accCombat" order="0x10" val="-3"/>
+    <set stat="pAtkSpd" order="0x8" val="433"/>
+    <enchant stat="pAtk" order="0xc" val="0"/>
+    <enchant stat="mAtk" order="0xc" val="0"/>
+   </stats>
+  </weapon>
+  <weapon id="2499" name="Elven Long Sword" weaponType="Sword" >
+   <set icon="icon.weapon_elven_long_sword_i00"/>
+   <set bodyPart="RHAND" grade="D"/>
+   <set crystallizable="true" crystal_count="2561" />
+   <set weight="1440" price="1387000"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <stats>
+    <set stat="pAtk" order="0x8" val="92"/>
+    <set stat="mAtk" order="0x8" val="54"/>
+    <set stat="rCrit" order="0x8" val="8"/>
+    <add stat="accCombat" order="0x10" val="0"/>
+    <set stat="pAtkSpd" order="0x8" val="379"/>
+    <enchant stat="pAtk" order="0xc" val="0"/>
+    <enchant stat="mAtk" order="0xc" val="0"/>
+   </stats>
+  </weapon>
+  <weapon id="2500" name="Dark Legion's Edge" weaponType="Sword" >
+   <set icon="icon.weapon_dark_legions_edge_i00"/>
+   <set bodyPart="RHAND" grade="A"/>
+   <set crystallizable="true" crystal_count="1659" />
+   <set weight="1320" price="27000000"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <stats>
+    <set stat="pAtk" order="0x8" val="232"/>
+    <set stat="mAtk" order="0x8" val="114"/>
+    <set stat="rCrit" order="0x8" val="8"/>
+    <add stat="accCombat" order="0x10" val="0"/>
+    <set stat="pAtkSpd" order="0x8" val="379"/>
+    <enchant stat="pAtk" order="0xc" val="0"/>
+    <enchant stat="mAtk" order="0xc" val="0"/>
+   </stats>
+  </weapon>
+  <weapon id="2501" name="Bone Club" weaponType="Blunt" >
+   <set icon="icon.weapon_club_i00"/>
+   <set bodyPart="RHAND" grade="NONE"/>
+   <set crystallizable="false" />
+   <set weight="1850" price="136000"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <stats>
+    <set stat="pAtk" order="0x8" val="24"/>
+    <set stat="mAtk" order="0x8" val="17"/>
+    <set stat="rCrit" order="0x8" val="4"/>
+    <add stat="accCombat" order="0x10" val="4"/>
+    <set stat="pAtkSpd" order="0x8" val="379"/>
+    <enchant stat="pAtk" order="0xc" val="0"/>
+    <enchant stat="mAtk" order="0xc" val="0"/>
+   </stats>
+  </weapon>
+  <weapon id="2502" name="Dwarven War Hammer" weaponType="Blunt" >
+   <set icon="icon.weapon_dwarven_warhammer_i00"/>
+   <set bodyPart="RHAND" grade="C"/>
+   <set crystallizable="true" crystal_count="884" />
+   <set weight="1670" price="2209700"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <stats>
+    <set stat="pAtk" order="0x8" val="122"/>
+    <set stat="mAtk" order="0x8" val="68"/>
+    <set stat="rCrit" order="0x8" val="4"/>
+    <add stat="accCombat" order="0x10" val="4"/>
+    <set stat="pAtkSpd" order="0x8" val="379"/>
+    <enchant stat="pAtk" order="0xc" val="0"/>
+    <enchant stat="mAtk" order="0xc" val="0"/>
+   </stats>
+  </weapon>
+  <weapon id="2503" name="Yaksa Mace" weaponType="Blunt" >
+   <set icon="icon.weapon_yaksa_mace_i00"/>
+   <set bodyPart="RHAND" grade="C"/>
+   <set crystallizable="true" crystal_count="1885" />
+   <set weight="1640" price="4713500"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <stats>
+    <set stat="pAtk" order="0x8" val="156"/>
+    <set stat="mAtk" order="0x8" val="83"/>
+    <set stat="rCrit" order="0x8" val="4"/>
+    <add stat="accCombat" order="0x10" val="4"/>
+    <set stat="pAtkSpd" order="0x8" val="379"/>
+    <enchant stat="pAtk" order="0xc" val="0"/>
+    <enchant stat="mAtk" order="0xc" val="0"/>
+   </stats>
+  </weapon>
+  <weapon id="2504" name="Meteor Shower" weaponType="Blunt" >
+   <set icon="icon.weapon_meteor_shower_i00"/>
+   <set bodyPart="RHAND" grade="A"/>
+   <set crystallizable="true" crystal_count="1128" />
+   <set weight="1600" price="18300000"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <stats>
+    <set stat="pAtk" order="0x8" val="213"/>
+    <set stat="mAtk" order="0x8" val="107"/>
+    <set stat="rCrit" order="0x8" val="4"/>
+    <add stat="accCombat" order="0x10" val="4"/>
+    <set stat="pAtkSpd" order="0x8" val="379"/>
+    <enchant stat="pAtk" order="0xc" val="0"/>
+    <enchant stat="mAtk" order="0xc" val="0"/>
+   </stats>
+  </weapon>
+  <weapon id="2505" name="Iron Canine" weaponType="Pet" >
+   <set icon="icon.etc_pet_arms_i00"/>
+   <set bodyPart="RHAND" grade="NONE"/>
+   <set crystallizable="false" />
+   <set weight="100" price="15166"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <stats>
+    <add stat="pAtk" order="0x10" val="4"/>
+    <add stat="mAtk" order="0x10" val="5"/>
+    <set stat="rCrit" order="0x8" val="80"/>
+    <set stat="pAtkSpd" order="0x8" val="304"/>
+   </stats>
+  </weapon>
+  <weapon id="2507" name="Lizardspear" weaponType="Dagger" >
+   <set icon="icon.weapon_doomed_dagger_i00"/>
+   <set bodyPart="RHAND" grade="D"/>
+   <set crystallizable="false" />
+   <set weight="300" price="409000"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <stats>
+    <set stat="pAtk" order="0x8" val="5"/>
+    <set stat="mAtk" order="0x8" val="5"/>
+    <set stat="rCrit" order="0x8" val="12"/>
+    <add stat="accCombat" order="0x10" val="-3"/>
+    <set stat="pAtkSpd" order="0x8" val="433"/>
+    <enchant stat="pAtk" order="0xc" val="0"/>
+    <enchant stat="mAtk" order="0xc" val="0"/>
+   </stats>
+  </weapon>
+  <weapon id="2516" name="Saber*Saber" weaponType="DualSword" >
+   <set icon="icon.weapon_dual_sword_i00"/>
+   <set bodyPart="LRHAND" grade="D"/>
+   <set crystallizable="true" crystal_count="1245" />
+   <set weight="2530" price="877000"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <stats>
+    <set stat="pAtk" order="0x8" val="73"/>
+    <set stat="mAtk" order="0x8" val="37"/>
+    <set stat="rCrit" order="0x8" val="8"/>
+    <add stat="accCombat" order="0x10" val="0"/>
+    <set stat="pAtkSpd" order="0x8" val="325"/>
+    <enchant stat="pAtk" order="0xc" val="0"/>
+    <enchant stat="mAtk" order="0xc" val="0"/>
+   </stats>
+  </weapon>
+  <weapon id="2517" name="Saber*Bastard Sword" weaponType="DualSword" >
+   <set icon="icon.weapon_dual_sword_i00"/>
+   <set bodyPart="LRHAND" grade="D"/>
+   <set crystallizable="true" crystal_count="1510" />
+   <set weight="2520" price="1060000"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <stats>
+    <set stat="pAtk" order="0x8" val="83"/>
+    <set stat="mAtk" order="0x8" val="41"/>
+    <set stat="rCrit" order="0x8" val="8"/>
+    <add stat="accCombat" order="0x10" val="0"/>
+    <set stat="pAtkSpd" order="0x8" val="325"/>
+    <enchant stat="pAtk" order="0xc" val="0"/>
+    <enchant stat="mAtk" order="0xc" val="0"/>
+   </stats>
+  </weapon>
+  <weapon id="2518" name="Saber*Spinebone Sword" weaponType="DualSword" >
+   <set icon="icon.weapon_dual_sword_i00"/>
+   <set bodyPart="LRHAND" grade="D"/>
+   <set crystallizable="true" crystal_count="1510" />
+   <set weight="2530" price="1060000"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <stats>
+    <set stat="pAtk" order="0x8" val="83"/>
+    <set stat="mAtk" order="0x8" val="41"/>
+    <set stat="rCrit" order="0x8" val="8"/>
+    <add stat="accCombat" order="0x10" val="0"/>
+    <set stat="pAtkSpd" order="0x8" val="325"/>
+    <enchant stat="pAtk" order="0xc" val="0"/>
+    <enchant stat="mAtk" order="0xc" val="0"/>
+   </stats>
+  </weapon>
+  <weapon id="2519" name="Saber*Artisan's Sword" weaponType="DualSword" >
+   <set icon="icon.weapon_dual_sword_i00"/>
+   <set bodyPart="LRHAND" grade="D"/>
+   <set crystallizable="true" crystal_count="1510" />
+   <set weight="2520" price="1060000"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <stats>
+    <set stat="pAtk" order="0x8" val="83"/>
+    <set stat="mAtk" order="0x8" val="41"/>
+    <set stat="rCrit" order="0x8" val="8"/>
+    <add stat="accCombat" order="0x10" val="0"/>
+    <set stat="pAtkSpd" order="0x8" val="325"/>
+    <enchant stat="pAtk" order="0xc" val="0"/>
+    <enchant stat="mAtk" order="0xc" val="0"/>
+   </stats>
+  </weapon>
+  <weapon id="2520" name="Saber*Knight's Sword" weaponType="DualSword" >
+   <set icon="icon.weapon_dual_sword_i00"/>
+   <set bodyPart="LRHAND" grade="D"/>
+   <set crystallizable="true" crystal_count="1510" />
+   <set weight="2510" price="1060000"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <stats>
+    <set stat="pAtk" order="0x8" val="83"/>
+    <set stat="mAtk" order="0x8" val="41"/>
+    <set stat="rCrit" order="0x8" val="8"/>
+    <add stat="accCombat" order="0x10" val="0"/>
+    <set stat="pAtkSpd" order="0x8" val="325"/>
+    <enchant stat="pAtk" order="0xc" val="0"/>
+    <enchant stat="mAtk" order="0xc" val="0"/>
+   </stats>
+  </weapon>
+  <weapon id="2521" name="Saber*Crimson Sword" weaponType="DualSword" >
+   <set icon="icon.weapon_dual_sword_i00"/>
+   <set bodyPart="LRHAND" grade="D"/>
+   <set crystallizable="true" crystal_count="1983" />
+   <set weight="2530" price="1400000"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <stats>
+    <set stat="pAtk" order="0x8" val="96"/>
+    <set stat="mAtk" order="0x8" val="47"/>
+    <set stat="rCrit" order="0x8" val="8"/>
+    <add stat="accCombat" order="0x10" val="0"/>
+    <set stat="pAtkSpd" order="0x8" val="325"/>
+    <enchant stat="pAtk" order="0xc" val="0"/>
+    <enchant stat="mAtk" order="0xc" val="0"/>
+   </stats>
+  </weapon>
+  <weapon id="2522" name="Saber*Elven Sword" weaponType="DualSword" >
+   <set icon="icon.weapon_dual_sword_i00"/>
+   <set bodyPart="LRHAND" grade="D"/>
+   <set crystallizable="true" crystal_count="1983" />
+   <set weight="2510" price="1400000"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <stats>
+    <set stat="pAtk" order="0x8" val="96"/>
+    <set stat="mAtk" order="0x8" val="47"/>
+    <set stat="rCrit" order="0x8" val="8"/>
+    <add stat="accCombat" order="0x10" val="0"/>
+    <set stat="pAtkSpd" order="0x8" val="325"/>
+    <enchant stat="pAtk" order="0xc" val="0"/>
+    <enchant stat="mAtk" order="0xc" val="0"/>
+   </stats>
+  </weapon>
+  <weapon id="2523" name="Saber*Sword of Revolution" weaponType="DualSword" >
+   <set icon="icon.weapon_dual_sword_i00"/>
+   <set bodyPart="LRHAND" grade="C"/>
+   <set crystallizable="true" crystal_count="602" />
+   <set weight="2420" price="1960000"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <stats>
+    <set stat="pAtk" order="0x8" val="118"/>
+    <set stat="mAtk" order="0x8" val="56"/>
+    <set stat="rCrit" order="0x8" val="8"/>
+    <add stat="accCombat" order="0x10" val="0"/>
+    <set stat="pAtkSpd" order="0x8" val="325"/>
+    <enchant stat="pAtk" order="0xc" val="0"/>
+    <enchant stat="mAtk" order="0xc" val="0"/>
+   </stats>
+  </weapon>
+  <weapon id="2524" name="Saber*Elven Long Sword" weaponType="DualSword" >
+   <set icon="icon.weapon_dual_sword_i00"/>
+   <set bodyPart="LRHAND" grade="C"/>
+   <set crystallizable="true" crystal_count="705" />
+   <set weight="2420" price="2290000"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <stats>
+    <set stat="pAtk" order="0x8" val="130"/>
+    <set stat="mAtk" order="0x8" val="61"/>
+    <set stat="rCrit" order="0x8" val="8"/>
+    <add stat="accCombat" order="0x10" val="0"/>
+    <set stat="pAtkSpd" order="0x8" val="325"/>
+    <enchant stat="pAtk" order="0xc" val="0"/>
+    <enchant stat="mAtk" order="0xc" val="0"/>
+   </stats>
+  </weapon>
+  <weapon id="2525" name="Bastard Sword*Bastard Sword" weaponType="DualSword" >
+   <set icon="icon.weapon_dual_sword_i00"/>
+   <set bodyPart="LRHAND" grade="D"/>
+   <set crystallizable="true" crystal_count="1983" />
+   <set weight="2470" price="1400000"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <stats>
+    <set stat="pAtk" order="0x8" val="96"/>
+    <set stat="mAtk" order="0x8" val="47"/>
+    <set stat="rCrit" order="0x8" val="8"/>
+    <add stat="accCombat" order="0x10" val="0"/>
+    <set stat="pAtkSpd" order="0x8" val="325"/>
+    <enchant stat="pAtk" order="0xc" val="0"/>
+    <enchant stat="mAtk" order="0xc" val="0"/>
+   </stats>
+  </weapon>
+  <weapon id="2526" name="Bastard Sword*Spinebone Sword" weaponType="DualSword" >
+   <set icon="icon.weapon_dual_sword_i00"/>
+   <set bodyPart="LRHAND" grade="D"/>
+   <set crystallizable="true" crystal_count="1983" />
+   <set weight="2470" price="1400000"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <stats>
+    <set stat="pAtk" order="0x8" val="96"/>
+    <set stat="mAtk" order="0x8" val="47"/>
+    <set stat="rCrit" order="0x8" val="8"/>
+    <add stat="accCombat" order="0x10" val="0"/>
+    <set stat="pAtkSpd" order="0x8" val="325"/>
+    <enchant stat="pAtk" order="0xc" val="0"/>
+    <enchant stat="mAtk" order="0xc" val="0"/>
+   </stats>
+  </weapon>
+  <weapon id="2527" name="Bastard Sword*Artisan's Sword" weaponType="DualSword" >
+   <set icon="icon.weapon_dual_sword_i00"/>
+   <set bodyPart="LRHAND" grade="D"/>
+   <set crystallizable="true" crystal_count="1983" />
+   <set weight="2480" price="1400000"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <stats>
+    <set stat="pAtk" order="0x8" val="96"/>
+    <set stat="mAtk" order="0x8" val="47"/>
+    <set stat="rCrit" order="0x8" val="8"/>
+    <add stat="accCombat" order="0x10" val="0"/>
+    <set stat="pAtkSpd" order="0x8" val="325"/>
+    <enchant stat="pAtk" order="0xc" val="0"/>
+    <enchant stat="mAtk" order="0xc" val="0"/>
+   </stats>
+  </weapon>
+  <weapon id="2528" name="Bastard Sword*Knight's Sword" weaponType="DualSword" >
+   <set icon="icon.weapon_dual_sword_i00"/>
+   <set bodyPart="LRHAND" grade="D"/>
+   <set crystallizable="true" crystal_count="1983" />
+   <set weight="2500" price="1400000"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <stats>
+    <set stat="pAtk" order="0x8" val="96"/>
+    <set stat="mAtk" order="0x8" val="47"/>
+    <set stat="rCrit" order="0x8" val="8"/>
+    <add stat="accCombat" order="0x10" val="0"/>
+    <set stat="pAtkSpd" order="0x8" val="325"/>
+    <enchant stat="pAtk" order="0xc" val="0"/>
+    <enchant stat="mAtk" order="0xc" val="0"/>
+   </stats>
+  </weapon>
+  <weapon id="2529" name="Bastard Sword*Crimson Sword" weaponType="DualSword" >
+   <set icon="icon.weapon_dual_sword_i00"/>
+   <set bodyPart="LRHAND" grade="D"/>
+   <set crystallizable="true" crystal_count="2355" />
+   <set weight="2470" price="1660000"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <stats>
+    <set stat="pAtk" order="0x8" val="107"/>
+    <set stat="mAtk" order="0x8" val="51"/>
+    <set stat="rCrit" order="0x8" val="8"/>
+    <add stat="accCombat" order="0x10" val="0"/>
+    <set stat="pAtkSpd" order="0x8" val="325"/>
+    <enchant stat="pAtk" order="0xc" val="0"/>
+    <enchant stat="mAtk" order="0xc" val="0"/>
+   </stats>
+  </weapon>
+  <weapon id="2530" name="Bastard Sword*Elven Sword" weaponType="DualSword" >
+   <set icon="icon.weapon_dual_sword_i00"/>
+   <set bodyPart="LRHAND" grade="D"/>
+   <set crystallizable="true" crystal_count="2355" />
+   <set weight="2460" price="1660000"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <stats>
+    <set stat="pAtk" order="0x8" val="107"/>
+    <set stat="mAtk" order="0x8" val="51"/>
+    <set stat="rCrit" order="0x8" val="8"/>
+    <add stat="accCombat" order="0x10" val="0"/>
+    <set stat="pAtkSpd" order="0x8" val="325"/>
+    <enchant stat="pAtk" order="0xc" val="0"/>
+    <enchant stat="mAtk" order="0xc" val="0"/>
+   </stats>
+  </weapon>
+  <weapon id="2531" name="Bastard Sword*Sword of Revolution" weaponType="DualSword" >
+   <set icon="icon.weapon_dual_sword_i00"/>
+   <set bodyPart="LRHAND" grade="C"/>
+   <set crystallizable="true" crystal_count="652" />
+   <set weight="2450" price="2120000"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <stats>
+    <set stat="pAtk" order="0x8" val="124"/>
+    <set stat="mAtk" order="0x8" val="58"/>
+    <set stat="rCrit" order="0x8" val="8"/>
+    <add stat="accCombat" order="0x10" val="0"/>
+    <set stat="pAtkSpd" order="0x8" val="325"/>
+    <enchant stat="pAtk" order="0xc" val="0"/>
+    <enchant stat="mAtk" order="0xc" val="0"/>
+   </stats>
+  </weapon>
+  <weapon id="2532" name="Bastard Sword*Elven Long Sword" weaponType="DualSword" >
+   <set icon="icon.weapon_dual_sword_i00"/>
+   <set bodyPart="LRHAND" grade="C"/>
+   <set crystallizable="true" crystal_count="761" />
+   <set weight="2430" price="2470000"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <stats>
+    <set stat="pAtk" order="0x8" val="136"/>
+    <set stat="mAtk" order="0x8" val="63"/>
+    <set stat="rCrit" order="0x8" val="8"/>
+    <add stat="accCombat" order="0x10" val="0"/>
+    <set stat="pAtkSpd" order="0x8" val="325"/>
+    <enchant stat="pAtk" order="0xc" val="0"/>
+    <enchant stat="mAtk" order="0xc" val="0"/>
+   </stats>
+  </weapon>
+  <weapon id="2533" name="Spinebone Sword*Spinebone Sword" weaponType="DualSword" >
+   <set icon="icon.weapon_dual_sword_i00"/>
+   <set bodyPart="LRHAND" grade="D"/>
+   <set crystallizable="true" crystal_count="1983" />
+   <set weight="2520" price="1400000"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <stats>
+    <set stat="pAtk" order="0x8" val="96"/>
+    <set stat="mAtk" order="0x8" val="47"/>
+    <set stat="rCrit" order="0x8" val="8"/>
+    <add stat="accCombat" order="0x10" val="0"/>
+    <set stat="pAtkSpd" order="0x8" val="325"/>
+    <enchant stat="pAtk" order="0xc" val="0"/>
+    <enchant stat="mAtk" order="0xc" val="0"/>
+   </stats>
+  </weapon>
+  <weapon id="2534" name="Spinebone Sword*Artisan's Sword" weaponType="DualSword" >
+   <set icon="icon.weapon_dual_sword_i00"/>
+   <set bodyPart="LRHAND" grade="D"/>
+   <set crystallizable="true" crystal_count="1983" />
+   <set weight="2460" price="1400000"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <stats>
+    <set stat="pAtk" order="0x8" val="96"/>
+    <set stat="mAtk" order="0x8" val="47"/>
+    <set stat="rCrit" order="0x8" val="8"/>
+    <add stat="accCombat" order="0x10" val="0"/>
+    <set stat="pAtkSpd" order="0x8" val="325"/>
+    <enchant stat="pAtk" order="0xc" val="0"/>
+    <enchant stat="mAtk" order="0xc" val="0"/>
+   </stats>
+  </weapon>
+  <weapon id="2535" name="Spinebone Sword*Knight's Sword" weaponType="DualSword" >
+   <set icon="icon.weapon_dual_sword_i00"/>
+   <set bodyPart="LRHAND" grade="D"/>
+   <set crystallizable="true" crystal_count="1983" />
+   <set weight="2470" price="1400000"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <stats>
+    <set stat="pAtk" order="0x8" val="96"/>
+    <set stat="mAtk" order="0x8" val="47"/>
+    <set stat="rCrit" order="0x8" val="8"/>
+    <add stat="accCombat" order="0x10" val="0"/>
+    <set stat="pAtkSpd" order="0x8" val="325"/>
+    <enchant stat="pAtk" order="0xc" val="0"/>
+    <enchant stat="mAtk" order="0xc" val="0"/>
+   </stats>
+  </weapon>
+  <weapon id="2536" name="Spinebone Sword*Crimson Sword" weaponType="DualSword" >
+   <set icon="icon.weapon_dual_sword_i00"/>
+   <set bodyPart="LRHAND" grade="D"/>
+   <set crystallizable="true" crystal_count="2355" />
+   <set weight="2520" price="1660000"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <stats>
+    <set stat="pAtk" order="0x8" val="107"/>
+    <set stat="mAtk" order="0x8" val="51"/>
+    <set stat="rCrit" order="0x8" val="8"/>
+    <add stat="accCombat" order="0x10" val="0"/>
+    <set stat="pAtkSpd" order="0x8" val="325"/>
+    <enchant stat="pAtk" order="0xc" val="0"/>
+    <enchant stat="mAtk" order="0xc" val="0"/>
+   </stats>
+  </weapon>
+  <weapon id="2537" name="Spinebone Sword*Elven Sword" weaponType="DualSword" >
+   <set icon="icon.weapon_dual_sword_i00"/>
+   <set bodyPart="LRHAND" grade="D"/>
+   <set crystallizable="true" crystal_count="2355" />
+   <set weight="2460" price="1660000"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <stats>
+    <set stat="pAtk" order="0x8" val="107"/>
+    <set stat="mAtk" order="0x8" val="51"/>
+    <set stat="rCrit" order="0x8" val="8"/>
+    <add stat="accCombat" order="0x10" val="0"/>
+    <set stat="pAtkSpd" order="0x8" val="325"/>
+    <enchant stat="pAtk" order="0xc" val="0"/>
+    <enchant stat="mAtk" order="0xc" val="0"/>
+   </stats>
+  </weapon>
+  <weapon id="2538" name="Spinebone Sword*Sword of Revolution" weaponType="DualSword" >
+   <set icon="icon.weapon_dual_sword_i00"/>
+   <set bodyPart="LRHAND" grade="C"/>
+   <set crystallizable="true" crystal_count="652" />
+   <set weight="2460" price="2120000"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <stats>
+    <set stat="pAtk" order="0x8" val="124"/>
+    <set stat="mAtk" order="0x8" val="58"/>
+    <set stat="rCrit" order="0x8" val="8"/>
+    <add stat="accCombat" order="0x10" val="0"/>
+    <set stat="pAtkSpd" order="0x8" val="325"/>
+    <enchant stat="pAtk" order="0xc" val="0"/>
+    <enchant stat="mAtk" order="0xc" val="0"/>
+   </stats>
+  </weapon>
+  <weapon id="2539" name="Spinebone Sword*Elven Long Sword" weaponType="DualSword" >
+   <set icon="icon.weapon_dual_sword_i00"/>
+   <set bodyPart="LRHAND" grade="C"/>
+   <set crystallizable="true" crystal_count="761" />
+   <set weight="2390" price="2470000"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <stats>
+    <set stat="pAtk" order="0x8" val="136"/>
+    <set stat="mAtk" order="0x8" val="63"/>
+    <set stat="rCrit" order="0x8" val="8"/>
+    <add stat="accCombat" order="0x10" val="0"/>
+    <set stat="pAtkSpd" order="0x8" val="325"/>
+    <enchant stat="pAtk" order="0xc" val="0"/>
+    <enchant stat="mAtk" order="0xc" val="0"/>
+   </stats>
+  </weapon>
+  <weapon id="2540" name="Artisan's Sword*Artisan's Sword" weaponType="DualSword" >
+   <set icon="icon.weapon_dual_sword_i00"/>
+   <set bodyPart="LRHAND" grade="D"/>
+   <set crystallizable="true" crystal_count="1983" />
+   <set weight="2480" price="1400000"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <stats>
+    <set stat="pAtk" order="0x8" val="96"/>
+    <set stat="mAtk" order="0x8" val="47"/>
+    <set stat="rCrit" order="0x8" val="8"/>
+    <add stat="accCombat" order="0x10" val="0"/>
+    <set stat="pAtkSpd" order="0x8" val="325"/>
+    <enchant stat="pAtk" order="0xc" val="0"/>
+    <enchant stat="mAtk" order="0xc" val="0"/>
+   </stats>
+  </weapon>
+  <weapon id="2541" name="Artisan's Sword*Knight's Sword" weaponType="DualSword" >
+   <set icon="icon.weapon_dual_sword_i00"/>
+   <set bodyPart="LRHAND" grade="D"/>
+   <set crystallizable="true" crystal_count="1983" />
+   <set weight="2470" price="1400000"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <stats>
+    <set stat="pAtk" order="0x8" val="96"/>
+    <set stat="mAtk" order="0x8" val="47"/>
+    <set stat="rCrit" order="0x8" val="8"/>
+    <add stat="accCombat" order="0x10" val="0"/>
+    <set stat="pAtkSpd" order="0x8" val="325"/>
+    <enchant stat="pAtk" order="0xc" val="0"/>
+    <enchant stat="mAtk" order="0xc" val="0"/>
+   </stats>
+  </weapon>
+  <weapon id="2542" name="Artisan's Sword*Crimson Sword" weaponType="DualSword" >
+   <set icon="icon.weapon_dual_sword_i00"/>
+   <set bodyPart="LRHAND" grade="D"/>
+   <set crystallizable="true" crystal_count="2355" />
+   <set weight="2450" price="1660000"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <stats>
+    <set stat="pAtk" order="0x8" val="107"/>
+    <set stat="mAtk" order="0x8" val="51"/>
+    <set stat="rCrit" order="0x8" val="8"/>
+    <add stat="accCombat" order="0x10" val="0"/>
+    <set stat="pAtkSpd" order="0x8" val="325"/>
+    <enchant stat="pAtk" order="0xc" val="0"/>
+    <enchant stat="mAtk" order="0xc" val="0"/>
+   </stats>
+  </weapon>
+  <weapon id="2543" name="Artisan's Sword*Elven Sword" weaponType="DualSword" >
+   <set icon="icon.weapon_dual_sword_i00"/>
+   <set bodyPart="LRHAND" grade="D"/>
+   <set crystallizable="true" crystal_count="2355" />
+   <set weight="2470" price="1660000"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <stats>
+    <set stat="pAtk" order="0x8" val="107"/>
+    <set stat="mAtk" order="0x8" val="51"/>
+    <set stat="rCrit" order="0x8" val="8"/>
+    <add stat="accCombat" order="0x10" val="0"/>
+    <set stat="pAtkSpd" order="0x8" val="325"/>
+    <enchant stat="pAtk" order="0xc" val="0"/>
+    <enchant stat="mAtk" order="0xc" val="0"/>
+   </stats>
+  </weapon>
+  <weapon id="2544" name="Artisan's Sword*Sword of Revolution" weaponType="DualSword" >
+   <set icon="icon.weapon_dual_sword_i00"/>
+   <set bodyPart="LRHAND" grade="C"/>
+   <set crystallizable="true" crystal_count="652" />
+   <set weight="2420" price="2120000"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <stats>
+    <set stat="pAtk" order="0x8" val="124"/>
+    <set stat="mAtk" order="0x8" val="58"/>
+    <set stat="rCrit" order="0x8" val="8"/>
+    <add stat="accCombat" order="0x10" val="0"/>
+    <set stat="pAtkSpd" order="0x8" val="325"/>
+    <enchant stat="pAtk" order="0xc" val="0"/>
+    <enchant stat="mAtk" order="0xc" val="0"/>
+   </stats>
+  </weapon>
+  <weapon id="2545" name="Artisan's Sword*Elven Long Sword" weaponType="DualSword" >
+   <set icon="icon.weapon_dual_sword_i00"/>
+   <set bodyPart="LRHAND" grade="C"/>
+   <set crystallizable="true" crystal_count="761" />
+   <set weight="2410" price="2470000"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <stats>
+    <set stat="pAtk" order="0x8" val="136"/>
+    <set stat="mAtk" order="0x8" val="63"/>
+    <set stat="rCrit" order="0x8" val="8"/>
+    <add stat="accCombat" order="0x10" val="0"/>
+    <set stat="pAtkSpd" order="0x8" val="325"/>
+    <enchant stat="pAtk" order="0xc" val="0"/>
+    <enchant stat="mAtk" order="0xc" val="0"/>
+   </stats>
+  </weapon>
+  <weapon id="2546" name="Knight's Sword*Knight's Sword" weaponType="DualSword" >
+   <set icon="icon.weapon_dual_sword_i00"/>
+   <set bodyPart="LRHAND" grade="D"/>
+   <set crystallizable="true" crystal_count="1983" />
+   <set weight="2460" price="1400000"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <stats>
+    <set stat="pAtk" order="0x8" val="96"/>
+    <set stat="mAtk" order="0x8" val="47"/>
+    <set stat="rCrit" order="0x8" val="8"/>
+    <add stat="accCombat" order="0x10" val="0"/>
+    <set stat="pAtkSpd" order="0x8" val="325"/>
+    <enchant stat="pAtk" order="0xc" val="0"/>
+    <enchant stat="mAtk" order="0xc" val="0"/>
+   </stats>
+  </weapon>
+  <weapon id="2547" name="Knight's Sword*Crimson Sword" weaponType="DualSword" >
+   <set icon="icon.weapon_dual_sword_i00"/>
+   <set bodyPart="LRHAND" grade="D"/>
+   <set crystallizable="true" crystal_count="2355" />
+   <set weight="2460" price="1660000"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <stats>
+    <set stat="pAtk" order="0x8" val="107"/>
+    <set stat="mAtk" order="0x8" val="51"/>
+    <set stat="rCrit" order="0x8" val="8"/>
+    <add stat="accCombat" order="0x10" val="0"/>
+    <set stat="pAtkSpd" order="0x8" val="325"/>
+    <enchant stat="pAtk" order="0xc" val="0"/>
+    <enchant stat="mAtk" order="0xc" val="0"/>
+   </stats>
+  </weapon>
+  <weapon id="2548" name="Knight's Sword*Elven Sword" weaponType="DualSword" >
+   <set icon="icon.weapon_dual_sword_i00"/>
+   <set bodyPart="LRHAND" grade="D"/>
+   <set crystallizable="true" crystal_count="2355" />
+   <set weight="2450" price="1660000"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <stats>
+    <set stat="pAtk" order="0x8" val="107"/>
+    <set stat="mAtk" order="0x8" val="51"/>
+    <set stat="rCrit" order="0x8" val="8"/>
+    <add stat="accCombat" order="0x10" val="0"/>
+    <set stat="pAtkSpd" order="0x8" val="325"/>
+    <enchant stat="pAtk" order="0xc" val="0"/>
+    <enchant stat="mAtk" order="0xc" val="0"/>
+   </stats>
+  </weapon>
+  <weapon id="2549" name="Knight's Sword*Sword of Revolution" weaponType="DualSword" >
+   <set icon="icon.weapon_dual_sword_i00"/>
+   <set bodyPart="LRHAND" grade="C"/>
+   <set crystallizable="true" crystal_count="652" />
+   <set weight="2430" price="2120000"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <stats>
+    <set stat="pAtk" order="0x8" val="124"/>
+    <set stat="mAtk" order="0x8" val="58"/>
+    <set stat="rCrit" order="0x8" val="8"/>
+    <add stat="accCombat" order="0x10" val="0"/>
+    <set stat="pAtkSpd" order="0x8" val="325"/>
+    <enchant stat="pAtk" order="0xc" val="0"/>
+    <enchant stat="mAtk" order="0xc" val="0"/>
+   </stats>
+  </weapon>
+  <weapon id="2550" name="Knight's Sword*Elven Long Sword" weaponType="DualSword" >
+   <set icon="icon.weapon_dual_sword_i00"/>
+   <set bodyPart="LRHAND" grade="C"/>
+   <set crystallizable="true" crystal_count="761" />
+   <set weight="2370" price="2470000"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <stats>
+    <set stat="pAtk" order="0x8" val="136"/>
+    <set stat="mAtk" order="0x8" val="63"/>
+    <set stat="rCrit" order="0x8" val="8"/>
+    <add stat="accCombat" order="0x10" val="0"/>
+    <set stat="pAtkSpd" order="0x8" val="325"/>
+    <enchant stat="pAtk" order="0xc" val="0"/>
+    <enchant stat="mAtk" order="0xc" val="0"/>
+   </stats>
+  </weapon>
+  <weapon id="2551" name="Crimson Sword*Crimson Sword" weaponType="DualSword" >
+   <set icon="icon.weapon_dual_sword_i00"/>
+   <set bodyPart="LRHAND" grade="C"/>
+   <set crystallizable="true" crystal_count="602" />
+   <set weight="2440" price="1960000"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <stats>
+    <set stat="pAtk" order="0x8" val="118"/>
+    <set stat="mAtk" order="0x8" val="56"/>
+    <set stat="rCrit" order="0x8" val="8"/>
+    <add stat="accCombat" order="0x10" val="0"/>
+    <set stat="pAtkSpd" order="0x8" val="325"/>
+    <enchant stat="pAtk" order="0xc" val="0"/>
+    <enchant stat="mAtk" order="0xc" val="0"/>
+   </stats>
+  </weapon>
+  <weapon id="2552" name="Crimson Sword*Elven Sword" weaponType="DualSword" >
+   <set icon="icon.weapon_dual_sword_i00"/>
+   <set bodyPart="LRHAND" grade="C"/>
+   <set crystallizable="true" crystal_count="602" />
+   <set weight="2450" price="1960000"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <stats>
+    <set stat="pAtk" order="0x8" val="118"/>
+    <set stat="mAtk" order="0x8" val="56"/>
+    <set stat="rCrit" order="0x8" val="8"/>
+    <add stat="accCombat" order="0x10" val="0"/>
+    <set stat="pAtkSpd" order="0x8" val="325"/>
+    <enchant stat="pAtk" order="0xc" val="0"/>
+    <enchant stat="mAtk" order="0xc" val="0"/>
+   </stats>
+  </weapon>
+  <weapon id="2553" name="Crimson Sword*Sword of Revolution" weaponType="DualSword" >
+   <set icon="icon.weapon_dual_sword_i00"/>
+   <set bodyPart="LRHAND" grade="C"/>
+   <set crystallizable="true" crystal_count="761" />
+   <set weight="2390" price="2470000"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <stats>
+    <set stat="pAtk" order="0x8" val="136"/>
+    <set stat="mAtk" order="0x8" val="63"/>
+    <set stat="rCrit" order="0x8" val="8"/>
+    <add stat="accCombat" order="0x10" val="0"/>
+    <set stat="pAtkSpd" order="0x8" val="325"/>
+    <enchant stat="pAtk" order="0xc" val="0"/>
+    <enchant stat="mAtk" order="0xc" val="0"/>
+   </stats>
+  </weapon>
+  <weapon id="2554" name="Crimson Sword*Elven Long Sword" weaponType="DualSword" >
+   <set icon="icon.weapon_dual_sword_i00"/>
+   <set bodyPart="LRHAND" grade="C"/>
+   <set crystallizable="true" crystal_count="884" />
+   <set weight="2360" price="2870000"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <stats>
+    <set stat="pAtk" order="0x8" val="148"/>
+    <set stat="mAtk" order="0x8" val="68"/>
+    <set stat="rCrit" order="0x8" val="8"/>
+    <set stat="pAtkSpd" order="0x8" val="325"/>
+    <add stat="accCombat" order="0x40" val="2"/>
+    <enchant stat="pAtk" order="0xc" val="0"/>
+    <enchant stat="mAtk" order="0xc" val="0"/>
+   </stats>
+  </weapon>
+  <weapon id="2555" name="Elven Sword*Elven Sword" weaponType="DualSword" >
+   <set icon="icon.weapon_dual_sword_i00"/>
+   <set bodyPart="LRHAND" grade="C"/>
+   <set crystallizable="true" crystal_count="602" />
+   <set weight="2440" price="1960000"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <stats>
+    <set stat="pAtk" order="0x8" val="118"/>
+    <set stat="mAtk" order="0x8" val="56"/>
+    <set stat="rCrit" order="0x8" val="8"/>
+    <add stat="accCombat" order="0x10" val="0"/>
+    <set stat="pAtkSpd" order="0x8" val="325"/>
+    <enchant stat="pAtk" order="0xc" val="0"/>
+    <enchant stat="mAtk" order="0xc" val="0"/>
+   </stats>
+  </weapon>
+  <weapon id="2556" name="Elven Sword*Sword of Revolution" weaponType="DualSword" >
+   <set icon="icon.weapon_dual_sword_i00"/>
+   <set bodyPart="LRHAND" grade="C"/>
+   <set crystallizable="true" crystal_count="761" />
+   <set weight="2410" price="2470000"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <stats>
+    <set stat="pAtk" order="0x8" val="136"/>
+    <set stat="mAtk" order="0x8" val="63"/>
+    <set stat="rCrit" order="0x8" val="8"/>
+    <add stat="accCombat" order="0x10" val="0"/>
+    <set stat="pAtkSpd" order="0x8" val="325"/>
+    <enchant stat="pAtk" order="0xc" val="0"/>
+    <enchant stat="mAtk" order="0xc" val="0"/>
+   </stats>
+  </weapon>
+  <weapon id="2557" name="Elven Sword*Elven Long Sword" weaponType="DualSword" >
+   <set icon="icon.weapon_dual_sword_i00"/>
+   <set bodyPart="LRHAND" grade="C"/>
+   <set crystallizable="true" crystal_count="884" />
+   <set weight="2410" price="2870000"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <stats>
+    <set stat="pAtk" order="0x8" val="148"/>
+    <set stat="mAtk" order="0x8" val="68"/>
+    <set stat="rCrit" order="0x8" val="8"/>
+    <add stat="accCombat" order="0x10" val="0"/>
+    <add stat="cAtkAdd" order="0x10" val="61"/>
+    <set stat="pAtkSpd" order="0x8" val="325"/>
+    <enchant stat="pAtk" order="0xc" val="0"/>
+    <enchant stat="mAtk" order="0xc" val="0"/>
+   </stats>
+  </weapon>
+  <weapon id="2558" name="Sword of Revolution*Sword of Revolution" weaponType="DualSword" >
+   <set icon="icon.weapon_dual_sword_i00"/>
+   <set bodyPart="LRHAND" grade="C"/>
+   <set crystallizable="true" crystal_count="884" />
+   <set weight="2360" price="2870000"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <stats>
+    <set stat="pAtk" order="0x8" val="148"/>
+    <set stat="mAtk" order="0x8" val="68"/>
+    <set stat="rCrit" order="0x8" val="8"/>
+    <add stat="accCombat" order="0x10" val="0"/>
+    <set stat="pAtkSpd" order="0x8" val="325"/>
+    <mul stat="maxHp" order="0x30" val="1.25"/>
+    <enchant stat="pAtk" order="0xc" val="0"/>
+    <enchant stat="mAtk" order="0xc" val="0"/>
+   </stats>
+  </weapon>
+  <weapon id="2559" name="Sword of Revolution*Elven Long Sword" weaponType="DualSword" >
+   <set icon="icon.weapon_dual_sword_i00"/>
+   <set bodyPart="LRHAND" grade="C"/>
+   <set crystallizable="true" crystal_count="1029" />
+   <set weight="2340" price="3340000"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <stats>
+    <set stat="pAtk" order="0x8" val="155"/>
+    <set stat="mAtk" order="0x8" val="70"/>
+    <set stat="rCrit" order="0x8" val="8"/>
+    <add stat="accCombat" order="0x10" val="0"/>
+    <set stat="pAtkSpd" order="0x8" val="325"/>
+    <add stat="rCrit" order="0x40" val="50"/>
+    <enchant stat="pAtk" order="0xc" val="0"/>
+    <enchant stat="mAtk" order="0xc" val="0"/>
+   </stats>
+  </weapon>
+  <weapon id="2560" name="Elven Long Sword*Elven Long Sword" weaponType="DualSword" >
+   <set icon="icon.weapon_dual_sword_i00"/>
+   <set bodyPart="LRHAND" grade="C"/>
+   <set crystallizable="true" crystal_count="1175" />
+   <set weight="2340" price="3820000"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <stats>
+    <set stat="pAtk" order="0x8" val="162"/>
+    <set stat="mAtk" order="0x8" val="73"/>
+    <set stat="rCrit" order="0x8" val="8"/>
+    <add stat="accCombat" order="0x10" val="0"/>
+    <set stat="pAtkSpd" order="0x8" val="325"/>
+    <enchant stat="pAtk" order="0xc" val="0"/>
+    <enchant stat="mAtk" order="0xc" val="0"/>
+   </stats>
+  </weapon>
+  <weapon id="2561" name="Stormbringer*Stormbringer" weaponType="DualSword" >
+   <set icon="icon.weapon_dual_sword_i00"/>
+   <set bodyPart="LRHAND" grade="C"/>
+   <set crystallizable="true" crystal_count="1471" />
+   <set weight="2330" price="4780000"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <stats>
+    <set stat="pAtk" order="0x8" val="175"/>
+    <set stat="mAtk" order="0x8" val="78"/>
+    <set stat="rCrit" order="0x8" val="8"/>
+    <add stat="accCombat" order="0x40" val="2"/>
+    <set stat="pAtkSpd" order="0x8" val="325"/>
+    <enchant stat="pAtk" order="0xc" val="0"/>
+    <enchant stat="mAtk" order="0xc" val="0"/>
+   </stats>
+  </weapon>
+  <weapon id="2562" name="Stormbringer*Shamshir" weaponType="DualSword" >
+   <set icon="icon.weapon_dual_sword_i00"/>
+   <set bodyPart="LRHAND" grade="C"/>
+   <set crystallizable="true" crystal_count="1623" />
+   <set weight="2300" price="5280000"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <stats>
+    <set stat="pAtk" order="0x8" val="183"/>
+    <set stat="mAtk" order="0x8" val="81"/>
+    <set stat="rCrit" order="0x8" val="8"/>
+    <add stat="accCombat" order="0x10" val="0"/>
+    <set stat="pAtkSpd" order="0x8" val="325"/>
+    <add stat="cAtkAdd" order="0x10" val="49"/>
+    <enchant stat="pAtk" order="0xc" val="0"/>
+    <enchant stat="mAtk" order="0xc" val="0"/>
+   </stats>
+  </weapon>
+  <weapon id="2563" name="Stormbringer*Katana" weaponType="DualSword" >
+   <set icon="icon.weapon_dual_sword_i00"/>
+   <set bodyPart="LRHAND" grade="C"/>
+   <set crystallizable="true" crystal_count="1623" />
+   <set weight="2320" price="5280000"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <stats>
+    <set stat="pAtk" order="0x8" val="183"/>
+    <set stat="mAtk" order="0x8" val="81"/>
+    <set stat="rCrit" order="0x8" val="8"/>
+    <add stat="accCombat" order="0x10" val="0"/>
+    <set stat="pAtkSpd" order="0x8" val="325"/>
+    <enchant stat="pAtk" order="0xc" val="0"/>
+    <enchant stat="mAtk" order="0xc" val="0"/>
+   </stats>
+  </weapon>
+  <weapon id="2564" name="Stormbringer*Spirit Sword" weaponType="DualSword" >
+   <set icon="icon.weapon_dual_sword_i00"/>
+   <set bodyPart="LRHAND" grade="C"/>
+   <set crystallizable="true" crystal_count="1623" />
+   <set weight="2310" price="5280000"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <stats>
+    <set stat="pAtk" order="0x8" val="183"/>
+    <set stat="mAtk" order="0x8" val="81"/>
+    <set stat="rCrit" order="0x8" val="8"/>
+    <add stat="accCombat" order="0x10" val="0"/>
+    <set stat="pAtkSpd" order="0x8" val="325"/>
+    <add stat="rCrit" order="0x40" val="24"/>
+    <enchant stat="pAtk" order="0xc" val="0"/>
+    <enchant stat="mAtk" order="0xc" val="0"/>
+   </stats>
+  </weapon>
+  <weapon id="2565" name="Stormbringer*Raid Sword" weaponType="DualSword" >
+   <set icon="icon.weapon_dual_sword_i00"/>
+   <set bodyPart="LRHAND" grade="C"/>
+   <set crystallizable="true" crystal_count="1623" />
+   <set weight="2340" price="5280000"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <stats>
+    <set stat="pAtk" order="0x8" val="183"/>
+    <set stat="mAtk" order="0x8" val="81"/>
+    <set stat="rCrit" order="0x8" val="8"/>
+    <add stat="accCombat" order="0x10" val="0"/>
+    <set stat="pAtkSpd" order="0x8" val="325"/>
+    <enchant stat="pAtk" order="0xc" val="0"/>
+    <enchant stat="mAtk" order="0xc" val="0"/>
+   </stats>
+  </weapon>
+  <weapon id="2566" name="Stormbringer*Caliburs" weaponType="DualSword" >
+   <set icon="icon.weapon_dual_sword_i00"/>
+   <set bodyPart="LRHAND" grade="B"/>
+   <set crystallizable="true" crystal_count="716" />
+   <set weight="2260" price="6980000"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <stats>
+    <set stat="pAtk" order="0x8" val="197"/>
+    <set stat="mAtk" order="0x8" val="86"/>
+    <set stat="rCrit" order="0x8" val="8"/>
+    <set stat="pAtkSpd" order="0x8" val="325"/>
+    <add stat="accCombat" order="0x40" val="5"/>
+    <enchant stat="pAtk" order="0xc" val="0"/>
+    <enchant stat="mAtk" order="0xc" val="0"/>
+   </stats>
+  </weapon>
+  <weapon id="2567" name="Stormbringer*Sword of Limit" weaponType="DualSword" >
+   <set icon="icon.weapon_dual_sword_i00"/>
+   <set bodyPart="LRHAND" grade="B"/>
+   <set crystallizable="true" crystal_count="716" />
+   <set weight="2240" price="6980000"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <stats>
+    <set stat="pAtk" order="0x8" val="197"/>
+    <set stat="mAtk" order="0x8" val="86"/>
+    <set stat="rCrit" order="0x8" val="8"/>
+    <add stat="accCombat" order="0x10" val="0"/>
+    <set stat="pAtkSpd" order="0x8" val="325"/>
+    <add stat="cAtkAdd" order="0x10" val="166"/>
+    <enchant stat="pAtk" order="0xc" val="0"/>
+    <enchant stat="mAtk" order="0xc" val="0"/>
+   </stats>
+  </weapon>
+  <weapon id="2568" name="Stormbringer*Sword of Delusion" weaponType="DualSword" >
+   <set icon="icon.weapon_dual_sword_i00"/>
+   <set bodyPart="LRHAND" grade="B"/>
+   <set crystallizable="true" crystal_count="716" />
+   <set weight="2230" price="6980000"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <stats>
+    <set stat="pAtk" order="0x8" val="197"/>
+    <set stat="mAtk" order="0x8" val="86"/>
+    <set stat="rCrit" order="0x8" val="8"/>
+    <add stat="accCombat" order="0x10" val="0"/>
+    <set stat="pAtkSpd" order="0x8" val="325"/>
+    <enchant stat="pAtk" order="0xc" val="0"/>
+    <enchant stat="mAtk" order="0xc" val="0"/>
+   </stats>
+  </weapon>
+  <weapon id="2569" name="Stormbringer*Sword of Nightmare" weaponType="DualSword" >
+   <set icon="icon.weapon_dual_sword_i00"/>
+   <set bodyPart="LRHAND" grade="B"/>
+   <set crystallizable="true" crystal_count="716" />
+   <set weight="2250" price="6980000"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <stats>
+    <set stat="pAtk" order="0x8" val="197"/>
+    <set stat="mAtk" order="0x8" val="86"/>
+    <add stat="accCombat" order="0x10" val="0"/>
+    <set stat="pAtkSpd" order="0x8" val="325"/>
+    <add stat="rCrit" order="0x40" val="76"/>
+    <set stat="rCrit" order="0x8" val="8"/>
+    <enchant stat="pAtk" order="0xc" val="0"/>
+    <enchant stat="mAtk" order="0xc" val="0"/>
+   </stats>
+  </weapon>
+  <weapon id="2570" name="Stormbringer*Tsurugi" weaponType="DualSword" >
+   <set icon="icon.weapon_dual_sword_i00"/>
+   <set bodyPart="LRHAND" grade="B"/>
+   <set crystallizable="true" crystal_count="716" />
+   <set weight="2220" price="6980000"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <stats>
+    <set stat="pAtk" order="0x8" val="197"/>
+    <set stat="mAtk" order="0x8" val="86"/>
+    <set stat="rCrit" order="0x8" val="8"/>
+    <add stat="accCombat" order="0x10" val="0"/>
+    <set stat="pAtkSpd" order="0x8" val="325"/>
+    <enchant stat="pAtk" order="0xc" val="0"/>
+    <enchant stat="mAtk" order="0xc" val="0"/>
+   </stats>
+  </weapon>
+  <weapon id="2571" name="Stormbringer*Samurai Long sword" weaponType="DualSword" >
+   <set icon="icon.weapon_dual_sword_i00"/>
+   <set bodyPart="LRHAND" grade="B"/>
+   <set crystallizable="true" crystal_count="891" />
+   <set weight="2150" price="8680000"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <stats>
+    <set stat="pAtk" order="0x8" val="213"/>
+    <set stat="mAtk" order="0x8" val="91"/>
+    <set stat="rCrit" order="0x8" val="8"/>
+    <set stat="pAtkSpd" order="0x8" val="325"/>
+    <add stat="accCombat" order="0x40" val="4"/>
+    <enchant stat="pAtk" order="0xc" val="0"/>
+    <enchant stat="mAtk" order="0xc" val="0"/>
+   </stats>
+  </weapon>
+  <weapon id="2572" name="Shamshir*Shamshir" weaponType="DualSword" >
+   <set icon="icon.weapon_dual_sword_i00"/>
+   <set bodyPart="LRHAND" grade="C"/>
+   <set crystallizable="true" crystal_count="1885" />
+   <set weight="2330" price="6130000"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <stats>
+    <set stat="pAtk" order="0x8" val="190"/>
+    <set stat="mAtk" order="0x8" val="83"/>
+    <set stat="rCrit" order="0x8" val="8"/>
+    <set stat="pAtkSpd" order="0x8" val="325"/>
+    <add stat="accCombat" order="0x40" val="2"/>
+    <enchant stat="pAtk" order="0xc" val="0"/>
+    <enchant stat="mAtk" order="0xc" val="0"/>
+   </stats>
+  </weapon>
+  <weapon id="2573" name="Shamshir*Katana" weaponType="DualSword" >
+   <set icon="icon.weapon_dual_sword_i00"/>
+   <set bodyPart="LRHAND" grade="C"/>
+   <set crystallizable="true" crystal_count="1885" />
+   <set weight="2310" price="6130000"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <stats>
+    <set stat="pAtk" order="0x8" val="190"/>
+    <set stat="mAtk" order="0x8" val="83"/>
+    <set stat="rCrit" order="0x8" val="8"/>
+    <add stat="accCombat" order="0x10" val="0"/>
+    <set stat="pAtkSpd" order="0x8" val="325"/>
+    <add stat="cAtkAdd" order="0x10" val="84"/>
+    <enchant stat="pAtk" order="0xc" val="0"/>
+    <enchant stat="mAtk" order="0xc" val="0"/>
+   </stats>
+  </weapon>
+  <weapon id="2574" name="Shamshir*Spirit Sword" weaponType="DualSword" >
+   <set icon="icon.weapon_dual_sword_i00"/>
+   <set bodyPart="LRHAND" grade="C"/>
+   <set crystallizable="true" crystal_count="1885" />
+   <set weight="2280" price="6130000"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <stats>
+    <set stat="pAtk" order="0x8" val="190"/>
+    <set stat="mAtk" order="0x8" val="83"/>
+    <set stat="rCrit" order="0x8" val="8"/>
+    <add stat="accCombat" order="0x10" val="0"/>
+    <set stat="pAtkSpd" order="0x8" val="325"/>
+    <enchant stat="pAtk" order="0xc" val="0"/>
+    <enchant stat="mAtk" order="0xc" val="0"/>
+   </stats>
+  </weapon>
+  <weapon id="2575" name="Shamshir*Raid Sword" weaponType="DualSword" >
+   <set icon="icon.weapon_dual_sword_i00"/>
+   <set bodyPart="LRHAND" grade="C"/>
+   <set crystallizable="true" crystal_count="1885" />
+   <set weight="2280" price="6130000"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <stats>
+    <set stat="pAtk" order="0x8" val="190"/>
+    <set stat="mAtk" order="0x8" val="83"/>
+    <set stat="rCrit" order="0x8" val="8"/>
+    <add stat="accCombat" order="0x10" val="0"/>
+    <set stat="pAtkSpd" order="0x8" val="325"/>
+    <add stat="rCrit" order="0x40" val="40"/>
+    <enchant stat="pAtk" order="0xc" val="0"/>
+    <enchant stat="mAtk" order="0xc" val="0"/>
+   </stats>
+  </weapon>
+  <weapon id="2576" name="Shamshir*Caliburs" weaponType="DualSword" >
+   <set icon="icon.weapon_dual_sword_i00"/>
+   <set bodyPart="LRHAND" grade="B"/>
+   <set crystallizable="true" crystal_count="803" />
+   <set weight="2230" price="7830000"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <stats>
+    <set stat="pAtk" order="0x8" val="204"/>
+    <set stat="mAtk" order="0x8" val="89"/>
+    <set stat="rCrit" order="0x8" val="8"/>
+    <set stat="pAtkSpd" order="0x8" val="325"/>
+    <add stat="accCombat" order="0x40" val="4"/>
+    <enchant stat="pAtk" order="0xc" val="0"/>
+    <enchant stat="mAtk" order="0xc" val="0"/>
+   </stats>
+  </weapon>
+  <weapon id="2577" name="Shamshir*Sword of Limit" weaponType="DualSword" >
+   <set icon="icon.weapon_dual_sword_i00"/>
+   <set bodyPart="LRHAND" grade="B"/>
+   <set crystallizable="true" crystal_count="803" />
+   <set weight="2240" price="7830000"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <stats>
+    <set stat="pAtk" order="0x8" val="204"/>
+    <set stat="mAtk" order="0x8" val="89"/>
+    <set stat="rCrit" order="0x8" val="8"/>
+    <add stat="accCombat" order="0x10" val="0"/>
+    <set stat="pAtkSpd" order="0x8" val="325"/>
+    <add stat="cAtkAdd" order="0x10" val="146"/>
+    <enchant stat="pAtk" order="0xc" val="0"/>
+    <enchant stat="mAtk" order="0xc" val="0"/>
+   </stats>
+  </weapon>
+  <weapon id="2578" name="Shamshir*Sword of Delusion" weaponType="DualSword" >
+   <set icon="icon.weapon_dual_sword_i00"/>
+   <set bodyPart="LRHAND" grade="B"/>
+   <set crystallizable="true" crystal_count="803" />
+   <set weight="2200" price="7830000"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <stats>
+    <set stat="pAtk" order="0x8" val="204"/>
+    <set stat="mAtk" order="0x8" val="89"/>
+    <set stat="rCrit" order="0x8" val="8"/>
+    <add stat="accCombat" order="0x10" val="0"/>
+    <set stat="pAtkSpd" order="0x8" val="325"/>
+    <enchant stat="pAtk" order="0xc" val="0"/>
+    <enchant stat="mAtk" order="0xc" val="0"/>
+   </stats>
+  </weapon>
+  <weapon id="2579" name="Shamshir*Sword of Nightmare" weaponType="DualSword" >
+   <set icon="icon.weapon_dual_sword_i00"/>
+   <set bodyPart="LRHAND" grade="B"/>
+   <set crystallizable="true" crystal_count="803" />
+   <set weight="2210" price="7830000"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <stats>
+    <set stat="pAtk" order="0x8" val="204"/>
+    <set stat="mAtk" order="0x8" val="89"/>
+    <set stat="rCrit" order="0x8" val="8"/>
+    <add stat="accCombat" order="0x10" val="0"/>
+    <set stat="pAtkSpd" order="0x8" val="325"/>
+    <add stat="rCrit" order="0x40" val="65"/>
+    <enchant stat="pAtk" order="0xc" val="0"/>
+    <enchant stat="mAtk" order="0xc" val="0"/>
+   </stats>
+  </weapon>
+  <weapon id="2580" name="Shamshir*Tsurugi" weaponType="DualSword" >
+   <set icon="icon.weapon_dual_sword_i00"/>
+   <set bodyPart="LRHAND" grade="B"/>
+   <set crystallizable="true" crystal_count="803" />
+   <set weight="2220" price="7830000"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <stats>
+    <set stat="pAtk" order="0x8" val="204"/>
+    <set stat="mAtk" order="0x8" val="89"/>
+    <set stat="rCrit" order="0x8" val="8"/>
+    <add stat="accCombat" order="0x10" val="0"/>
+    <set stat="pAtkSpd" order="0x8" val="325"/>
+    <enchant stat="pAtk" order="0xc" val="0"/>
+    <enchant stat="mAtk" order="0xc" val="0"/>
+   </stats>
+  </weapon>
+  <weapon id="2581" name="Shamshir*Samurai Long Sword" weaponType="DualSword" >
+   <set icon="icon.weapon_dual_sword_i00"/>
+   <set bodyPart="LRHAND" grade="B"/>
+   <set crystallizable="true" crystal_count="979" />
+   <set weight="2110" price="9550000"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <stats>
+    <set stat="pAtk" order="0x8" val="220"/>
+    <set stat="mAtk" order="0x8" val="94"/>
+    <set stat="rCrit" order="0x8" val="8"/>
+    <set stat="pAtkSpd" order="0x8" val="325"/>
+    <add stat="accCombat" order="0x40" val="3"/>
+    <enchant stat="pAtk" order="0xc" val="0"/>
+    <enchant stat="mAtk" order="0xc" val="0"/>
+   </stats>
+  </weapon>
+  <weapon id="2582" name="Katana*Katana" weaponType="DualSword" >
+   <set icon="icon.weapon_dual_sword_i00"/>
+   <set bodyPart="LRHAND" grade="C"/>
+   <set crystallizable="true" crystal_count="1885" />
+   <set weight="2270" price="6130000"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <stats>
+    <set stat="pAtk" order="0x8" val="190"/>
+    <set stat="mAtk" order="0x8" val="83"/>
+    <set stat="rCrit" order="0x8" val="8"/>
+    <add stat="accCombat" order="0x10" val="0"/>
+    <set stat="pAtkSpd" order="0x8" val="325"/>
+    <enchant stat="pAtk" order="0xc" val="0"/>
+    <enchant stat="mAtk" order="0xc" val="0"/>
+   </stats>
+  </weapon>
+  <weapon id="2583" name="Katana*Spirit Sword" weaponType="DualSword" >
+   <set icon="icon.weapon_dual_sword_i00"/>
+   <set bodyPart="LRHAND" grade="C"/>
+   <set crystallizable="true" crystal_count="1885" />
+   <set weight="2250" price="6130000"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <stats>
+    <set stat="pAtk" order="0x8" val="190"/>
+    <set stat="mAtk" order="0x8" val="83"/>
+    <set stat="rCrit" order="0x8" val="8"/>
+    <set stat="pAtkSpd" order="0x8" val="325"/>
+    <add stat="accCombat" order="0x40" val="2"/>
+    <enchant stat="pAtk" order="0xc" val="0"/>
+    <enchant stat="mAtk" order="0xc" val="0"/>
+   </stats>
+  </weapon>
+  <weapon id="2584" name="Katana*Raid Sword" weaponType="DualSword" >
+   <set icon="icon.weapon_dual_sword_i00"/>
+   <set bodyPart="LRHAND" grade="C"/>
+   <set crystallizable="true" crystal_count="1885" />
+   <set weight="2270" price="6130000"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <stats>
+    <set stat="pAtk" order="0x8" val="190"/>
+    <set stat="mAtk" order="0x8" val="83"/>
+    <set stat="rCrit" order="0x8" val="8"/>
+    <add stat="accCombat" order="0x10" val="0"/>
+    <set stat="pAtkSpd" order="0x8" val="325"/>
+    <add stat="cAtkAdd" order="0x10" val="84"/>
+    <enchant stat="pAtk" order="0xc" val="0"/>
+    <enchant stat="mAtk" order="0xc" val="0"/>
+   </stats>
+  </weapon>
+  <weapon id="2585" name="Katana*Caliburs" weaponType="DualSword" >
+   <set icon="icon.weapon_dual_sword_i00"/>
+   <set bodyPart="LRHAND" grade="B"/>
+   <set crystallizable="true" crystal_count="803" />
+   <set weight="2220" price="7830000"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <stats>
+    <set stat="pAtk" order="0x8" val="204"/>
+    <set stat="mAtk" order="0x8" val="89"/>
+    <set stat="rCrit" order="0x8" val="8"/>
+    <set stat="pAtkSpd" order="0x8" val="325"/>
+    <add stat="accCombat" order="0x40" val="4"/>
+    <enchant stat="pAtk" order="0xc" val="0"/>
+    <enchant stat="mAtk" order="0xc" val="0"/>
+   </stats>
+  </weapon>
+  <weapon id="2586" name="Katana*Sword of Limit" weaponType="DualSword" >
+   <set icon="icon.weapon_dual_sword_i00"/>
+   <set bodyPart="LRHAND" grade="B"/>
+   <set crystallizable="true" crystal_count="803" />
+   <set weight="2180" price="7830000"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <stats>
+    <set stat="pAtk" order="0x8" val="204"/>
+    <set stat="mAtk" order="0x8" val="89"/>
+    <set stat="rCrit" order="0x8" val="8"/>
+    <add stat="accCombat" order="0x10" val="0"/>
+    <set stat="pAtkSpd" order="0x8" val="325"/>
+    <add stat="cAtkAdd" order="0x10" val="146"/>
+    <enchant stat="pAtk" order="0xc" val="0"/>
+    <enchant stat="mAtk" order="0xc" val="0"/>
+   </stats>
+  </weapon>
+  <weapon id="2587" name="Katana*Sword of Delusion" weaponType="DualSword" >
+   <set icon="icon.weapon_dual_sword_i00"/>
+   <set bodyPart="LRHAND" grade="B"/>
+   <set crystallizable="true" crystal_count="803" />
+   <set weight="2190" price="7830000"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <stats>
+    <set stat="pAtk" order="0x8" val="204"/>
+    <set stat="mAtk" order="0x8" val="89"/>
+    <set stat="rCrit" order="0x8" val="8"/>
+    <add stat="accCombat" order="0x10" val="0"/>
+    <set stat="pAtkSpd" order="0x8" val="325"/>
+    <enchant stat="pAtk" order="0xc" val="0"/>
+    <enchant stat="mAtk" order="0xc" val="0"/>
+   </stats>
+  </weapon>
+  <weapon id="2588" name="Katana*Sword of Nightmare" weaponType="DualSword" >
+   <set icon="icon.weapon_dual_sword_i00"/>
+   <set bodyPart="LRHAND" grade="B"/>
+   <set crystallizable="true" crystal_count="803" />
+   <set weight="2170" price="7830000"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <stats>
+    <set stat="pAtk" order="0x8" val="204"/>
+    <set stat="mAtk" order="0x8" val="89"/>
+    <set stat="rCrit" order="0x8" val="8"/>
+    <add stat="accCombat" order="0x10" val="0"/>
+    <set stat="pAtkSpd" order="0x8" val="325"/>
+    <add stat="rCrit" order="0x40" val="65"/>
+    <enchant stat="pAtk" order="0xc" val="0"/>
+    <enchant stat="mAtk" order="0xc" val="0"/>
+   </stats>
+  </weapon>
+  <weapon id="2589" name="Katana*Tsurugi" weaponType="DualSword" >
+   <set icon="icon.weapon_dual_sword_i00"/>
+   <set bodyPart="LRHAND" grade="B"/>
+   <set crystallizable="true" crystal_count="803" />
+   <set weight="2210" price="7830000"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <stats>
+    <set stat="pAtk" order="0x8" val="204"/>
+    <set stat="mAtk" order="0x8" val="89"/>
+    <set stat="rCrit" order="0x8" val="8"/>
+    <add stat="accCombat" order="0x10" val="0"/>
+    <set stat="pAtkSpd" order="0x8" val="325"/>
+    <enchant stat="pAtk" order="0xc" val="0"/>
+    <enchant stat="mAtk" order="0xc" val="0"/>
+   </stats>
+  </weapon>
+  <weapon id="2590" name="Katana*Samurai Long Sword" weaponType="DualSword" >
+   <set icon="icon.weapon_dual_sword_i00"/>
+   <set bodyPart="LRHAND" grade="B"/>
+   <set crystallizable="true" crystal_count="979" />
+   <set weight="2130" price="9550000"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <stats>
+    <set stat="pAtk" order="0x8" val="220"/>
+    <set stat="mAtk" order="0x8" val="94"/>
+    <set stat="rCrit" order="0x8" val="8"/>
+    <add stat="accCombat" order="0x10" val="0"/>
+    <set stat="pAtkSpd" order="0x8" val="325"/>
+    <add stat="cAtkAdd" order="0x10" val="106"/>
+    <enchant stat="pAtk" order="0xc" val="0"/>
+    <enchant stat="mAtk" order="0xc" val="0"/>
+   </stats>
+  </weapon>
+  <weapon id="2591" name="Spirit Sword*Spirit Sword" weaponType="DualSword" >
+   <set icon="icon.weapon_dual_sword_i00"/>
+   <set bodyPart="LRHAND" grade="C"/>
+   <set crystallizable="true" crystal_count="1885" />
+   <set weight="2240" price="6130000"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <stats>
+    <set stat="pAtk" order="0x8" val="190"/>
+    <set stat="mAtk" order="0x8" val="83"/>
+    <set stat="rCrit" order="0x8" val="8"/>
+    <add stat="accCombat" order="0x10" val="0"/>
+    <set stat="pAtkSpd" order="0x8" val="325"/>
+    <enchant stat="pAtk" order="0xc" val="0"/>
+    <enchant stat="mAtk" order="0xc" val="0"/>
+   </stats>
+  </weapon>
+  <weapon id="2592" name="Spirit Sword*Raid Sword" weaponType="DualSword" >
+   <set icon="icon.weapon_dual_sword_i00"/>
+   <set bodyPart="LRHAND" grade="C"/>
+   <set crystallizable="true" crystal_count="1885" />
+   <set weight="2260" price="6130000"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <stats>
+    <set stat="pAtk" order="0x8" val="190"/>
+    <set stat="mAtk" order="0x8" val="83"/>
+    <set stat="rCrit" order="0x8" val="8"/>
+    <add stat="accCombat" order="0x10" val="0"/>
+    <set stat="pAtkSpd" order="0x8" val="325"/>
+    <add stat="rCrit" order="0x40" val="40"/>
+    <enchant stat="pAtk" order="0xc" val="0"/>
+    <enchant stat="mAtk" order="0xc" val="0"/>
+   </stats>
+  </weapon>
+  <weapon id="2593" name="Spirit Sword*Caliburs" weaponType="DualSword" >
+   <set icon="icon.weapon_dual_sword_i00"/>
+   <set bodyPart="LRHAND" grade="B"/>
+   <set crystallizable="true" crystal_count="803" />
+   <set weight="2240" price="7830000"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <stats>
+    <set stat="pAtk" order="0x8" val="204"/>
+    <set stat="mAtk" order="0x8" val="89"/>
+    <set stat="rCrit" order="0x8" val="8"/>
+    <set stat="pAtkSpd" order="0x8" val="325"/>
+    <add stat="accCombat" order="0x40" val="4"/>
+    <enchant stat="pAtk" order="0xc" val="0"/>
+    <enchant stat="mAtk" order="0xc" val="0"/>
+   </stats>
+  </weapon>
+  <weapon id="2594" name="Spirit Sword*Sword of Limit" weaponType="DualSword" >
+   <set icon="icon.weapon_dual_sword_i00"/>
+   <set bodyPart="LRHAND" grade="B"/>
+   <set crystallizable="true" crystal_count="803" />
+   <set weight="2240" price="7830000"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <stats>
+    <set stat="pAtk" order="0x8" val="204"/>
+    <set stat="mAtk" order="0x8" val="89"/>
+    <set stat="rCrit" order="0x8" val="8"/>
+    <add stat="accCombat" order="0x10" val="0"/>
+    <set stat="pAtkSpd" order="0x8" val="325"/>
+    <add stat="cAtkAdd" order="0x10" val="146"/>
+    <enchant stat="pAtk" order="0xc" val="0"/>
+    <enchant stat="mAtk" order="0xc" val="0"/>
+   </stats>
+  </weapon>
+  <weapon id="2595" name="Spirit Sword*Sword of Delusion" weaponType="DualSword" >
+   <set icon="icon.weapon_dual_sword_i00"/>
+   <set bodyPart="LRHAND" grade="B"/>
+   <set crystallizable="true" crystal_count="803" />
+   <set weight="2250" price="7830000"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <stats>
+    <set stat="pAtk" order="0x8" val="204"/>
+    <set stat="mAtk" order="0x8" val="89"/>
+    <set stat="rCrit" order="0x8" val="8"/>
+    <add stat="accCombat" order="0x10" val="0"/>
+    <set stat="pAtkSpd" order="0x8" val="325"/>
+    <enchant stat="pAtk" order="0xc" val="0"/>
+    <enchant stat="mAtk" order="0xc" val="0"/>
+   </stats>
+  </weapon>
+  <weapon id="2596" name="Spirit Sword*Sword of Nightmare" weaponType="DualSword" >
+   <set icon="icon.weapon_dual_sword_i00"/>
+   <set bodyPart="LRHAND" grade="B"/>
+   <set crystallizable="true" crystal_count="803" />
+   <set weight="2250" price="7830000"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <stats>
+    <set stat="pAtk" order="0x8" val="204"/>
+    <set stat="mAtk" order="0x8" val="89"/>
+    <set stat="rCrit" order="0x8" val="8"/>
+    <add stat="accCombat" order="0x10" val="0"/>
+    <set stat="pAtkSpd" order="0x8" val="325"/>
+    <add stat="rCrit" order="0x40" val="65"/>
+    <enchant stat="pAtk" order="0xc" val="0"/>
+    <enchant stat="mAtk" order="0xc" val="0"/>
+   </stats>
+  </weapon>
+  <weapon id="2597" name="Spirit Sword*Tsurugi" weaponType="DualSword" >
+   <set icon="icon.weapon_dual_sword_i00"/>
+   <set bodyPart="LRHAND" grade="B"/>
+   <set crystallizable="true" crystal_count="803" />
+   <set weight="2220" price="7830000"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <stats>
+    <set stat="pAtk" order="0x8" val="204"/>
+    <set stat="mAtk" order="0x8" val="89"/>
+    <set stat="rCrit" order="0x8" val="8"/>
+    <add stat="accCombat" order="0x10" val="0"/>
+    <set stat="pAtkSpd" order="0x8" val="325"/>
+    <enchant stat="pAtk" order="0xc" val="0"/>
+    <enchant stat="mAtk" order="0xc" val="0"/>
+   </stats>
+  </weapon>
+  <weapon id="2598" name="Spirit Sword*Samurai Long Sword" weaponType="DualSword" >
+   <set icon="icon.weapon_dual_sword_i00"/>
+   <set bodyPart="LRHAND" grade="B"/>
+   <set crystallizable="true" crystal_count="979" />
+   <set weight="2110" price="9550000"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <stats>
+    <set stat="pAtk" order="0x8" val="220"/>
+    <set stat="mAtk" order="0x8" val="94"/>
+    <set stat="rCrit" order="0x8" val="8"/>
+    <add stat="accCombat" order="0x10" val="0"/>
+    <set stat="pAtkSpd" order="0x8" val="325"/>
+    <enchant stat="pAtk" order="0xc" val="0"/>
+    <enchant stat="mAtk" order="0xc" val="0"/>
+   </stats>
+  </weapon>
+  <weapon id="2599" name="Raid Sword*Raid Sword" weaponType="DualSword" >
+   <set icon="icon.weapon_dual_sword_i00"/>
+   <set bodyPart="LRHAND" grade="C"/>
+   <set crystallizable="true" crystal_count="1885" />
+   <set weight="2250" price="6130000"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <stats>
+    <set stat="pAtk" order="0x8" val="190"/>
+    <set stat="mAtk" order="0x8" val="83"/>
+    <set stat="rCrit" order="0x8" val="8"/>
+    <add stat="accCombat" order="0x10" val="0"/>
+    <set stat="pAtkSpd" order="0x8" val="325"/>
+    <enchant stat="pAtk" order="0xc" val="0"/>
+    <enchant stat="mAtk" order="0xc" val="0"/>
+   </stats>
+  </weapon>
+  <weapon id="2600" name="Raid Sword*Caliburs" weaponType="DualSword" >
+   <set icon="icon.weapon_dual_sword_i00"/>
+   <set bodyPart="LRHAND" grade="B"/>
+   <set crystallizable="true" crystal_count="803" />
+   <set weight="2190" price="7830000"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <stats>
+    <set stat="pAtk" order="0x8" val="204"/>
+    <set stat="mAtk" order="0x8" val="89"/>
+    <set stat="rCrit" order="0x8" val="8"/>
+    <set stat="pAtkSpd" order="0x8" val="325"/>
+    <add stat="accCombat" order="0x10" val="4"/>
+    <enchant stat="pAtk" order="0xc" val="0"/>
+    <enchant stat="mAtk" order="0xc" val="0"/>
+   </stats>
+  </weapon>
+  <weapon id="2601" name="Raid Sword*Sword of Limit" weaponType="DualSword" >
+   <set icon="icon.weapon_dual_sword_i00"/>
+   <set bodyPart="LRHAND" grade="B"/>
+   <set crystallizable="true" crystal_count="803" />
+   <set weight="2170" price="7830000"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <stats>
+    <set stat="pAtk" order="0x8" val="204"/>
+    <set stat="mAtk" order="0x8" val="89"/>
+    <set stat="rCrit" order="0x8" val="8"/>
+    <add stat="accCombat" order="0x10" val="0"/>
+    <set stat="pAtkSpd" order="0x8" val="325"/>
+    <add stat="cAtkAdd" order="0x10" val="146"/>
+    <enchant stat="pAtk" order="0xc" val="0"/>
+    <enchant stat="mAtk" order="0xc" val="0"/>
+   </stats>
+  </weapon>
+  <weapon id="2602" name="Raid Sword*Sword of Delusion" weaponType="DualSword" >
+   <set icon="icon.weapon_dual_sword_i00"/>
+   <set bodyPart="LRHAND" grade="B"/>
+   <set crystallizable="true" crystal_count="803" />
+   <set weight="2180" price="7830000"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <stats>
+    <set stat="pAtk" order="0x8" val="204"/>
+    <set stat="mAtk" order="0x8" val="89"/>
+    <set stat="rCrit" order="0x8" val="8"/>
+    <add stat="accCombat" order="0x10" val="0"/>
+    <set stat="pAtkSpd" order="0x8" val="325"/>
+    <enchant stat="pAtk" order="0xc" val="0"/>
+    <enchant stat="mAtk" order="0xc" val="0"/>
+   </stats>
+  </weapon>
+  <weapon id="2603" name="Raid Sword*Sword of Nightmare" weaponType="DualSword" >
+   <set icon="icon.weapon_dual_sword_i00"/>
+   <set bodyPart="LRHAND" grade="B"/>
+   <set crystallizable="true" crystal_count="803" />
+   <set weight="2170" price="7830000"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <stats>
+    <set stat="pAtk" order="0x8" val="204"/>
+    <set stat="mAtk" order="0x8" val="89"/>
+    <set stat="rCrit" order="0x8" val="8"/>
+    <add stat="accCombat" order="0x10" val="0"/>
+    <set stat="pAtkSpd" order="0x8" val="325"/>
+    <add stat="rCrit" order="0x40" val="65"/>
+    <enchant stat="pAtk" order="0xc" val="0"/>
+    <enchant stat="mAtk" order="0xc" val="0"/>
+   </stats>
+  </weapon>
+  <weapon id="2604" name="Raid Sword*Tsurugi" weaponType="DualSword" >
+   <set icon="icon.weapon_dual_sword_i00"/>
+   <set bodyPart="LRHAND" grade="B"/>
+   <set crystallizable="true" crystal_count="803" />
+   <set weight="2170" price="7830000"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <stats>
+    <set stat="pAtk" order="0x8" val="204"/>
+    <set stat="mAtk" order="0x8" val="89"/>
+    <set stat="rCrit" order="0x8" val="8"/>
+    <add stat="accCombat" order="0x10" val="0"/>
+    <set stat="pAtkSpd" order="0x8" val="325"/>
+    <enchant stat="pAtk" order="0xc" val="0"/>
+    <enchant stat="mAtk" order="0xc" val="0"/>
+   </stats>
+  </weapon>
+  <weapon id="2605" name="Raid Sword*Samurai Long Sword" weaponType="DualSword" >
+   <set icon="icon.weapon_dual_sword_i00"/>
+   <set bodyPart="LRHAND" grade="B"/>
+   <set crystallizable="true" crystal_count="979" />
+   <set weight="2130" price="9550000"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <stats>
+    <set stat="pAtk" order="0x8" val="220"/>
+    <set stat="mAtk" order="0x8" val="94"/>
+    <set stat="rCrit" order="0x8" val="8"/>
+    <add stat="accCombat" order="0x10" val="0"/>
+    <set stat="pAtkSpd" order="0x8" val="325"/>
+    <add stat="rCrit" order="0x40" val="43"/>
+    <enchant stat="pAtk" order="0xc" val="0"/>
+    <enchant stat="mAtk" order="0xc" val="0"/>
+   </stats>
+  </weapon>
+  <weapon id="2606" name="Caliburs*Caliburs" weaponType="DualSword" >
+   <set icon="icon.weapon_dual_sword_i00"/>
+   <set bodyPart="LRHAND" grade="B"/>
+   <set crystallizable="true" crystal_count="891" />
+   <set weight="2140" price="8680000"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <stats>
+    <set stat="pAtk" order="0x8" val="213"/>
+    <set stat="mAtk" order="0x8" val="91"/>
+    <set stat="rCrit" order="0x8" val="8"/>
+    <add stat="accCombat" order="0x10" val="0"/>
+    <set stat="pAtkSpd" order="0x8" val="325"/>
+    <add stat="cAtkAdd" order="0x10" val="127"/>
+    <enchant stat="pAtk" order="0xc" val="0"/>
+    <enchant stat="mAtk" order="0xc" val="0"/>
+   </stats>
+  </weapon>
+  <weapon id="2607" name="Caliburs*Sword of Limit" weaponType="DualSword" >
+   <set icon="icon.weapon_dual_sword_i00"/>
+   <set bodyPart="LRHAND" grade="B"/>
+   <set crystallizable="true" crystal_count="891" />
+   <set weight="2150" price="8680000"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <stats>
+    <set stat="pAtk" order="0x8" val="213"/>
+    <set stat="mAtk" order="0x8" val="91"/>
+    <set stat="rCrit" order="0x8" val="8"/>
+    <add stat="accCombat" order="0x10" val="0"/>
+    <set stat="pAtkSpd" order="0x8" val="325"/>
+    <enchant stat="pAtk" order="0xc" val="0"/>
+    <enchant stat="mAtk" order="0xc" val="0"/>
+   </stats>
+  </weapon>
+  <weapon id="2608" name="Caliburs*Sword of Delusion" weaponType="DualSword" >
+   <set icon="icon.weapon_dual_sword_i00"/>
+   <set bodyPart="LRHAND" grade="B"/>
+   <set crystallizable="true" crystal_count="891" />
+   <set weight="2140" price="8680000"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <stats>
+    <set stat="pAtk" order="0x8" val="213"/>
+    <set stat="mAtk" order="0x8" val="91"/>
+    <set stat="rCrit" order="0x8" val="8"/>
+    <add stat="accCombat" order="0x10" val="0"/>
+    <set stat="pAtkSpd" order="0x8" val="325"/>
+    <add stat="rCrit" order="0x40" val="54"/>
+    <enchant stat="pAtk" order="0xc" val="0"/>
+    <enchant stat="mAtk" order="0xc" val="0"/>
+   </stats>
+  </weapon>
+  <weapon id="2609" name="Caliburs*Sword of Nightmare" weaponType="DualSword" >
+   <set icon="icon.weapon_dual_sword_i00"/>
+   <set bodyPart="LRHAND" grade="B"/>
+   <set crystallizable="true" crystal_count="891" />
+   <set weight="2170" price="8680000"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <stats>
+    <set stat="pAtk" order="0x8" val="213"/>
+    <set stat="mAtk" order="0x8" val="91"/>
+    <set stat="rCrit" order="0x8" val="8"/>
+    <add stat="accCombat" order="0x10" val="0"/>
+    <set stat="pAtkSpd" order="0x8" val="325"/>
+    <enchant stat="pAtk" order="0xc" val="0"/>
+    <enchant stat="mAtk" order="0xc" val="0"/>
+   </stats>
+  </weapon>
+  <weapon id="2610" name="Caliburs*Tsurugi" weaponType="DualSword" >
+   <set icon="icon.weapon_dual_sword_i00"/>
+   <set bodyPart="LRHAND" grade="B"/>
+   <set crystallizable="true" crystal_count="891" />
+   <set weight="2150" price="8680000"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <stats>
+    <set stat="pAtk" order="0x8" val="213"/>
+    <set stat="mAtk" order="0x8" val="91"/>
+    <set stat="rCrit" order="0x8" val="8"/>
+    <set stat="pAtkSpd" order="0x8" val="325"/>
+    <add stat="accCombat" order="0x10" val="4"/>
+    <enchant stat="pAtk" order="0xc" val="0"/>
+    <enchant stat="mAtk" order="0xc" val="0"/>
+   </stats>
+  </weapon>
+  <weapon id="2611" name="Caliburs*Samurai Long Sword" weaponType="DualSword" >
+   <set icon="icon.weapon_dual_sword_i00"/>
+   <set bodyPart="LRHAND" grade="B"/>
+   <set crystallizable="true" crystal_count="1164" />
+   <set weight="2120" price="11300000"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <stats>
+    <set stat="pAtk" order="0x8" val="228"/>
+    <set stat="mAtk" order="0x8" val="97"/>
+    <set stat="rCrit" order="0x8" val="8"/>
+    <add stat="accCombat" order="0x10" val="0"/>
+    <set stat="pAtkSpd" order="0x8" val="325"/>
+    <enchant stat="pAtk" order="0xc" val="0"/>
+    <enchant stat="mAtk" order="0xc" val="0"/>
+   </stats>
+  </weapon>
+  <weapon id="2612" name="Sword of Limit*Sword of Limit" weaponType="DualSword" >
+   <set icon="icon.weapon_dual_sword_i00"/>
+   <set bodyPart="LRHAND" grade="B"/>
+   <set crystallizable="true" crystal_count="891" />
+   <set weight="2140" price="8680000"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <stats>
+    <set stat="pAtk" order="0x8" val="213"/>
+    <set stat="mAtk" order="0x8" val="91"/>
+    <set stat="rCrit" order="0x8" val="8"/>
+    <add stat="accCombat" order="0x10" val="0"/>
+    <set stat="pAtkSpd" order="0x8" val="325"/>
+    <add stat="cAtkAdd" order="0x10" val="127"/>
+    <enchant stat="pAtk" order="0xc" val="0"/>
+    <enchant stat="mAtk" order="0xc" val="0"/>
+   </stats>
+  </weapon>
+  <weapon id="2613" name="Sword of Limit*Sword of Delusion" weaponType="DualSword" >
+   <set icon="icon.weapon_dual_sword_i00"/>
+   <set bodyPart="LRHAND" grade="B"/>
+   <set crystallizable="true" crystal_count="891" />
+   <set weight="2140" price="8680000"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <stats>
+    <set stat="pAtk" order="0x8" val="213"/>
+    <set stat="mAtk" order="0x8" val="91"/>
+    <set stat="rCrit" order="0x8" val="8"/>
+    <add stat="accCombat" order="0x10" val="0"/>
+    <set stat="pAtkSpd" order="0x8" val="325"/>
+    <enchant stat="pAtk" order="0xc" val="0"/>
+    <enchant stat="mAtk" order="0xc" val="0"/>
+   </stats>
+  </weapon>
+  <weapon id="2614" name="Sword of Limit*Sword of Nightmare" weaponType="DualSword" >
+   <set icon="icon.weapon_dual_sword_i00"/>
+   <set bodyPart="LRHAND" grade="B"/>
+   <set crystallizable="true" crystal_count="891" />
+   <set weight="2130" price="8680000"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <stats>
+    <set stat="pAtk" order="0x8" val="213"/>
+    <set stat="mAtk" order="0x8" val="91"/>
+    <set stat="rCrit" order="0x8" val="8"/>
+    <add stat="accCombat" order="0x10" val="0"/>
+    <set stat="pAtkSpd" order="0x8" val="325"/>
+    <add stat="rCrit" order="0x40" val="54"/>
+    <enchant stat="pAtk" order="0xc" val="0"/>
+    <enchant stat="mAtk" order="0xc" val="0"/>
+   </stats>
+  </weapon>
+  <weapon id="2615" name="Sword of Limit*Tsurugi" weaponType="DualSword" >
+   <set icon="icon.weapon_dual_sword_i00"/>
+   <set bodyPart="LRHAND" grade="B"/>
+   <set crystallizable="true" crystal_count="891" />
+   <set weight="2120" price="8680000"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <stats>
+    <set stat="pAtk" order="0x8" val="213"/>
+    <set stat="mAtk" order="0x8" val="91"/>
+    <set stat="rCrit" order="0x8" val="8"/>
+    <add stat="accCombat" order="0x10" val="0"/>
+    <set stat="pAtkSpd" order="0x8" val="325"/>
+    <enchant stat="pAtk" order="0xc" val="0"/>
+    <enchant stat="mAtk" order="0xc" val="0"/>
+   </stats>
+  </weapon>
+  <weapon id="2616" name="Sword of Limit*Samurai Long Sword" weaponType="DualSword" >
+   <set icon="icon.weapon_dual_sword_i00"/>
+   <set bodyPart="LRHAND" grade="B"/>
+   <set crystallizable="true" crystal_count="1164" />
+   <set weight="2100" price="11300000"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <stats>
+    <set stat="pAtk" order="0x8" val="228"/>
+    <set stat="mAtk" order="0x8" val="97"/>
+    <set stat="rCrit" order="0x8" val="8"/>
+    <set stat="pAtkSpd" order="0x8" val="325"/>
+    <add stat="accCombat" order="0x10" val="3"/>
+    <enchant stat="pAtk" order="0xc" val="0"/>
+    <enchant stat="mAtk" order="0xc" val="0"/>
+   </stats>
+  </weapon>
+  <weapon id="2617" name="Sword of Delusion*Sword of Delusion" weaponType="DualSword" >
+   <set icon="icon.weapon_dual_sword_i00"/>
+   <set bodyPart="LRHAND" grade="B"/>
+   <set crystallizable="true" crystal_count="891" />
+   <set weight="2150" price="8680000"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <stats>
+    <set stat="pAtk" order="0x8" val="213"/>
+    <set stat="mAtk" order="0x8" val="91"/>
+    <set stat="rCrit" order="0x8" val="8"/>
+    <set stat="pAtkSpd" order="0x8" val="325"/>
+    <add stat="accCombat" order="0x10" val="4"/>
+    <enchant stat="pAtk" order="0xc" val="0"/>
+    <enchant stat="mAtk" order="0xc" val="0"/>
+   </stats>
+  </weapon>
+  <weapon id="2618" name="Sword of Delusion*Sword of Nightmare" weaponType="DualSword" >
+   <set icon="icon.weapon_dual_sword_i00"/>
+   <set bodyPart="LRHAND" grade="B"/>
+   <set crystallizable="true" crystal_count="891" />
+   <set weight="2130" price="8680000"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <stats>
+    <set stat="pAtk" order="0x8" val="213"/>
+    <set stat="mAtk" order="0x8" val="91"/>
+    <set stat="rCrit" order="0x8" val="8"/>
+    <add stat="accCombat" order="0x10" val="0"/>
+    <set stat="pAtkSpd" order="0x8" val="325"/>
+    <add stat="cAtkAdd" order="0x10" val="127"/>
+    <enchant stat="pAtk" order="0xc" val="0"/>
+    <enchant stat="mAtk" order="0xc" val="0"/>
+   </stats>
+  </weapon>
+  <weapon id="2619" name="Sword of Delusion*Tsurugi" weaponType="DualSword" >
+   <set icon="icon.weapon_dual_sword_i00"/>
+   <set bodyPart="LRHAND" grade="B"/>
+   <set crystallizable="true" crystal_count="891" />
+   <set weight="2140" price="8680000"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <stats>
+    <set stat="pAtk" order="0x8" val="213"/>
+    <set stat="mAtk" order="0x8" val="91"/>
+    <set stat="rCrit" order="0x8" val="8"/>
+    <add stat="accCombat" order="0x10" val="0"/>
+    <set stat="pAtkSpd" order="0x8" val="325"/>
+    <enchant stat="pAtk" order="0xc" val="0"/>
+    <enchant stat="mAtk" order="0xc" val="0"/>
+   </stats>
+  </weapon>
+  <weapon id="2620" name="Sword of Delusion*Samurai Long Sword" weaponType="DualSword" >
+   <set icon="icon.weapon_dual_sword_i00"/>
+   <set bodyPart="LRHAND" grade="B"/>
+   <set crystallizable="true" crystal_count="1164" />
+   <set weight="2110" price="11300000"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <stats>
+    <set stat="pAtk" order="0x8" val="228"/>
+    <set stat="mAtk" order="0x8" val="97"/>
+    <set stat="rCrit" order="0x8" val="8"/>
+    <add stat="accCombat" order="0x10" val="0"/>
+    <set stat="pAtkSpd" order="0x8" val="325"/>
+    <add stat="cAtkAdd" order="0x10" val="133"/>
+    <enchant stat="pAtk" order="0xc" val="0"/>
+    <enchant stat="mAtk" order="0xc" val="0"/>
+   </stats>
+  </weapon>
+  <weapon id="2621" name="Sword of Nightmare*Sword of Nightmare" weaponType="DualSword" >
+   <set icon="icon.weapon_dual_sword_i00"/>
+   <set bodyPart="LRHAND" grade="B"/>
+   <set crystallizable="true" crystal_count="891" />
+   <set weight="2130" price="8680000"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <stats>
+    <set stat="pAtk" order="0x8" val="213"/>
+    <set stat="mAtk" order="0x8" val="91"/>
+    <set stat="rCrit" order="0x8" val="8"/>
+    <add stat="accCombat" order="0x10" val="0"/>
+    <set stat="pAtkSpd" order="0x8" val="325"/>
+    <add stat="rCrit" order="0x40" val="54"/>
+    <enchant stat="pAtk" order="0xc" val="0"/>
+    <enchant stat="mAtk" order="0xc" val="0"/>
+   </stats>
+  </weapon>
+  <weapon id="2622" name="Sword of Nightmare*Tsurugi" weaponType="DualSword" >
+   <set icon="icon.weapon_dual_sword_i00"/>
+   <set bodyPart="LRHAND" grade="B"/>
+   <set crystallizable="true" crystal_count="891" />
+   <set weight="2140" price="8680000"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <stats>
+    <set stat="pAtk" order="0x8" val="213"/>
+    <set stat="mAtk" order="0x8" val="91"/>
+    <set stat="rCrit" order="0x8" val="8"/>
+    <add stat="accCombat" order="0x10" val="0"/>
+    <set stat="pAtkSpd" order="0x8" val="325"/>
+    <enchant stat="pAtk" order="0xc" val="0"/>
+    <enchant stat="mAtk" order="0xc" val="0"/>
+   </stats>
+  </weapon>
+  <weapon id="2623" name="Sword of Nightmare*Samurai Long Sword" weaponType="DualSword" >
+   <set icon="icon.weapon_dual_sword_i00"/>
+   <set bodyPart="LRHAND" grade="B"/>
+   <set crystallizable="true" crystal_count="1164" />
+   <set weight="2080" price="11300000"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <stats>
+    <set stat="pAtk" order="0x8" val="228"/>
+    <set stat="mAtk" order="0x8" val="97"/>
+    <set stat="rCrit" order="0x8" val="8"/>
+    <add stat="accCombat" order="0x10" val="0"/>
+    <set stat="pAtkSpd" order="0x8" val="325"/>
+    <enchant stat="pAtk" order="0xc" val="0"/>
+    <enchant stat="mAtk" order="0xc" val="0"/>
+   </stats>
+  </weapon>
+  <weapon id="2624" name="Tsurugi*Tsurugi" weaponType="DualSword" >
+   <set icon="icon.weapon_dual_sword_i00"/>
+   <set bodyPart="LRHAND" grade="B"/>
+   <set crystallizable="true" crystal_count="891" />
+   <set weight="2120" price="8680000"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <stats>
+    <set stat="pAtk" order="0x8" val="213"/>
+    <set stat="mAtk" order="0x8" val="91"/>
+    <set stat="rCrit" order="0x8" val="8"/>
+    <add stat="accCombat" order="0x10" val="0"/>
+    <set stat="pAtkSpd" order="0x8" val="325"/>
+    <add stat="rCrit" order="0x40" val="54"/>
+    <enchant stat="pAtk" order="0xc" val="0"/>
+    <enchant stat="mAtk" order="0xc" val="0"/>
+   </stats>
+  </weapon>
+  <weapon id="2625" name="Tsurugi*Samurai Long Sword" weaponType="DualSword" >
+   <set icon="icon.weapon_dual_sword_i00"/>
+   <set bodyPart="LRHAND" grade="B"/>
+   <set crystallizable="true" crystal_count="1164" />
+   <set weight="2090" price="11300000"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <stats>
+    <set stat="pAtk" order="0x8" val="228"/>
+    <set stat="mAtk" order="0x8" val="97"/>
+    <set stat="rCrit" order="0x8" val="8"/>
+    <add stat="accCombat" order="0x10" val="0"/>
+    <set stat="pAtkSpd" order="0x8" val="325"/>
+    <add stat="rCrit" order="0x40" val="52"/>
+    <enchant stat="pAtk" order="0xc" val="0"/>
+    <enchant stat="mAtk" order="0xc" val="0"/>
+   </stats>
+  </weapon>
+  <weapon id="2626" name="Samurai Long Sword*Samurai Long Sword" weaponType="DualSword" >
+   <set icon="icon.weapon_dual_sword_i00"/>
+   <set bodyPart="LRHAND" grade="B"/>
+   <set crystallizable="true" crystal_count="1346" />
+   <set weight="2080" price="13100000"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <stats>
+    <set stat="pAtk" order="0x8" val="236"/>
+    <set stat="mAtk" order="0x8" val="99"/>
+    <set stat="rCrit" order="0x8" val="8"/>
+    <add stat="accCombat" order="0x10" val="0"/>
+    <set stat="pAtkSpd" order="0x8" val="325"/>
+    <enchant stat="pAtk" order="0xc" val="0"/>
+    <enchant stat="mAtk" order="0xc" val="0"/>
+   </stats>
+  </weapon>
+  <weapon id="2915" name="Old Knight Sword" weaponType="Sword" >
+   <set icon="icon.weapon_long_sword_i00"/>
+   <set bodyPart="RHAND" grade="NONE"/>
+   <set crystallizable="false" />
+   <set weight="3200" price="136000"/>
+   <set sellable="false" tradeable="false" />
+   <set dropable="false" destroyable="false"/>
+
+   <stats>
+    <set stat="pAtk" order="0x8" val="24"/>
+    <set stat="mAtk" order="0x8" val="17"/>
+    <set stat="rCrit" order="0x8" val="8"/>
+    <add stat="accCombat" order="0x10" val="0"/>
+    <set stat="pAtkSpd" order="0x8" val="379"/>
+    <enchant stat="pAtk" order="0xc" val="0"/>
+    <enchant stat="mAtk" order="0xc" val="0"/>
+   </stats>
+  </weapon>
+</list>

@@ -1,0 +1,38 @@
+<html><title>Панель управления сервером</title><body>
+<center>
+<table width=270>
+<tr>
+<td width=45><button value="Main" action="bypass -h admin_admin" width=45 height=19 back="sek.cbui94" fore="sek.cbui94"></td>
+<td width=180><center><font color="LEVEL">Игрок: %name%</font></center></td>
+<td width=45><button value="Back" action="bypass -h admin_current_player" width=45 height=19 back="sek.cbui94" fore="sek.cbui94"></td>
+</tr>
+</table>
+
+<br><font color="LEVEL">Lvl/Exp/Sp/Class персонажа</font>
+<table width=270>
+<tr>
+<td width=90><font color="87CEFA">Exp:</font> %xp%</td>
+<td width=90><font color="87CEFA">SP:</font> %sp%</td>
+</tr>
+</table>
+
+<br><font color="LEVEL">Изменить Exp/Sp персонажа</font>
+<table width=270><tr>
+<td width=30>Exp:</td><td><edit var="exp_to_add" width=50></td>
+<td width=30>SP:</td><td><edit var="sp_to_add" width=50></td>
+<td><button value="Add" action="bypass -h admin_add_exp_sp $exp_to_add $sp_to_add" width=50 height=21 back="sek.cbui94" fore="sek.cbui94"></td>
+<td><button value="Remove" action="bypass -h admin_remove_exp_sp $exp_to_add $sp_to_add" width=70 height=21 back="sek.cbui94" fore="sek.cbui94"></td>
+</tr></table></center>
+<font color="B22222">[*]:</font> <font color="CCCC99">Оба поля обязательны к заполнению</font>
+<br1><font color="B22222">[*]:</font> <font color="CCCC99">Вы можете просто установить уровень игроку</font>
+
+<center>
+<br><font color="LEVEL">Изменить Level персонажа</font>
+<table width=270><tr>
+<td width=30>Lvl:</td><td><edit var="lv" width=50></td>
+<td><button value="Set" action="bypass -h admin_setlevel $lv" width=60 height=21 back="sek.cbui94" fore="sek.cbui94"></td>
+<td><button value="Add" action="bypass -h admin_addlevel $lv" width=60 height=21 back="sek.cbui94" fore="sek.cbui94"></td>
+<td><button value="Rem" action="bypass -h admin_remlevel $lv" width=60 height=21 back="sek.cbui94" fore="sek.cbui94"></td>
+</tr></table></center>
+<font color="B22222">[*]:</font> <font color="CCCC99">Максимальный уровень</font> <font color="LEVEL">81</font>
+</body></html>

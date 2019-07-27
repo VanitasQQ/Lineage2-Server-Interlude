@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+  L2J XML armors DTD
+
+  This defines a simple and consistent way of creating a namespace
+  of weapons objects, managed by L2J
+
+  Each "item" element in this document defines a weapon item.
+
+  XML documents that conform to this DTD should declare the following doctype:
+
+  <!DOCTYPE list SYSTEM "weapons.dtd">
+-->
+
+<!--
+  The document root. A document can contain item definitions only.
+-->
+<!ELEMENT list (item)*>
+
+
+<!--
+  The document item. A item can contain "for, add, sub, div, set or mul" element.
+  add, sub, div and mul can modify a stat
+-->
+<!ELEMENT item (for|add|sub|div|mul|set)*>
+
+<!--
+  The document for. A item can contain "add,mull,enchant,sub and div" element
+-->
+<!ELEMENT for (add|mul|enchant|sub|div|set|skill)*>
+
+
+<!--
+  add, div, sub, mul could coutain condition "and" and "or"
+-->
+<!ELEMENT add (and|or)*>
+<!ELEMENT div (and|or)*>
+<!ELEMENT sub (and|or)*>
+<!ELEMENT mul (and|or)*>
+<!ELEMENT set (and|or)*>
+
+<!--
+  enchant are empty
+-->
+<!ELEMENT enchant EMPTY>
+
+<!--
+  and conditions could specified use of an item or his kind, the target or a not condition
+-->
+<!ELEMENT and (using|target|not|player|game)*>
+<!--
+  the "not" condition could specified the use of an item
+-->
+<!ELEMENT not (using)*>
+<!--
+  the "or" could specified several "and" condition
+-->
+<!ELEMENT or (and)*>
+<!--
+  target specified the type of the target (dagger ?)
+-->
+<!ELEMENT target EMPTY>
+
+<!ELEMENT player EMPTY>
+
+<!ELEMENT skill EMPTY>
+<!ELEMENT game EMPTY>
+
+<!--
+  using specified the item, the position on paperdoll and the level of enchant
+  (should used three attributes instead of one...)
+-->
+<!ELEMENT using EMPTY>
+
+<!--
+ id and name are mandatory for an item
+-->
+<!ATTLIST item id CDATA #REQUIRED>
+<!ATTLIST item name CDATA #REQUIRED>
+
+<!--
+ all operations must specified val order and stat
+-->
+<!ATTLIST set val CDATA #REQUIRED>
+<!ATTLIST set order CDATA #REQUIRED>
+<!ATTLIST set stat CDATA #REQUIRED>
+
+<!ATTLIST add val CDATA #REQUIRED>
+<!ATTLIST add order CDATA #REQUIRED>
+<!ATTLIST add stat CDATA #REQUIRED>
+
+<!ATTLIST div val CDATA #REQUIRED>
+<!ATTLIST div order CDATA #IMPLIED>
+<!ATTLIST div stat CDATA #REQUIRED>
+
+<!ATTLIST sub val CDATA #REQUIRED>
+<!ATTLIST sub order CDATA #IMPLIED>
+<!ATTLIST sub stat CDATA #REQUIRED>
+
+<!ATTLIST mul val CDATA #REQUIRED>
+<!ATTLIST mul order CDATA #IMPLIED>
+<!ATTLIST mul stat CDATA #REQUIRED>
+
+<!ATTLIST enchant val CDATA #REQUIRED>
+<!ATTLIST enchant order CDATA #IMPLIED>
+<!ATTLIST enchant stat CDATA #REQUIRED>
+
+<!--
+ A weapon could launch a skill under some conditions
+ onCrit = 0 or 1 if skill is on critical hits
+ onCast = 0 or 1 if skill is launch on casting
+ id is the id of the skill
+ lvl is the level of the skill
+ chance is the percentage of success to launch the skills (but not the percentage
+ of success of the skill)
+-->
+<!ATTLIST skill onCrit (0|1) #IMPLIED>
+<!ATTLIST skill onCast (0|1) #IMPLIED>
+<!ATTLIST skill id CDATA #REQUIRED>
+<!ATTLIST skill lvl CDATA #REQUIRED>
+<!ATTLIST skill chance CDATA #IMPLIED>
+
+<!--
+ ???
+-->
+<!ATTLIST game chance CDATA #IMPLIED>
+<!ATTLIST game skill CDATA #IMPLIED>
+
+<!--
+ the use of an item could be specified for a kind of item or a dependency with another item
+-->
+<!ATTLIST using slotitem CDATA #IMPLIED>
+<!ATTLIST using kind CDATA #IMPLIED>
+
+<!--
+
+-->
+<!ATTLIST target using CDATA #IMPLIED>
+
+<!--
+ Modification of stats could be conditionned by hp or position of the player
+-->
+<!ATTLIST player behind (True | False) #IMPLIED>
+<!ATTLIST player hp CDATA #IMPLIED>
+

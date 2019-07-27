@@ -1,0 +1,61 @@
+<html><title>Панель управления сервером</title><body>
+<center>
+<font color="CCCC99">CopyRight L2CatsSoftware © 2009-2010</font>
+<!-- top menu -->
+<table width=240>
+<tr>
+<td><button value="Главная" action="bypass -h admin_admin" width=60 height=19 back="sek.cbui94" fore="sek.cbui94"></td>
+<td><button value="Игровая" action="bypass -h admin_gamemenu" width=60 height=19 back="sek.cbui94" fore="sek.cbui94"></td>
+<td><button value="Эфекты" action="bypass -h admin_effects" width=60 height=19 back="sek.cbui94" fore="sek.cbui94"></td>
+<td><button value="Эвенты" action="bypass -h admin_events" width=60 height=19 back="sek.cbui94" fore="sek.cbui94"></td>
+</tr>
+<tr>
+<td><button value="Сервер" action="bypass -h admin_server" width=60 height=19 back="sek.cbui94" fore="sek.cbui94"></td>
+<td><button value="Контроль" action="bypass -h admin_control" width=60 height=19 back="sek.cbui94" fore="sek.cbui94"></td>
+<td><button value="Игроки" action="bypass -h admin_players" width=60 height=19 back="sek.cbui94" fore="sek.cbui94"></td>
+<td><button value="Конфиги" action="bypass -h admin_config" width=60 height=19 back="sek.cbui94" fore="sek.cbui94"></td>
+</tr>
+</table>
+
+<!-- Windows Info -->
+<br><font color="LEVEL">Уровень заточки [0-65535]</font>
+<edit var="qbox" width=260 height=16><br>
+
+<table>
+  <tr>
+    <td align=center width=90></td>
+    <td width=90><button value="Шлем" action="bypass -h admin_seteh $qbox" width=90 height=19 back="sek.cbui94" fore="sek.cbui94"></td>
+    <td align=center width=90></td>
+  </tr>
+  <tr>
+    <td width=90><button value="Нижнее бельё" action="bypass -h admin_setun $qbox" width=90 height=19 back="sek.cbui94" fore="sek.cbui94"></td>
+    <td width=90><button value="Нагрудник" action="bypass -h admin_setec $qbox" width=90 height=19 back="sek.cbui94" fore="sek.cbui94"></td>
+    <td width=90><button value="Плащ" action="bypass -h admin_setba $qbox" width=90 height=19 back="sek.cbui94" fore="sek.cbui94"></td>
+  </tr>
+  <tr>
+    <td width=90><button value="Перчатки" action="bypass -h admin_seteg $qbox" width=90 height=19 back="sek.cbui94" fore="sek.cbui94"></td>
+    <td width=90><button value="Штаны" action="bypass -h admin_setel $qbox" width=90 height=19 back="sek.cbui94" fore="sek.cbui94"></td>
+    <td width=90><button value="Боты" action="bypass -h admin_seteb $qbox" width=90 height=19 back="sek.cbui94" fore="sek.cbui94"></td>
+  </tr>
+</table>
+<table>
+  <tr>
+   <td width=90><button value="Оружие" action="bypass -h admin_setew $qbox" width=90 height=19 back="sek.cbui94" fore="sek.cbui94"></td>
+   <td width=90>&nbsp;</td>
+   <td width=90><button value="Щит" action="bypass -h admin_setes $qbox" width=90 height=19 back="sek.cbui94" fore="sek.cbui94"></td>
+  </tr>
+</table>
+<br>
+<table>
+  <tr>
+    <td width=90><button value="Серьги" action="bypass -h admin_setle $qbox" width=90 height=19 back="sek.cbui94" fore="sek.cbui94"></td>
+   <td width=90><button value="Ожерелье" action="bypass -h admin_seten $qbox" width=90 height=19 back="sek.cbui94" fore="sek.cbui94"></td>
+   <td width=90><button value="Серьги" action="bypass -h admin_setre $qbox" width=90 height=19 back="sek.cbui94" fore="sek.cbui94"></td>
+  </tr>
+  <tr>
+    <td width=90><button value="Кольцо" action="bypass -h admin_setrf $qbox" width=90 height=19 back="sek.cbui94" fore="sek.cbui94"></td>
+   <td align=center width=90>&nbsp;</td>
+   <td width=90><button value="Кольцо" action="bypass -h admin_setlf $qbox" width=90 height=19 back="sek.cbui94" fore="sek.cbui94"></td>
+  </tr>
+</table>
+</center></body></html>

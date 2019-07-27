@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE list SYSTEM "armors.dtd">
+<list>
+<item id='8177' name="Raid Challenger's Circlet">
+  <for>
+    <add val='0' order='0x10' stat='pDef'/>
+  </for>
+</item>
+<item id='8178' name="Raid Adventurer's Circlet">
+  <for>
+    <add val='0' order='0x10' stat='pDef'/>
+  </for>
+</item>
+<item id='8179' name="Raid Master's Circlet">
+  <for>
+    <add val='0' order='0x10' stat='pDef'/>
+  </for>
+</item>
+<item id='8180' name="Circlet of Ice Fairy Sirra">
+  <for>
+    <add val='0' order='0x10' stat='pDef'/>
+  </for>
+</item>
+<item id='8181' name="Academy Circlet">
+  <for>
+    <add val='0' order='0x10' stat='pDef'/>
+  </for>
+</item>
+<item id='8182' name="Circlet of Rune">
+  <cond msgId="1518">
+    <and>
+      <player castle = "8"/>
+      <player pledgeClass = "2"/>
+    </and>
+  </cond>
+  <for>
+    <add val='0' order='0x10' stat='pDef'/>
+  </for>
+</item>
+<item id='8183' name="Circlet of Schuttgart">
+  <cond msgId="1518">
+    <and>
+      <player castle = "9"/>
+      <player pledgeClass = "2"/>
+    </and>
+  </cond>
+  <for>
+    <add val='0' order='0x10' stat='pDef'/>
+  </for>
+</item>
+<item id='8184' name="Party Hat">
+  <for>
+    <add val='0' order='0x10' stat='pDef'/>
+  </for>
+</item>
+<item id='8185' name="Feathered Hat">
+  <for>
+    <add val='0' order='0x10' stat='pDef'/>
+  </for>
+</item>
+<item id='8186' name="Artisan's Goggles">
+  <for>
+    <add val='0' order='0x10' stat='pDef'/>
+  </for>
+</item>
+<item id='8187' name="Demon Horns">
+  <for>
+    <add val='0' order='0x10' stat='pDef'/>
+  </for>
+</item>
+<item id='8188' name="Little Angel Wings">
+  <for>
+    <add val='0' order='0x10' stat='pDef'/>
+  </for>
+</item>
+<item id='8189' name="Fairy Antennae">
+  <for>
+    <add val='0' order='0x10' stat='pDef'/>
+  </for>
+</item>
+<item id='8191' name="Frintezza's Necklace">
+  <for>
+    <add val='95' order='0x10' stat='mDef'/>
+    <add val='42' order='0x40' stat='maxMp'/>
+    <enchant val='0' order='0x0C' stat='mDef'/>
+  </for>
+</item>
+</list>

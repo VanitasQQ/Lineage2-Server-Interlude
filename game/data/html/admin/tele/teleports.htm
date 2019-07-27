@@ -1,0 +1,54 @@
+﻿<html><title>Панель управления сервером</title><body>
+<center>
+<!-- top menu -->
+<table width=240>
+<tr>
+<td><button value="Главная" action="bypass -h admin_admin" width=60 height=21 back="sek.cbui94" fore="sek.cbui94"></td>
+<td><button value="Игровая" action="bypass -h admin_gamemenu" width=60 height=21 back="sek.cbui94" fore="sek.cbui94"></td>
+<td><button value="Эфекты" action="bypass -h admin_effects" width=60 height=21 back="sek.cbui94" fore="sek.cbui94"></td>
+<td><button value="Эвенты" action="bypass -h admin_events" width=60 height=21 back="sek.cbui94" fore="sek.cbui94"></td>
+</tr>
+<tr>
+<td><button value="Сервер" action="bypass -h admin_server" width=60 height=21 back="sek.cbui94" fore="sek.cbui94"></td>
+<td><button value="Контроль" action="bypass -h admin_control" width=60 height=21 back="sek.cbui94" fore="sek.cbui94"></td>
+<td><button value="Игроки" action="bypass -h admin_players" width=60 height=21 back="sek.cbui94" fore="sek.cbui94"></td>
+<td><button value="Конфиги" action="bypass -h admin_config" width=60 height=21 back="sek.cbui94" fore="sek.cbui94"></td>
+</tr>
+</table>
+
+<font color="LEVEL">Список локаций</font>
+<table>
+<tr>
+	<td><button value="Города" action="bypass -h admin_help tele/towns/towns.htm" width=90 height=21 back="sek.cbui94" fore="sek.cbui94"></td>
+	<td><button value="Замки" action="bypass -h admin_help tele/castles/castles.htm" width=90 height=21 back="sek.cbui94" fore="sek.cbui94"></td>
+	<td><button value="Форты" action="bypass -h admin_help tele/forts/forts.htm" width=90 height=21 back="sek.cbui94" fore="sek.cbui94"></td>
+</tr>
+<tr>
+	<td><button value="Разное" action="bypass -h admin_help tele/dungeons/dungeons.htm" width=90 height=21 back="sek.cbui94" fore="sek.cbui94"></td>
+	<td><button value="Катакомбы" action="bypass -h admin_help tele/catacombs/catacombs.htm" width=90 height=21 back="sek.cbui94" fore="sek.cbui94"></td>
+	<td><button value="Некрополи" action="bypass -h admin_help tele/necropolis/necropolis.htm" width=90 height=21 back="sek.cbui94" fore="sek.cbui94"></td>
+</tr>
+<tr>
+	<td><button value="Арены" action="bypass -h admin_help tele/arenas/arenas.htm" width=90 height=21 back="sek.cbui94" fore="sek.cbui94"></td>
+	<td><button value="Рэйд Боссы" action="bypass -h admin_help tele/raid/raid.htm" width=90 height=21 back="sek.cbui94" fore="sek.cbui94"></td>
+	<td><button value="Другие Локации" action="bypass -h admin_help tele/areas/areas.htm" width=90 height=21 back="sek.cbui94" fore="sek.cbui94"></td>
+</tr>
+<tr>
+	<td><button value="Корабли" action="bypass -h admin_help tele_boats" width=90 height=21 back="sek.cbui94" fore="sek.cbui94"></td>
+	<td></td>
+	<td><button value="Дополнительно"action="bypass -h admin_tele" width=90 height=21 back="sek.cbui94" fore="sek.cbui94"></td>
+</tr>
+</table>
+
+<br><font color="LEVEL">Телепорт по координатам</font>
+<table width=260>
+<tr>
+<td width=5>X</td><td><edit var="char_cord_x" width=42></td>
+<td width=5>Y</td><td><edit var="char_cord_y" width=42></td>
+<td width=5>Z</td><td><edit var="char_cord_z" width=42></td>
+<td><button value="Tele" action="bypass -h admin_move_to $char_cord_x $char_cord_y $char_cord_z" width=40 height=17 back="sek.cbui94" fore="sek.cbui94"></td>
+<td><button value="Walk" action="bypass -h admin_walk $char_cord_x $char_cord_y $char_cord_z" width=40 height=17 back="sek.cbui94" fore="sek.cbui94"></td>
+</tr>
+</table>
+
+</center></body></html>

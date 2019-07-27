@@ -1,0 +1,1132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE list SYSTEM "weapons.dtd">
+<list>
+<item id='2500' name="Dark Legion's Edge">
+  <for>
+    <set val='232' order='0x08' stat='pAtk'/>
+    <set val='114' order='0x08' stat='mAtk'/>
+    <set val='8' order='0x08' stat='rCrit'/>
+    <add val='0' order='0x10' stat='accCombat'/>
+    <set val='379' order='0x08' stat='pAtkSpd'/>
+    <enchant val='0' order='0x0C' stat='pAtk'/>
+    <enchant val='0' order='0x0C' stat='mAtk'/>
+  </for>
+</item>
+<item id='2501' name="Bone Club">
+  <for>
+    <set val='24' order='0x08' stat='pAtk'/>
+    <set val='17' order='0x08' stat='mAtk'/>
+    <set val='4' order='0x08' stat='rCrit'/>
+    <add val='4' order='0x10' stat='accCombat'/>
+    <set val='379' order='0x08' stat='pAtkSpd'/>
+    <enchant val='0' order='0x0C' stat='pAtk'/>
+    <enchant val='0' order='0x0C' stat='mAtk'/>
+  </for>
+</item>
+<item id='2502' name="Dwarven War Hammer">
+  <for>
+    <set val='122' order='0x08' stat='pAtk'/>
+    <set val='68' order='0x08' stat='mAtk'/>
+    <set val='4' order='0x08' stat='rCrit'/>
+    <add val='4' order='0x10' stat='accCombat'/>
+    <set val='379' order='0x08' stat='pAtkSpd'/>
+    <enchant val='0' order='0x0C' stat='pAtk'/>
+    <enchant val='0' order='0x0C' stat='mAtk'/>
+  </for>
+</item>
+<item id='2503' name="Yaksa Mace">
+  <for>
+    <set val='156' order='0x08' stat='pAtk'/>
+    <set val='83' order='0x08' stat='mAtk'/>
+    <set val='4' order='0x08' stat='rCrit'/>
+    <add val='4' order='0x10' stat='accCombat'/>
+    <set val='379' order='0x08' stat='pAtkSpd'/>
+    <enchant val='0' order='0x0C' stat='pAtk'/>
+    <enchant val='0' order='0x0C' stat='mAtk'/>
+  </for>
+</item>
+<item id='2504' name="Meteor Shower">
+  <for>
+    <set val='213' order='0x08' stat='pAtk'/>
+    <set val='107' order='0x08' stat='mAtk'/>
+    <set val='4' order='0x08' stat='rCrit'/>
+    <add val='4' order='0x10' stat='accCombat'/>
+    <set val='379' order='0x08' stat='pAtkSpd'/>
+    <enchant val='0' order='0x0C' stat='pAtk'/>
+    <enchant val='0' order='0x0C' stat='mAtk'/>
+  </for>
+</item>
+<item id='2505' name="Iron Canine">
+  <for>
+    <add val='4' order='0x10' stat='pAtk'/>
+    <add val='5' order='0x10' stat='mAtk'/>
+    <set val='80' order='0x08' stat='rCrit'/>
+    <set val='304' order='0x08' stat='pAtkSpd'/>
+  </for>
+</item>
+<item id='2507' name="Lizardspear">
+  <for>
+    <set val='5' order='0x08' stat='pAtk'/>
+    <set val='5' order='0x08' stat='mAtk'/>
+    <set val='12' order='0x08' stat='rCrit'/>
+    <add val='-3' order='0x10' stat='accCombat'/>
+    <set val='433' order='0x08' stat='pAtkSpd'/>
+    <enchant val='0' order='0x0C' stat='pAtk'/>
+    <enchant val='0' order='0x0C' stat='mAtk'/>
+  </for>
+</item>
+<item id='2516' name="Saber*Saber">
+  <for>
+    <set val='73' order='0x08' stat='pAtk'/>
+    <set val='37' order='0x08' stat='mAtk'/>
+    <set val='8' order='0x08' stat='rCrit'/>
+    <add val='0' order='0x10' stat='accCombat'/>
+    <set val='325' order='0x08' stat='pAtkSpd'/>
+    <enchant val='0' order='0x0C' stat='pAtk'/>
+    <enchant val='0' order='0x0C' stat='mAtk'/>
+  </for>
+</item>
+<item id='2517' name="Saber*Bastard Sword">
+  <for>
+    <set val='83' order='0x08' stat='pAtk'/>
+    <set val='41' order='0x08' stat='mAtk'/>
+    <set val='8' order='0x08' stat='rCrit'/>
+    <add val='0' order='0x10' stat='accCombat'/>
+    <set val='325' order='0x08' stat='pAtkSpd'/>
+    <enchant val='0' order='0x0C' stat='pAtk'/>
+    <enchant val='0' order='0x0C' stat='mAtk'/>
+  </for>
+</item>
+<item id='2518' name="Saber*Spinebone Sword">
+  <for>
+    <set val='83' order='0x08' stat='pAtk'/>
+    <set val='41' order='0x08' stat='mAtk'/>
+    <set val='8' order='0x08' stat='rCrit'/>
+    <add val='0' order='0x10' stat='accCombat'/>
+    <set val='325' order='0x08' stat='pAtkSpd'/>
+    <enchant val='0' order='0x0C' stat='pAtk'/>
+    <enchant val='0' order='0x0C' stat='mAtk'/>
+  </for>
+</item>
+<item id='2519' name="Saber*Artisan's Sword">
+  <for>
+    <set val='83' order='0x08' stat='pAtk'/>
+    <set val='41' order='0x08' stat='mAtk'/>
+    <set val='8' order='0x08' stat='rCrit'/>
+    <add val='0' order='0x10' stat='accCombat'/>
+    <set val='325' order='0x08' stat='pAtkSpd'/>
+    <enchant val='0' order='0x0C' stat='pAtk'/>
+    <enchant val='0' order='0x0C' stat='mAtk'/>
+  </for>
+</item>
+<item id='2520' name="Saber*Knight's Sword">
+  <for>
+    <set val='83' order='0x08' stat='pAtk'/>
+    <set val='41' order='0x08' stat='mAtk'/>
+    <set val='8' order='0x08' stat='rCrit'/>
+    <add val='0' order='0x10' stat='accCombat'/>
+    <set val='325' order='0x08' stat='pAtkSpd'/>
+    <enchant val='0' order='0x0C' stat='pAtk'/>
+    <enchant val='0' order='0x0C' stat='mAtk'/>
+  </for>
+</item>
+<item id='2521' name="Saber*Crimson Sword">
+  <for>
+    <set val='96' order='0x08' stat='pAtk'/>
+    <set val='47' order='0x08' stat='mAtk'/>
+    <set val='8' order='0x08' stat='rCrit'/>
+    <add val='0' order='0x10' stat='accCombat'/>
+    <set val='325' order='0x08' stat='pAtkSpd'/>
+    <enchant val='0' order='0x0C' stat='pAtk'/>
+    <enchant val='0' order='0x0C' stat='mAtk'/>
+  </for>
+</item>
+<item id='2522' name="Saber*Elven Sword">
+  <for>
+    <set val='96' order='0x08' stat='pAtk'/>
+    <set val='47' order='0x08' stat='mAtk'/>
+    <set val='8' order='0x08' stat='rCrit'/>
+    <add val='0' order='0x10' stat='accCombat'/>
+    <set val='325' order='0x08' stat='pAtkSpd'/>
+    <enchant val='0' order='0x0C' stat='pAtk'/>
+    <enchant val='0' order='0x0C' stat='mAtk'/>
+  </for>
+</item>
+<item id='2523' name="Saber*Sword of Revolution">
+  <for>
+    <set val='118' order='0x08' stat='pAtk'/>
+    <set val='56' order='0x08' stat='mAtk'/>
+    <set val='8' order='0x08' stat='rCrit'/>
+    <add val='0' order='0x10' stat='accCombat'/>
+    <set val='325' order='0x08' stat='pAtkSpd'/>
+    <enchant val='0' order='0x0C' stat='pAtk'/>
+    <enchant val='0' order='0x0C' stat='mAtk'/>
+  </for>
+</item>
+<item id='2524' name="Saber*Elven Long Sword">
+  <for>
+    <set val='130' order='0x08' stat='pAtk'/>
+    <set val='61' order='0x08' stat='mAtk'/>
+    <set val='8' order='0x08' stat='rCrit'/>
+    <add val='0' order='0x10' stat='accCombat'/>
+    <set val='325' order='0x08' stat='pAtkSpd'/>
+    <enchant val='0' order='0x0C' stat='pAtk'/>
+    <enchant val='0' order='0x0C' stat='mAtk'/>
+  </for>
+</item>
+<item id='2525' name="Bastard Sword*Bastard Sword">
+  <for>
+    <set val='96' order='0x08' stat='pAtk'/>
+    <set val='47' order='0x08' stat='mAtk'/>
+    <set val='8' order='0x08' stat='rCrit'/>
+    <add val='0' order='0x10' stat='accCombat'/>
+    <set val='325' order='0x08' stat='pAtkSpd'/>
+    <enchant val='0' order='0x0C' stat='pAtk'/>
+    <enchant val='0' order='0x0C' stat='mAtk'/>
+  </for>
+</item>
+<item id='2526' name="Bastard Sword*Spinebone Sword">
+  <for>
+    <set val='96' order='0x08' stat='pAtk'/>
+    <set val='47' order='0x08' stat='mAtk'/>
+    <set val='8' order='0x08' stat='rCrit'/>
+    <add val='0' order='0x10' stat='accCombat'/>
+    <set val='325' order='0x08' stat='pAtkSpd'/>
+    <enchant val='0' order='0x0C' stat='pAtk'/>
+    <enchant val='0' order='0x0C' stat='mAtk'/>
+  </for>
+</item>
+<item id='2527' name="Bastard Sword*Artisan's Sword">
+  <for>
+    <set val='96' order='0x08' stat='pAtk'/>
+    <set val='47' order='0x08' stat='mAtk'/>
+    <set val='8' order='0x08' stat='rCrit'/>
+    <add val='0' order='0x10' stat='accCombat'/>
+    <set val='325' order='0x08' stat='pAtkSpd'/>
+    <enchant val='0' order='0x0C' stat='pAtk'/>
+    <enchant val='0' order='0x0C' stat='mAtk'/>
+  </for>
+</item>
+<item id='2528' name="Bastard Sword*Knight's Sword">
+  <for>
+    <set val='96' order='0x08' stat='pAtk'/>
+    <set val='47' order='0x08' stat='mAtk'/>
+    <set val='8' order='0x08' stat='rCrit'/>
+    <add val='0' order='0x10' stat='accCombat'/>
+    <set val='325' order='0x08' stat='pAtkSpd'/>
+    <enchant val='0' order='0x0C' stat='pAtk'/>
+    <enchant val='0' order='0x0C' stat='mAtk'/>
+  </for>
+</item>
+<item id='2529' name="Bastard Sword*Crimson Sword">
+  <for>
+    <set val='107' order='0x08' stat='pAtk'/>
+    <set val='51' order='0x08' stat='mAtk'/>
+    <set val='8' order='0x08' stat='rCrit'/>
+    <add val='0' order='0x10' stat='accCombat'/>
+    <set val='325' order='0x08' stat='pAtkSpd'/>
+    <enchant val='0' order='0x0C' stat='pAtk'/>
+    <enchant val='0' order='0x0C' stat='mAtk'/>
+  </for>
+</item>
+<item id='2530' name="Bastard Sword*Elven Sword">
+  <for>
+    <set val='107' order='0x08' stat='pAtk'/>
+    <set val='51' order='0x08' stat='mAtk'/>
+    <set val='8' order='0x08' stat='rCrit'/>
+    <add val='0' order='0x10' stat='accCombat'/>
+    <set val='325' order='0x08' stat='pAtkSpd'/>
+    <enchant val='0' order='0x0C' stat='pAtk'/>
+    <enchant val='0' order='0x0C' stat='mAtk'/>
+  </for>
+</item>
+<item id='2531' name="Bastard Sword*Sword of Revolution">
+  <for>
+    <set val='124' order='0x08' stat='pAtk'/>
+    <set val='58' order='0x08' stat='mAtk'/>
+    <set val='8' order='0x08' stat='rCrit'/>
+    <add val='0' order='0x10' stat='accCombat'/>
+    <set val='325' order='0x08' stat='pAtkSpd'/>
+    <enchant val='0' order='0x0C' stat='pAtk'/>
+    <enchant val='0' order='0x0C' stat='mAtk'/>
+  </for>
+</item>
+<item id='2532' name="Bastard Sword*Elven Long Sword">
+  <for>
+    <set val='136' order='0x08' stat='pAtk'/>
+    <set val='63' order='0x08' stat='mAtk'/>
+    <set val='8' order='0x08' stat='rCrit'/>
+    <add val='0' order='0x10' stat='accCombat'/>
+    <set val='325' order='0x08' stat='pAtkSpd'/>
+    <enchant val='0' order='0x0C' stat='pAtk'/>
+    <enchant val='0' order='0x0C' stat='mAtk'/>
+  </for>
+</item>
+<item id='2533' name="Spinebone Sword*Spinebone Sword">
+  <for>
+    <set val='96' order='0x08' stat='pAtk'/>
+    <set val='47' order='0x08' stat='mAtk'/>
+    <set val='8' order='0x08' stat='rCrit'/>
+    <add val='0' order='0x10' stat='accCombat'/>
+    <set val='325' order='0x08' stat='pAtkSpd'/>
+    <enchant val='0' order='0x0C' stat='pAtk'/>
+    <enchant val='0' order='0x0C' stat='mAtk'/>
+  </for>
+</item>
+<item id='2534' name="Spinebone Sword*Artisan's Sword">
+  <for>
+    <set val='96' order='0x08' stat='pAtk'/>
+    <set val='47' order='0x08' stat='mAtk'/>
+    <set val='8' order='0x08' stat='rCrit'/>
+    <add val='0' order='0x10' stat='accCombat'/>
+    <set val='325' order='0x08' stat='pAtkSpd'/>
+    <enchant val='0' order='0x0C' stat='pAtk'/>
+    <enchant val='0' order='0x0C' stat='mAtk'/>
+  </for>
+</item>
+<item id='2535' name="Spinebone Sword*Knights Sword">
+  <for>
+    <set val='96' order='0x08' stat='pAtk'/>
+    <set val='47' order='0x08' stat='mAtk'/>
+    <set val='8' order='0x08' stat='rCrit'/>
+    <add val='0' order='0x10' stat='accCombat'/>
+    <set val='325' order='0x08' stat='pAtkSpd'/>
+    <enchant val='0' order='0x0C' stat='pAtk'/>
+    <enchant val='0' order='0x0C' stat='mAtk'/>
+  </for>
+</item>
+<item id='2536' name="Spinebone Sword*Crimson Sword">
+  <for>
+    <set val='107' order='0x08' stat='pAtk'/>
+    <set val='51' order='0x08' stat='mAtk'/>
+    <set val='8' order='0x08' stat='rCrit'/>
+    <add val='0' order='0x10' stat='accCombat'/>
+    <set val='325' order='0x08' stat='pAtkSpd'/>
+    <enchant val='0' order='0x0C' stat='pAtk'/>
+    <enchant val='0' order='0x0C' stat='mAtk'/>
+  </for>
+</item>
+<item id='2537' name="Spinebone Sword*Elven Sword">
+  <for>
+    <set val='107' order='0x08' stat='pAtk'/>
+    <set val='51' order='0x08' stat='mAtk'/>
+    <set val='8' order='0x08' stat='rCrit'/>
+    <add val='0' order='0x10' stat='accCombat'/>
+    <set val='325' order='0x08' stat='pAtkSpd'/>
+    <enchant val='0' order='0x0C' stat='pAtk'/>
+    <enchant val='0' order='0x0C' stat='mAtk'/>
+  </for>
+</item>
+<item id='2538' name="Spinebone Sword*Sword of Revolution">
+  <for>
+    <set val='124' order='0x08' stat='pAtk'/>
+    <set val='58' order='0x08' stat='mAtk'/>
+    <set val='8' order='0x08' stat='rCrit'/>
+    <add val='0' order='0x10' stat='accCombat'/>
+    <set val='325' order='0x08' stat='pAtkSpd'/>
+    <enchant val='0' order='0x0C' stat='pAtk'/>
+    <enchant val='0' order='0x0C' stat='mAtk'/>
+  </for>
+</item>
+<item id='2539' name="Spinebone Sword*Elven Long Sword">
+  <for>
+    <set val='136' order='0x08' stat='pAtk'/>
+    <set val='63' order='0x08' stat='mAtk'/>
+    <set val='8' order='0x08' stat='rCrit'/>
+    <add val='0' order='0x10' stat='accCombat'/>
+    <set val='325' order='0x08' stat='pAtkSpd'/>
+    <enchant val='0' order='0x0C' stat='pAtk'/>
+    <enchant val='0' order='0x0C' stat='mAtk'/>
+  </for>
+</item>
+<item id='2540' name="Artisan's Sword*Artisan's Sword">
+  <for>
+    <set val='96' order='0x08' stat='pAtk'/>
+    <set val='47' order='0x08' stat='mAtk'/>
+    <set val='8' order='0x08' stat='rCrit'/>
+    <add val='0' order='0x10' stat='accCombat'/>
+    <set val='325' order='0x08' stat='pAtkSpd'/>
+    <enchant val='0' order='0x0C' stat='pAtk'/>
+    <enchant val='0' order='0x0C' stat='mAtk'/>
+  </for>
+</item>
+<item id='2541' name="Artisan's Sword*Knight's Sword">
+  <for>
+    <set val='96' order='0x08' stat='pAtk'/>
+    <set val='47' order='0x08' stat='mAtk'/>
+    <set val='8' order='0x08' stat='rCrit'/>
+    <add val='0' order='0x10' stat='accCombat'/>
+    <set val='325' order='0x08' stat='pAtkSpd'/>
+    <enchant val='0' order='0x0C' stat='pAtk'/>
+    <enchant val='0' order='0x0C' stat='mAtk'/>
+  </for>
+</item>
+<item id='2542' name="Artisan's Sword*Crimson Sword">
+  <for>
+    <set val='107' order='0x08' stat='pAtk'/>
+    <set val='51' order='0x08' stat='mAtk'/>
+    <set val='8' order='0x08' stat='rCrit'/>
+    <add val='0' order='0x10' stat='accCombat'/>
+    <set val='325' order='0x08' stat='pAtkSpd'/>
+    <enchant val='0' order='0x0C' stat='pAtk'/>
+    <enchant val='0' order='0x0C' stat='mAtk'/>
+  </for>
+</item>
+<item id='2543' name="Artisan's Sword*Elven Sword">
+  <for>
+    <set val='107' order='0x08' stat='pAtk'/>
+    <set val='51' order='0x08' stat='mAtk'/>
+    <set val='8' order='0x08' stat='rCrit'/>
+    <add val='0' order='0x10' stat='accCombat'/>
+    <set val='325' order='0x08' stat='pAtkSpd'/>
+    <enchant val='0' order='0x0C' stat='pAtk'/>
+    <enchant val='0' order='0x0C' stat='mAtk'/>
+  </for>
+</item>
+<item id='2544' name="Artisan's Sword*Sword of Revolution">
+  <for>
+    <set val='124' order='0x08' stat='pAtk'/>
+    <set val='58' order='0x08' stat='mAtk'/>
+    <set val='8' order='0x08' stat='rCrit'/>
+    <add val='0' order='0x10' stat='accCombat'/>
+    <set val='325' order='0x08' stat='pAtkSpd'/>
+    <enchant val='0' order='0x0C' stat='pAtk'/>
+    <enchant val='0' order='0x0C' stat='mAtk'/>
+  </for>
+</item>
+<item id='2545' name="Artisans Sword*Elven Long Sword">
+  <for>
+    <set val='136' order='0x08' stat='pAtk'/>
+    <set val='63' order='0x08' stat='mAtk'/>
+    <set val='8' order='0x08' stat='rCrit'/>
+    <add val='0' order='0x10' stat='accCombat'/>
+    <set val='325' order='0x08' stat='pAtkSpd'/>
+    <enchant val='0' order='0x0C' stat='pAtk'/>
+    <enchant val='0' order='0x0C' stat='mAtk'/>
+  </for>
+</item>
+<item id='2546' name="Knight's Sword*Knight's Sword">
+  <for>
+    <set val='96' order='0x08' stat='pAtk'/>
+    <set val='47' order='0x08' stat='mAtk'/>
+    <set val='8' order='0x08' stat='rCrit'/>
+    <add val='0' order='0x10' stat='accCombat'/>
+    <set val='325' order='0x08' stat='pAtkSpd'/>
+    <enchant val='0' order='0x0C' stat='pAtk'/>
+    <enchant val='0' order='0x0C' stat='mAtk'/>
+  </for>
+</item>
+<item id='2547' name="Knight's Sword*Crimson Sword">
+  <for>
+    <set val='107' order='0x08' stat='pAtk'/>
+    <set val='51' order='0x08' stat='mAtk'/>
+    <set val='8' order='0x08' stat='rCrit'/>
+    <add val='0' order='0x10' stat='accCombat'/>
+    <set val='325' order='0x08' stat='pAtkSpd'/>
+    <enchant val='0' order='0x0C' stat='pAtk'/>
+    <enchant val='0' order='0x0C' stat='mAtk'/>
+  </for>
+</item>
+<item id='2548' name="Knight's Sword*Elven Sword">
+  <for>
+    <set val='107' order='0x08' stat='pAtk'/>
+    <set val='51' order='0x08' stat='mAtk'/>
+    <set val='8' order='0x08' stat='rCrit'/>
+    <add val='0' order='0x10' stat='accCombat'/>
+    <set val='325' order='0x08' stat='pAtkSpd'/>
+    <enchant val='0' order='0x0C' stat='pAtk'/>
+    <enchant val='0' order='0x0C' stat='mAtk'/>
+  </for>
+</item>
+<item id='2549' name="Knight's Sword*Sword of Revolution">
+  <for>
+    <set val='124' order='0x08' stat='pAtk'/>
+    <set val='58' order='0x08' stat='mAtk'/>
+    <set val='8' order='0x08' stat='rCrit'/>
+    <add val='0' order='0x10' stat='accCombat'/>
+    <set val='325' order='0x08' stat='pAtkSpd'/>
+    <enchant val='0' order='0x0C' stat='pAtk'/>
+    <enchant val='0' order='0x0C' stat='mAtk'/>
+  </for>
+</item>
+<item id='2550' name="Knight's Sword*Elven Long Sword">
+  <for>
+    <set val='136' order='0x08' stat='pAtk'/>
+    <set val='63' order='0x08' stat='mAtk'/>
+    <set val='8' order='0x08' stat='rCrit'/>
+    <add val='0' order='0x10' stat='accCombat'/>
+    <set val='325' order='0x08' stat='pAtkSpd'/>
+    <enchant val='0' order='0x0C' stat='pAtk'/>
+    <enchant val='0' order='0x0C' stat='mAtk'/>
+  </for>
+</item>
+<item id='2551' name="Crimson Sword*Crimson Sword">
+  <for>
+    <set val='118' order='0x08' stat='pAtk'/>
+    <set val='56' order='0x08' stat='mAtk'/>
+    <set val='8' order='0x08' stat='rCrit'/>
+    <add val='0' order='0x10' stat='accCombat'/>
+    <set val='325' order='0x08' stat='pAtkSpd'/>
+    <enchant val='0' order='0x0C' stat='pAtk'/>
+    <enchant val='0' order='0x0C' stat='mAtk'/>
+  </for>
+</item>
+<item id='2552' name="Crimson Sword*Elven Sword">
+  <for>
+    <set val='118' order='0x08' stat='pAtk'/>
+    <set val='56' order='0x08' stat='mAtk'/>
+    <set val='8' order='0x08' stat='rCrit'/>
+    <add val='0' order='0x10' stat='accCombat'/>
+    <set val='325' order='0x08' stat='pAtkSpd'/>
+    <enchant val='0' order='0x0C' stat='pAtk'/>
+    <enchant val='0' order='0x0C' stat='mAtk'/>
+  </for>
+</item>
+<item id='2553' name="Crimson Sword*Sword of Revolution">
+  <for>
+    <set val='136' order='0x08' stat='pAtk'/>
+    <set val='63' order='0x08' stat='mAtk'/>
+    <set val='8' order='0x08' stat='rCrit'/>
+    <add val='0' order='0x10' stat='accCombat'/>
+    <set val='325' order='0x08' stat='pAtkSpd'/>
+    <enchant val='0' order='0x0C' stat='pAtk'/>
+    <enchant val='0' order='0x0C' stat='mAtk'/>
+  </for>
+</item>
+<item id='2554' name="Crimson Sword*Elven Long Sword">
+  <for>
+    <set val='148' order='0x08' stat='pAtk'/>
+    <set val='68' order='0x08' stat='mAtk'/>
+    <set val='8' order='0x08' stat='rCrit'/>
+    <set val='325' order='0x08' stat='pAtkSpd'/>
+    <add val='2' order='0x40' stat='accCombat'>
+       <and>
+          <using slotitem="2554;16;4"/>
+       </and>
+    </add>
+    <enchant val='0' order='0x0C' stat='pAtk'/>
+    <enchant val='0' order='0x0C' stat='mAtk'/>
+  </for>
+</item>
+<item id='2555' name="Elven Sword*Elven Sword">
+  <for>
+    <set val='118' order='0x08' stat='pAtk'/>
+    <set val='56' order='0x08' stat='mAtk'/>
+    <set val='8' order='0x08' stat='rCrit'/>
+    <add val='0' order='0x10' stat='accCombat'/>
+    <set val='325' order='0x08' stat='pAtkSpd'/>
+    <enchant val='0' order='0x0C' stat='pAtk'/>
+    <enchant val='0' order='0x0C' stat='mAtk'/>
+  </for>
+</item>
+<item id='2556' name="Elven Sword*Sword of Revolution">
+  <for>
+    <set val='136' order='0x08' stat='pAtk'/>
+    <set val='63' order='0x08' stat='mAtk'/>
+    <set val='8' order='0x08' stat='rCrit'/>
+    <add val='0' order='0x10' stat='accCombat'/>
+    <set val='325' order='0x08' stat='pAtkSpd'/>
+    <enchant val='0' order='0x0C' stat='pAtk'/>
+    <enchant val='0' order='0x0C' stat='mAtk'/>
+  </for>
+</item>
+<item id='2557' name="Elven Sword*Elven Long Sword">
+  <for>
+    <set val='148' order='0x08' stat='pAtk'/>
+    <set val='68' order='0x08' stat='mAtk'/>
+    <set val='8' order='0x08' stat='rCrit'/>
+    <add val='0' order='0x10' stat='accCombat'/>
+    <add val='61' order='0x10' stat='cAtkAdd'>
+       <and>
+          <using slotitem="2557;16;4"/>
+       </and>
+    </add>
+    <set val='325' order='0x08' stat='pAtkSpd'/>
+    <enchant val='0' order='0x0C' stat='pAtk'/>
+    <enchant val='0' order='0x0C' stat='mAtk'/>
+  </for>
+</item>
+<item id='2558' name="Sword of Revolution*Sword of Revolution">
+  <for>
+    <set val='148' order='0x08' stat='pAtk'/>
+    <set val='68' order='0x08' stat='mAtk'/>
+    <set val='8' order='0x08' stat='rCrit'/>
+    <add val='0' order='0x10' stat='accCombat'/>
+    <set val='325' order='0x08' stat='pAtkSpd'/>
+    <mul val='1.25' order='0x30' stat='maxHp'>
+    	<and>
+            <using slotitem="2558;16;4"/>
+    	</and>
+    </mul>
+    <enchant val='0' order='0x0C' stat='pAtk'/>
+    <enchant val='0' order='0x0C' stat='mAtk'/>
+  </for>
+</item>
+<item id='2559' name="Sword of Revolution*Elven Long Sword">
+  <for>
+    <set val='155' order='0x08' stat='pAtk'/>
+    <set val='70' order='0x08' stat='mAtk'/>
+    <set val='8' order='0x08' stat='rCrit'/>
+    <add val='0' order='0x10' stat='accCombat'/>
+    <set val='325' order='0x08' stat='pAtkSpd'/>
+    <add val='50' order='0x40' stat='rCrit'>
+       <and>
+          <using slotitem="2559;16;4"/>
+       </and>
+    </add>
+    <enchant val='0' order='0x0C' stat='pAtk'/>
+    <enchant val='0' order='0x0C' stat='mAtk'/>
+  </for>
+</item>
+<item id='2560' name="Elven Long Sword*Elven Long Sword">
+  <for>
+    <set val='162' order='0x08' stat='pAtk'/>
+    <set val='73' order='0x08' stat='mAtk'/>
+    <set val='8' order='0x08' stat='rCrit'/>
+    <add val='0' order='0x10' stat='accCombat'/>
+    <set val='325' order='0x08' stat='pAtkSpd'/>
+    <enchant val='0' order='0x0C' stat='pAtk'/>
+    <enchant val='0' order='0x0C' stat='mAtk'/>
+  </for>
+</item>
+<item id='2561' name="Stormbringer*Stormbringer">
+  <for>
+    <set val='175' order='0x08' stat='pAtk'/>
+    <set val='78' order='0x08' stat='mAtk'/>
+    <set val='8' order='0x08' stat='rCrit'/>
+    <add val='2' order='0x40' stat='accCombat'>
+       <and>
+          <using slotitem="2561;16;4"/>
+       </and>
+   </add>
+    <set val='325' order='0x08' stat='pAtkSpd'/>
+    <enchant val='0' order='0x0C' stat='pAtk'/>
+    <enchant val='0' order='0x0C' stat='mAtk'/>
+  </for>
+</item>
+<item id='2562' name="Stormbringer*Shamshir">
+  <for>
+    <set val='183' order='0x08' stat='pAtk'/>
+    <set val='81' order='0x08' stat='mAtk'/>
+    <set val='8' order='0x08' stat='rCrit'/>
+    <add val='0' order='0x10' stat='accCombat'/>
+    <set val='325' order='0x08' stat='pAtkSpd'/>
+    <add val='49' order='0x10' stat='cAtkAdd'>
+       <and>
+          <using slotitem="2562;16;4"/>
+       </and>
+    </add>
+    <enchant val='0' order='0x0C' stat='pAtk'/>
+    <enchant val='0' order='0x0C' stat='mAtk'/>
+  </for>
+</item>
+<item id='2563' name="Stormbringer*Katana">
+  <for>
+    <set val='183' order='0x08' stat='pAtk'/>
+    <set val='81' order='0x08' stat='mAtk'/>
+    <set val='8' order='0x08' stat='rCrit'/>
+    <add val='0' order='0x10' stat='accCombat'/>
+    <set val='325' order='0x08' stat='pAtkSpd'/>
+    <enchant val='0' order='0x0C' stat='pAtk'/>
+    <enchant val='0' order='0x0C' stat='mAtk'/>
+  </for>
+</item>
+<item id='2564' name="Stormbringer*Spirit Sword">
+  <for>
+    <set val='183' order='0x08' stat='pAtk'/>
+    <set val='81' order='0x08' stat='mAtk'/>
+    <set val='8' order='0x08' stat='rCrit'/>
+    <add val='0' order='0x10' stat='accCombat'/>
+    <set val='325' order='0x08' stat='pAtkSpd'/>
+    <add val='24' order='0x40' stat='rCrit'>
+       <and>
+          <using slotitem="2564;16;4"/>
+       </and>
+    </add>
+    <enchant val='0' order='0x0C' stat='pAtk'/>
+    <enchant val='0' order='0x0C' stat='mAtk'/>
+  </for>
+</item>
+<item id='2565' name="Stormbringer*Raid Sword">
+  <for>
+    <set val='183' order='0x08' stat='pAtk'/>
+    <set val='81' order='0x08' stat='mAtk'/>
+    <set val='8' order='0x08' stat='rCrit'/>
+    <add val='0' order='0x10' stat='accCombat'/>
+    <set val='325' order='0x08' stat='pAtkSpd'/>
+    <enchant val='0' order='0x0C' stat='pAtk'/>
+    <enchant val='0' order='0x0C' stat='mAtk'/>
+  </for>
+</item>
+<item id='2566' name="Stormbringer*Caliburs">
+  <for>
+    <set val='197' order='0x08' stat='pAtk'/>
+    <set val='86' order='0x08' stat='mAtk'/>
+    <set val='8' order='0x08' stat='rCrit'/>
+    <set val='325' order='0x08' stat='pAtkSpd'/>
+    <add val='5' order='0x40' stat='accCombat'>
+       <and>
+          <using slotitem="2566;16;4"/>
+       </and>
+    </add>
+    <enchant val='0' order='0x0C' stat='pAtk'/>
+    <enchant val='0' order='0x0C' stat='mAtk'/>
+  </for>
+</item>
+<item id='2567' name="Stormbringer*Sword of Limit">
+  <for>
+    <set val='197' order='0x08' stat='pAtk'/>
+    <set val='86' order='0x08' stat='mAtk'/>
+    <set val='8' order='0x08' stat='rCrit'/>
+    <add val='0' order='0x10' stat='accCombat'/>
+    <set val='325' order='0x08' stat='pAtkSpd'/>
+    <add val='166' order='0x10' stat='cAtkAdd'>
+       <and>
+           <using slotitem="2567;16;4"/>
+       </and>
+    </add>
+    <enchant val='0' order='0x0C' stat='pAtk'/>
+    <enchant val='0' order='0x0C' stat='mAtk'/>
+  </for>
+</item>
+<item id='2568' name="Stormbringer*Sword of Delusion">
+  <for>
+    <set val='197' order='0x08' stat='pAtk'/>
+    <set val='86' order='0x08' stat='mAtk'/>
+    <set val='8' order='0x08' stat='rCrit'/>
+    <add val='0' order='0x10' stat='accCombat'/>
+    <set val='325' order='0x08' stat='pAtkSpd'/>
+    <enchant val='0' order='0x0C' stat='pAtk'/>
+    <enchant val='0' order='0x0C' stat='mAtk'/>
+  </for>
+</item>
+<item id='2569' name="Stormbringer*Sword of Nightmare">
+  <for>
+    <set val='197' order='0x08' stat='pAtk'/>
+    <set val='86' order='0x08' stat='mAtk'/>
+    <add val='0' order='0x10' stat='accCombat'/>
+    <set val='325' order='0x08' stat='pAtkSpd'/>
+    <add val='76' order='0x40' stat='rCrit'>
+       <and>
+          <using slotitem="2569;16;4"/>
+       </and>
+    </add>
+    <set val='8' order='0x08' stat='rCrit'/>
+    <enchant val='0' order='0x0C' stat='pAtk'/>
+    <enchant val='0' order='0x0C' stat='mAtk'/>
+  </for>
+</item>
+<item id='2570' name="Stormbringer*Tsurugi">
+  <for>
+    <set val='197' order='0x08' stat='pAtk'/>
+    <set val='86' order='0x08' stat='mAtk'/>
+    <set val='8' order='0x08' stat='rCrit'/>
+    <add val='0' order='0x10' stat='accCombat'/>
+    <set val='325' order='0x08' stat='pAtkSpd'/>
+    <enchant val='0' order='0x0C' stat='pAtk'/>
+    <enchant val='0' order='0x0C' stat='mAtk'/>
+  </for>
+</item>
+<item id='2571' name="Stormbringer*Samurai Long Sword">
+  <for>
+    <set val='213' order='0x08' stat='pAtk'/>
+    <set val='91' order='0x08' stat='mAtk'/>
+    <set val='8' order='0x08' stat='rCrit'/>
+    <set val='325' order='0x08' stat='pAtkSpd'/>
+    <add val='4' order='0x40' stat='accCombat'>
+       <and>
+          <using slotitem="2571;16;4"/>
+       </and>
+    </add>
+    <enchant val='0' order='0x0C' stat='pAtk'/>
+    <enchant val='0' order='0x0C' stat='mAtk'/>
+  </for>
+</item>
+<item id='2572' name="Shamshir*Shamshir">
+  <for>
+    <set val='190' order='0x08' stat='pAtk'/>
+    <set val='83' order='0x08' stat='mAtk'/>
+    <set val='8' order='0x08' stat='rCrit'/>
+    <set val='325' order='0x08' stat='pAtkSpd'/>
+    <add val='2' order='0x40' stat='accCombat'>
+       <and>
+          <using slotitem="2572;16;4"/>
+       </and>
+    </add>
+    <enchant val='0' order='0x0C' stat='pAtk'/>
+    <enchant val='0' order='0x0C' stat='mAtk'/>
+  </for>
+</item>
+<item id='2573' name="Shamshir*Katana">
+  <for>
+    <set val='190' order='0x08' stat='pAtk'/>
+    <set val='83' order='0x08' stat='mAtk'/>
+    <set val='8' order='0x08' stat='rCrit'/>
+    <add val='0' order='0x10' stat='accCombat'/>
+    <set val='325' order='0x08' stat='pAtkSpd'/>
+    <add val='84' order='0x10' stat='cAtkAdd'>
+       <and>
+          <using slotitem="2573;16;4"/>
+       </and>
+    </add>
+    <enchant val='0' order='0x0C' stat='pAtk'/>
+    <enchant val='0' order='0x0C' stat='mAtk'/>
+  </for>
+</item>
+<item id='2574' name="Shamshir*Spirit Sword">
+  <for>
+    <set val='190' order='0x08' stat='pAtk'/>
+    <set val='83' order='0x08' stat='mAtk'/>
+    <set val='8' order='0x08' stat='rCrit'/>
+    <add val='0' order='0x10' stat='accCombat'/>
+    <set val='325' order='0x08' stat='pAtkSpd'/>
+    <enchant val='0' order='0x0C' stat='pAtk'/>
+    <enchant val='0' order='0x0C' stat='mAtk'/>
+  </for>
+</item>
+<item id='2575' name="Shamshir*Raid Sword">
+  <for>
+    <set val='190' order='0x08' stat='pAtk'/>
+    <set val='83' order='0x08' stat='mAtk'/>
+    <set val='8' order='0x08' stat='rCrit'/>
+    <add val='0' order='0x10' stat='accCombat'/>
+    <set val='325' order='0x08' stat='pAtkSpd'/>
+    <add val='40' order='0x40' stat='rCrit'>
+       <and>
+          <using slotitem="2575;16;4"/>
+       </and>
+    </add>
+    <enchant val='0' order='0x0C' stat='pAtk'/>
+    <enchant val='0' order='0x0C' stat='mAtk'/>
+  </for>
+</item>
+<item id='2576' name="Shamshir*Caliburs">
+  <for>
+    <set val='204' order='0x08' stat='pAtk'/>
+    <set val='89' order='0x08' stat='mAtk'/>
+    <set val='8' order='0x08' stat='rCrit'/>
+    <set val='325' order='0x08' stat='pAtkSpd'/>
+    <add val='4' order='0x40' stat='accCombat'>
+       <and>
+          <using slotitem="2576;16;4"/>
+       </and>
+     </add>
+    <enchant val='0' order='0x0C' stat='pAtk'/>
+    <enchant val='0' order='0x0C' stat='mAtk'/>
+  </for>
+</item>
+<item id='2577' name="Shamshir*Sword of Limit">
+  <for>
+    <set val='204' order='0x08' stat='pAtk'/>
+    <set val='89' order='0x08' stat='mAtk'/>
+    <set val='8' order='0x08' stat='rCrit'/>
+    <add val='0' order='0x10' stat='accCombat'/>
+    <set val='325' order='0x08' stat='pAtkSpd'/>
+    <add val='146' order='0x10' stat='cAtkAdd'>
+	<and>
+            <using slotitem="2577;16;4"/>
+	</and>
+    </add>
+    <enchant val='0' order='0x0C' stat='pAtk'/>
+    <enchant val='0' order='0x0C' stat='mAtk'/>
+  </for>
+</item>
+<item id='2578' name="Shamshir*Sword of Delusion">
+  <for>
+    <set val='204' order='0x08' stat='pAtk'/>
+    <set val='89' order='0x08' stat='mAtk'/>
+    <set val='8' order='0x08' stat='rCrit'/>
+    <add val='0' order='0x10' stat='accCombat'/>
+    <set val='325' order='0x08' stat='pAtkSpd'/>
+    <enchant val='0' order='0x0C' stat='pAtk'/>
+    <enchant val='0' order='0x0C' stat='mAtk'/>
+  </for>
+</item>
+<item id='2579' name="Shamshir*Sword of Nightmare">
+  <for>
+    <set val='204' order='0x08' stat='pAtk'/>
+    <set val='89' order='0x08' stat='mAtk'/>
+    <set val='8' order='0x08' stat='rCrit'/>
+    <add val='0' order='0x10' stat='accCombat'/>
+    <set val='325' order='0x08' stat='pAtkSpd'/>
+    <add val='65' order='0x40' stat='rCrit'>
+       <and>
+          <using slotitem="2579;16;4"/>
+       </and>
+    </add>
+    <enchant val='0' order='0x0C' stat='pAtk'/>
+    <enchant val='0' order='0x0C' stat='mAtk'/>
+  </for>
+</item>
+<item id='2580' name="Shamshir*Tsurugi">
+  <for>
+    <set val='204' order='0x08' stat='pAtk'/>
+    <set val='89' order='0x08' stat='mAtk'/>
+    <set val='8' order='0x08' stat='rCrit'/>
+    <add val='0' order='0x10' stat='accCombat'/>
+    <set val='325' order='0x08' stat='pAtkSpd'/>
+    <enchant val='0' order='0x0C' stat='pAtk'/>
+    <enchant val='0' order='0x0C' stat='mAtk'/>
+  </for>
+</item>
+<item id='2581' name="Shamshir*Samurai Long Sword">
+  <for>
+    <set val='220' order='0x08' stat='pAtk'/>
+    <set val='94' order='0x08' stat='mAtk'/>
+    <set val='8' order='0x08' stat='rCrit'/>
+    <set val='325' order='0x08' stat='pAtkSpd'/>
+    <add val='3' order='0x40' stat='accCombat'>
+       <and>
+          <using slotitem="2581;16;4"/>
+       </and>
+    </add>
+    <enchant val='0' order='0x0C' stat='pAtk'/>
+    <enchant val='0' order='0x0C' stat='mAtk'/>
+  </for>
+</item>
+<item id='2582' name="Katana*Katana">
+  <for>
+    <set val='190' order='0x08' stat='pAtk'/>
+    <set val='83' order='0x08' stat='mAtk'/>
+    <set val='8' order='0x08' stat='rCrit'/>
+    <add val='0' order='0x10' stat='accCombat'/>
+    <set val='325' order='0x08' stat='pAtkSpd'/>
+    <enchant val='0' order='0x0C' stat='pAtk'/>
+    <enchant val='0' order='0x0C' stat='mAtk'/>
+  </for>
+</item>
+<item id='2583' name="Katana*Spirit Sword">
+  <for>
+    <set val='190' order='0x08' stat='pAtk'/>
+    <set val='83' order='0x08' stat='mAtk'/>
+    <set val='8' order='0x08' stat='rCrit'/>
+    <set val='325' order='0x08' stat='pAtkSpd'/>
+    <add val='2' order='0x40' stat='accCombat'>
+       <and>
+          <using slotitem="2583;16;4"/>
+       </and>
+    </add>
+    <enchant val='0' order='0x0C' stat='pAtk'/>
+    <enchant val='0' order='0x0C' stat='mAtk'/>
+  </for>
+</item>
+<item id='2584' name="Katana*Raid Sword">
+  <for>
+    <set val='190' order='0x08' stat='pAtk'/>
+    <set val='83' order='0x08' stat='mAtk'/>
+    <set val='8' order='0x08' stat='rCrit'/>
+    <add val='0' order='0x10' stat='accCombat'/>
+    <set val='325' order='0x08' stat='pAtkSpd'/>
+    <add val='84' order='0x10' stat='cAtkAdd'>
+       <and>
+          <using slotitem="2584;16;4"/>
+       </and>
+    </add>
+    <enchant val='0' order='0x0C' stat='pAtk'/>
+    <enchant val='0' order='0x0C' stat='mAtk'/>
+  </for>
+</item>
+<item id='2585' name="Katana*Caliburs">
+  <for>
+    <set val='204' order='0x08' stat='pAtk'/>
+    <set val='89' order='0x08' stat='mAtk'/>
+    <set val='8' order='0x08' stat='rCrit'/>
+    <set val='325' order='0x08' stat='pAtkSpd'/>
+    <add val='4' order='0x40' stat='accCombat'>
+       <and>
+          <using slotitem="2585;16;4"/>
+       </and>
+    </add>
+    <enchant val='0' order='0x0C' stat='pAtk'/>
+    <enchant val='0' order='0x0C' stat='mAtk'/>
+  </for>
+</item>
+<item id='2586' name="Katana*Sword of Limit">
+  <for>
+    <set val='204' order='0x08' stat='pAtk'/>
+    <set val='89' order='0x08' stat='mAtk'/>
+    <set val='8' order='0x08' stat='rCrit'/>
+    <add val='0' order='0x10' stat='accCombat'/>
+    <set val='325' order='0x08' stat='pAtkSpd'/>
+    <add val='146' order='0x10' stat='cAtkAdd'>
+       <and>
+          <using slotitem="2586;16;4"/>
+       </and>
+    </add>
+    <enchant val='0' order='0x0C' stat='pAtk'/>
+    <enchant val='0' order='0x0C' stat='mAtk'/>
+  </for>
+</item>
+<item id='2587' name="Katana*Sword of Delusion">
+  <for>
+    <set val='204' order='0x08' stat='pAtk'/>
+    <set val='89' order='0x08' stat='mAtk'/>
+    <set val='8' order='0x08' stat='rCrit'/>
+    <add val='0' order='0x10' stat='accCombat'/>
+    <set val='325' order='0x08' stat='pAtkSpd'/>
+    <enchant val='0' order='0x0C' stat='pAtk'/>
+    <enchant val='0' order='0x0C' stat='mAtk'/>
+  </for>
+</item>
+<item id='2588' name="Katana*Sword of Nightmare">
+  <for>
+    <set val='204' order='0x08' stat='pAtk'/>
+    <set val='89' order='0x08' stat='mAtk'/>
+    <set val='8' order='0x08' stat='rCrit'/>
+    <add val='0' order='0x10' stat='accCombat'/>
+    <set val='325' order='0x08' stat='pAtkSpd'/>
+    <add val='65' order='0x40' stat='rCrit'>
+       <and>
+          <using slotitem="2588;16;4"/>
+       </and>
+    </add>
+    <enchant val='0' order='0x0C' stat='pAtk'/>
+    <enchant val='0' order='0x0C' stat='mAtk'/>
+  </for>
+</item>
+<item id='2589' name="Katana*Tsurugi">
+  <for>
+    <set val='204' order='0x08' stat='pAtk'/>
+    <set val='89' order='0x08' stat='mAtk'/>
+    <set val='8' order='0x08' stat='rCrit'/>
+    <add val='0' order='0x10' stat='accCombat'/>
+    <set val='325' order='0x08' stat='pAtkSpd'/>
+    <enchant val='0' order='0x0C' stat='pAtk'/>
+    <enchant val='0' order='0x0C' stat='mAtk'/>
+  </for>
+</item>
+<item id='2590' name="Katana*Samurai Long Sword">
+  <for>
+    <set val='220' order='0x08' stat='pAtk'/>
+    <set val='94' order='0x08' stat='mAtk'/>
+    <set val='8' order='0x08' stat='rCrit'/>
+    <add val='0' order='0x10' stat='accCombat'/>
+    <set val='325' order='0x08' stat='pAtkSpd'/>
+    <add val='106' order='0x10' stat='cAtkAdd'>
+       <and>
+          <using slotitem="2590;16;4"/>
+       </and>
+    </add>
+    <enchant val='0' order='0x0C' stat='pAtk'/>
+    <enchant val='0' order='0x0C' stat='mAtk'/>
+  </for>
+</item>
+<item id='2591' name="Spirit Sword*Spirit Sword">
+  <for>
+    <set val='190' order='0x08' stat='pAtk'/>
+    <set val='83' order='0x08' stat='mAtk'/>
+    <set val='8' order='0x08' stat='rCrit'/>
+    <add val='0' order='0x10' stat='accCombat'/>
+    <set val='325' order='0x08' stat='pAtkSpd'/>
+    <enchant val='0' order='0x0C' stat='pAtk'/>
+    <enchant val='0' order='0x0C' stat='mAtk'/>
+  </for>
+</item>
+<item id='2592' name="Spirit Sword*Raid Sword">
+  <for>
+    <set val='190' order='0x08' stat='pAtk'/>
+    <set val='83' order='0x08' stat='mAtk'/>
+    <set val='8' order='0x08' stat='rCrit'/>
+    <add val='0' order='0x10' stat='accCombat'/>
+    <set val='325' order='0x08' stat='pAtkSpd'/>
+    <add val='40' order='0x40' stat='rCrit'>
+       <and>
+          <using slotitem="2592;16;4"/>
+       </and>
+    </add>
+    <enchant val='0' order='0x0C' stat='pAtk'/>
+    <enchant val='0' order='0x0C' stat='mAtk'/>
+  </for>
+</item>
+<item id='2593' name="Spirit Sword*Caliburs">
+  <for>
+    <set val='204' order='0x08' stat='pAtk'/>
+    <set val='89' order='0x08' stat='mAtk'/>
+    <set val='8' order='0x08' stat='rCrit'/>
+    <set val='325' order='0x08' stat='pAtkSpd'/>
+    <add val='4' order='0x40' stat='accCombat'>
+       <and>
+          <using slotitem="2593;16;4"/>
+       </and>
+    </add>
+    <enchant val='0' order='0x0C' stat='pAtk'/>
+    <enchant val='0' order='0x0C' stat='mAtk'/>
+  </for>
+</item>
+<item id='2594' name="Spirit Sword*Sword of Limit">
+  <for>
+    <set val='204' order='0x08' stat='pAtk'/>
+    <set val='89' order='0x08' stat='mAtk'/>
+    <set val='8' order='0x08' stat='rCrit'/>
+    <add val='0' order='0x10' stat='accCombat'/>
+    <set val='325' order='0x08' stat='pAtkSpd'/>
+    <add val='146' order='0x10' stat='cAtkAdd'>
+       <and>
+          <using slotitem="2594;16;4"/>
+       </and>
+    </add>
+    <enchant val='0' order='0x0C' stat='pAtk'/>
+    <enchant val='0' order='0x0C' stat='mAtk'/>
+  </for>
+</item>
+<item id='2595' name="Spirit Sword*Sword of Delusion">
+  <for>
+    <set val='204' order='0x08' stat='pAtk'/>
+    <set val='89' order='0x08' stat='mAtk'/>
+    <set val='8' order='0x08' stat='rCrit'/>
+    <add val='0' order='0x10' stat='accCombat'/>
+    <set val='325' order='0x08' stat='pAtkSpd'/>
+    <enchant val='0' order='0x0C' stat='pAtk'/>
+    <enchant val='0' order='0x0C' stat='mAtk'/>
+  </for>
+</item>
+<item id='2596' name="Spirit Sword*Sword of Nightmare">
+  <for>
+    <set val='204' order='0x08' stat='pAtk'/>
+    <set val='89' order='0x08' stat='mAtk'/>
+    <set val='8' order='0x08' stat='rCrit'/>
+    <add val='0' order='0x10' stat='accCombat'/>
+    <set val='325' order='0x08' stat='pAtkSpd'/>
+	<add val='65' order='0x40' stat='rCrit'>
+       <and>
+          <using slotitem="2596;16;4"/>
+       </and>
+    </add>
+    <enchant val='0' order='0x0C' stat='pAtk'/>
+    <enchant val='0' order='0x0C' stat='mAtk'/>
+  </for>
+</item>
+<item id='2597' name="Spirit Sword*Tsurugi">
+  <for>
+    <set val='204' order='0x08' stat='pAtk'/>
+    <set val='89' order='0x08' stat='mAtk'/>
+    <set val='8' order='0x08' stat='rCrit'/>
+    <add val='0' order='0x10' stat='accCombat'/>
+    <set val='325' order='0x08' stat='pAtkSpd'/>
+    <enchant val='0' order='0x0C' stat='pAtk'/>
+    <enchant val='0' order='0x0C' stat='mAtk'/>
+  </for>
+</item>
+<item id='2598' name="Spirit Sword*Samurai Long Sword">
+  <for>
+    <set val='220' order='0x08' stat='pAtk'/>
+    <set val='94' order='0x08' stat='mAtk'/>
+    <set val='8' order='0x08' stat='rCrit'/>
+    <add val='0' order='0x10' stat='accCombat'/>
+    <set val='325' order='0x08' stat='pAtkSpd'/>
+    <enchant val='0' order='0x0C' stat='pAtk'/>
+    <enchant val='0' order='0x0C' stat='mAtk'/>
+  </for>
+</item>
+<item id='2599' name="Raid Sword*Raid Sword">
+  <for>
+    <set val='190' order='0x08' stat='pAtk'/>
+    <set val='83' order='0x08' stat='mAtk'/>
+    <set val='8' order='0x08' stat='rCrit'/>
+    <add val='0' order='0x10' stat='accCombat'/>
+    <set val='325' order='0x08' stat='pAtkSpd'/>
+    <enchant val='0' order='0x0C' stat='pAtk'/>
+    <enchant val='0' order='0x0C' stat='mAtk'/>
+  </for>
+</item>
+</list>

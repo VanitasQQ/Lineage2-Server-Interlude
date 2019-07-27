@@ -1,0 +1,180 @@
+<?xml version='1.0' encoding='utf-8'?>
+
+<!-- B-Grade Armors -->
+
+<list>
+
+  <!-- Majestic Heavy Armor -->
+  <item id="1">
+    <ingredient id="4037" count="5"/>
+    <production id="2383" count="1"/>
+    <production id="2419" count="1"/>
+    <production id="5774" count="1"/>
+    <production id="5786" count="1"/>
+  </item>
+
+  <!-- Majestic Leather Armor -->
+  <item id="2">
+    <ingredient id="4037" count="5"/>
+    <production id="2395" count="1"/>
+    <production id="2419" count="1"/>
+    <production id="5775" count="1"/>
+    <production id="5787" count="1"/>
+  </item>
+
+  <!-- Majestic Robe Armor -->
+  <item id="3">
+    <ingredient id="4037" count="5"/>
+    <production id="2409" count="1"/>
+    <production id="2419" count="1"/>
+    <production id="5776" count="1"/>
+    <production id="5788" count="1"/>
+  </item>
+
+  <!-- Tallum Heavy Armor -->
+  <item id="4">
+    <ingredient id="4037" count="5"/>
+    <production id="2382" count="1"/>
+    <production id="547" count="1"/>
+    <production id="5768" count="1"/>
+    <production id="5780" count="1"/>
+  </item>
+
+  <!-- Tallum Leather Armor -->
+  <item id="5">
+    <ingredient id="4037" count="5"/>
+    <production id="2393" count="1"/>
+    <production id="547" count="1"/>
+    <production id="5769" count="1"/>
+    <production id="5781" count="1"/>
+  </item>
+
+  <!-- Tallum Robe Armor -->
+  <item id="6">
+    <ingredient id="4037" count="5"/>
+    <production id="2400" count="1"/>
+    <production id="2405" count="1"/>
+    <production id="547" count="1"/>
+    <production id="5770" count="1"/>
+    <production id="5782" count="1"/>
+  </item>
+
+  <!-- Dark Crystal Heavy Armor -->
+  <item id="7">
+    <ingredient id="4037" count="5"/>
+    <production id="365" count="1"/>
+    <production id="388" count="1"/>
+    <production id="512" count="1"/>
+    <production id="5765" count="1"/>
+    <production id="5777" count="1"/>
+    <production id="641" count="1"/>
+  </item>
+
+  <!-- Dark Crystal Light Armor -->
+  <item id="8">
+    <ingredient id="4037" count="5"/>
+    <production id="2385" count="1"/>
+    <production id="2389" count="1"/>
+    <production id="512" count="1"/>
+    <production id="5766" count="1"/>
+    <production id="5778" count="1"/>
+  </item>
+
+  <!-- Dark Crystal Robe Armor -->
+  <item id="9">
+    <ingredient id="4037" count="5"/>
+    <production id="2407" count="1"/>
+    <production id="512" count="1"/>
+    <production id="5767" count="1"/>
+    <production id="5779" count="1"/>
+  </item>
+
+  <!-- Nightmare Heavy Armor -->
+  <item id="10">
+    <ingredient id="4037" count="5"/>
+    <production id="374" count="1"/>
+    <production id="2418" count="1"/>
+    <production id="5771" count="1"/>
+    <production id="5783" count="1"/>
+    <production id="2498" count="1"/>
+  </item>
+
+  <!-- Nightmare Leather Armor -->
+  <item id="11">
+    <ingredient id="4037" count="5"/>
+    <production id="2394" count="1"/>
+    <production id="2418" count="1"/>
+    <production id="5772" count="1"/>
+    <production id="5784" count="1"/>
+  </item>
+
+  <!-- Nightmare Robe Armor -->
+  <item id="12">
+    <ingredient id="4037" count="5"/>
+    <production id="2408" count="1"/>
+    <production id="2418" count="1"/>
+    <production id="5773" count="1"/>
+    <production id="5785" count="1"/>
+  </item>
+  
+  <!-- Sealed Apella Helm -->
+  <item id="13">
+	<ingredient id="4037" count="4"/>
+	<production id="7870" count="1"/>
+  </item>
+
+  <!-- Sealed Apella Plate Armor -->
+  <item id="14">
+	<ingredient id="4037" count="5"/>
+	<production id="7871" count="1"/>
+  </item>
+
+  <!-- Sealed Apella Gauntlet -->
+  <item id="15">
+	<ingredient id="4037" count="4"/>
+	<production id="7872" count="1"/>
+  </item>
+
+  <!-- Sealed Apella Solleret -->
+  <item id="16">
+	<ingredient id="4037" count="4"/>
+	<production id="7873" count="1"/>
+  </item>
+
+  <!-- Sealed Apella Brigandine -->
+  <item id="17">
+	<ingredient id="4037" count="5"/>
+	<production id="7874" count="1"/>
+  </item>
+
+  <!-- Sealed Apella Leather Gloves -->
+  <item id="18">
+	<ingredient id="4037" count="4"/>
+	<production id="7875" count="1"/>
+  </item>
+
+  <!-- Sealed Apella Boots -->
+  <item id="19">
+	<ingredient id="4037" count="4"/>
+	<production id="7876" count="1"/>
+  </item>
+
+  <!-- Sealed Apella Doublet -->
+  <item id="20">
+	<ingredient id="4037" count="5"/>
+	<production id="7877" count="1"/>
+  </item>
+
+  <!-- Sealed Apella Silk Gloves -->
+  <item id="21">
+	<ingredient id="4037" count="4"/>
+	<production id="7878" count="1"/>
+  </item>
+
+  <!-- Sealed Apella Sandals -->
+  <item id="22">
+	<ingredient id="4037" count="4"/>
+	<production id="7879" count="1"/>
+  </item>
+
+</list>

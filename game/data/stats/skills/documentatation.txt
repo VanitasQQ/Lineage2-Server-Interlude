@@ -1,0 +1,168 @@
+
+xmls inside skills folder contain information about "skills"
+all variables are handled by core. i will try to describe each one.
+---------------------------------------------------------------------
+
+ ---------------------
+ ---- L2J VARIABLES --
+ ---------------------
+
+Variable:
+
+        PDAM,         - physycal damage skill
+        MDAM          - magical damage
+        DOT           - damage over time
+        BLEED         - bleed
+        POISON        - poison
+        HEAL          - heal
+        BALANCE_HEAL - balance hp skill 
+        HOT - heal over time 
+        COMBATPOINTHEAL - combat point heal
+        CPHOT - cp heal over time
+        MANAHEAL- mana heal 
+        MANAHEAL_PERCENT mana heal percent
+        MANARECHARGE - mana recharge
+        MPHOT - hp heal over time
+        AGGDAMAGE - agression damage
+        BUFF - buff type
+        DEBUFF - debuff type
+        EXITBUFFS  - remove buff type
+        NEEDCHARGE  - need charge type
+        STUN - stun type
+        ROOT - root type
+        RESURRECT,
+        PASSIVE,
+        CONT,
+        CONFUSION,
+        UNLOCK,
+        CHARGE               
+        FEAR,
+        MHOT,
+        DRAIN             
+        NEGATE,               
+        CANCEL,             
+        SLEEP,
+        AGGREDUCE,
+        AGGREMOVE,
+        AGGREDUCE_CHAR,
+        CHARGEDAM         
+        CONFUSE_MOB_ONLY,
+        DEATHLINK,
+        BLOW,
+        FATALCOUNTER,
+        DETECT_WEAKNESS,
+        ENCHANT_ARMOR,
+        ENCHANT_WEAPON,
+        FEED_PET,
+        HEAL_PERCENT,
+        HEAL_STATIC,
+        LUCK,
+        MANADAM,
+        MDOT,
+        MUTE,
+        RECALL,
+        REFLECT,
+        SUMMON_FRIEND,        
+        SOULSHOT,
+        SPIRITSHOT,
+        SPOIL,
+        SWEEP,
+        SUMMON             
+        WEAKNESS,
+        DEATHLINK_PET,
+        MANA_BY_LEVEL,
+        FAKE_DEATH,
+        UNBLEED,
+        UNPOISON,
+        SIEGEFLAG,
+        TAKECASTLE,
+        UNDEAD_DEFENSE,
+        SEED                
+        BEAST_FEED,        
+        PARALYZE,
+        DRAIN_SOUL,
+        COMMON_CRAFT, 
+        DWARVEN_CRAFT,
+        WEAPON_SA,
+        DELUXE_KEY_UNLOCK,
+        FISHING,
+        PUMPING,
+        REELING,
+        CANCEL_TARGET,
+        CHARGE_SELF,
+        CRITS,
+        CREATE_ITEM   
+        AGGDEBUFF,
+        COMBATPOINTPERHEAL,
+        SUMMONCP,
+        SUMMON_TREASURE_KEY,
+        SUMMON_CURSED_BONES,
+        ERASE,
+        MAGE_BANE, 
+        WARRIOR_BANE,
+        STRSIEGEASSAULT, 
+        LUCKNOBLESSE
+        RAID_DESCRIPTION,
+        UNSUMMON_ENEMY_PET,
+        BETRAY,
+        BALANCE_LIFE,
+        NOTDONE - skill not implemented.
+
+Variable:
+
+ <set name="target" val="val"/>
+ 
+ Options: 
+        TARGET_NONE - no target, this skill is not implemented yet.
+        TARGET_SELF - target is caster.
+        TARGET_ONE - any other target.
+        TARGET_PARTY  - target is caster party
+        TARGET_ALLY - target is caster ally
+        TARGET_CLAN - target is caster clan
+        TARGET_PET - target is a pet
+        TARGET_AREA - target is the area of caster (depending on radius set)
+        TARGET_AURA - target is the area of caster (depending on radius set), uses caster as center.
+        TARGET_CORPSE - target is a corpse of a mob.
+        TARGET_AREA_UNDEAD - target is a undead type moster
+        TARGET_MULTIFACE - used for gladiators 
+        TARGET_CORPSE_ALLY - target is caster ally member corpse.
+        TARGET_CORPSE_CLAN   - target is caster clan member corpse.
+        TARGET_CORPSE_PLAYER - target is a corpse of a player
+        TARGET_CORPSE_PET - target is the corpse of a pet.
+        TARGET_ITEM -- ??
+        TARGET_AREA_CORPSE_MOB - target is all mob corpses in a area(depending on radius set) 
+        TARGET_CORPSE_MOB --??
+        TARGET_UNLOCKABLE -- target is a chest/door
+        TARGET_HOLY - target is holy artefact
+        TARGET_PARTY_MEMBER  - target is a party member
+        TARGET_ENEMY_SUMMON  - target is an anemy summon
+        TARGET_OWNER_PET
+        TARGET_ENEMY_ALLY
+        TARGET_ENEMY_PET
+        TARGET_GATE
+        TARGET_MOB
+        TARGET_AREA_MOB
+        TARGET_KNOWNLIST
+        TARGET_COUPLE
+ 
+Variable:
+
+<set name="operateType" val="value"/> - defines to core how this skill will be used passive or active.
+ 
+ Options: OP_ACTIVE / OP_PASSIVE
+
+Variable:
+
+<set name="reuseDelay" val="(time in miliseconds)"/>  - sets the re use delay of skill.
+
+-----------------------
+-- L2Emu Variables ----
+-----------------------
+
+<set name="isSymbol" val="(boolean)"/> - determines that a skill is a symbol type.
+
+     Exemple: Symbol of Defense.
+     
+<set name="isForce" val="(boolean)"/> - determines that a skill is a force type.
+
+   Exemple: battle Force.

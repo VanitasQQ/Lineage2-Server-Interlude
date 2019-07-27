@@ -1,0 +1,5411 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<list>
+  <armor id="18" name="Leather Shield" armorType="Shield" >
+   <set icon="icon.shield_leather_shield_i00"/>
+   <set bodyPart="LHAND" grade="NONE"/>
+   <set crystallizable="false" />
+   <set weight="1430" price="39"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <stats>
+    <sub stat="rEvas" order="0x10" val="8"/>
+    <set stat="sDef" order="0x8" val="47"/>
+    <set stat="rShld" order="0x8" val="20"/>
+    <enchant stat="sDef" order="0xc" val="0"/>
+   </stats>
+  </armor>
+  <armor id="19" name="Small Shield" armorType="Shield" >
+   <set icon="icon.shield_small_shield_i00"/>
+   <set bodyPart="LHAND" grade="NONE"/>
+   <set crystallizable="false" />
+   <set weight="1420" price="638"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <stats>
+    <sub stat="rEvas" order="0x10" val="8"/>
+    <set stat="sDef" order="0x8" val="56"/>
+    <set stat="rShld" order="0x8" val="20"/>
+    <enchant stat="sDef" order="0xc" val="0"/>
+   </stats>
+  </armor>
+  <armor id="20" name="Buckler" armorType="Shield" >
+   <set icon="icon.shield_buckler_i00"/>
+   <set bodyPart="LHAND" grade="NONE"/>
+   <set crystallizable="false" />
+   <set weight="1410" price="2780"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <stats>
+    <sub stat="rEvas" order="0x10" val="8"/>
+    <set stat="sDef" order="0x8" val="67"/>
+    <set stat="rShld" order="0x8" val="20"/>
+    <enchant stat="sDef" order="0xc" val="0"/>
+   </stats>
+  </armor>
+  <armor id="21" name="Shirt" armorType="Light" >
+   <set icon="icon.armor_t02_u_i00"/>
+   <set bodyPart="CHEST" grade="NONE"/>
+   <set crystallizable="false" />
+   <set weight="4830" price="147"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <stats>
+    <add stat="pDef" order="0x10" val="36"/>
+   </stats>
+  </armor>
+  <armor id="22" name="Leather Shirt" armorType="Light" >
+   <set icon="icon.armor_t04_u_i00"/>
+   <set bodyPart="CHEST" grade="NONE"/>
+   <set crystallizable="false" />
+   <set weight="4830" price="2430"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <stats>
+    <add stat="pDef" order="0x10" val="43"/>
+   </stats>
+  </armor>
+  <armor id="23" name="Wooden Breastplate" armorType="Light" >
+   <set icon="icon.armor_t06_u_i00"/>
+   <set bodyPart="CHEST" grade="NONE"/>
+   <set crystallizable="false" />
+   <set weight="4820" price="7960"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <stats>
+    <add stat="pDef" order="0x10" val="47"/>
+   </stats>
+  </armor>
+  <armor id="24" name="Bone Breastplate" armorType="Light" >
+   <set icon="icon.armor_t32_u_i00"/>
+   <set bodyPart="CHEST" grade="NONE"/>
+   <set crystallizable="false" />
+   <set weight="4770" price="15600"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <stats>
+    <add stat="pDef" order="0x10" val="50"/>
+   </stats>
+  </armor>
+  <armor id="25" name="Piece Bone Breastplate" armorType="Heavy" >
+   <set icon="icon.armor_t33_u_i00"/>
+   <set bodyPart="CHEST" grade="NONE"/>
+   <set crystallizable="false" />
+   <set weight="8970" price="24480"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <stats>
+    <add stat="pDef" order="0x10" val="62"/>
+   </stats>
+  </armor>
+  <armor id="26" name="Bronze Breastplate" armorType="Heavy" >
+   <set icon="icon.armor_t34_u_i00"/>
+   <set bodyPart="CHEST" grade="NONE"/>
+   <set crystallizable="false" />
+   <set weight="8920" price="37820"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <stats>
+    <add stat="pDef" order="0x10" val="68"/>
+   </stats>
+  </armor>
+  <armor id="27" name="Hard Leather Shirt" armorType="Light" >
+   <set icon="icon.armor_t30_u_i00"/>
+   <set bodyPart="CHEST" grade="NONE"/>
+   <set crystallizable="false" />
+   <set weight="4720" price="28400"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <stats>
+    <add stat="pDef" order="0x10" val="53"/>
+   </stats>
+  </armor>
+  <armor id="28" name="Pants" armorType="Light" >
+   <set icon="icon.armor_t02_l_i00"/>
+   <set bodyPart="LEGS" grade="NONE"/>
+   <set crystallizable="false" />
+   <set weight="1740" price="92"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <stats>
+    <add stat="pDef" order="0x10" val="22"/>
+   </stats>
+  </armor>
+  <armor id="29" name="Leather Pants" armorType="Light" >
+   <set icon="icon.armor_t04_l_i00"/>
+   <set bodyPart="LEGS" grade="NONE"/>
+   <set crystallizable="false" />
+   <set weight="1730" price="1520"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <stats>
+    <add stat="pDef" order="0x10" val="27"/>
+   </stats>
+  </armor>
+  <armor id="30" name="Hard Leather Pants" armorType="Light" >
+   <set icon="icon.armor_t06_l_i00"/>
+   <set bodyPart="LEGS" grade="NONE"/>
+   <set crystallizable="false" />
+   <set weight="1700" price="4970"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <stats>
+    <add stat="pDef" order="0x10" val="29"/>
+   </stats>
+  </armor>
+  <armor id="31" name="Bone Gaiters" armorType="Light" >
+   <set icon="icon.armor_t32_l_i00"/>
+   <set bodyPart="LEGS" grade="NONE"/>
+   <set crystallizable="false" />
+   <set weight="1680" price="9770"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <stats>
+    <add stat="pDef" order="0x10" val="32"/>
+   </stats>
+  </armor>
+  <armor id="32" name="Piece Bone Gaiters" armorType="Heavy" >
+   <set icon="icon.armor_t33_l_i00"/>
+   <set bodyPart="LEGS" grade="NONE"/>
+   <set crystallizable="false" />
+   <set weight="4020" price="15300"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <stats>
+    <add stat="pDef" order="0x10" val="39"/>
+   </stats>
+  </armor>
+  <armor id="33" name="Hard Leather Gaiters" armorType="Light" >
+   <set icon="icon.armor_t30_l_i00"/>
+   <set bodyPart="LEGS" grade="NONE"/>
+   <set crystallizable="false" />
+   <set weight="1610" price="17700"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <stats>
+    <add stat="pDef" order="0x10" val="33"/>
+   </stats>
+  </armor>
+  <armor id="34" name="Bronze Gaiters" armorType="Heavy" >
+   <set icon="icon.armor_t34_l_i00"/>
+   <set bodyPart="LEGS" grade="NONE"/>
+   <set crystallizable="false" />
+   <set weight="3960" price="23600"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <stats>
+    <add stat="pDef" order="0x10" val="43"/>
+   </stats>
+  </armor>
+  <armor id="35" name="Cloth Shoes" armorType="None" >
+   <set icon="icon.armor_t02_b_i00"/>
+   <set bodyPart="FEET" grade="NONE"/>
+   <set crystallizable="false" />
+   <set weight="1320" price="37"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <stats>
+    <add stat="pDef" order="0x10" val="9"/>
+   </stats>
+  </armor>
+  <armor id="36" name="Leather Sandals" armorType="None" >
+   <set icon="icon.armor_t03_b_i00"/>
+   <set bodyPart="FEET" grade="NONE"/>
+   <set crystallizable="false" />
+   <set weight="1320" price="37"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <stats>
+    <add stat="pDef" order="0x10" val="9"/>
+   </stats>
+  </armor>
+  <armor id="37" name="Leather Shoes" armorType="None" >
+   <set icon="icon.armor_t05_b_i00"/>
+   <set bodyPart="FEET" grade="NONE"/>
+   <set crystallizable="false" />
+   <set weight="1320" price="2650"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <stats>
+    <add stat="pDef" order="0x10" val="13"/>
+   </stats>
+  </armor>
+  <armor id="38" name="Low Boots" armorType="None" >
+   <set icon="icon.armor_t32_b_i00"/>
+   <set bodyPart="FEET" grade="NONE"/>
+   <set crystallizable="false" />
+   <set weight="1320" price="5210"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <stats>
+    <add stat="pDef" order="0x10" val="15"/>
+   </stats>
+  </armor>
+  <armor id="39" name="Boots" armorType="None" >
+   <set icon="icon.armor_t30_b_i00"/>
+   <set bodyPart="FEET" grade="NONE"/>
+   <set crystallizable="false" />
+   <set weight="1310" price="9500"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <stats>
+    <add stat="pDef" order="0x10" val="17"/>
+   </stats>
+  </armor>
+  <armor id="40" name="Leather Boots" armorType="None" >
+   <set icon="icon.armor_t09_b_i00"/>
+   <set bodyPart="FEET" grade="D"/>
+   <set crystallizable="true" crystal_count="30" />
+   <set weight="1300" price="16100"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <stats>
+    <add stat="pDef" order="0x10" val="19"/>
+    <enchant stat="pDef" order="0xc" val="0"/>
+   </stats>
+  </armor>
+  <armor id="41" name="Cloth Cap" armorType="None" >
+   <set icon="icon.armor_cloth_helmet_i00"/>
+   <set bodyPart="HEAD" grade="NONE"/>
+   <set crystallizable="false" />
+   <set weight="660" price="55"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <stats>
+    <add stat="pDef" order="0x10" val="13"/>
+   </stats>
+  </armor>
+  <armor id="42" name="Leather Cap" armorType="None" >
+   <set icon="icon.armor_leather_helmet_i00"/>
+   <set bodyPart="HEAD" grade="NONE"/>
+   <set crystallizable="false" />
+   <set weight="660" price="911"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <stats>
+    <add stat="pDef" order="0x10" val="16"/>
+   </stats>
+  </armor>
+  <armor id="43" name="Wooden Helmet" armorType="None" >
+   <set icon="icon.armor_leather_helmet_i00"/>
+   <set bodyPart="HEAD" grade="NONE"/>
+   <set crystallizable="false" />
+   <set weight="660" price="3980"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <stats>
+    <add stat="pDef" order="0x10" val="19"/>
+   </stats>
+  </armor>
+  <armor id="44" name="Leather Helmet" armorType="None" >
+   <set icon="icon.armor_leather_helmet_i00"/>
+   <set bodyPart="HEAD" grade="NONE"/>
+   <set crystallizable="false" />
+   <set weight="650" price="7820"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <stats>
+    <add stat="pDef" order="0x10" val="23"/>
+   </stats>
+  </armor>
+  <armor id="45" name="Bone Helmet" armorType="None" >
+   <set icon="icon.armor_leather_helmet_i00"/>
+   <set bodyPart="HEAD" grade="D"/>
+   <set crystallizable="true" crystal_count="44" />
+   <set weight="640" price="24100"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <stats>
+    <add stat="pDef" order="0x10" val="29"/>
+    <enchant stat="pDef" order="0xc" val="0"/>
+   </stats>
+  </armor>
+  <armor id="46" name="Bronze Helmet" armorType="None" >
+   <set icon="icon.armor_helmet_i00"/>
+   <set bodyPart="HEAD" grade="D"/>
+   <set crystallizable="true" crystal_count="71" />
+   <set weight="630" price="38400"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <stats>
+    <add stat="pDef" order="0x10" val="33"/>
+    <enchant stat="pDef" order="0xc" val="0"/>
+   </stats>
+  </armor>
+  <armor id="47" name="Helmet" armorType="None" >
+   <set icon="icon.armor_helmet_i00"/>
+   <set bodyPart="HEAD" grade="D"/>
+   <set crystallizable="true" crystal_count="108" />
+   <set weight="640" price="58600"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <stats>
+    <add stat="pDef" order="0x10" val="37"/>
+    <enchant stat="pDef" order="0xc" val="0"/>
+   </stats>
+  </armor>
+  <armor id="48" name="Short Gloves" armorType="None" >
+   <set icon="icon.armor_t02_g_i00"/>
+   <set bodyPart="GLOVES" grade="NONE"/>
+   <set crystallizable="false" />
+   <set weight="660" price="37"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <stats>
+    <add stat="pDef" order="0x10" val="9"/>
+   </stats>
+  </armor>
+  <armor id="49" name="Gloves" armorType="None" >
+   <set icon="icon.armor_t06_g_i00"/>
+   <set bodyPart="GLOVES" grade="NONE"/>
+   <set crystallizable="false" />
+   <set weight="660" price="2650"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <stats>
+    <add stat="pDef" order="0x10" val="13"/>
+   </stats>
+  </armor>
+  <armor id="50" name="Leather Gloves" armorType="None" >
+   <set icon="icon.armor_t32_g_i00"/>
+   <set bodyPart="GLOVES" grade="NONE"/>
+   <set crystallizable="false" />
+   <set weight="650" price="5210"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <stats>
+    <add stat="pDef" order="0x10" val="15"/>
+   </stats>
+  </armor>
+  <armor id="51" name="Bracer" armorType="None" >
+   <set icon="icon.armor_t30_g_i00"/>
+   <set bodyPart="GLOVES" grade="NONE"/>
+   <set crystallizable="false" />
+   <set weight="650" price="9500"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <stats>
+    <add stat="pDef" order="0x10" val="17"/>
+   </stats>
+  </armor>
+  <armor id="52" name="Vesper Dual Sword" armorType="None" >
+   <set icon="icon.armor_back01"/>
+   <set bodyPart="UNDERWEAR" grade="NONE"/>
+   <set crystallizable="false" />
+   <set weight="260" price="37"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <stats>
+    <add stat="pDef" order="0x10" val="2"/>
+   </stats>
+  </armor>
+  <armor id="53" name="Cotton Cloak" armorType="None" >
+   <set icon="icon.armor_back02"/>
+   <set bodyPart="UNDERWEAR" grade="NONE"/>
+   <set crystallizable="false" />
+   <set weight="250" price="607"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <stats>
+    <add stat="pDef" order="0x10" val="3"/>
+   </stats>
+  </armor>
+  <armor id="54" name="Silk Cloak" armorType="None" >
+   <set icon="icon.armor_back03"/>
+   <set bodyPart="UNDERWEAR" grade="NONE"/>
+   <set crystallizable="false" />
+   <set weight="250" price="2650"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <stats>
+    <add stat="pDef" order="0x10" val="4"/>
+   </stats>
+  </armor>
+  <armor id="55" name="Cotton Undergarment" armorType="None" >
+   <set icon="icon.armor_underwear01"/>
+   <set bodyPart="UNDERWEAR" grade="NONE"/>
+   <set crystallizable="false" />
+   <set weight="170" price="18"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <stats>
+    <add stat="pDef" order="0x10" val="4"/>
+   </stats>
+  </armor>
+  <armor id="56" name="Wool Undergarment" armorType="None" >
+   <set icon="icon.armor_underwear01"/>
+   <set bodyPart="UNDERWEAR" grade="NONE"/>
+   <set crystallizable="false" />
+   <set weight="170" price="304"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <stats>
+    <add stat="pDef" order="0x10" val="5"/>
+   </stats>
+  </armor>
+  <armor id="58" name="Mithril Breastplate" armorType="Heavy" >
+   <set icon="icon.armor_t19_u_i00"/>
+   <set bodyPart="CHEST" grade="D"/>
+   <set crystallizable="true" crystal_count="260" />
+   <set weight="8670" price="141100"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <stats>
+    <add stat="pDef" order="0x10" val="95"/>
+    <enchant stat="pDef" order="0xc" val="0"/>
+   </stats>
+  </armor>
+  <armor id="59" name="Mithril Gaiters" armorType="Heavy" >
+   <set icon="icon.armor_t19_l_i00"/>
+   <set bodyPart="LEGS" grade="D"/>
+   <set crystallizable="true" crystal_count="180" />
+   <set weight="3830" price="97600"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <stats>
+    <add stat="pDef" order="0x10" val="61"/>
+    <enchant stat="pDef" order="0xc" val="0"/>
+   </stats>
+  </armor>
+  <armor id="60" name="Composite Armor" armorType="Heavy" >
+   <set icon="icon.armor_t61_ul_i00"/>
+   <set bodyPart="FULLARMOR" grade="C"/>
+   <set crystallizable="true" crystal_count="491" />
+   <set weight="10980" price="1227000"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <stats>
+    <add stat="pDef" order="0x10" val="224"/>
+    <enchant stat="pDef" order="0xc" val="0"/>
+   </stats>
+  </armor>
+  <armor id="61" name="Mithril Plate Gloves" armorType="None" >
+   <set icon="icon.armor_t46_g_i00"/>
+   <set bodyPart="GLOVES" grade="D"/>
+   <set crystallizable="true" crystal_count="137" />
+   <set weight="630" price="75200"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <stats>
+    <add stat="pDef" order="0x10" val="29"/>
+    <enchant stat="pDef" order="0xc" val="0"/>
+   </stats>
+  </armor>
+  <armor id="62" name="Mithril Boots" armorType="None" >
+   <set icon="icon.armor_t47_b_i00"/>
+   <set bodyPart="FEET" grade="C"/>
+   <set crystallizable="true" crystal_count="39" />
+   <set weight="1230" price="97100"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <stats>
+    <add stat="pDef" order="0x10" val="32"/>
+    <enchant stat="pDef" order="0xc" val="0"/>
+   </stats>
+  </armor>
+  <armor id="63" name="Gauntlets" armorType="None" >
+   <set icon="icon.armor_t10_g_i00"/>
+   <set bodyPart="GLOVES" grade="D"/>
+   <set crystallizable="true" crystal_count="71" />
+   <set weight="640" price="39100"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <stats>
+    <add stat="pDef" order="0x10" val="24"/>
+    <enchant stat="pDef" order="0xc" val="0"/>
+   </stats>
+  </armor>
+  <armor id="64" name="Composite Boots" armorType="None" >
+   <set icon="icon.armor_t61_b_i00"/>
+   <set bodyPart="FEET" grade="C"/>
+   <set crystallizable="true" crystal_count="76" />
+   <set weight="1220" price="188800"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <stats>
+    <add stat="pDef" order="0x10" val="36"/>
+    <enchant stat="pDef" order="0xc" val="0"/>
+   </stats>
+  </armor>
+  <armor id="102" name="Round Shield" armorType="Shield" >
+   <set icon="icon.shield_round_shield_i00"/>
+   <set bodyPart="LHAND" grade="NONE"/>
+   <set crystallizable="false" />
+   <set weight="1390" price="5470"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <stats>
+    <sub stat="rEvas" order="0x10" val="8"/>
+    <set stat="sDef" order="0x8" val="79"/>
+    <set stat="rShld" order="0x8" val="20"/>
+    <enchant stat="sDef" order="0xc" val="0"/>
+   </stats>
+  </armor>
+  <armor id="103" name="Tower Shield" armorType="Shield" >
+   <set icon="icon.shield_tower_shield_i00"/>
+   <set bodyPart="LHAND" grade="C"/>
+   <set crystallizable="true" crystal_count="79" />
+   <set weight="1240" price="198300"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <stats>
+    <sub stat="rEvas" order="0x10" val="8"/>
+    <set stat="sDef" order="0x8" val="190"/>
+    <set stat="rShld" order="0x8" val="20"/>
+    <enchant stat="sDef" order="0xc" val="0"/>
+   </stats>
+  </armor>
+  <armor id="104" name="Shield of Victory" armorType="Shield" >
+   <set icon="icon.shield_small_shield_i00"/>
+   <set bodyPart="LHAND" grade="B"/>
+   <set crystallizable="true" crystal_count="73" />
+   <set weight="6400" price="545000"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <stats>
+    <sub stat="rEvas" order="0x10" val="8"/>
+    <set stat="sDef" order="0x8" val="216"/>
+    <set stat="rShld" order="0x8" val="20"/>
+    <enchant stat="sDef" order="0xc" val="0"/>
+   </stats>
+  </armor>
+  <armor id="105" name="Implosion Shield" armorType="Shield" >
+   <set icon="icon.shield_doom_shield_i00"/>
+   <set bodyPart="LHAND" grade="B"/>
+   <set crystallizable="true" crystal_count="73" />
+   <set weight="4800" price="545000"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <stats>
+    <sub stat="rEvas" order="0x10" val="8"/>
+    <set stat="sDef" order="0x8" val="216"/>
+    <set stat="rShld" order="0x8" val="20"/>
+    <enchant stat="sDef" order="0xc" val="0"/>
+   </stats>
+  </armor>
+  <armor id="106" name="Dark Dragon Shield" armorType="Shield" >
+   <set icon="icon.shield_dark_dragon_shield_i00"/>
+   <set bodyPart="LHAND" grade="B"/>
+   <set crystallizable="true" crystal_count="113" />
+   <set weight="4800" price="845000"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <stats>
+    <sub stat="rEvas" order="0x10" val="8"/>
+    <set stat="sDef" order="0x8" val="230"/>
+    <set stat="rShld" order="0x8" val="20"/>
+    <enchant stat="sDef" order="0xc" val="0"/>
+   </stats>
+  </armor>
+  <armor id="107" name="Composite Shield" armorType="Shield" >
+   <set icon="icon.shield_composite_shield_i00"/>
+   <set bodyPart="LHAND" grade="C"/>
+   <set crystallizable="true" crystal_count="79" />
+   <set weight="1230" price="198300"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <stats>
+    <sub stat="rEvas" order="0x10" val="8"/>
+    <set stat="sDef" order="0x8" val="190"/>
+    <set stat="rShld" order="0x8" val="20"/>
+    <enchant stat="sDef" order="0xc" val="0"/>
+   </stats>
+  </armor>
+  <armor id="108" name="Masterpiece Shield" armorType="Shield" >
+   <set icon="icon.shield_masterpiece_shield_i00"/>
+   <set bodyPart="LHAND" grade="B"/>
+   <set crystallizable="true" crystal_count="113" />
+   <set weight="5600" price="845000"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <stats>
+    <sub stat="rEvas" order="0x10" val="8"/>
+    <set stat="sDef" order="0x8" val="230"/>
+    <set stat="rShld" order="0x8" val="20"/>
+    <enchant stat="sDef" order="0xc" val="0"/>
+   </stats>
+  </armor>
+  <armor id="109" name="Shield of Solar Eclipse" armorType="Shield" >
+   <set icon="icon.shield_shield_of_sola_eclipse_i00"/>
+   <set bodyPart="LHAND" grade="B"/>
+   <set crystallizable="true" crystal_count="73" />
+   <set weight="4800" price="545000"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <stats>
+    <sub stat="rEvas" order="0x10" val="8"/>
+    <set stat="sDef" order="0x8" val="216"/>
+    <set stat="rShld" order="0x8" val="20"/>
+    <enchant stat="sDef" order="0xc" val="0"/>
+   </stats>
+  </armor>
+  <armor id="110" name="Doom Shield" armorType="Shield" >
+   <set icon="icon.shield_doom_shield_i00"/>
+   <set bodyPart="LHAND" grade="B"/>
+   <set crystallizable="true" crystal_count="87" />
+   <set weight="1200" price="845000"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <stats>
+    <sub stat="rEvas" order="0x10" val="8"/>
+    <set stat="sDef" order="0x8" val="230"/>
+    <set stat="rShld" order="0x8" val="20"/>
+    <enchant stat="sDef" order="0xc" val="0"/>
+   </stats>
+  </armor>
+  <armor id="111" name="Shield of Pledge" armorType="Shield" >
+   <set icon="icon.shield_shield_of_pledge_i00"/>
+   <set bodyPart="LHAND" grade="B"/>
+   <set crystallizable="true" crystal_count="73" />
+   <set weight="4800" price="545000"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <stats>
+    <sub stat="rEvas" order="0x10" val="8"/>
+    <set stat="sDef" order="0x8" val="216"/>
+    <set stat="rShld" order="0x8" val="20"/>
+    <enchant stat="sDef" order="0xc" val="0"/>
+   </stats>
+  </armor>
+  <armor id="347" name="Ring Mail Breastplate" armorType="Heavy" >
+   <set icon="icon.armor_t12_u_i00"/>
+   <set bodyPart="CHEST" grade="D"/>
+   <set crystallizable="true" crystal_count="119" />
+   <set weight="8820" price="83500"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <stats>
+    <add stat="pDef" order="0x10" val="77"/>
+    <enchant stat="pDef" order="0xc" val="0"/>
+   </stats>
+  </armor>
+  <armor id="348" name="Scale Mail" armorType="Heavy" >
+   <set icon="icon.armor_t08_u_i00"/>
+   <set bodyPart="CHEST" grade="D"/>
+   <set crystallizable="true" crystal_count="189" />
+   <set weight="8720" price="102500"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <stats>
+    <add stat="pDef" order="0x10" val="87"/>
+    <enchant stat="pDef" order="0xc" val="0"/>
+   </stats>
+  </armor>
+  <armor id="349" name="Compound Scale Mail" armorType="Heavy" >
+   <set icon="icon.armor_t20_u_i00"/>
+   <set bodyPart="CHEST" grade="D"/>
+   <set crystallizable="true" crystal_count="260" />
+   <set weight="8620" price="141100"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <stats>
+    <add stat="pDef" order="0x10" val="95"/>
+    <enchant stat="pDef" order="0xc" val="0"/>
+   </stats>
+  </armor>
+  <armor id="350" name="Dwarven Scale Mail" armorType="Heavy" >
+   <set icon="icon.armor_t15_u_i00"/>
+   <set bodyPart="CHEST" grade="D"/>
+   <set crystallizable="true" crystal_count="260" />
+   <set weight="8540" price="141100"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <stats>
+    <add stat="pDef" order="0x10" val="95"/>
+    <enchant stat="pDef" order="0xc" val="0"/>
+   </stats>
+  </armor>
+  <armor id="351" name="Blast Plate" armorType="Heavy" >
+   <set icon="icon.armor_t40_u_i00"/>
+   <set bodyPart="CHEST" grade="D"/>
+   <set crystallizable="true" crystal_count="288" />
+   <set weight="8420" price="203000"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <stats>
+    <add stat="pDef" order="0x10" val="97"/>
+    <enchant stat="pDef" order="0xc" val="0"/>
+   </stats>
+  </armor>
+  <armor id="352" name="Brigandine Tunic" armorType="Heavy" >
+   <set icon="icon.armor_t43_u_i00"/>
+   <set bodyPart="CHEST" grade="D"/>
+   <set crystallizable="true" crystal_count="424" />
+   <set weight="8320" price="229700"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <stats>
+    <add stat="pDef" order="0x10" val="103"/>
+    <enchant stat="pDef" order="0xc" val="0"/>
+   </stats>
+  </armor>
+  <armor id="353" name="Half Plate Armor" armorType="Heavy" >
+   <set icon="icon.armor_t46_u_i00"/>
+   <set bodyPart="CHEST" grade="D"/>
+   <set crystallizable="true" crystal_count="555" />
+   <set weight="8220" price="300800"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <stats>
+    <add stat="pDef" order="0x10" val="111"/>
+    <enchant stat="pDef" order="0xc" val="0"/>
+   </stats>
+  </armor>
+  <armor id="354" name="Chain Mail Shirt" armorType="Heavy" >
+   <set icon="icon.armor_t48_u_i00"/>
+   <set bodyPart="CHEST" grade="C"/>
+   <set crystallizable="true" crystal_count="155" />
+   <set weight="8120" price="388600"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <stats>
+    <add stat="pDef" order="0x10" val="120"/>
+    <enchant stat="pDef" order="0xc" val="0"/>
+   </stats>
+  </armor>
+  <armor id="355" name="Dwarven Chain Mail Shirt" armorType="Heavy" >
+   <set icon="icon.armor_t60_u_i00"/>
+   <set bodyPart="CHEST" grade="C"/>
+   <set crystallizable="true" crystal_count="198" />
+   <set weight="8070" price="495500"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <stats>
+    <add stat="pDef" order="0x10" val="129"/>
+    <enchant stat="pDef" order="0xc" val="0"/>
+   </stats>
+  </armor>
+  <armor id="356" name="Full Plate Armor" armorType="Heavy" >
+   <set icon="icon.armor_t62_ul_i00"/>
+   <set bodyPart="FULLARMOR" grade="C"/>
+   <set crystallizable="true" crystal_count="715" />
+   <set weight="10480" price="1788000"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <stats>
+    <add stat="pDef" order="0x10" val="239"/>
+    <enchant stat="pDef" order="0xc" val="0"/>
+   </stats>
+  </armor>
+  <armor id="357" name="Zubei's Breastplate" armorType="Heavy" >
+   <set icon="icon.armor_t64_u_i00"/>
+   <set bodyPart="CHEST" grade="B"/>
+   <set crystallizable="true" crystal_count="213" />
+   <set weight="7970" price="2080000"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <stats>
+    <add stat="pDef" order="0x10" val="157"/>
+    <enchant stat="pDef" order="0xc" val="0"/>
+   </stats>
+  </armor>
+  <armor id="358" name="Blue Wolf Breastplate" armorType="Heavy" >
+   <set icon="icon.armor_t68_u_i00"/>
+   <set bodyPart="CHEST" grade="B"/>
+   <set crystallizable="true" crystal_count="330" />
+   <set weight="7820" price="3220000"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <stats>
+    <add stat="pDef" order="0x10" val="166"/>
+    <enchant stat="pDef" order="0xc" val="0"/>
+   </stats>
+  </armor>
+  <armor id="359" name="Shining Dragon Armor" armorType="Heavy" >
+   <set icon="icon.armor_composite_armor_i02"/>
+   <set bodyPart="FULLARMOR" grade="B"/>
+   <set crystallizable="true" crystal_count="903" />
+   <set weight="6400" price="6770000"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <stats>
+    <add stat="pDef" order="0x10" val="301"/>
+    <enchant stat="pDef" order="0xc" val="0"/>
+   </stats>
+  </armor>
+  <armor id="360" name="Armor of Victory" armorType="Heavy" >
+   <set icon="icon.armor_dwarven_scale_mail_i00"/>
+   <set bodyPart="CHEST" grade="B"/>
+   <set crystallizable="true" crystal_count="429" />
+   <set weight="3360" price="3220000"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <stats>
+    <add stat="pDef" order="0x10" val="175"/>
+    <enchant stat="pDef" order="0xc" val="0"/>
+   </stats>
+  </armor>
+  <armor id="361" name="Breastplate of Valor" armorType="Heavy" >
+   <set icon="icon.armor_dwarven_scale_mail_i00"/>
+   <set bodyPart="CHEST" grade="B"/>
+   <set crystallizable="true" crystal_count="617" />
+   <set weight="3360" price="4630000"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <stats>
+    <add stat="pDef" order="0x10" val="185"/>
+    <enchant stat="pDef" order="0xc" val="0"/>
+   </stats>
+  </armor>
+  <armor id="362" name="Glorious Armor" armorType="Heavy" >
+   <set icon="icon.armor_composite_armor_i02"/>
+   <set bodyPart="FULLARMOR" grade="B"/>
+   <set crystallizable="true" crystal_count="628" />
+   <set weight="6720" price="4710000"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <stats>
+    <add stat="pDef" order="0x10" val="284"/>
+    <enchant stat="pDef" order="0xc" val="0"/>
+   </stats>
+  </armor>
+  <armor id="363" name="Red Flame Armor" armorType="Heavy" >
+   <set icon="icon.armor_composite_armor_i02"/>
+   <set bodyPart="FULLARMOR" grade="B"/>
+   <set crystallizable="true" crystal_count="903" />
+   <set weight="6400" price="6770000"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <stats>
+    <add stat="pDef" order="0x10" val="301"/>
+    <enchant stat="pDef" order="0xc" val="0"/>
+   </stats>
+  </armor>
+  <armor id="364" name="Elven Crystal Breastplate" armorType="Heavy" >
+   <set icon="icon.armor_dwarven_scale_mail_i00"/>
+   <set bodyPart="CHEST" grade="B"/>
+   <set crystallizable="true" crystal_count="429" />
+   <set weight="2400" price="3220000"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <stats>
+    <add stat="pDef" order="0x10" val="175"/>
+    <enchant stat="pDef" order="0xc" val="0"/>
+   </stats>
+  </armor>
+  <armor id="365" name="Dark Crystal Breastplate" armorType="Heavy" >
+   <set icon="icon.armor_t74_u_i00"/>
+   <set bodyPart="CHEST" grade="A"/>
+   <set crystallizable="true" crystal_count="285" />
+   <set weight="7700" price="4630000"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <stats>
+    <add stat="pDef" order="0x10" val="171"/>
+    <enchant stat="pDef" order="0xc" val="0"/>
+   </stats>
+  </armor>
+  <armor id="366" name="Implosion Armor" armorType="Heavy" >
+   <set icon="icon.armor_composite_armor_i02"/>
+   <set bodyPart="FULLARMOR" grade="B"/>
+   <set crystallizable="true" crystal_count="628" />
+   <set weight="6080" price="4710000"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <stats>
+    <add stat="pDef" order="0x10" val="284"/>
+    <enchant stat="pDef" order="0xc" val="0"/>
+   </stats>
+  </armor>
+  <armor id="367" name="Dark Dragon Armor" armorType="Heavy" >
+   <set icon="icon.armor_composite_armor_i02"/>
+   <set bodyPart="FULLARMOR" grade="B"/>
+   <set crystallizable="true" crystal_count="903" />
+   <set weight="5760" price="6770000"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <stats>
+    <add stat="pDef" order="0x10" val="301"/>
+    <enchant stat="pDef" order="0xc" val="0"/>
+   </stats>
+  </armor>
+  <armor id="368" name="Elven Vagian Armor" armorType="Heavy" >
+   <set icon="icon.armor_composite_armor_i02"/>
+   <set bodyPart="FULLARMOR" grade="B"/>
+   <set crystallizable="true" crystal_count="628" />
+   <set weight="2400" price="4710000"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <stats>
+    <add stat="pDef" order="0x10" val="284"/>
+    <enchant stat="pDef" order="0xc" val="0"/>
+   </stats>
+  </armor>
+  <armor id="369" name="Dark Vagian Armor" armorType="Heavy" >
+   <set icon="icon.armor_composite_armor_i02"/>
+   <set bodyPart="FULLARMOR" grade="B"/>
+   <set crystallizable="true" crystal_count="903" />
+   <set weight="2400" price="6770000"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <stats>
+    <add stat="pDef" order="0x10" val="301"/>
+    <enchant stat="pDef" order="0xc" val="0"/>
+   </stats>
+  </armor>
+  <armor id="370" name="Complete Set of Plate Armor" armorType="Heavy" >
+   <set icon="icon.armor_composite_armor_i02"/>
+   <set bodyPart="FULLARMOR" grade="B"/>
+   <set crystallizable="true" crystal_count="628" />
+   <set weight="6400" price="4710000"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <stats>
+    <add stat="pDef" order="0x10" val="284"/>
+    <enchant stat="pDef" order="0xc" val="0"/>
+   </stats>
+  </armor>
+  <armor id="371" name="Hell Plate" armorType="Heavy" >
+   <set icon="icon.armor_composite_armor_i02"/>
+   <set bodyPart="FULLARMOR" grade="B"/>
+   <set crystallizable="true" crystal_count="903" />
+   <set weight="6400" price="6770000"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <stats>
+    <add stat="pDef" order="0x10" val="301"/>
+    <enchant stat="pDef" order="0xc" val="0"/>
+   </stats>
+  </armor>
+  <armor id="372" name="Art of Plate" armorType="Heavy" >
+   <set icon="icon.armor_composite_armor_i02"/>
+   <set bodyPart="FULLARMOR" grade="B"/>
+   <set crystallizable="true" crystal_count="628" />
+   <set weight="6720" price="4710000"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <stats>
+    <add stat="pDef" order="0x10" val="284"/>
+    <enchant stat="pDef" order="0xc" val="0"/>
+   </stats>
+  </armor>
+  <armor id="373" name="Masterpiece Armor" armorType="Heavy" >
+   <set icon="icon.armor_composite_armor_i02"/>
+   <set bodyPart="FULLARMOR" grade="B"/>
+   <set crystallizable="true" crystal_count="903" />
+   <set weight="5600" price="6770000"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <stats>
+    <add stat="pDef" order="0x10" val="301"/>
+    <enchant stat="pDef" order="0xc" val="0"/>
+   </stats>
+  </armor>
+  <armor id="374" name="Armor of Nightmare" armorType="Heavy" >
+   <set icon="icon.armor_t80_ul_i00"/>
+   <set bodyPart="FULLARMOR" grade="A"/>
+   <set crystallizable="true" crystal_count="704" />
+   <set weight="9580" price="10300000"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <stats>
+    <add stat="pDef" order="0x10" val="293"/>
+    <enchant stat="pDef" order="0xc" val="0"/>
+   </stats>
+  </armor>
+  <armor id="375" name="Dragon Scale Mail" armorType="Heavy" >
+   <set icon="icon.armor_t15_u_i00"/>
+   <set bodyPart="CHEST" grade="S"/>
+   <set crystallizable="true" crystal_count="525" />
+   <set weight="7620" price="10500000"/>
+   <set sellable="false" tradeable="false" />
+   <set dropable="false" destroyable="true"/>
+
+   <stats>
+    <add stat="pDef" order="0x10" val="198"/>
+    <enchant stat="pDef" order="0xc" val="0"/>
+   </stats>
+  </armor>
+  <armor id="376" name="Iron Plate Gaiters" armorType="Heavy" >
+   <set icon="icon.armor_t12_l_i00"/>
+   <set bodyPart="LEGS" grade="D"/>
+   <set crystallizable="true" crystal_count="74" />
+   <set weight="3820" price="40100"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <stats>
+    <add stat="pDef" order="0x10" val="48"/>
+    <enchant stat="pDef" order="0xc" val="0"/>
+   </stats>
+  </armor>
+  <armor id="377" name="Scale Gaiters" armorType="Heavy" >
+   <set icon="icon.armor_t08_l_i00"/>
+   <set bodyPart="LEGS" grade="D"/>
+   <set crystallizable="true" crystal_count="118" />
+   <set weight="3860" price="64100"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <stats>
+    <add stat="pDef" order="0x10" val="54"/>
+    <enchant stat="pDef" order="0xc" val="0"/>
+   </stats>
+  </armor>
+  <armor id="378" name="Compound Scale Gaiters" armorType="Heavy" >
+   <set icon="icon.armor_t20_l_i00"/>
+   <set bodyPart="LEGS" grade="D"/>
+   <set crystallizable="true" crystal_count="180" />
+   <set weight="3770" price="97600"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <stats>
+    <add stat="pDef" order="0x10" val="61"/>
+    <enchant stat="pDef" order="0xc" val="0"/>
+   </stats>
+  </armor>
+  <armor id="379" name="Dwarven Scale Gaiters" armorType="Heavy" >
+   <set icon="icon.armor_t15_l_i00"/>
+   <set bodyPart="LEGS" grade="D"/>
+   <set crystallizable="true" crystal_count="180" />
+   <set weight="3840" price="97600"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <stats>
+    <add stat="pDef" order="0x10" val="61"/>
+    <enchant stat="pDef" order="0xc" val="0"/>
+   </stats>
+  </armor>
+  <armor id="380" name="Plate Gaiters" armorType="Heavy" >
+   <set icon="icon.armor_t46_l_i00"/>
+   <set bodyPart="LEGS" grade="D"/>
+   <set crystallizable="true" crystal_count="347" />
+   <set weight="3770" price="188000"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <stats>
+    <add stat="pDef" order="0x10" val="70"/>
+    <enchant stat="pDef" order="0xc" val="0"/>
+   </stats>
+  </armor>
+  <armor id="381" name="Chain Gaiters" armorType="Heavy" >
+   <set icon="icon.armor_t48_l_i00"/>
+   <set bodyPart="LEGS" grade="C"/>
+   <set crystallizable="true" crystal_count="97" />
+   <set weight="3680" price="242900"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <stats>
+    <add stat="pDef" order="0x10" val="75"/>
+    <enchant stat="pDef" order="0xc" val="0"/>
+   </stats>
+  </armor>
+  <armor id="382" name="Dwarven Chain Gaiters" armorType="Heavy" >
+   <set icon="icon.armor_t60_l_i00"/>
+   <set bodyPart="LEGS" grade="C"/>
+   <set crystallizable="true" crystal_count="124" />
+   <set weight="3620" price="309700"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <stats>
+    <add stat="pDef" order="0x10" val="80"/>
+    <enchant stat="pDef" order="0xc" val="0"/>
+   </stats>
+  </armor>
+  <armor id="383" name="Zubei's Gaiters" armorType="Heavy" >
+   <set icon="icon.armor_t64_l_i00"/>
+   <set bodyPart="LEGS" grade="B"/>
+   <set crystallizable="true" crystal_count="133" />
+   <set weight="3570" price="1300000"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <stats>
+    <add stat="pDef" order="0x10" val="98"/>
+    <enchant stat="pDef" order="0xc" val="0"/>
+   </stats>
+  </armor>
+  <armor id="384" name="Wolf Gaiters" armorType="Heavy" >
+   <set icon="icon.armor_plate_gaiters_i00"/>
+   <set bodyPart="LEGS" grade="B"/>
+   <set crystallizable="true" crystal_count="206" />
+   <set weight="2560" price="2010000"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <stats>
+    <add stat="pDef" order="0x10" val="109"/>
+    <enchant stat="pDef" order="0xc" val="0"/>
+   </stats>
+  </armor>
+  <armor id="385" name="Gaiters of Victory" armorType="Heavy" >
+   <set icon="icon.armor_plate_gaiters_i00"/>
+   <set bodyPart="LEGS" grade="B"/>
+   <set crystallizable="true" crystal_count="268" />
+   <set weight="2240" price="2010000"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <stats>
+    <add stat="pDef" order="0x10" val="109"/>
+    <enchant stat="pDef" order="0xc" val="0"/>
+   </stats>
+  </armor>
+  <armor id="386" name="Gaiters of Valor" armorType="Heavy" >
+   <set icon="icon.armor_plate_gaiters_i00"/>
+   <set bodyPart="LEGS" grade="B"/>
+   <set crystallizable="true" crystal_count="385" />
+   <set weight="2240" price="2890000"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <stats>
+    <add stat="pDef" order="0x10" val="116"/>
+    <enchant stat="pDef" order="0xc" val="0"/>
+   </stats>
+  </armor>
+  <armor id="387" name="Elven Crystal Gaiters" armorType="Heavy" >
+   <set icon="icon.armor_plate_gaiters_i00"/>
+   <set bodyPart="LEGS" grade="B"/>
+   <set crystallizable="true" crystal_count="268" />
+   <set weight="2240" price="2010000"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <stats>
+    <add stat="pDef" order="0x10" val="109"/>
+    <enchant stat="pDef" order="0xc" val="0"/>
+   </stats>
+  </armor>
+  <armor id="388" name="Dark Crystal Gaiters" armorType="Heavy" >
+   <set icon="icon.armor_t74_l_i00"/>
+   <set bodyPart="LEGS" grade="A"/>
+   <set crystallizable="true" crystal_count="178" />
+   <set weight="3320" price="2890000"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <stats>
+    <add stat="pDef" order="0x10" val="107"/>
+    <enchant stat="pDef" order="0xc" val="0"/>
+   </stats>
+  </armor>
+  <armor id="389" name="Dragon Scale Gaiters" armorType="Heavy" >
+   <set icon="icon.armor_t15_l_i00"/>
+   <set bodyPart="LEGS" grade="S"/>
+   <set crystallizable="true" crystal_count="299" />
+   <set weight="3260" price="5980000"/>
+   <set sellable="false" tradeable="false" />
+   <set dropable="false" destroyable="true"/>
+
+   <stats>
+    <add stat="pDef" order="0x10" val="122"/>
+    <enchant stat="pDef" order="0xc" val="0"/>
+   </stats>
+  </armor>
+  <armor id="390" name="Cotton Shirt" armorType="Light" >
+   <set icon="icon.armor_t07_u_i00"/>
+   <set bodyPart="CHEST" grade="NONE"/>
+   <set crystallizable="false" />
+   <set weight="4770" price="15600"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <stats>
+    <add stat="pDef" order="0x10" val="50"/>
+   </stats>
+  </armor>
+  <armor id="391" name="Puma Skin Shirt" armorType="Light" >
+   <set icon="icon.armor_t09_u_i00"/>
+   <set bodyPart="CHEST" grade="D"/>
+   <set crystallizable="true" crystal_count="89" />
+   <set weight="4700" price="48200"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <stats>
+    <add stat="pDef" order="0x10" val="58"/>
+    <enchant stat="pDef" order="0xc" val="0"/>
+   </stats>
+  </armor>
+  <armor id="392" name="Lion Skin Shirt" armorType="Light" >
+   <set icon="icon.armor_t18_u_i00"/>
+   <set bodyPart="CHEST" grade="D"/>
+   <set crystallizable="true" crystal_count="142" />
+   <set weight="4580" price="76900"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <stats>
+    <add stat="pDef" order="0x10" val="65"/>
+    <enchant stat="pDef" order="0xc" val="0"/>
+   </stats>
+  </armor>
+  <armor id="393" name="Mithril Banded Mail" armorType="Light" >
+   <set icon="icon.armor_t10_u_i00"/>
+   <set bodyPart="CHEST" grade="D"/>
+   <set crystallizable="true" crystal_count="216" />
+   <set weight="4570" price="117000"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <stats>
+    <add stat="pDef" order="0x10" val="73"/>
+    <enchant stat="pDef" order="0xc" val="0"/>
+   </stats>
+  </armor>
+  <armor id="394" name="Reinforced Leather Shirt" armorType="Light" >
+   <set icon="icon.armor_t13_u_i00"/>
+   <set bodyPart="CHEST" grade="D"/>
+   <set crystallizable="true" crystal_count="216" />
+   <set weight="4570" price="117000"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <stats>
+    <add stat="pDef" order="0x10" val="73"/>
+    <enchant stat="pDef" order="0xc" val="0"/>
+   </stats>
+  </armor>
+  <armor id="395" name="Manticore Skin Shirt" armorType="Light" >
+   <set icon="icon.armor_t42_u_i00"/>
+   <set bodyPart="CHEST" grade="D"/>
+   <set crystallizable="true" crystal_count="318" />
+   <set weight="4520" price="172000"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <stats>
+    <add stat="pDef" order="0x10" val="77"/>
+    <enchant stat="pDef" order="0xc" val="0"/>
+   </stats>
+  </armor>
+  <armor id="396" name="Salamander Skin Mail" armorType="Light" >
+   <set icon="icon.armor_t45_ul_i00"/>
+   <set bodyPart="FULLARMOR" grade="D"/>
+   <set crystallizable="true" crystal_count="677" />
+   <set weight="6100" price="366600"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <stats>
+    <add stat="pDef" order="0x10" val="136"/>
+    <enchant stat="pDef" order="0xc" val="0"/>
+   </stats>
+  </armor>
+  <armor id="397" name="Mithril Shirt" armorType="Light" >
+   <set icon="icon.armor_t47_u_i00"/>
+   <set bodyPart="CHEST" grade="C"/>
+   <set crystallizable="true" crystal_count="116" />
+   <set weight="4470" price="291000"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <stats>
+    <add stat="pDef" order="0x10" val="90"/>
+    <enchant stat="pDef" order="0xc" val="0"/>
+   </stats>
+  </armor>
+  <armor id="398" name="Plated Leather" armorType="Light" >
+   <set icon="icon.armor_t47_u_i00"/>
+   <set bodyPart="CHEST" grade="C"/>
+   <set crystallizable="true" crystal_count="137" />
+   <set weight="4450" price="343000"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <stats>
+    <add stat="pDef" order="0x10" val="94"/>
+    <enchant stat="pDef" order="0xc" val="0"/>
+   </stats>
+  </armor>
+  <armor id="399" name="Rind Leather Armor" armorType="Light" >
+   <set icon="icon.armor_t49_u_i00"/>
+   <set bodyPart="CHEST" grade="C"/>
+   <set crystallizable="true" crystal_count="149" />
+   <set weight="4420" price="372000"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <stats>
+    <add stat="pDef" order="0x10" val="97"/>
+    <enchant stat="pDef" order="0xc" val="0"/>
+   </stats>
+  </armor>
+  <armor id="400" name="Theca Leather Armor" armorType="Light" >
+   <set icon="icon.armor_t63_u_i00"/>
+   <set bodyPart="CHEST" grade="C"/>
+   <set crystallizable="true" crystal_count="254" />
+   <set weight="4370" price="635000"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <stats>
+    <add stat="pDef" order="0x10" val="106"/>
+    <enchant stat="pDef" order="0xc" val="0"/>
+   </stats>
+  </armor>
+  <armor id="401" name="Drake Leather Armor" armorType="Light" >
+   <set icon="icon.armor_t21_ul_i00"/>
+   <set bodyPart="FULLARMOR" grade="C"/>
+   <set crystallizable="true" crystal_count="536" />
+   <set weight="5800" price="1341000"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <stats>
+    <add stat="pDef" order="0x10" val="179"/>
+    <enchant stat="pDef" order="0xc" val="0"/>
+   </stats>
+  </armor>
+  <armor id="402" name="Chain Mail of Silence" armorType="Light" >
+   <set icon="icon.armor_composite_armor_i02"/>
+   <set bodyPart="FULLARMOR" grade="B"/>
+   <set crystallizable="true" crystal_count="471" />
+   <set weight="3200" price="3530000"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <stats>
+    <add stat="pDef" order="0x10" val="213"/>
+    <enchant stat="pDef" order="0xc" val="0"/>
+   </stats>
+  </armor>
+  <armor id="403" name="Gust Chain Mail" armorType="Light" >
+   <set icon="icon.armor_composite_armor_i02"/>
+   <set bodyPart="FULLARMOR" grade="B"/>
+   <set crystallizable="true" crystal_count="677" />
+   <set weight="2720" price="5080000"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <stats>
+    <add stat="pDef" order="0x10" val="225"/>
+    <enchant stat="pDef" order="0xc" val="0"/>
+   </stats>
+  </armor>
+  <armor id="404" name="Prairie Leather Armor" armorType="Light" >
+   <set icon="icon.armor_mithril_banded_mail_i00"/>
+   <set bodyPart="CHEST" grade="B"/>
+   <set crystallizable="true" crystal_count="321" />
+   <set weight="8000" price="2410000"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <stats>
+    <add stat="pDef" order="0x10" val="131"/>
+    <enchant stat="pDef" order="0xc" val="0"/>
+   </stats>
+  </armor>
+  <armor id="405" name="Leather Armor of The Underworld" armorType="Light" >
+   <set icon="icon.armor_mithril_banded_mail_i00"/>
+   <set bodyPart="CHEST" grade="B"/>
+   <set crystallizable="true" crystal_count="463" />
+   <set weight="8000" price="3470000"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <stats>
+    <add stat="pDef" order="0x10" val="139"/>
+    <enchant stat="pDef" order="0xc" val="0"/>
+   </stats>
+  </armor>
+  <armor id="406" name="Leather Suit of Concentration" armorType="Light" >
+   <set icon="icon.armor_composite_armor_i02"/>
+   <set bodyPart="FULLARMOR" grade="B"/>
+   <set crystallizable="true" crystal_count="471" />
+   <set weight="2400" price="3530000"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <stats>
+    <add stat="pDef" order="0x10" val="213"/>
+    <enchant stat="pDef" order="0xc" val="0"/>
+   </stats>
+  </armor>
+  <armor id="407" name="Ace's Leather Armor" armorType="Light" >
+   <set icon="icon.armor_composite_armor_i02"/>
+   <set bodyPart="FULLARMOR" grade="B"/>
+   <set crystallizable="true" crystal_count="677" />
+   <set weight="2400" price="5080000"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <stats>
+    <add stat="pDef" order="0x10" val="225"/>
+    <enchant stat="pDef" order="0xc" val="0"/>
+   </stats>
+  </armor>
+  <armor id="408" name="Guardian's Leather Armor" armorType="Light" >
+   <set icon="icon.armor_mithril_banded_mail_i00"/>
+   <set bodyPart="CHEST" grade="B"/>
+   <set crystallizable="true" crystal_count="321" />
+   <set weight="8000" price="2410000"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <stats>
+    <add stat="pDef" order="0x10" val="131"/>
+    <enchant stat="pDef" order="0xc" val="0"/>
+   </stats>
+  </armor>
+  <armor id="409" name="Marksman's Leather Armor" armorType="Light" >
+   <set icon="icon.armor_mithril_banded_mail_i00"/>
+   <set bodyPart="CHEST" grade="B"/>
+   <set crystallizable="true" crystal_count="463" />
+   <set weight="4300" price="3470000"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <stats>
+    <add stat="pDef" order="0x10" val="139"/>
+    <enchant stat="pDef" order="0xc" val="0"/>
+   </stats>
+  </armor>
+  <armor id="410" name="Unicorn Leather Armor" armorType="Light" >
+   <set icon="icon.armor_composite_armor_i02"/>
+   <set bodyPart="FULLARMOR" grade="A"/>
+   <set crystallizable="true" crystal_count="618" />
+   <set weight="1280" price="7730000"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <stats>
+    <add stat="pDef" order="0x10" val="238"/>
+    <enchant stat="pDef" order="0xc" val="0"/>
+   </stats>
+  </armor>
+  <armor id="411" name="Dragon Leather Armor" armorType="Light" >
+   <set icon="icon.armor_t45_ul_i00"/>
+   <set bodyPart="FULLARMOR" grade="S"/>
+   <set crystallizable="true" crystal_count="525" />
+   <set weight="4950" price="10500000"/>
+   <set sellable="false" tradeable="false" />
+   <set dropable="false" destroyable="true"/>
+
+   <stats>
+    <add stat="pDef" order="0x10" val="237"/>
+    <enchant stat="pDef" order="0xc" val="0"/>
+   </stats>
+  </armor>
+  <armor id="412" name="Cotton Pants" armorType="Light" >
+   <set icon="icon.armor_t07_l_i00"/>
+   <set bodyPart="LEGS" grade="NONE"/>
+   <set crystallizable="false" />
+   <set weight="1630" price="9770"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <stats>
+    <add stat="pDef" order="0x10" val="32"/>
+   </stats>
+  </armor>
+  <armor id="413" name="Puma Skin Gaiters" armorType="Light" >
+   <set icon="icon.armor_t09_l_i00"/>
+   <set bodyPart="LEGS" grade="D"/>
+   <set crystallizable="true" crystal_count="56" />
+   <set weight="1600" price="30100"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <stats>
+    <add stat="pDef" order="0x10" val="36"/>
+    <enchant stat="pDef" order="0xc" val="0"/>
+   </stats>
+  </armor>
+  <armor id="414" name="Lion Skin Gaiters" armorType="Light" >
+   <set icon="icon.armor_t18_l_i00"/>
+   <set bodyPart="LEGS" grade="D"/>
+   <set crystallizable="true" crystal_count="89" />
+   <set weight="1570" price="48000"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <stats>
+    <add stat="pDef" order="0x10" val="41"/>
+    <enchant stat="pDef" order="0xc" val="0"/>
+   </stats>
+  </armor>
+  <armor id="415" name="Mithril Banded Gaiters" armorType="Light" >
+   <set icon="icon.armor_t10_l_i00"/>
+   <set bodyPart="LEGS" grade="D"/>
+   <set crystallizable="true" crystal_count="135" />
+   <set weight="1580" price="73200"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <stats>
+    <add stat="pDef" order="0x10" val="46"/>
+    <enchant stat="pDef" order="0xc" val="0"/>
+   </stats>
+  </armor>
+  <armor id="416" name="Reinforced Leather Gaiters" armorType="Light" >
+   <set icon="icon.armor_t13_l_i00"/>
+   <set bodyPart="LEGS" grade="D"/>
+   <set crystallizable="true" crystal_count="135" />
+   <set weight="1570" price="73200"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <stats>
+    <add stat="pDef" order="0x10" val="46"/>
+    <enchant stat="pDef" order="0xc" val="0"/>
+   </stats>
+  </armor>
+  <armor id="417" name="Manticore Skin Gaiters" armorType="Light" >
+   <set icon="icon.armor_t42_l_i00"/>
+   <set bodyPart="LEGS" grade="D"/>
+   <set crystallizable="true" crystal_count="199" />
+   <set weight="1550" price="107700"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <stats>
+    <add stat="pDef" order="0x10" val="51"/>
+    <enchant stat="pDef" order="0xc" val="0"/>
+   </stats>
+  </armor>
+  <armor id="418" name="Plated Leather Gaiters" armorType="Light" >
+   <set icon="icon.armor_t47_l_i00"/>
+   <set bodyPart="LEGS" grade="C"/>
+   <set crystallizable="true" crystal_count="86" />
+   <set weight="1560" price="214500"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <stats>
+    <add stat="pDef" order="0x10" val="59"/>
+    <enchant stat="pDef" order="0xc" val="0"/>
+   </stats>
+  </armor>
+  <armor id="419" name="Rind Leather Gaiters" armorType="Light" >
+   <set icon="icon.armor_t49_l_i00"/>
+   <set bodyPart="LEGS" grade="C"/>
+   <set crystallizable="true" crystal_count="93" />
+   <set weight="1550" price="232300"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <stats>
+    <add stat="pDef" order="0x10" val="60"/>
+    <enchant stat="pDef" order="0xc" val="0"/>
+   </stats>
+  </armor>
+  <armor id="420" name="Theca Leather Gaiters" armorType="Light" >
+   <set icon="icon.armor_t63_l_i00"/>
+   <set bodyPart="LEGS" grade="C"/>
+   <set crystallizable="true" crystal_count="159" />
+   <set weight="1530" price="396700"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <stats>
+    <add stat="pDef" order="0x10" val="66"/>
+    <enchant stat="pDef" order="0xc" val="0"/>
+   </stats>
+  </armor>
+  <armor id="421" name="Prairie Leather Gaiters" armorType="Light" >
+   <set icon="icon.armor_mithril_banded_gaiters_i00"/>
+   <set bodyPart="LEGS" grade="B"/>
+   <set crystallizable="true" crystal_count="201" />
+   <set weight="4800" price="1510000"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <stats>
+    <add stat="pDef" order="0x10" val="82"/>
+    <enchant stat="pDef" order="0xc" val="0"/>
+   </stats>
+  </armor>
+  <armor id="422" name="Gaiters of The Underworld" armorType="Light" >
+   <set icon="icon.armor_mithril_banded_gaiters_i00"/>
+   <set bodyPart="LEGS" grade="B"/>
+   <set crystallizable="true" crystal_count="289" />
+   <set weight="4800" price="2170000"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <stats>
+    <add stat="pDef" order="0x10" val="87"/>
+    <enchant stat="pDef" order="0xc" val="0"/>
+   </stats>
+  </armor>
+  <armor id="423" name="Guardian's Leather Gaiters" armorType="Light" >
+   <set icon="icon.armor_mithril_banded_gaiters_i00"/>
+   <set bodyPart="LEGS" grade="B"/>
+   <set crystallizable="true" crystal_count="201" />
+   <set weight="4800" price="1510000"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <stats>
+    <add stat="pDef" order="0x10" val="82"/>
+    <enchant stat="pDef" order="0xc" val="0"/>
+   </stats>
+  </armor>
+  <armor id="424" name="Marksman's Leather Gaiters" armorType="Light" >
+   <set icon="icon.armor_mithril_banded_gaiters_i00"/>
+   <set bodyPart="LEGS" grade="B"/>
+   <set crystallizable="true" crystal_count="289" />
+   <set weight="1490" price="2170000"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <stats>
+    <add stat="pDef" order="0x10" val="87"/>
+    <enchant stat="pDef" order="0xc" val="0"/>
+   </stats>
+  </armor>
+  <armor id="425" name="Apprentice's Tunic" armorType="Magic" >
+   <set icon="icon.armor_t01_u_i00"/>
+   <set bodyPart="CHEST" grade="NONE"/>
+   <set crystallizable="false" />
+   <set weight="2150" price="26"/>
+   <set sellable="false" tradeable="false" />
+   <set dropable="false" destroyable="true"/>
+
+   <stats>
+    <add stat="pDef" order="0x10" val="17"/>
+    <add stat="maxMp" order="0x40" val="19"/>
+   </stats>
+  </armor>
+  <armor id="426" name="Tunic" armorType="Magic" >
+   <set icon="icon.armor_t03_u_i00"/>
+   <set bodyPart="CHEST" grade="NONE"/>
+   <set crystallizable="false" />
+   <set weight="2150" price="147"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <stats>
+    <add stat="pDef" order="0x10" val="18"/>
+    <add stat="maxMp" order="0x40" val="24"/>
+   </stats>
+  </armor>
+  <armor id="427" name="Cotton Robe" armorType="Magic" >
+   <set icon="icon.armor_cotton_robe_i02"/>
+   <set bodyPart="FULLARMOR" grade="NONE"/>
+   <set crystallizable="false" />
+   <set weight="2750" price="3550"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <stats>
+    <add stat="pDef" order="0x10" val="35"/>
+    <add stat="maxMp" order="0x40" val="61"/>
+   </stats>
+  </armor>
+  <armor id="428" name="Feriotic Tunic" armorType="Magic" >
+   <set icon="icon.armor_t52_u_i00"/>
+   <set bodyPart="CHEST" grade="NONE"/>
+   <set crystallizable="false" />
+   <set weight="2140" price="2430"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <stats>
+    <add stat="pDef" order="0x10" val="21"/>
+    <add stat="maxMp" order="0x40" val="38"/>
+   </stats>
+  </armor>
+  <armor id="429" name="Leather Tunic" armorType="Magic" >
+   <set icon="icon.armor_t05_u_i00"/>
+   <set bodyPart="CHEST" grade="NONE"/>
+   <set crystallizable="false" />
+   <set weight="2110" price="7960"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <stats>
+    <add stat="pDef" order="0x10" val="25"/>
+    <add stat="maxMp" order="0x40" val="52"/>
+   </stats>
+  </armor>
+  <armor id="430" name="Robe of Devotion" armorType="Magic" >
+   <set icon="icon.armor_cotton_robe_i02"/>
+   <set bodyPart="FULLARMOR" grade="NONE"/>
+   <set crystallizable="false" />
+   <set weight="2650" price="29700"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <stats>
+    <add stat="pDef" order="0x10" val="49"/>
+    <add stat="maxMp" order="0x40" val="109"/>
+   </stats>
+  </armor>
+  <armor id="431" name="Robe of Magic" armorType="Magic" >
+   <set icon="icon.armor_cotton_robe_i02"/>
+   <set bodyPart="FULLARMOR" grade="NONE"/>
+   <set crystallizable="false" />
+   <set weight="2600" price="53900"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <stats>
+    <add stat="pDef" order="0x10" val="56"/>
+    <add stat="maxMp" order="0x40" val="140"/>
+   </stats>
+  </armor>
+  <armor id="432" name="Cursed Tunic" armorType="Magic" >
+   <set icon="icon.armor_t14_u_i00"/>
+   <set bodyPart="CHEST" grade="D"/>
+   <set crystallizable="true" crystal_count="89" />
+   <set weight="2090" price="48200"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <stats>
+    <add stat="pDef" order="0x10" val="39"/>
+    <add stat="maxMp" order="0x40" val="106"/>
+    <enchant stat="pDef" order="0xc" val="0"/>
+   </stats>
+  </armor>
+  <armor id="433" name="Elven Tunic" armorType="Magic" >
+   <set icon="icon.armor_t11_u_i00"/>
+   <set bodyPart="CHEST" grade="D"/>
+   <set crystallizable="true" crystal_count="142" />
+   <set weight="2080" price="76900"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <stats>
+    <add stat="pDef" order="0x10" val="43"/>
+    <add stat="maxMp" order="0x40" val="126"/>
+    <enchant stat="pDef" order="0xc" val="0"/>
+   </stats>
+  </armor>
+  <armor id="434" name="White Tunic" armorType="Magic" >
+   <set icon="icon.armor_t16_u_i00"/>
+   <set bodyPart="CHEST" grade="D"/>
+   <set crystallizable="true" crystal_count="142" />
+   <set weight="2040" price="76900"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <stats>
+    <add stat="pDef" order="0x10" val="43"/>
+    <add stat="maxMp" order="0x40" val="126"/>
+    <enchant stat="pDef" order="0xc" val="0"/>
+   </stats>
+  </armor>
+  <armor id="435" name="Mystic's Tunic" armorType="Magic" >
+   <set icon="icon.armor_t17_u_i00"/>
+   <set bodyPart="CHEST" grade="D"/>
+   <set crystallizable="true" crystal_count="142" />
+   <set weight="2030" price="76900"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <stats>
+    <add stat="pDef" order="0x10" val="43"/>
+    <add stat="maxMp" order="0x40" val="126"/>
+    <enchant stat="pDef" order="0xc" val="0"/>
+   </stats>
+  </armor>
+  <armor id="436" name="Tunic of Knowledge" armorType="Magic" >
+   <set icon="icon.armor_t41_u_i00"/>
+   <set bodyPart="CHEST" grade="D"/>
+   <set crystallizable="true" crystal_count="216" />
+   <set weight="2020" price="117000"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <stats>
+    <add stat="pDef" order="0x10" val="49"/>
+    <add stat="maxMp" order="0x40" val="147"/>
+    <enchant stat="pDef" order="0xc" val="0"/>
+   </stats>
+  </armor>
+  <armor id="437" name="Mithril Tunic" armorType="Magic" >
+   <set icon="icon.armor_t51_u_i00"/>
+   <set bodyPart="CHEST" grade="D"/>
+   <set crystallizable="true" crystal_count="318" />
+   <set weight="2010" price="172000"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <stats>
+    <add stat="pDef" order="0x10" val="52"/>
+    <add stat="maxMp" order="0x40" val="169"/>
+    <enchant stat="pDef" order="0xc" val="0"/>
+   </stats>
+  </armor>
+  <armor id="438" name="Sage's Rag" armorType="Magic" >
+   <set icon="icon.armor_t44_ul_i00"/>
+   <set bodyPart="FULLARMOR" grade="D"/>
+   <set crystallizable="true" crystal_count="677" />
+   <set weight="2580" price="366600"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <stats>
+    <add stat="pDef" order="0x10" val="90"/>
+    <add stat="maxMp" order="0x40" val="320"/>
+    <enchant stat="pDef" order="0xc" val="0"/>
+   </stats>
+  </armor>
+  <armor id="439" name="Karmian Tunic" armorType="Magic" >
+   <set icon="icon.armor_t53_u_i00"/>
+   <set bodyPart="CHEST" grade="C"/>
+   <set crystallizable="true" crystal_count="116" />
+   <set weight="1980" price="291000"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <stats>
+    <add stat="pDef" order="0x10" val="60"/>
+    <add stat="maxMp" order="0x40" val="225"/>
+    <enchant stat="pDef" order="0xc" val="0"/>
+   </stats>
+  </armor>
+  <armor id="440" name="Robe of Seal" armorType="Magic" >
+   <set icon="icon.armor_t44_ul_i00"/>
+   <set bodyPart="FULLARMOR" grade="C"/>
+   <set crystallizable="true" crystal_count="242" />
+   <set weight="2500" price="603900"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <stats>
+    <add stat="pDef" order="0x10" val="105"/>
+    <add stat="maxMp" order="0x40" val="413"/>
+    <enchant stat="pDef" order="0xc" val="0"/>
+   </stats>
+  </armor>
+  <armor id="441" name="Demon's Tunic" armorType="Magic" >
+   <set icon="icon.armor_t54_u_i00"/>
+   <set bodyPart="CHEST" grade="C"/>
+   <set crystallizable="true" crystal_count="226" />
+   <set weight="1990" price="566000"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <stats>
+    <add stat="pDef" order="0x10" val="69"/>
+    <add stat="maxMp" order="0x40" val="284"/>
+    <enchant stat="pDef" order="0xc" val="0"/>
+   </stats>
+  </armor>
+  <armor id="442" name="Divine Tunic" armorType="Magic" >
+   <set icon="icon.armor_t57_u_i00"/>
+   <set bodyPart="CHEST" grade="C"/>
+   <set crystallizable="true" crystal_count="330" />
+   <set weight="1980" price="825000"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <stats>
+    <add stat="pDef" order="0x10" val="74"/>
+    <add stat="maxMp" order="0x40" val="314"/>
+    <enchant stat="pDef" order="0xc" val="0"/>
+   </stats>
+  </armor>
+  <armor id="443" name="Tunic of Mana" armorType="Magic" >
+   <set icon="icon.armor_tunic_of_knowledge_i00"/>
+   <set bodyPart="CHEST" grade="B"/>
+   <set crystallizable="true" crystal_count="321" />
+   <set weight="2000" price="2410000"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <stats>
+    <add stat="pDef" order="0x10" val="87"/>
+    <add stat="maxMp" order="0x40" val="377"/>
+    <enchant stat="pDef" order="0xc" val="0"/>
+   </stats>
+  </armor>
+  <armor id="444" name="Sage's Robe" armorType="Magic" >
+   <set icon="icon.armor_cotton_robe_i02"/>
+   <set bodyPart="FULLARMOR" grade="B"/>
+   <set crystallizable="true" crystal_count="677" />
+   <set weight="1600" price="5080000"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <stats>
+    <add stat="pDef" order="0x10" val="150"/>
+    <add stat="maxMp" order="0x40" val="665"/>
+    <enchant stat="pDef" order="0xc" val="0"/>
+   </stats>
+  </armor>
+  <armor id="445" name="Paradia Tunic" armorType="Magic" >
+   <set icon="icon.armor_tunic_of_knowledge_i00"/>
+   <set bodyPart="CHEST" grade="B"/>
+   <set crystallizable="true" crystal_count="321" />
+   <set weight="1990" price="2410000"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <stats>
+    <add stat="pDef" order="0x10" val="87"/>
+    <add stat="maxMp" order="0x40" val="377"/>
+    <enchant stat="pDef" order="0xc" val="0"/>
+   </stats>
+  </armor>
+  <armor id="446" name="Inferno Tunic" armorType="Magic" >
+   <set icon="icon.armor_tunic_of_knowledge_i00"/>
+   <set bodyPart="CHEST" grade="B"/>
+   <set crystallizable="true" crystal_count="463" />
+   <set weight="1880" price="3470000"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <stats>
+    <add stat="pDef" order="0x10" val="92"/>
+    <add stat="maxMp" order="0x40" val="409"/>
+    <enchant stat="pDef" order="0xc" val="0"/>
+   </stats>
+  </armor>
+  <armor id="447" name="Tunic of Solar Eclipse" armorType="Magic" >
+   <set icon="icon.armor_tunic_of_knowledge_i00"/>
+   <set bodyPart="CHEST" grade="B"/>
+   <set crystallizable="true" crystal_count="321" />
+   <set weight="1960" price="2410000"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <stats>
+    <add stat="pDef" order="0x10" val="87"/>
+    <add stat="maxMp" order="0x40" val="377"/>
+    <enchant stat="pDef" order="0xc" val="0"/>
+   </stats>
+  </armor>
+  <armor id="448" name="Robe of Black Ore" armorType="Magic" >
+   <set icon="icon.armor_cotton_robe_i02"/>
+   <set bodyPart="FULLARMOR" grade="B"/>
+   <set crystallizable="true" crystal_count="677" />
+   <set weight="1600" price="5080000"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <stats>
+    <add stat="pDef" order="0x10" val="150"/>
+    <add stat="maxMp" order="0x40" val="665"/>
+    <enchant stat="pDef" order="0xc" val="0"/>
+   </stats>
+  </armor>
+  <armor id="449" name="Tunic of Summoning" armorType="Magic" >
+   <set icon="icon.armor_tunic_of_knowledge_i00"/>
+   <set bodyPart="CHEST" grade="B"/>
+   <set crystallizable="true" crystal_count="321" />
+   <set weight="1950" price="2410000"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <stats>
+    <add stat="pDef" order="0x10" val="87"/>
+    <add stat="maxMp" order="0x40" val="377"/>
+    <enchant stat="pDef" order="0xc" val="0"/>
+   </stats>
+  </armor>
+  <armor id="450" name="Otherworldly Robe" armorType="Magic" >
+   <set icon="icon.armor_cotton_robe_i02"/>
+   <set bodyPart="FULLARMOR" grade="B"/>
+   <set crystallizable="true" crystal_count="677" />
+   <set weight="1600" price="5080000"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <stats>
+    <add stat="pDef" order="0x10" val="150"/>
+    <add stat="maxMp" order="0x40" val="665"/>
+    <enchant stat="pDef" order="0xc" val="0"/>
+   </stats>
+  </armor>
+  <armor id="451" name="Elemental Tunic" armorType="Magic" >
+   <set icon="icon.armor_tunic_of_knowledge_i00"/>
+   <set bodyPart="CHEST" grade="B"/>
+   <set crystallizable="true" crystal_count="321" />
+   <set weight="1970" price="2410000"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <stats>
+    <add stat="pDef" order="0x10" val="87"/>
+    <add stat="maxMp" order="0x40" val="377"/>
+    <enchant stat="pDef" order="0xc" val="0"/>
+   </stats>
+  </armor>
+  <armor id="452" name="Tunic of Phantom" armorType="Magic" >
+   <set icon="icon.armor_tunic_of_knowledge_i00"/>
+   <set bodyPart="CHEST" grade="B"/>
+   <set crystallizable="true" crystal_count="463" />
+   <set weight="1890" price="3470000"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <stats>
+    <add stat="pDef" order="0x10" val="92"/>
+    <add stat="maxMp" order="0x40" val="409"/>
+    <enchant stat="pDef" order="0xc" val="0"/>
+   </stats>
+  </armor>
+  <armor id="453" name="Tunic of Grace" armorType="Magic" >
+   <set icon="icon.armor_tunic_of_knowledge_i00"/>
+   <set bodyPart="CHEST" grade="B"/>
+   <set crystallizable="true" crystal_count="321" />
+   <set weight="1930" price="2410000"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <stats>
+    <add stat="pDef" order="0x10" val="87"/>
+    <add stat="maxMp" order="0x40" val="377"/>
+    <enchant stat="pDef" order="0xc" val="0"/>
+   </stats>
+  </armor>
+  <armor id="454" name="Robe of Holy Spirit" armorType="Magic" >
+   <set icon="icon.armor_cotton_robe_i02"/>
+   <set bodyPart="FULLARMOR" grade="B"/>
+   <set crystallizable="true" crystal_count="677" />
+   <set weight="1600" price="5080000"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <stats>
+    <add stat="pDef" order="0x10" val="150"/>
+    <add stat="maxMp" order="0x40" val="665"/>
+    <enchant stat="pDef" order="0xc" val="0"/>
+   </stats>
+  </armor>
+  <armor id="455" name="Phoenix Tunic" armorType="Magic" >
+   <set icon="icon.armor_tunic_of_knowledge_i00"/>
+   <set bodyPart="CHEST" grade="B"/>
+   <set crystallizable="true" crystal_count="321" />
+   <set weight="1950" price="2410000"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <stats>
+    <add stat="pDef" order="0x10" val="87"/>
+    <add stat="maxMp" order="0x40" val="377"/>
+    <enchant stat="pDef" order="0xc" val="0"/>
+   </stats>
+  </armor>
+  <armor id="456" name="Cerberus Tunic" armorType="Magic" >
+   <set icon="icon.armor_tunic_of_knowledge_i00"/>
+   <set bodyPart="CHEST" grade="B"/>
+   <set crystallizable="true" crystal_count="463" />
+   <set weight="1870" price="3470000"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <stats>
+    <add stat="pDef" order="0x10" val="92"/>
+    <add stat="maxMp" order="0x40" val="409"/>
+    <enchant stat="pDef" order="0xc" val="0"/>
+   </stats>
+  </armor>
+  <armor id="457" name="Tunic of Aid" armorType="Magic" >
+   <set icon="icon.armor_tunic_of_knowledge_i00"/>
+   <set bodyPart="CHEST" grade="B"/>
+   <set crystallizable="true" crystal_count="321" />
+   <set weight="1910" price="2410000"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <stats>
+    <add stat="pDef" order="0x10" val="87"/>
+    <add stat="maxMp" order="0x40" val="377"/>
+    <enchant stat="pDef" order="0xc" val="0"/>
+   </stats>
+  </armor>
+  <armor id="458" name="Robe of Blessing" armorType="Magic" >
+   <set icon="icon.armor_cotton_robe_i02"/>
+   <set bodyPart="FULLARMOR" grade="B"/>
+   <set crystallizable="true" crystal_count="677" />
+   <set weight="1600" price="5080000"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <stats>
+    <add stat="pDef" order="0x10" val="150"/>
+    <add stat="maxMp" order="0x40" val="665"/>
+    <enchant stat="pDef" order="0xc" val="0"/>
+   </stats>
+  </armor>
+  <armor id="459" name="Dasparion's Robe" armorType="Magic" >
+   <set icon="icon.armor_cotton_robe_i02"/>
+   <set bodyPart="FULLARMOR" grade="A"/>
+   <set crystallizable="true" crystal_count="618" />
+   <set weight="1200" price="7730000"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <stats>
+    <add stat="pDef" order="0x10" val="158"/>
+    <add stat="maxMp" order="0x40" val="718"/>
+    <enchant stat="pDef" order="0xc" val="0"/>
+   </stats>
+  </armor>
+  <armor id="460" name="The Robe" armorType="Magic" >
+   <set icon="icon.armor_t44_ul_i00"/>
+   <set bodyPart="FULLARMOR" grade="S"/>
+   <set crystallizable="true" crystal_count="525" />
+   <set weight="2300" price="10500000"/>
+   <set sellable="false" tradeable="false" />
+   <set dropable="false" destroyable="true"/>
+
+   <stats>
+    <add stat="pDef" order="0x10" val="158"/>
+    <add stat="maxMp" order="0x40" val="773"/>
+    <enchant stat="pDef" order="0xc" val="0"/>
+   </stats>
+  </armor>
+  <armor id="461" name="Apprentice's Stockings" armorType="Magic" >
+   <set icon="icon.armor_t01_l_i00"/>
+   <set bodyPart="LEGS" grade="NONE"/>
+   <set crystallizable="false" />
+   <set weight="1100" price="6"/>
+   <set sellable="false" tradeable="false" />
+   <set dropable="false" destroyable="true"/>
+
+   <stats>
+    <add stat="pDef" order="0x10" val="10"/>
+    <add stat="maxMp" order="0x40" val="10"/>
+   </stats>
+  </armor>
+  <armor id="462" name="Stockings" armorType="Magic" >
+   <set icon="icon.armor_t03_l_i00"/>
+   <set bodyPart="LEGS" grade="NONE"/>
+   <set crystallizable="false" />
+   <set weight="1080" price="92"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <stats>
+    <add stat="pDef" order="0x10" val="11"/>
+    <add stat="maxMp" order="0x40" val="15"/>
+   </stats>
+  </armor>
+  <armor id="463" name="Feriotic Stockings" armorType="Magic" >
+   <set icon="icon.armor_t52_l_i00"/>
+   <set bodyPart="LEGS" grade="NONE"/>
+   <set crystallizable="false" />
+   <set weight="1070" price="1520"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <stats>
+    <add stat="pDef" order="0x10" val="13"/>
+    <add stat="maxMp" order="0x40" val="23"/>
+   </stats>
+  </armor>
+  <armor id="464" name="Leather Stockings" armorType="Magic" >
+   <set icon="icon.armor_t05_l_i00"/>
+   <set bodyPart="LEGS" grade="NONE"/>
+   <set crystallizable="false" />
+   <set weight="1020" price="4970"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <stats>
+    <add stat="pDef" order="0x10" val="16"/>
+    <add stat="maxMp" order="0x40" val="33"/>
+   </stats>
+  </armor>
+  <armor id="465" name="Cursed Stockings" armorType="Magic" >
+   <set icon="icon.armor_t14_l_i00"/>
+   <set bodyPart="LEGS" grade="D"/>
+   <set crystallizable="true" crystal_count="56" />
+   <set weight="1020" price="30100"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <stats>
+    <add stat="pDef" order="0x10" val="24"/>
+    <add stat="maxMp" order="0x40" val="66"/>
+    <enchant stat="pDef" order="0xc" val="0"/>
+   </stats>
+  </armor>
+  <armor id="466" name="Elven Stockings" armorType="Magic" >
+   <set icon="icon.armor_t11_l_i00"/>
+   <set bodyPart="LEGS" grade="D"/>
+   <set crystallizable="true" crystal_count="89" />
+   <set weight="1010" price="48000"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <stats>
+    <add stat="pDef" order="0x10" val="27"/>
+    <add stat="maxMp" order="0x40" val="79"/>
+    <enchant stat="pDef" order="0xc" val="0"/>
+   </stats>
+  </armor>
+  <armor id="467" name="Dark Stockings" armorType="Magic" >
+   <set icon="icon.armor_t16_l_i00"/>
+   <set bodyPart="LEGS" grade="D"/>
+   <set crystallizable="true" crystal_count="89" />
+   <set weight="1000" price="48000"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <stats>
+    <add stat="pDef" order="0x10" val="27"/>
+    <add stat="maxMp" order="0x40" val="79"/>
+    <enchant stat="pDef" order="0xc" val="0"/>
+   </stats>
+  </armor>
+  <armor id="468" name="Mystic's Stockings" armorType="Magic" >
+   <set icon="icon.armor_t17_l_i00"/>
+   <set bodyPart="LEGS" grade="D"/>
+   <set crystallizable="true" crystal_count="89" />
+   <set weight="990" price="48000"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <stats>
+    <add stat="pDef" order="0x10" val="27"/>
+    <add stat="maxMp" order="0x40" val="79"/>
+    <enchant stat="pDef" order="0xc" val="0"/>
+   </stats>
+  </armor>
+  <armor id="469" name="Stockings of Knowledge" armorType="Magic" >
+   <set icon="icon.armor_t41_l_i00"/>
+   <set bodyPart="LEGS" grade="D"/>
+   <set crystallizable="true" crystal_count="135" />
+   <set weight="1000" price="73200"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <stats>
+    <add stat="pDef" order="0x10" val="30"/>
+    <add stat="maxMp" order="0x40" val="92"/>
+    <enchant stat="pDef" order="0xc" val="0"/>
+   </stats>
+  </armor>
+  <armor id="470" name="Mithril Stockings" armorType="Magic" >
+   <set icon="icon.armor_t51_l_i00"/>
+   <set bodyPart="LEGS" grade="D"/>
+   <set crystallizable="true" crystal_count="199" />
+   <set weight="980" price="107700"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <stats>
+    <add stat="pDef" order="0x10" val="32"/>
+    <add stat="maxMp" order="0x40" val="105"/>
+    <enchant stat="pDef" order="0xc" val="0"/>
+   </stats>
+  </armor>
+  <armor id="471" name="Karmian Stockings" armorType="Magic" >
+   <set icon="icon.armor_t53_l_i00"/>
+   <set bodyPart="LEGS" grade="C"/>
+   <set crystallizable="true" crystal_count="73" />
+   <set weight="970" price="182100"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <stats>
+    <add stat="pDef" order="0x10" val="37"/>
+    <add stat="maxMp" order="0x40" val="141"/>
+    <enchant stat="pDef" order="0xc" val="0"/>
+   </stats>
+  </armor>
+  <armor id="472" name="Demon's Stockings" armorType="Magic" >
+   <set icon="icon.armor_t54_l_i00"/>
+   <set bodyPart="LEGS" grade="C"/>
+   <set crystallizable="true" crystal_count="142" />
+   <set weight="980" price="354000"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <stats>
+    <add stat="pDef" order="0x10" val="43"/>
+    <add stat="maxMp" order="0x40" val="177"/>
+    <enchant stat="pDef" order="0xc" val="0"/>
+   </stats>
+  </armor>
+  <armor id="473" name="Divine Stockings" armorType="Magic" >
+   <set icon="icon.armor_t57_l_i00"/>
+   <set bodyPart="LEGS" grade="C"/>
+   <set crystallizable="true" crystal_count="206" />
+   <set weight="960" price="515800"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <stats>
+    <add stat="pDef" order="0x10" val="46"/>
+    <add stat="maxMp" order="0x40" val="196"/>
+    <enchant stat="pDef" order="0xc" val="0"/>
+   </stats>
+  </armor>
+  <armor id="474" name="Stockings of Mana" armorType="Magic" >
+   <set icon="icon.armor_leather_hose_i00"/>
+   <set bodyPart="LEGS" grade="B"/>
+   <set crystallizable="true" crystal_count="201" />
+   <set weight="2400" price="1510000"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <stats>
+    <add stat="pDef" order="0x10" val="55"/>
+    <add stat="maxMp" order="0x40" val="236"/>
+    <enchant stat="pDef" order="0xc" val="0"/>
+   </stats>
+  </armor>
+  <armor id="475" name="Paradia Stockings" armorType="Magic" >
+   <set icon="icon.armor_leather_hose_i00"/>
+   <set bodyPart="LEGS" grade="B"/>
+   <set crystallizable="true" crystal_count="201" />
+   <set weight="1600" price="1510000"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <stats>
+    <add stat="pDef" order="0x10" val="55"/>
+    <add stat="maxMp" order="0x40" val="236"/>
+    <enchant stat="pDef" order="0xc" val="0"/>
+   </stats>
+  </armor>
+  <armor id="476" name="Inferno Stockings" armorType="Magic" >
+   <set icon="icon.armor_leather_hose_i00"/>
+   <set bodyPart="LEGS" grade="B"/>
+   <set crystallizable="true" crystal_count="289" />
+   <set weight="1600" price="2170000"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <stats>
+    <add stat="pDef" order="0x10" val="58"/>
+    <add stat="maxMp" order="0x40" val="256"/>
+    <enchant stat="pDef" order="0xc" val="0"/>
+   </stats>
+  </armor>
+  <armor id="477" name="Stockings of Solar Eclipse" armorType="Magic" >
+   <set icon="icon.armor_leather_hose_i00"/>
+   <set bodyPart="LEGS" grade="B"/>
+   <set crystallizable="true" crystal_count="201" />
+   <set weight="2400" price="1510000"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <stats>
+    <add stat="pDef" order="0x10" val="55"/>
+    <add stat="maxMp" order="0x40" val="236"/>
+    <enchant stat="pDef" order="0xc" val="0"/>
+   </stats>
+  </armor>
+  <armor id="478" name="Stockings of Summoning" armorType="Magic" >
+   <set icon="icon.armor_leather_hose_i00"/>
+   <set bodyPart="LEGS" grade="B"/>
+   <set crystallizable="true" crystal_count="201" />
+   <set weight="2400" price="1510000"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <stats>
+    <add stat="pDef" order="0x10" val="55"/>
+    <add stat="maxMp" order="0x40" val="236"/>
+    <enchant stat="pDef" order="0xc" val="0"/>
+   </stats>
+  </armor>
+  <armor id="479" name="Elemental Stockings" armorType="Magic" >
+   <set icon="icon.armor_leather_hose_i00"/>
+   <set bodyPart="LEGS" grade="B"/>
+   <set crystallizable="true" crystal_count="201" />
+   <set weight="1600" price="1510000"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <stats>
+    <add stat="pDef" order="0x10" val="55"/>
+    <add stat="maxMp" order="0x40" val="236"/>
+    <enchant stat="pDef" order="0xc" val="0"/>
+   </stats>
+  </armor>
+  <armor id="480" name="Stockings of Phantom" armorType="Magic" >
+   <set icon="icon.armor_leather_hose_i00"/>
+   <set bodyPart="LEGS" grade="B"/>
+   <set crystallizable="true" crystal_count="289" />
+   <set weight="1600" price="2170000"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <stats>
+    <add stat="pDef" order="0x10" val="58"/>
+    <add stat="maxMp" order="0x40" val="256"/>
+    <enchant stat="pDef" order="0xc" val="0"/>
+   </stats>
+  </armor>
+  <armor id="481" name="Stockings of Grace" armorType="Magic" >
+   <set icon="icon.armor_leather_hose_i00"/>
+   <set bodyPart="LEGS" grade="B"/>
+   <set crystallizable="true" crystal_count="201" />
+   <set weight="2400" price="1510000"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <stats>
+    <add stat="pDef" order="0x10" val="55"/>
+    <add stat="maxMp" order="0x40" val="236"/>
+    <enchant stat="pDef" order="0xc" val="0"/>
+   </stats>
+  </armor>
+  <armor id="482" name="Phoenix Stockings" armorType="Magic" >
+   <set icon="icon.armor_leather_hose_i00"/>
+   <set bodyPart="LEGS" grade="B"/>
+   <set crystallizable="true" crystal_count="201" />
+   <set weight="2400" price="1510000"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <stats>
+    <add stat="pDef" order="0x10" val="55"/>
+    <add stat="maxMp" order="0x40" val="236"/>
+    <enchant stat="pDef" order="0xc" val="0"/>
+   </stats>
+  </armor>
+  <armor id="483" name="Cerberus Stockings" armorType="Magic" >
+   <set icon="icon.armor_leather_hose_i00"/>
+   <set bodyPart="LEGS" grade="B"/>
+   <set crystallizable="true" crystal_count="289" />
+   <set weight="6400" price="2170000"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <stats>
+    <add stat="pDef" order="0x10" val="58"/>
+    <add stat="maxMp" order="0x40" val="256"/>
+    <enchant stat="pDef" order="0xc" val="0"/>
+   </stats>
+  </armor>
+  <armor id="484" name="Stockings of Aid" armorType="Magic" >
+   <set icon="icon.armor_leather_hose_i00"/>
+   <set bodyPart="LEGS" grade="B"/>
+   <set crystallizable="true" crystal_count="201" />
+   <set weight="2400" price="1510000"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <stats>
+    <add stat="pDef" order="0x10" val="55"/>
+    <add stat="maxMp" order="0x40" val="236"/>
+    <enchant stat="pDef" order="0xc" val="0"/>
+   </stats>
+  </armor>
+  <armor id="485" name="Tattoo of Power" armorType="None" >
+   <set icon="icon.weapon_voodoo_doll_i00"/>
+   <set bodyPart="UNDERWEAR" grade="NONE"/>
+   <set crystallizable="false" />
+   <set weight="4200" price="36900"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <stats>
+    <add stat="pDef" order="0x10" val="53"/>
+    <enchant stat="pDef" order="0xc" val="0"/>
+   </stats>
+  </armor>
+  <armor id="486" name="Tattoo of Fire" armorType="None" >
+   <set icon="icon.weapon_voodoo_doll_i00"/>
+   <set bodyPart="UNDERWEAR" grade="D"/>
+   <set crystallizable="true" crystal_count="276" />
+   <set weight="4050" price="152000"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <stats>
+    <add stat="pDef" order="0x10" val="73"/>
+    <enchant stat="pDef" order="0xc" val="0"/>
+   </stats>
+  </armor>
+  <armor id="487" name="Tattoo of Resolve" armorType="None" >
+   <set icon="icon.weapon_voodoo_doll_i00"/>
+   <set bodyPart="UNDERWEAR" grade="D"/>
+   <set crystallizable="true" crystal_count="276" />
+   <set weight="4000" price="152000"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <stats>
+    <add stat="pDef" order="0x10" val="73"/>
+    <enchant stat="pDef" order="0xc" val="0"/>
+   </stats>
+  </armor>
+  <armor id="488" name="Tattoo of Flame" armorType="None" >
+   <set icon="icon.weapon_voodoo_doll_i00"/>
+   <set bodyPart="UNDERWEAR" grade="B"/>
+   <set crystallizable="true" crystal_count="463" />
+   <set weight="800" price="3470000"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <stats>
+    <add stat="pDef" order="0x10" val="139"/>
+    <enchant stat="pDef" order="0xc" val="0"/>
+   </stats>
+  </armor>
+  <armor id="489" name="Tattoo of Bravery" armorType="None" >
+   <set icon="icon.weapon_voodoo_doll_i00"/>
+   <set bodyPart="UNDERWEAR" grade="C"/>
+   <set crystallizable="true" crystal_count="428" />
+   <set weight="4100" price="1070000"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <stats>
+    <add stat="pDef" order="0x10" val="110"/>
+    <enchant stat="pDef" order="0xc" val="0"/>
+   </stats>
+  </armor>
+  <armor id="490" name="Tattoo of Blood" armorType="None" >
+   <set icon="icon.weapon_voodoo_doll_i00"/>
+   <set bodyPart="UNDERWEAR" grade="A"/>
+   <set crystallizable="true" crystal_count="278" />
+   <set weight="3800" price="3470000"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <stats>
+    <add stat="pDef" order="0x10" val="132"/>
+    <enchant stat="pDef" order="0xc" val="0"/>
+   </stats>
+  </armor>
+  <armor id="491" name="Tattoo of Absolute" armorType="None" >
+   <set icon="icon.weapon_voodoo_doll_i00"/>
+   <set bodyPart="UNDERWEAR" grade="A"/>
+   <set crystallizable="true" crystal_count="422" />
+   <set weight="800" price="5280000"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <stats>
+    <add stat="pDef" order="0x10" val="146"/>
+    <enchant stat="pDef" order="0xc" val="0"/>
+   </stats>
+  </armor>
+  <armor id="492" name="Tattoo of Soul" armorType="None" >
+   <set icon="icon.weapon_voodoo_doll_i00"/>
+   <set bodyPart="UNDERWEAR" grade="D"/>
+   <set crystallizable="true" crystal_count="182" />
+   <set weight="4150" price="99900"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <stats>
+    <add stat="pDef" order="0x10" val="65"/>
+    <enchant stat="pDef" order="0xc" val="0"/>
+   </stats>
+  </armor>
+  <armor id="493" name="Tattoo of Avadon" armorType="None" >
+   <set icon="icon.weapon_voodoo_doll_i00"/>
+   <set bodyPart="UNDERWEAR" grade="B"/>
+   <set crystallizable="true" crystal_count="208" />
+   <set weight="4000" price="1560000"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <stats>
+    <add stat="pDef" order="0x10" val="117"/>
+    <enchant stat="pDef" order="0xc" val="0"/>
+   </stats>
+  </armor>
+  <armor id="494" name="Tattoo of Doom" armorType="None" >
+   <set icon="icon.weapon_voodoo_doll_i00"/>
+   <set bodyPart="UNDERWEAR" grade="B"/>
+   <set crystallizable="true" crystal_count="321" />
+   <set weight="4100" price="2410000"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <stats>
+    <add stat="pDef" order="0x10" val="125"/>
+    <enchant stat="pDef" order="0xc" val="0"/>
+   </stats>
+  </armor>
+  <armor id="495" name="Tattoo of Pledge" armorType="None" >
+   <set icon="icon.item_normal03"/>
+   <set bodyPart="UNDERWEAR" grade="B"/>
+   <set crystallizable="true" crystal_count="208" />
+   <set weight="4000" price="1560000"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <stats>
+    <add stat="pDef" order="0x10" val="124"/>
+    <enchant stat="pDef" order="0xc" val="0"/>
+   </stats>
+  </armor>
+  <armor id="496" name="Tattoo of Divine" armorType="None" >
+   <set icon="icon.weapon_voodoo_doll_i00"/>
+   <set bodyPart="UNDERWEAR" grade="B"/>
+   <set crystallizable="true" crystal_count="321" />
+   <set weight="4100" price="2410000"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <stats>
+    <add stat="pDef" order="0x10" val="131"/>
+    <enchant stat="pDef" order="0xc" val="0"/>
+   </stats>
+  </armor>
+  <armor id="497" name="Chain Helmet" armorType="None" >
+   <set icon="icon.armor_helmet_i00"/>
+   <set bodyPart="HEAD" grade="C"/>
+   <set crystallizable="true" crystal_count="59" />
+   <set weight="620" price="147000"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <stats>
+    <add stat="pDef" order="0x10" val="45"/>
+    <enchant stat="pDef" order="0xc" val="0"/>
+   </stats>
+  </armor>
+  <armor id="498" name="Steel Plate Helmet" armorType="None" >
+   <set icon="icon.armor_helmet_i00"/>
+   <set bodyPart="HEAD" grade="C"/>
+   <set crystallizable="true" crystal_count="82" />
+   <set weight="610" price="206000"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <stats>
+    <add stat="pDef" order="0x10" val="49"/>
+    <enchant stat="pDef" order="0xc" val="0"/>
+   </stats>
+  </armor>
+  <armor id="499" name="Mithril Helmet" armorType="None" >
+   <set icon="icon.armor_circlet_i00"/>
+   <set bodyPart="HEAD" grade="C"/>
+   <set crystallizable="true" crystal_count="214" />
+   <set weight="240" price="536000"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <stats>
+    <add stat="pDef" order="0x10" val="58"/>
+    <enchant stat="pDef" order="0xc" val="0"/>
+   </stats>
+  </armor>
+  <armor id="500" name="Great Helmet" armorType="None" >
+   <set icon="icon.armor_helmet_i00"/>
+   <set bodyPart="HEAD" grade="C"/>
+   <set crystallizable="true" crystal_count="74" />
+   <set weight="610" price="185800"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <stats>
+    <add stat="pDef" order="0x10" val="51"/>
+    <enchant stat="pDef" order="0xc" val="0"/>
+   </stats>
+  </armor>
+  <armor id="501" name="Armet" armorType="None" >
+   <set icon="icon.armor_helmet_i00"/>
+   <set bodyPart="HEAD" grade="B"/>
+   <set crystallizable="true" crystal_count="137" />
+   <set weight="580" price="1030000"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <stats>
+    <add stat="pDef" order="0x10" val="62"/>
+    <enchant stat="pDef" order="0xc" val="0"/>
+   </stats>
+  </armor>
+  <armor id="502" name="Close Helmet" armorType="None" >
+   <set icon="icon.armor_helmet_i00"/>
+   <set bodyPart="HEAD" grade="A"/>
+   <set crystallizable="true" crystal_count="125" />
+   <set weight="570" price="1560000"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <stats>
+    <add stat="pDef" order="0x10" val="64"/>
+    <enchant stat="pDef" order="0xc" val="0"/>
+   </stats>
+  </armor>
+  <armor id="503" name="Zubei's Helmet" armorType="None" >
+   <set icon="icon.armor_helmet_i00"/>
+   <set bodyPart="HEAD" grade="B"/>
+   <set crystallizable="true" crystal_count="80" />
+   <set weight="590" price="778000"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <stats>
+    <add stat="pDef" order="0x10" val="62"/>
+    <enchant stat="pDef" order="0xc" val="0"/>
+   </stats>
+  </armor>
+  <armor id="504" name="Dragon Helmet" armorType="None" >
+   <set icon="icon.armor_helmet_i00"/>
+   <set bodyPart="HEAD" grade="S"/>
+   <set crystallizable="true" crystal_count="180" />
+   <set weight="550" price="3590000"/>
+   <set sellable="false" tradeable="false" />
+   <set dropable="false" destroyable="true"/>
+
+   <stats>
+    <add stat="pDef" order="0x10" val="77"/>
+    <enchant stat="pDef" order="0xc" val="0"/>
+   </stats>
+  </armor>
+  <armor id="505" name="Wolf Helmet" armorType="None" >
+   <set icon="icon.armor_circlet_i00"/>
+   <set bodyPart="HEAD" grade="B"/>
+   <set crystallizable="true" crystal_count="124" />
+   <set weight="580" price="1210000"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <stats>
+    <add stat="pDef" order="0x10" val="66"/>
+    <enchant stat="pDef" order="0xc" val="0"/>
+   </stats>
+  </armor>
+  <armor id="506" name="Shining Dragon Helmet" armorType="None" >
+   <set icon="icon.armor_helmet_i00"/>
+   <set bodyPart="HEAD" grade="B"/>
+   <set crystallizable="true" crystal_count="232" />
+   <set weight="880" price="1740000"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <stats>
+    <add stat="pDef" order="0x10" val="69"/>
+    <enchant stat="pDef" order="0xc" val="0"/>
+   </stats>
+  </armor>
+  <armor id="507" name="Helmet of Victory" armorType="None" >
+   <set icon="icon.armor_helmet_i00"/>
+   <set bodyPart="HEAD" grade="B"/>
+   <set crystallizable="true" crystal_count="161" />
+   <set weight="640" price="1210000"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <stats>
+    <add stat="pDef" order="0x10" val="66"/>
+    <enchant stat="pDef" order="0xc" val="0"/>
+   </stats>
+  </armor>
+  <armor id="508" name="Helmet of Valor" armorType="None" >
+   <set icon="icon.armor_helmet_i00"/>
+   <set bodyPart="HEAD" grade="B"/>
+   <set crystallizable="true" crystal_count="232" />
+   <set weight="720" price="1740000"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <stats>
+    <add stat="pDef" order="0x10" val="67"/>
+    <enchant stat="pDef" order="0xc" val="0"/>
+   </stats>
+  </armor>
+  <armor id="509" name="Glorious Helmet" armorType="None" >
+   <set icon="icon.armor_helmet_i00"/>
+   <set bodyPart="HEAD" grade="A"/>
+   <set crystallizable="true" crystal_count="163" />
+   <set weight="800" price="2040000"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <stats>
+    <add stat="pDef" order="0x10" val="65"/>
+    <enchant stat="pDef" order="0xc" val="0"/>
+   </stats>
+  </armor>
+  <armor id="510" name="Red Flame Helmet" armorType="None" >
+   <set icon="icon.armor_helmet_i00"/>
+   <set bodyPart="HEAD" grade="A"/>
+   <set crystallizable="true" crystal_count="211" />
+   <set weight="960" price="2640000"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <stats>
+    <add stat="pDef" order="0x10" val="71"/>
+    <enchant stat="pDef" order="0xc" val="0"/>
+   </stats>
+  </armor>
+  <armor id="511" name="Elven Crystal Helmet" armorType="None" >
+   <set icon="icon.armor_circlet_i00"/>
+   <set bodyPart="HEAD" grade="B"/>
+   <set crystallizable="true" crystal_count="161" />
+   <set weight="580" price="1210000"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <stats>
+    <add stat="pDef" order="0x10" val="66"/>
+    <enchant stat="pDef" order="0xc" val="0"/>
+   </stats>
+  </armor>
+  <armor id="512" name="Dark Crystal Helmet" armorType="None" >
+   <set icon="icon.armor_helmet_i00"/>
+   <set bodyPart="HEAD" grade="A"/>
+   <set crystallizable="true" crystal_count="107" />
+   <set weight="570" price="1740000"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <stats>
+    <add stat="pDef" order="0x10" val="69"/>
+    <enchant stat="pDef" order="0xc" val="0"/>
+   </stats>
+  </armor>
+  <armor id="513" name="Implosion Helmet" armorType="None" >
+   <set icon="icon.armor_leather_helmet_i00"/>
+   <set bodyPart="HEAD" grade="B"/>
+   <set crystallizable="true" crystal_count="161" />
+   <set weight="480" price="1210000"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <stats>
+    <add stat="pDef" order="0x10" val="66"/>
+    <enchant stat="pDef" order="0xc" val="0"/>
+   </stats>
+  </armor>
+  <armor id="514" name="Dark Dragon Helmet" armorType="None" >
+   <set icon="icon.armor_helmet_i00"/>
+   <set bodyPart="HEAD" grade="B"/>
+   <set crystallizable="true" crystal_count="232" />
+   <set weight="400" price="1740000"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <stats>
+    <add stat="pDef" order="0x10" val="67"/>
+    <enchant stat="pDef" order="0xc" val="0"/>
+   </stats>
+  </armor>
+  <armor id="515" name="Elven Vagian Helm" armorType="None" >
+   <set icon="icon.armor_circlet_i00"/>
+   <set bodyPart="HEAD" grade="A"/>
+   <set crystallizable="true" crystal_count="163" />
+   <set weight="560" price="2040000"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <stats>
+    <add stat="pDef" order="0x10" val="65"/>
+    <enchant stat="pDef" order="0xc" val="0"/>
+   </stats>
+  </armor>
+  <armor id="516" name="Dark Vagian Helm" armorType="None" >
+   <set icon="icon.armor_helmet_i00"/>
+   <set bodyPart="HEAD" grade="A"/>
+   <set crystallizable="true" crystal_count="211" />
+   <set weight="560" price="2640000"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <stats>
+    <add stat="pDef" order="0x10" val="71"/>
+    <enchant stat="pDef" order="0xc" val="0"/>
+   </stats>
+  </armor>
+  <armor id="517" name="Composite Helmet" armorType="None" >
+   <set icon="icon.armor_leather_helmet_i00"/>
+   <set bodyPart="HEAD" grade="C"/>
+   <set crystallizable="true" crystal_count="113" />
+   <set weight="610" price="283200"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <stats>
+    <add stat="pDef" order="0x10" val="54"/>
+    <enchant stat="pDef" order="0xc" val="0"/>
+   </stats>
+  </armor>
+  <armor id="518" name="Hell Helm" armorType="None" >
+   <set icon="icon.armor_helmet_i00"/>
+   <set bodyPart="HEAD" grade="A"/>
+   <set crystallizable="true" crystal_count="211" />
+   <set weight="320" price="2640000"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <stats>
+    <add stat="pDef" order="0x10" val="71"/>
+    <enchant stat="pDef" order="0xc" val="0"/>
+   </stats>
+  </armor>
+  <armor id="519" name="Art of Helmet" armorType="None" >
+   <set icon="icon.armor_leather_helmet_i00"/>
+   <set bodyPart="HEAD" grade="B"/>
+   <set crystallizable="true" crystal_count="161" />
+   <set weight="400" price="1210000"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <stats>
+    <add stat="pDef" order="0x10" val="66"/>
+    <enchant stat="pDef" order="0xc" val="0"/>
+   </stats>
+  </armor>
+  <armor id="520" name="Masterpiece Helm" armorType="None" >
+   <set icon="icon.armor_helmet_i00"/>
+   <set bodyPart="HEAD" grade="A"/>
+   <set crystallizable="true" crystal_count="211" />
+   <set weight="400" price="2640000"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <stats>
+    <add stat="pDef" order="0x10" val="71"/>
+    <enchant stat="pDef" order="0xc" val="0"/>
+   </stats>
+  </armor>
+  <armor id="521" name="Helmet of Silence" armorType="None" >
+   <set icon="icon.armor_leather_helmet_i00"/>
+   <set bodyPart="HEAD" grade="B"/>
+   <set crystallizable="true" crystal_count="161" />
+   <set weight="320" price="1210000"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <stats>
+    <add stat="pDef" order="0x10" val="66"/>
+    <enchant stat="pDef" order="0xc" val="0"/>
+   </stats>
+  </armor>
+  <armor id="522" name="Gust Helmet" armorType="None" >
+   <set icon="icon.armor_circlet_i00"/>
+   <set bodyPart="HEAD" grade="B"/>
+   <set crystallizable="true" crystal_count="232" />
+   <set weight="570" price="1740000"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <stats>
+    <add stat="pDef" order="0x10" val="67"/>
+    <enchant stat="pDef" order="0xc" val="0"/>
+   </stats>
+  </armor>
+  <armor id="523" name="Prairie Helmet" armorType="None" >
+   <set icon="icon.armor_leather_helmet_i00"/>
+   <set bodyPart="HEAD" grade="B"/>
+   <set crystallizable="true" crystal_count="161" />
+   <set weight="480" price="1210000"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <stats>
+    <add stat="pDef" order="0x10" val="66"/>
+    <enchant stat="pDef" order="0xc" val="0"/>
+   </stats>
+  </armor>
+  <armor id="524" name="Helm of The Underworld" armorType="None" >
+   <set icon="icon.armor_helmet_i00"/>
+   <set bodyPart="HEAD" grade="B"/>
+   <set crystallizable="true" crystal_count="232" />
+   <set weight="320" price="1740000"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <stats>
+    <add stat="pDef" order="0x10" val="67"/>
+    <enchant stat="pDef" order="0xc" val="0"/>
+   </stats>
+  </armor>
+  <armor id="525" name="Helmet of Concentration" armorType="None" >
+   <set icon="icon.armor_circlet_i00"/>
+   <set bodyPart="HEAD" grade="B"/>
+   <set crystallizable="true" crystal_count="161" />
+   <set weight="320" price="1210000"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <stats>
+    <add stat="pDef" order="0x10" val="66"/>
+    <enchant stat="pDef" order="0xc" val="0"/>
+   </stats>
+  </armor>
+  <armor id="526" name="Ace's Helmet" armorType="None" >
+   <set icon="icon.armor_circlet_i00"/>
+   <set bodyPart="HEAD" grade="B"/>
+   <set crystallizable="true" crystal_count="232" />
+   <set weight="320" price="1740000"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <stats>
+    <add stat="pDef" order="0x10" val="67"/>
+    <enchant stat="pDef" order="0xc" val="0"/>
+   </stats>
+  </armor>
+  <armor id="527" name="Guardian's Helmet" armorType="None" >
+   <set icon="icon.armor_helmet_i00"/>
+   <set bodyPart="HEAD" grade="B"/>
+   <set crystallizable="true" crystal_count="161" />
+   <set weight="240" price="1210000"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <stats>
+    <add stat="pDef" order="0x10" val="66"/>
+    <enchant stat="pDef" order="0xc" val="0"/>
+   </stats>
+  </armor>
+  <armor id="528" name="Marksman Helmet" armorType="None" >
+   <set icon="icon.armor_circlet_i00"/>
+   <set bodyPart="HEAD" grade="B"/>
+   <set crystallizable="true" crystal_count="232" />
+   <set weight="240" price="1740000"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <stats>
+    <add stat="pDef" order="0x10" val="67"/>
+    <enchant stat="pDef" order="0xc" val="0"/>
+   </stats>
+  </armor>
+  <armor id="529" name="Cap of Mana" armorType="None" >
+   <set icon="icon.armor_cloth_helmet_i00"/>
+   <set bodyPart="HEAD" grade="C"/>
+   <set crystallizable="true" crystal_count="214" />
+   <set weight="320" price="536000"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <stats>
+    <add stat="pDef" order="0x10" val="58"/>
+    <enchant stat="pDef" order="0xc" val="0"/>
+   </stats>
+  </armor>
+  <armor id="530" name="Sage's Cap" armorType="None" >
+   <set icon="icon.armor_cloth_helmet_i00"/>
+   <set bodyPart="HEAD" grade="B"/>
+   <set crystallizable="true" crystal_count="104" />
+   <set weight="320" price="778000"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <stats>
+    <add stat="pDef" order="0x10" val="62"/>
+    <enchant stat="pDef" order="0xc" val="0"/>
+   </stats>
+  </armor>
+  <armor id="531" name="Paradia Hood" armorType="None" >
+   <set icon="icon.armor_cloth_helmet_i00"/>
+   <set bodyPart="HEAD" grade="C"/>
+   <set crystallizable="true" crystal_count="214" />
+   <set weight="320" price="536000"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <stats>
+    <add stat="pDef" order="0x10" val="58"/>
+    <enchant stat="pDef" order="0xc" val="0"/>
+   </stats>
+  </armor>
+  <armor id="532" name="Inferno Hood" armorType="None" >
+   <set icon="icon.armor_cloth_helmet_i00"/>
+   <set bodyPart="HEAD" grade="B"/>
+   <set crystallizable="true" crystal_count="104" />
+   <set weight="320" price="778000"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <stats>
+    <add stat="pDef" order="0x10" val="62"/>
+    <enchant stat="pDef" order="0xc" val="0"/>
+   </stats>
+  </armor>
+  <armor id="533" name="Hood of Solar Eclipse" armorType="None" >
+   <set icon="icon.armor_cloth_helmet_i00"/>
+   <set bodyPart="HEAD" grade="C"/>
+   <set crystallizable="true" crystal_count="214" />
+   <set weight="320" price="536000"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <stats>
+    <add stat="pDef" order="0x10" val="58"/>
+    <enchant stat="pDef" order="0xc" val="0"/>
+   </stats>
+  </armor>
+  <armor id="534" name="Hood of Black Ore" armorType="None" >
+   <set icon="icon.armor_cloth_helmet_i00"/>
+   <set bodyPart="HEAD" grade="B"/>
+   <set crystallizable="true" crystal_count="104" />
+   <set weight="320" price="778000"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <stats>
+    <add stat="pDef" order="0x10" val="62"/>
+    <enchant stat="pDef" order="0xc" val="0"/>
+   </stats>
+  </armor>
+  <armor id="535" name="Hood of Summoning" armorType="None" >
+   <set icon="icon.armor_cloth_helmet_i00"/>
+   <set bodyPart="HEAD" grade="C"/>
+   <set crystallizable="true" crystal_count="214" />
+   <set weight="320" price="536000"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <stats>
+    <add stat="pDef" order="0x10" val="58"/>
+    <enchant stat="pDef" order="0xc" val="0"/>
+   </stats>
+  </armor>
+  <armor id="536" name="Otherworldly Hood" armorType="None" >
+   <set icon="icon.armor_cloth_helmet_i00"/>
+   <set bodyPart="HEAD" grade="B"/>
+   <set crystallizable="true" crystal_count="104" />
+   <set weight="320" price="778000"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <stats>
+    <add stat="pDef" order="0x10" val="62"/>
+    <enchant stat="pDef" order="0xc" val="0"/>
+   </stats>
+  </armor>
+  <armor id="537" name="Elemental Hood" armorType="None" >
+   <set icon="icon.armor_cloth_helmet_i00"/>
+   <set bodyPart="HEAD" grade="C"/>
+   <set crystallizable="true" crystal_count="214" />
+   <set weight="320" price="536000"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <stats>
+    <add stat="pDef" order="0x10" val="58"/>
+    <enchant stat="pDef" order="0xc" val="0"/>
+   </stats>
+  </armor>
+  <armor id="538" name="Hood of Phantom" armorType="None" >
+   <set icon="icon.armor_cloth_helmet_i00"/>
+   <set bodyPart="HEAD" grade="B"/>
+   <set crystallizable="true" crystal_count="104" />
+   <set weight="320" price="778000"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <stats>
+    <add stat="pDef" order="0x10" val="62"/>
+    <enchant stat="pDef" order="0xc" val="0"/>
+   </stats>
+  </armor>
+  <armor id="539" name="Hood of Grace" armorType="None" >
+   <set icon="icon.armor_cloth_helmet_i00"/>
+   <set bodyPart="HEAD" grade="C"/>
+   <set crystallizable="true" crystal_count="214" />
+   <set weight="320" price="536000"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <stats>
+    <add stat="pDef" order="0x10" val="58"/>
+    <enchant stat="pDef" order="0xc" val="0"/>
+   </stats>
+  </armor>
+  <armor id="540" name="Hood of Holy Spirit" armorType="None" >
+   <set icon="icon.armor_cloth_helmet_i00"/>
+   <set bodyPart="HEAD" grade="B"/>
+   <set crystallizable="true" crystal_count="104" />
+   <set weight="320" price="778000"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <stats>
+    <add stat="pDef" order="0x10" val="62"/>
+    <enchant stat="pDef" order="0xc" val="0"/>
+   </stats>
+  </armor>
+  <armor id="541" name="Phoenix Hood" armorType="None" >
+   <set icon="icon.armor_cloth_helmet_i00"/>
+   <set bodyPart="HEAD" grade="C"/>
+   <set crystallizable="true" crystal_count="214" />
+   <set weight="590" price="536000"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <stats>
+    <add stat="pDef" order="0x10" val="58"/>
+    <enchant stat="pDef" order="0xc" val="0"/>
+   </stats>
+  </armor>
+  <armor id="542" name="Cerberus Hood" armorType="None" >
+   <set icon="icon.armor_cloth_helmet_i00"/>
+   <set bodyPart="HEAD" grade="B"/>
+   <set crystallizable="true" crystal_count="104" />
+   <set weight="320" price="778000"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <stats>
+    <add stat="pDef" order="0x10" val="62"/>
+    <enchant stat="pDef" order="0xc" val="0"/>
+   </stats>
+  </armor>
+  <armor id="543" name="Hood of Aid" armorType="None" >
+   <set icon="icon.armor_cloth_helmet_i00"/>
+   <set bodyPart="HEAD" grade="C"/>
+   <set crystallizable="true" crystal_count="214" />
+   <set weight="320" price="536000"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <stats>
+    <add stat="pDef" order="0x10" val="58"/>
+    <enchant stat="pDef" order="0xc" val="0"/>
+   </stats>
+  </armor>
+  <armor id="544" name="Hood of Blessing" armorType="None" >
+   <set icon="icon.armor_cloth_helmet_i00"/>
+   <set bodyPart="HEAD" grade="B"/>
+   <set crystallizable="true" crystal_count="104" />
+   <set weight="320" price="778000"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <stats>
+    <add stat="pDef" order="0x10" val="62"/>
+    <enchant stat="pDef" order="0xc" val="0"/>
+   </stats>
+  </armor>
+  <armor id="545" name="Flame Helm" armorType="None" >
+   <set icon="icon.armor_helmet_i00"/>
+   <set bodyPart="HEAD" grade="C"/>
+   <set crystallizable="true" crystal_count="214" />
+   <set weight="400" price="536000"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <stats>
+    <add stat="pDef" order="0x10" val="58"/>
+    <enchant stat="pDef" order="0xc" val="0"/>
+   </stats>
+  </armor>
+  <armor id="546" name="Helm of Bravery" armorType="None" >
+   <set icon="icon.armor_helmet_i00"/>
+   <set bodyPart="HEAD" grade="B"/>
+   <set crystallizable="true" crystal_count="104" />
+   <set weight="400" price="778000"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <stats>
+    <add stat="pDef" order="0x10" val="62"/>
+    <enchant stat="pDef" order="0xc" val="0"/>
+   </stats>
+  </armor>
+  <armor id="547" name="Tallum Helm" armorType="None" >
+   <set icon="icon.armor_helmet_i00"/>
+   <set bodyPart="HEAD" grade="A"/>
+   <set crystallizable="true" crystal_count="107" />
+   <set weight="570" price="1740000"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <stats>
+    <add stat="pDef" order="0x10" val="69"/>
+    <enchant stat="pDef" order="0xc" val="0"/>
+   </stats>
+  </armor>
+  <armor id="548" name="Absolute Helm" armorType="None" >
+   <set icon="icon.armor_helmet_i00"/>
+   <set bodyPart="HEAD" grade="B"/>
+   <set crystallizable="true" crystal_count="104" />
+   <set weight="400" price="778000"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <stats>
+    <add stat="pDef" order="0x10" val="62"/>
+    <enchant stat="pDef" order="0xc" val="0"/>
+   </stats>
+  </armor>
+  <armor id="549" name="Helm of Avadon" armorType="None" >
+   <set icon="icon.armor_helmet_i00"/>
+   <set bodyPart="HEAD" grade="C"/>
+   <set crystallizable="true" crystal_count="214" />
+   <set weight="400" price="536000"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <stats>
+    <add stat="pDef" order="0x10" val="58"/>
+    <enchant stat="pDef" order="0xc" val="0"/>
+   </stats>
+  </armor>
+  <armor id="550" name="Helm of Doom" armorType="None" >
+   <set icon="icon.armor_helmet_i00"/>
+   <set bodyPart="HEAD" grade="B"/>
+   <set crystallizable="true" crystal_count="124" />
+   <set weight="400" price="778000"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <stats>
+    <add stat="pDef" order="0x10" val="62"/>
+    <enchant stat="pDef" order="0xc" val="0"/>
+   </stats>
+  </armor>
+  <armor id="551" name="Helmet of Pledge" armorType="None" >
+   <set icon="icon.armor_helmet_i00"/>
+   <set bodyPart="HEAD" grade="C"/>
+   <set crystallizable="true" crystal_count="214" />
+   <set weight="400" price="536000"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <stats>
+    <add stat="pDef" order="0x10" val="58"/>
+    <enchant stat="pDef" order="0xc" val="0"/>
+   </stats>
+  </armor>
+  <armor id="552" name="Divine Helm" armorType="None" >
+   <set icon="icon.armor_helmet_i00"/>
+   <set bodyPart="HEAD" grade="B"/>
+   <set crystallizable="true" crystal_count="104" />
+   <set weight="400" price="778000"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <stats>
+    <add stat="pDef" order="0x10" val="62"/>
+    <enchant stat="pDef" order="0xc" val="0"/>
+   </stats>
+  </armor>
+  <armor id="553" name="Iron Boots" armorType="None" >
+   <set icon="icon.armor_t10_b_i00"/>
+   <set bodyPart="FEET" grade="D"/>
+   <set crystallizable="true" crystal_count="71" />
+   <set weight="1280" price="39100"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <stats>
+    <add stat="pDef" order="0x10" val="24"/>
+    <enchant stat="pDef" order="0xc" val="0"/>
+   </stats>
+  </armor>
+  <armor id="554" name="Zubei's Boots" armorType="None" >
+   <set icon="icon.armor_t64_b_i02"/>
+   <set bodyPart="FEET" grade="B"/>
+   <set crystallizable="true" crystal_count="53" />
+   <set weight="1180" price="519000"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <stats>
+    <add stat="pDef" order="0x10" val="41"/>
+    <enchant stat="pDef" order="0xc" val="0"/>
+   </stats>
+  </armor>
+  <armor id="555" name="Dragon Boots" armorType="None" >
+   <set icon="icon.armor_iron_boots_i00"/>
+   <set bodyPart="FEET" grade="A"/>
+   <set crystallizable="true" crystal_count="141" />
+   <set weight="1110" price="1760000"/>
+   <set sellable="false" tradeable="false" />
+   <set dropable="false" destroyable="true"/>
+
+   <stats>
+    <add stat="pDef" order="0x10" val="48"/>
+    <enchant stat="pDef" order="0xc" val="0"/>
+   </stats>
+  </armor>
+  <armor id="556" name="Wolf Boots" armorType="None" >
+   <set icon="icon.armor_iron_boots_i00"/>
+   <set bodyPart="FEET" grade="B"/>
+   <set crystallizable="true" crystal_count="83" />
+   <set weight="1180" price="519000"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <stats>
+    <add stat="pDef" order="0x10" val="41"/>
+    <enchant stat="pDef" order="0xc" val="0"/>
+   </stats>
+  </armor>
+  <armor id="557" name="Shining Dragon Boots" armorType="None" >
+   <set icon="icon.armor_iron_boots_i00"/>
+   <set bodyPart="FEET" grade="B"/>
+   <set crystallizable="true" crystal_count="107" />
+   <set weight="1150" price="804000"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <stats>
+    <add stat="pDef" order="0x10" val="44"/>
+    <enchant stat="pDef" order="0xc" val="0"/>
+   </stats>
+  </armor>
+  <armor id="558" name="Boots of Victory" armorType="None" >
+   <set icon="icon.armor_iron_boots_i00"/>
+   <set bodyPart="FEET" grade="B"/>
+   <set crystallizable="true" crystal_count="69" />
+   <set weight="1180" price="519000"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <stats>
+    <add stat="pDef" order="0x10" val="41"/>
+    <enchant stat="pDef" order="0xc" val="0"/>
+   </stats>
+  </armor>
+  <armor id="559" name="Boots of Valor" armorType="None" >
+   <set icon="icon.armor_iron_boots_i00"/>
+   <set bodyPart="FEET" grade="B"/>
+   <set crystallizable="true" crystal_count="107" />
+   <set weight="1150" price="804000"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <stats>
+    <add stat="pDef" order="0x10" val="44"/>
+    <enchant stat="pDef" order="0xc" val="0"/>
+   </stats>
+  </armor>
+  <armor id="560" name="Glorious Boots" armorType="None" >
+   <set icon="icon.armor_iron_boots_i00"/>
+   <set bodyPart="FEET" grade="B"/>
+   <set crystallizable="true" crystal_count="69" />
+   <set weight="1180" price="519000"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <stats>
+    <add stat="pDef" order="0x10" val="41"/>
+    <enchant stat="pDef" order="0xc" val="0"/>
+   </stats>
+  </armor>
+  <armor id="561" name="Red Flame Boots" armorType="None" >
+   <set icon="icon.armor_t14_b_i00"/>
+   <set bodyPart="FEET" grade="A"/>
+   <set crystallizable="true" crystal_count="93" />
+   <set weight="1120" price="1160000"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <stats>
+    <add stat="pDef" order="0x10" val="45"/>
+    <enchant stat="pDef" order="0xc" val="0"/>
+   </stats>
+  </armor>
+  <armor id="562" name="Elven Crystal Boots" armorType="None" >
+   <set icon="icon.armor_iron_boots_i00"/>
+   <set bodyPart="FEET" grade="B"/>
+   <set crystallizable="true" crystal_count="69" />
+   <set weight="1180" price="519000"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <stats>
+    <add stat="pDef" order="0x10" val="41"/>
+    <enchant stat="pDef" order="0xc" val="0"/>
+   </stats>
+  </armor>
+  <armor id="563" name="Dark Crystal Boots" armorType="None" >
+   <set icon="icon.armor_t15_b_i00"/>
+   <set bodyPart="FEET" grade="A"/>
+   <set crystallizable="true" crystal_count="71" />
+   <set weight="1110" price="1160000"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <stats>
+    <add stat="pDef" order="0x10" val="45"/>
+    <enchant stat="pDef" order="0xc" val="0"/>
+   </stats>
+  </armor>
+  <armor id="564" name="Implosion Boots" armorType="None" >
+   <set icon="icon.armor_t68_b_i00"/>
+   <set bodyPart="FEET" grade="B"/>
+   <set crystallizable="true" crystal_count="107" />
+   <set weight="1150" price="804000"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <stats>
+    <add stat="pDef" order="0x10" val="44"/>
+    <enchant stat="pDef" order="0xc" val="0"/>
+   </stats>
+  </armor>
+  <armor id="565" name="Dark Dragon Boots" armorType="None" >
+   <set icon="icon.armor_iron_boots_i00"/>
+   <set bodyPart="FEET" grade="B"/>
+   <set crystallizable="true" crystal_count="107" />
+   <set weight="1130" price="804000"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <stats>
+    <add stat="pDef" order="0x10" val="44"/>
+    <enchant stat="pDef" order="0xc" val="0"/>
+   </stats>
+  </armor>
+  <armor id="566" name="Elven Vagian Boots" armorType="None" >
+   <set icon="icon.armor_iron_boots_i00"/>
+   <set bodyPart="FEET" grade="B"/>
+   <set crystallizable="true" crystal_count="69" />
+   <set weight="1150" price="519000"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <stats>
+    <add stat="pDef" order="0x10" val="41"/>
+    <enchant stat="pDef" order="0xc" val="0"/>
+   </stats>
+  </armor>
+  <armor id="567" name="Dark Vagian Boots" armorType="None" >
+   <set icon="icon.armor_iron_boots_i00"/>
+   <set bodyPart="FEET" grade="B"/>
+   <set crystallizable="true" crystal_count="107" />
+   <set weight="1130" price="804000"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <stats>
+    <add stat="pDef" order="0x10" val="44"/>
+    <enchant stat="pDef" order="0xc" val="0"/>
+   </stats>
+  </armor>
+  <armor id="568" name="Composite Boots" armorType="None" >
+   <set icon="icon.armor_iron_boots_i00"/>
+   <set bodyPart="FEET" grade="B"/>
+   <set crystallizable="true" crystal_count="69" />
+   <set weight="200" price="519000"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <stats>
+    <add stat="pDef" order="0x10" val="41"/>
+    <enchant stat="pDef" order="0xc" val="0"/>
+   </stats>
+  </armor>
+  <armor id="569" name="Hell Boots" armorType="None" >
+   <set icon="icon.armor_iron_boots_i00"/>
+   <set bodyPart="FEET" grade="B"/>
+   <set crystallizable="true" crystal_count="107" />
+   <set weight="1130" price="804000"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <stats>
+    <add stat="pDef" order="0x10" val="44"/>
+    <enchant stat="pDef" order="0xc" val="0"/>
+   </stats>
+  </armor>
+  <armor id="570" name="Art of Boots" armorType="None" >
+   <set icon="icon.armor_iron_boots_i00"/>
+   <set bodyPart="FEET" grade="B"/>
+   <set crystallizable="true" crystal_count="69" />
+   <set weight="1150" price="519000"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <stats>
+    <add stat="pDef" order="0x10" val="41"/>
+    <enchant stat="pDef" order="0xc" val="0"/>
+   </stats>
+  </armor>
+  <armor id="571" name="Masterpiece Boots" armorType="None" >
+   <set icon="icon.armor_iron_boots_i00"/>
+   <set bodyPart="FEET" grade="B"/>
+   <set crystallizable="true" crystal_count="107" />
+   <set weight="1130" price="804000"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <stats>
+    <add stat="pDef" order="0x10" val="44"/>
+    <enchant stat="pDef" order="0xc" val="0"/>
+   </stats>
+  </armor>
+  <armor id="572" name="Boots of Silence" armorType="None" >
+   <set icon="icon.armor_t65_b_i00"/>
+   <set bodyPart="FEET" grade="B"/>
+   <set crystallizable="true" crystal_count="69" />
+   <set weight="1190" price="519000"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <stats>
+    <add stat="pDef" order="0x10" val="41"/>
+    <enchant stat="pDef" order="0xc" val="0"/>
+   </stats>
+  </armor>
+  <armor id="573" name="Gust Boots" armorType="None" >
+   <set icon="icon.armor_t45_b_i00"/>
+   <set bodyPart="FEET" grade="A"/>
+   <set crystallizable="true" crystal_count="93" />
+   <set weight="1120" price="1160000"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <stats>
+    <add stat="pDef" order="0x10" val="45"/>
+    <enchant stat="pDef" order="0xc" val="0"/>
+   </stats>
+  </armor>
+  <armor id="574" name="Prairie Boots" armorType="None" >
+   <set icon="icon.armor_iron_boots_i00"/>
+   <set bodyPart="FEET" grade="B"/>
+   <set crystallizable="true" crystal_count="69" />
+   <set weight="1140" price="519000"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <stats>
+    <add stat="pDef" order="0x10" val="41"/>
+    <enchant stat="pDef" order="0xc" val="0"/>
+   </stats>
+  </armor>
+  <armor id="575" name="Boots of The Underworld" armorType="None" >
+   <set icon="icon.armor_t10_b_i00"/>
+   <set bodyPart="FEET" grade="A"/>
+   <set crystallizable="true" crystal_count="93" />
+   <set weight="1110" price="1160000"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <stats>
+    <add stat="pDef" order="0x10" val="45"/>
+    <enchant stat="pDef" order="0xc" val="0"/>
+   </stats>
+  </armor>
+  <armor id="576" name="Boots of Concentration" armorType="None" >
+   <set icon="icon.armor_iron_boots_i00"/>
+   <set bodyPart="FEET" grade="B"/>
+   <set crystallizable="true" crystal_count="69" />
+   <set weight="1170" price="519000"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <stats>
+    <add stat="pDef" order="0x10" val="41"/>
+    <enchant stat="pDef" order="0xc" val="0"/>
+   </stats>
+  </armor>
+  <armor id="577" name="Ace's Boots" armorType="None" >
+   <set icon="icon.armor_iron_boots_i00"/>
+   <set bodyPart="FEET" grade="B"/>
+   <set crystallizable="true" crystal_count="107" />
+   <set weight="1150" price="804000"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <stats>
+    <add stat="pDef" order="0x10" val="44"/>
+    <enchant stat="pDef" order="0xc" val="0"/>
+   </stats>
+  </armor>
+  <armor id="578" name="Guardian's Boots" armorType="None" >
+   <set icon="icon.armor_t67_b_i00"/>
+   <set bodyPart="FEET" grade="B"/>
+   <set crystallizable="true" crystal_count="69" />
+   <set weight="1180" price="519000"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <stats>
+    <add stat="pDef" order="0x10" val="41"/>
+    <enchant stat="pDef" order="0xc" val="0"/>
+   </stats>
+  </armor>
+  <armor id="579" name="Marksman Boots" armorType="None" >
+   <set icon="icon.armor_iron_boots_i00"/>
+   <set bodyPart="FEET" grade="B"/>
+   <set crystallizable="true" crystal_count="107" />
+   <set weight="1150" price="804000"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <stats>
+    <add stat="pDef" order="0x10" val="44"/>
+    <enchant stat="pDef" order="0xc" val="0"/>
+   </stats>
+  </armor>
+  <armor id="580" name="Boots of Mana" armorType="None" >
+   <set icon="icon.armor_iron_boots_i00"/>
+   <set bodyPart="FEET" grade="B"/>
+   <set crystallizable="true" crystal_count="69" />
+   <set weight="1180" price="519000"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <stats>
+    <add stat="pDef" order="0x10" val="41"/>
+    <enchant stat="pDef" order="0xc" val="0"/>
+   </stats>
+  </armor>
+  <armor id="581" name="Sage's Boots" armorType="None" >
+   <set icon="icon.armor_iron_boots_i00"/>
+   <set bodyPart="FEET" grade="B"/>
+   <set crystallizable="true" crystal_count="107" />
+   <set weight="1150" price="804000"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <stats>
+    <add stat="pDef" order="0x10" val="44"/>
+    <enchant stat="pDef" order="0xc" val="0"/>
+   </stats>
+  </armor>
+  <armor id="582" name="Paradia Boots" armorType="None" >
+   <set icon="icon.armor_t68_b_i00"/>
+   <set bodyPart="FEET" grade="B"/>
+   <set crystallizable="true" crystal_count="107" />
+   <set weight="1140" price="804000"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <stats>
+    <add stat="pDef" order="0x10" val="44"/>
+    <enchant stat="pDef" order="0xc" val="0"/>
+   </stats>
+  </armor>
+  <armor id="583" name="Majestic Boots" armorType="None" >
+   <set icon="icon.armor_t45_b_i00"/>
+   <set bodyPart="FEET" grade="A"/>
+   <set crystallizable="true" crystal_count="108" />
+   <set weight="1110" price="1760000"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <stats>
+    <add stat="pDef" order="0x10" val="48"/>
+    <enchant stat="pDef" order="0xc" val="0"/>
+   </stats>
+  </armor>
+  <armor id="584" name="Boots of Solar Eclipse" armorType="None" >
+   <set icon="icon.armor_iron_boots_i00"/>
+   <set bodyPart="FEET" grade="B"/>
+   <set crystallizable="true" crystal_count="69" />
+   <set weight="1180" price="519000"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <stats>
+    <add stat="pDef" order="0x10" val="41"/>
+    <enchant stat="pDef" order="0xc" val="0"/>
+   </stats>
+  </armor>
+  <armor id="585" name="Boots of Black Ore" armorType="None" >
+   <set icon="icon.armor_iron_boots_i00"/>
+   <set bodyPart="FEET" grade="B"/>
+   <set crystallizable="true" crystal_count="107" />
+   <set weight="1200" price="804000"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <stats>
+    <add stat="pDef" order="0x10" val="44"/>
+    <enchant stat="pDef" order="0xc" val="0"/>
+   </stats>
+  </armor>
+  <armor id="586" name="Boots of Summoning" armorType="None" >
+   <set icon="icon.armor_iron_boots_i00"/>
+   <set bodyPart="FEET" grade="B"/>
+   <set crystallizable="true" crystal_count="69" />
+   <set weight="1170" price="519000"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <stats>
+    <add stat="pDef" order="0x10" val="41"/>
+    <enchant stat="pDef" order="0xc" val="0"/>
+   </stats>
+  </armor>
+  <armor id="587" name="Otherworldly Boots" armorType="None" >
+   <set icon="icon.armor_iron_boots_i00"/>
+   <set bodyPart="FEET" grade="B"/>
+   <set crystallizable="true" crystal_count="107" />
+   <set weight="1200" price="804000"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <stats>
+    <add stat="pDef" order="0x10" val="44"/>
+    <enchant stat="pDef" order="0xc" val="0"/>
+   </stats>
+  </armor>
+  <armor id="588" name="Elemental Boots" armorType="None" >
+   <set icon="icon.armor_t71_b_i00"/>
+   <set bodyPart="FEET" grade="B"/>
+   <set crystallizable="true" crystal_count="107" />
+   <set weight="1130" price="804000"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <stats>
+    <add stat="pDef" order="0x10" val="44"/>
+    <enchant stat="pDef" order="0xc" val="0"/>
+   </stats>
+  </armor>
+  <armor id="589" name="Boots of Phantom" armorType="None" >
+   <set icon="icon.armor_t45_b_i00"/>
+   <set bodyPart="FEET" grade="A"/>
+   <set crystallizable="true" crystal_count="141" />
+   <set weight="1120" price="1760000"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <stats>
+    <add stat="pDef" order="0x10" val="48"/>
+    <enchant stat="pDef" order="0xc" val="0"/>
+   </stats>
+  </armor>
+  <armor id="590" name="Boots of Grace" armorType="None" >
+   <set icon="icon.armor_t71_b_i00"/>
+   <set bodyPart="FEET" grade="B"/>
+   <set crystallizable="true" crystal_count="107" />
+   <set weight="1130" price="804000"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <stats>
+    <add stat="pDef" order="0x10" val="44"/>
+    <enchant stat="pDef" order="0xc" val="0"/>
+   </stats>
+  </armor>
+  <armor id="591" name="Boots of Holy Spirit" armorType="None" >
+   <set icon="icon.armor_iron_boots_i00"/>
+   <set bodyPart="FEET" grade="B"/>
+   <set crystallizable="true" crystal_count="107" />
+   <set weight="1200" price="804000"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <stats>
+    <add stat="pDef" order="0x10" val="44"/>
+    <enchant stat="pDef" order="0xc" val="0"/>
+   </stats>
+  </armor>
+  <armor id="592" name="Phoenix Boots" armorType="None" >
+   <set icon="icon.armor_t44_b_i00"/>
+   <set bodyPart="FEET" grade="A"/>
+   <set crystallizable="true" crystal_count="93" />
+   <set weight="1120" price="1160000"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <stats>
+    <add stat="pDef" order="0x10" val="45"/>
+    <enchant stat="pDef" order="0xc" val="0"/>
+   </stats>
+  </armor>
+  <armor id="593" name="Cerberus Boots" armorType="None" >
+   <set icon="icon.armor_t44_b_i00"/>
+   <set bodyPart="FEET" grade="A"/>
+   <set crystallizable="true" crystal_count="141" />
+   <set weight="1120" price="1760000"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <stats>
+    <add stat="pDef" order="0x10" val="48"/>
+    <enchant stat="pDef" order="0xc" val="0"/>
+   </stats>
+  </armor>
+  <armor id="594" name="Boots of Aid" armorType="None" >
+   <set icon="icon.armor_iron_boots_i00"/>
+   <set bodyPart="FEET" grade="B"/>
+   <set crystallizable="true" crystal_count="69" />
+   <set weight="1200" price="519000"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <stats>
+    <add stat="pDef" order="0x10" val="41"/>
+    <enchant stat="pDef" order="0xc" val="0"/>
+   </stats>
+  </armor>
+  <armor id="595" name="Boots of Blessing" armorType="None" >
+   <set icon="icon.armor_t56_b_i00"/>
+   <set bodyPart="FEET" grade="B"/>
+   <set crystallizable="true" crystal_count="69" />
+   <set weight="1160" price="519000"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <stats>
+    <add stat="pDef" order="0x10" val="41"/>
+    <enchant stat="pDef" order="0xc" val="0"/>
+   </stats>
+  </armor>
+  <armor id="596" name="Flame Boots" armorType="None" >
+   <set icon="icon.armor_iron_boots_i00"/>
+   <set bodyPart="FEET" grade="B"/>
+   <set crystallizable="true" crystal_count="155" />
+   <set weight="1020" price="1160000"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <stats>
+    <add stat="pDef" order="0x10" val="45"/>
+    <enchant stat="pDef" order="0xc" val="0"/>
+   </stats>
+  </armor>
+  <armor id="597" name="Boots of Bravery" armorType="None" >
+   <set icon="icon.armor_iron_boots_i00"/>
+   <set bodyPart="FEET" grade="B"/>
+   <set crystallizable="true" crystal_count="155" />
+   <set weight="1050" price="1160000"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <stats>
+    <add stat="pDef" order="0x10" val="45"/>
+    <enchant stat="pDef" order="0xc" val="0"/>
+   </stats>
+  </armor>
+  <armor id="598" name="Blood Boots" armorType="None" >
+   <set icon="icon.armor_t45_b_i00"/>
+   <set bodyPart="FEET" grade="A"/>
+   <set crystallizable="true" crystal_count="93" />
+   <set weight="1130" price="1160000"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <stats>
+    <add stat="pDef" order="0x10" val="45"/>
+    <enchant stat="pDef" order="0xc" val="0"/>
+   </stats>
+  </armor>
+  <armor id="599" name="Absolute Boots" armorType="None" >
+   <set icon="icon.armor_iron_boots_i00"/>
+   <set bodyPart="FEET" grade="B"/>
+   <set crystallizable="true" crystal_count="155" />
+   <set weight="1130" price="1160000"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <stats>
+    <add stat="pDef" order="0x10" val="45"/>
+    <enchant stat="pDef" order="0xc" val="0"/>
+   </stats>
+  </armor>
+  <armor id="600" name="Avadon Boots" armorType="None" >
+   <set icon="icon.armor_t66_b_i02"/>
+   <set bodyPart="FEET" grade="B"/>
+   <set crystallizable="true" crystal_count="53" />
+   <set weight="1170" price="519000"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <stats>
+    <add stat="pDef" order="0x10" val="41"/>
+    <enchant stat="pDef" order="0xc" val="0"/>
+   </stats>
+  </armor>
+  <armor id="601" name="Boots of Doom" armorType="None" >
+   <set icon="icon.armor_t71_b_i02"/>
+   <set bodyPart="FEET" grade="B"/>
+   <set crystallizable="true" crystal_count="107" />
+   <set weight="1130" price="804000"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <stats>
+    <add stat="pDef" order="0x10" val="44"/>
+    <enchant stat="pDef" order="0xc" val="0"/>
+   </stats>
+  </armor>
+  <armor id="602" name="Boots of Pledge" armorType="None" >
+   <set icon="icon.armor_iron_boots_i00"/>
+   <set bodyPart="FEET" grade="B"/>
+   <set crystallizable="true" crystal_count="155" />
+   <set weight="1130" price="1160000"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <stats>
+    <add stat="pDef" order="0x10" val="45"/>
+    <enchant stat="pDef" order="0xc" val="0"/>
+   </stats>
+  </armor>
+  <armor id="603" name="Divine Boots" armorType="None" >
+   <set icon="icon.armor_t67_b_i00"/>
+   <set bodyPart="FEET" grade="C"/>
+   <set crystallizable="true" crystal_count="143" />
+   <set weight="1200" price="358000"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <stats>
+    <add stat="pDef" order="0x10" val="39"/>
+    <enchant stat="pDef" order="0xc" val="0"/>
+   </stats>
+  </armor>
+  <armor id="604" name="Crafted Leather Gloves" armorType="None" >
+   <set icon="icon.armor_t09_g_i00"/>
+   <set bodyPart="GLOVES" grade="D"/>
+   <set crystallizable="true" crystal_count="30" />
+   <set weight="650" price="16100"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <stats>
+    <add stat="pDef" order="0x10" val="19"/>
+    <enchant stat="pDef" order="0xc" val="0"/>
+   </stats>
+  </armor>
+  <armor id="605" name="Leather Gauntlets" armorType="None" >
+   <set icon="icon.armor_t18_g_i00"/>
+   <set bodyPart="GLOVES" grade="D"/>
+   <set crystallizable="true" crystal_count="47" />
+   <set weight="640" price="25600"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <stats>
+    <add stat="pDef" order="0x10" val="22"/>
+    <enchant stat="pDef" order="0xc" val="0"/>
+   </stats>
+  </armor>
+  <armor id="606" name="Rip Gauntlets" armorType="None" >
+   <set icon="icon.armor_t40_g_i00"/>
+   <set bodyPart="GLOVES" grade="D"/>
+   <set crystallizable="true" crystal_count="106" />
+   <set weight="630" price="57400"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <stats>
+    <add stat="pDef" order="0x10" val="27"/>
+    <enchant stat="pDef" order="0xc" val="0"/>
+   </stats>
+  </armor>
+  <armor id="607" name="Ogre Power Gauntlets" armorType="None" >
+   <set icon="icon.armor_t45_g_i00"/>
+   <set bodyPart="GLOVES" grade="D"/>
+   <set crystallizable="true" crystal_count="139" />
+   <set weight="620" price="75200"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <stats>
+    <add stat="pDef" order="0x10" val="29"/>
+    <enchant stat="pDef" order="0xc" val="0"/>
+   </stats>
+  </armor>
+  <armor id="608" name="Mithril Gauntlets" armorType="None" >
+   <set icon="icon.armor_t61_g_i00"/>
+   <set bodyPart="GLOVES" grade="C"/>
+   <set crystallizable="true" crystal_count="76" />
+   <set weight="600" price="188800"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <stats>
+    <add stat="pDef" order="0x10" val="36"/>
+    <enchant stat="pDef" order="0xc" val="0"/>
+   </stats>
+  </armor>
+  <armor id="609" name="Gauntlets of Ghost" armorType="None" >
+   <set icon="icon.armor_gauntlet_i00"/>
+   <set bodyPart="GLOVES" grade="C"/>
+   <set crystallizable="true" crystal_count="143" />
+   <set weight="1920" price="358000"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <stats>
+    <add stat="pDef" order="0x10" val="39"/>
+    <enchant stat="pDef" order="0xc" val="0"/>
+   </stats>
+  </armor>
+  <armor id="610" name="Saint Knight's Gauntlets" armorType="None" >
+   <set icon="icon.armor_gauntlet_i00"/>
+   <set bodyPart="GLOVES" grade="B"/>
+   <set crystallizable="true" crystal_count="69" />
+   <set weight="6400" price="519000"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <stats>
+    <add stat="pDef" order="0x10" val="41"/>
+    <enchant stat="pDef" order="0xc" val="0"/>
+   </stats>
+  </armor>
+  <armor id="611" name="Soul Leech Gauntlets" armorType="None" >
+   <set icon="icon.armor_gauntlet_i00"/>
+   <set bodyPart="GLOVES" grade="B"/>
+   <set crystallizable="true" crystal_count="107" />
+   <set weight="4800" price="804000"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <stats>
+    <add stat="pDef" order="0x10" val="44"/>
+    <enchant stat="pDef" order="0xc" val="0"/>
+   </stats>
+  </armor>
+  <armor id="612" name="Zubei's Gauntlets" armorType="None" >
+   <set icon="icon.armor_t64_g_i02"/>
+   <set bodyPart="GLOVES" grade="B"/>
+   <set crystallizable="true" crystal_count="53" />
+   <set weight="590" price="519000"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <stats>
+    <add stat="pDef" order="0x10" val="41"/>
+    <enchant stat="pDef" order="0xc" val="0"/>
+   </stats>
+  </armor>
+  <armor id="613" name="Sand Dragon Gloves" armorType="None" >
+   <set icon="icon.armor_gauntlet_i00"/>
+   <set bodyPart="GLOVES" grade="A"/>
+   <set crystallizable="true" crystal_count="141" />
+   <set weight="3200" price="1760000"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <stats>
+    <add stat="pDef" order="0x10" val="48"/>
+    <enchant stat="pDef" order="0xc" val="0"/>
+   </stats>
+  </armor>
+  <armor id="614" name="Knight's Cloak" armorType="None" >
+   <set icon="icon.armor_back04"/>
+   <set bodyPart="UNDERWEAR" grade="D"/>
+   <set crystallizable="true" crystal_count="38" />
+   <set weight="240" price="20900"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <stats>
+    <add stat="pDef" order="0x10" val="7"/>
+    <enchant stat="pDef" order="0xc" val="0"/>
+   </stats>
+  </armor>
+  <armor id="615" name="Cobweb Cloak" armorType="None" >
+   <set icon="icon.armor_back05"/>
+   <set bodyPart="UNDERWEAR" grade="D"/>
+   <set crystallizable="true" crystal_count="61" />
+   <set weight="240" price="33300"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <stats>
+    <add stat="pDef" order="0x10" val="8"/>
+    <enchant stat="pDef" order="0xc" val="0"/>
+   </stats>
+  </armor>
+  <armor id="616" name="Cloak of Magic" armorType="None" >
+   <set icon="icon.armor_back06"/>
+   <set bodyPart="UNDERWEAR" grade="D"/>
+   <set crystallizable="true" crystal_count="136" />
+   <set weight="240" price="74700"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <stats>
+    <add stat="pDef" order="0x10" val="11"/>
+    <enchant stat="pDef" order="0xc" val="0"/>
+   </stats>
+  </armor>
+  <armor id="617" name="Mithril Cloak" armorType="None" >
+   <set icon="icon.armor_back07"/>
+   <set bodyPart="UNDERWEAR" grade="D"/>
+   <set crystallizable="true" crystal_count="178" />
+   <set weight="240" price="97800"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <stats>
+    <add stat="pDef" order="0x10" val="11"/>
+    <enchant stat="pDef" order="0xc" val="0"/>
+   </stats>
+  </armor>
+  <armor id="618" name="Cloak of Self Protection" armorType="None" >
+   <set icon="icon.armor_back08"/>
+   <set bodyPart="UNDERWEAR" grade="C"/>
+   <set crystallizable="true" crystal_count="64" />
+   <set weight="240" price="161000"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <stats>
+    <add stat="pDef" order="0x10" val="13"/>
+    <enchant stat="pDef" order="0xc" val="0"/>
+   </stats>
+  </armor>
+  <armor id="619" name="Ancient Cloak" armorType="None" >
+   <set icon="icon.armor_back09"/>
+   <set bodyPart="UNDERWEAR" grade="C"/>
+   <set crystallizable="true" crystal_count="98" />
+   <set weight="230" price="245000"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <stats>
+    <add stat="pDef" order="0x10" val="15"/>
+    <enchant stat="pDef" order="0xc" val="0"/>
+   </stats>
+  </armor>
+  <armor id="620" name="Cloak of Protection" armorType="None" >
+   <set icon="icon.armor_back09"/>
+   <set bodyPart="UNDERWEAR" grade="C"/>
+   <set crystallizable="true" crystal_count="143" />
+   <set weight="230" price="358000"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <stats>
+    <add stat="pDef" order="0x10" val="16"/>
+    <enchant stat="pDef" order="0xc" val="0"/>
+   </stats>
+  </armor>
+  <armor id="621" name="Cloak of Hell" armorType="None" >
+   <set icon="icon.armor_back09"/>
+   <set bodyPart="UNDERWEAR" grade="B"/>
+   <set crystallizable="true" crystal_count="107" />
+   <set weight="220" price="804000"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <stats>
+    <add stat="pDef" order="0x10" val="18"/>
+    <enchant stat="pDef" order="0xc" val="0"/>
+   </stats>
+  </armor>
+  <armor id="622" name="Holy Spirit's Cloak" armorType="None" >
+   <set icon="icon.armor_back09"/>
+   <set bodyPart="UNDERWEAR" grade="A"/>
+   <set crystallizable="true" crystal_count="93" />
+   <set weight="220" price="1160000"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <stats>
+    <add stat="pDef" order="0x10" val="18"/>
+    <enchant stat="pDef" order="0xc" val="0"/>
+   </stats>
+  </armor>
+  <armor id="623" name="Divine Cloak" armorType="None" >
+   <set icon="icon.armor_back09"/>
+   <set bodyPart="UNDERWEAR" grade="A"/>
+   <set crystallizable="true" crystal_count="141" />
+   <set weight="220" price="1760000"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <stats>
+    <add stat="pDef" order="0x10" val="19"/>
+    <enchant stat="pDef" order="0xc" val="0"/>
+   </stats>
+  </armor>
+  <armor id="624" name="Cloak of Invisibility" armorType="None" >
+   <set icon="icon.armor_back09"/>
+   <set bodyPart="UNDERWEAR" grade="NONE"/>
+   <set crystallizable="false" />
+   <set weight="260" price="37"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="false" destroyable="true"/>
+
+   <stats>
+    <add stat="pDef" order="0x10" val="2"/>
+   </stats>
+  </armor>
+  <armor id="625" name="Bone Shield" armorType="Shield" >
+   <set icon="icon.shield_bone_shield_i00"/>
+   <set bodyPart="LHAND" grade="NONE"/>
+   <set crystallizable="false" />
+   <set weight="1380" price="9900"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <stats>
+    <sub stat="rEvas" order="0x10" val="8"/>
+    <set stat="sDef" order="0x8" val="90"/>
+    <set stat="rShld" order="0x8" val="20"/>
+    <enchant stat="sDef" order="0xc" val="0"/>
+   </stats>
+  </armor>
+  <armor id="626" name="Bronze Shield" armorType="Shield" >
+   <set icon="icon.shield_bronze_shield_i00"/>
+   <set bodyPart="LHAND" grade="D"/>
+   <set crystallizable="true" crystal_count="31" />
+   <set weight="1370" price="16900"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <stats>
+    <sub stat="rEvas" order="0x10" val="8"/>
+    <set stat="sDef" order="0x8" val="101"/>
+    <set stat="rShld" order="0x8" val="20"/>
+    <enchant stat="sDef" order="0xc" val="0"/>
+   </stats>
+  </armor>
+  <armor id="627" name="Aspis" armorType="Shield" >
+   <set icon="icon.shield_aspis_i00"/>
+   <set bodyPart="LHAND" grade="D"/>
+   <set crystallizable="true" crystal_count="50" />
+   <set weight="1350" price="26900"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <stats>
+    <sub stat="rEvas" order="0x10" val="8"/>
+    <set stat="sDef" order="0x8" val="114"/>
+    <set stat="rShld" order="0x8" val="20"/>
+    <enchant stat="sDef" order="0xc" val="0"/>
+   </stats>
+  </armor>
+  <armor id="628" name="Hoplon" armorType="Shield" >
+   <set icon="icon.shield_hoplon_i00"/>
+   <set bodyPart="LHAND" grade="D"/>
+   <set crystallizable="true" crystal_count="76" />
+   <set weight="1340" price="41000"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <stats>
+    <sub stat="rEvas" order="0x10" val="8"/>
+    <set stat="sDef" order="0x8" val="128"/>
+    <set stat="rShld" order="0x8" val="20"/>
+    <enchant stat="sDef" order="0xc" val="0"/>
+   </stats>
+  </armor>
+  <armor id="629" name="Kite Shield" armorType="Shield" >
+   <set icon="icon.shield_kite_shield_i00"/>
+   <set bodyPart="LHAND" grade="D"/>
+   <set crystallizable="true" crystal_count="111" />
+   <set weight="1320" price="60300"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <stats>
+    <sub stat="rEvas" order="0x10" val="8"/>
+    <set stat="sDef" order="0x8" val="142"/>
+    <set stat="rShld" order="0x8" val="20"/>
+    <enchant stat="sDef" order="0xc" val="0"/>
+   </stats>
+  </armor>
+  <armor id="630" name="Square Shield" armorType="Shield" >
+   <set icon="icon.shield_square_shield_i00"/>
+   <set bodyPart="LHAND" grade="D"/>
+   <set crystallizable="true" crystal_count="146" />
+   <set weight="1310" price="79000"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <stats>
+    <sub stat="rEvas" order="0x10" val="8"/>
+    <set stat="sDef" order="0x8" val="154"/>
+    <set stat="rShld" order="0x8" val="20"/>
+    <enchant stat="sDef" order="0xc" val="0"/>
+   </stats>
+  </armor>
+  <armor id="631" name="Eldarake" armorType="Shield" >
+   <set icon="icon.shield_eldarake_i00"/>
+   <set bodyPart="LHAND" grade="C"/>
+   <set crystallizable="true" crystal_count="41" />
+   <set weight="1290" price="102000"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <stats>
+    <sub stat="rEvas" order="0x10" val="8"/>
+    <set stat="sDef" order="0x8" val="166"/>
+    <set stat="rShld" order="0x8" val="20"/>
+    <enchant stat="sDef" order="0xc" val="0"/>
+   </stats>
+  </armor>
+  <armor id="632" name="Knight's Shield" armorType="Shield" >
+   <set icon="icon.shield_knight_shield_i00"/>
+   <set bodyPart="LHAND" grade="C"/>
+   <set crystallizable="true" crystal_count="52" />
+   <set weight="1260" price="130100"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <stats>
+    <sub stat="rEvas" order="0x10" val="8"/>
+    <set stat="sDef" order="0x8" val="178"/>
+    <set stat="rShld" order="0x8" val="20"/>
+    <enchant stat="sDef" order="0xc" val="0"/>
+   </stats>
+  </armor>
+  <armor id="633" name="Zubei's Shield" armorType="Shield" >
+   <set icon="icon.shield_shrnoens_shield_i00"/>
+   <set bodyPart="LHAND" grade="B"/>
+   <set crystallizable="true" crystal_count="56" />
+   <set weight="1210" price="545000"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <stats>
+    <sub stat="rEvas" order="0x10" val="8"/>
+    <set stat="sDef" order="0x8" val="216"/>
+    <set stat="rShld" order="0x8" val="20"/>
+    <enchant stat="sDef" order="0xc" val="0"/>
+   </stats>
+  </armor>
+  <armor id="634" name="Dragon Shield" armorType="Shield" >
+   <set icon="icon.shield_shield_of_nightmare_i00"/>
+   <set bodyPart="LHAND" grade="S"/>
+   <set crystallizable="true" crystal_count="126" />
+   <set weight="1170" price="2510000"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="false" destroyable="true"/>
+
+   <stats>
+    <sub stat="rEvas" order="0x10" val="8"/>
+    <set stat="sDef" order="0x8" val="269"/>
+    <set stat="rShld" order="0x8" val="20"/>
+    <enchant stat="sDef" order="0xc" val="0"/>
+   </stats>
+  </armor>
+  <armor id="635" name="Wolf Shield" armorType="Shield" >
+   <set icon="icon.shield_small_shield_i00"/>
+   <set bodyPart="LHAND" grade="B"/>
+   <set crystallizable="true" crystal_count="73" />
+   <set weight="640" price="545000"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <stats>
+    <sub stat="rEvas" order="0x10" val="8"/>
+    <set stat="sDef" order="0x8" val="216"/>
+    <set stat="rShld" order="0x8" val="20"/>
+    <enchant stat="sDef" order="0xc" val="0"/>
+   </stats>
+  </armor>
+  <armor id="636" name="Shining Dragon Shield" armorType="Shield" >
+   <set icon="icon.shield_doom_shield_i00"/>
+   <set bodyPart="LHAND" grade="B"/>
+   <set crystallizable="true" crystal_count="113" />
+   <set weight="720" price="845000"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <stats>
+    <sub stat="rEvas" order="0x10" val="8"/>
+    <set stat="sDef" order="0x8" val="230"/>
+    <set stat="rShld" order="0x8" val="20"/>
+    <enchant stat="sDef" order="0xc" val="0"/>
+   </stats>
+  </armor>
+  <armor id="637" name="Shield of Valor" armorType="Shield" >
+   <set icon="icon.shield_small_shield_i00"/>
+   <set bodyPart="LHAND" grade="B"/>
+   <set crystallizable="true" crystal_count="113" />
+   <set weight="720" price="845000"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <stats>
+    <sub stat="rEvas" order="0x10" val="8"/>
+    <set stat="sDef" order="0x8" val="230"/>
+    <set stat="rShld" order="0x8" val="20"/>
+    <enchant stat="sDef" order="0xc" val="0"/>
+   </stats>
+  </armor>
+  <armor id="638" name="Glorious Shield" armorType="Shield" >
+   <set icon="icon.shield_shield_of_victory_i00"/>
+   <set bodyPart="LHAND" grade="B"/>
+   <set crystallizable="true" crystal_count="73" />
+   <set weight="800" price="545000"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <stats>
+    <sub stat="rEvas" order="0x10" val="8"/>
+    <set stat="sDef" order="0x8" val="216"/>
+    <set stat="rShld" order="0x8" val="20"/>
+    <enchant stat="sDef" order="0xc" val="0"/>
+   </stats>
+  </armor>
+  <armor id="639" name="Red Flame Shield" armorType="Shield" >
+   <set icon="icon.shield_tower_shield_i00"/>
+   <set bodyPart="LHAND" grade="B"/>
+   <set crystallizable="true" crystal_count="113" />
+   <set weight="960" price="845000"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <stats>
+    <sub stat="rEvas" order="0x10" val="8"/>
+    <set stat="sDef" order="0x8" val="230"/>
+    <set stat="rShld" order="0x8" val="20"/>
+    <enchant stat="sDef" order="0xc" val="0"/>
+   </stats>
+  </armor>
+  <armor id="640" name="Elven Crystal Shield" armorType="Shield" >
+   <set icon="icon.shield_masterpiece_shield_i00"/>
+   <set bodyPart="LHAND" grade="B"/>
+   <set crystallizable="true" crystal_count="73" />
+   <set weight="720" price="545000"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <stats>
+    <sub stat="rEvas" order="0x10" val="8"/>
+    <set stat="sDef" order="0x8" val="216"/>
+    <set stat="rShld" order="0x8" val="20"/>
+    <enchant stat="sDef" order="0xc" val="0"/>
+   </stats>
+  </armor>
+  <armor id="641" name="Dark Crystal Shield" armorType="Shield" >
+   <set icon="icon.shield_dark_crystal_shield_i00"/>
+   <set bodyPart="LHAND" grade="A"/>
+   <set crystallizable="true" crystal_count="98" />
+   <set weight="1190" price="1220000"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <stats>
+    <sub stat="rEvas" order="0x10" val="8"/>
+    <set stat="sDef" order="0x8" val="243"/>
+    <set stat="rShld" order="0x8" val="20"/>
+    <enchant stat="sDef" order="0xc" val="0"/>
+   </stats>
+  </armor>
+  <armor id="642" name="Elven Vagian Shield" armorType="Shield" >
+   <set icon="icon.shield_shield_of_victory_i00"/>
+   <set bodyPart="LHAND" grade="B"/>
+   <set crystallizable="true" crystal_count="73" />
+   <set weight="560" price="545000"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <stats>
+    <sub stat="rEvas" order="0x10" val="8"/>
+    <set stat="sDef" order="0x8" val="216"/>
+    <set stat="rShld" order="0x8" val="20"/>
+    <enchant stat="sDef" order="0xc" val="0"/>
+   </stats>
+  </armor>
+  <armor id="643" name="Dark Vagian Shield" armorType="Shield" >
+   <set icon="icon.shield_shield_of_victory_i00"/>
+   <set bodyPart="LHAND" grade="B"/>
+   <set crystallizable="true" crystal_count="113" />
+   <set weight="560" price="845000"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <stats>
+    <sub stat="rEvas" order="0x10" val="8"/>
+    <set stat="sDef" order="0x8" val="230"/>
+    <set stat="rShld" order="0x8" val="20"/>
+    <enchant stat="sDef" order="0xc" val="0"/>
+   </stats>
+  </armor>
+  <armor id="644" name="Hell Shield" armorType="Shield" >
+   <set icon="icon.shield_shield_of_grace_i00"/>
+   <set bodyPart="LHAND" grade="B"/>
+   <set crystallizable="true" crystal_count="113" />
+   <set weight="640" price="845000"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <stats>
+    <sub stat="rEvas" order="0x10" val="8"/>
+    <set stat="sDef" order="0x8" val="230"/>
+    <set stat="rShld" order="0x8" val="20"/>
+    <enchant stat="sDef" order="0xc" val="0"/>
+   </stats>
+  </armor>
+  <armor id="645" name="Art of Shield" armorType="Shield" >
+   <set icon="icon.shield_knight_shield_i00"/>
+   <set bodyPart="LHAND" grade="B"/>
+   <set crystallizable="true" crystal_count="73" />
+   <set weight="560" price="545000"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <stats>
+    <sub stat="rEvas" order="0x10" val="8"/>
+    <set stat="sDef" order="0x8" val="216"/>
+    <set stat="rShld" order="0x8" val="20"/>
+    <enchant stat="sDef" order="0xc" val="0"/>
+   </stats>
+  </armor>
+  <armor id="646" name="Shield of Silence" armorType="Shield" >
+   <set icon="icon.shield_shield_of_assistance_i00"/>
+   <set bodyPart="LHAND" grade="B"/>
+   <set crystallizable="true" crystal_count="73" />
+   <set weight="640" price="545000"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <stats>
+    <sub stat="rEvas" order="0x10" val="8"/>
+    <set stat="sDef" order="0x8" val="216"/>
+    <set stat="rShld" order="0x8" val="20"/>
+    <enchant stat="sDef" order="0xc" val="0"/>
+   </stats>
+  </armor>
+  <armor id="647" name="Gust Shield" armorType="Shield" >
+   <set icon="icon.shield_shield_of_grace_i00"/>
+   <set bodyPart="LHAND" grade="B"/>
+   <set crystallizable="true" crystal_count="113" />
+   <set weight="720" price="845000"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <stats>
+    <sub stat="rEvas" order="0x10" val="8"/>
+    <set stat="sDef" order="0x8" val="230"/>
+    <set stat="rShld" order="0x8" val="20"/>
+    <enchant stat="sDef" order="0xc" val="0"/>
+   </stats>
+  </armor>
+  <armor id="648" name="Prairie Shield" armorType="Shield" >
+   <set icon="icon.shield_knight_shield_i00"/>
+   <set bodyPart="LHAND" grade="B"/>
+   <set crystallizable="true" crystal_count="73" />
+   <set weight="800" price="545000"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <stats>
+    <sub stat="rEvas" order="0x10" val="8"/>
+    <set stat="sDef" order="0x8" val="216"/>
+    <set stat="rShld" order="0x8" val="20"/>
+    <enchant stat="sDef" order="0xc" val="0"/>
+   </stats>
+  </armor>
+  <armor id="649" name="Shield of The Underworld" armorType="Shield" >
+   <set icon="icon.shield_knight_shield_i00"/>
+   <set bodyPart="LHAND" grade="B"/>
+   <set crystallizable="true" crystal_count="113" />
+   <set weight="880" price="845000"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <stats>
+    <sub stat="rEvas" order="0x10" val="8"/>
+    <set stat="sDef" order="0x8" val="230"/>
+    <set stat="rShld" order="0x8" val="20"/>
+    <enchant stat="sDef" order="0xc" val="0"/>
+   </stats>
+  </armor>
+  <armor id="650" name="Shield of Concentration" armorType="Shield" >
+   <set icon="icon.shield_shield_of_grace_i00"/>
+   <set bodyPart="LHAND" grade="B"/>
+   <set crystallizable="true" crystal_count="73" />
+   <set weight="960" price="545000"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <stats>
+    <sub stat="rEvas" order="0x10" val="8"/>
+    <set stat="sDef" order="0x8" val="216"/>
+    <set stat="rShld" order="0x8" val="20"/>
+    <enchant stat="sDef" order="0xc" val="0"/>
+   </stats>
+  </armor>
+  <armor id="651" name="Ace's Shield" armorType="Shield" >
+   <set icon="icon.shield_shield_of_assistance_i00"/>
+   <set bodyPart="LHAND" grade="B"/>
+   <set crystallizable="true" crystal_count="113" />
+   <set weight="1040" price="845000"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <stats>
+    <sub stat="rEvas" order="0x10" val="8"/>
+    <set stat="sDef" order="0x8" val="230"/>
+    <set stat="rShld" order="0x8" val="20"/>
+    <enchant stat="sDef" order="0xc" val="0"/>
+   </stats>
+  </armor>
+  <armor id="652" name="Guardian's Shield" armorType="Shield" >
+   <set icon="icon.shield_knight_shield_i00"/>
+   <set bodyPart="LHAND" grade="B"/>
+   <set crystallizable="true" crystal_count="73" />
+   <set weight="1120" price="545000"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <stats>
+    <sub stat="rEvas" order="0x10" val="8"/>
+    <set stat="sDef" order="0x8" val="216"/>
+    <set stat="rShld" order="0x8" val="20"/>
+    <enchant stat="sDef" order="0xc" val="0"/>
+   </stats>
+  </armor>
+  <armor id="653" name="Marksman Shield" armorType="Shield" >
+   <set icon="icon.shield_doom_shield_i00"/>
+   <set bodyPart="LHAND" grade="B"/>
+   <set crystallizable="true" crystal_count="113" />
+   <set weight="1200" price="845000"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <stats>
+    <sub stat="rEvas" order="0x10" val="8"/>
+    <set stat="sDef" order="0x8" val="230"/>
+    <set stat="rShld" order="0x8" val="20"/>
+    <enchant stat="sDef" order="0xc" val="0"/>
+   </stats>
+  </armor>
+  <armor id="654" name="Shield of Mana" armorType="Shield" >
+   <set icon="icon.shield_shield_of_pledge_i00"/>
+   <set bodyPart="LHAND" grade="B"/>
+   <set crystallizable="true" crystal_count="73" />
+   <set weight="480" price="545000"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <stats>
+    <sub stat="rEvas" order="0x10" val="8"/>
+    <set stat="sDef" order="0x8" val="216"/>
+    <set stat="rShld" order="0x8" val="20"/>
+    <enchant stat="sDef" order="0xc" val="0"/>
+   </stats>
+  </armor>
+  <armor id="655" name="Sage's Shield" armorType="Shield" >
+   <set icon="icon.shield_sages_shield_i00"/>
+   <set bodyPart="LHAND" grade="B"/>
+   <set crystallizable="true" crystal_count="113" />
+   <set weight="560" price="845000"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <stats>
+    <sub stat="rEvas" order="0x10" val="8"/>
+    <set stat="sDef" order="0x8" val="230"/>
+    <set stat="rShld" order="0x8" val="20"/>
+    <enchant stat="sDef" order="0xc" val="0"/>
+   </stats>
+  </armor>
+  <armor id="656" name="Paradia Shield" armorType="Shield" >
+   <set icon="icon.shield_knight_shield_i00"/>
+   <set bodyPart="LHAND" grade="B"/>
+   <set crystallizable="true" crystal_count="73" />
+   <set weight="480" price="545000"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <stats>
+    <sub stat="rEvas" order="0x10" val="8"/>
+    <set stat="sDef" order="0x8" val="216"/>
+    <set stat="rShld" order="0x8" val="20"/>
+    <enchant stat="sDef" order="0xc" val="0"/>
+   </stats>
+  </armor>
+  <armor id="657" name="Inferno Shield" armorType="Shield" >
+   <set icon="icon.shield_shield_of_victory_i00"/>
+   <set bodyPart="LHAND" grade="B"/>
+   <set crystallizable="true" crystal_count="113" />
+   <set weight="560" price="845000"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <stats>
+    <sub stat="rEvas" order="0x10" val="8"/>
+    <set stat="sDef" order="0x8" val="230"/>
+    <set stat="rShld" order="0x8" val="20"/>
+    <enchant stat="sDef" order="0xc" val="0"/>
+   </stats>
+  </armor>
+  <armor id="658" name="Shield of Black Ore" armorType="Shield" >
+   <set icon="icon.shield_composite_shield_i00"/>
+   <set bodyPart="LHAND" grade="B"/>
+   <set crystallizable="true" crystal_count="113" />
+   <set weight="560" price="845000"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <stats>
+    <sub stat="rEvas" order="0x10" val="8"/>
+    <set stat="sDef" order="0x8" val="230"/>
+    <set stat="rShld" order="0x8" val="20"/>
+    <enchant stat="sDef" order="0xc" val="0"/>
+   </stats>
+  </armor>
+  <armor id="659" name="Shield of Summoning" armorType="Shield" >
+   <set icon="icon.shield_shield_of_sola_eclipse_i00"/>
+   <set bodyPart="LHAND" grade="B"/>
+   <set crystallizable="true" crystal_count="73" />
+   <set weight="480" price="545000"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <stats>
+    <sub stat="rEvas" order="0x10" val="8"/>
+    <set stat="sDef" order="0x8" val="216"/>
+    <set stat="rShld" order="0x8" val="20"/>
+    <enchant stat="sDef" order="0xc" val="0"/>
+   </stats>
+  </armor>
+  <armor id="660" name="Otherworldly Shield" armorType="Shield" >
+   <set icon="icon.shield_round_shield_i00"/>
+   <set bodyPart="LHAND" grade="B"/>
+   <set crystallizable="true" crystal_count="113" />
+   <set weight="560" price="845000"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <stats>
+    <sub stat="rEvas" order="0x10" val="8"/>
+    <set stat="sDef" order="0x8" val="230"/>
+    <set stat="rShld" order="0x8" val="20"/>
+    <enchant stat="sDef" order="0xc" val="0"/>
+   </stats>
+  </armor>
+  <armor id="661" name="Elemental Shield" armorType="Shield" >
+   <set icon="icon.shield_knight_shield_i00"/>
+   <set bodyPart="LHAND" grade="B"/>
+   <set crystallizable="true" crystal_count="73" />
+   <set weight="480" price="545000"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <stats>
+    <sub stat="rEvas" order="0x10" val="8"/>
+    <set stat="sDef" order="0x8" val="216"/>
+    <set stat="rShld" order="0x8" val="20"/>
+    <enchant stat="sDef" order="0xc" val="0"/>
+   </stats>
+  </armor>
+  <armor id="662" name="Shield of Phantom" armorType="Shield" >
+   <set icon="icon.shield_shield_of_assistance_i00"/>
+   <set bodyPart="LHAND" grade="B"/>
+   <set crystallizable="true" crystal_count="113" />
+   <set weight="560" price="845000"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <stats>
+    <sub stat="rEvas" order="0x10" val="8"/>
+    <set stat="sDef" order="0x8" val="230"/>
+    <set stat="rShld" order="0x8" val="20"/>
+    <enchant stat="sDef" order="0xc" val="0"/>
+   </stats>
+  </armor>
+  <armor id="663" name="Shield of Grace" armorType="Shield" >
+   <set icon="icon.shield_leather_shield_i00"/>
+   <set bodyPart="LHAND" grade="B"/>
+   <set crystallizable="true" crystal_count="73" />
+   <set weight="480" price="545000"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <stats>
+    <sub stat="rEvas" order="0x10" val="8"/>
+    <set stat="sDef" order="0x8" val="216"/>
+    <set stat="rShld" order="0x8" val="20"/>
+    <enchant stat="sDef" order="0xc" val="0"/>
+   </stats>
+  </armor>
+  <armor id="664" name="Shield of Holy Spirit" armorType="Shield" >
+   <set icon="icon.shield_composite_shield_i00"/>
+   <set bodyPart="LHAND" grade="B"/>
+   <set crystallizable="true" crystal_count="113" />
+   <set weight="560" price="845000"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <stats>
+    <sub stat="rEvas" order="0x10" val="8"/>
+    <set stat="sDef" order="0x8" val="230"/>
+    <set stat="rShld" order="0x8" val="20"/>
+    <enchant stat="sDef" order="0xc" val="0"/>
+   </stats>
+  </armor>
+  <armor id="665" name="Phoenix Shield" armorType="Shield" >
+   <set icon="icon.shield_knight_shield_i00"/>
+   <set bodyPart="LHAND" grade="B"/>
+   <set crystallizable="true" crystal_count="73" />
+   <set weight="480" price="545000"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <stats>
+    <sub stat="rEvas" order="0x10" val="8"/>
+    <set stat="sDef" order="0x8" val="216"/>
+    <set stat="rShld" order="0x8" val="20"/>
+    <enchant stat="sDef" order="0xc" val="0"/>
+   </stats>
+  </armor>
+  <armor id="666" name="Cerberus Shield" armorType="Shield" >
+   <set icon="icon.shield_doom_shield_i00"/>
+   <set bodyPart="LHAND" grade="B"/>
+   <set crystallizable="true" crystal_count="113" />
+   <set weight="560" price="845000"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <stats>
+    <sub stat="rEvas" order="0x10" val="8"/>
+    <set stat="sDef" order="0x8" val="230"/>
+    <set stat="rShld" order="0x8" val="20"/>
+    <enchant stat="sDef" order="0xc" val="0"/>
+   </stats>
+  </armor>
+  <armor id="667" name="Shield of Aid" armorType="Shield" >
+   <set icon="icon.shield_shield_of_assistance_i00"/>
+   <set bodyPart="LHAND" grade="B"/>
+   <set crystallizable="true" crystal_count="73" />
+   <set weight="480" price="545000"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <stats>
+    <sub stat="rEvas" order="0x10" val="8"/>
+    <set stat="sDef" order="0x8" val="216"/>
+    <set stat="rShld" order="0x8" val="20"/>
+    <enchant stat="sDef" order="0xc" val="0"/>
+   </stats>
+  </armor>
+  <armor id="668" name="Shield of Blessing" armorType="Shield" >
+   <set icon="icon.shield_shield_of_pledge_i00"/>
+   <set bodyPart="LHAND" grade="B"/>
+   <set crystallizable="true" crystal_count="113" />
+   <set weight="560" price="845000"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <stats>
+    <sub stat="rEvas" order="0x10" val="8"/>
+    <set stat="sDef" order="0x8" val="230"/>
+    <set stat="rShld" order="0x8" val="20"/>
+    <enchant stat="sDef" order="0xc" val="0"/>
+   </stats>
+  </armor>
+  <armor id="669" name="Flame Shield" armorType="Shield" >
+   <set icon="icon.shield_composite_shield_i00"/>
+   <set bodyPart="LHAND" grade="B"/>
+   <set crystallizable="true" crystal_count="73" />
+   <set weight="480" price="545000"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <stats>
+    <sub stat="rEvas" order="0x10" val="8"/>
+    <set stat="sDef" order="0x8" val="216"/>
+    <set stat="rShld" order="0x8" val="20"/>
+    <enchant stat="sDef" order="0xc" val="0"/>
+   </stats>
+  </armor>
+  <armor id="670" name="Shield of Bravery" armorType="Shield" >
+   <set icon="icon.shield_shield_of_assistance_i00"/>
+   <set bodyPart="LHAND" grade="B"/>
+   <set crystallizable="true" crystal_count="113" />
+   <set weight="560" price="845000"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <stats>
+    <sub stat="rEvas" order="0x10" val="8"/>
+    <set stat="sDef" order="0x8" val="230"/>
+    <set stat="rShld" order="0x8" val="20"/>
+    <enchant stat="sDef" order="0xc" val="0"/>
+   </stats>
+  </armor>
+  <armor id="671" name="Blood Shield" armorType="Shield" >
+   <set icon="icon.shield_knight_shield_i00"/>
+   <set bodyPart="LHAND" grade="B"/>
+   <set crystallizable="true" crystal_count="73" />
+   <set weight="480" price="545000"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <stats>
+    <sub stat="rEvas" order="0x10" val="8"/>
+    <set stat="sDef" order="0x8" val="216"/>
+    <set stat="rShld" order="0x8" val="20"/>
+    <enchant stat="sDef" order="0xc" val="0"/>
+   </stats>
+  </armor>
+  <armor id="672" name="Absolute Shield" armorType="Shield" >
+   <set icon="icon.shield_knight_shield_i00"/>
+   <set bodyPart="LHAND" grade="B"/>
+   <set crystallizable="true" crystal_count="113" />
+   <set weight="560" price="845000"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <stats>
+    <sub stat="rEvas" order="0x10" val="8"/>
+    <set stat="sDef" order="0x8" val="230"/>
+    <set stat="rShld" order="0x8" val="20"/>
+    <enchant stat="sDef" order="0xc" val="0"/>
+   </stats>
+  </armor>
+  <armor id="673" name="Avadon Shield" armorType="Shield" >
+   <set icon="icon.shield_avadon_shield_i00"/>
+   <set bodyPart="LHAND" grade="B"/>
+   <set crystallizable="true" crystal_count="56" />
+   <set weight="1210" price="545000"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <stats>
+    <sub stat="rEvas" order="0x10" val="8"/>
+    <set stat="sDef" order="0x8" val="216"/>
+    <set stat="rShld" order="0x8" val="20"/>
+    <enchant stat="sDef" order="0xc" val="0"/>
+   </stats>
+  </armor>
+  <armor id="674" name="Divine Shield" armorType="Shield" >
+   <set icon="icon.shield_knight_shield_i00"/>
+   <set bodyPart="LHAND" grade="B"/>
+   <set crystallizable="true" crystal_count="113" />
+   <set weight="560" price="845000"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <stats>
+    <sub stat="rEvas" order="0x10" val="8"/>
+    <set stat="sDef" order="0x8" val="230"/>
+    <set stat="rShld" order="0x8" val="20"/>
+    <enchant stat="sDef" order="0xc" val="0"/>
+   </stats>
+  </armor>
+  <armor id="675" name="Silk Yarn Undergarment Set" armorType="None" >
+   <set icon="icon.armor_underwear01"/>
+   <set bodyPart="UNDERWEAR" grade="NONE"/>
+   <set crystallizable="false" />
+   <set weight="170" price="1330"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <stats>
+    <add stat="pDef" order="0x10" val="6"/>
+   </stats>
+  </armor>
+  <armor id="676" name="Pure White Undergarment Set" armorType="None" >
+   <set icon="icon.armor_underwear01"/>
+   <set bodyPart="UNDERWEAR" grade="NONE"/>
+   <set crystallizable="false" />
+   <set weight="160" price="6150"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <stats>
+    <add stat="pDef" order="0x10" val="9"/>
+   </stats>
+  </armor>
+  <armor id="677" name="One-Piece Swimsuit" armorType="None" >
+   <set icon="icon.armor_underwear01"/>
+   <set bodyPart="UNDERWEAR" grade="D"/>
+   <set crystallizable="true" crystal_count="19" />
+   <set weight="150" price="10400"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <stats>
+    <add stat="pDef" order="0x10" val="10"/>
+    <enchant stat="pDef" order="0xc" val="0"/>
+   </stats>
+  </armor>
+  <armor id="678" name="Bikini Set" armorType="None" >
+   <set icon="icon.armor_underwear02"/>
+   <set bodyPart="UNDERWEAR" grade="D"/>
+   <set crystallizable="true" crystal_count="30" />
+   <set weight="150" price="16700"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <stats>
+    <add stat="pDef" order="0x10" val="11"/>
+    <enchant stat="pDef" order="0xc" val="0"/>
+   </stats>
+  </armor>
+  <armor id="679" name="Cursed Undergarment Set" armorType="None" >
+   <set icon="icon.armor_underwear01"/>
+   <set bodyPart="UNDERWEAR" grade="D"/>
+   <set crystallizable="true" crystal_count="46" />
+   <set weight="150" price="25400"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <stats>
+    <add stat="pDef" order="0x10" val="12"/>
+    <enchant stat="pDef" order="0xc" val="0"/>
+   </stats>
+  </armor>
+  <armor id="680" name="Mithril Undergarment Set" armorType="None" >
+   <set icon="icon.armor_underwear01"/>
+   <set bodyPart="UNDERWEAR" grade="C"/>
+   <set crystallizable="true" crystal_count="25" />
+   <set weight="140" price="63100"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <stats>
+    <add stat="pDef" order="0x10" val="16"/>
+    <enchant stat="pDef" order="0xc" val="0"/>
+   </stats>
+  </armor>
+  <armor id="681" name="Fascination Undergarment Set" armorType="None" >
+   <set icon="icon.armor_underwear01"/>
+   <set bodyPart="UNDERWEAR" grade="C"/>
+   <set crystallizable="true" crystal_count="32" />
+   <set weight="140" price="80500"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <stats>
+    <add stat="pDef" order="0x10" val="17"/>
+    <enchant stat="pDef" order="0xc" val="0"/>
+   </stats>
+  </armor>
+  <armor id="682" name="Demon's Undergarment Set" armorType="None" >
+   <set icon="icon.armor_underwear01"/>
+   <set bodyPart="UNDERWEAR" grade="C"/>
+   <set crystallizable="true" crystal_count="72" />
+   <set weight="140" price="179000"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <stats>
+    <add stat="pDef" order="0x10" val="19"/>
+    <enchant stat="pDef" order="0xc" val="0"/>
+   </stats>
+  </armor>
+  <armor id="683" name="Holy Undergarment Set" armorType="None" >
+   <set icon="icon.armor_underwear01"/>
+   <set bodyPart="UNDERWEAR" grade="B"/>
+   <set crystallizable="true" crystal_count="54" />
+   <set weight="140" price="402000"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <stats>
+    <add stat="pDef" order="0x10" val="22"/>
+    <enchant stat="pDef" order="0xc" val="0"/>
+   </stats>
+  </armor>
+  <armor id="684" name="Underwear of Rule" armorType="None" >
+   <set icon="icon.armor_underwear02"/>
+   <set bodyPart="UNDERWEAR" grade="A"/>
+   <set crystallizable="true" crystal_count="70" />
+   <set weight="140" price="880000"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <stats>
+    <add stat="pDef" order="0x10" val="24"/>
+    <enchant stat="pDef" order="0xc" val="0"/>
+   </stats>
+  </armor>
+  <armor id="685" name="Crystal Swimsuit Set" armorType="None" >
+   <set icon="icon.armor_underwear02"/>
+   <set bodyPart="UNDERWEAR" grade="S"/>
+   <set crystallizable="true" crystal_count="66" />
+   <set weight="130" price="1310000"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <stats>
+    <add stat="pDef" order="0x10" val="26"/>
+    <enchant stat="pDef" order="0xc" val="0"/>
+   </stats>
+  </armor>
+  <armor id="945" name="Skeleton Buckler" armorType="Shield" >
+   <set icon="icon.shield_skeleton_buckler_i00"/>
+   <set bodyPart="LHAND" grade="NONE"/>
+   <set crystallizable="false" />
+   <set weight="1400" price="3440"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <stats>
+    <sub stat="rEvas" order="0x10" val="8"/>
+    <set stat="sDef" order="0x8" val="69"/>
+    <set stat="rShld" order="0x8" val="20"/>
+    <enchant stat="sDef" order="0xc" val="0"/>
+   </stats>
+  </armor>
+  <armor id="990" name="Mandragora Essence" armorType="None" >
+   <set icon="icon.item_canuse27"/>
+   <set bodyPart="GLOVES" grade="NONE"/>
+   <set crystallizable="false" />
+   <set weight="60" price="37"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <stats>
+    <add stat="pDef" order="0x10" val="9"/>
+   </stats>
+  </armor>
+  <armor id="991" name="Royen's Key" armorType="None" >
+   <set icon="icon.item_normal26"/>
+   <set bodyPart="GLOVES" grade="NONE"/>
+   <set crystallizable="false" />
+   <set weight="60" price="37"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <stats>
+    <add stat="pDef" order="0x10" val="9"/>
+   </stats>
+  </armor>
+  <armor id="992" name="Shilen's 1st Mark" armorType="None" >
+   <set icon="icon.armor_head15"/>
+   <set bodyPart="GLOVES" grade="NONE"/>
+   <set crystallizable="false" />
+   <set weight="60" price="37"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <stats>
+    <add stat="pDef" order="0x10" val="9"/>
+   </stats>
+  </armor>
+  <armor id="993" name="Shilen's 2nd Mark" armorType="None" >
+   <set icon="icon.armor_head15"/>
+   <set bodyPart="GLOVES" grade="NONE"/>
+   <set crystallizable="false" />
+   <set weight="60" price="37"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <stats>
+    <add stat="pDef" order="0x10" val="9"/>
+   </stats>
+  </armor>
+  <armor id="994" name="Eye of Abyss" armorType="None" >
+   <set icon="icon.item_normal46"/>
+   <set bodyPart="GLOVES" grade="NONE"/>
+   <set crystallizable="false" />
+   <set weight="60" price="37"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <stats>
+    <add stat="pDef" order="0x10" val="9"/>
+   </stats>
+  </armor>
+  <armor id="995" name="Wanted Poster" armorType="None" >
+   <set icon="icon.item_normal20"/>
+   <set bodyPart="GLOVES" grade="NONE"/>
+   <set crystallizable="false" />
+   <set weight="60" price="37"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <stats>
+    <add stat="pDef" order="0x10" val="9"/>
+   </stats>
+  </armor>
+  <armor id="996" name="Alex's Dagger" armorType="None" >
+   <set icon="icon.weapon_ss08"/>
+   <set bodyPart="GLOVES" grade="NONE"/>
+   <set crystallizable="false" />
+   <set weight="60" price="37"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <stats>
+    <add stat="pDef" order="0x10" val="9"/>
+   </stats>
+  </armor>
+  <armor id="997" name="Pinter's Bill" armorType="None" >
+   <set icon="icon.item_normal50"/>
+   <set bodyPart="GLOVES" grade="NONE"/>
+   <set crystallizable="false" />
+   <set weight="60" price="37"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <stats>
+    <add stat="pDef" order="0x10" val="9"/>
+   </stats>
+  </armor>
+  <armor id="998" name="Book of Aklantoth - Part 1" armorType="None" >
+   <set icon="icon.item_normal07"/>
+   <set bodyPart="GLOVES" grade="NONE"/>
+   <set crystallizable="false" />
+   <set weight="60" price="37"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <stats>
+    <add stat="pDef" order="0x10" val="9"/>
+   </stats>
+  </armor>
+  <armor id="999" name="Book of Aklantoth - Part 2" armorType="None" >
+   <set icon="icon.item_normal07"/>
+   <set bodyPart="GLOVES" grade="NONE"/>
+   <set crystallizable="false" />
+   <set weight="60" price="37"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <stats>
+    <add stat="pDef" order="0x10" val="9"/>
+   </stats>
+  </armor>
+</list>

@@ -1,0 +1,331 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE list SYSTEM "weapons.dtd">
+<list>
+<item id='6529' name="Baby Duck Rod">
+  <for>
+    <set val='1' order='0x08' stat='pAtk'/>
+    <set val='1' order='0x08' stat='mAtk'/>
+    <set val='0' order='0x08' stat='rCrit'/>
+    <add val='-3' order='0x10' stat='accCombat'/>
+    <set val='325' order='0x08' stat='pAtkSpd'/>
+    <enchant val='0' order='0x0C' stat='pAtk'/>
+    <enchant val='0' order='0x0C' stat='mAtk'/>
+  </for>
+</item>
+<item id='6530' name="Albatross Rod">
+  <for>
+    <set val='1' order='0x08' stat='pAtk'/>
+    <set val='1' order='0x08' stat='mAtk'/>
+    <set val='0' order='0x08' stat='rCrit'/>
+    <add val='-3' order='0x10' stat='accCombat'/>
+    <set val='325' order='0x08' stat='pAtkSpd'/>
+    <enchant val='0' order='0x0C' stat='pAtk'/>
+    <enchant val='0' order='0x0C' stat='mAtk'/>
+  </for>
+</item>
+<item id='6531' name="Pelican Rod">
+  <for>
+    <set val='1' order='0x08' stat='pAtk'/>
+    <set val='1' order='0x08' stat='mAtk'/>
+    <set val='0' order='0x08' stat='rCrit'/>
+    <add val='-3' order='0x10' stat='accCombat'/>
+    <set val='325' order='0x08' stat='pAtkSpd'/>
+    <enchant val='0' order='0x0C' stat='pAtk'/>
+    <enchant val='0' order='0x0C' stat='mAtk'/>
+  </for>
+</item>
+<item id='6532' name="Kingfisher Rod">
+  <for>
+    <set val='1' order='0x08' stat='pAtk'/>
+    <set val='1' order='0x08' stat='mAtk'/>
+    <set val='0' order='0x08' stat='rCrit'/>
+    <add val='-3' order='0x10' stat='accCombat'/>
+    <set val='325' order='0x08' stat='pAtkSpd'/>
+    <enchant val='0' order='0x0C' stat='pAtk'/>
+    <enchant val='0' order='0x0C' stat='mAtk'/>
+  </for>
+</item>
+<item id='6533' name="Cygnus Pole">
+  <for>
+    <set val='1' order='0x08' stat='pAtk'/>
+    <set val='1' order='0x08' stat='mAtk'/>
+    <set val='0' order='0x08' stat='rCrit'/>
+    <add val='-3' order='0x10' stat='accCombat'/>
+    <set val='325' order='0x08' stat='pAtkSpd'/>
+    <enchant val='0' order='0x0C' stat='pAtk'/>
+    <enchant val='0' order='0x0C' stat='mAtk'/>
+  </for>
+</item>
+<item id='6534' name="Triton Pole">
+  <for>
+    <set val='1' order='0x08' stat='pAtk'/>
+    <set val='1' order='0x08' stat='mAtk'/>
+    <set val='0' order='0x08' stat='rCrit'/>
+    <add val='-3' order='0x10' stat='accCombat'/>
+    <set val='325' order='0x08' stat='pAtkSpd'/>
+    <enchant val='0' order='0x0C' stat='pAtk'/>
+    <enchant val='0' order='0x0C' stat='mAtk'/>
+  </for>
+</item>
+<item id='6579' name="Arcana Mace">
+  <for>
+    <set val='225' order='0x08' stat='pAtk'/>
+    <set val='175' order='0x08' stat='mAtk'/>
+    <set val='4' order='0x08' stat='rCrit'/>
+    <add val='4' order='0x10' stat='accCombat'/>
+    <set val='379' order='0x08' stat='pAtkSpd'/>
+    <enchant val='0' order='0x0C' stat='pAtk'/>
+    <enchant val='0' order='0x0C' stat='mAtk'/>
+  </for>
+</item>
+<item id='6580' name="Tallum Blade*Dark Legions Edge">
+  <for>
+    <set val='342' order='0x08' stat='pAtk'/>
+    <set val='132' order='0x08' stat='mAtk'/>
+    <set val='8' order='0x08' stat='rCrit'/>
+    <add val='0' order='0x10' stat='accCombat'/>
+    <set val='325' order='0x08' stat='pAtkSpd'/>
+    <enchant val='0' order='0x0C' stat='pAtk'/>
+    <enchant val='0' order='0x0C' stat='mAtk'/>
+  </for>
+</item>
+<item id='6581' name="Forgotten Blade - Haste">
+  <for>
+    <set val='281' order='0x08' stat='pAtk'/>
+    <set val='132' order='0x08' stat='mAtk'/>
+    <set val='8' order='0x08' stat='rCrit'/>
+    <add val='0' order='0x10' stat='accCombat'/>
+    <set val='379' order='0x08' stat='pAtkSpd'/>
+    <enchant val='0' order='0x0C' stat='pAtk'/>
+    <enchant val='0' order='0x0C' stat='mAtk'/>
+  </for>
+</item>
+<item id='6582' name="Forgotten Blade - Health">
+  <for>
+    <set val='281' order='0x08' stat='pAtk'/>
+    <set val='132' order='0x08' stat='mAtk'/>
+    <set val='8' order='0x08' stat='rCrit'/>
+    <add val='0' order='0x10' stat='accCombat'/>
+    <set val='379' order='0x08' stat='pAtkSpd'/>
+    <enchant val='0' order='0x0C' stat='pAtk'/>
+    <enchant val='0' order='0x0C' stat='mAtk'/>
+  </for>
+</item>
+<item id='6583' name="Forgotten Blade - Focus">
+  <for>
+    <set val='281' order='0x08' stat='pAtk'/>
+    <set val='132' order='0x08' stat='mAtk'/>
+    <set val='8' order='0x08' stat='rCrit'/>
+    <add val='0' order='0x10' stat='accCombat'/>
+    <set val='379' order='0x08' stat='pAtkSpd'/>
+    <enchant val='0' order='0x0C' stat='pAtk'/>
+    <enchant val='0' order='0x0C' stat='mAtk'/>
+  </for>
+</item>
+<item id='6584' name="Basalt Battlehammer - HP Drain">
+  <for>
+    <set val='281' order='0x08' stat='pAtk'/>
+    <set val='132' order='0x08' stat='mAtk'/>
+    <set val='4' order='0x08' stat='rCrit'/>
+    <add val='4' order='0x10' stat='accCombat'/>
+    <set val='379' order='0x08' stat='pAtkSpd'/>
+    <enchant val='0' order='0x0C' stat='pAtk'/>
+    <enchant val='0' order='0x0C' stat='mAtk'/>
+    <!-- Enhances damage to target during PvP -->
+    <mul val='1.05' order='0x30' stat='pvpPhysDmg'/>
+    <mul val='1.05' order='0x30' stat='pvpMagicalDmg'/>
+  </for>
+</item>
+<item id='6585' name="Basalt Battlehammer - Health">
+  <for>
+    <set val='281' order='0x08' stat='pAtk'/>
+    <set val='132' order='0x08' stat='mAtk'/>
+    <set val='4' order='0x08' stat='rCrit'/>
+    <add val='4' order='0x10' stat='accCombat'/>
+    <set val='379' order='0x08' stat='pAtkSpd'/>
+    <enchant val='0' order='0x0C' stat='pAtk'/>
+    <enchant val='0' order='0x0C' stat='mAtk'/>
+  </for>
+</item>
+<item id='6586' name="Basalt Battlehammer - HP Regeneration">
+  <for>
+    <set val='281' order='0x08' stat='pAtk'/>
+    <set val='132' order='0x08' stat='mAtk'/>
+    <set val='4' order='0x08' stat='rCrit'/>
+    <add val='4' order='0x10' stat='accCombat'/>
+    <set val='379' order='0x08' stat='pAtkSpd'/>
+    <enchant val='0' order='0x0C' stat='pAtk'/>
+    <enchant val='0' order='0x0C' stat='mAtk'/>
+    <!-- Enhances damage to target during PvP -->
+    <mul val='1.05' order='0x30' stat='pvpPhysDmg'/>
+    <mul val='1.05' order='0x30' stat='pvpMagicalDmg'/>
+  </for>
+</item>
+<item id='6587' name="Imperial Staff - Empower">
+  <for>
+    <set val='274' order='0x08' stat='pAtk'/>
+    <set val='175' order='0x08' stat='mAtk'/>
+    <set val='4' order='0x08' stat='rCrit'/>
+    <add val='4' order='0x10' stat='accCombat'/>
+    <set val='325' order='0x08' stat='pAtkSpd'/>
+    <enchant val='0' order='0x0C' stat='pAtk'/>
+    <enchant val='0' order='0x0C' stat='mAtk'/>
+    <!-- Enhances damage to target during PvP -->
+    <mul val='1.05' order='0x30' stat='pvpPhysDmg'/>
+    <mul val='1.05' order='0x30' stat='pvpMagicalDmg'/>
+  </for>
+</item>
+<item id='6588' name="Imperial Staff - MP Regeneration">
+  <for>
+    <set val='274' order='0x08' stat='pAtk'/>
+    <set val='175' order='0x08' stat='mAtk'/>
+    <set val='4' order='0x08' stat='rCrit'/>
+    <add val='4' order='0x10' stat='accCombat'/>
+    <set val='325' order='0x08' stat='pAtkSpd'/>
+    <enchant val='0' order='0x0C' stat='pAtk'/>
+    <enchant val='0' order='0x0C' stat='mAtk'/>
+    <!-- Enhances damage to target during PvP -->
+    <mul val='1.05' order='0x30' stat='pvpPhysDmg'/>
+    <mul val='1.05' order='0x30' stat='pvpMagicalDmg'/> 
+  </for>
+</item>
+<item id='6589' name="Imperial Staff - Magic Hold">
+  <for>
+    <set val='274' order='0x08' stat='pAtk'/>
+    <set val='175' order='0x08' stat='mAtk'/>
+    <set val='4' order='0x08' stat='rCrit'/>
+    <add val='4' order='0x10' stat='accCombat'/>
+    <set val='325' order='0x08' stat='pAtkSpd'/>
+    <enchant val='0' order='0x0C' stat='pAtk'/>
+    <enchant val='0' order='0x0C' stat='mAtk'/>
+    <!-- Enhances damage to target during PvP -->
+    <mul val='1.05' order='0x30' stat='pvpPhysDmg'/>
+    <mul val='1.05' order='0x30' stat='pvpMagicalDmg'/>
+  </for>
+</item>
+<item id='6590' name="Angel Slayer - Critical Damage">
+  <for>
+    <set val='246' order='0x08' stat='pAtk'/>
+    <set val='132' order='0x08' stat='mAtk'/>
+    <set val='12' order='0x08' stat='rCrit'/>
+    <add val='-3' order='0x10' stat='accCombat'/>
+    <set val='433' order='0x08' stat='pAtkSpd'/>
+    <enchant val='0' order='0x0C' stat='pAtk'/>
+    <enchant val='0' order='0x0C' stat='mAtk'/>
+    <!-- Enhances damage to target during PvP -->
+    <mul val='1.05' order='0x30' stat='pvpPhysDmg'/>
+    <mul val='1.05' order='0x30' stat='pvpMagicalDmg'/>
+  </for>
+</item>
+<item id='6591' name="Angel Slayer - HP Drain">
+  <for>
+    <set val='246' order='0x08' stat='pAtk'/>
+    <set val='132' order='0x08' stat='mAtk'/>
+    <set val='12' order='0x08' stat='rCrit'/>
+    <add val='-3' order='0x10' stat='accCombat'/>
+    <set val='433' order='0x08' stat='pAtkSpd'/>
+    <enchant val='0' order='0x0C' stat='pAtk'/>
+    <enchant val='0' order='0x0C' stat='mAtk'/>
+    <!-- Enhances damage to target during PvP -->
+    <mul val='1.05' order='0x30' stat='pvpPhysDmg'/>
+    <mul val='1.05' order='0x30' stat='pvpMagicalDmg'/>
+  </for>
+</item>
+<item id='6592' name="Angel Slayer - Haste">
+  <for>
+    <set val='246' order='0x08' stat='pAtk'/>
+    <set val='132' order='0x08' stat='mAtk'/>
+    <set val='12' order='0x08' stat='rCrit'/>
+    <add val='-3' order='0x10' stat='accCombat'/>
+    <set val='433' order='0x08' stat='pAtkSpd'/>
+    <enchant val='0' order='0x0C' stat='pAtk'/>
+    <enchant val='0' order='0x0C' stat='mAtk'/>
+  </for>
+</item>
+<item id='6593' name="Shining Bow - Cheap Shot">
+  <for>
+    <set val='581' order='0x08' stat='pAtk'/>
+    <set val='132' order='0x08' stat='mAtk'/>
+    <set val='12' order='0x08' stat='rCrit'/>
+    <add val='-3' order='0x10' stat='accCombat'/>
+    <set val='293' order='0x08' stat='pAtkSpd'/>
+    <enchant val='0' order='0x0C' stat='pAtk'/>
+    <enchant val='0' order='0x0C' stat='mAtk'/>
+    <set val='1' order='0x08' stat='MpConsume'> 
+      <and>
+        <game chance="26"/> 
+      </and> 
+    </set>
+  </for>
+</item>
+<item id='6594' name="Shining Bow - Focus">
+  <for>
+    <set val='581' order='0x08' stat='pAtk'/>
+    <set val='132' order='0x08' stat='mAtk'/>
+    <set val='12' order='0x08' stat='rCrit'/>
+    <add val='-3' order='0x10' stat='accCombat'/>
+    <set val='293' order='0x08' stat='pAtkSpd'/>
+    <enchant val='0' order='0x0C' stat='pAtk'/>
+    <enchant val='0' order='0x0C' stat='mAtk'/>
+  </for>
+</item>
+<item id='6595' name="Shining Bow - Critical Slow">
+  <for>
+    <set val='581' order='0x08' stat='pAtk'/>
+    <set val='132' order='0x08' stat='mAtk'/>
+    <set val='12' order='0x08' stat='rCrit'/>
+    <add val='-3' order='0x10' stat='accCombat'/>
+    <set val='293' order='0x08' stat='pAtkSpd'/>
+    <enchant val='0' order='0x0C' stat='pAtk'/>
+    <enchant val='0' order='0x0C' stat='mAtk'/>
+  </for>
+</item>
+<item id='6596' name="Dragon Hunter Axe - HP Regeneration">
+  <for>
+    <set val='342' order='0x08' stat='pAtk'/>
+    <set val='132' order='0x08' stat='mAtk'/>
+    <set val='4' order='0x08' stat='rCrit'/>
+    <add val='4' order='0x10' stat='accCombat'/>
+    <set val='325' order='0x08' stat='pAtkSpd'/>
+    <enchant val='0' order='0x0C' stat='pAtk'/>
+    <enchant val='0' order='0x0C' stat='mAtk'/>
+     <!-- Enhances damage to target during PvP -->
+    <mul val='1.05' order='0x30' stat='pvpPhysDmg'/>
+    <mul val='1.05' order='0x30' stat='pvpMagicalDmg'/> 
+  </for>
+</item>
+<item id='6597' name="Dragon Hunter Axe - Health">
+  <for>
+    <set val='342' order='0x08' stat='pAtk'/>
+    <set val='132' order='0x08' stat='mAtk'/>
+    <set val='4' order='0x08' stat='rCrit'/>
+    <add val='4' order='0x10' stat='accCombat'/>
+    <set val='325' order='0x08' stat='pAtkSpd'/>
+    <enchant val='0' order='0x0C' stat='pAtk'/>
+    <enchant val='0' order='0x0C' stat='mAtk'/>
+  </for>
+</item>
+<item id='6598' name="Dragon Hunter Axe - HP Drain">
+  <for>
+    <set val='342' order='0x08' stat='pAtk'/>
+    <set val='132' order='0x08' stat='mAtk'/>
+    <set val='4' order='0x08' stat='rCrit'/>
+    <add val='4' order='0x10' stat='accCombat'/>
+    <set val='325' order='0x08' stat='pAtkSpd'/>
+    <enchant val='0' order='0x0C' stat='pAtk'/>
+    <enchant val='0' order='0x0C' stat='mAtk'/>
+  </for>
+</item>
+<item id='6599' name="Saint Spear - Health">
+  <for>
+    <set val='281' order='0x08' stat='pAtk'/>
+    <set val='132' order='0x08' stat='mAtk'/>
+    <set val='8' order='0x08' stat='rCrit'/>
+    <set val='66' order='0x08' stat='pAtkRange'/>
+    <add val='-3' order='0x10' stat='accCombat'/>
+    <set val='325' order='0x08' stat='pAtkSpd'/>
+    <enchant val='0' order='0x0C' stat='pAtk'/>
+    <enchant val='0' order='0x0C' stat='mAtk'/>
+  </for>
+</item>
+</list>

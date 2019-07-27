@@ -1,0 +1,38 @@
+<html><title>Панель управления ® L2CatsSoftware</title><body>
+<center>
+<table width=240>
+<tr>
+<td><button value="Главная" action="bypass -h admin_admin" width=60 height=21 back="sek.cbui94" fore="sek.cbui94"></td>
+<td><button value="Игровая" action="bypass -h admin_gamemenu" width=60 height=21 back="sek.cbui94" fore="sek.cbui94"></td>
+<td><button value="Эфекты" action="bypass -h admin_effects" width=60 height=21 back="sek.cbui94" fore="sek.cbui94"></td>
+<td><button value="Эвенты" action="bypass -h admin_events" width=60 height=21 back="sek.cbui94" fore="sek.cbui94"></td>
+</tr>
+<tr>
+<td><button value="Сервер" action="bypass -h admin_server" width=60 height=21 back="sek.cbui94" fore="sek.cbui94"></td>
+<td><button value="Контроль" action="bypass -h admin_control" width=60 height=21 back="sek.cbui94" fore="sek.cbui94"></td>
+<td><button value="Игроки" action="bypass -h admin_players" width=60 height=21 back="sek.cbui94" fore="sek.cbui94"></td>
+<td><button value="Конфиги" action="bypass -h admin_config" width=60 height=21 back="sek.cbui94" fore="sek.cbui94"></td>
+</tr>
+</table>
+
+<font color="LEVEL">Текст анонса:</font>
+<multiedit var="new_announcement" width=260 height=30>
+
+<table width=260>
+<tr>
+<td><button value="Add new" action="bypass -h admin_announce_add $new_announcement" width=65 height=19 back="sek.cbui94" fore="sek.cbui94"></td>
+<td><button value="Refresh" action="bypass -h admin_announce_refresh" width=65 height=19 back="sek.cbui94" fore="sek.cbui94"></td>
+<td><button value="Announce" action="bypass -h admin_announce $new_announcement" width=65 height=19 back="sek.cbui94" fore="sek.cbui94"></td>
+<td><button value="Critical" action="bypass -h admin_announce_critical $new_announcement" width=65 height=19 back="sek.cbui94" fore="sek.cbui94"></td>
+</tr>
+</table>
+<table width=260>
+<tr>
+<td><button value="Reload file" action="bypass -h admin_announce_reloadfile" width=85 height=19 back="sek.cbui94" fore="sek.cbui94"></td>
+<td><button value="Reload DB" action="bypass -h admin_announce_reloaddb" width=85 height=19 back="sek.cbui94" fore="sek.cbui94"></td>
+</tr>
+</table>
+<br><font color="LEVEL">Список анонсов</font>
+%announces%
+
+</center></body></html>

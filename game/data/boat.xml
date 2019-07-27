@@ -1,0 +1,327 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+	<boat id="1" name="TI_Gludin_TI">
+	 <spawn x="-96622" y="261660" z="-3610" heading="32768"/>
+	 <ports>
+	  <port id="1" waypoint="1" ticket="1074" telenoticketX="-96777" telenoticketY="258970" telenoticketZ="-3623">
+	   <announcer title="Информация для пассажиров корабля"/>
+	   <message10 text="Корабль прибывает в гавань Говорящего Острова. Корабль отплывает в Глудин через 10 минут после постановки на якорь."/>
+	   <message5 text="Корабль отплывает в Глудин через 5 минут."/>
+	   <message1 text="Корабль отплывает в Глудин через минуту."/>
+	   <message0 text="Корабль скоро отправится в Глудин."/>
+	   <messageb text="Корабль отправляется в Глудин."/>
+	  </port>
+	  <port id="2" waypoint="2" ticket="1075" telenoticketX="-90015" telenoticketY="150422" telenoticketZ="-3610">
+	   <announcer title="Информация для пассажиров корабля"/>
+	   <message10 text="Корабль прибывает в гавань Глудина. Корабль отплывает в Деревню Говорящего Острова через 10 минут после постановки на якорь."/>
+	   <message5 text="Корабль отплывает в Деревню Говорящего Острова через 5 минут."/>
+	   <message1 text="Корабль отплывает в Деревню Говорящего Острова через минуту."/>
+	   <message0 text="Корабль скоро отправится в Деревню Говорящего Острова."/>
+	   <messageb text="Корабль отправляется в Деревню Говорящего Острова."/>
+	  </port>
+	 </ports>
+	 <routes>
+	  <route route_id="1" count="11">
+	   <point speed1="180" speed2="800" x="-121385" y="261660" z="-3610" time="-12"/>
+	   <point speed1="200" speed2="800" x="-127694" y="253312" z="-3610" time="55500"/>
+	   <point speed1="250" speed2="800" x="-129274" y="237060" z="-3610" time="65300"/>
+	   <point speed1="200" speed2="800" x="-114688" y="139040" z="-3610" time="495900"/>
+	   <point speed1="180" speed2="800" x="-109663" y="135704" z="-3610" time="-8"/>
+	   <point speed1="180" speed2="800" x="-102151" y="135704" z="-3610" time="-7"/>
+	   <point speed1="180" speed2="800" x="-96686" y="140595" z="-3610" time="-6"/>
+	   <point speed1="180" speed2="800" x="-95686" y="147718" z="-3610" time="-5"/>
+	   <point speed1="180" speed2="800" x="-95686" y="148718" z="-3610" time="-4"/>
+	   <point speed1="150" speed2="800" x="-95686" y="149718" z="-3610" time="-3"/>
+	   <point speed1="150" speed2="800" x="-95686" y="150514" z="-3610" time="-2"/>
+	  </route>
+	  <route route_id="2" count="10">
+	   <point speed1="180" speed2="800" x="-95686" y="155514" z="-3610" time="-12"/>
+	   <point speed1="250" speed2="800" x="-95686" y="185514" z="-3610" time="111800"/>
+	   <point speed1="200" speed2="800" x="-60136" y="238816" z="-3610" time="330200"/>
+	   <point speed1="180" speed2="1800" x="-60520" y="259609" z="-3610" time="115800"/>
+	   <point speed1="180" speed2="1800" x="-65344" y="261460" z="-3610" time="-8"/>
+	   <point speed1="180" speed2="1800" x="-83344" y="261560" z="-3610" time="-7"/>
+	   <point speed1="180" speed2="1800" x="-88344" y="261660" z="-3610" time="-6"/>
+	   <point speed1="150" speed2="1800" x="-92344" y="261660" z="-3610" time="-5"/>
+	   <point speed1="150" speed2="1800" x="-95622" y="261660" z="-3610" time="-4"/>
+	   <point speed1="150" speed2="1800" x="-96622" y="261660" z="-3610" time="-3"/>
+	  </route>
+	 </routes>
+	</boat>
+	<boat id="2" name="TI_Giran_TI">
+	 <spawn x="48950" y="190613" z="-3610" heading="60800"/>
+	 <ports>
+	  <port id="1" waypoint="3" ticket="3946" telenoticketX="46763" telenoticketY="187041" telenoticketZ="-3451">
+	   <announcer title="Информация для пассажиров корабля"/>
+	   <message10 text="Корабль прибывает в гавань Гирана. Корабль отплывает в Деревню Говорящего Острова через 10 минут после постановки на якорь."/>
+	   <message5 text="Мы отплываем в Деревню Говорящего Острова через 5 минут."/>
+	   <message1 text="Мы отплываем в Деревню Говорящего Острова через минуту."/>
+	   <message0 text="Корабль скоро отправится в Деревню Говорящего Острова."/>
+	   <messageb text="Корабль отправляется в Деревню Говорящего Острова."/>
+	  </port>
+	  <port id="2" waypoint="4" ticket="3945" telenoticketX="-96777" telenoticketY="258970" telenoticketZ="-3623">
+	   <announcer title="Информация для пассажиров корабля"/>
+	   <message10 text="Корабль прибывает в гавань Говорящего Острова. Корабль отплывает в Гиран через 10 минут после постановки на якорь."/>
+	   <message5 text="Мы отплываем в Гиран через 5 минут."/>
+	   <message1 text="Корабль отплывает в Гиран через минуту. Советую поторопиться, если хотите успеть!"/>
+	   <message0 text="Корабль скоро отправится в Гиран."/>
+	   <messageb text="Корабль отправляется в Гиран."/>
+	  </port>
+	 </ports>
+	 <routes>
+	  <route route_id="3" count="17">
+	   <point speed1="150" speed2="800" x="51914" y="189023" z="-3610" time="-18"/>
+	   <point speed1="200" speed2="800" x="60567" y="189789" z="-3610" time="44200"/>
+	   <point speed1="250" speed2="800" x="63732" y="197457" z="-3610" time="33600"/>
+	   <point speed1="250" speed2="800" x="63732" y="207457" z="-3610" time="40500"/>
+	   <point speed1="250" speed2="800" x="60434" y="219306" z="-3610" time="49900"/>
+	   <point speed1="300" speed2="800" x="56115" y="225303" z="-3610" time="24700"/>
+	   <point speed1="300" speed2="800" x="41634" y="226047" z="-3610" time="51900"/>
+	   <point speed1="300" speed2="800" x="27153" y="226791" z="-3610" time="50100"/>
+	   <point speed1="300" speed2="800" x="12672" y="227535" z="-3610" time="49400"/>
+	   <point speed1="300" speed2="800" x="-1808" y="228280" z="-3610" time="49800"/>
+	   <point speed1="300" speed2="800" x="-22165" y="231742" z="-3610" time="69400"/>
+	   <point speed1="250" speed2="800" x="-42523" y="235205" z="-3610" time="83200"/>
+	   <point speed1="200" speed2="800" x="-68451" y="259960" z="-3610" time="178700"/>
+	   <point speed1="180" speed2="800" x="-83344" y="261610" z="-3610" time="-5"/>
+	   <point speed1="180" speed2="800" x="-88344" y="261660" z="-3610" time="-4"/>
+	   <point speed1="150" speed2="800" x="-92344" y="261660" z="-3610" time="-3"/>
+	   <point speed1="150" speed2="1800" x="-96622" y="261660" z="-3610" time="-1"/>
+	  </route>
+	  <route route_id="4" count="17">
+	   <point speed1="180" speed2="800" x="-113925" y="261660" z="-3610" time="-18"/>
+	   <point speed1="180" speed2="800" x="-126107" y="249116" z="-3610" time="-17"/>
+	   <point speed1="180" speed2="800" x="-126107" y="234499" z="-3610" time="-16"/>
+	   <point speed1="180" speed2="800" x="-126107" y="219882" z="-3610" time="-15"/>
+	   <point speed1="180" speed2="800" x="-109414" y="204914" z="-3610" time="-14"/>
+	   <point speed1="250" speed2="800" x="-92807" y="204914" z="-3610" time="68400"/>
+	   <point speed1="250" speed2="800" x="-80425" y="216450" z="-3610" time="69300"/>
+	   <point speed1="250" speed2="800" x="-68043" y="227987" z="-3610" time="67900"/>
+	   <point speed1="200" speed2="800" x="-60844" y="231369" z="-3610" time="39200"/>
+	   <point speed1="200" speed2="800" x="-44915" y="231369" z="-3610" time="80800"/>
+	   <point speed1="200" speed2="800" x="-28986" y="231369" z="-3610" time="81900"/>
+	   <point speed1="180" speed2="800" x="8233" y="207624" z="-3610" time="-7"/>
+	   <point speed1="180" speed2="800" x="21470" y="201503" z="-3610" time="-6"/>
+	   <point speed1="150" speed2="800" x="40058" y="195383" z="-3610" time="-5"/>
+	   <point speed1="150" speed2="800" x="43022" y="193793" z="-3610" time="-4"/>
+	   <point speed1="150" speed2="800" x="45986" y="192203" z="-3610" time="-3"/>
+	   <point speed1="150" speed2="1800" x="48950" y="190613" z="-3610" time="-1"/>
+	  </route>
+	 </routes>
+	</boat>
+	<boat id="3" name="Gludin_Rune_Gludin">
+	 <spawn x="-95686" y="150514" z="-3610" heading="16723"/>
+	 <ports>
+	  <port id="1" waypoint="5" ticket="7905" telenoticketX="-90015" telenoticketY="150422" telenoticketZ="-3000">
+	   <announcer title="Информация для пассажиров корабля"/>
+	   <message10 text="Корабль прибывает в гавань Глудина. Отправление в город Руна через 10 минут после постановки на якорь."/>
+	   <message5 text="Отправление в город Руна через 5 минут."/>
+	   <message1 text="Отправление в город Руна через минуту."/>
+	   <message0 text="Скорее! Мы скоро отправляемся в город Руна."/>
+	   <messageb text="Мы отправляемся в город Руна. Приятного путешествия!"/>
+	  </port>
+	  <port id="2" waypoint="6" ticket="7904" telenoticketX="35929" telenoticketY="-39403" telenoticketZ="-3152">
+	   <announcer title="Информация для пассажиров корабля"/>
+	   <message10 text="Корабль причалил к пристани города Руна. Отправление в Глудин через 10 минут после постановки на якорь."/>
+	   <message5 text="Отправление в Глудин через 5 минут."/>
+	   <message1 text="Отправление в Глудин через одну минуту."/>
+	   <message0 text="Торопитесь! Мы скоро отплываем в Глудин."/>
+	   <messageb text="Мы отправляемся в Глудин. Приятного путешествия!"/>
+	  </port>
+	 </ports>
+	 <routes>
+	  <route route_id="5" count="27">
+	   <point speed1="150" speed2="800" x="-95686" y="155514" z="-3610" time="-1"/>
+	   <point speed1="150" speed2="800" x="-98112" y="159040" z="-3610" time="24645"/>
+	   <point speed1="200" speed2="1800" x="-104192" y="160608" z="-3610" time="32793"/>
+	   <point speed1="250" speed2="1800" x="-109952" y="159616" z="-3610" time="24445"/>
+	   <point speed1="290" speed2="1800" x="-112768" y="154784" z="-3610" time="20621"/>
+	   <point speed1="290" speed2="1800" x="-114688" y="139040" z="-3610" time="56634"/>
+	   <point speed1="290" speed2="1800" x="-115232" y="134368" z="-3610" time="16669"/>
+	   <point speed1="290" speed2="1800" x="-113888" y="121696" z="-3610" time="43959"/>
+	   <point speed1="290" speed2="1800" x="-107808" y="104928" z="-3610" time="63776"/>
+	   <point speed1="290" speed2="800" x="-97152" y="75520" z="-3610" time="108641"/>
+	   <point speed1="290" speed2="1800" x="-85536" y="67264" z="-3610" time="50296"/>
+	   <point speed1="290" speed2="1800" x="-64640" y="55840" z="-3610" time="83694"/>
+	   <point speed1="290" speed2="1800" x="-60096" y="44672" z="-3610" time="42048"/>
+	   <point speed1="290" speed2="1800" x="-52672" y="37440" z="-3610" time="36012"/>
+	   <point speed1="290" speed2="1800" x="-46144" y="33184" z="-3610" time="27361"/>
+	   <point speed1="290" speed2="1800" x="-36096" y="24928" z="-3610" time="45267"/>
+	   <point speed1="290" speed2="1800" x="-33792" y="8448" z="-3610" time="59753"/>
+	   <point speed1="290" speed2="1000" x="-23776" y="3424" z="-3610" time="41243"/>
+	   <point speed1="290" speed2="1000" x="-12000" y="-1760" z="-3610" time="44764"/>
+	   <point speed1="290" speed2="1800" x="672" y="480" z="-3610" time="45770"/>
+	   <point speed1="290" speed2="1000" x="15488" y="200" z="-3610" time="53415"/>
+	   <point speed1="290" speed2="1000" x="24736" y="164" z="-3610" time="34704"/>
+	   <point speed1="290" speed2="1000" x="32192" y="-1156" z="-3610" time="25148"/>
+	   <point speed1="270" speed2="1000" x="39200" y="-8032" z="-3610" time="-1"/>
+	   <point speed1="270" speed2="1000" x="44320" y="-25152" z="-3610" time="-1"/>
+	   <point speed1="250" speed2="800" x="40576" y="-31616" z="-3610" time="-1"/>
+	   <point speed1="200" speed2="800" x="34381" y="-37680" z="-3610" time="-1"/>
+	  </route>
+	  <route route_id="6" count="23">
+	   <point speed1="150" speed2="800" x="32750" y="-39300" z="-3610" time="15793"/>
+	   <point speed1="180" speed2="1000" x="-27440" y="-39328" z="-3610" time="30279"/>
+	   <point speed1="200" speed2="1000" x="21456" y="-34272" z="-3610" time="39633"/>
+	   <point speed1="250" speed2="800" x="6608" y="-29520" z="-3610" time="62469"/>
+	   <point speed1="270" speed2="800" x="4160" y="-27828" z="-3610" time="11568"/>
+	   <point speed1="270" speed2="1000" x="2432" y="-25472" z="-3610" time="11367"/>
+	   <point speed1="220" speed2="1000" x="-8000" y="-16272" z="-3610" time="63977"/>
+	   <point speed1="290" speed2="800" x="-18976" y="-9760" z="-3610" time="45760"/>
+	   <point speed1="290" speed2="800" x="-23776" y="3408" z="-3610" time="50296"/>
+	   <point speed1="290" speed2="800" x="-33792" y="8432" z="-3610" time="40338"/>
+	   <point speed1="290" speed2="800" x="-36096" y="24912" z="-3610" time="63273"/>
+	   <point speed1="290" speed2="800" x="-46144" y="33184" z="-3610" time="48285"/>
+	   <point speed1="290" speed2="800" x="-52688" y="37440" z="-3610" time="27261"/>
+	   <point speed1="290" speed2="800" x="-60096" y="44672" z="-3610" time="36314"/>
+	   <point speed1="290" speed2="800" x="-64640" y="55840" z="-3610" time="42048"/>
+	   <point speed1="290" speed2="800" x="-85552" y="67248" z="-3610" time="83392"/>
+	   <point speed1="290" speed2="800" x="-97168" y="85264" z="-3610" time="74640"/>
+	   <point speed1="290" speed2="800" x="-107824" y="104912" z="-3610" time="79267"/>
+	   <point speed1="290" speed2="800" x="-102151" y="135704" z="-3610" time="109747"/>
+	   <point speed1="290" speed2="800" x="-96686" y="140595" z="-3610" time="26859"/>
+	   <point speed1="250" speed2="800" x="-95686" y="147717" z="-3610" time="31586"/>
+	   <point speed1="200" speed2="800" x="-95686" y="148218" z="-3610" time="2817"/>
+	   <point speed1="180" speed2="800" x="-95686" y="150514" z="-3610" time="-1"/>
+	  </route>
+	 </routes>
+	</boat>
+	<boat id="4" name="Innadril_Tour">
+	 <spawn x="111264" y="226240" z="-3610" heading="32768"/>
+	 <ports>
+	  <port id="1" waypoint="7" ticket="0" telenoticketX="107092" telenoticketY="219098" telenoticketZ="-3952">
+	   <announcer title="Информация для пассажиров корабля"/>
+	   <message10 text="Корабль Innadril причаливает к пристани. Стоянка 10 минут."/>
+	   <message5 text="Корабль Innadril отходит через 5 минут."/>
+	   <message1 text="Корабль Innadril отчаливает через одну минуту. Пассажирам просьба занять свои места."/>
+	   <message0 text="Корабль Innadril скоро отчаливает. Торопитесь!"/>
+	   <messageb text="Корабль Innadril вышла в море."/>
+	  </port>
+	  <port id="2" waypoint="7" ticket="0" telenoticketX="107092" telenoticketY="219098" telenoticketZ="-3952">
+	   <announcer title="Информация для пассажиров корабля"/>
+	   <message10 text="Корабль Innadril причаливает к пристани. Стоянка 10 минут."/>
+	   <message5 text="Корабль Innadril отходит через 5 минут."/>
+	   <message1 text="Корабль Innadril отчаливает через одну минуту. Пассажирам просьба занять свои места."/>
+	   <message0 text="Корабль Innadril скоро отчаливает. Торопитесь!"/>
+	   <messageb text="Корабль Innadril вышла в море."/>
+	  </port>
+	 </ports>
+	 <routes>
+	  <route route_id="7" count="32">
+	   <point speed1="150" speed2="800" x="105129" y="226240" z="-3610" time="-1"/>
+	   <point speed1="150" speed2="800" x="90604" y="238797" z="-3610" time="128002"/>
+	   <point speed1="150" speed2="800" x="74853" y="237943" z="-3610" time="105161"/>
+	   <point speed1="150" speed2="800" x="68207" y="235399" z="-3610" time="47442"/>
+	   <point speed1="150" speed2="800" x="63226" y="230487" z="-3610" time="46637"/>
+	   <point speed1="150" speed2="800" x="61843" y="224797" z="-3610" time="39038"/>
+	   <point speed1="150" speed2="800" x="61822" y="203066" z="-3610" time="144873"/>
+	   <point speed1="150" speed2="800" x="59051" y="197685" z="-3610" time="40350"/>
+	   <point speed1="150" speed2="800" x="54048" y="195298" z="-3610" time="36955"/>
+	   <point speed1="150" speed2="800" x="41609" y="195687" z="-3610" time="82967"/>
+	   <point speed1="150" speed2="800" x="35821" y="200284" z="-3610" time="49276"/>
+	   <point speed1="150" speed2="800" x="35567" y="205265" z="-3610" time="33250"/>
+	   <point speed1="150" speed2="800" x="35617" y="222471" z="-3610" time="114707"/>
+	   <point speed1="150" speed2="800" x="37932" y="226588" z="-3610" time="31488"/>
+	   <point speed1="150" speed2="800" x="42932" y="229394" z="-3610" time="38224"/>
+	   <point speed1="150" speed2="800" x="74324" y="245231" z="-3610" time="234404"/>
+	   <point speed1="150" speed2="800" x="81872" y="250314" z="-3610" time="60666"/>
+	   <point speed1="150" speed2="800" x="101692" y="249882" z="-3610" time="132165"/>
+	   <point speed1="150" speed2="800" x="107907" y="256073" z="-3610" time="58483"/>
+	   <point speed1="150" speed2="800" x="112317" y="257133" z="-3610" time="30237"/>
+	   <point speed1="150" speed2="800" x="126273" y="255313" z="-3610" time="93828"/>
+	   <point speed1="150" speed2="800" x="128067" y="250961" z="-3610" time="31382"/>
+	   <point speed1="150" speed2="800" x="128520" y="238249" z="-3610" time="84800"/>
+	   <point speed1="150" speed2="800" x="126428" y="235072" z="-3610" time="25359"/>
+	   <point speed1="150" speed2="800" x="121843" y="234656" z="-3610" time="30692"/>
+	   <point speed1="150" speed2="800" x="120096" y="234268" z="-3610" time="11930"/>
+	   <point speed1="150" speed2="800" x="118572" y="233046" z="-3610" time="13023"/>
+	   <point speed1="150" speed2="800" x="117671" y="228951" z="-3610" time="27953"/>
+	   <point speed1="150" speed2="800" x="115936" y="226540" z="-3610" time="-1"/>
+	   <point speed1="150" speed2="800" x="113628" y="226240" z="-3610" time="-1"/>
+	   <point speed1="150" speed2="800" x="111300" y="226240" z="-3610" time="-1"/>
+	   <point speed1="150" speed2="800" x="111264" y="226240" z="-3610" time="-1"/>
+	  </route>
+	  <route route_id="7" count="32">
+	   <point speed1="150" speed2="800" x="105129" y="226240" z="-3610" time="-1"/>
+	   <point speed1="150" speed2="800" x="90604" y="238797" z="-3610" time="128002"/>
+	   <point speed1="150" speed2="800" x="74853" y="237943" z="-3610" time="105161"/>
+	   <point speed1="150" speed2="800" x="68207" y="235399" z="-3610" time="47442"/>
+	   <point speed1="150" speed2="800" x="63226" y="230487" z="-3610" time="46637"/>
+	   <point speed1="150" speed2="800" x="61843" y="224797" z="-3610" time="39038"/>
+	   <point speed1="150" speed2="800" x="61822" y="203066" z="-3610" time="144873"/>
+	   <point speed1="150" speed2="800" x="59051" y="197685" z="-3610" time="40350"/>
+	   <point speed1="150" speed2="800" x="54048" y="195298" z="-3610" time="36955"/>
+	   <point speed1="150" speed2="800" x="41609" y="195687" z="-3610" time="82967"/>
+	   <point speed1="150" speed2="800" x="35821" y="200284" z="-3610" time="49276"/>
+	   <point speed1="150" speed2="800" x="35567" y="205265" z="-3610" time="33250"/>
+	   <point speed1="150" speed2="800" x="35617" y="222471" z="-3610" time="114707"/>
+	   <point speed1="150" speed2="800" x="37932" y="226588" z="-3610" time="31488"/>
+	   <point speed1="150" speed2="800" x="42932" y="229394" z="-3610" time="38224"/>
+	   <point speed1="150" speed2="800" x="74324" y="245231" z="-3610" time="234404"/>
+	   <point speed1="150" speed2="800" x="81872" y="250314" z="-3610" time="60666"/>
+	   <point speed1="150" speed2="800" x="101692" y="249882" z="-3610" time="132165"/>
+	   <point speed1="150" speed2="800" x="107907" y="256073" z="-3610" time="58483"/>
+	   <point speed1="150" speed2="800" x="112317" y="257133" z="-3610" time="30237"/>
+	   <point speed1="150" speed2="800" x="126273" y="255313" z="-3610" time="93828"/>
+	   <point speed1="150" speed2="800" x="128067" y="250961" z="-3610" time="31382"/>
+	   <point speed1="150" speed2="800" x="128520" y="238249" z="-3610" time="84800"/>
+	   <point speed1="150" speed2="800" x="126428" y="235072" z="-3610" time="25359"/>
+	   <point speed1="150" speed2="800" x="121843" y="234656" z="-3610" time="30692"/>
+	   <point speed1="150" speed2="800" x="120096" y="234268" z="-3610" time="11930"/>
+	   <point speed1="150" speed2="800" x="118572" y="233046" z="-3610" time="13023"/>
+	   <point speed1="150" speed2="800" x="117671" y="228951" z="-3610" time="27953"/>
+	   <point speed1="150" speed2="800" x="115936" y="226540" z="-3610" time="-1"/>
+	   <point speed1="150" speed2="800" x="113628" y="226240" z="-3610" time="-1"/>
+	   <point speed1="150" speed2="800" x="111300" y="226240" z="-3610" time="-1"/>
+	   <point speed1="150" speed2="800" x="111264" y="226240" z="-3610" time="-1"/>
+	  </route>
+	 </routes>
+	</boat>
+	<boat id="8" name="Rune_Primeval_Rune">
+	 <spawn x="34381" y="-37680" z="-3610" heading="40772"/>
+	 <ports>
+	  <port id="1" waypoint="8" ticket="8925" telenoticketX="34513" telenoticketY="-38009" telenoticketZ="-3610">
+	   <announcer title="Информация для пассажиров корабля"/>
+	   <message10 text="Корабль причалил к пристани города Руна. На якоре стоим 10 минут."/>
+	   <message5 text="Корабль отходит к Первобытному Острову через 5 минут."/>
+	   <message1 text="Корабль отходит к Первобытному Острову через минуту! Просьба занять свои места!"/>
+	   <message0 text="Корабль скоро отправиться к Первобытному Острову. Торопитесь!"/>
+	   <messageb text="Корабль отчаливает к Первобытному Острову. Расслабьтесь и наслаждайтесь морским воздухом!"/>
+	  </port>
+	  <port id="2" waypoint="9" ticket="8924" telenoticketX="10449" telenoticketY="-25180" telenoticketZ="-3688">
+	   <announcer title="Информация для пассажиров корабля"/>
+	   <message10 text="Корабль швартуется  к гавани Первобытного Острова. Стоянка 10 минут."/>
+	   <message5 text="Корабль отплывает в город Руна через 5 минут!"/>
+	   <message1 text="Корабль отплывает в город Руна через минуту."/>
+	   <message0 text="Корабль скоро отправиться в город Руна."/>
+	   <messageb text="Корабль отправляется в город Руна. Расслабьтесь и наслаждайтесь поездкой!"/>
+	  </port>
+	 </ports>
+	 <routes>
+	  <route route_id="8" count="12">
+	   <point speed1="180" speed2="800" x="32750" y="-39300" z="-3610" time="-1"/>
+	   <point speed1="250" speed2="1000" x="27440" y="-39328" z="-3610" time="-1"/>
+	   <point speed1="270" speed2="1000" x="19616" y="-39360" z="-3610" time="-1"/>
+	   <point speed1="270" speed2="1000" x="3840" y="-38528" z="-3610" time="-1"/>
+	   <point speed1="270" speed2="1000" x="1664" y="-37120" z="-3610" time="-1"/>
+	   <point speed1="180" speed2="1800" x="896" y="-34560" z="-3610" time="-1"/>
+	   <point speed1="180" speed2="1800" x="832" y="-31104" z="-3610" time="-1"/>
+	   <point speed1="150" speed2="1800" x="2240" y="-29132" z="-3610" time="-1"/>
+	   <point speed1="150" speed2="1800" x="4160" y="-27828" z="-3610" time="-1"/>
+	   <point speed1="150" speed2="1800" x="5888" y="-27279" z="-3610" time="-1"/>
+	   <point speed1="150" speed2="1800" x="7000" y="-27279" z="-3610" time="-1"/>
+	   <point speed1="150" speed2="1800" x="10342" y="-27279" z="-3610" time="-1"/>
+	  </route>
+	  <route route_id="9" count="8">
+	   <point speed1="180" speed2="800" x="15528" y="-27279" z="-3610" time="-1"/>
+	   <point speed1="290" speed2="800" x="22304" y="-29664" z="-3610" time="-1"/>
+	   <point speed1="290" speed2="800" x="33824" y="-26880" z="-3610" time="-1"/>
+	   <point speed1="240" speed2="1200" x="38848" y="-21792" z="-3610" time="-1"/>
+	   <point speed1="180" speed2="1800" x="43424" y="-22080" z="-3610" time="-1"/>
+	   <point speed1="180" speed2="1800" x="44320" y="-25152" z="-3610" time="-1"/>
+	   <point speed1="250" speed2="800" x="40576" y="-31616" z="-3610" time="-1"/>
+	   <point speed1="220" speed2="800" x="34381" y="-37680" z="-3610" time="-1"/>
+	  </route>
+	 </routes>
+	</boat>
+</list>

@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!-- Gmshop, weapons: d-grade -->
+<list>
+  <item id="1">
+    <ingredient id="57" count="1000000" enchant="0"/>
+    <production id="2499" count="1" enchant="0"/>
+  </item>
+  <item id="2">
+    <ingredient id="57" count="1000000" enchant="0"/>
+    <production id="280" count="1" enchant="0"/>
+  </item>
+  <item id="3">
+    <ingredient id="57" count="1000000" enchant="0"/>
+    <production id="225" count="1" enchant="0"/>
+  </item>
+  <item id="4">
+    <ingredient id="57" count="1000000" enchant="0"/>
+    <production id="159" count="1" enchant="0"/>
+  </item>
+  <item id="5">
+    <ingredient id="57" count="1000000" enchant="0"/>
+    <production id="189" count="1" enchant="0"/>
+  </item>
+  <item id="6">
+    <ingredient id="57" count="1000000" enchant="0"/>
+    <production id="262" count="1" enchant="0"/>
+  </item>
+  <item id="7">
+    <ingredient id="57" count="550000" enchant="0"/>
+    <production id="123" count="1" enchant="0"/>
+  </item>
+</list>
+
+

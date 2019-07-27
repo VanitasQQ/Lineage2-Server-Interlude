@@ -1,0 +1,188 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE list SYSTEM "armors.dtd">
+<list>
+<item id='9514' name="Sealed Dynasty Breast Plate">
+  <for>
+    <add val='214' order='0x10' stat='pDef'/>
+    <enchant val='0' order='0x0C' stat='pDef'/>
+  </for>
+</item>
+<item id='9515' name="Sealed Dynasty Gaiter">
+  <for>
+    <add val='134' order='0x10' stat='pDef'/>
+    <enchant val='0' order='0x0C' stat='pDef'/>
+  </for>
+</item>
+<item id='9516' name="Sealed Dynasty Helmet">
+  <for>
+    <add val='92' order='0x10' stat='pDef'/>
+    <enchant val='0' order='0x0C' stat='pDef'/>
+  </for>
+</item>
+<item id='9517' name="Sealed Dynasty Gauntlets">
+  <for>
+    <add val='61' order='0x10' stat='pDef'/>
+    <enchant val='0' order='0x0C' stat='pDef'/>
+  </for>
+</item>
+<item id='9518' name="Sealed Dynasty Boots">
+  <for>
+    <add val='61' order='0x10' stat='pDef'/>
+    <enchant val='0' order='0x0C' stat='pDef'/>
+  </for>
+</item>
+<item id='9519' name="Sealed Dynasty Leather Armor">
+  <for>
+    <add val='161' order='0x10' stat='pDef'/>
+    <enchant val='0' order='0x0C' stat='pDef'/>
+  </for>
+</item>
+<item id='9520' name="Sealed Dynasty Leather Leggings">
+  <for>
+    <add val='100' order='0x10' stat='pDef'/>
+    <enchant val='0' order='0x0C' stat='pDef'/>
+  </for>
+</item>
+<item id='9521' name="Sealed Dynasty Leather Helmet">
+  <for>
+    <add val='92' order='0x10' stat='pDef'/>
+    <enchant val='0' order='0x0C' stat='pDef'/>
+  </for>
+</item>
+<item id='9522' name="Sealed Dynasty Leather Gloves">
+  <for>
+    <add val='61' order='0x10' stat='pDef'/>
+    <enchant val='0' order='0x0C' stat='pDef'/>
+  </for>
+</item>
+<item id='9523' name="Sealed Dynasty Leather Boots">
+  <for>
+    <add val='61' order='0x10' stat='pDef'/>
+    <enchant val='0' order='0x0C' stat='pDef'/>
+  </for>
+</item>
+<item id='9524' name="Sealed Dynasty Tunic">
+  <for>
+    <add val='107' order='0x10' stat='pDef'/>
+    <add val='592' order='0x40' stat='maxMp'/>
+    <enchant val='0' order='0x0C' stat='pDef'/>
+  </for>
+</item>
+<item id='9525' name="Sealed Dynasty Stockings">
+  <for>
+    <add val='67' order='0x10' stat='pDef'/>
+    <add val='370' order='0x40' stat='maxMp'/>
+    <enchant val='0' order='0x0C' stat='pDef'/>
+  </for>
+</item>
+<item id='9526' name="Sealed Dynasty Circlet">
+  <for>
+    <add val='92' order='0x10' stat='pDef'/>
+    <enchant val='0' order='0x0C' stat='pDef'/>
+  </for>
+</item>
+<item id='9527' name="Sealed Dynasty Gloves">
+  <for>
+    <add val='61' order='0x10' stat='pDef'/>
+    <enchant val='0' order='0x0C' stat='pDef'/>
+  </for>
+</item>
+<item id='9528' name="Sealed Dynasty Shoes">
+  <for>
+    <add val='61' order='0x10' stat='pDef'/>
+    <enchant val='0' order='0x0C' stat='pDef'/>
+  </for>
+</item>
+<item id='9577' name="Cotton Shirt">
+  <for>
+    <add val='6' order='0x10' stat='pDef'/>
+    <enchant val='0' order='0x0C' stat='pDef'/>
+  </for>
+</item>
+<item id='9578' name="Linen Shirt">
+  <for>
+    <add val='12' order='0x10' stat='pDef'/>
+    <enchant val='0' order='0x0C' stat='pDef'/>
+  </for>
+</item>
+<item id='9579' name="Silk Shirt">
+  <for>
+    <add val='17' order='0x10' stat='pDef'/>
+    <enchant val='0' order='0x0C' stat='pDef'/>
+  </for>
+</item>
+<item id='9580' name="Thin Leather Shirt">
+  <for>
+    <add val='21' order='0x10' stat='pDef'/>
+    <enchant val='0' order='0x0C' stat='pDef'/>
+  </for>
+</item>
+<item id='9581' name="Scale Shirt">
+  <for>
+    <add val='23' order='0x10' stat='pDef'/>
+    <enchant val='0' order='0x0C' stat='pDef'/>
+  </for>
+</item>
+<item id='9582' name="Mithril Shirt">
+  <for>
+    <add val='28' order='0x10' stat='pDef'/>
+    <enchant val='0' order='0x0C' stat='pDef'/>
+  </for>
+</item>
+<item id='9583' name="Striped Cotton Shirt">
+  <for>
+    <add val='8' order='0x10' stat='pDef'/>
+    <enchant val='0' order='0x0C' stat='pDef'/>
+  </for>
+</item>
+<item id='9584' name="Striped Linen Shirt">
+  <for>
+    <add val='14' order='0x10' stat='pDef'/>
+    <enchant val='0' order='0x0C' stat='pDef'/>
+  </for>
+</item>
+<item id='9585' name="Striped Silk Shirt">
+  <for>
+    <add val='19' order='0x10' stat='pDef'/>
+    <enchant val='0' order='0x0C' stat='pDef'/>
+  </for>
+</item>
+<item id='9586' name="Striped Thin Leather Shirt">
+  <for>
+    <add val='22' order='0x10' stat='pDef'/>
+    <enchant val='0' order='0x0C' stat='pDef'/>
+  </for>
+</item>
+<item id='9587' name="Striped Scale Shirt">
+  <for>
+    <add val='26' order='0x10' stat='pDef'/>
+    <enchant val='0' order='0x0C' stat='pDef'/>
+  </for>
+</item>
+<item id='9588' name="Striped Mithril Shirt">
+  <for>
+    <add val='30' order='0x10' stat='pDef'/>
+    <enchant val='0' order='0x0C' stat='pDef'/>
+  </for>
+</item>
+<item id='9589' name="Iron Bracelet">
+  <for>
+    <set val='1' order='0x50' stat='talisman'/>
+  </for>
+</item>
+<item id='9590' name="Bronze Bracelet">
+  <for>
+    <set val='2' order='0x50' stat='talisman'/>
+  </for>
+</item>
+<item id='9591' name="Steel Bracelet">
+  <for>
+    <set val='3' order='0x50' stat='talisman'/>
+  </for>
+</item>
+<item id='9592' name="Mithril Bracelet">
+  <for>
+    <set val='4' order='0x50' stat='talisman'/>
+  </for>
+</item>
+</list>

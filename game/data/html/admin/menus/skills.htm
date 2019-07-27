@@ -1,0 +1,30 @@
+<html><title>Skills Menu</title><body>
+<center>
+<table width=260>
+<tr>
+<td width=40>
+<button value="Main" action="bypass -h admin_admin" width=40 height=19 back="sek.cbui94" fore="sek.cbui94">
+</td>
+<td width=180></td>
+<td width=40>
+<button value="Back" action="bypass -h admin_skill_list" width=40 height=19 back="sek.cbui94" fore="sek.cbui94">
+</td>
+</tr>
+</table>
+<table width=260>
+<tr><td>Начало имени скилла</td>
+<td><edit var="sk_name" width=50 height=19></td>
+</tr>
+</table>
+<button value="Найти" action="bypass -h admin_skills %race% 0 $sk_name" width=40 height=19 back="sek.cbui94" fore="sek.cbui94">
+<table width=260>
+<tr><td>Level:</td><td><edit var="level" width=110 height=19></td></tr>
+</table>
+<br>
+<table width=260>
+%skills%
+</table>
+<br>
+%more%
+</center>
+</body></html>

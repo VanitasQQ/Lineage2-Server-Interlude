@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE list SYSTEM "armors.dtd">
+<list>
+<item id='8541' name="Little Harness">
+  <for>
+    <add val='10' order='0x10' stat='mDef'/>
+    <add val='25' order='0x10' stat='pDef'/>
+  </for>
+</item>
+<item id='8552' name="Mask of Victory">
+  <for>
+    <add val='0' order='0x10' stat='pDef'/>
+  </for>
+</item>
+<item id='8557' name="Blue Party Hat">
+  <for>
+    <add val='0' order='0x10' stat='pDef'/>
+  </for>
+</item>
+<item id='8558' name="Eva's Mark (Event)">
+  <for>
+    <add val='0' order='0x10' stat='pDef'/>
+  </for>
+</item>
+<item id='8559' name="Diadem">
+  <cond msgId="1518">
+    <player sex="1"/>
+  </cond>
+  <for>
+    <add val='0' order='0x10' stat='pDef'/>
+  </for>
+</item>
+<item id='8560' name="Bear Cap">
+  <for>
+    <add val='0' order='0x10' stat='pDef'/>
+  </for>
+</item>
+<item id='8561' name="Pig Cap">
+  <for>
+    <add val='0' order='0x10' stat='pDef'/>
+  </for>
+</item>
+<item id='8562' name="Jester Cap">
+  <for>
+    <add val='0' order='0x10' stat='pDef'/>
+  </for>
+</item>
+<item id='8563' name="Wizard Hat">
+  <for>
+    <add val='0' order='0x10' stat='pDef'/>
+  </for>
+</item>
+<item id='8564' name="Dandy Cap">
+  <for>
+    <add val='0' order='0x10' stat='pDef'/>
+  </for>
+</item>
+<item id='8565' name="Romantic Chaperon">
+  <for>
+    <add val='0' order='0x10' stat='pDef'/>
+  </for>
+</item>
+<item id='8566' name="Iron Circlet">
+  <for>
+    <add val='0' order='0x10' stat='pDef'/>
+  </for>
+</item>
+<item id='8567' name="Valakas Slayer Circlet">
+  <for>
+    <add val='0' order='0x10' stat='pDef'/>
+  </for>
+</item>
+<item id='8568' name="Antharas Slayer Circlet">
+  <for>
+    <add val='0' order='0x10' stat='pDef'/>
+  </for>
+</item>
+<item id='8569' name="Half Face">
+  <for>
+    <add val='0' order='0x10' stat='pDef'/>
+  </for>
+</item>
+</list>

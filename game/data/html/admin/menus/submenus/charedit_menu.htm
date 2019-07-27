@@ -1,0 +1,34 @@
+<html><title>Панель управления сервером</title><body>
+<center>
+<table width=270>
+<tr>
+<td width=45><button value="Main" action="bypass -h admin_admin" width=45 height=19 back="sek.cbui94" fore="sek.cbui94"></td>
+<td width=180><center><font color="LEVEL">Игрок: %name%</font></center></td>
+<td width=45><button value="Back" action="bypass -h admin_current_player" width=45 height=19 back="sek.cbui94" fore="sek.cbui94"></td>
+</tr>
+</table>
+
+<br><font color="LEVEL">Уровень Hp/Mp/Cp персонажа</font>
+<table width=270>
+<tr>
+<td fixwidth=90>HP: %currenthp%/%maxhp%</td><td fixwidth=90>MP: %currentmp%/%maxmp%</td><td fixwidth=90>CP: %currentcp%/%maxcp%</td>
+</tr>
+</table>
+
+<br><font color="LEVEL">Редактирование персонажа</font>
+<table width=270>
+<tr><td width=140>Имя игрока:</td><td><edit width=80 var="name"></td><td><button value="Save" action="bypass -h admin_changename $name" height=19 width=45 back="sek.cbui94" fore="sek.cbui94"></td></tr>
+<tr><td width=140>Титул игрока:</td><td><edit width=80 var="title"></td><td><button value="Save" action="bypass -h admin_settitle $title" height=19 width=45 back="sek.cbui94" fore="sek.cbui94"></td></tr>
+<tr><td width=140>Цвет имени:</td><td><edit width=80 var="color"></td><td><button value="Save" action="bypass -h admin_setcolor $color" height=19 width=45 back="sek.cbui94" fore="sek.cbui94"></td></tr>
+<tr><td width=140>Рекомендации:</td><td><edit width=80 var="reco"></td><td><button value="Save" action="bypass -h admin_rec $reco" height=19 width=45 back="sek.cbui94" fore="sek.cbui94"></td></tr>
+<tr><td width=140>Уровень игрока:</td><td><edit width=80 var="lvl"></td><td><button value="Save" action="bypass -h admin_setlevel $lvl" height=19 width=45 back="sek.cbui94" fore="sek.cbui94"></td></tr>
+<tr></tr>
+<tr><td width=140>&nbsp;</td><td><button value="Class" action="bypass -h admin_setclass" height=19 width=45 back="sek.cbui94" fore="sek.cbui94"></td><td><button value="Sex" action="bypass -h admin_setsex" height=19 width=45 back="sek.cbui94" fore="sek.cbui94"></td></tr>
+</table><br>
+<table width=270>
+<tr><td width=50>Текущий HP:</td><td><edit var="hp" width=50></td><td width=50>PvP Flag:</td><td><edit var="pvpflag" width=50></td></tr>
+<tr><td width=50>Текущий MP:</td><td><edit var="mp" width=50></td><td width=50>PvP Kills:</td><td><edit var="pvpkills" width=50></td></tr>
+<tr><td width=50>Текущий CP:</td><td><edit var="cp" width=50></td><td width=50>PK Kills:</td><td><edit var="pkkills" width=50></td></tr>
+</table><br>
+<center><button value="Сохранить" action="bypass -h admin_save_modifications $hp $mp $cp $pvpflag $pvpkills $pkkills" width=80 height=19 back="sek.cbui94" fore="sek.cbui94"></center>
+</body></html>

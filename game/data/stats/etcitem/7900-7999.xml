@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+<item id='7906' name="Blessing of Fire">
+  <cond msgId="1508">
+    <player olympiad="false"/>
+  </cond>
+  <for>
+  </for>
+</item>
+<item id='7907' name="Blessing of Water">
+  <cond msgId="1508">
+    <player olympiad="false"/>
+  </cond>
+  <for>
+  </for>
+</item>
+<item id='7908' name="Blessing of Wind">
+  <cond msgId="1508">
+    <player olympiad="false"/>
+  </cond>
+  <for>
+  </for>
+</item>
+<item id='7909' name="Blessing of Earth">
+  <cond msgId="1508">
+    <player olympiad="false"/>
+  </cond>
+  <for>
+  </for>
+</item>
+<item id='7910' name="Blessing of Darkness">
+  <cond msgId="1508">
+    <player olympiad="false"/>
+  </cond>
+  <for>
+  </for>
+</item>
+<item id='7911' name="Blessing of Sanctity">
+  <cond msgId="1508">
+    <player olympiad="false"/>
+  </cond>
+  <for>
+  </for>
+</item>
+</list>

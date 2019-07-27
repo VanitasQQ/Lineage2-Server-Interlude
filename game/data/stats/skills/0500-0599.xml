@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE list SYSTEM "skills.dtd">
+<list>
+<skill id="590" levels="1" name="Residence Body">
+  <set name="target" val="TARGET_SELF"/>
+  <set name="skillType" val="BUFF"/>
+  <set name="isMagic" val="true"/>
+  <set name="operateType" val="OP_PASSIVE"/>
+  <for>
+    <add order="0x40" stat="maxHp" val="222"/>
+  </for>
+</skill>
+<skill id="591" levels="1" name="Residence Spirit">
+  <set name="target" val="TARGET_SELF"/>
+  <set name="skillType" val="BUFF"/>
+  <set name="operateType" val="OP_PASSIVE"/>
+  <set name="isMagic" val="true"/>
+  <for>
+    <add order="0x40" stat="maxCp" val="444"/>
+  </for>
+</skill>
+<skill id="592" levels="1" name="Residence Soul">
+  <set name="target" val="TARGET_SELF"/>
+  <set name="skillType" val="BUFF"/>
+  <set name="operateType" val="OP_PASSIVE"/>
+  <set name="isMagic" val="true"/>
+  <for>
+    <add order="0x40" stat="maxMp" val="168"/>
+  </for>
+</skill>
+<skill id="593" levels="1" name="Residence Health">
+  <set name="target" val="TARGET_SELF"/>
+  <set name="skillType" val="BUFF"/>
+  <set name="operateType" val="OP_PASSIVE"/>
+  <set name="isMagic" val="true"/>
+  <for>
+    <add order="0x40" stat="regHp" val="1.09"/>
+  </for>
+</skill>
+<skill id="594" levels="1" name="Residence Moral">
+  <set name="target" val="TARGET_SELF"/>
+  <set name="skillType" val="BUFF"/>
+  <set name="operateType" val="OP_PASSIVE"/>
+  <set name="isMagic" val="true"/>
+  <for>
+    <add order="0x40" stat="regCp" val="1.09"/>
+  </for>
+</skill>
+<skill id="595" levels="1" name="Residence Clarity">
+  <set name="target" val="TARGET_SELF"/>
+  <set name="skillType" val="BUFF"/>
+  <set name="operateType" val="OP_PASSIVE"/>
+  <set name="isMagic" val="true"/>
+  <for>
+    <add order="0x40" stat="regMp" val="0.47"/>
+  </for>
+</skill>
+<skill id="596" levels="1" name="Residence Might">
+  <set name="target" val="TARGET_SELF"/>
+  <set name="skillType" val="BUFF"/>
+  <set name="operateType" val="OP_PASSIVE"/>
+  <set name="isMagic" val="true"/>
+  <for>
+    <add order="0x40" stat="pAtk" val="34.6"/>
+  </for>
+</skill>
+<skill id="597" levels="1" name="Residence Shield">
+  <set name="target" val="TARGET_SELF"/>
+  <set name="skillType" val="BUFF"/>
+  <set name="operateType" val="OP_PASSIVE"/>
+  <set name="isMagic" val="true"/>
+  <for>
+    <add order="0x40" stat="pDef" val="54.7"/>
+  </for>
+</skill>
+<skill id="598" levels="1" name="Residence Empower">
+  <set name="target" val="TARGET_SELF"/>
+  <set name="skillType" val="BUFF"/>
+  <set name="operateType" val="OP_PASSIVE"/>
+  <set name="isMagic" val="true"/>
+  <for>
+    <add order="0x40" stat="mAtk" val="40.4"/>
+  </for>
+</skill>
+<skill id="599" levels="1" name="Residence Magic Barrier">
+  <set name="target" val="TARGET_SELF"/>
+  <set name="skillType" val="BUFF"/>
+  <set name="operateType" val="OP_PASSIVE"/>
+  <set name="isMagic" val="true"/>
+  <for>
+    <add order="0x40" stat="mDef" val="44"/>
+  </for>
+</skill>
+</list>

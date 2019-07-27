@@ -1,0 +1,1285 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE list SYSTEM "skills.dtd">
+<list>
+<skill id="3001" levels="1" name="int_1">
+  <set name="target" val="TARGET_SELF"/>
+  <set name="skillType" val="PASSIVE"/>
+  <set name="operateType" val="OP_PASSIVE"/>
+</skill>
+<skill id="3002" levels="1" name="int_2">
+  <set name="target" val="TARGET_SELF"/>
+  <set name="skillType" val="PASSIVE"/>
+  <set name="operateType" val="OP_PASSIVE"/>
+</skill>
+<skill id="3003" levels="1" name="str_2">
+  <set name="target" val="TARGET_SELF"/>
+  <set name="skillType" val="PASSIVE"/>
+  <set name="operateType" val="OP_PASSIVE"/>
+</skill>
+<skill id="3004" levels="1" name="maxmp_5">
+  <set name="target" val="TARGET_SELF"/>
+  <set name="skillType" val="PASSIVE"/>
+  <set name="operateType" val="OP_PASSIVE"/>
+</skill>
+<skill id="3005" levels="1" name="Bleed">
+  <set name="abnormalLvl" val="5"/>
+  <set name="power" val="50"/> <!-- Base Land Rate -->
+  <set name="target" val="TARGET_ONE"/>
+  <set name="skillType" val="BLEED"/>
+  <set name="lvlDepend" val="1"/>
+  <set name="operateType" val="OP_ACTIVE"/>
+  <set name="isDebuff" val="true"/>
+  <set name="effectType" val="BLEED"/>
+  <set name="effectLevel" val="5"/>
+  <for>
+    <effect count="7" name="DamOverTime" time="3" val="66" abnormal="bleeding">
+      <mul order="0x30" stat="runSpd" val="0.8"/>
+    </effect>
+  </for>
+</skill>
+<skill id="3006" levels="1" name="Equip Set Items">
+  <set name="target" val="TARGET_SELF"/>
+  <set name="skillType" val="PASSIVE"/>
+  <set name="operateType" val="OP_PASSIVE"/>
+</skill>
+<skill id="3007" levels="6" name="Special Ability: Guidance">
+  <table name="#val"> 6.88 6.07 5.72 5.37 5.02 4.68 </table>
+  <set name="target" val="TARGET_SELF"/>
+  <set name="skillType" val="BUFF"/>
+  <set name="operateType" val="OP_PASSIVE"/>
+  <for>
+    <add order="0x40" stat="accCombat" val="#val"/>
+  </for>
+</skill>
+<skill id="3008" levels="6" name="Special Ability: Guidance">
+  <!-- Done by L2Emu-RT -->
+  <table name="#val"> 3.95 4.24 4.53 4.82 5.12 5.32 </table>
+  <set name="target" val="TARGET_SELF"/>
+  <set name="skillType" val="BUFF"/>
+  <set name="operateType" val="OP_PASSIVE"/>
+  <for>
+    <add order="0x40" stat="accCombat" val="#val"/>
+  </for>
+</skill>
+<skill id="3009" levels="8" name="Special Ability: Evasion">
+  <table name="#rEvas"> 2.95 2.82 2.68 2.55 2.41 2.28 5 5 </table>
+  <table name="#pvpBonus"> 1 1 1 1 1 1 1.05 1.05 </table>
+  <set name="target" val="TARGET_SELF"/>
+  <set name="skillType" val="BUFF"/>
+  <set name="operateType" val="OP_PASSIVE"/>
+  <for>
+    <add order="0x40" stat="rEvas" val="#rEvas"/>
+    <mul order="0x30" stat="pvpPhysDmg" val="#pvpBonus"/>
+    <mul order="0x30" stat="pvpPhysSkillsDmg" val="#pvpBonus"/>
+    <mul order="0x30" stat="pvpMagicalDmg" val="#pvpBonus"/>
+  </for>
+</skill>
+<skill id="3010" levels="6" name="Special Ability: Focus">
+  <table name="#magicLvl"> 46 49 52 55 58 61 </table>
+  <table name="#rCrit"> 86.7 82.2 77.8 73.3 68.9 64.5 </table>
+  <set name="target" val="TARGET_SELF"/>
+  <set name="skillType" val="WEAPON_SA"/>
+  <set name="operateType" val="OP_PASSIVE"/>
+  <set name="magicLvl" val="#magicLvl"/>
+  <for>
+    <add order="0x40" stat="rCrit" val="#rCrit"/>
+  </for>
+</skill>
+<skill id="3011" levels="6" name="Special Ability: Focus">
+  <table name="#magicLvl"> 46 49 52 55 58 61 </table>
+  <table name="#rCrit"> 90.5 85.9 81.2 76.6 71.9 67.3 </table>
+  <table name="#pvpBonus"> 1.00 1.00 1.00 1.00 1.00 1.05 </table>
+  <set name="target" val="TARGET_SELF"/>
+  <set name="skillType" val="WEAPON_SA"/>
+  <set name="operateType" val="OP_PASSIVE"/>
+  <set name="magicLvl" val="#magicLvl"/>
+  <for>
+    <add order="0x40" stat="rCrit" val="#rCrit"/>
+    <mul order="0x30" stat="pvpPhysDmg" val="#pvpBonus"/>
+    <mul order="0x30" stat="pvpMagicalDmg" val="#pvpBonus"/>
+  </for>
+</skill>
+<skill id="3012" levels="6" name="Special Ability: Anger">
+  <table name="#patk"> 20.44 22.64 24.77 26.78 28.59 30.12 </table>
+  <set name="target" val="TARGET_SELF"/>
+  <set name="skillType" val="BUFF"/>
+  <set name="operateType" val="OP_PASSIVE"/>
+  <for>
+    <add order="0x40" stat="pAtk" val="#patk"/>
+    <mul order="0x30" stat="maxHp" val="0.85"/>
+  </for>
+</skill>
+<skill id="3013" levels="5" name="Special Ability: Health">
+  <table name="#atkCountMax"> 0 4 0 4 0 </table>
+  <table name="#magicLvl"> 40 1 61 64 80 </table>
+  <table name="#pvpBonus"> 1 1 1.05 1.05 1.05 </table>
+  <set name="magicLvl" val="#magicLvl"/>
+  <set name="operateType" val="OP_PASSIVE"/>
+  <set name="skillType" val="WEAPON_SA"/>
+  <set name="target" val="TARGET_SELF"/>
+  <for>
+    <mul order="0x30" stat="maxHp" val="1.25"/>
+    <add order="0x40" stat="atkCountMax" val="#atkCountMax"/>
+    <mul order="0x30" stat="pvpPhysDmg" val="#pvpBonus"/>
+    <mul order="0x30" stat="pvpPhysSkillsDmg" val="#pvpBonus"/>
+    <mul order="0x30" stat="pvpMagicalDmg" val="#pvpBonus"/>
+  </for>
+</skill>
+<skill id="3014" levels="3" name="Special Ability: Mana Up">
+  <table name="#magicLvl"> 1 64 80 </table>
+  <table name="#pvpBonus"> 1 1.05 1.05 </table>
+  <set name="magicLvl" val="#magicLvl"/>
+  <set name="operateType" val="OP_PASSIVE"/>
+  <set name="skillType" val="WEAPON_SA"/>
+  <set name="target" val="TARGET_SELF"/>
+  <for>
+    <mul order="0x30" stat="maxMp" val="1.3"/>
+    <mul order="0x30" stat="pvpPhysDmg" val="#pvpBonus"/>
+    <mul order="0x30" stat="pvpPhysSkillsDmg" val="#pvpBonus"/>
+    <mul order="0x30" stat="pvpMagicalDmg" val="#pvpBonus"/>
+  </for>
+</skill>
+<skill id="3016" levels="6" name="Special Ability: Critical Stun">
+  <table name="#magicLvl"> 46 49 52 55 58 61 </table>
+  <set name="magicLvl" val="#magicLvl"/>
+  <set name="lvlDepend" val="1"/>
+  <set name="power" val="800"/>
+  <set name="target" val="TARGET_ONE"/>
+  <set name="overHit" val="true"/>
+  <set name="skillType" val="PDAM"/>
+  <set name="lvlDepend" val="1"/>
+  <set name="operateType" val="OP_ACTIVE"/>
+  <set name="effectType" val="STUN"/>
+  <set name="effectPower" val="30"/>
+  <for>
+    <effect count="1" name="Stun" time="5" val="0" stackOrder="1" stackType="Stun"/>
+  </for>
+</skill>
+<skill id="3018" levels="6" name="Special Ability: Back Blow">
+  <table name="#magicLvl"> 46 49 52 55 58 61 </table>
+  <table name="#rCrit"> 0.71 0.67 0.63 0.6 0.56 0.53 </table>
+  <set name="condition" val="8"/>
+  <set name="magicLvl" val="#magicLvl"/>
+  <set name="operateType" val="OP_PASSIVE"/>
+  <set name="skillType" val="WEAPON_SA"/>
+  <set name="target" val="TARGET_SELF"/>
+  <for>
+    <basemul order="0x30" stat="rCrit" val="#rCrit">
+      <player behind="True"/>
+    </basemul>
+  </for>
+</skill>
+<skill id="3019" levels="6" name="Special Ability: Back Blow">
+  <table name="#magicLvl"> 46 49 52 55 58 61 </table>
+  <table name="#rCrit"> 0.5 0.47 0.45 0.42 0.4 0.37 </table>
+  <set name="condition" val="8"/>
+  <set name="magicLvl" val="#magicLvl"/>
+  <set name="operateType" val="OP_PASSIVE"/>
+  <set name="skillType" val="WEAPON_SA"/>
+  <set name="target" val="TARGET_SELF"/>
+  <for>
+    <basemul order="0x30" stat="rCrit" val="#rCrit">
+      <player behind="True"/>
+    </basemul>
+  </for>
+</skill>
+<skill id="3020" levels="6" name="Special Ability: Critical Bleed">
+  <table name="#magicLvl"> 46 49 52 55 58 61 </table>
+  <table name="#dmg"> 66 66 81 81 81 93 </table>
+  <table name="#abnormalLvl"> 5 5 6 6 6 7 </table>
+  <set name="abnormalLvl" val="#abnormalLvl"/>
+  <set name="target" val="TARGET_ONE"/>
+  <set name="skillType" val="WEAPON_SA"/>
+  <set name="lvlDepend" val="1"/>
+  <set name="operateType" val="OP_ACTIVE"/>
+  <set name="magicLvl" val="#magicLvl"/>
+  <set name="effectType" val="BLEED"/>
+  <set name="effectPower" val="100"/>
+  <for>
+    <effect count="7" name="DamOverTime" time="3" val="#dmg" abnormal="bleeding">
+      <mul order="0x30" stat="runSpd" val="0.8"/>
+    </effect>
+  </for>
+</skill>
+<skill id="3021" levels="6" name="Special Ability: Critical Bleed">
+  <table name="#magicLvl"> 46 49 52 55 58 61 </table>
+  <table name="#dmg"> 66 66 81 81 81 93 </table>
+  <table name="#abnormalLvl"> 5 5 5 6 6 7 </table>
+  <set name="abnormalLvl" val="#abnormalLvl"/>
+  <set name="target" val="TARGET_ONE"/>
+  <set name="skillType" val="WEAPON_SA"/>
+  <set name="lvlDepend" val="1"/>
+  <set name="operateType" val="OP_ACTIVE"/>
+  <set name="magicLvl" val="#magicLvl"/>
+  <set name="effectType" val="BLEED"/>
+  <set name="effectPower" val="100"/>
+  <for>
+    <effect count="7" name="DamOverTime" time="3" val="#dmg" abnormal="bleeding">
+      <mul order="0x30" stat="runSpd" val="0.8"/>
+    </effect>
+  </for>
+</skill>
+<skill id="3022" levels="6" name="Special Ability: Critical Drain">
+  <table name="#power"> 9.26 9.33 9.31 9.19 8.97 8.65 </table>
+  <table name="#magicLvl"> 46 49 52 55 58 61 </table>
+  <table name="#absorbPart"> 21 23 25 28 31 35 </table>
+  <set name="magicLvl" val="#magicLvl"/>
+  <set name="target" val="TARGET_ONE"/>
+  <set name="element" val="5"/>
+  <set name="elementPower" val="20"/>
+  <set name="skillType" val="DRAIN"/>
+  <set name="isMagic" val="true"/>
+  <set name="operateType" val="OP_ACTIVE"/>
+  <set name="castRange" val="600"/>
+  <set name="effectRange" val="1100"/>
+  <set name="power" val="#power"/>
+  <set name="absorbPart" val="#absorbPart"/>
+</skill>
+<skill id="3023" levels="6" name="Special Ability: Critical Damage">
+  <table name="#magicLvl"> 46 49 52 55 58 61 </table>
+  <table name="#val"> 174.78 194.1 213.12 231.29 247.98 262.57 </table>
+  <set name="target" val="TARGET_SELF"/>
+  <set name="skillType" val="BUFF"/>
+  <set name="operateType" val="OP_PASSIVE"/>
+  <set name="magicLvl" val="#magicLvl"/>
+  <for>
+    <add order="0x40" stat="cAtkAdd" val="#val"/>
+  </for>
+</skill>
+<skill id="3024" levels="6" name="Special Ability: Critical Poison">
+  <table name="#magicLvl"> 46 49 52 55 58 61 </table>
+  <table name="#dmg"> 123 123 153 153 153 177 </table>
+  <table name="#abnormalLvl"> 5 5 6 6 6 7 </table>
+  <set name="abnormalLvl" val="#abnormalLvl"/>
+  <set name="target" val="TARGET_ONE"/>
+  <set name="skillType" val="WEAPON_SA"/>
+  <set name="lvlDepend" val="1"/>
+  <set name="operateType" val="OP_ACTIVE"/>
+  <set name="magicLvl" val="#magicLvl"/>
+  <set name="effectType" val="POISON"/>
+  <set name="effectPower" val="70"/>
+  <for>
+    <effect count="10" name="DamOverTime" time="3" val="#dmg" abnormal="poison"/>
+  </for>
+</skill>
+<skill id="3025" levels="6" name="Special Ability: Critical Anger">
+  <table name="#magicLvl"> 46 49 52 55 58 61 </table>
+  <table name="#hpConsume"> 12 13 14 15 16 17 </table>
+  <set name="target" val="TARGET_SELF"/>
+  <set name="skillType" val="BUFF"/>
+  <set name="operateType" val="OP_ACTIVE"/>
+  <set name="magicLvl" val="#magicLvl"/>
+  <set name="hpConsume" val="#hpConsume"/>
+</skill>
+<skill id="3026" levels="6" name="Special Ability: Critical Anger">
+  <table name="#magicLvl"> 46 49 52 55 58 61 </table>
+  <table name="#cAtkAdd"> 248.56 298.04 352.73 411.98 474.82 539.9 </table>
+  <set name="target" val="TARGET_SELF"/>
+  <set name="skillType" val="BUFF"/>
+  <set name="operateType" val="OP_PASSIVE"/>
+  <set name="magicLvl" val="#magicLvl"/>
+  <for>
+    <add order="0x40" stat="cAtkAdd" val="#cAtkAdd"/>
+  </for>
+</skill>
+<skill id="3027" levels="7" name="Special Ability: Rsk. Focus">
+  <table name="#magicLvl"> 46 49 52 55 58 61 80 </table>
+  <table name="#val"> 138.7 130.9 123.1 115.4 107.7 99.9 164 </table>
+  <set name="target" val="TARGET_SELF"/>
+  <set name="skillType" val="BUFF"/>
+  <set name="operateType" val="OP_PASSIVE"/>
+  <set name="magicLvl" val="#magicLvl"/>
+  <for>
+    <add order="0x40" stat="rCrit" val="#val">
+      <and>
+        <player hp="60"/>
+      </and>
+    </add>
+  </for>
+</skill>
+<skill id="3028" levels="6" name="Special Ability: Rsk. Evasion">
+  <table name="#val"> 7.63 7.29 6.95 6.6 6.24 5.87 </table>
+  <table name="#magicLvl"> 46 49 52 55 58 61 </table>
+  <set name="target" val="TARGET_SELF"/>
+  <set name="skillType" val="BUFF"/>
+  <set name="operateType" val="OP_PASSIVE"/>
+  <set name="magicLvl" val="#magicLvl"/>
+  <for>
+    <add order="0x40" stat="rEvas" val="#val">
+      <and>
+        <player hp="60"/>
+      </and>
+    </add>
+  </for>
+</skill>
+<skill id="3029" levels="6" name="Special Ability: Rsk. Evasion">
+  <table name="#magicLvl"> 46 49 52 55 58 61 </table>
+  <table name="#val"> 7.63 7.29 6.95 6.6 6.24 5.87 </table>
+  <set name="target" val="TARGET_SELF"/>
+  <set name="skillType" val="BUFF"/>
+  <set name="operateType" val="OP_PASSIVE"/>
+  <set name="magicLvl" val="#magicLvl"/>
+  <for>
+    <add order="0x40" stat="rEvas" val="#val">
+      <and>
+        <player hp="60"/>
+      </and>
+    </add>
+  </for>
+</skill>
+<skill id="3030" levels="6" name="Special Ability: Rsk. Evasion">
+  <table name="#val"> 7.63 7.29 6.95 6.6 6.24 5.87 </table>
+  <table name="#magicLvl"> 46 49 52 55 58 61 </table>
+  <set name="target" val="TARGET_SELF"/>
+  <set name="skillType" val="BUFF"/>
+  <set name="operateType" val="OP_PASSIVE"/>
+  <set name="magicLvl" val="#magicLvl"/>
+  <for>
+    <add order="0x40" stat="rEvas" val="#val">
+      <and>
+        <player hp="60"/>
+      </and>
+    </add>
+  </for>
+</skill>
+<skill id="3031" levels="6" name="Special Ability: Rsk. Evasion">
+  <table name="#val"> 7.63 7.29 6.95 6.6 6.24 5.87 </table>
+  <table name="#magicLvl"> 46 49 52 55 58 61 </table>
+  <set name="target" val="TARGET_SELF"/>
+  <set name="skillType" val="BUFF"/>
+  <set name="operateType" val="OP_PASSIVE"/>
+  <set name="magicLvl" val="#magicLvl"/>
+  <for>
+    <add order="0x40" stat="rEvas" val="#val">
+      <and>
+        <player hp="60"/>
+      </and>
+    </add>
+  </for>
+</skill>
+<skill id="3032" levels="6" name="Special Ability: Rsk. Haste">
+  <table name="#magicLvl"> 46 49 52 55 58 61 </table>
+  <table name="#val"> 1.13 1.12 1.12 1.11 1.1 1.09 </table>
+  <set name="target" val="TARGET_SELF"/>
+  <set name="skillType" val="BUFF"/>
+  <set name="operateType" val="OP_PASSIVE"/>
+  <set name="magicLvl" val="#magicLvl"/>
+  <for>
+    <mul order="0x30" stat="pAtkSpd" val="#val">
+      <and>
+        <player hp="60"/>
+      </and>
+    </mul>
+  </for>
+</skill>
+<skill id="3033" levels="6" name="Special Ability: Rsk. Haste">
+  <table name="#val"> 1.13 1.12 1.12 1.11 1.1 1.09 </table>
+  <table name="#magicLvl"> 46 49 52 55 58 61 </table>
+  <set name="target" val="TARGET_SELF"/>
+  <set name="skillType" val="BUFF"/>
+  <set name="operateType" val="OP_PASSIVE"/>
+  <set name="magicLvl" val="#magicLvl"/>
+  <for>
+    <mul order="0x30" stat="pAtkSpd" val="#val">
+      <and>
+        <player hp="60"/>
+      </and>
+    </mul>
+  </for>
+</skill>
+<skill id="3034" levels="7" name="Special Ability: Rsk. Haste">
+  <table name="#val"> 1.13 1.12 1.12 1.11 1.1 1.09 1 </table> <!-- TODO lvl7 -->
+  <table name="#magicLvl"> 46 49 52 55 58 61 1 </table>
+  <set name="target" val="TARGET_SELF"/>
+  <set name="skillType" val="BUFF"/>
+  <set name="operateType" val="OP_PASSIVE"/>
+  <set name="magicLvl" val="#magicLvl"/>
+  <for>
+    <mul order="0x30" stat="pAtkSpd" val="#val">
+      <and>
+        <player hp="60"/>
+      </and>
+    </mul>
+  </for>
+</skill>
+<skill id="3035" levels="6" name="Special Ability: Mighty Mortal">
+  <table name="#rate"> 1.5 1.48 1.46 1.44 1.42 1.4 </table>
+  <table name="#magicLvl"> 46 49 52 55 58 61 </table>
+  <set name="target" val="TARGET_SELF"/>
+  <set name="skillType" val="BUFF"/>
+  <set name="operateType" val="OP_PASSIVE"/>
+  <set name="magicLvl" val="#magicLvl"/>
+  <for>
+    <mul order="0x30" stat="blowRate" val="#rate">
+      <using kind="Dagger"/>
+    </mul>
+  </for>
+</skill>
+<skill id="3036" levels="6" name="Special Ability: Haste">
+  <table name="#magicLvl"> 46 49 52 55 58 61 </table>
+  <table name="#pAtkSpd"> 1.08 1.07 1.07 1.07 1.06 1.06 </table>
+  <set name="magicLvl" val="#magicLvl"/>
+  <set name="operateType" val="OP_PASSIVE"/>
+  <set name="skillType" val="WEAPON_SA"/>
+  <set name="target" val="TARGET_SELF"/>
+  <for>
+    <mul order="0x30" stat="pAtkSpd" val="#pAtkSpd"/>
+  </for>
+</skill>
+<skill id="3037" levels="6" name="Special Ability: Haste">
+  <table name="#magicLvl"> 46 49 52 55 58 61 </table>
+  <table name="#pAtkSpd"> 1.08 1.07 1.07 1.07 1.06 1.06 </table>
+  <set name="magicLvl" val="#magicLvl"/>
+  <set name="operateType" val="OP_PASSIVE"/>
+  <set name="skillType" val="WEAPON_SA"/>
+  <set name="target" val="TARGET_SELF"/>
+  <for>
+    <mul order="0x30" stat="pAtkSpd" val="#pAtkSpd"/>
+  </for>
+</skill>
+<skill id="3038" levels="6" name="Special Ability: Haste">
+  <table name="#magicLvl"> 46 49 52 55 58 61 </table>
+  <table name="#pAtkSpd"> 1.08 1.07 1.07 1.07 1.06 1.06 </table>
+  <set name="magicLvl" val="#magicLvl"/>
+  <set name="operateType" val="OP_PASSIVE"/>
+  <set name="skillType" val="WEAPON_SA"/>
+  <set name="target" val="TARGET_SELF"/>
+  <for>
+    <mul order="0x30" stat="pAtkSpd" val="#pAtkSpd"/>
+  </for>
+</skill>
+<skill id="3039" levels="7" name="Special Ability: Critical Drain">
+  <table name="#power"> 6.85 7.96 9.26 10.8 12.62 14.82 1 </table> <!-- TODO lvl 7 -->
+  <table name="#magicLvl"> 46 49 52 55 58 61 1 </table> <!-- TODO lvl 7 -->
+  <table name="#absorbPart"> 33 31 30 28 26 24 1 </table> <!-- TODO lvl 7 -->
+  <set name="magicLvl" val="#magicLvl"/>
+  <set name="target" val="TARGET_ONE"/>
+  <set name="element" val="5"/>
+  <set name="elementPower" val="20"/>
+  <set name="skillType" val="DRAIN"/>
+  <set name="isMagic" val="true"/>
+  <set name="operateType" val="OP_ACTIVE"/>
+  <set name="castRange" val="600"/>
+  <set name="effectRange" val="1100"/>
+  <set name="absorbPart" val="#absorbPart"/>
+</skill>
+<skill id="3040" levels="6" name="Special Ability: Critical Poison">
+  <table name="#magicLvl"> 46 49 52 55 58 61 </table>
+  <table name="#dmg"> 123 123 153 153 153 177 </table>
+  <table name="#abnormalLvl"> 5 5 6 6 6 7 </table>
+  <set name="abnormalLvl" val="#abnormalLvl"/>
+  <set name="target" val="TARGET_ONE"/>
+  <set name="skillType" val="WEAPON_SA"/>
+  <set name="lvlDepend" val="1"/>
+  <set name="operateType" val="OP_ACTIVE"/>
+  <set name="magicLvl" val="#magicLvl"/>
+  <set name="effectType" val="POISON"/>
+  <set name="effectPower" val="70"/>
+  <for>
+    <effect count="10" name="DamOverTime" time="3" val="#dmg" abnormal="poison"/>
+  </for>
+</skill>
+<skill id="3041" levels="6" name="Special Ability: Critical Poison">
+  <table name="#magicLvl"> 46 49 52 55 58 61 </table>
+  <table name="#dmg"> 123 123 153 153 153 177 </table>
+  <table name="#abnormalLvl"> 5 5 6 6 6 7 </table>
+  <set name="abnormalLvl" val="#abnormalLvl"/>
+  <set name="target" val="TARGET_ONE"/>
+  <set name="skillType" val="WEAPON_SA"/>
+  <set name="lvlDepend" val="1"/>
+  <set name="operateType" val="OP_ACTIVE"/>
+  <set name="magicLvl" val="#magicLvl"/>
+  <set name="effectType" val="POISON"/>
+  <set name="effectPower" val="70"/>
+  <for>
+    <effect count="10" name="DamOverTime" time="3" val="#dmg" abnormal="poison"/>
+  </for>
+</skill>
+<skill id="3042" levels="20" name="Special Ability: Critical Damage">
+  <!-- Not confirmed -->
+  <table name="#cAtkAdd"> 81.6 61.4 84.14 75.49 66.77 58.01 49.42 84.11 166.26 146.88 127 107.01 133.97 124.79 275.26 267.13 257.98 297.21 331.38 361.06 </table>
+  <table name="#magicLvl"> 48 49 50 51 52 53 54 55 56 57 58 59 60 61 62 63 64 65 66 67 </table>
+  <table name="#pvpbonus"> 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1.05 1.05 1.05 1.05 </table>
+  <set name="magicLvl" val="#magicLvl"/>
+  <set name="operateType" val="OP_PASSIVE"/>
+  <set name="skillType" val="BUFF"/>
+  <set name="target" val="TARGET_SELF"/>
+  <for>
+    <add order="0x40" stat="cAtkAdd" val="#cAtkAdd"/>
+    <mul order="0x30" stat="pvpPhysDmg" val="#pvpbonus"/>
+    <mul order="0x30" stat="pvpPhysSkillsDmg" val="#pvpbonus"/>
+    <mul order="0x30" stat="pvpMagicalDmg" val="#pvpbonus"/>
+  </for>
+</skill>
+<skill id="3043" levels="6" name="Special Ability: Critical Damage">
+  <table name="#val"> 106.45 118.22 129.81 140.87 151.04 159.93 </table>
+  <table name="#magicLvl"> 46 49 52 55 58 61 </table>
+  <set name="target" val="TARGET_SELF"/>
+  <set name="skillType" val="BUFF"/>
+  <set name="operateType" val="OP_PASSIVE"/>
+  <set name="magicLvl" val="#magicLvl"/>
+  <for>
+    <add order="0x40" stat="cAtkAdd" val="#val"/>
+  </for>
+</skill>
+<skill id="3044" levels="20" name="Special Ability: Focus">
+  <table name="#rate"> 53.6 38.5 50.4 43.2 36.5 30.4 24.8 40.4 76.6 65 54 43.7 52.6 47.2 98.7 92.4 86.2 96 103.5 109.2 </table>
+  <table name="#PvPbonus"> 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1.05 1.05 1.05 1.05 </table>
+  <table name="#magicLvl"> 48 49 50 51 52 53 54 55 56 57 58 59 60 61 62 63 64 65 66 67 </table>
+  <set name="target" val="TARGET_SELF"/>
+  <set name="skillType" val="BUFF"/>
+  <set name="operateType" val="OP_PASSIVE"/>
+  <set name="magicLvl" val="#magicLvl"/>
+  <for>
+    <add order="0x40" stat="rCrit" val="#rate"/>
+    <mul order="0x30" stat="pvpPhysDmg" val="#PvPbonus"/>
+    <mul order="0x30" stat="pvpPhysSkillsDmg" val="#PvPbonus"/>
+    <mul order="0x30" stat="pvpMagicalDmg" val="#PvPbonus"/>
+  </for>
+</skill>
+<skill id="3045" levels="20" name="Special Ability: Haste">
+  <!-- Not confirmed -->
+  <table name="#magicLvl"> 48 49 50 51 52 53 54 55 56 57 58 59 60 61 62 63 64 65 66 67 </table>
+  <table name="#pAtkSpd"> 1.05 1.04 1.05 1.04 1.03 1.03 1.02 1.04 1.07 1.06 1.05 1.04 1.05 1.04 1.09 1.08 1.08 1.09 1.09 1.10 </table>
+  <table name="#pvpbonus"> 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1.05 1.05 1.05 1.05 </table>
+  <set name="magicLvl" val="#magicLvl"/>
+  <set name="operateType" val="OP_PASSIVE"/>
+  <set name="skillType" val="BUFF"/>
+  <set name="target" val="TARGET_SELF"/>
+  <for>
+    <mul order="0x30" stat="pAtkSpd" val="#pAtkSpd"/>
+    <mul order="0x30" stat="pvpPhysDmg" val="#pvpbonus"/>
+    <mul order="0x30" stat="pvpPhysSkillsDmg" val="#pvpbonus"/>
+    <mul order="0x30" stat="pvpMagicalDmg" val="#pvpbonus"/>
+  </for>
+</skill>
+<skill id="3046" levels="20" name="Special Ability: Guidance">
+  <!-- Not confirmed -->
+  <table name="#accCombat"> 3.9 2.8 3.7 3.1 2.6 2.2 1.8 2.9 5.7 4.8 3.9 3.2 3.8 3.4 6.5 6.5 6.5 6.5 6.5 6.5 </table>
+  <table name="#magicLvl"> 48 49 50 51 52 53 54 55 56 57 58 59 60 61 62 63 64 65 66 67 </table>
+  <table name="#pvpbonus"> 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1.05 1.05 1.05 1.05 </table>
+  <set name="magicLvl" val="#magicLvl"/>
+  <set name="operateType" val="OP_PASSIVE"/>
+  <set name="skillType" val="BUFF"/>
+  <set name="target" val="TARGET_SELF"/>
+  <for>
+    <mul order="0x30" stat="accCombat" val="#accCombat"/>
+    <mul order="0x30" stat="pvpPhysDmg" val="#pvpbonus"/>
+    <mul order="0x30" stat="pvpPhysSkillsDmg" val="#pvpbonus"/>
+    <mul order="0x30" stat="pvpMagicalDmg" val="#pvpbonus"/>
+  </for>
+</skill>
+<skill id="3047" levels="3" name="Special Ability: Acumen">
+  <table name="#pvpBonus"> 1 1.05 1.05 </table>
+  <table name="#magicLvl"> 64 64 80 </table>
+  <set name="magicLvl" val="#magicLvl"/>
+  <set name="operateType" val="OP_PASSIVE"/>
+  <set name="skillType" val="WEAPON_SA"/>
+  <set name="target" val="TARGET_SELF"/>
+  <for>
+    <mul order="0x30" stat="mAtkSpd" val="1.15"/>
+    <mul order="0x30" stat="pvpPhysDmg" val="#pvpBonus"/>
+    <mul order="0x30" stat="pvpPhysSkillsDmg" val="#pvpBonus"/>
+    <mul order="0x30" stat="pvpMagicalDmg" val="#pvpBonus"/>
+  </for>
+</skill>
+<skill id="3048" levels="3" name="Special Ability: Conversion">
+  <table name="#pvpBonus"> 1 1.05 1.05 </table>
+  <table name="#magicLvl"> 64 64 80 </table>
+  <set name="magicLvl" val="#magicLvl"/>
+  <set name="operateType" val="OP_PASSIVE"/>
+  <set name="skillType" val="WEAPON_SA"/>
+  <set name="target" val="TARGET_SELF"/>
+  <for>
+    <mul order="0x60" stat="maxMp" val="1.6"/>
+    <mul order="0x60" stat="maxHp" val="0.6"/>
+    <mul order="0x30" stat="pvpPhysDmg" val="#pvpBonus"/>
+    <mul order="0x30" stat="pvpPhysSkillsDmg" val="#pvpBonus"/>
+    <mul order="0x30" stat="pvpMagicalDmg" val="#pvpBonus"/>
+  </for>
+</skill>
+<skill id="3049" levels="2" name="Special Ability: Increase Critical">
+  <set name="target" val="TARGET_SELF"/>
+  <set name="skillType" val="BUFF"/>
+  <set name="operateType" val="OP_PASSIVE"/>
+  <!-- TODO -->
+</skill>
+<skill id="3050" levels="2" name="Special Ability: Focus">
+  <set name="target" val="TARGET_SELF"/>
+  <set name="skillType" val="BUFF"/>
+  <set name="operateType" val="OP_PASSIVE"/>
+  <set name="magicLvl" val="64"/>
+  <for>
+    <add order="0x40" stat="rCrit" val="61"/>
+    <mul order="0x30" stat="pvpPhysDmg" val="1.05"/>
+    <mul order="0x30" stat="pvpPhysSkillsDmg" val="1.05"/>
+    <mul order="0x30" stat="pvpMagicalDmg" val="1.05"/>
+  </for>
+</skill>
+<skill id="3051" levels="2" name="Special Ability: Focus">
+  <set name="target" val="TARGET_SELF"/>
+  <set name="skillType" val="BUFF"/>
+  <set name="operateType" val="OP_PASSIVE"/>
+  <set name="magicLvl" val="67"/>
+  <for>
+    <add order="0x40" stat="rCrit" val="67"/>
+    <mul order="0x30" stat="pvpPhysDmg" val="1.05"/>
+    <mul order="0x30" stat="pvpPhysSkillsDmg" val="1.05"/>
+    <mul order="0x30" stat="pvpMagicalDmg" val="1.05"/>
+  </for>
+</skill>
+<skill id="3052" levels="2" name="Special Ability: Critical Bleed">
+  <table name="#magicLvl"> 64 67 </table>
+  <set name="magicLvl" val="#magicLvl"/>
+  <set name="abnormalLvl" val="7"/>
+  <set name="target" val="TARGET_ONE"/>
+  <set name="skillType" val="WEAPON_SA"/>
+  <set name="lvlDepend" val="1"/>
+  <set name="operateType" val="OP_ACTIVE"/>
+  <set name="effectType" val="BLEED"/>
+  <set name="effectPower" val="100"/>
+  <for>
+    <effect count="7" name="DamOverTime" time="3" val="93" abnormal="bleeding">
+      <mul order="0x30" stat="runSpd" val="0.8"/>
+    </effect>
+  </for>
+</skill>
+<skill id="3053" levels="2" name="Special Ability: Critical Bleed">
+  <table name="#magicLvl"> 64 67 </table>
+  <set name="abnormalLvl" val="7"/>
+  <set name="target" val="TARGET_ONE"/>
+  <set name="skillType" val="WEAPON_SA"/>
+  <set name="lvlDepend" val="1"/>
+  <set name="operateType" val="OP_ACTIVE"/>
+  <set name="effectType" val="BLEED"/>
+  <set name="effectPower" val="100"/>
+  <set name="magicLvl" val="#magicLvl"/>
+  <for>
+    <effect count="7" name="DamOverTime" time="3" val="93" abnormal="bleeding">
+      <mul order="0x30" stat="runSpd" val="0.8"/>
+    </effect>
+  </for>
+</skill>
+<skill id="3054" levels="2" name="Special Ability: Critical Bleed">
+  <table name="#magicLvl"> 64 67 </table>
+  <set name="abnormalLvl" val="7"/>
+  <set name="target" val="TARGET_ONE"/>
+  <set name="skillType" val="WEAPON_SA"/>
+  <set name="lvlDepend" val="1"/>
+  <set name="operateType" val="OP_ACTIVE"/>
+  <set name="effectType" val="BLEED"/>
+  <set name="effectPower" val="100"/>
+  <set name="magicLvl" val="#magicLvl"/>
+  <for>
+    <effect count="7" name="DamOverTime" time="3" val="93" abnormal="bleeding">
+      <mul order="0x30" stat="runSpd" val="0.8"/>
+    </effect>
+  </for>
+</skill>
+<skill id="3055" levels="2" name="Special Ability: Critical Bleed">
+  <table name="#magicLvl"> 64 67 </table>
+  <set name="abnormalLvl" val="7"/>
+  <set name="target" val="TARGET_ONE"/>
+  <set name="skillType" val="WEAPON_SA"/>
+  <set name="lvlDepend" val="1"/>
+  <set name="operateType" val="OP_ACTIVE"/>
+  <set name="magicLvl" val="#magicLvl"/>
+  <set name="effectType" val="BLEED"/>
+  <set name="effectPower" val="100"/>
+  <for>
+    <effect count="7" name="DamOverTime" time="3" val="93" abnormal="bleeding">
+      <mul order="0x30" stat="runSpd" val="0.8"/>
+    </effect>
+  </for>
+</skill>
+<skill id="3056" levels="3" name="Special Ability: Rsk. Haste">
+  <table name="#val"> 1.11 1.11 1.13 </table>
+  <table name="#pvpBonus"> 1 1.05 1.05 </table>
+  <set name="target" val="TARGET_SELF"/>
+  <set name="skillType" val="BUFF"/>
+  <set name="operateType" val="OP_PASSIVE"/>
+  <set name="magicLvl" val="64"/>
+  <for>
+    <mul order="0x30" stat="pAtkSpd" val="#val">
+      <and>
+        <player hp="60"/>
+      </and>
+    </mul>
+    <mul order="0x30" stat="pvpPhysDmg" val="#pvpBonus"/>
+    <mul order="0x30" stat="pvpPhysSkillsDmg" val="#pvpBonus"/>
+    <mul order="0x30" stat="pvpMagicalDmg" val="#pvpBonus"/>
+  </for>
+</skill>
+<skill id="3057" levels="4" name="Special Ability: Anger">
+  <table name="#pAtk"> 31.3 32.05 78 1 </table> <!-- TODO lvl4 -->
+  <table name="#magicLvl"> 64 67 80 1 </table> <!-- TODO lvl4 -->
+  <set name="target" val="TARGET_SELF"/>
+  <set name="skillType" val="BUFF"/>
+  <set name="operateType" val="OP_PASSIVE"/>
+  <set name="magicLvl" val="#magicLvl"/>
+  <for>
+    <add order="0x40" stat="pAtk" val="#pAtk"/>
+    <mul order="0x30" stat="maxHp" val="0.85"/>
+    <mul order="0x30" stat="pvpPhysDmg" val="1.05"/>
+    <mul order="0x30" stat="pvpPhysSkillsDmg" val="1.05"/>
+    <mul order="0x30" stat="pvpMagicalDmg" val="1.05"/>
+  </for>
+</skill>
+<skill id="3058" levels="2" name="Special Ability: Anger">
+  <table name="#magicLvl"> 64 67 </table>
+  <table name="#pAtk"> 38.09 39 </table>
+  <set name="target" val="TARGET_SELF"/>
+  <set name="skillType" val="BUFF"/>
+  <set name="operateType" val="OP_PASSIVE"/>
+  <set name="magicLvl" val="#magicLvl"/>
+  <for>
+    <add order="0x40" stat="pAtk" val="#pAtk"/>
+    <mul order="0x30" stat="maxHp" val="0.85"/>
+    <mul order="0x30" stat="pvpPhysDmg" val="1.05"/>
+    <mul order="0x30" stat="pvpPhysSkillsDmg" val="1.05"/>
+    <mul order="0x30" stat="pvpMagicalDmg" val="1.05"/>
+  </for>
+</skill>
+<skill id="3059" levels="2" name="Special Ability: Critical Drain">
+  <table name="#magicLvl"> 64 67 </table>
+  <table name="#power"> 18 19 </table>
+  <table name="#absorbPart"> 35 35 </table>
+  <set name="magicLvl" val="#magicLvl"/>
+  <set name="power" val="#power"/>
+  <set name="target" val="TARGET_ONE"/>
+  <set name="element" val="5"/>
+  <set name="elementPower" val="20"/>
+  <set name="skillType" val="DRAIN"/>
+  <set name="isMagic" val="true"/>
+  <set name="operateType" val="OP_ACTIVE"/>
+  <set name="castRange" val="600"/>
+  <set name="effectRange" val="1100"/>
+  <set name="absorbPart" val="#absorbPart"/>
+</skill>
+<skill id="3060" levels="2" name="Special Ability: Critical Drain">
+  <table name="#magicLvl"> 64 67 </table>
+  <table name="#power"> 10 11 </table>
+  <set name="magicLvl" val="#magicLvl"/>
+  <set name="power" val="#power"/>
+  <set name="target" val="TARGET_ONE"/>
+  <set name="element" val="5"/>
+  <set name="elementPower" val="20"/>
+  <set name="skillType" val="DRAIN"/>
+  <set name="isMagic" val="true"/>
+  <set name="operateType" val="OP_ACTIVE"/>
+  <set name="castRange" val="600"/>
+  <set name="effectRange" val="1100"/>
+  <set name="absorbPart" val="35"/>
+</skill>
+<skill id="3061" levels="3" name="Special Ability: Critical Poison">
+  <table name="#magicLvl"> 64 67 78 </table>
+  <table name="#dmg"> 18 24 31 </table>
+  <table name="#effectLevel"> 3 4 5 </table>
+  <set name="magicLvl" val="#magicLvl"/>
+  <set name="target" val="TARGET_ONE"/>
+  <set name="skillType" val="POISON"/>
+  <set name="isMagic" val="true"/>
+  <set name="lvlDepend" val="1"/>
+  <set name="operateType" val="OP_ACTIVE"/>
+  <set name="castRange" val="600"/>
+  <set name="effectRange" val="1100"/>
+  <set name="effectType" val="POISON"/>
+  <set name="effectLevel" val="#effectLevel"/>
+  <for>
+    <effect count="10" name="DamOverTime" time="3" val="#dmg" abnormal="poison"/>
+  </for>
+</skill>
+<skill id="3062" levels="2" name="Special Ability: Critical Poison">
+  <table name="#magicLvl"> 64 67 </table>
+  <table name="#dmg"> 18 24 </table>
+  <table name="#effectLevel"> 3 4 </table>
+  <set name="magicLvl" val="#magicLvl"/>
+  <set name="target" val="TARGET_ONE"/>
+  <set name="skillType" val="POISON"/>
+  <set name="isMagic" val="true"/>
+  <set name="lvlDepend" val="1"/>
+  <set name="operateType" val="OP_ACTIVE"/>
+  <set name="castRange" val="600"/>
+  <set name="effectRange" val="1100"/>
+  <set name="effectType" val="POISON"/>
+  <set name="effectLevel" val="#effectLevel"/>
+  <for>
+    <effect count="10" name="DamOverTime" time="3" val="#dmg" abnormal="poison"/>
+  </for>
+</skill>
+<skill id="3063" levels="2" name="Special Ability: Back Blow">
+  <table name="#magicLvl"> 64 64 </table><!-- Guessing Lvl 2 -->
+  <table name="#rCrit"> 0.37 0.37 </table><!-- Guessing Lvl 2 -->
+  <set name="condition" val="8"/>
+  <set name="magicLvl" val="#magicLvl"/>
+  <set name="operateType" val="OP_PASSIVE"/>
+  <set name="skillType" val="WEAPON_SA"/>
+  <set name="target" val="TARGET_SELF"/>
+  <for>
+    <basemul order="0x30" stat="rCrit" val="#rCrit">
+      <player behind="True"/>
+    </basemul>
+    <mul order="0x30" stat="pvpPhysDmg" val="1.05"/>
+    <mul order="0x30" stat="pvpPhysSkillsDmg" val="1.05"/>
+    <mul order="0x30" stat="pvpMagicalDmg" val="1.05"/>
+  </for>
+</skill>
+<skill id="3064" levels="1" name="Special Ability: Guidance">
+  <set name="target" val="TARGET_SELF"/>
+  <set name="skillType" val="BUFF"/>
+  <set name="operateType" val="OP_PASSIVE"/>
+  <set name="magicLvl" val="64"/>
+  <for>
+    <add order="0x40" stat="accCombat" val="3.95"/>
+    <mul order="0x30" stat="pvpPhysDmg" val="1.05"/>
+    <mul order="0x30" stat="pvpPhysSkillsDmg" val="1.05"/>
+    <mul order="0x30" stat="pvpMagicalDmg" val="1.05"/>
+  </for>
+</skill>
+<skill id="3065" levels="1" name="Special Ability: Guidance">
+  <set name="target" val="TARGET_SELF"/>
+  <set name="skillType" val="BUFF"/>
+  <set name="operateType" val="OP_PASSIVE"/>
+  <set name="magicLvl" val="67"/>
+  <for>
+    <add order="0x40" stat="accCombat" val="5.41"/>
+    <mul order="0x30" stat="pvpPhysDmg" val="1.05"/>
+    <mul order="0x30" stat="pvpPhysSkillsDmg" val="1.05"/>
+    <mul order="0x30" stat="pvpMagicalDmg" val="1.05"/>
+  </for>
+</skill>
+<skill id="3066" levels="4" name="Special Ability: Critical Damage">
+  <table name="#cAtkAdd"> 180.94 200.79 200.79 559 </table> <!-- TODO lvl3/4 -->
+  <table name="#magicLvl"> 64 67 75 80 </table>
+  <set name="target" val="TARGET_SELF"/>
+  <set name="skillType" val="BUFF"/>
+  <set name="operateType" val="OP_PASSIVE"/>
+  <set name="magicLvl" val="#magicLvl"/>
+  <for>
+    <add order="0x40" stat="cAtkAdd" val="#cAtkAdd"/>
+    <mul order="0x30" stat="pvpPhysDmg" val="1.05"/>
+    <mul order="0x30" stat="pvpPhysSkillsDmg" val="1.05"/>
+    <mul order="0x30" stat="pvpMagicalDmg" val="1.05"/>
+  </for>
+</skill>
+<skill id="3067" levels="2" name="Special Ability: Critical Damage">
+  <table name="#magicLvl"> 64 67 </table>
+  <table name="#val"> 297.68 326.28 </table>
+  <set name="target" val="TARGET_SELF"/>
+  <set name="skillType" val="BUFF"/>
+  <set name="operateType" val="OP_PASSIVE"/>
+  <set name="magicLvl" val="#magicLvl"/>
+  <for>
+    <add order="0x40" stat="cAtkAdd" val="#val"/>
+    <mul order="0x30" stat="pvpPhysDmg" val="1.05"/>
+    <mul order="0x30" stat="pvpPhysSkillsDmg" val="1.05"/>
+    <mul order="0x30" stat="pvpMagicalDmg" val="1.05"/>
+  </for>
+</skill>
+<skill id="3068" levels="3" name="Special Ability: Haste">
+  <table name="#pAtkSpd"> 1.06 1.06 1.1 </table>
+  <table name="#pvp"> 1 1.05 1.05 </table>
+  <table name="#magicLvl"> 64 64 80 </table>
+  <set name="magicLvl" val="#magicLvl"/>
+  <set name="operateType" val="OP_PASSIVE"/>
+  <set name="skillType" val="WEAPON_SA"/>
+  <set name="target" val="TARGET_SELF"/>
+  <for>
+    <mul order="0x30" stat="pAtkSpd" val="#pAtkSpd"/>
+    <mul order="0x30" stat="pvpPhysDmg" val="#pvp"/>
+    <mul order="0x30" stat="pvpPhysSkillsDmg" val="#pvp"/>
+    <mul order="0x30" stat="pvpMagicalDmg" val="#pvp"/>
+  </for>
+</skill>
+<skill id="3069" levels="1" name="Special Ability: Rsk. Evasion">
+  <set name="target" val="TARGET_SELF"/>
+  <set name="skillType" val="BUFF"/>
+  <set name="operateType" val="OP_PASSIVE"/>
+  <for>
+    <add order="0x40" stat="rEvas" val="6.8">
+      <and>
+        <player hp="60"/>
+      </and>
+    </add>
+    <mul order="0x30" stat="pvpPhysDmg" val="1.05"/>
+    <mul order="0x30" stat="pvpPhysSkillsDmg" val="1.05"/>
+    <mul order="0x30" stat="pvpMagicalDmg" val="1.05"/>
+  </for>
+</skill>
+<skill id="3070" levels="4" name="Special Ability: Critical Stun">
+  <table name="#magicLvl"> 64 67 80 80 </table>
+  <set name="magicLvl" val="#magicLvl"/>
+  <set name="lvlDepend" val="1"/>
+  <set name="power" val="800"/>
+  <set name="target" val="TARGET_ONE"/>
+  <set name="overHit" val="true"/>
+  <set name="skillType" val="PDAM"/>
+  <set name="lvlDepend" val="1"/>
+  <set name="operateType" val="OP_ACTIVE"/>
+  <set name="effectType" val="STUN"/>
+  <set name="effectPower" val="80"/>
+  <for>
+    <effect count="1" name="Stun" time="5" val="0" stackOrder="1" stackType="Stun"/>
+  </for>
+</skill>
+<skill id="3071" levels="2" name="Special Ability: Rsk. Focus">
+  <table name="#pvpBonus"> 1.0 1.05 </table>
+  <table name="#val"> 120 130 </table>
+  <set name="target" val="TARGET_SELF"/>
+  <set name="skillType" val="BUFF"/>
+  <set name="operateType" val="OP_PASSIVE"/>
+  <for>
+    <mul order="0x30" stat="pvpPhysDmg" val="#pvpBonus"/>
+    <mul order="0x30" stat="pvpPhysSkillsDmg" val="#pvpBonus"/>
+    <mul order="0x30" stat="pvpMagicalDmg" val="#pvpBonus"/>
+    <add order="0x40" stat="rCrit" val="#val">
+      <and>
+        <player hp="60"/>
+      </and>
+    </add>
+  </for>
+</skill>
+<skill id="3072" levels="2" name="Special Ability: Empower">
+  <table name="#magicLvl"> 64 67 </table>
+  <table name="#val"> 30.76 31.38 </table>
+  <set name="target" val="TARGET_SELF"/>
+  <set name="skillType" val="BUFF"/>
+  <set name="operateType" val="OP_PASSIVE"/>
+  <set name="magicLvl" val="#magicLvl"/>
+  <for>
+    <add order="0x40" stat="mAtk" val="#val"/>
+    <mul order="0x30" stat="pvpPhysDmg" val="1.05"/>
+    <mul order="0x30" stat="pvpPhysSkillsDmg" val="1.05"/>
+    <mul order="0x30" stat="pvpMagicalDmg" val="1.05"/>
+  </for>
+</skill>
+<skill id="3073" levels="2" name="Special Ability: Magic Power">
+  <table name="#magicLvl"> 64 67 </table>
+  <table name="#val"> 153.28 167.02 </table>
+  <set name="target" val="TARGET_SELF"/>
+  <set name="skillType" val="BUFF"/>
+  <set name="operateType" val="OP_PASSIVE"/>
+  <set name="magicLvl" val="#magicLvl"/>
+  <for>
+    <add order="0x40" stat="mAtk" val="#val"/>
+    <mul order="0x30" stat="MagicalMpConsumeRate" val="1.15"/>
+    <mul order="0x30" stat="pvpPhysDmg" val="1.05"/>
+    <mul order="0x30" stat="pvpPhysSkillsDmg" val="1.05"/>
+    <mul order="0x30" stat="pvpMagicalDmg" val="1.05"/>
+  </for>
+</skill>
+<skill id="3074" levels="2" name="Special Ability: Magic Silence">
+  <table name="#magicLvl"> 64 67 </table>
+  <set name="magicLvl" val="#magicLvl"/>
+  <set name="power" val="80"/>
+  <set name="lvlDepend" val="2"/>
+  <set name="target" val="TARGET_ONE"/>
+  <set name="skillType" val="MUTE"/>
+  <set name="isMagic" val="true"/>
+  <set name="lvlDepend" val="2"/>
+  <set name="operateType" val="OP_ACTIVE"/>
+  <set name="castRange" val="600"/>
+  <set name="effectRange" val="900"/>
+  <for>
+    <effect count="1" name="Mute" time="30" val="0" stackOrder="1" stackType="silence"/>
+  </for>
+</skill>
+<skill id="3075" levels="2" name="Special Ability: Magic Paralyze">
+  <table name="#magicLvl"> 64 67 </table>
+  <set name="magicLvl" val="#magicLvl"/>
+  <set name="power" val="40"/>
+  <set name="lvlDepend" val="1"/>
+  <set name="target" val="TARGET_ONE"/>
+  <set name="skillType" val="PARALYZE"/>
+  <set name="isMagic" val="true"/>
+  <set name="lvlDepend" val="1"/>
+  <set name="operateType" val="OP_ACTIVE"/>
+  <set name="castRange" val="400"/>
+  <set name="effectRange" val="900"/>
+  <for>
+    <effect count="1" name="Paralyze" time="20" val="0" stackOrder="1" stackType="Paralyze"/>
+  </for>
+</skill>
+<skill id="3076" levels="6" name="Special Ability: Empower">
+  <table name="#magicLvl"> 46 49 52 55 58 61 </table>
+  <table name="#mAtk"> 20.36 22.51 24.59 26.53 28.27 29.7 </table>
+  <set name="target" val="TARGET_SELF"/>
+  <set name="skillType" val="BUFF"/>
+  <set name="operateType" val="OP_PASSIVE"/>
+  <set name="magicLvl" val="#magicLvl"/>
+  <for>
+    <add order="0x40" stat="mAtk" val="#mAtk"/>
+  </for>
+</skill>
+<skill id="3077" levels="6" name="Special Ability: Magic Power">
+  <table name="#magicLvl"> 46 49 52 55 58 61 </table>
+  <table name="#val"> 75.86 87.22 99.39 112.26 125.66 139.41 </table>
+  <set name="target" val="TARGET_SELF"/>
+  <set name="skillType" val="BUFF"/>
+  <set name="operateType" val="OP_PASSIVE"/>
+  <set name="magicLvl" val="#magicLvl"/>
+  <for>
+    <add order="0x40" stat="mAtk" val="#val"/>
+    <mul order="0x30" stat="MpConsume" val="1.15"/>
+  </for>
+</skill>
+<skill id="3078" levels="6" name="Special Ability: Magic Silence">
+  <table name="#magicLvl"> 46 49 52 55 58 61 </table>
+  <set name="magicLvl" val="#magicLvl"/>
+  <set name="power" val="80"/>
+  <set name="lvlDepend" val="2"/>
+  <set name="target" val="TARGET_ONE"/>
+  <set name="skillType" val="MUTE"/>
+  <set name="isMagic" val="true"/>
+  <set name="lvlDepend" val="2"/>
+  <set name="operateType" val="OP_ACTIVE"/>
+  <set name="castRange" val="600"/>
+  <set name="effectRange" val="900"/>
+  <for>
+    <effect count="1" name="Mute" time="30" val="0" stackOrder="1" stackType="silence"/>
+  </for>
+</skill>
+<skill id="3079" levels="6" name="Special Ability: Magic Paralyze">
+  <table name="#magicLvl"> 46 49 52 55 58 61 </table>
+  <set name="magicLvl" val="#magicLvl"/>
+  <set name="target" val="TARGET_ONE"/>
+  <set name="skillType" val="WEAPON_SA"/>
+  <set name="lvlDepend" val="1"/>
+  <set name="operateType" val="OP_ACTIVE"/>
+  <set name="effectType" val="PARALYZE"/>
+  <set name="effectPower" val="20"/>
+  <for>
+    <effect count="1" name="Paralyze" time="30" val="0"/>
+  </for>
+</skill>
+<skill id="3080" levels="10" name="Item Skill: Aggression">
+  <table name="#power"> 438 467 495 523 549 574 597 617 635 659 </table>
+  <table name="#chance"> 2 2 2 3 3 3 4 4 5 5 </table>
+  <table name="#magicLvl"> 46 49 52 55 58 61 64 67 70 76 </table>
+  <set name="magicLvl" val="#magicLvl"/>
+  <set name="target" val="TARGET_ONE"/>
+  <set name="hitTime" val="1"/>
+  <set name="skillType" val="AGGDAMAGE"/>
+  <set name="isDebuff" val="true"/>
+  <set name="operateType" val="OP_CHANCE"/>
+  <set name="power" val="#power"/>
+  <set name="chanceType" val="ON_HIT"/>
+  <set name="activationChance" val="#chance"/>
+  <for>
+    <effect count="1" name="TargetMe" time="3" val="0"/>
+  </for>
+</skill>
+<skill id="3081" levels="10" name="Item Skill: Charm">
+  <table name="#chance"> 2 2 2 3 3 3 4 4 5 5 </table>
+  <table name="#triggeredLevel"> 1 2 3 4 5 6 7 8 9 10 </table>
+  <set name="target" val="TARGET_SELF"/>
+  <set name="skillType" val="BUFF"/>
+  <set name="operateType" val="OP_CHANCE"/>
+  <set name="chanceType" val="ON_HIT"/>
+  <set name="activationChance" val="#chance"/>
+  <set name="triggeredId" val="5165"/>
+  <set name="triggeredLevel" val="#triggeredLevel"/>
+</skill>
+<skill id="3082" levels="10" name="Item Skill: Mana Burn">
+  <table name="#power"> 49 53 57 61 66 70 74 78 82 88 </table>
+  <table name="#chance"> 2 2 2 3 3 3 4 4 5 5 </table>
+  <table name="#magicLvl"> 46 49 52 55 58 61 64 67 70 76 </table>
+  <set name="magicLvl" val="#magicLvl"/>
+  <set name="power" val="#power"/>
+  <set name="target" val="TARGET_ONE"/>
+  <set name="skillType" val="MANADAM"/>
+  <set name="operateType" val="OP_CHANCE"/>
+  <set name="chanceType" val="ON_HIT"/>
+  <set name="activationChance" val="#chance"/>
+  <set name="isMagic" val="true"/>
+</skill>
+<skill id="3083" levels="10" name="Item Skill: Slow">
+  <table name="#chance"> 2 2 2 3 3 3 4 4 5 5 </table>
+  <table name="#triggeredLevel"> 1 2 3 4 5 6 7 8 9 10 </table>
+  <set name="target" val="TARGET_SELF"/>
+  <set name="skillType" val="BUFF"/>
+  <set name="operateType" val="OP_CHANCE"/>
+  <set name="chanceType" val="ON_HIT"/>
+  <set name="activationChance" val="#chance"/>
+  <set name="triggeredId" val="5166"/>
+  <set name="triggeredLevel" val="#triggeredLevel"/>
+</skill>
+<skill id="3084" levels="10" name="Item Skill: Winter">
+  <table name="#chance"> 2 2 2 3 3 3 4 4 5 5 </table>
+  <table name="#triggeredLevel"> 1 2 3 4 5 6 7 8 9 10 </table>
+  <set name="target" val="TARGET_SELF"/>
+  <set name="skillType" val="BUFF"/>
+  <set name="operateType" val="OP_CHANCE"/>
+  <set name="chanceType" val="ON_HIT"/>
+  <set name="activationChance" val="#chance"/>
+  <set name="triggeredId" val="5167"/>
+  <set name="triggeredLevel" val="#triggeredLevel"/>
+</skill>
+<skill id="3085" levels="10" name="Item Skill: Stun">
+  <table name="#chance"> 2 2 2 3 3 3 4 4 5 5 </table>
+  <table name="#triggeredLevel"> 1 2 3 4 5 6 7 8 9 10 </table>
+  <set name="target" val="TARGET_SELF"/>
+  <set name="skillType" val="BUFF"/>
+  <set name="operateType" val="OP_CHANCE"/>
+  <set name="chanceType" val="ON_HIT"/>
+  <set name="activationChance" val="#chance"/>
+  <set name="triggeredId" val="5168"/>
+  <set name="triggeredLevel" val="#triggeredLevel"/>
+</skill>
+<skill id="3086" levels="10" name="Item Skill: Hold">
+  <table name="#chance"> 2 2 2 3 3 3 4 4 5 5 </table>
+  <table name="#triggeredLevel"> 1 2 3 4 5 6 7 8 9 10 </table>
+  <set name="target" val="TARGET_SELF"/>
+  <set name="skillType" val="BUFF"/>
+  <set name="operateType" val="OP_CHANCE"/>
+  <set name="chanceType" val="ON_HIT"/>
+  <set name="activationChance" val="#chance"/>
+  <set name="triggeredId" val="5169"/>
+  <set name="triggeredLevel" val="#triggeredLevel"/>
+</skill>
+<skill id="3087" levels="10" name="Item Skill: Sleep">
+  <table name="#chance"> 2 2 2 3 3 3 3 3 3 3 </table>
+  <table name="#triggeredLevel"> 1 2 3 4 5 6 7 8 9 10 </table>
+  <set name="target" val="TARGET_SELF"/>
+  <set name="skillType" val="BUFF"/>
+  <set name="operateType" val="OP_CHANCE"/>
+  <set name="chanceType" val="ON_HIT"/>
+  <set name="activationChance" val="#chance"/>
+  <set name="triggeredId" val="5170"/>
+  <set name="triggeredLevel" val="#triggeredLevel"/>
+</skill>
+<skill id="3088" levels="10" name="Item Skill: Paralyze">
+  <table name="#chance"> 2 2 2 3 3 3 3 3 3 3 </table>
+  <table name="#triggeredLevel"> 1 2 3 4 5 6 7 8 9 10 </table>
+  <set name="target" val="TARGET_SELF"/>
+  <set name="skillType" val="BUFF"/>
+  <set name="operateType" val="OP_CHANCE"/>
+  <set name="chanceType" val="ON_HIT"/>
+  <set name="activationChance" val="#chance"/>
+  <set name="triggeredId" val="5171"/>
+  <set name="triggeredLevel" val="#triggeredLevel"/>
+</skill>
+<skill id="3089" levels="10" name="Item Skill: Medusa">
+  <table name="#chance"> 2 2 2 3 3 3 3 3 3 3 </table>
+  <table name="#triggeredLevel"> 1 2 3 4 5 6 7 8 9 10 </table>
+  <set name="target" val="TARGET_SELF"/>
+  <set name="skillType" val="BUFF"/>
+  <set name="operateType" val="OP_CHANCE"/>
+  <set name="chanceType" val="ON_HIT"/>
+  <set name="activationChance" val="#chance"/>
+  <set name="triggeredId" val="5172"/>
+  <set name="triggeredLevel" val="#triggeredLevel"/>
+</skill>
+<skill id="3090" levels="10" name="Item Skill: Fear">
+  <table name="#chance"> 2 2 2 3 3 3 4 4 5 5 </table>
+  <table name="#triggeredLevel"> 1 2 3 4 5 6 7 8 9 10 </table>
+  <set name="target" val="TARGET_SELF"/>
+  <set name="skillType" val="BUFF"/>
+  <set name="operateType" val="OP_CHANCE"/>
+  <set name="chanceType" val="ON_HIT"/>
+  <set name="activationChance" val="#chance"/>
+  <set name="triggeredId" val="5173"/>
+  <set name="triggeredLevel" val="#triggeredLevel"/>
+</skill>
+<skill id="3091" levels="10" name="Item Skill: Poison">
+  <table name="#chance"> 2 2 2 3 3 3 4 4 5 5 </table>
+  <table name="#triggeredLevel"> 1 2 3 4 5 6 7 8 9 10 </table>
+  <set name="target" val="TARGET_SELF"/>
+  <set name="skillType" val="BUFF"/>
+  <set name="operateType" val="OP_CHANCE"/>
+  <set name="chanceType" val="ON_HIT"/>
+  <set name="activationChance" val="#chance"/>
+  <set name="triggeredId" val="5174"/>
+  <set name="triggeredLevel" val="#triggeredLevel"/>
+</skill>
+<skill id="3092" levels="10" name="Item Skill: Bleed">
+  <table name="#chance"> 2 2 2 3 3 3 4 4 5 5 </table>
+  <table name="#triggeredLevel"> 1 2 3 4 5 6 7 8 9 10 </table>
+  <set name="target" val="TARGET_SELF"/>
+  <set name="skillType" val="BUFF"/>
+  <set name="operateType" val="OP_CHANCE"/>
+  <set name="chanceType" val="ON_HIT"/>
+  <set name="activationChance" val="#chance"/>
+  <set name="triggeredId" val="5175"/>
+  <set name="triggeredLevel" val="#triggeredLevel"/>
+</skill>
+<skill id="3093" levels="10" name="Item Skill: Silence">
+  <table name="#chance"> 2 2 2 3 3 3 3 3 3 3 </table>
+  <table name="#triggeredLevel"> 1 2 3 4 5 6 7 8 9 10 </table>
+  <set name="target" val="TARGET_SELF"/>
+  <set name="skillType" val="BUFF"/>
+  <set name="operateType" val="OP_CHANCE"/>
+  <set name="chanceType" val="ON_HIT"/>
+  <set name="activationChance" val="#chance"/>
+  <set name="triggeredId" val="5176"/>
+  <set name="triggeredLevel" val="#triggeredLevel"/>
+</skill>
+<skill id="3094" levels="10" name="Item Skill: Doom">
+  <table name="#chance"> 2 2 2 3 3 3 4 4 5 5 </table>
+  <table name="#triggeredLevel"> 1 2 3 4 5 6 7 8 9 10 </table>
+  <set name="target" val="TARGET_SELF"/>
+  <set name="skillType" val="BUFF"/>
+  <set name="operateType" val="OP_CHANCE"/>
+  <set name="chanceType" val="ON_HIT"/>
+  <set name="activationChance" val="#chance"/>
+  <set name="triggeredId" val="5177"/>
+  <set name="triggeredLevel" val="#triggeredLevel"/>
+</skill>
+<skill id="3095" levels="10" name="Item Skill: Mana Burn">
+  <table name="#power"> 49 53 57 61 66 70 74 78 82 88 </table>
+  <table name="#chance"> 2 2 2 3 3 3 4 4 5 5 </table>
+  <table name="#magicLvl"> 46 49 52 55 58 61 64 67 70 76 </table>
+  <set name="magicLvl" val="#magicLvl"/>
+  <set name="power" val="#power"/>
+  <set name="target" val="TARGET_ONE"/>
+  <set name="skillType" val="MANADAM"/>
+  <set name="operateType" val="OP_CHANCE"/>
+  <set name="chanceType" val="ON_MAGIC_OFFENSIVE"/>
+  <set name="activationChance" val="#chance"/>
+  <set name="isMagic" val="true"/>
+</skill>
+<skill id="3096" levels="10" name="Item Skill: Slow">
+  <table name="#chance"> 2 2 2 3 3 3 4 4 5 5 </table>
+  <table name="#triggeredLevel"> 1 2 3 4 5 6 7 8 9 10 </table>
+  <set name="target" val="TARGET_SELF"/>
+  <set name="skillType" val="BUFF"/>
+  <set name="operateType" val="OP_CHANCE"/>
+  <set name="chanceType" val="ON_MAGIC_OFFENSIVE"/>
+  <set name="activationChance" val="#chance"/>
+  <set name="triggeredId" val="5166"/>
+  <set name="triggeredLevel" val="#triggeredLevel"/>
+</skill>
+<skill id="3097" levels="10" name="Item Skill: Winter">
+  <table name="#chance"> 2 2 2 3 3 3 4 4 5 5 </table>
+  <table name="#triggeredLevel"> 1 2 3 4 5 6 7 8 9 10 </table>
+  <set name="target" val="TARGET_SELF"/>
+  <set name="skillType" val="BUFF"/>
+  <set name="operateType" val="OP_CHANCE"/>
+  <set name="chanceType" val="ON_MAGIC_OFFENSIVE"/>
+  <set name="activationChance" val="#chance"/>
+  <set name="triggeredId" val="5167"/>
+  <set name="triggeredLevel" val="#triggeredLevel"/>
+</skill>
+<skill id="3098" levels="10" name="Item Skill: Stun">
+  <table name="#chance"> 2 2 2 3 3 3 4 4 5 5 </table>
+  <table name="#triggeredLevel"> 1 2 3 4 5 6 7 8 9 10 </table>
+  <set name="target" val="TARGET_SELF"/>
+  <set name="skillType" val="BUFF"/>
+  <set name="operateType" val="OP_CHANCE"/>
+  <set name="chanceType" val="ON_MAGIC_OFFENSIVE"/>
+  <set name="activationChance" val="#chance"/>
+  <set name="triggeredId" val="5168"/>
+  <set name="triggeredLevel" val="#triggeredLevel"/>
+</skill>
+<skill id="3099" levels="10" name="Item Skill: Hold">
+  <table name="#chance"> 2 2 2 3 3 3 4 4 5 5 </table>
+  <table name="#triggeredLevel"> 1 2 3 4 5 6 7 8 9 10 </table>
+  <set name="target" val="TARGET_SELF"/>
+  <set name="skillType" val="BUFF"/>
+  <set name="operateType" val="OP_CHANCE"/>
+  <set name="chanceType" val="ON_MAGIC_OFFENSIVE"/>
+  <set name="activationChance" val="#chance"/>
+  <set name="triggeredId" val="5169"/>
+  <set name="triggeredLevel" val="#triggeredLevel"/>
+</skill>
+</list>

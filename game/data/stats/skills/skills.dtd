@@ -1,0 +1,200 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+  L2J XML skills DTD
+
+  This defines a simple and consistent way of creating a namespace
+  of skills objects, managed by L2J
+
+  Each "item" element in this document defines a skill.
+
+  XML documents that conform to this DTD should declare the following doctype:
+
+  <!DOCTYPE list SYSTEM "skills.dtd">
+-->
+
+<!--
+  The document root. A document can contain item definitions only.
+-->
+<!ELEMENT list (skill)*>
+
+
+<!--
+  The document item.
+  add, sub, div and mul can modify a stat
+  set set some values
+  cond specified a condition of use
+  enchant1 define enchantement of skill
+  enchant2 define enchantement of skill
+-->
+<!ELEMENT skill (for|add|sub|div|mul|set|table|cond|enchant1|enchant1for|enchant2|enchant2for|enchant3for|enchant4for|enchant5for)*>
+
+<!--
+  The document for. A item can contain "add,mull,sub and div" element
+-->
+<!ELEMENT for (effect|add|sub|div|mul|basemul|cond|using|enchant1for|enchant2for|enchant3for|enchant4for|enchant5for|set|player)*>
+<!ELEMENT enchant1for (effect|add|sub|div|mul|cond|using|set|player)*>
+<!ELEMENT enchant2for (effect|add|sub|div|mul|cond|using|set|player)*>
+<!ELEMENT enchant3for (effect|add|sub|div|mul|cond|using|set|player)*>
+<!ELEMENT enchant4for (effect|add|sub|div|mul|cond|using|set|player)*>
+<!ELEMENT enchant5for (effect|add|sub|div|mul|cond|using|set|player)*>
+
+<!--
+  this operations could specified a condition (using a specific weapon)
+-->
+<!ELEMENT add (using|and|player)*>
+<!ELEMENT div (using|and)*>
+<!ELEMENT sub (using|and)*>
+<!ELEMENT mul (using|and|player)*>
+<!ELEMENT set (using)*>
+<!ELEMENT cond (using|player|game|target|not)*>
+
+<!ELEMENT and (using|not|player)*>
+<!ELEMENT not (using|player|target)*>
+
+
+<!ELEMENT set EMPTY>
+<!ELEMENT player EMPTY>
+<!ELEMENT target EMPTY>
+<!ELEMENT game EMPTY>
+
+<!--
+ table store values
+-->
+<!ELEMENT table (#PCDATA)>
+
+<!ELEMENT effect (mul|add|div|sub|set|basemul|target|using)*>
+<!ELEMENT using EMPTY>
+<!ELEMENT enchant1 EMPTY>
+<!ELEMENT enchant2 EMPTY>
+
+<!--
+ id and name are mandatory for an item
+-->
+<!ATTLIST skill id CDATA #REQUIRED>
+<!ATTLIST skill levels CDATA #REQUIRED>
+<!ATTLIST skill name CDATA #REQUIRED>
+<!ATTLIST skill enchantLevels1 CDATA #IMPLIED>
+<!ATTLIST skill enchantLevels2 CDATA #IMPLIED>
+<!ATTLIST skill enchantLevels3 CDATA #IMPLIED>
+<!ATTLIST skill enchantLevels4 CDATA #IMPLIED>
+<!ATTLIST skill enchantLevels5 CDATA #IMPLIED>
+
+<!ATTLIST table name CDATA #REQUIRED>
+<!--
+ all operations must specified val order and stat
+ Setters could set a bunch of value with specific name.
+-->
+<!ATTLIST set name (
+weaponsAllowed|mpInitialConsume|save|magicLvl|target|hitTime|mpConsume|power|buffDuration|
+conditionValue|condition|critical|negateLvl|negateStats|isPotion|displayId|isSuicideAttack|
+stat|bleedEffectPower|abnormal_type|num_charges|charge_skill_id|itemConsumeId|itemConsumeCount|
+skillRadius|expPenalty|npcId|isCubic|lvlDepend|ignoreShld|effectType|effectPower|absorbPart|
+absorbAbs|element|hpConsume|itemConsumeCountOT|itemConsumeTime|itemConsumeIdOT|offensive|
+iKill|iRate|canLearn|need_item_id|need_item_count|create_item_id|create_item_count|random_count|
+skill_landing_percent|minPledgeClass|skill_class|overHit|reuseDelay|skillTime|skillType|
+operateType|castRange|effectRange|isMagic|aggroPoints|coolTime|SSBoost|isDebuff|baseCritRate|
+itemConsumeSteps|summonTotalLifeTime|summonTimeLostIdle|summonTimeLostActive|effectLevel|
+lethal1|lethal2|dmgDirectlyToHp|soulConsumeCount|isBufferMagic|isAdvanced|is5MinMagic|
+nextDanceCost|isSong|isHeroMagic|isDance|isChMagic|flyType|flyRadius|onCrit|
+num_souls|nextAction|negateId|triggeredId|triggerSkillId|triggerSkillLvl|trapNpcId|
+mpConsume2|magicLevel|landingPercent|activateRate|cancelEffect|cpConsume|critChance|
+effectRange|effectId|effectNpcId|effectPoint|flyCourse|killByDOT|expNeeded|giveCharges|
+maxCharges|staticReuse|staticHitTime|bestowTriggered|triggeredLevel|activationChance|
+chanceType|bestowed|abnormalLvl|maxNegated|activationtime|activationchance|soulMaxConsumeCount|
+needCharges|consumeCharges|negatePower|pvpMulti|targetConsumeId|targetConsumeCount|triggerAnotherSkill|
+feed|continueAfterMax|referenceId
+)
+ #IMPLIED>
+<!ATTLIST set val CDATA #REQUIRED>
+<!ATTLIST set order CDATA #IMPLIED>
+<!ATTLIST set stat CDATA #IMPLIED>
+
+<!ATTLIST add val CDATA #REQUIRED>
+<!ATTLIST add order CDATA #REQUIRED>
+<!ATTLIST add stat CDATA #REQUIRED>
+
+<!ATTLIST div val CDATA #REQUIRED>
+<!ATTLIST div order CDATA #IMPLIED>
+<!ATTLIST div stat CDATA #REQUIRED>
+
+<!ATTLIST sub val CDATA #REQUIRED>
+<!ATTLIST sub order CDATA #IMPLIED>
+<!ATTLIST sub stat CDATA #REQUIRED>
+
+
+<!ATTLIST effect count CDATA #IMPLIED>
+<!ATTLIST effect name CDATA #IMPLIED>
+<!ATTLIST effect val CDATA #IMPLIED>
+<!ATTLIST effect time CDATA #IMPLIED>
+<!ATTLIST effect stackOrder CDATA #IMPLIED>
+<!ATTLIST effect stackType CDATA #IMPLIED>
+<!ATTLIST effect abnormal CDATA #IMPLIED>
+<!ATTLIST effect noicon CDATA #IMPLIED>
+<!ATTLIST effect self CDATA #IMPLIED>
+
+<!ATTLIST mul val CDATA #REQUIRED>
+<!ATTLIST mul order CDATA #IMPLIED>
+<!ATTLIST mul stat (
+stunRes|earthRes|sleepRes|fireRes|rootRes|windRes|waterRes|bowWpnRes|
+maxMp|maxLoad|maxCp|maxHp|regMp|regHp|regCp|gainHp|reflectDam|
+atkReuse|mReuse|pAtkRange|breath|rExp|rEvas|rShld|rCrit|MpConsumeRate|
+mpConsumeRate|mCritRate|mAtk|mAtkSpd|runSpd|mDef|pAtk|cAtk|pDef|sDef|
+accCombat|pAtk-dragons|pAtk-plants|pAtkSpd|pAtk-animals|pAtk-insects|
+pAtk-undead|pAtk-monsters|pDef-valakas|pAtk-valakas|cancelVuln|waterVuln|
+windVuln|fireVuln|absorbDam|bleedVuln|blowRate|bluntWpnVuln|bowWpnVuln|
+cancel|confusionVuln|critVuln|crossbowWpnVuln|daggerWpnVuln|derangementVuln|
+DanceMpConsumeRate|darkVuln|debuffVuln|earthVuln|fallVuln|gainMp|giveHp|
+holyVuln|lethalRate|lostExp|lostExpPvp|MagicalMpConsumeRate|paralyzeVuln|
+pAtk-giants|pvpPhysDmg|pvpMagicalDmg|pvpPhysSkillsDmg|pReuse|sleepVuln|
+stunVuln|rootVuln|PhysicalMpConsumeRate|poisonVuln|MpConsume|poleWpnVuln|
+pAtk-magicCreatures|pDef-animals|pDef-dragons|pDef-insects|pDef-monsters|
+pDef-plants|pAtk-magic|bowReuse|sleepProf|poisonProf|paralyzeProf|stunProf|
+dualFistWpnVuln|bleedProf|rootProf|derangementProf|swordWpnVuln|dualWpnVuln|
+bigSwordWpnVuln
+)
+ #IMPLIED>
+
+<!--
+ the use of an item could be specified for a kind of item or a dependency with another item
+-->
+<!ATTLIST using kind CDATA #IMPLIED>
+<!ATTLIST using skill CDATA #IMPLIED>
+<!ATTLIST using weaponChange CDATA #IMPLIED>
+
+<!ATTLIST target kind CDATA #IMPLIED>
+<!ATTLIST target undead CDATA #IMPLIED>
+<!ATTLIST target active_effect_id CDATA #IMPLIED>
+<!ATTLIST target battle_force CDATA #IMPLIED>
+<!ATTLIST target class_id_restriction CDATA #IMPLIED>
+<!ATTLIST target race_id CDATA #IMPLIED>
+<!ATTLIST target mindistance CDATA #IMPLIED>
+
+<!--
+ msg gives the error message if condition (using) is not valid
+-->
+<!ATTLIST cond msg CDATA #IMPLIED>
+
+<!ATTLIST enchant1 name CDATA #REQUIRED>
+<!ATTLIST enchant1 val CDATA #REQUIRED>
+<!ATTLIST enchant2 name CDATA #REQUIRED>
+<!ATTLIST enchant2 val CDATA #REQUIRED>
+
+<!ATTLIST game time CDATA #IMPLIED>
+<!ATTLIST game chance CDATA #IMPLIED>
+
+<!ATTLIST player hp CDATA #IMPLIED>
+<!ATTLIST player mp CDATA #IMPLIED>
+<!ATTLIST player cp CDATA #IMPLIED>
+<!ATTLIST player front CDATA #IMPLIED>
+<!ATTLIST player moving CDATA #IMPLIED>
+<!ATTLIST player resting (true|false) #IMPLIED>
+<!ATTLIST player running (true|false) #IMPLIED>
+<!ATTLIST player state CDATA #IMPLIED>
+<!ATTLIST player flying (true|false) #IMPLIED>
+<!ATTLIST player seed_various CDATA #IMPLIED>
+<!ATTLIST player seed_fire CDATA #IMPLIED>
+<!ATTLIST player seed_water CDATA #IMPLIED>
+<!ATTLIST player seed_wind CDATA #IMPLIED>
+<!ATTLIST player battle_force CDATA #IMPLIED>
+<!ATTLIST player behind CDATA #IMPLIED>
+<!ATTLIST player spell_force CDATA #IMPLIED>

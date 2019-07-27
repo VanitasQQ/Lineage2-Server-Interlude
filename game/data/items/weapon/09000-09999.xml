@@ -1,0 +1,592 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<list>
+  <weapon id="9000" name="Shadow Item: Stormbringer*Stormbringer" weaponType="DualSword" >
+   <set icon="icon.weapon_dual_sword_i00"/>
+   <set bodyPart="LRHAND" grade="C"/>
+   <set crystallizable="false" />
+   <set weight="780" />
+   <set mana="600"/>
+   <set sellable="false" tradeable="false" />
+   <set dropable="false" destroyable="true"/>
+
+   <stats>
+    <set stat="pAtk" order="0x8" val="175"/>
+    <set stat="mAtk" order="0x8" val="78"/>
+    <set stat="rCrit" order="0x8" val="8"/>
+    <add stat="accCombat" order="0x10" val="0"/>
+    <set stat="pAtkSpd" order="0x8" val="325"/>
+   </stats>
+  </weapon>
+  <weapon id="9001" name="Shadow Item: Great Sword" weaponType="BigSword" >
+   <set icon="icon.weapon_great_sword_i00"/>
+   <set bodyPart="LRHAND" grade="B"/>
+   <set crystallizable="false" />
+   <set weight="650" />
+   <set mana="600"/>
+   <set sellable="false" tradeable="false" />
+   <set dropable="false" destroyable="true"/>
+
+   <stats>
+    <set stat="pAtk" order="0x8" val="213"/>
+    <set stat="mAtk" order="0x8" val="91"/>
+    <set stat="rCrit" order="0x8" val="8"/>
+    <add stat="accCombat" order="0x10" val="0"/>
+    <set stat="pAtkSpd" order="0x8" val="325"/>
+   </stats>
+  </weapon>
+  <weapon id="9002" name="Shadow Item: Heavy War Axe" weaponType="Blunt" >
+   <set icon="icon.weapon_heavy_war_axe_i00"/>
+   <set bodyPart="RHAND" grade="B"/>
+   <set crystallizable="false" />
+   <set weight="540" />
+   <set mana="600"/>
+   <set sellable="false" tradeable="false" />
+   <set dropable="false" destroyable="true"/>
+
+   <stats>
+    <set stat="pAtk" order="0x8" val="175"/>
+    <set stat="mAtk" order="0x8" val="91"/>
+    <set stat="rCrit" order="0x8" val="4"/>
+    <add stat="accCombat" order="0x10" val="4"/>
+    <set stat="pAtkSpd" order="0x8" val="379"/>
+   </stats>
+  </weapon>
+  <weapon id="9003" name="Shadow Item: Sprite's Staff" weaponType="BigBlunt" >
+   <set icon="icon.weapon_sprites_staff_i00"/>
+   <set bodyPart="LRHAND" grade="B"/>
+   <set crystallizable="false" />
+   <set weight="320" />
+   <set mana="600"/>
+   <set sellable="false" tradeable="false" />
+   <set dropable="false" destroyable="true"/>
+
+   <stats>
+    <set stat="pAtk" order="0x8" val="170"/>
+    <set stat="mAtk" order="0x8" val="122"/>
+    <set stat="rCrit" order="0x8" val="4"/>
+    <add stat="accCombat" order="0x10" val="4"/>
+    <set stat="pAtkSpd" order="0x8" val="325"/>
+   </stats>
+  </weapon>
+  <weapon id="9004" name="Shadow Item: Keshanberk" weaponType="Sword" >
+   <set icon="icon.weapon_kshanberk_i00"/>
+   <set bodyPart="RHAND" grade="B"/>
+   <set crystallizable="false" />
+   <set weight="460" />
+   <set mana="600"/>
+   <set sellable="false" tradeable="false" />
+   <set dropable="false" destroyable="true"/>
+
+   <stats>
+    <set stat="pAtk" order="0x8" val="175"/>
+    <set stat="mAtk" order="0x8" val="91"/>
+    <set stat="rCrit" order="0x8" val="8"/>
+    <add stat="accCombat" order="0x10" val="0"/>
+    <set stat="pAtkSpd" order="0x8" val="379"/>
+   </stats>
+  </weapon>
+  <weapon id="9005" name="Shadow Item: Sword of Valhalla" weaponType="Sword" >
+   <set icon="icon.weapon_sword_of_valhalla_i00"/>
+   <set bodyPart="RHAND" grade="B"/>
+   <set crystallizable="false" />
+   <set weight="300" />
+   <set mana="600"/>
+   <set sellable="false" tradeable="false" />
+   <set dropable="false" destroyable="true"/>
+
+   <stats>
+    <set stat="pAtk" order="0x8" val="140"/>
+    <set stat="mAtk" order="0x8" val="122"/>
+    <set stat="rCrit" order="0x8" val="8"/>
+    <add stat="accCombat" order="0x10" val="0"/>
+    <set stat="pAtkSpd" order="0x8" val="379"/>
+   </stats>
+  </weapon>
+  <weapon id="9006" name="Shadow Item: Kris" weaponType="Dagger" >
+   <set icon="icon.weapon_kris_i00"/>
+   <set bodyPart="RHAND" grade="B"/>
+   <set crystallizable="false" />
+   <set weight="330" />
+   <set mana="600"/>
+   <set sellable="false" tradeable="false" />
+   <set dropable="false" destroyable="true"/>
+
+   <stats>
+    <set stat="pAtk" order="0x8" val="153"/>
+    <set stat="mAtk" order="0x8" val="91"/>
+    <set stat="rCrit" order="0x8" val="12"/>
+    <add stat="accCombat" order="0x10" val="-3"/>
+    <set stat="pAtkSpd" order="0x8" val="433"/>
+   </stats>
+  </weapon>
+  <weapon id="9007" name="Shadow Item: Arthro Nail" weaponType="DualFist" >
+   <set icon="icon.weapon_arthro_nail_i00"/>
+   <set bodyPart="LRHAND" grade="B"/>
+   <set crystallizable="false" />
+   <set weight="480" />
+   <set mana="600"/>
+   <set sellable="false" tradeable="false" />
+   <set dropable="false" destroyable="true"/>
+
+   <stats>
+    <set stat="pAtk" order="0x8" val="213"/>
+    <set stat="mAtk" order="0x8" val="91"/>
+    <set stat="rCrit" order="0x8" val="4"/>
+    <add stat="accCombat" order="0x10" val="4"/>
+    <set stat="pAtkSpd" order="0x8" val="325"/>
+   </stats>
+  </weapon>
+  <weapon id="9008" name="Shadow Item: Dark Elven Long Bow" weaponType="Bow" >
+   <set icon="icon.weapon_dark_elven_long_bow_i00"/>
+   <set bodyPart="LRHAND" grade="B"/>
+   <set crystallizable="false" />
+   <set weight="580" />
+   <set mana="600"/>
+   <set sellable="false" tradeable="false" />
+   <set dropable="false" destroyable="true"/>
+
+   <stats>
+    <set stat="pAtk" order="0x8" val="397"/>
+    <set stat="mAtk" order="0x8" val="100"/>
+    <set stat="rCrit" order="0x8" val="12"/>
+    <add stat="accCombat" order="0x10" val="-3"/>
+    <set stat="pAtkSpd" order="0x8" val="227"/>
+   </stats>
+  </weapon>
+  <weapon id="9009" name="Shadow Item: Sword of Delusion*Sword of Delusion" weaponType="DualSword" >
+   <set icon="icon.weapon_dual_sword_i00"/>
+   <set bodyPart="LRHAND" grade="B"/>
+   <set crystallizable="false" />
+   <set weight="720" />
+   <set mana="600"/>
+   <set sellable="false" tradeable="false" />
+   <set dropable="false" destroyable="true"/>
+
+   <stats>
+    <set stat="pAtk" order="0x8" val="213"/>
+    <set stat="mAtk" order="0x8" val="91"/>
+    <set stat="rCrit" order="0x8" val="8"/>
+    <add stat="accCombat" order="0x10" val="0"/>
+    <set stat="pAtkSpd" order="0x8" val="325"/>
+   </stats>
+  </weapon>
+  <weapon id="9010" name="Shadow Item: Great Axe" weaponType="Pole" >
+   <set icon="icon.weapon_great_axe_i00"/>
+   <set bodyPart="LRHAND" grade="B"/>
+   <set crystallizable="false" />
+   <set weight="650" />
+   <set mana="600"/>
+   <set sellable="false" tradeable="false" />
+   <set dropable="false" destroyable="true"/>
+
+   <stats>
+    <set stat="pAtk" order="0x8" val="175"/>
+    <set stat="mAtk" order="0x8" val="91"/>
+    <set stat="rCrit" order="0x8" val="8"/>
+    <add stat="accCombat" order="0x10" val="-3"/>
+    <set stat="pAtkSpd" order="0x8" val="325"/>
+    <set stat="pAtkRange" order="0x8" val="66"/>
+   </stats>
+  </weapon>
+  <weapon id="9011" name="Shadow Item: Tallum Blade" weaponType="Sword" >
+   <set icon="icon.weapon_tallum_blade_i00"/>
+   <set bodyPart="RHAND" grade="A"/>
+   <set crystallizable="false" />
+   <set weight="450" />
+   <set mana="600"/>
+   <set sellable="false" tradeable="false" />
+   <set dropable="false" destroyable="true"/>
+
+   <stats>
+    <set stat="pAtk" order="0x8" val="213"/>
+    <set stat="mAtk" order="0x8" val="107"/>
+    <set stat="rCrit" order="0x8" val="8"/>
+    <add stat="accCombat" order="0x10" val="0"/>
+    <set stat="pAtkSpd" order="0x8" val="379"/>
+   </stats>
+  </weapon>
+  <weapon id="9012" name="Shadow Item: Halberd" weaponType="Pole" >
+   <set icon="icon.weapon_halbard_i00"/>
+   <set bodyPart="LRHAND" grade="A"/>
+   <set crystallizable="false" />
+   <set weight="640" />
+   <set mana="600"/>
+   <set sellable="false" tradeable="false" />
+   <set dropable="false" destroyable="true"/>
+
+   <stats>
+    <set stat="pAtk" order="0x8" val="213"/>
+    <set stat="mAtk" order="0x8" val="107"/>
+    <set stat="rCrit" order="0x8" val="8"/>
+    <add stat="accCombat" order="0x10" val="-3"/>
+    <set stat="pAtkSpd" order="0x8" val="325"/>
+   </stats>
+  </weapon>
+  <weapon id="9013" name="Shadow Item: Dasparion's Staff" weaponType="BigBlunt" >
+   <set icon="icon.weapon_dasparions_staff_i00"/>
+   <set bodyPart="LRHAND" grade="A"/>
+   <set crystallizable="false" />
+   <set weight="310" />
+   <set mana="600"/>
+   <set sellable="false" tradeable="false" />
+   <set dropable="false" destroyable="true"/>
+
+   <stats>
+    <set stat="pAtk" order="0x8" val="207"/>
+    <set stat="mAtk" order="0x8" val="143"/>
+    <set stat="rCrit" order="0x8" val="4"/>
+    <add stat="accCombat" order="0x10" val="4"/>
+    <set stat="pAtkSpd" order="0x8" val="325"/>
+   </stats>
+  </weapon>
+  <weapon id="9014" name="Shadow Item: Bloody Orchid" weaponType="Dagger" >
+   <set icon="icon.weapon_bloody_orchid_i00"/>
+   <set bodyPart="RHAND" grade="A"/>
+   <set crystallizable="false" />
+   <set weight="320" />
+   <set mana="600"/>
+   <set sellable="false" tradeable="false" />
+   <set dropable="false" destroyable="true"/>
+
+   <stats>
+    <set stat="pAtk" order="0x8" val="186"/>
+    <set stat="mAtk" order="0x8" val="107"/>
+    <set stat="rCrit" order="0x8" val="12"/>
+    <add stat="accCombat" order="0x10" val="-3"/>
+    <set stat="pAtkSpd" order="0x8" val="433"/>
+   </stats>
+  </weapon>
+  <weapon id="9015" name="Shadow Item: Blood Tornado" weaponType="DualFist" >
+   <set icon="icon.weapon_blood_tornado_i00"/>
+   <set bodyPart="LRHAND" grade="A"/>
+   <set crystallizable="false" />
+   <set weight="460" />
+   <set mana="600"/>
+   <set sellable="false" tradeable="false" />
+   <set dropable="false" destroyable="true"/>
+
+   <stats>
+    <set stat="pAtk" order="0x8" val="259"/>
+    <set stat="mAtk" order="0x8" val="107"/>
+    <set stat="rCrit" order="0x8" val="4"/>
+    <add stat="accCombat" order="0x10" val="4"/>
+    <set stat="pAtkSpd" order="0x8" val="325"/>
+   </stats>
+  </weapon>
+  <weapon id="9016" name="Shadow Item: Carnage Bow" weaponType="Bow" >
+   <set icon="icon.weapon_carnium_bow_i00"/>
+   <set bodyPart="LRHAND" grade="A"/>
+   <set crystallizable="false" />
+   <set weight="560" />
+   <set mana="600"/>
+   <set sellable="false" tradeable="false" />
+   <set dropable="false" destroyable="true"/>
+
+   <stats>
+    <set stat="pAtk" order="0x8" val="440"/>
+    <set stat="mAtk" order="0x8" val="107"/>
+    <set stat="rCrit" order="0x8" val="12"/>
+    <add stat="accCombat" order="0x10" val="-3"/>
+    <set stat="pAtkSpd" order="0x8" val="293"/>
+   </stats>
+  </weapon>
+  <weapon id="9017" name="Shadow Item: Keshanberk*Keshanberk" weaponType="DualSword" >
+   <set icon="icon.weapon_dual_sword_i00"/>
+   <set bodyPart="LRHAND" grade="A"/>
+   <set crystallizable="false" />
+   <set weight="700" />
+   <set mana="600"/>
+   <set sellable="false" tradeable="false" />
+   <set dropable="false" destroyable="true"/>
+
+   <stats>
+    <set stat="pAtk" order="0x8" val="259"/>
+    <set stat="mAtk" order="0x8" val="107"/>
+    <set stat="rCrit" order="0x8" val="8"/>
+    <add stat="accCombat" order="0x10" val="0"/>
+    <set stat="pAtkSpd" order="0x8" val="325"/>
+   </stats>
+  </weapon>
+  <weapon id="9018" name="Shadow Item: Meteor Shower" weaponType="Blunt" >
+   <set icon="icon.weapon_meteor_shower_i00"/>
+   <set bodyPart="RHAND" grade="A"/>
+   <set crystallizable="false" />
+   <set weight="540" />
+   <set mana="600"/>
+   <set sellable="false" tradeable="false" />
+   <set dropable="false" destroyable="true"/>
+
+   <stats>
+    <set stat="pAtk" order="0x8" val="213"/>
+    <set stat="mAtk" order="0x8" val="107"/>
+    <set stat="rCrit" order="0x8" val="4"/>
+    <add stat="accCombat" order="0x10" val="4"/>
+    <set stat="pAtkSpd" order="0x8" val="379"/>
+   </stats>
+  </weapon>
+  <weapon id="9019" name="Shadow Item: Inferno Master" weaponType="BigSword" >
+   <set icon="icon.weapon_inferno_master_i00"/>
+   <set bodyPart="LRHAND" grade="A"/>
+   <set crystallizable="false" />
+   <set weight="640" />
+   <set mana="600"/>
+   <set sellable="false" tradeable="false" />
+   <set dropable="false" destroyable="true"/>
+
+   <stats>
+    <set stat="pAtk" order="0x8" val="259"/>
+    <set stat="mAtk" order="0x8" val="107"/>
+    <set stat="rCrit" order="0x8" val="8"/>
+    <add stat="accCombat" order="0x10" val="0"/>
+    <set stat="pAtkSpd" order="0x8" val="325"/>
+   </stats>
+  </weapon>
+  <weapon id="9020" name="Shadow Item: Keshanberk*Damascus" weaponType="DualSword" >
+   <set icon="icon.weapon_dual_sword_i00"/>
+   <set bodyPart="LRHAND" grade="A"/>
+   <set crystallizable="false" />
+   <set weight="693" />
+   <set mana="600"/>
+   <set sellable="false" tradeable="false" />
+   <set dropable="false" destroyable="true"/>
+
+   <stats>
+    <set stat="pAtk" order="0x8" val="275"/>
+    <set stat="mAtk" order="0x8" val="112"/>
+    <set stat="rCrit" order="0x8" val="8"/>
+    <add stat="accCombat" order="0x10" val="0"/>
+    <set stat="pAtkSpd" order="0x8" val="325"/>
+   </stats>
+  </weapon>
+  <weapon id="9021" name="Shadow Item: Dragon Slayer" weaponType="BigSword" >
+   <set icon="icon.weapon_dragon_slayer_i00"/>
+   <set bodyPart="LRHAND" grade="A"/>
+   <set crystallizable="false" />
+   <set weight="613" />
+   <set mana="600"/>
+   <set sellable="false" tradeable="false" />
+   <set dropable="false" destroyable="true"/>
+
+   <stats>
+    <set stat="pAtk" order="0x8" val="282"/>
+    <set stat="mAtk" order="0x8" val="114"/>
+    <set stat="rCrit" order="0x8" val="8"/>
+    <add stat="accCombat" order="0x10" val="0"/>
+    <set stat="pAtkSpd" order="0x8" val="325"/>
+   </stats>
+  </weapon>
+  <weapon id="9022" name="Shadow Item: Sword of Miracles" weaponType="Sword" >
+   <set icon="icon.weapon_sword_of_miracle_i00"/>
+   <set bodyPart="RHAND" grade="A"/>
+   <set crystallizable="false" />
+   <set weight="280" />
+   <set mana="600"/>
+   <set sellable="false" tradeable="false" />
+   <set dropable="false" destroyable="true"/>
+
+   <stats>
+    <set stat="pAtk" order="0x8" val="186"/>
+    <set stat="mAtk" order="0x8" val="152"/>
+    <set stat="rCrit" order="0x8" val="8"/>
+    <add stat="accCombat" order="0x10" val="0"/>
+    <set stat="pAtkSpd" order="0x8" val="379"/>
+   </stats>
+  </weapon>
+  <weapon id="9023" name="Shadow Item: Elysian" weaponType="Blunt" >
+   <set icon="icon.weapon_elysian_i00"/>
+   <set bodyPart="RHAND" grade="A"/>
+   <set crystallizable="false" />
+   <set weight="527" />
+   <set mana="600"/>
+   <set sellable="false" tradeable="false" />
+   <set dropable="false" destroyable="true"/>
+
+   <stats>
+    <set stat="pAtk" order="0x8" val="232"/>
+    <set stat="mAtk" order="0x8" val="114"/>
+    <set stat="rCrit" order="0x8" val="4"/>
+    <add stat="accCombat" order="0x10" val="4"/>
+    <set stat="pAtkSpd" order="0x8" val="379"/>
+   </stats>
+  </weapon>
+  <weapon id="9024" name="Shadow Item: Branch of the Mother Tree" weaponType="BigBlunt" >
+   <set icon="icon.weapon_worldtrees_branch_i00"/>
+   <set bodyPart="LRHAND" grade="A"/>
+   <set crystallizable="false" />
+   <set weight="300" />
+   <set mana="600"/>
+   <set sellable="false" tradeable="false" />
+   <set dropable="false" destroyable="true"/>
+
+   <stats>
+    <set stat="pAtk" order="0x8" val="226"/>
+    <set stat="mAtk" order="0x8" val="152"/>
+    <set stat="rCrit" order="0x8" val="4"/>
+    <add stat="accCombat" order="0x10" val="4"/>
+    <set stat="pAtkSpd" order="0x8" val="325"/>
+   </stats>
+  </weapon>
+  <weapon id="9025" name="Shadow Item: Soul Separator" weaponType="Dagger" >
+   <set icon="icon.weapon_soul_separator_i00"/>
+   <set bodyPart="RHAND" grade="A"/>
+   <set crystallizable="false" />
+   <set weight="317" />
+   <set mana="600"/>
+   <set sellable="false" tradeable="false" />
+   <set dropable="false" destroyable="true"/>
+
+   <stats>
+    <set stat="pAtk" order="0x8" val="203"/>
+    <set stat="mAtk" order="0x8" val="114"/>
+    <set stat="rCrit" order="0x8" val="12"/>
+    <add stat="accCombat" order="0x10" val="-3"/>
+    <set stat="pAtkSpd" order="0x8" val="433"/>
+   </stats>
+  </weapon>
+  <weapon id="9026" name="Shadow Item: Dragon Grinder" weaponType="DualFist" >
+   <set icon="icon.weapon_dragon_grinder_i00"/>
+   <set bodyPart="LRHAND" grade="A"/>
+   <set crystallizable="false" />
+   <set weight="450" />
+   <set mana="600"/>
+   <set sellable="false" tradeable="false" />
+   <set dropable="false" destroyable="true"/>
+
+   <stats>
+    <set stat="pAtk" order="0x8" val="282"/>
+    <set stat="mAtk" order="0x8" val="114"/>
+    <set stat="rCrit" order="0x8" val="4"/>
+    <add stat="accCombat" order="0x10" val="4"/>
+    <set stat="pAtkSpd" order="0x8" val="325"/>
+   </stats>
+  </weapon>
+  <weapon id="9027" name="Shadow Item: Soul Bow" weaponType="Bow" >
+   <set icon="icon.weapon_soul_bow_i00"/>
+   <set bodyPart="LRHAND" grade="A"/>
+   <set crystallizable="false" />
+   <set weight="553" />
+   <set mana="600"/>
+   <set sellable="false" tradeable="false" />
+   <set dropable="false" destroyable="true"/>
+
+   <stats>
+    <set stat="pAtk" order="0x8" val="528"/>
+    <set stat="mAtk" order="0x8" val="125"/>
+    <set stat="rCrit" order="0x8" val="12"/>
+    <add stat="accCombat" order="0x10" val="-3"/>
+    <set stat="pAtkSpd" order="0x8" val="227"/>
+   </stats>
+  </weapon>
+  <weapon id="9028" name="Shadow Item: Tallum Glaive" weaponType="Pole" >
+   <set icon="icon.weapon_tallum_glaive_i00"/>
+   <set bodyPart="LRHAND" grade="A"/>
+   <set crystallizable="false" />
+   <set weight="613" />
+   <set mana="600"/>
+   <set sellable="false" tradeable="false" />
+   <set dropable="false" destroyable="true"/>
+
+   <stats>
+    <set stat="pAtk" order="0x8" val="232"/>
+    <set stat="mAtk" order="0x8" val="114"/>
+    <set stat="rCrit" order="0x8" val="8"/>
+    <add stat="accCombat" order="0x10" val="-3"/>
+    <set stat="pAtkSpd" order="0x8" val="325"/>
+    <set stat="pAtkRange" order="0x8" val="66"/>
+   </stats>
+  </weapon>
+  <weapon id="9029" name="Shadow Item: Dark Legion" weaponType="Sword" >
+   <set icon="icon.weapon_dark_legions_edge_i00"/>
+   <set bodyPart="RHAND" grade="A"/>
+   <set crystallizable="false" />
+   <set weight="440" />
+   <set mana="600"/>
+   <set sellable="false" tradeable="false" />
+   <set dropable="false" destroyable="true"/>
+
+   <stats>
+    <set stat="pAtk" order="0x8" val="232"/>
+    <set stat="mAtk" order="0x8" val="114"/>
+    <set stat="rCrit" order="0x8" val="8"/>
+    <add stat="accCombat" order="0x10" val="0"/>
+    <set stat="pAtkSpd" order="0x8" val="379"/>
+   </stats>
+  </weapon>
+  <weapon id="9136" name="Sword of Valakas (1-Handed)" weaponType="Sword" >
+   <set icon="icon.weapon_monster_i00"/>
+   <set bodyPart="RHAND" grade="C"/>
+   <set crystallizable="true" crystal_count="0" />
+   <set weight="1380" />
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <stats>
+    <set stat="pAtk" order="0x8" val="156"/>
+    <set stat="mAtk" order="0x8" val="83"/>
+    <set stat="rCrit" order="0x8" val="8"/>
+    <add stat="accCombat" order="0x10" val="0"/>
+    <set stat="pAtkSpd" order="0x8" val="379"/>
+   </stats>
+  </weapon>
+  <weapon id="9137" name="Sword of Valakas (2-Handed)" weaponType="BigSword" >
+   <set icon="icon.weapon_monster_i00"/>
+   <set bodyPart="LRHAND" grade="D"/>
+   <set crystallizable="true" crystal_count="0" />
+   <set weight="2180" />
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <stats>
+    <set stat="pAtk" order="0x8" val="78"/>
+    <set stat="mAtk" order="0x8" val="39"/>
+    <set stat="rCrit" order="0x8" val="8"/>
+    <add stat="accCombat" order="0x10" val="0"/>
+    <set stat="pAtkSpd" order="0x8" val="325"/>
+   </stats>
+  </weapon>
+  <weapon id="9140" name="Salvation Bow" weaponType="Bow" >
+   <set icon="icon.weapon_krono_bow_i00"/>
+   <set bodyPart="LRHAND" grade="NONE"/>
+   <set crystallizable="false" />
+   <set weight="900" />
+   <set sellable="false" tradeable="false" />
+   <set dropable="false" destroyable="false"/>
+
+   <skills>
+      <skill id="3260" level="1"/>
+      <skill id="3261" level="1"/>
+      <skill id="3262" level="1"/>
+    </skills>
+
+   <stats>
+    <set stat="pAtk" order="0x8" val="1"/>
+    <set stat="mAtk" order="0x8" val="1"/>
+    <set stat="rCrit" order="0x8" val="12"/>
+    <add stat="accCombat" order="0x10" val="-3"/>
+    <set stat="pAtkSpd" order="0x8" val="293"/>
+   </stats>
+  </weapon>
+  <weapon id="9141" name="Redemption Bow" weaponType="Bow" >
+   <set icon="icon.weapon_krono_bow_i00"/>
+   <set bodyPart="LRHAND" grade="NONE"/>
+   <set crystallizable="false" />
+   <set weight="300" />
+   <set mana="230"/>
+   <set sellable="false" tradeable="false" />
+   <set dropable="false" destroyable="false"/>
+
+   <skills>
+      <skill id="3260" level="1"/>
+      <skill id="3261" level="1"/>
+      <skill id="3262" level="1"/>
+    </skills>
+
+   <stats>
+    <set stat="pAtk" order="0x8" val="1"/>
+    <set stat="mAtk" order="0x8" val="1"/>
+    <set stat="rCrit" order="0x8" val="12"/>
+    <add stat="accCombat" order="0x10" val="-3"/>
+    <set stat="pAtkSpd" order="0x8" val="293"/>
+   </stats>
+  </weapon>
+</list>

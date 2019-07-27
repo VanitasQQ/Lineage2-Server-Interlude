@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE list SYSTEM "armors.dtd">
+<list>
+<item id="6834" name="Circlet of Innadril">
+  <cond msgId="1518">
+    <and>
+      <player castle="6"/>
+      <player pledgeClass="2"/>
+    </and>
+  </cond>
+  <for>
+    <add val="0" order="0x10" stat="pDef"/>
+  </for>
+</item>
+<item id="6835" name="Circlet of Dion">
+  <cond msgId="1518">
+    <and>
+      <player castle="2"/>
+      <player pledgeClass="2"/>
+    </and>
+  </cond>
+  <for>
+    <add val="0" order="0x10" stat="pDef"/>
+  </for>
+</item>
+<item id="6836" name="Circlet of Goddard">
+  <cond msgId="1518">
+    <and>
+      <player castle="7"/>
+      <player pledgeClass="2"/>
+    </and>
+  </cond>
+  <for>
+    <add val="0" order="0x10" stat="pDef"/>
+  </for>
+</item>
+<item id="6837" name="Circlet of Oren">
+  <cond msgId="1518">
+    <and>
+      <player castle="4"/>
+      <player pledgeClass="2"/>
+    </and>
+  </cond>
+  <for>
+    <add val="0" order="0x10" stat="pDef"/>
+  </for>
+</item>
+<item id="6838" name="Circlet of Gludio">
+  <cond msgId="1518">
+    <and>
+      <player castle="1"/>
+      <player pledgeClass="2"/>
+    </and>
+  </cond>
+  <for>
+    <add val="0" order="0x10" stat="pDef"/>
+  </for>
+</item>
+<item id="6839" name="Circlet of Giran">
+  <cond msgId="1518">
+    <and>
+      <player castle="3"/>
+      <player pledgeClass="2"/>
+    </and>
+  </cond>
+  <for>
+    <add val="0" order="0x10" stat="pDef"/>
+  </for>
+</item>
+<item id="6840" name="Circlet of Aden">
+  <cond msgId="1518">
+    <and>
+      <player castle="5"/>
+      <player pledgeClass="2"/>
+    </and>
+  </cond>
+  <for>
+    <add val="0" order="0x10" stat="pDef"/>
+  </for>
+</item>
+<item id="6841" name="The Lord's Crown">
+  <cond msgId="1518">
+    <and>
+      <player castle="-1"/>
+      <player pledgeClass="-1"/>
+    </and>
+  </cond>
+  <for>
+    <add val="0" order="0x10" stat="pDef"/>
+  </for>
+</item>
+<item id="6842" name="Wings of Destiny Circlet">
+  <cond msgId="1508">
+    <player olympiad="false"/>
+  </cond>
+  <for>
+    <add val="0" order="0x10" stat="pDef"/>
+  </for>
+</item>
+<item id="6843" name="Cat Ear">
+  <for>
+    <add val="0" order="0x10" stat="pDef"/>
+  </for>
+</item>
+<item id="6844" name="Lady's Hair Pin">
+  <cond msgId="1518">
+    <player sex="1"/>
+  </cond>
+  <for>
+    <add val="0" order="0x10" stat="pDef"/>
+  </for>
+</item>
+<item id="6845" name="Pirate's Eye Patch">
+  <for>
+    <add val="0" order="0x10" stat="pDef"/>
+  </for>
+</item>
+<item id="6846" name="Monocle">
+  <for>
+    <add val="0" order="0x10" stat="pDef"/>
+  </for>
+</item>
+</list>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<list>
+  <jewelry id="8191" name="Frintezza's Necklace"  >
+   <set icon="icon.accessory_necklace_of_frintessa_i00"/>
+   <set bodyPart="NECK" grade="A"/>
+   <set crystallizable="true" crystal_count="230" />
+   <set weight="150" price="3450000"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <skills>
+      <skill id="3604" level="1"/>
+    </skills>
+
+   <stats>
+    <add stat="mDef" order="0x10" val="95"/>
+    <add stat="maxMp" order="0x40" val="42"/>
+    <enchant stat="mDef" order="0xc" val="0"/>
+   </stats>
+  </jewelry>
+</list>

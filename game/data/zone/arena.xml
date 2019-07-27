@@ -1,0 +1,264 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+  <zone id="1" name="Gludin Arena" type="Arena">
+    <settings pvp="Arena"  trade="false"/>
+    <restart_owner x="-86979" y="142402" z="-3643"/>
+    <shape type="Poly" zMin="-3752" zMax="-3352">
+      <point x="-88411" y="141732"/>
+      <point x="-87429" y="141733"/>
+      <point x="-87429" y="142708"/>
+      <point x="-88408" y="142708"/>
+    </shape>
+  </zone>
+  <zone id="2" name="Gludin Arena">
+    <settings pvp="Peace"  trade="false"/>
+    <shape type="Poly" zMin="-3723" zMax="-3223">
+      <point x="-88445" y="141473"/>
+      <point x="-87166" y="141474"/>
+      <point x="-87166" y="141726"/>
+      <point x="-88441" y="141726"/>
+    </shape>
+    <shape type="Poly" zMin="-3745" zMax="-3245">
+      <point x="-88666" y="141473"/>
+      <point x="-88417" y="141474"/>
+      <point x="-88414" y="142740"/>
+      <point x="-88666" y="142746"/>
+    </shape>
+    <shape type="Poly" zMin="-3723" zMax="-3223">
+      <point x="-88665" y="142716"/>
+      <point x="-87165" y="142716"/>
+      <point x="-87165" y="142973"/>
+      <point x="-88667" y="142973"/>
+    </shape>
+    <shape type="Poly" zMin="-3723" zMax="-3223">
+      <point x="-87418" y="141681"/>
+      <point x="-87165" y="141680"/>
+      <point x="-87166" y="142779"/>
+      <point x="-87416" y="142779"/>
+    </shape>
+  </zone>
+  <zone id="3" name="Giran Arena" type="Arena">
+    <settings pvp="Arena"  trade="false"/>
+    <restart_owner x="73890" y="142656" z="-3778"/>
+    <shape type="Poly" zMin="-3850" zMax="-3350">
+      <point x="72493" y="142263"/>
+      <point x="73493" y="142264"/>
+      <point x="73493" y="143261"/>
+      <point x="72495" y="143258"/>
+    </shape>
+    <shape type="Rect" zMin="-3598" zMax="-3598">
+      <point x="82120" y="148800"/>
+      <point x="82380" y="148410"/>
+    </shape>
+  </zone>
+  <zone id="4" name="Giran Arena">
+    <settings pvp="Peace"  trade="false"/>
+    <shape type="Poly" zMin="-3851" zMax="3351">
+      <point x="73490" y="142231"/>
+      <point x="73743" y="142232"/>
+      <point x="73741" y="143316"/>
+      <point x="73494" y="143312"/>
+    </shape>
+    <shape type="Poly" zMin="-3855" zMax="-3355">
+      <point x="72462" y="142013"/>
+      <point x="73744" y="142013"/>
+      <point x="73743" y="142268"/>
+      <point x="72461" y="142268"/>
+    </shape>
+    <shape type="Poly" zMin="-3853" zMax="-3353">
+      <point x="72244" y="142015"/>
+      <point x="72497" y="142012"/>
+      <point x="72497" y="143285"/>
+      <point x="72242" y="143280"/>
+    </shape>
+    <shape type="Poly" zMin="-3856" zMax="-3356">
+      <point x="72242" y="143255"/>
+      <point x="73743" y="143257"/>
+      <point x="73743" y="143513"/>
+      <point x="72243" y="143514"/>
+    </shape>
+  </zone>
+  <zone id="5" name="Coliseum" type="Arena">
+    <settings pvp="Arena"/>
+    <restart_owner x="147451" y="46728" z="-3410"/>
+    <shape type="Poly" zMin="-3498" zMax="-3298">
+      <point x="151252" y="45918"/>
+      <point x="151219" y="46182"/>
+      <point x="150677" y="46786"/>
+      <point x="148334" y="46788"/>
+      <point x="147748" y="46166"/>
+      <point x="147744" y="45916"/>
+      <point x="148238" y="45301"/>
+      <point x="150781" y="45307"/>
+    </shape>
+    <shape type="Poly" zMin="-3498" zMax="-3298">
+      <point x="151236" y="47268"/>
+      <point x="151255" y="47520"/>
+      <point x="150785" y="48132"/>
+      <point x="148258" y="48126"/>
+      <point x="147712" y="47532"/>
+      <point x="147728" y="47294"/>
+      <point x="148278" y="46707"/>
+      <point x="150697" y="46709"/>
+    </shape>
+    <shape type="Poly" zMin="-3587" zMax="-3387">
+      <point x="147950" y="46320"/>
+      <point x="151050" y="46320"/>
+      <point x="151050" y="47095"/>
+      <point x="147950" y="47095"/>
+    </shape>
+  </zone>
+  <zone id="6" name="Coliseum">
+    <settings pvp="Peace"  trade="false"/>
+    <shape type="Poly" zMin="-3468" zMax="-3268">
+      <point x="147779" y="46196"/>
+      <point x="147945" y="46425"/>
+      <point x="147945" y="47025"/>
+      <point x="147772" y="47256"/>
+      <point x="147078" y="47258"/>
+      <point x="147095" y="46203"/>
+    </shape>
+    <shape type="Poly" zMin="-3472" zMax="-3272">
+      <point x="151221" y="46184"/>
+      <point x="151928" y="46183"/>
+      <point x="151925" y="47248"/>
+      <point x="151222" y="47262"/>
+      <point x="151060" y="47035"/>
+      <point x="151060" y="46415"/>
+    </shape>
+  </zone>
+  <zone id="7" name="Kratei's Cube" type="Arena">
+    <settings pvp="Arena"/>
+    <shape type="Poly" zMin="-8800" zMax="-8000">
+      <point x="-86539" y="-86773"/>
+      <point x="-76539" y="-86773"/>
+      <point x="-76539" y="-77073"/>
+      <point x="-86539" y="-77073"/>
+    </shape>
+  </zone>
+  <zone id="8" name="UndergroundColiseum" type="Arena">
+    <settings pvp="Arena"/>
+    <shape type="Rect" zMin="-12538" zMax="-10920">
+      <point x="-89000" y="-41990"/>
+      <point x="-74805" y="-55890"/>
+    </shape>
+  </zone>
+
+<zone id="9" name="Lair of Baium" type="Boss">
+<settings pvp="Arena"/>
+    <shape type="Poly" zMin="9000" zMax="12480">
+      <point x="111700" y="16642"/>      
+      <point x="112987" y="14312"/>
+      <point x="112507" y="14623"/>
+      <point x="112129" y="15551"/>
+      <point x="111890" y="16230"/>
+      <point x="112067" y="16965"/>
+      <point x="112496" y="17482"/>
+      <point x="112863" y="18120"/>
+      <point x="113453" y="18561"/>
+      <point x="114135" y="18590"/>
+      <point x="114815" y="18811"/>
+      <point x="115549" y="18648"/>
+      <point x="116074" y="18205"/>
+      <point x="116776" y="17506"/>
+      <point x="117255" y="17013"/>
+      <point x="117371" y="16298"/>
+      <point x="117405" y="15925"/>
+      <point x="117236" y="15199"/>
+      <point x="117158" y="14895"/>
+      <point x="116784" y="14260"/>
+      <point x="116096" y="13902"/>
+      <point x="115159" y="13507"/>
+      <point x="114135" y="13518"/>
+      <point x="113203" y="13898"/>
+    </shape>
+  </zone>
+    <!-- QueenAnt Live zone: done by m095 /L2EmuRT/ -->
+	<zone id="10" name="Lair of QueenAnt" type="Boss">
+	<settings pvp="Arena"/>
+		<shape type="Poly" zMin="-5834" zMax="-4062">
+		<point x="-6265" y="175216"/>
+			<point x="-11332" y="171095"/>
+			<point x="-19062" y="169633"/>
+			<point x="-29085" y="169711"/>
+			<point x="-30486" y="176765"/>
+			<point x="-31577" y="196498"/>
+			<point x="-22944" y="197679"/>
+			<point x="-11409" y="196064"/>
+			<point x="-9281" y="187596"/>
+			<point x="-7206" y="179555"/>
+		</shape>
+	</zone>
+      <!-- Zaken Live zone: done by m095 /L2EmuRT/ -->
+  <zone id="11" name="Lair of Zaken" type="Boss">
+    <settings pvp="Arena"/>
+    <shape type="Poly" zMin="-4830" zMax="-2182">
+      <point x="40732" y="197679"/>
+      <point x="36790" y="198938"/>
+      <point x="36113" y="207092"/>
+      <point x="36570" y="213329"/>
+      <point x="38272" y="226444"/>
+      <point x="51533" y="224059"/>
+      <point x="59216" y="222361"/>
+      <point x="59641" y="218140"/>
+	        <point x="59769" y="207493"/>
+			<point x="56712" y="201509"/>
+						<point x="53650" y="200735"/>
+    </shape>
+  </zone>
+  <zone id="12" name="Lair of Antharas" type="Boss">
+    <settings pvp="Arena"/>
+    <shape type="Rect" zMin="-8225" zMax="-4870">
+      <point x="173439" y="110176"/>
+      <point x="187346" y="119469"/>
+    </shape>
+  </zone>
+    <zone id="13" name="Lair of Valakas" type="Boss">
+    <settings pvp="Arena"/>
+    <shape type="Rect" zMin="-1640" zMax="9880">
+      <point x="199755" y="-124724"/>
+      <point x="224677" y="-103211"/>
+    </shape>
+  </zone>
+      <zone id="14" name="Klein" type="Boss">
+    <settings pvp="Arena"/>
+    <shape type="Poly" zMin="-3340" zMax="-3294">
+      <point x="185246" y="-121237"/>
+	  <point x="185399" y="-117897"/>
+	  <point x="185828" y="-113186"/>
+	  	  <point x="181392" y="-114912"/>
+		  <point x="179595" y="-115348"/>
+		  <point x="178662" y="-119286"/>
+		  <point x="178102" y="-121707"/>
+		   <point x="180019" y="-122021"/>
+<point x="186811" y="-122119"/>
+    </shape>
+  </zone>
+  <zone id="15" name="Valakas Crystal" type="Boss">
+    <settings pvp="Arena"/>
+    <shape type="Poly" zMin="-979" zMax="-258">
+      <point x="198979" y="-104852"/>
+	  <point x="191935" y="-101836"/>
+	  <point x="185840" y="-101445"/>
+	  <point x="185280" y="-110588"/>
+	  	  <point x="186681" y="-116605"/>
+		  <point x="193018" y="-117426"/>
+		   <point x="198641" y="-116145"/>
+		   <point x="199172" y="-110181"/>
+		   <point x="199855" y="-102243"/>
+	  
+    </shape>
+  </zone>
+  <zone id="16" name="Antharas Crystal" type="Boss">
+    <settings pvp="Arena"/>
+    <shape type="Poly" zMin="-3809" zMax="-3325">
+      <point x="152624" y="121520"/>
+	        <point x="149899" y="127192"/>
+				        <point x="155806" y="127980"/>
+<point x="156463" y="121474"/>
+<point x="156412" y="117258"/>
+<point x="153386" y="117083"/>
+	  
+    </shape>
+  </zone>
+  </list>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Newbie Armor Token -->
+<list>
+	<item id="1">
+		<production id="112" count="2"/>
+		<production id="1121" count="1"/>
+		<ingredient id="7833" count="1"/>
+	</item>
+
+</list>

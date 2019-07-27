@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<list>
+	<object id="20180001" type="0" texture="town_map_darkelf_t00">
+	 <position x="15258" y="15631" z="-4366"  map_x="1" map_y="1"/>
+	</object>
+	<object id="20180002" type="0" texture="town_map_darkelf_t00">
+	 <position x="7557" y="18055" z="-4366"  map_x="1" map_y="1"/>
+	</object>
+	<object id="23120001" type="0" texture="town_map_dwarf_t00">
+	 <position x="115462" y="-177295" z="-880"  map_x="1" map_y="1"/>
+	</object>
+	<object id="23120002" type="0" texture="town_map_dwarf_t00">
+	 <position x="117450" y="-182299" z="-1488"  map_x="1" map_y="1"/>
+	</object>
+	<object id="23120003" type="0" texture="town_map_dwarf_t00">
+	 <position x="116657" y="-183997" z="-1550"  map_x="1" map_y="1"/>
+	</object>
+	<object id="21190001" type="0" texture="town_map_elf_t00">
+	 <position x="47616" y="51349" z="-2968"  map_x="1" map_y="1"/>
+	</object>
+	<object id="21190002" type="0" texture="town_map_elf_t00">
+	 <position x="45915" y="46695" z="-2969"  map_x="1" map_y="1"/>
+	</object>
+	<object id="21190003" type="0" texture="town_map_elf_t00">
+	 <position x="43175" y="51424" z="-2968"  map_x="1" map_y="1"/>
+	</object>
+	<object id="17250001" type="0" texture="town_map_talking_t00">
+	 <position x="-82873" y="244808" z="-3717"  map_x="1" map_y="1"/>
+	</object>
+	<object id="17250002" type="0" texture="town_map_talking_t00">
+	 <position x="-82765" y="241439" z="-3718"  map_x="1" map_y="1"/>
+	</object>
+	<object id="17250003" type="0" texture="town_map_talking_t00">
+	 <position x="-86121" y="241452" z="-3719"  map_x="1" map_y="1"/>
+	</object>
+	<object id="18140001" type="0" texture="town_map_orc_t00">
+	 <position x="-45824" y="-116764" z="-219"  map_x="1" map_y="1"/>
+	</object>
+	<object id="18140002" type="0" texture="town_map_orc_t00">
+	 <position x="-46504" y="-110394" z="-220"  map_x="1" map_y="1"/>
+	</object>
+	<object id="18140003" type="0" texture="town_map_orc_t00">
+	 <position x="-47332" y="-113246" z="-220"  map_x="1" map_y="1"/>
+	</object>
+	<object id="24180017" type="1" texture="none">
+	 <position x="147456" y="3272" z="-42"  map_x="0" map_y="0"/>
+	</object>
+	<object id="22190010" type="1" texture="none">
+	 <position x="83237" y="37192" z="-2286"  map_x="0" map_y="0"/>
+	</object>
+	<object id="20220010" type="1" texture="none">
+	 <position x="22073" y="160989" z="-2686"  map_x="0" map_y="0"/>
+	</object>
+	<object id="23220010" type="1" texture="none">
+	 <position x="117161" y="145097" z="-2559"  map_x="0" map_y="0"/>
+	</object>
+	<object id="19210010" type="1" texture="none">
+	 <position x="-18112" y="108761" z="-2492"  map_x="0" map_y="0"/>
+	</object>
+	<object id="23250010" type="1" texture="none">
+	 <position x="116024" y="249768" z="-782"  map_x="0" map_y="0"/>
+	</object>
+	<object id="24160024" type="1" texture="none">
+	 <position x="147464" y="-49339" z="-2123"  map_x="0" map_y="0"/>
+	</object>
+	<object id="22130016" type="1" texture="none">
+	 <position x="77551" y="-153410" z="-389"  map_x="0" map_y="0"/>
+	</object>
+	<object id="20160010" type="1" texture="none">
+	 <position x="10103" y="-49153" z="-272"  map_x="0" map_y="0"/>
+	</object>
+	<object id="20230001" type="2" texture="none">
+	 <position x="12110" y="182771" z="-3538"  map_x="0" map_y="0"/>
+	</object>
+	<object id="20230002" type="2" texture="none">
+	 <position x="12979" y="183365" z="-3538"  map_x="0" map_y="0"/>
+	</object>
+	<object id="22220001" type="2" texture="none">
+	 <position x="73766" y="142489" z="-3748"  map_x="0" map_y="0"/>
+	</object>
+	<object id="22220002" type="2" texture="none">
+	 <position x="72200" y="143102" z="-3748"  map_x="0" map_y="0"/>
+	</object>
+	<object id="17220015" type="2" texture="none">
+	 <position x="-88697" y="142316" z="-3621"  map_x="0" map_y="0"/>
+	</object>
+	<object id="17220016" type="2" texture="none">
+	 <position x="-87136" y="142491" z="-3623"  map_x="0" map_y="0"/>
+	</object>
+</list>

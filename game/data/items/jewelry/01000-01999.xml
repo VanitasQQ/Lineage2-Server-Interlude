@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<list>
+  <jewelry id="1506" name="Necklace of Courage"  >
+   <set icon="icon.accessary_necklace_of_courage_i00"/>
+   <set bodyPart="NECK" grade="NONE"/>
+   <set crystallizable="false" />
+   <set weight="150" price="66"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <stats>
+    <add stat="mDef" order="0x10" val="15"/>
+   </stats>
+  </jewelry>
+  <jewelry id="1507" name="Necklace of Valor"  >
+   <set icon="icon.accessary_necklace_of_valor_i00"/>
+   <set bodyPart="NECK" grade="NONE"/>
+   <set crystallizable="false" />
+   <set weight="150" price="4680"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <stats>
+    <add stat="mDef" order="0x10" val="21"/>
+   </stats>
+  </jewelry>
+  <jewelry id="1508" name="Ring of Raccoon"  >
+   <set icon="icon.accessary_ring_of_raccoon_i00"/>
+   <set bodyPart="LFINGER,RFINGER" grade="NONE"/>
+   <set crystallizable="false" />
+   <set weight="150" price="2340"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <stats>
+    <add stat="mDef" order="0x10" val="11"/>
+   </stats>
+  </jewelry>
+  <jewelry id="1509" name="Ring of Firefly"  >
+   <set icon="icon.accessary_ring_of_firefly_i00"/>
+   <set bodyPart="LFINGER,RFINGER" grade="NONE"/>
+   <set crystallizable="false" />
+   <set weight="150" price="2340"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <stats>
+    <add stat="mDef" order="0x10" val="11"/>
+   </stats>
+  </jewelry>
+</list>

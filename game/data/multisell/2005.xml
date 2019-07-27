@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!-- by TrueMan -->
+<list>
+	<item id="1">
+		<ingredient id="9557" count="5"/>
+		<production id="9156" count="5"/>
+	</item>
+	<item id="2">
+		<ingredient id="9557" count="5"/>
+		<production id="9157" count="5"/>
+	</item>
+	<item id="3">
+		<ingredient id="9557" count="20"/>
+		<production id="4422" count="1"/>
+	</item>
+	<item id="4">
+		<ingredient id="9557" count="20"/>
+		<production id="4423" count="1"/>
+	</item>
+	<item id="5">
+		<ingredient id="9557" count="20"/>
+		<production id="4424" count="1"/>
+	</item>
+	<item id="6">
+		<ingredient id="9557" count="1"/>
+		<production id="5592" count="50"/>
+	</item>
+	<item id="7">
+		<ingredient id="9557" count="3"/>
+		<production id="8627" count="10"/>
+	</item>
+	<item id="8">
+		<ingredient id="9557" count="3"/>
+		<production id="8639" count="15"/>
+	</item>
+    <item id="9">
+        <ingredient id="9557" count="18"/>
+        <production id="4901" count="1"/>
+    </item>
+    <item id="10">
+        <ingredient id="9557" count="18"/>
+        <production id="4900" count="1"/>
+    </item>
+    <item id="11">
+        <ingredient id="9557" count="18"/>
+        <production id="4898" count="1"/>
+    </item>
+    <item id="10">
+        <ingredient id="9557" count="18"/>
+        <production id="4897" count="1"/>
+    </item>
+</list>

@@ -1,0 +1,421 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<list>
+  <weapon id="3026" name="Talins Spear" weaponType="Pole" >
+   <set icon="icon.weapon_short_spear_i00"/>
+   <set bodyPart="LRHAND" grade="NONE"/>
+   <set crystallizable="false" />
+   <set weight="800" />
+   <set sellable="false" tradeable="false" />
+   <set dropable="false" destroyable="true"/>
+
+   <stats>
+    <set stat="pAtk" order="0x8" val="24"/>
+    <set stat="mAtk" order="0x8" val="17"/>
+    <set stat="rCrit" order="0x8" val="8"/>
+    <set stat="pAtkRange" order="0x8" val="66"/>
+    <add stat="accCombat" order="0x10" val="-3"/>
+    <set stat="pAtkSpd" order="0x8" val="325"/>
+    <enchant stat="pAtk" order="0xc" val="0"/>
+    <enchant stat="mAtk" order="0xc" val="0"/>
+   </stats>
+  </weapon>
+  <weapon id="3027" name="Old Knight's Sword" weaponType="BigSword" >
+   <set icon="icon.weapon_brandish_i00"/>
+   <set bodyPart="LRHAND" grade="NONE"/>
+   <set crystallizable="false" />
+   <set weight="2100" />
+   <set sellable="false" tradeable="false" />
+   <set dropable="false" destroyable="true"/>
+
+   <stats>
+    <set stat="pAtk" order="0x8" val="29"/>
+    <set stat="mAtk" order="0x8" val="17"/>
+    <set stat="rCrit" order="0x8" val="8"/>
+    <add stat="accCombat" order="0x10" val="0"/>
+    <set stat="pAtkSpd" order="0x8" val="325"/>
+    <enchant stat="pAtk" order="0xc" val="0"/>
+    <enchant stat="mAtk" order="0xc" val="0"/>
+   </stats>
+  </weapon>
+  <weapon id="3028" name="Crescent Moon Bow" weaponType="Bow" >
+   <set icon="icon.weapon_short_bow_i00"/>
+   <set bodyPart="LRHAND" grade="NONE"/>
+   <set crystallizable="false" />
+   <set weight="600" />
+   <set sellable="false" tradeable="false" />
+   <set dropable="false" destroyable="true"/>
+
+   <stats>
+    <set stat="pAtk" order="0x8" val="34"/>
+    <set stat="mAtk" order="0x8" val="12"/>
+    <set stat="rCrit" order="0x8" val="12"/>
+    <add stat="accCombat" order="0x10" val="-3"/>
+    <set stat="pAtkSpd" order="0x8" val="293"/>
+    <enchant stat="pAtk" order="0xc" val="0"/>
+    <enchant stat="mAtk" order="0xc" val="0"/>
+   </stats>
+  </weapon>
+  <weapon id="3029" name="Sword of Binding" weaponType="Sword" >
+   <set icon="icon.weapon_gladius_i00"/>
+   <set bodyPart="RHAND" grade="NONE"/>
+   <set crystallizable="false" />
+   <set weight="1200" />
+   <set sellable="false" tradeable="false" />
+   <set dropable="false" destroyable="true"/>
+
+   <stats>
+    <set stat="pAtk" order="0x8" val="17"/>
+    <set stat="mAtk" order="0x8" val="12"/>
+    <set stat="rCrit" order="0x8" val="8"/>
+    <add stat="accCombat" order="0x10" val="0"/>
+    <set stat="pAtkSpd" order="0x8" val="379"/>
+    <enchant stat="pAtk" order="0xc" val="0"/>
+    <enchant stat="mAtk" order="0xc" val="0"/>
+   </stats>
+  </weapon>
+  <weapon id="3439" name="Shining Canine" weaponType="Pet" >
+   <set icon="icon.etc_pet_arms_i00"/>
+   <set bodyPart="RHAND" grade="NONE"/>
+   <set crystallizable="false" />
+   <set weight="100" price="36833"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <stats>
+    <add stat="pAtk" order="0x10" val="7"/>
+    <add stat="mAtk" order="0x10" val="8"/>
+    <set stat="rCrit" order="0x8" val="80"/>
+    <set stat="pAtkSpd" order="0x8" val="304"/>
+   </stats>
+  </weapon>
+  <weapon id="3471" name="Cybellin's Dagger" weaponType="Dagger" >
+   <set icon="icon.weapon_doomed_dagger_i00"/>
+   <set bodyPart="RHAND" grade="NONE"/>
+   <set crystallizable="false" />
+   <set weight="400" />
+   <set sellable="false" tradeable="false" />
+   <set dropable="false" destroyable="false"/>
+
+   <stats>
+    <set stat="pAtk" order="0x8" val="10"/>
+    <set stat="mAtk" order="0x8" val="9"/>
+    <set stat="rCrit" order="0x8" val="12"/>
+    <add stat="accCombat" order="0x10" val="-3"/>
+    <set stat="pAtkSpd" order="0x8" val="433"/>
+    <enchant stat="pAtk" order="0xc" val="0"/>
+    <enchant stat="mAtk" order="0xc" val="0"/>
+   </stats>
+  </weapon>
+  <weapon id="3902" name="Ghost Canine" weaponType="Pet" >
+   <set icon="icon.etc_pet_arms_i00"/>
+   <set bodyPart="RHAND" grade="NONE"/>
+   <set crystallizable="false" />
+   <set weight="100" price="66083"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <stats>
+    <add stat="pAtk" order="0x10" val="11"/>
+    <add stat="mAtk" order="0x10" val="10"/>
+    <set stat="rCrit" order="0x8" val="80"/>
+    <set stat="pAtkSpd" order="0x8" val="304"/>
+   </stats>
+  </weapon>
+  <weapon id="3903" name="Mithril Canine" weaponType="Pet" >
+   <set icon="icon.etc_pet_arms_i01"/>
+   <set bodyPart="RHAND" grade="NONE"/>
+   <set crystallizable="false" />
+   <set weight="100" price="108333"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <stats>
+    <add stat="pAtk" order="0x10" val="16"/>
+    <add stat="mAtk" order="0x10" val="14"/>
+    <set stat="rCrit" order="0x8" val="80"/>
+    <set stat="pAtkSpd" order="0x8" val="304"/>
+   </stats>
+  </weapon>
+  <weapon id="3904" name="Sylvan Canine" weaponType="Pet" >
+   <set icon="icon.etc_pet_arms_i01"/>
+   <set bodyPart="RHAND" grade="NONE"/>
+   <set crystallizable="false" />
+   <set weight="100" price="173333"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <stats>
+    <add stat="pAtk" order="0x10" val="23"/>
+    <add stat="mAtk" order="0x10" val="18"/>
+    <set stat="rCrit" order="0x8" val="80"/>
+    <set stat="pAtkSpd" order="0x8" val="304"/>
+   </stats>
+  </weapon>
+  <weapon id="3905" name="Orikarukon Canine" weaponType="Pet" >
+   <set icon="icon.etc_pet_arms_i01"/>
+   <set bodyPart="RHAND" grade="NONE"/>
+   <set crystallizable="false" />
+   <set weight="100" price="260000"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <stats>
+    <add stat="pAtk" order="0x10" val="31"/>
+    <add stat="mAtk" order="0x10" val="24"/>
+    <set stat="rCrit" order="0x8" val="80"/>
+    <set stat="pAtkSpd" order="0x8" val="304"/>
+   </stats>
+  </weapon>
+  <weapon id="3906" name="Fang of Saltydog" weaponType="Pet" >
+   <set icon="icon.etc_pet_arms_i01"/>
+   <set bodyPart="RHAND" grade="NONE"/>
+   <set crystallizable="false" />
+   <set weight="100" price="379166"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <stats>
+    <add stat="pAtk" order="0x10" val="40"/>
+    <add stat="mAtk" order="0x10" val="30"/>
+    <set stat="rCrit" order="0x8" val="80"/>
+    <set stat="pAtkSpd" order="0x8" val="304"/>
+   </stats>
+  </weapon>
+  <weapon id="3907" name="Fang of Cerberus" weaponType="Pet" >
+   <set icon="icon.etc_pet_arms_i01"/>
+   <set bodyPart="RHAND" grade="NONE"/>
+   <set crystallizable="false" />
+   <set weight="100" price="450000"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <stats>
+    <add stat="pAtk" order="0x10" val="49"/>
+    <add stat="mAtk" order="0x10" val="36"/>
+    <set stat="rCrit" order="0x8" val="80"/>
+    <set stat="pAtkSpd" order="0x8" val="304"/>
+   </stats>
+  </weapon>
+  <weapon id="3908" name="Fang of Coyote" weaponType="Pet" >
+   <set icon="icon.etc_pet_arms_i02"/>
+   <set bodyPart="RHAND" grade="NONE"/>
+   <set crystallizable="false" />
+   <set weight="100" price="570000"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <stats>
+    <add stat="pAtk" order="0x10" val="58"/>
+    <add stat="mAtk" order="0x10" val="42"/>
+    <set stat="rCrit" order="0x8" val="80"/>
+    <set stat="pAtkSpd" order="0x8" val="304"/>
+   </stats>
+  </weapon>
+  <weapon id="3909" name="Crystalized Ice Canine" weaponType="Pet" >
+   <set icon="icon.etc_pet_arms_i02"/>
+   <set bodyPart="RHAND" grade="NONE"/>
+   <set crystallizable="false" />
+   <set weight="100" price="720000"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <stats>
+    <add stat="pAtk" order="0x10" val="69"/>
+    <add stat="mAtk" order="0x10" val="50"/>
+    <set stat="rCrit" order="0x8" val="80"/>
+    <set stat="pAtkSpd" order="0x8" val="304"/>
+   </stats>
+  </weapon>
+  <weapon id="3910" name="Fang of The Blue Wolf" weaponType="Pet" >
+   <set icon="icon.etc_pet_arms_i02"/>
+   <set bodyPart="RHAND" grade="NONE"/>
+   <set crystallizable="false" />
+   <set weight="100" price="1100000"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <stats>
+    <add stat="pAtk" order="0x10" val="80"/>
+    <add stat="mAtk" order="0x10" val="58"/>
+    <set stat="rCrit" order="0x8" val="80"/>
+    <set stat="pAtkSpd" order="0x8" val="304"/>
+   </stats>
+  </weapon>
+  <weapon id="3911" name="Fang of Fenril" weaponType="Pet" >
+   <set icon="icon.etc_pet_arms_i02"/>
+   <set bodyPart="RHAND" grade="NONE"/>
+   <set crystallizable="false" />
+   <set weight="100" price="1500000"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <stats>
+    <add stat="pAtk" order="0x10" val="93"/>
+    <add stat="mAtk" order="0x10" val="66"/>
+    <set stat="rCrit" order="0x8" val="80"/>
+    <set stat="pAtkSpd" order="0x8" val="304"/>
+   </stats>
+  </weapon>
+  <weapon id="3919" name="Serpent Fang" weaponType="Pet" >
+   <set icon="icon.etc_pet_arms_i03"/>
+   <set bodyPart="RHAND" grade="NONE"/>
+   <set crystallizable="false" />
+   <set weight="100" price="200000"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <stats>
+    <add stat="pAtk" order="0x10" val="8"/>
+    <add stat="mAtk" order="0x10" val="7"/>
+    <set stat="rCrit" order="0x8" val="80"/>
+    <set stat="pAtkSpd" order="0x8" val="304"/>
+   </stats>
+  </weapon>
+  <weapon id="3920" name="Viperbite" weaponType="Pet" >
+   <set icon="icon.etc_pet_arms_i03"/>
+   <set bodyPart="RHAND" grade="NONE"/>
+   <set crystallizable="false" />
+   <set weight="100" price="335833"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <stats>
+    <add stat="pAtk" order="0x10" val="9"/>
+    <add stat="mAtk" order="0x10" val="10"/>
+    <set stat="rCrit" order="0x8" val="80"/>
+    <set stat="pAtkSpd" order="0x8" val="304"/>
+   </stats>
+  </weapon>
+  <weapon id="3921" name="Shadow Fang" weaponType="Pet" >
+   <set icon="icon.etc_pet_arms_i03"/>
+   <set bodyPart="RHAND" grade="NONE"/>
+   <set crystallizable="false" />
+   <set weight="100" price="455000"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <stats>
+    <add stat="pAtk" order="0x10" val="10"/>
+    <add stat="mAtk" order="0x10" val="11"/>
+    <set stat="rCrit" order="0x8" val="80"/>
+    <set stat="pAtkSpd" order="0x8" val="304"/>
+   </stats>
+  </weapon>
+  <weapon id="3922" name="Alya Fang" weaponType="Pet" >
+   <set icon="icon.etc_pet_arms_i04"/>
+   <set bodyPart="RHAND" grade="NONE"/>
+   <set crystallizable="false" />
+   <set weight="100" price="617500"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <stats>
+    <add stat="pAtk" order="0x10" val="12"/>
+    <add stat="mAtk" order="0x10" val="13"/>
+    <set stat="rCrit" order="0x8" val="80"/>
+    <set stat="pAtkSpd" order="0x8" val="304"/>
+   </stats>
+  </weapon>
+  <weapon id="3923" name="Torturer" weaponType="Pet" >
+   <set icon="icon.etc_pet_arms_i04"/>
+   <set bodyPart="RHAND" grade="NONE"/>
+   <set crystallizable="false" />
+   <set weight="100" price="823333"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <stats>
+    <add stat="pAtk" order="0x10" val="13"/>
+    <add stat="mAtk" order="0x10" val="16"/>
+    <set stat="rCrit" order="0x8" val="80"/>
+    <set stat="pAtkSpd" order="0x8" val="304"/>
+   </stats>
+  </weapon>
+  <weapon id="3924" name="Unuk Alhay Fang" weaponType="Pet" >
+   <set icon="icon.etc_pet_arms_i04"/>
+   <set bodyPart="RHAND" grade="NONE"/>
+   <set crystallizable="false" />
+   <set weight="100" price="1100000"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <stats>
+    <add stat="pAtk" order="0x10" val="15"/>
+    <add stat="mAtk" order="0x10" val="18"/>
+    <set stat="rCrit" order="0x8" val="80"/>
+    <set stat="pAtkSpd" order="0x8" val="304"/>
+   </stats>
+  </weapon>
+  <weapon id="3925" name="Antiplague" weaponType="Pet" >
+   <set icon="icon.etc_pet_arms_i04"/>
+   <set bodyPart="RHAND" grade="NONE"/>
+   <set crystallizable="false" />
+   <set weight="100" price="1600000"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <stats>
+    <add stat="pAtk" order="0x10" val="17"/>
+    <add stat="mAtk" order="0x10" val="21"/>
+    <set stat="rCrit" order="0x8" val="80"/>
+    <set stat="pAtkSpd" order="0x8" val="304"/>
+   </stats>
+  </weapon>
+  <weapon id="3937" name="Giant Bar" weaponType="Pole" >
+   <set icon="icon.weapon_monster_i00"/>
+   <set bodyPart="LRHAND" grade="D"/>
+   <set crystallizable="true" crystal_count="744" />
+   <set weight="300" price="409000"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <stats>
+    <set stat="pAtk" order="0x8" val="50"/>
+    <set stat="mAtk" order="0x8" val="26"/>
+    <set stat="rCrit" order="0x8" val="8"/>
+    <set stat="pAtkRange" order="0x8" val="66"/>
+    <add stat="accCombat" order="0x10" val="-3"/>
+    <set stat="pAtkSpd" order="0x8" val="325"/>
+    <enchant stat="pAtk" order="0xc" val="0"/>
+    <enchant stat="mAtk" order="0xc" val="0"/>
+   </stats>
+  </weapon>
+  <weapon id="3938" name="Giant Rod" weaponType="Pole" >
+   <set icon="icon.weapon_monster_i00"/>
+   <set bodyPart="LRHAND" grade="D"/>
+   <set crystallizable="true" crystal_count="744" />
+   <set weight="300" price="409000"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <stats>
+    <set stat="pAtk" order="0x8" val="50"/>
+    <set stat="mAtk" order="0x8" val="26"/>
+    <set stat="rCrit" order="0x8" val="8"/>
+    <set stat="pAtkRange" order="0x8" val="66"/>
+    <add stat="accCombat" order="0x10" val="-3"/>
+    <set stat="pAtkSpd" order="0x8" val="325"/>
+    <enchant stat="pAtk" order="0xc" val="0"/>
+    <enchant stat="mAtk" order="0xc" val="0"/>
+   </stats>
+  </weapon>
+  <weapon id="3939" name="Lady's Fan" weaponType="Pole" >
+   <set icon="icon.weapon_monster_i00"/>
+   <set bodyPart="LRHAND" grade="D"/>
+   <set crystallizable="true" crystal_count="744" />
+   <set weight="300" price="409000"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <stats>
+    <set stat="pAtk" order="0x8" val="50"/>
+    <set stat="mAtk" order="0x8" val="26"/>
+    <set stat="rCrit" order="0x8" val="8"/>
+    <set stat="pAtkRange" order="0x8" val="66"/>
+    <add stat="accCombat" order="0x10" val="-3"/>
+    <set stat="pAtkSpd" order="0x8" val="325"/>
+    <enchant stat="pAtk" order="0xc" val="0"/>
+    <enchant stat="mAtk" order="0xc" val="0"/>
+   </stats>
+  </weapon>
+</list>

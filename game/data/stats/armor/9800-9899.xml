@@ -1,0 +1,206 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE list SYSTEM "armors.dtd">
+<list>
+<item id='9820' name="Shadow Item: Clan Oath Helm">
+  <for>
+    <add val='37' order='0x10' stat='pDef'/>
+  </for>
+</item>
+<item id='9821' name="Shadow Item: Clan Oath Armor">
+  <for>
+    <add val='158' order='0x10' stat='pDef'/>
+  </for>
+</item>
+<item id='9822' name="Shadow Item: Clan Oath Gauntlets - Heavy Armor">
+  <for>
+    <add val='24' order='0x10' stat='pDef'/>
+  </for>
+</item>
+<item id='9823' name="Shadow Item: Clan Oath Sabaton - Heavy Armor">
+  <for>
+    <add val='24' order='0x10' stat='pDef'/>
+  </for>
+</item>
+<item id='9824' name="Shadow Item: Clan Oath Brigandine">
+  <for>
+    <add val='119' order='0x10' stat='pDef'/>
+  </for>
+</item>
+<item id='9825' name="Shadow Item: Clan Oath Leather Gloves - Light Armor">
+  <for>
+    <add val='24' order='0x10' stat='pDef'/>
+  </for>
+</item>
+<item id='9826' name="Shadow Item: Clan Oath Boots - Light Armor">
+  <for>
+    <add val='24' order='0x10' stat='pDef'/>
+  </for>
+</item>
+<item id='9827' name="Shadow Item: Clan Oath Aketon">
+  <for>
+    <add val='79' order='0x10' stat='pDef'/>
+    <add val='239' order='0x40' stat='maxMp'/>
+  </for>
+</item>
+<item id='9828' name="Shadow Item: Clan Oath Padded Gloves - Robe">
+  <for>
+    <add val='24' order='0x10' stat='pDef'/>
+  </for>
+</item>
+<item id='9829' name="Shadow Item: Clan Oath Sandals - Robe">
+  <for>
+    <add val='24' order='0x10' stat='pDef'/>
+  </for>
+</item>
+<item id='9830' name="Improved Apella Helm">
+  <cond msgId="1518">
+    <player pledgeClass="5"/>
+  </cond>
+  <for>
+    <add val='73' order='0x10' stat='pDef'/>
+    <enchant val='0' order='0x0C' stat='pDef'/>
+  </for>
+</item>
+<item id='9831' name="Improved Apella Plate Armor">
+  <cond msgId="1518">
+    <player pledgeClass="5"/>
+  </cond>
+  <for>
+    <add val='293' order='0x10' stat='pDef'/>
+    <enchant val='0' order='0x0C' stat='pDef'/>
+  </for>
+</item>
+<item id='9832' name="Improved Apella Gauntlet - Heavy Armor">
+  <cond msgId="1518">
+    <player pledgeClass="5"/>
+  </cond>
+  <for>
+    <add val='49' order='0x10' stat='pDef'/>
+    <enchant val='0' order='0x0C' stat='pDef'/>
+  </for>
+</item>
+<item id='9833' name="Improved Apella Solleret - Heavy Armor">
+  <cond msgId="1518">
+    <player pledgeClass="5"/>
+  </cond>
+  <for>
+    <add val='49' order='0x10' stat='pDef'/>
+    <enchant val='0' order='0x0C' stat='pDef'/>
+  </for>
+</item>
+<item id='9834' name="Improved Apella Brigandine">
+  <cond msgId="1518">
+    <player pledgeClass="5"/>
+  </cond>
+  <for>
+    <add val='220' order='0x10' stat='pDef'/>
+    <enchant val='0' order='0x0C' stat='pDef'/>
+  </for>
+</item>
+<item id='9835' name="Improved Apella Leather Gloves - Light Armor">
+  <cond msgId="1518">
+    <player pledgeClass="5"/>
+  </cond>
+  <for>
+    <add val='49' order='0x10' stat='pDef'/>
+    <enchant val='0' order='0x0C' stat='pDef'/>
+  </for>
+</item>
+<item id='9836' name="Improved Apella Boots - Light Armor">
+  <cond msgId="1518">
+    <player pledgeClass="5"/>
+  </cond>
+  <for>
+    <add val='49' order='0x10' stat='pDef'/>
+    <enchant val='0' order='0x0C' stat='pDef'/>
+  </for>
+</item>
+<item id='9837' name="Improved Apella Doublet">
+  <cond msgId="1518">
+    <player pledgeClass="5"/>
+  </cond>
+  <for>
+    <add val='147' order='0x10' stat='pDef'/>
+    <add val='718' order='0x40' stat='maxMp'/>
+    <enchant val='0' order='0x0C' stat='pDef'/>
+  </for>
+</item>
+<item id='9838' name="Improved Apella Silk Gloves - Robe">
+  <cond msgId="1518">
+    <player pledgeClass="5"/>
+  </cond>
+  <for>
+    <add val='49' order='0x10' stat='pDef'/>
+    <enchant val='0' order='0x0C' stat='pDef'/>
+  </for>
+</item>
+<item id='9839' name="Improved Apella Sandals - Robe">
+  <cond msgId="1518">
+    <player pledgeClass="5"/>
+  </cond>
+  <for>
+    <add val='49' order='0x10' stat='pDef'/>
+    <enchant val='0' order='0x0C' stat='pDef'/>
+  </for>
+</item>
+<item id='9883' name="Teddy Bear Hat - Big Head">
+  <for>
+  </for>
+</item>
+<item id='9884' name="Piggy Hat - Big Head">
+  <for>
+  </for>
+</item>
+<item id='9885' name="Jester Hat - Big Head">
+  <for>
+  </for>
+</item>
+<item id='9886' name="Wizard Hat - Big Head">
+  <for>
+  </for>
+</item>
+<item id='9887' name="Dapper Cap - Big Head">
+  <for>
+  </for>
+</item>
+<item id='9888' name="Romantic Chapeau - Big Head">
+  <for>
+  </for>
+</item>
+<item id='9889' name="Iron Circlet - Big Head">
+  <for>
+  </for>
+</item>
+<item id='9890' name="Teddy Bear Hat - Firework">
+  <for>
+  </for>
+</item>
+<item id='9891' name="Piggy Hat - Firework">
+  <for>
+  </for>
+</item>
+<item id='9892' name="Jester Hat - Firework">
+  <for>
+  </for>
+</item>
+<item id='9893' name="Wizard Hat - Firework">
+  <for>
+  </for>
+</item>
+<item id='9894' name="Dapper Cap - Firework">
+  <for>
+  </for>
+</item>
+<item id='9895' name="Romantic Chapeau - Firework">
+  <for>
+  </for>
+</item>
+<item id='9896' name="Iron Circlet - Firework">
+  <for>
+  </for>
+</item>
+<item id='9899' name="Weight Loss Ring">
+  <for>
+  </for>
+</item>
+</list>

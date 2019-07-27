@@ -1,0 +1,229 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE list SYSTEM "armors.dtd">
+<list>
+<item id='9900' name="Quiet Footsteps Ring">
+  <for>
+  </for>
+</item>
+<item id='9909' name="Agathion Seal Bracelet">
+  <for>
+  </for>
+</item>
+<item id='9913' name="Talisman_Test">
+  <for>
+  </for>
+</item>
+<item id='9914' name="Blue Talisman of Power">
+  <for>
+  </for>
+</item>
+<item id='9915' name="Blue Talisman of Wild Magic">
+  <for>
+  </for>
+</item>
+<item id='9916' name="Blue Talisman of Defense">
+  <for>
+  </for>
+</item>
+
+<item id='9917' name="Red Talisman of Minimum Clarity">
+  <for>
+  </for>
+</item>
+<item id='9918' name="Red Talisman of Maximum Clarity">
+  <for>
+  </for>
+</item>
+<item id='9919' name="Blue Talisman of Reflection">
+  <for>
+  </for>
+</item>
+<item id='9920' name="Blue Talisman of Invisibility">
+  <for>
+  </for>
+</item>
+<item id='9921' name="Blue Talisman - Shield Protection">
+  <for>
+  </for>
+</item>
+<item id='9922' name="Black Talisman - Mending">
+  <for>
+  </for>
+</item>
+<item id='9923' name="Black Talisman - Escape">
+  <for>
+  </for>
+</item>
+<item id='9924' name="Blue Talisman of Healing">
+  <for>
+  </for>
+</item>
+<item id='9925' name="Red Talisman of Recovery">
+  <for>
+  </for>
+</item>
+<item id='9926' name="Blue Talisman of Defense">
+  <for>
+  </for>
+</item>
+<item id='9927' name="Blue Talisman of Magic Defense">
+  <for>
+  </for>
+</item>
+<item id='9928' name="Red Talisman of Mental Regeneration">
+  <for>
+  </for>
+</item>
+<item id='9929' name="Blue Talisman - Shield Protection">
+  <for>
+  </for>
+</item>
+<item id='9930' name="Blue Talisman of Evasion">
+  <for>
+  </for>
+</item>
+<item id='9931' name="Red Talisman of Meditation">
+  <for>
+  </for>
+</item>
+<item id='9932' name="Blue Talisman of Invincibility">
+  <for>
+  </for>
+</item>
+<item id='9933' name="Yellow Talisman of Power">
+  <for>
+  </for>
+</item>
+<item id='9934' name="Yellow Talisman of Violent Haste">
+  <for>
+  </for>
+</item>
+<item id='9935' name="Yellow Talisman of Arcane Defense">
+  <for>
+  </for>
+</item>
+<item id='9936' name="Yellow Talisman of Arcane Power">
+  <for>
+  </for>
+</item>
+<item id='9937' name="Yellow Talisman of Arcane Haste">
+  <for>
+  </for>
+</item>
+<item id='9938' name="Yellow Talisman of Accuracy">
+  <for>
+  </for>
+</item>
+<item id='9939' name="Yellow Talisman of Defense">
+  <for>
+  </for>
+</item>
+<item id='9940' name="Yellow Talisman of Alacrity">
+  <for>
+  </for>
+</item>
+<item id='9941' name="Yellow Talisman of Speed">
+  <for>
+  </for>
+</item>
+<item id='9942' name="Yellow Talisman of Critical Reduction">
+  <for>
+  </for>
+</item>
+<item id='9943' name="Yellow Talisman of Critical Power">
+  <for>
+  </for>
+</item>
+<item id='9944' name="Yellow Talisman of Critical Dodging">
+  <for>
+  </for>
+</item>
+<item id='9945' name="Yellow Talisman of Evasion">
+  <for>
+  </for>
+</item>
+<item id='9946' name="Yellow Talisman of Healing">
+  <for>
+  </for>
+</item>
+<item id='9947' name="Yellow Talisman of CP Regeneration">
+  <for>
+  </for>
+</item>
+<item id='9948' name="Yellow Talisman of Physical Regeneration">
+  <for>
+  </for>
+</item>
+<item id='9949' name="Yellow Talisman of Mental Regeneration">
+  <for>
+  </for>
+</item>
+<item id='9950' name="Grey Talisman of Weight Training">
+  <for>
+  </for>
+</item>
+<item id='9951' name="Grey Talisman of Mid-Grade Fishing">
+  <for>
+  </for>
+</item>
+<item id='9952' name="Orange Talisman - Hot Springs Recovery">
+  <for>
+  </for>
+</item>
+<item id='9953' name="Orange Talisman - Elixir of Life">
+  <for>
+  </for>
+</item>
+<item id='9954' name="Orange Talisman - Elixir of Mental Strength">
+  <for>
+  </for>
+</item>
+<item id='9955' name="Black Talisman of Vocalization">
+  <for>
+  </for>
+</item>
+<item id='9956' name="Black Talisman of Arcane Freedom">
+  <for>
+  </for>
+</item>
+<item id='9957' name="Black Talisman of Physical Freedom">
+  <for>
+  </for>
+</item>
+<item id='9958' name="Black Talisman of Rescue">
+  <for>
+  </for>
+</item>
+<item id='9959' name="Black Talisman of Free Speech">
+  <for>
+  </for>
+</item>
+<item id='9960' name="White Talisman of Bravery">
+  <for>
+  </for>
+</item>
+<item id='9961' name="White Talisman of Motion">
+  <for>
+  </for>
+</item>
+<item id='9962' name="White Talisman of Grounding">
+  <for>
+  </for>
+</item>
+<item id='9963' name="White Talisman of Attention">
+  <for>
+  </for>
+</item>
+<item id='9964' name="White Talisman of Bandages">
+  <for>
+  </for>
+</item>
+<item id='9965' name="White Talisman of Protection">
+  <for>
+  </for>
+</item>
+<item id='9966' name="White Talisman of Freedom">
+  <for>
+  </for>
+</item>
+</list>

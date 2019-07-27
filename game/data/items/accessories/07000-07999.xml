@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<list>
+  <accessorie id="7059" name="Golden Festival Mask"  >
+   <set icon="icon.accessory_taiwan_i00"/>
+   <set bodyPart="FACE" grade="NONE"/>
+   <set crystallizable="false" />
+   <set weight="10" />
+   <set sellable="false" tradeable="false" />
+   <set dropable="false" destroyable="true"/>
+  </accessorie>
+  <accessorie id="7060" name="Tateossian Hairband"  >
+   <set icon="icon.accessory_tateossian_i00"/>
+   <set bodyPart="FACE" grade="NONE"/>
+   <set crystallizable="false" />
+   <set weight="10" />
+   <set sellable="true" tradeable="true" />
+   <set dropable="false" destroyable="true"/>
+  </accessorie>
+  <accessorie id="7680" name="Raccoon Ears"  >
+   <set icon="icon.accessory_racoon_ear_i00"/>
+   <set bodyPart="HAIR" grade="NONE"/>
+   <set crystallizable="false" />
+   <set weight="10" price="500000"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </accessorie>
+  <accessorie id="7681" name="Outlaw's Eyepatch"  >
+   <set icon="icon.accessory_outlaw_eyepatch_i00"/>
+   <set bodyPart="FACE" grade="NONE"/>
+   <set crystallizable="false" />
+   <set weight="10" price="500000"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </accessorie>
+  <accessorie id="7682" name="Maiden's Hairpin"  >
+   <set icon="icon.accessory_maidens_hairpin_i00"/>
+   <set bodyPart="HAIR" grade="NONE"/>
+   <set crystallizable="false" />
+   <set weight="10" price="500000"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </accessorie>
+  <accessorie id="7683" name="Rabbit Ears"  >
+   <set icon="icon.accessory_rabbit_ear_i00"/>
+   <set bodyPart="HAIR" grade="NONE"/>
+   <set crystallizable="false" />
+   <set weight="10" price="500000"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </accessorie>
+  <accessorie id="7694" name="Noblesse Tiara"  >
+   <set icon="icon.accessory_noblesse_tiara_i00"/>
+   <set bodyPart="FACE" grade="NONE"/>
+   <set crystallizable="false" />
+   <set weight="10" />
+   <set sellable="false" tradeable="false" />
+   <set dropable="false" destroyable="true"/>
+  </accessorie>
+  <accessorie id="7695" name="Forget-me-not Hairpin"  >
+   <set icon="icon.accessory_forget_me_not_hairpin_i00"/>
+   <set bodyPart="HAIR" grade="NONE"/>
+   <set crystallizable="false" />
+   <set weight="10" price="500000"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </accessorie>
+  <accessorie id="7696" name="Daisy Hairpin"  >
+   <set icon="icon.accessory_daisy_hairpin_i00"/>
+   <set bodyPart="HAIR" grade="NONE"/>
+   <set crystallizable="false" />
+   <set weight="10" price="500000"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </accessorie>
+  <accessorie id="7836" name="Santa's Hat"  >
+   <set icon="icon.accessory_santas_cap_i00"/>
+   <set bodyPart="HAIRALL" grade="NONE"/>
+   <set crystallizable="false" />
+   <set weight="10" />
+   <set sellable="true" tradeable="true" />
+   <set dropable="false" destroyable="true"/>
+  </accessorie>
+  <accessorie id="7837" name="Sayha's White Mask"  >
+   <set icon="icon.accessory_full_mask_i00"/>
+   <set bodyPart="FACE" grade="NONE"/>
+   <set crystallizable="false" />
+   <set weight="10" />
+   <set sellable="false" tradeable="false" />
+   <set dropable="false" destroyable="true"/>
+  </accessorie>
+  <accessorie id="7839" name="Gran Kain's Black Mask"  >
+   <set icon="icon.accessory_full_mask_i01"/>
+   <set bodyPart="FACE" grade="NONE"/>
+   <set crystallizable="false" />
+   <set weight="10" />
+   <set sellable="false" tradeable="false" />
+   <set dropable="false" destroyable="true"/>
+  </accessorie>
+  <accessorie id="7840" name="Rabbit Ears (Event)"  >
+   <set icon="icon.accessory_rabbit_ear_i00"/>
+   <set bodyPart="HAIR" grade="NONE"/>
+   <set crystallizable="false" />
+   <set weight="10" />
+   <set sellable="false" tradeable="false" />
+   <set dropable="false" destroyable="true"/>
+  </accessorie>
+  <accessorie id="7841" name="Racoon Ears (Event)"  >
+   <set icon="icon.accessory_racoon_ear_i00"/>
+   <set bodyPart="HAIR" grade="NONE"/>
+   <set crystallizable="false" />
+   <set weight="10" />
+   <set sellable="false" tradeable="false" />
+   <set dropable="false" destroyable="true"/>
+  </accessorie>
+  <accessorie id="7842" name="Cat Ears (Event)"  >
+   <set icon="icon.accessory_cat_ear_i00"/>
+   <set bodyPart="HAIR" grade="NONE"/>
+   <set crystallizable="false" />
+   <set weight="10" />
+   <set sellable="false" tradeable="false" />
+   <set dropable="false" destroyable="true"/>
+  </accessorie>
+  <accessorie id="7843" name="Pirate's Eyepatch (Event)"  >
+   <set icon="icon.accessory_eye_bandage_i00"/>
+   <set bodyPart="FACE" grade="NONE"/>
+   <set crystallizable="false" />
+   <set weight="10" />
+   <set sellable="false" tradeable="false" />
+   <set dropable="false" destroyable="true"/>
+  </accessorie>
+  <accessorie id="7844" name="Monocle (Event)"  >
+   <set icon="icon.accessory_glasses_i00"/>
+   <set bodyPart="FACE" grade="NONE"/>
+   <set crystallizable="false" />
+   <set weight="10" />
+   <set sellable="false" tradeable="false" />
+   <set dropable="false" destroyable="true"/>
+  </accessorie>
+  <accessorie id="7845" name="Outlaw's Eyepatch (Event)"  >
+   <set icon="icon.accessory_outlaw_eyepatch_i00"/>
+   <set bodyPart="FACE" grade="NONE"/>
+   <set crystallizable="false" />
+   <set weight="10" />
+   <set sellable="false" tradeable="false" />
+   <set dropable="false" destroyable="true"/>
+  </accessorie>
+  <accessorie id="7846" name="Lady's Hairpin (Event)"  >
+   <set icon="icon.accessory_maidens_hairpin_i00"/>
+   <set bodyPart="HAIR" grade="NONE"/>
+   <set crystallizable="false" />
+   <set weight="10" />
+   <set sellable="false" tradeable="false" />
+   <set dropable="false" destroyable="true"/>
+  </accessorie>
+  <accessorie id="7847" name="Noblewoman's Hairpin (Event)"  >
+   <set icon="icon.accessory_hairpin_i00"/>
+   <set bodyPart="HAIR" grade="NONE"/>
+   <set crystallizable="false" />
+   <set weight="10" />
+   <set sellable="false" tradeable="false" />
+   <set dropable="false" destroyable="true"/>
+  </accessorie>
+  <accessorie id="7848" name="Forget-me-not Hairpin (Event)"  >
+   <set icon="icon.accessory_forget_me_not_hairpin_i00"/>
+   <set bodyPart="HAIR" grade="NONE"/>
+   <set crystallizable="false" />
+   <set weight="10" />
+   <set sellable="false" tradeable="false" />
+   <set dropable="false" destroyable="true"/>
+  </accessorie>
+  <accessorie id="7849" name="Daisy Hairpin (Event)"  >
+   <set icon="icon.accessory_daisy_hairpin_i00"/>
+   <set bodyPart="HAIR" grade="NONE"/>
+   <set crystallizable="false" />
+   <set weight="10" />
+   <set sellable="false" tradeable="false" />
+   <set dropable="false" destroyable="true"/>
+  </accessorie>
+</list>

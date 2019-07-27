@@ -1,0 +1,62 @@
+﻿<html><title>Панель управления сервером</title><body>
+<center>
+<!-- top menu -->
+<table width=240>
+<tr>
+<td><button value="Главная" action="bypass -h admin_admin" width=60 height=21 back="sek.cbui94" fore="sek.cbui94"></td>
+<td><button value="Игровая" action="bypass -h admin_gamemenu" width=60 height=21 back="sek.cbui94" fore="sek.cbui94"></td>
+<td><button value="Эфекты" action="bypass -h admin_effects" width=60 height=21 back="sek.cbui94" fore="sek.cbui94"></td>
+<td><button value="Эвенты" action="bypass -h admin_events" width=60 height=21 back="sek.cbui94" fore="sek.cbui94"></td>
+</tr>
+<tr>
+<td><button value="Сервер" action="bypass -h admin_server" width=60 height=21 back="sek.cbui94" fore="sek.cbui94"></td>
+<td><button value="Контроль" action="bypass -h admin_control" width=60 height=21 back="sek.cbui94" fore="sek.cbui94"></td>
+<td><button value="Игроки" action="bypass -h admin_players" width=60 height=21 back="sek.cbui94" fore="sek.cbui94"></td>
+<td><button value="Конфиги" action="bypass -h admin_config" width=60 height=21 back="sek.cbui94" fore="sek.cbui94"></td>
+</tr>
+</table>
+
+<!-- Windows Info -->
+<table width=260>
+<tr>
+<td width=50><font color="LEVEL"></font></td>
+<td width=160><edit var="qbox" width=160 height=19></td>
+<td width=50><font color="LEVEL"></font></td>
+</tr>
+</table><br>
+<font color="LEVEL">Контроль над игроками</font>
+<br>
+<table width=260>
+<tr>
+<td><button value="Забанить" action="bypass -h admin_banchar $qbox" width=90 height=19 back="sek.cbui94" fore="sek.cbui94"></td>
+<td><button value="Разбанить" action="bypass -h admin_unbanchar $qbox" width=90 height=19 back="sek.cbui94" fore="sek.cbui94"></td>
+</tr>
+<tr>
+<td><button value="В тюрьму" action="bypass -h admin_jail $qbox" width=90 height=19 back="sek.cbui94" fore="sek.cbui94"></td>
+<td><button value="Из тюрьмы" action="bypass -h admin_unjail $qbox" width=90 height=19 back="sek.cbui94" fore="sek.cbui94"></td>
+</tr>
+<tr>
+<td><button value="Выкинуть" action="bypass -h admin_kick $qbox" width=90 height=19 back="sek.cbui94" fore="sek.cbui94"></td>
+<td><button value="Парализовать" action="bypass -h admin_para $qbox" width=90 height=19 back="sek.cbui94" fore="sek.cbui94"></td>
+</tr>
+<tr>
+<td><button value="Бан чата" action="bypass -h admin_banchat $qbox" width=90 height=19 back="sek.cbui94" fore="sek.cbui94"></td>
+<td><button value="Разбан" action="bypass -h admin_unbanchat $qbox" width=90 height=19 back="sek.cbui94" fore="sek.cbui94"></td>
+</tr>
+</table>
+<br><font color="LEVEL">Контроль над аккаунтами</font>
+<table width=260>
+<tr>
+<td><button value="Забанить" action="bypass -h admin_ban $qbox" width=90 height=19 back="sek.cbui94" fore="sek.cbui94"></td>
+<td><button value="Разбанить" action="bypass -h admin_unban $qbox" width=90 height=19 back="sek.cbui94" fore="sek.cbui94"></td>
+</tr>
+</table>
+<br><font color="LEVEL">Система петиций</font>
+<table width=270>
+<tr>
+<td><button value="Смотреть" action="bypass -h admin_view_petitions" width=90 height=19 back="sek.cbui94" fore="sek.cbui94"></td>
+<td><button value="Вкл/Выкл" action="bypass -h admin_change_peti_state" width=90 height=19 back="sek.cbui94" fore="sek.cbui94"></td>
+</tr>
+</table>
+
+</center></body></html>

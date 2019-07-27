@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<list>
+  <accessorie id="6394" name="Red Party Mask"  >
+   <set icon="icon.etc_party_mask_i01"/>
+   <set bodyPart="FACE" grade="NONE"/>
+   <set crystallizable="false" />
+   <set weight="10" price="500000"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </accessorie>
+  <accessorie id="6834" name="Circlet of Innadril"  >
+   <set icon="icon.accessory_pledge_cap1_i00"/>
+   <set bodyPart="FACE" grade="NONE"/>
+   <set crystallizable="false" />
+   <set weight="10" price="500000"/>
+   <set sellable="true" tradeable="false" />
+   <set dropable="false" destroyable="false"/>
+
+   <skills>
+      <skill id="3633" level="1"/>
+    </skills>
+  </accessorie>
+  <accessorie id="6835" name="Circlet of Dion"  >
+   <set icon="icon.accessory_pledge_cap1_i02"/>
+   <set bodyPart="FACE" grade="NONE"/>
+   <set crystallizable="false" />
+   <set weight="10" price="500000"/>
+   <set sellable="true" tradeable="false" />
+   <set dropable="false" destroyable="false"/>
+
+   <skills>
+      <skill id="3633" level="1"/>
+    </skills>
+  </accessorie>
+  <accessorie id="6836" name="Circlet of Goddard"  >
+   <set icon="icon.accessory_pledge_cap1_i03"/>
+   <set bodyPart="FACE" grade="NONE"/>
+   <set crystallizable="false" />
+   <set weight="10" price="500000"/>
+   <set sellable="true" tradeable="false" />
+   <set dropable="false" destroyable="false"/>
+
+   <skills>
+      <skill id="3633" level="2"/>
+    </skills>
+  </accessorie>
+  <accessorie id="6837" name="Circlet of Oren"  >
+   <set icon="icon.accessory_pledge_cap1_i04"/>
+   <set bodyPart="FACE" grade="NONE"/>
+   <set crystallizable="false" />
+   <set weight="10" price="500000"/>
+   <set sellable="true" tradeable="false" />
+   <set dropable="false" destroyable="false"/>
+
+   <skills>
+      <skill id="3633" level="1"/>
+    </skills>
+  </accessorie>
+  <accessorie id="6838" name="Circlet of Gludio"  >
+   <set icon="icon.accessory_pledge_cap1_i05"/>
+   <set bodyPart="FACE" grade="NONE"/>
+   <set crystallizable="false" />
+   <set weight="10" price="500000"/>
+   <set sellable="true" tradeable="false" />
+   <set dropable="false" destroyable="false"/>
+
+   <skills>
+      <skill id="3633" level="1"/>
+    </skills>
+  </accessorie>
+  <accessorie id="6839" name="Circlet of Giran"  >
+   <set icon="icon.accessory_pledge_cap1_i06"/>
+   <set bodyPart="FACE" grade="NONE"/>
+   <set crystallizable="false" />
+   <set weight="10" price="500000"/>
+   <set sellable="true" tradeable="false" />
+   <set dropable="false" destroyable="false"/>
+
+   <skills>
+      <skill id="3633" level="1"/>
+    </skills>
+  </accessorie>
+  <accessorie id="6840" name="Circlet of Aden"  >
+   <set icon="icon.accessory_pledge_cap2_i07"/>
+   <set bodyPart="FACE" grade="NONE"/>
+   <set crystallizable="false" />
+   <set weight="10" price="500000"/>
+   <set sellable="true" tradeable="false" />
+   <set dropable="false" destroyable="false"/>
+
+   <skills>
+      <skill id="3633" level="2"/>
+    </skills>
+  </accessorie>
+  <accessorie id="6841" name="The Lord's Crown"  >
+   <set icon="icon.accessory_crown_i00"/>
+   <set bodyPart="FACE" grade="NONE"/>
+   <set crystallizable="false" />
+   <set weight="10" />
+   <set sellable="false" tradeable="false" />
+   <set dropable="false" destroyable="false"/>
+
+   <skills>
+      <skill id="3632" level="1"/>
+      <skill id="3633" level="2"/>
+    </skills>
+  </accessorie>
+  <accessorie id="6842" name="Wings of Destiny Circlet"  >
+   <set icon="icon.accessory_hero_cap_i00"/>
+   <set bodyPart="FACE" grade="NONE"/>
+   <set crystallizable="false" />
+   <set weight="10" />
+   <set sellable="false" tradeable="false" />
+   <set dropable="false" destroyable="true"/>
+  </accessorie>
+  <accessorie id="6843" name="Cat Ear"  >
+   <set icon="icon.accessory_cat_ear_i00"/>
+   <set bodyPart="HAIR" grade="NONE"/>
+   <set crystallizable="false" />
+   <set weight="10" price="500000"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </accessorie>
+  <accessorie id="6844" name="Lady's Hair Pin"  >
+   <set icon="icon.accessory_hairpin_i00"/>
+   <set bodyPart="HAIR" grade="NONE"/>
+   <set crystallizable="false" />
+   <set weight="10" price="500000"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </accessorie>
+  <accessorie id="6845" name="Pirate's Eye Patch"  >
+   <set icon="icon.accessory_eye_bandage_i00"/>
+   <set bodyPart="FACE" grade="NONE"/>
+   <set crystallizable="false" />
+   <set weight="10" price="500000"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </accessorie>
+  <accessorie id="6846" name="Monocle"  >
+   <set icon="icon.accessory_glasses_i00"/>
+   <set bodyPart="FACE" grade="NONE"/>
+   <set crystallizable="false" />
+   <set weight="10" price="500000"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </accessorie>
+</list>

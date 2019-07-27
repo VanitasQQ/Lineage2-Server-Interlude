@@ -1,0 +1,29 @@
+<html><title>Панель управления сервером</title><body>
+<center>
+<table width=270>
+<tr>
+<td width=45><button value="Main" action="bypass -h admin_admin" width=45 height=19 back="sek.cbui94" fore="sek.cbui94"></td>
+<td width=180><center><font color="LEVEL">IP %ip%</font></center></td>
+<td width=45><button value="Back" action="bypass -h admin_current_player" width=45 height=19 back="sek.cbui94" fore="sek.cbui94"></td>
+</tr>
+</table>
+
+<br><font color="LEVEL">Поиск по IP</font>
+<table width=270><tr>
+<td><edit var="ip_number" width=200></td>
+<td><button value="Поиск" action="bypass -h admin_find_ip $ip_number" width=50 height=19 back="sek.cbui94" fore="sek.cbui94"></td>
+</tr></table></center>
+<font color="B22222">[*]:</font> <font color="CCCC99">Используйте патерну:</font> <font color="LEVEL">w.x.y.z</font>
+
+<center>
+<br><font color="LEVEL">Список игроков</font>
+<img src="L2UI.SquareWhite" width=270 height=1>
+<img src="L2UI.SquareBlank" width=1 height=3>
+<table width=270>
+<tr><td width=80>Имя</td><td width=110>Класс</td><td width=40>Уровень</td></tr>
+%results%
+</table><br>
+<img src="L2UI.SquareBlank" width=1 height=3>
+<img src="L2UI.SquareWhite" width=270 height=1>
+<br><font color="CCCC99">Количесво совпадений: %number%</font>
+</center></body></html>

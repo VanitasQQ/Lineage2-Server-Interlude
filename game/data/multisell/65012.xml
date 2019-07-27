@@ -1,0 +1,139 @@
+<?xml version='1.0' encoding='utf-8'?>
+
+<!-- Created with Lineage II - Multisell Manager -->
+<!-- © 2007 by tReXpert -->
+
+<list maintainEnchantment="true">
+
+  <!-- Crystal: D-Grade -->
+  <item id="1">
+    <ingredient id="57" count="650"/>
+    <production id="1458" count="1"/>
+  </item>
+
+  <!-- Crystal: C-Grade -->
+  <item id="2">
+    <ingredient id="57" count="3000"/>
+    <production id="1459" count="1"/>
+  </item>
+
+  <!-- Crystal: B-Grade -->
+  <item id="3">
+    <ingredient id="57" count="9000"/>
+    <production id="1460" count="1"/>
+  </item>
+
+  <!-- Gemstone D -->
+  <item id="4">
+    <ingredient id="57" count="1000"/>
+    <production id="2130" count="1"/>
+  </item>
+
+  <!-- Gemstone C -->
+  <item id="5">
+    <ingredient id="57" count="3000"/>
+    <production id="2131" count="1"/>
+  </item>
+
+  <!-- Gemstone B -->
+  <item id="6">
+    <ingredient id="57" count="10000"/>
+    <production id="2132" count="1"/>
+  </item>
+
+  <!-- Spirit Ore -->
+  <item id="7">
+    <ingredient id="57" count="400"/>
+    <production id="3031" count="1"/>
+  </item>
+
+  <!-- Soul Ore -->
+  <item id="8">
+    <ingredient id="57" count="250"/>
+    <production id="1785" count="1"/>
+  </item>
+
+  <!-- Energy Stone -->
+  <item id="9">
+    <ingredient id="57" count="100"/>
+    <production id="5589" count="1"/>
+  </item>
+
+  <!-- Summoning Crystal -->
+  <item id="10">
+    <ingredient id="57" count="35000"/>
+    <production id="8615" count="1"/>
+  </item>
+
+  <!-- Mana Potion -->
+  <item id="11">
+    <ingredient id="57" count="2000"/>
+    <production id="728" count="1"/>
+  </item>
+
+  <!-- Greater Healing Potion -->
+  <item id="12">
+    <ingredient id="57" count="1080"/>
+    <production id="1539" count="1"/>
+  </item>
+
+  <!-- Scroll: Recovery (Grade S) -->
+  <item id="13">
+    <ingredient id="57" count="80000"/>
+    <production id="8599" count="1"/>
+  </item>
+  
+    <!-- Dualsword Craft Stamp -->
+  <item id="14">
+    <ingredient id="57" count="100000000"/>
+    <production id="5126" count="1"/>
+  </item>
+ 
+    <!-- Phoenix Blood -->
+  <item id="15">
+    <ingredient id="57" count="39000"/>
+    <production id="8873" count="1"/>
+  </item>
+   
+    <!-- Einhasad's Holy Water -->
+  <item id="16">
+    <ingredient id="57" count="39000"/>
+    <production id="8874" count="1"/>
+  </item>
+     
+    <!-- Battle Symbol -->
+  <item id="17">
+    <ingredient id="57" count="39000"/>
+    <production id="8875" count="1"/>
+  </item>
+       
+    <!-- Magic Symbol -->
+  <item id="18">
+    <ingredient id="57" count="39000"/>
+    <production id="8876" count="1"/>
+  </item>
+
+   <!-- Scroll: Enchant Weapon (C) -->
+  <item id="19">
+    <ingredient id="57" count="15000000"/>
+    <production id="951" count="1"/>
+  </item>
+   
+    <!-- Scroll: Enchant Armor (C) -->
+  <item id="20">
+    <ingredient id="57" count="10000000"/>
+    <production id="952" count="1"/>
+  </item>
+     
+    <!-- Scroll: Enchant Weapon (B) -->
+  <item id="21">
+    <ingredient id="57" count="25000000"/>
+    <production id="947" count="1"/>
+  </item>
+       
+    <!-- Scroll: Enchant Armor (B) -->
+  <item id="22">
+    <ingredient id="57" count="20000000"/>
+    <production id="948" count="1"/>
+  </item>
+</list>

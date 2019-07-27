@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+	<enchantHP grade="1" fullArmor="false" values="0, 0, 0, 9, 26, 52, 86, 130, 181, 242"/>
+	<enchantHP grade="1" fullArmor="true" values="0, 0, 0, 13, 39, 78, 129, 195, 271, 363"/>
+	<enchantHP grade="2" fullArmor="false" values="0, 0, 0, 12, 36, 71, 118, 178, 249, 332"/>
+	<enchantHP grade="2" fullArmor="true" values="0, 0, 0, 18, 54, 106, 177, 267, 373, 498"/>
+	<enchantHP grade="3" fullArmor="false" values="0, 0, 0, 14, 42, 84, 139, 209, 293, 390"/>
+	<enchantHP grade="3" fullArmor="true" values="0, 0, 0, 21, 63, 126, 208, 313, 439, 585"/>
+	<enchantHP grade="4" fullArmor="false" values="0, 0, 0, 16, 47, 94, 157, 235, 329, 439"/>
+	<enchantHP grade="4" fullArmor="true" values="0, 0, 0, 24, 70, 141, 235, 352, 493, 658"/>
+	<enchantHP grade="5" fullArmor="false" values="0, 0, 0, 17, 52, 104, 173, 259, 363, 484"/>
+	<enchantHP grade="5" fullArmor="true" values="0, 0, 0, 25, 78, 156, 259, 388, 544, 726"/> 
+</list>

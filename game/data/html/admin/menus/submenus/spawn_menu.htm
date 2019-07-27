@@ -1,0 +1,53 @@
+<html><title>Панель управления сервером</title><body>
+<center>
+<font color="CCCC99">CopyRight L2CatsSoftware © 2009-2010</font>
+<!-- top menu -->
+<table width=240>
+<tr>
+<td><button value="Главная" action="bypass -h admin_admin" width=60 height=19 back="sek.cbui94" fore="sek.cbui94"></td>
+<td><button value="Игровая" action="bypass -h admin_gamemenu" width=60 height=19 back="sek.cbui94" fore="sek.cbui94"></td>
+<td><button value="Эфекты" action="bypass -h admin_effects" width=60 height=19 back="sek.cbui94" fore="sek.cbui94"></td>
+<td><button value="Эвенты" action="bypass -h admin_events" width=60 height=19 back="sek.cbui94" fore="sek.cbui94"></td>
+</tr>
+<tr>
+<td><button value="Сервер" action="bypass -h admin_server" width=60 height=19 back="sek.cbui94" fore="sek.cbui94"></td>
+<td><button value="Контроль" action="bypass -h admin_control" width=60 height=19 back="sek.cbui94" fore="sek.cbui94"></td>
+<td><button value="Игроки" action="bypass -h admin_players" width=60 height=19 back="sek.cbui94" fore="sek.cbui94"></td>
+<td><button value="Конфиги" action="bypass -h admin_config" width=60 height=19 back="sek.cbui94" fore="sek.cbui94"></td>
+</tr>
+</table>
+
+<font color="LEVEL">Спавн NPC</font><br>
+<table width=260>
+<tr>
+<td width=85><font color="LEVEL">Id or Name:</font></td>
+<td width=85><font color="LEVEL">Count:</font></td>
+<td width=85><font color="LEVEL">Radius:</font></td>
+</tr>
+<tr>
+<td width=85><edit var="id" width=85></td>
+<td width=85><edit var="ct" width=85></td>
+<td width=85><edit var="rd" width=85></td>
+</tr>
+</table>
+
+<br><font color="B22222">[*]:</font> <font color="CCCC99">Для спавна 1 Npc не указыватe Count и Radius</font>
+
+<table width=260>
+<tr>
+<td width=90><button value="SPAWN Store" action="bypass -h admin_spawn $id $ct $rd" width=90 height=19 back="sek.cbui94" fore="sek.cbui94"></td>
+<td width=90><button value="SPAWN Once" action="bypass -h admin_spawn_once $id $ct $rd" width=90 height=19 back="sek.cbui94" fore="sek.cbui94"></td>
+<td width=90><button value="SPAWN Cuctom" action="bypass -h admin_cspawn $id $ct $rd" width=90 height=19 back="sek.cbui94" fore="sek.cbui94"></td>
+</tr>
+</table>
+
+
+<br><font color="LEVEL">Дополнительные команды</font>
+<table width=190>
+<tr>
+<td width=95><button value="Day Npc's" action="bypass -h admin_spawnday" width=90 height=19 back="sek.cbui94" fore="sek.cbui94"></td>
+<td width=95><button value="Night Npc's" action="bypass -h admin_spawnnight" width=90 height=19 back="sek.cbui94" fore="sek.cbui94"></td>
+</tr>
+</table>
+</center>
+</body></html>

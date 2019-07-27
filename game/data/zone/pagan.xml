@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+  <zone id="1" name="Pagans Mark" type="Pagan">
+    <shape type="Poly" zMin="-10735" zMax="-10720">
+      <point x="-16100" y="-36620"/>
+      <point x="-16600" y="-36620"/>
+      <point x="-16600" y="-36925"/>
+      <point x="-16100" y="-36925"/>
+    </shape>
+  </zone>
+</list>

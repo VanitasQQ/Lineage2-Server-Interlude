@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE list SYSTEM "armors.dtd">
+<list>
+<item id='9391' name="Human Circlet">
+  <cond msgId="1518">
+    <player race="Human"/>
+  </cond>
+  <for>
+  </for>
+</item>
+<item id='9392' name="Elven Circlet">
+  <cond msgId="1518">
+    <player race="Elf"/>
+  </cond>
+  <for>
+  </for>
+</item>
+<item id='9393' name="Dark Elven Circlet">
+  <cond msgId="1518">
+    <player race="Darkelf"/>
+  </cond>
+  <for>
+  </for>
+</item>
+<item id='9394' name="Orcish Circlet">
+  <cond msgId="1518">
+    <player race="Orc"/>
+  </cond>
+  <for>
+  </for>
+</item>
+<item id='9395' name="Dwarven Circlet">
+  <cond msgId="1518">
+    <player race="Dwarf"/>
+  </cond>
+  <for>
+  </for>
+</item>
+<item id='9396' name="Kamaelic Circlet">
+  <cond msgId="1518">
+    <player race="Kamael"/>
+  </cond>
+  <for>
+  </for>
+</item>
+<item id='9397' name="Shield Master Circlet">
+  <cond msgId="1518">
+    <target class_id_restriction="90, 91, 99, 106"/>
+  </cond>
+  <for>
+  </for>
+</item>
+<item id='9398' name="Bard Circlet">
+  <cond msgId="1518">
+    <target class_id_restriction="100, 107"/>
+  </cond>
+  <for>
+  </for>
+</item>
+<item id='9399' name="Force Master Circlet">
+  <cond msgId="1518">
+    <target class_id_restriction="88, 114"/>
+  </cond>
+  <for>
+  </for>
+</item>
+</list>

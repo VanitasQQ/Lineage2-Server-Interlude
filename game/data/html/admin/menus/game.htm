@@ -1,0 +1,68 @@
+<html><title>Панель управления сервером</title><body>
+<center>
+<!-- top menu -->
+<table width=240>
+<tr>
+<td><button value="Главная" action="bypass -h admin_admin" width=60 height=21 back="sek.cbui94" fore="sek.cbui94"></td>
+<td><button value="Игровая" action="bypass -h admin_gamemenu" width=60 height=21 back="sek.cbui94" fore="sek.cbui94"></td>
+<td><button value="Эфекты" action="bypass -h admin_effects" width=60 height=21 back="sek.cbui94" fore="sek.cbui94"></td>
+<td><button value="Эвенты" action="bypass -h admin_events" width=60 height=21 back="sek.cbui94" fore="sek.cbui94"></td>
+</tr>
+<tr>
+<td><button value="Сервер" action="bypass -h admin_server" width=60 height=21 back="sek.cbui94" fore="sek.cbui94"></td>
+<td><button value="Контроль" action="bypass -h admin_control" width=60 height=21 back="sek.cbui94" fore="sek.cbui94"></td>
+<td><button value="Игроки" action="bypass -h admin_players" width=60 height=21 back="sek.cbui94" fore="sek.cbui94"></td>
+<td><button value="Конфиги" action="bypass -h admin_config" width=60 height=21 back="sek.cbui94" fore="sek.cbui94"></td>
+</tr>
+</table>
+
+<!-- Windows Info -->
+<table width=260>
+<tr>
+<td width=50><font color="LEVEL"></font></td>
+<td width=160><edit var="qbox" width=160 height=19></td>
+<td width=50><font color="LEVEL"></font></td>
+</tr>
+</table>
+
+<br><font color="LEVEL">Действия с кланами</font>
+<table width=270>
+<tr>
+<td><button value="Создать" action="bypass -h admin_pledge create $qbox" width=90 height=17 back="sek.cbui94" fore="sek.cbui94"></td>
+<td><button value="Удалить" action="bypass -h admin_pledge dismiss $qbox" width=90 height=17 back="sek.cbui94" fore="sek.cbui94"></td>
+<td><button value="Уровень" action="bypass -h admin_pledge setlevel $qbox" width=90 height=17 back="sek.cbui94" fore="sek.cbui94"></td>
+<td></td>
+</tr>
+<tr>
+<td><button value="Репутация" action="bypass -h admin_pledge rep $qbox" width=90 height=17 back="sek.cbui94" fore="sek.cbui94"></td>
+<td><button value="Замки/КХ" action="bypass -h admin_siege" width=90 height=17 back="sek.cbui94" fore="sek.cbui94"></td>
+<td><button value="Крепости" action="bypass -h admin_fortsiege" width=90 height=17 back="sek.cbui94" fore="sek.cbui94"></td>
+</tr>
+</table>
+
+<br><font color="LEVEL">Проклятое оружие</font>
+<table width=270><tr>
+<td><button value="Показать" action="bypass -h admin_cw_info_menu $qbox" width=90 height=19 back="sek.cbui94" fore="sek.cbui94"></td>
+<td><button value="Добавить" action="bypass -h admin_cw_add $qbox" width=90 height=19 back="sek.cbui94" fore="sek.cbui94"></td>
+<td><button value="Удалить" action="bypass -h admin_cw_remove $qbox" width=90 height=19 back="sek.cbui94" fore="sek.cbui94"></td>
+</tr>
+</table>
+
+<br><font color="LEVEL">Семь печатей</font>
+<table width=270>
+<tr>
+<td><button value="Blacksmith" action="bypass -h admin_mammon_find 1" width=90 height=19 back="sek.cbui94" fore="sek.cbui94"></td>
+<td><button value="Merchant" action="bypass -h admin_mammon_find 2" width=90 height=19 back="sek.cbui94" fore="sek.cbui94"></td>
+<td><button value="Next period" action="bypass -h admin_ss_period_change" width=90 height=19 back="sek.cbui94" fore="sek.cbui94"></td>
+</tr>
+</table>
+
+<br><font color="LEVEL">Олимпиада</font>
+<table width=190>
+<tr>
+<td><button value="Сохранить" action="bypass -h admin_saveolymp" width=90 height=19 back="sek.cbui94" fore="sek.cbui94"></td>
+<td><button value="Обновить" action="bypass -h admin_endolympiad" width=90 height=19 back="sek.cbui94" fore="sek.cbui94"></td>
+</tr>
+</table>
+
+</center></body></html>

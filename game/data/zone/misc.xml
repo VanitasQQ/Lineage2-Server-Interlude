@@ -1,0 +1,215 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+  <zone id="1" name="ToI">
+    <settings noLanding="true" noSummon="true" />
+    <shape type="Rect" zMin="-30000" zMax="30000"> <!-- FIXME -->
+      <point x="109248" y="10033"/>
+      <point x="118747" y="21646"/>
+    </shape>
+  </zone>
+  <zone id="2" name="GM Consultation Service" type="Jail">
+    <shape type="Poly" zMin="-3050" zMax="-2792">
+    <skill applyEnter="5226,1" removeExit="5226"/>
+      <point x="-116390" y="-251581"/>
+      <point x="-112756" y="-251617"/>
+      <point x="-112720" y="-248199"/>
+      <point x="-116354" y="-248217"/>
+    </shape>
+  </zone>
+  <zone id="3" name="Red Hot Springs Water (Beolin)">
+    <settings abnormal="2000" exitOnDeath="true" affected="pc"/>
+    <skill removeEnter="4551;4552;4553;4554"/>
+    <shape type="Poly" zMin="-2203" zMax="-2003">
+      <point x="147435" y="-113588"/>
+      <point x="147700" y="-113463"/>
+      <point x="147758" y="-113233"/>
+      <point x="147657" y="-113037"/>
+      <point x="147381" y="-113024"/>
+      <point x="147261" y="-113154"/>
+      <point x="147241" y="-113389"/>
+    </shape>
+  </zone>
+  <zone id="4" name="Green Hot Springs Water (Mist)">
+    <settings abnormal="2000" exitOnDeath="true" affected="pc"/>
+    <skill removeEnter="4551;4552;4553;4554"/>
+    <shape type="Poly" zMin="-3878" zMax="-3478">
+      <point x="144938" y="-104969"/>
+      <point x="145112" y="-105274"/>
+      <point x="145370" y="-105389"/>
+      <point x="145680" y="-105145"/>
+      <point x="145566" y="-104631"/>
+      <point x="145122" y="-104589"/>
+    </shape>
+  </zone>
+  <zone id="5" name="Yellow Hot Springs Water (Crocus)">
+    <settings abnormal="2000" exitOnDeath="true" affected="pc"/>
+    <skill removeEnter="4551;4552;4553;4554"/>
+    <shape type="Poly" zMin="-3878" zMax="-3478">
+      <point x="140937" y="-105636"/>
+      <point x="140987" y="-105415"/>
+      <point x="140896" y="-105238"/>
+      <point x="140190" y="-105362"/>
+      <point x="140194" y="-105722"/>
+      <point x="140370" y="-105826"/>
+    </shape>
+  </zone>
+  <zone id="6" name="Red Hot Springs Water (Kuber)">
+    <settings abnormal="2000" exitOnDeath="true" affected="pc"/>
+    <skill removeEnter="4551;4552;4553;4554"/>
+    <shape type="Poly" zMin="-3878" zMax="-3478">
+      <point x="141546" y="-109783"/>
+      <point x="141770" y="-109839"/>
+      <point x="141955" y="-109721"/>
+      <point x="142053" y="-109412"/>
+      <point x="141825" y="-109086"/>
+      <point x="141603" y="-109025"/>
+      <point x="141317" y="-109164"/>
+      <point x="141353" y="-109598"/>
+    </shape>
+  </zone>
+  <zone id="7" name="Red Hot Springs Water (Bavarin)">
+    <settings abnormal="2000" exitOnDeath="true" affected="pc"/>
+    <skill removeEnter="4551;4552;4553;4554"/>
+    <shape type="Poly" zMin="-2869" zMax="-2469">
+      <point x="156826" y="-109857"/>
+      <point x="157135" y="-110033"/>
+      <point x="157350" y="-109941"/>
+      <point x="157481" y="-109485"/>
+      <point x="157221" y="-109182"/>
+      <point x="156868" y="-109298"/>
+      <point x="156719" y="-109575"/>
+    </shape>
+  </zone>
+  <zone id="8" name="Yellow Hot Springs Water">
+    <settings abnormal="2000" exitOnDeath="true" affected="pc"/>
+    <skill removeEnter="4551;4552;4553;4554"/>
+    <shape type="Poly" zMin="-2869" zMax="-2469">
+      <point x="152844" y="-108333"/>
+      <point x="152914" y="-108080"/>
+      <point x="152801" y="-107764"/>
+      <point x="152380" y="-107754"/>
+      <point x="152232" y="-107922"/>
+      <point x="152203" y="-108265"/>
+      <point x="152449" y="-108427"/>
+      <point x="152658" y="-108472"/>
+    </shape>
+  </zone>
+  <zone id="9" name="Green Hot Springs Water (Naff)">
+    <settings abnormal="2000" exitOnDeath="true" affected="pc"/>
+    <skill removeEnter="4551;4552;4553;4554"/>
+    <shape type="Poly" zMin="-2869" zMax="-2469">
+      <point x="156119" y="-105830"/>
+      <point x="156113" y="-105289"/>
+      <point x="155419" y="-105334"/>
+      <point x="155335" y="-105543"/>
+      <point x="155414" y="-105799"/>
+      <point x="155899" y="-105982"/>
+    </shape>
+  </zone>
+  <zone id="11" name="Landing Zone 1">
+    <shape type="Poly" zMin="2668" zMax="2750">
+      <point x="-186945" y="244064"/>
+      <point x="-186503" y="244183"/>
+      <point x="-186526" y="244273"/>
+      <point x="-186998" y="244149"/>
+    </shape>
+  </zone>
+  <zone id="12" name="Landing Zone 2">
+    <shape type="Poly" zMin="2612" zMax="2700">
+      <point x="-186707" y="243348"/>
+      <point x="-186098" y="243499"/>
+      <point x="-186209" y="243886"/>
+      <point x="-186836" y="243713"/>
+    </shape>
+  </zone>
+  <zone id="13" name="Landing Zone 3">
+    <shape type="Poly" zMin="2548" zMax="2650">
+      <point x="-186388" y="241751"/>
+      <point x="-185747" y="241972"/>
+      <point x="-186026" y="243171"/>
+      <point x="-186755" y="242965"/>
+    </shape>
+  </zone>
+  <zone id="14" name="Landing Zone 4">
+    <shape type="Poly" zMin="2612" zMax="2700">
+      <point x="-186067" y="241090"/>
+      <point x="-185469" y="241336"/>
+      <point x="-185541" y="241652"/>
+      <point x="-186173" y="241496"/>
+    </shape>
+  </zone>
+  <zone id="15" name="Landing Zone 5">
+    <shape type="Poly" zMin="2818" zMax="2900">
+      <point x="-186158" y="240243"/>
+      <point x="-185440" y="240450"/>
+      <point x="-185461" y="240566"/>
+      <point x="-186182" y="240351"/>
+    </shape>
+  </zone>
+  <zone id="16" name="Landing Zone 6">
+    <shape type="Poly" zMin="1532" zMax="1671">
+      <point x="-185611" y="240192"/>
+      <point x="-183498" y="240759"/>
+      <point x="-183834" y="241948"/>
+      <point x="-185906" y="241253"/>
+    </shape>
+  </zone>
+  <zone id="17" name="Landing Zone 7">
+    <shape type="Poly" zMin="1676" zMax="1771">
+      <point x="-186102" y="241831"/>
+      <point x="-185039" y="242209"/>
+      <point x="-185356" y="243326"/>
+      <point x="-186447" y="243020"/>
+    </shape>
+  </zone>
+  <zone id="18" name="Landing Zone 8">
+    <shape type="Poly" zMin="1564" zMax="1771">
+      <point x="-184942" y="242302"/>
+      <point x="-183775" y="242671"/>
+      <point x="-184015" y="243618"/>
+      <point x="-185256" y="243318"/>
+    </shape>
+  </zone>
+  <zone id="19" name="Landing Zone 9">
+    <shape type="Poly" zMin="1532" zMax="1671">
+      <point x="-186637" y="243638"/>
+      <point x="-184503" y="244189"/>
+      <point x="-184878" y="245409"/>
+      <point x="-187009" y="244723"/>
+    </shape>
+  </zone>
+  <zone id="20" name="Landing Zone 10">
+    <shape type="Poly" zMin="1735" zMax="1892">
+      <point x="-203218" y="241627"/>
+      <point x="-203218" y="242642"/>
+      <point x="-203355" y="242648"/>
+      <point x="-203376" y="242219"/>
+      <point x="-204119" y="242289"/>
+      <point x="-204108" y="242617"/>
+      <point x="-204305" y="242631"/>
+      <point x="-204315" y="242913"/>
+      <point x="-204613" y="242930"/>
+      <point x="-204624" y="241399"/>
+      <point x="-204312" y="241374"/>
+      <point x="-204132" y="241677"/>
+      <point x="-204114" y="242019"/>
+      <point x="-203349" y="241982"/>
+      <point x="-203345" y="241646"/>
+    </shape>
+  </zone>
+  <zone id="21" name="Nornil's Garden">
+    <settings buffRepeat="true"/>
+    <skill applyEnter="4322,1;4327,1;4329,1;4324,1" removeAll="True"/>
+    <shape type="Rect" zMin="-13000" zMax="-11000">
+      <point x="-122000" y="70000"/>
+      <point x="-105000" y="93000"/>
+    </shape>
+  </zone>
+  <zone id="23" name="Imperial Tomb Nolanding">
+    <settings noLanding="true"/>
+    <shape type="Rect" zMin="-3000" zMax="-2000">
+      <point x="169400" y="-89400"/>
+      <point x="169800" y="-89000"/>
+    </shape>
+  </zone>
+</list>

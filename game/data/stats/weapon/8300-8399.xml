@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE list SYSTEM "weapons.dtd">
+<list>
+<item id='8350' name="Chrono Maracas">
+  <for>
+    <set val='1' order='0x08' stat='pAtk'/>
+    <set val='5' order='0x08' stat='mAtk'/>
+    <set val='8' order='0x08' stat='rCrit'/>
+    <add val='0' order='0x40' stat='accCombat'/>
+    <set val='325' order='0x08' stat='pAtkSpd'/>
+    <enchant val='0' order='0x0C' stat='pAtk'/>
+    <enchant val='0' order='0x0C' stat='mAtk'/>
+  </for>
+</item>
+</list>

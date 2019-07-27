@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<list>
+  <jewelry id="6323" name="Sealed Phoenix Necklace"  >
+   <set icon="icon.accessary_phoenixs_necklace_i02"/>
+   <set bodyPart="NECK" grade="A"/>
+   <set crystallizable="true" crystal_count="107" />
+   <set weight="150" price="1740000"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <stats>
+    <add stat="mDef" order="0x10" val="76"/>
+    <enchant stat="mDef" order="0xc" val="0"/>
+   </stats>
+  </jewelry>
+  <jewelry id="6325" name="Sealed Phoenix Ring"  >
+   <set icon="icon.accessary_phoenixs_ring_i02"/>
+   <set bodyPart="LFINGER,RFINGER" grade="A"/>
+   <set crystallizable="true" crystal_count="54" />
+   <set weight="150" price="871000"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <stats>
+    <add stat="mDef" order="0x10" val="38"/>
+    <enchant stat="mDef" order="0xc" val="0"/>
+   </stats>
+  </jewelry>
+  <jewelry id="6326" name="Sealed Majestic Necklace"  >
+   <set icon="icon.accessary_inferno_necklace_i02"/>
+   <set bodyPart="NECK" grade="A"/>
+   <set crystallizable="true" crystal_count="160" />
+   <set weight="150" price="2600000"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <stats>
+    <add stat="mDef" order="0x10" val="80"/>
+    <enchant stat="mDef" order="0xc" val="0"/>
+   </stats>
+  </jewelry>
+  <jewelry id="6328" name="Sealed Majestic Ring"  >
+   <set icon="icon.accessary_inferno_ring_i02"/>
+   <set bodyPart="LFINGER,RFINGER" grade="A"/>
+   <set crystallizable="true" crystal_count="80" />
+   <set weight="150" price="1300000"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <stats>
+    <add stat="mDef" order="0x10" val="40"/>
+    <enchant stat="mDef" order="0xc" val="0"/>
+   </stats>
+  </jewelry>
+  <jewelry id="6657" name="Necklace of Valakas"  >
+   <set icon="icon.accessory_necklace_of_valakas_i00"/>
+   <set bodyPart="NECK" grade="S"/>
+   <set crystallizable="true" crystal_count="237" />
+   <set weight="150" price="4940000"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <skills>
+      <skill id="3557" level="1"/>
+    </skills>
+
+   <stats>
+    <add stat="mDef" order="0x10" val="95"/>
+    <add stat="maxMp" order="0x40" val="42"/>
+    <enchant stat="mDef" order="0xc" val="0"/>
+   </stats>
+  </jewelry>
+  <jewelry id="6658" name="Ring of Baium"  >
+   <set icon="icon.accessory_ring_of_baium_i00"/>
+   <set bodyPart="LFINGER,RFINGER" grade="S"/>
+   <set crystallizable="true" crystal_count="83" />
+   <set weight="150" price="1730000"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <skills>
+      <skill id="3561" level="1"/>
+    </skills>
+
+   <stats>
+    <add stat="mDef" order="0x10" val="48"/>
+    <add stat="maxMp" order="0x40" val="21"/>
+    <enchant stat="mDef" order="0xc" val="0"/>
+   </stats>
+  </jewelry>
+  <jewelry id="6660" name="Ring of Queen Ant"  >
+   <set icon="icon.accessory_ring_of_queen_ant_i00"/>
+   <set bodyPart="LFINGER,RFINGER" grade="B"/>
+   <set crystallizable="true" crystal_count="82" />
+   <set weight="150" price="616000"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <skills>
+      <skill id="3562" level="1"/>
+    </skills>
+
+   <stats>
+    <add stat="mDef" order="0x10" val="48"/>
+    <add stat="maxMp" order="0x40" val="21"/>
+    <enchant stat="mDef" order="0xc" val="0"/>
+   </stats>
+  </jewelry>
+  <jewelry id="6662" name="Ring of Core"  >
+   <set icon="icon.accessory_ring_of_core_i00"/>
+   <set bodyPart="LFINGER,RFINGER" grade="A"/>
+   <set crystallizable="true" crystal_count="69" />
+   <set weight="150" price="870000"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <skills>
+      <skill id="3563" level="1"/>
+    </skills>
+
+   <stats>
+    <add stat="mDef" order="0x10" val="48"/>
+    <add stat="maxMp" order="0x40" val="21"/>
+    <enchant stat="mDef" order="0xc" val="0"/>
+   </stats>
+  </jewelry>
+  <jewelry id="6725" name="Sealed Tateossian Ring"  >
+   <set icon="icon.accessory_tateossian_ring_i02"/>
+   <set bodyPart="LFINGER,RFINGER" grade="S"/>
+   <set crystallizable="true" crystal_count="105" />
+   <set weight="150" price="2470000"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <stats>
+    <add stat="mDef" order="0x10" val="46"/>
+    <enchant stat="mDef" order="0xc" val="0"/>
+   </stats>
+  </jewelry>
+  <jewelry id="6726" name="Sealed Tateossian Necklace"  >
+   <set icon="icon.accessory_tateossian_necklace_i02"/>
+   <set bodyPart="NECK" grade="S"/>
+   <set crystallizable="true" crystal_count="209" />
+   <set weight="150" price="4940000"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <stats>
+    <add stat="mDef" order="0x10" val="91"/>
+    <enchant stat="mDef" order="0xc" val="0"/>
+   </stats>
+  </jewelry>
+</list>

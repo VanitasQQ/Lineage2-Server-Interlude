@@ -1,0 +1,59 @@
+<html><title>Панель управления сервером</title><body>
+<center>
+<!-- top menu -->
+<table width=240>
+<tr>
+<td><button value="Главная" action="bypass -h admin_admin" width=60 height=21 back="sek.cbui94" fore="sek.cbui94"></td>
+<td><button value="Игровая" action="bypass -h admin_gamemenu" width=60 height=21 back="sek.cbui94" fore="sek.cbui94"></td>
+<td><button value="Эфекты" action="bypass -h admin_effects" width=60 height=21 back="sek.cbui94" fore="sek.cbui94"></td>
+<td><button value="Эвенты" action="bypass -h admin_events" width=60 height=21 back="sek.cbui94" fore="sek.cbui94"></td>
+</tr>
+<tr>
+<td><button value="Сервер" action="bypass -h admin_server" width=60 height=21 back="sek.cbui94" fore="sek.cbui94"></td>
+<td><button value="Контроль" action="bypass -h admin_control" width=60 height=21 back="sek.cbui94" fore="sek.cbui94"></td>
+<td><button value="Игроки" action="bypass -h admin_players" width=60 height=21 back="sek.cbui94" fore="sek.cbui94"></td>
+<td><button value="Конфиги" action="bypass -h admin_config" width=60 height=21 back="sek.cbui94" fore="sek.cbui94"></td>
+</tr>
+</table>
+
+<br><font color="LEVEL">Информация сервера</font>
+<table bgcolor="666666" width=260>
+<tr><td width=260><font color="CCCC99">Память:</font> %meminfo%</td></tr>
+<tr><td width=260><font color="CCCC99">Система:</font> %os%</td></tr>
+<tr><td width=260><font color="CCCC99">Работа:</font> %time%</td></tr>
+<tr><td width=260><font color="CCCC99">Онлайн:</font> %online% из %max% онлайн</td></tr>
+<tr><td width=260><font color="CCCC99">Геодата:</font> %geo%</td></tr>
+</table>
+
+<br><font color="LEVEL">Управление сервером</font>
+<table width=260>
+<tr>
+<td width=50><font color="LEVEL"></font></td>
+<td width=160><edit var="qbox" width=160 height=19></td>
+<td width=50><font color="LEVEL"></font></td>
+</tr>
+</table><br>
+
+<table width=260>
+<tr>
+<td><button value="Выключить" action="bypass -h admin_shutdown $qbox" width=90 height=19 back="sek.cbui94" fore="sek.cbui94"></td>
+<td><button value="Рестарт" action="bypass -h admin_restart $qbox" width=90 height=19 back="sek.cbui94" fore="sek.cbui94"></td>
+<td><button value="Отменить" action="bypass -h admin_abort" width=90 height=19 back="sek.cbui94" fore="sek.cbui94"></td>
+</tr>
+<tr>
+<td><button value="Kick all" action="bypass -h admin_kickall" width=90 height=19 back="sek.cbui94" fore="sek.cbui94"></td>
+<td><button value="Only Gm" action="bypass -h admin_onlygm" width=90 height=19 back="sek.cbui94" fore="sek.cbui94"></td>
+<td><button value="Allow All" action="bypass -h admin_forall" width=90 height=19 back="sek.cbui94" fore="sek.cbui94"></td>
+</tr>
+<tr>
+<td width=90></td>
+<td><button value="Оптимизация" action="bypass -h admin_cleanup" width=90 height=19 back="sek.cbui94" fore="sek.cbui94"></td>
+<td width=90></td>
+</tr>
+<tr>
+<td width=90></td>
+<td><button value="Макс.онлайн" action="bypass -h admin_maxplayer $qbox" width=90 height=19 back="sek.cbui94" fore="sek.cbui94"></td>
+<td width=90></td>
+</tr>
+</table>
+</center></body></html>

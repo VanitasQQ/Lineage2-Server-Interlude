@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<list>
+  <armor id="4222" name="Dream Shield" armorType="Shield" >
+   <set icon="icon.shield_hoplon_i00"/>
+   <set bodyPart="LHAND" grade="NONE"/>
+   <set crystallizable="true" crystal_count="0" />
+   <set weight="1380" price="12900"/>
+   <set sellable="false" tradeable="false" />
+   <set dropable="false" destroyable="false"/>
+
+   <stats>
+    <sub stat="rEvas" order="0x10" val="8"/>
+    <set stat="sDef" order="0x8" val="90"/>
+    <set stat="rShld" order="0x8" val="20"/>
+    <enchant stat="sDef" order="0xc" val="0"/>
+   </stats>
+  </armor>
+  <armor id="4223" name="Ubiquitous Shield" armorType="Shield" >
+   <set icon="icon.shield_dwarven_chain_shield_i00"/>
+   <set bodyPart="LHAND" grade="NONE"/>
+   <set crystallizable="true" crystal_count="0" />
+   <set weight="1380" price="12900"/>
+   <set sellable="false" tradeable="false" />
+   <set dropable="false" destroyable="false"/>
+
+   <stats>
+    <sub stat="rEvas" order="0x10" val="8"/>
+    <set stat="sDef" order="0x8" val="90"/>
+    <set stat="rShld" order="0x8" val="20"/>
+    <enchant stat="sDef" order="0xc" val="0"/>
+   </stats>
+  </armor>
+  <armor id="4224" name="Dream Armor" armorType="Heavy" >
+   <set icon="icon.armor_blast_plate_i00"/>
+   <set bodyPart="CHEST" grade="NONE"/>
+   <set crystallizable="true" crystal_count="0" />
+   <set weight="8920" price="49200"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <stats>
+    <add stat="pDef" order="0x10" val="68"/>
+   </stats>
+  </armor>
+  <armor id="4225" name="Dream Stockings" armorType="Heavy" >
+   <set icon="icon.armor_mithril_gaiters_i00"/>
+   <set bodyPart="LEGS" grade="NONE"/>
+   <set crystallizable="true" crystal_count="0" />
+   <set weight="3960" price="30700"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <stats>
+    <add stat="pDef" order="0x10" val="43"/>
+   </stats>
+  </armor>
+  <armor id="4226" name="Dream Gloves" armorType="None" >
+   <set icon="icon.armor_gauntlet_i00"/>
+   <set bodyPart="GLOVES" grade="NONE"/>
+   <set crystallizable="true" crystal_count="0" />
+   <set weight="650" price="12300"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <stats>
+    <add stat="pDef" order="0x10" val="17"/>
+   </stats>
+  </armor>
+  <armor id="4227" name="Dream Boots" armorType="None" >
+   <set icon="icon.armor_chain_boots_i00"/>
+   <set bodyPart="FEET" grade="NONE"/>
+   <set crystallizable="true" crystal_count="0" />
+   <set weight="1310" price="12300"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <stats>
+    <add stat="pDef" order="0x10" val="17"/>
+   </stats>
+  </armor>
+  <armor id="4228" name="Ubiquitous Armor" armorType="Heavy" >
+   <set icon="icon.armor_compound_scale_mail_i00"/>
+   <set bodyPart="CHEST" grade="NONE"/>
+   <set crystallizable="true" crystal_count="0" />
+   <set weight="8920" price="49200"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <stats>
+    <add stat="pDef" order="0x10" val="68"/>
+   </stats>
+  </armor>
+  <armor id="4229" name="Ubiquitous Stockings" armorType="Heavy" >
+   <set icon="icon.armor_compound_scale_gaiters_i00"/>
+   <set bodyPart="LEGS" grade="NONE"/>
+   <set crystallizable="true" crystal_count="0" />
+   <set weight="3960" price="30700"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <stats>
+    <add stat="pDef" order="0x10" val="43"/>
+   </stats>
+  </armor>
+  <armor id="4230" name="Ubiquitous Gloves" armorType="None" >
+   <set icon="icon.armor_manticor_skin_gloves_i00"/>
+   <set bodyPart="GLOVES" grade="NONE"/>
+   <set crystallizable="true" crystal_count="0" />
+   <set weight="650" price="12300"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <stats>
+    <add stat="pDef" order="0x10" val="17"/>
+   </stats>
+  </armor>
+  <armor id="4231" name="Ubiquitous Boots" armorType="None" >
+   <set icon="icon.armor_iron_boots_i00"/>
+   <set bodyPart="FEET" grade="NONE"/>
+   <set crystallizable="true" crystal_count="0" />
+   <set weight="1310" price="12300"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <stats>
+    <add stat="pDef" order="0x10" val="17"/>
+   </stats>
+  </armor>
+  <armor id="4234" name="Hatchling's Level 65 Armor" armorType="Pet" >
+   <set icon="icon.etc_pet_armor_i06"/>
+   <set bodyPart="CHEST" grade="NONE"/>
+   <set crystallizable="false" />
+   <set weight="160" price="5628000"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <stats>
+    <add stat="pDef" order="0x10" val="50"/>
+    <add stat="mDef" order="0x10" val="50"/>
+   </stats>
+  </armor>
+  <armor id="4235" name="Hatchling's Level 75 Armor" armorType="Pet" >
+   <set icon="icon.etc_pet_armor_i07"/>
+   <set bodyPart="CHEST" grade="NONE"/>
+   <set crystallizable="false" />
+   <set weight="160" price="19073000"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <stats>
+    <add stat="pDef" order="0x10" val="58"/>
+    <add stat="mDef" order="0x10" val="58"/>
+   </stats>
+  </armor>
+  <armor id="4236" name="Gara Item" armorType="Light" >
+   <set icon="icon.etc_pet_armor_i07"/>
+   <set bodyPart="WOLF" grade="NONE"/>
+   <set crystallizable="false" />
+   <set weight="160" price="19073000"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <stats>
+    <add stat="pDef" order="0x10" val="58"/>
+    <add stat="mDef" order="0x10" val="58"/>
+   </stats>
+  </armor>
+</list>

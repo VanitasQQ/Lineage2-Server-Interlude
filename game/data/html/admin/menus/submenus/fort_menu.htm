@@ -1,0 +1,31 @@
+<html><title>Панель управления сервером</title><body>
+<center>
+<table width=270>
+<tr>
+<td width=45><button value="Main" action="bypass -h admin_admin" width=45 height=19 back="sek.cbui94" fore="sek.cbui94"></td>
+<td width=180><center><font color="LEVEL">%fortName%</font></center></td>
+<td width=45><button value="Back" action="bypass -h admin_fortsiege" width=45 height=19 back="sek.cbui94" fore="sek.cbui94"></td>
+</tr>
+</table>
+
+<br><font color="LEVEL">Действия</font>
+<table width=270>
+<tr>
+<td><button value="Добав. атакающих" action="bypass -h admin_add_fortattacker %fortId%" width=100 height=19 back="sek.cbui94" fore="sek.cbui94"></td>
+<td><button value="Очистить список" action="bypass -h admin_clear_fortsiege_list %fortId%" width=100 height=19 back="sek.cbui94" fore="sek.cbui94"></td>
+</tr>
+<tr>
+<td><button value="Список кланов" action="bypass -h admin_list_fortsiege_clans %fortId%" width=100 height=19 back="sek.cbui94" fore="sek.cbui94"></td>
+<td><button value="Проспавнить двери" action="bypass -h admin_spawn_fortdoors %fortId%" width=100 height=19 back="sek.cbui94" fore="sek.cbui94"></td>
+</tr>
+<tr>
+<td><button value="Запуск осады" action="bypass -h admin_startfortsiege %fortId%" width=100 height=19 back="sek.cbui94" fore="sek.cbui94"></td>
+<td><button value="Завершить осаду" action="bypass -h admin_endfortsiege %fortId%" width=100 height=19 back="sek.cbui94" fore="sek.cbui94"></td>
+</tr>
+<tr>
+<tr><td><button value="Дать форт" action="bypass -h admin_setfort %fortId%" width=100 height=19 back="sek.cbui94" fore="sek.cbui94"></td>
+<td><button value="Забрать форт" action="bypass -h admin_removefort %fortId%" width=100 height=19 back="sek.cbui94" fore="sek.cbui94"></td>
+</tr>
+</table>
+
+</center></body></html>

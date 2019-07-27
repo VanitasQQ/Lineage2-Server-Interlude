@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE list SYSTEM "skills.dtd">
+<list>
+<skill id="3360" levels="1" name="Special Ability: Cheap Shot">
+  <!-- Done by L2Emu-RT -->
+  <!-- This SA stats not confirmed -->
+  <set name="target" val="TARGET_SELF"/>
+  <set name="skillType" val="BUFF"/>
+  <set name="operateType" val="OP_PASSIVE"/>
+  <for>
+    <mul order="0x30" stat="PhysicalMpConsumeRate" val="0.7"/>
+  </for>
+</skill>
+</list>

@@ -1,0 +1,36 @@
+<html><title>Панель управления сервером</title><body>
+<center>
+<table width=270>
+<tr>
+<td width=45><button value="Main" action="bypass -h admin_admin" width=45 height=19 back="sek.cbui94" fore="sek.cbui94"></td>
+<td width=180><center><font color="LEVEL">%clanhallName%</font></center></td>
+<td width=45><button value="Back" action="bypass -h admin_siege" width=45 height=19 back="sek.cbui94" fore="sek.cbui94"></td>
+</tr>
+</table>
+
+<br>Владелец Клан Хола: %clanhallOwner%<br>
+
+<br><font color="LEVEL">Действия с клан холлом</font>
+<table width=270>
+<tr>
+<td><button value="Открыть Двери" action="bypass -h admin_clanhallopendoors %clanhallId%" width=100 height=19 back="sek.cbui94" fore="sek.cbui94"></td>
+<td><button value="Закрыть Двери" action="bypass -h admin_clanhallclosedoors %clanhallId%" width=100 height=19 back="sek.cbui94" fore="sek.cbui94"></td>
+</tr>
+</table>
+
+<br>
+
+<table width=270>
+<tr>
+<td><button value="Отдать Холл" action="bypass -h admin_clanhallset %clanhallId%" width=100 height=19 back="sek.cbui94" fore="sek.cbui94"></td>
+<td><button value="Забрать Холл" action="bypass -h admin_clanhalldel %clanhallId%" width=100 height=19 back="sek.cbui94" fore="sek.cbui94"></td>
+</tr>
+</table>
+<br>
+
+<table width=270>
+<tr>
+<td width=100 align="center"><button value="Телепорт в Холл" action="bypass -h admin_clanhallteleportself %clanhallId%" width=100 height=19 back="sek.cbui94" fore="sek.cbui94"></td>
+</tr>
+</table>
+</center></body></html>

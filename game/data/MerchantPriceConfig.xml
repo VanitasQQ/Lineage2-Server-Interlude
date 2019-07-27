@@ -1,0 +1,30 @@
+<merchantPriceConfig defaultPriceConfig="18">
+	<priceConfig id="0" name="Giran Town" baseTax="10" castleId="3"/>
+	<priceConfig id="1" name="DE Village" baseTax="15" castleId="4"/>
+	<priceConfig id="2" name="Talking Island" baseTax="15" castleId="1"/>
+	<priceConfig id="3" name="Elven Village" baseTax="15" castleId="4"/>
+	<priceConfig id="4" name="Orc Village" baseTax="15" castleId="9"/>
+	<priceConfig id="5" name="Gludin Village" baseTax="20" castleId="1"/>
+	<priceConfig id="6" name="Dwarven Village" baseTax="15" castleId="9"/>
+	<priceConfig id="7" name="Kamael Village" baseTax="15" castleId="5"/>
+	<priceConfig id="8" name="Gludio Town" baseTax="20" castleId="1"/>
+	<priceConfig id="9" name="Dion Town" baseTax="20" castleId="2"/>
+	<priceConfig id="10" name="Oren Town" baseTax="15" castleId="4"/>
+	<priceConfig id="11" name="Hunters Village" baseTax="30" castleId="5"/>
+	<priceConfig id="12" name="Aden Town" baseTax="20" castleId="5"/>
+	<priceConfig id="13" name="Goddard Town" baseTax="20" castleId="7"/>
+	<priceConfig id="14" name="Rune Town" baseTax="20" castleId="8"/>
+	<priceConfig id="15" name="Heine Town" baseTax="20" castleId="6"/>
+	<priceConfig id="16" name="Schuttgart Town" baseTax="20" castleId="9"/>
+	<priceConfig id="17" name="Floran Village" baseTax="50" castleId="2"/>
+	<priceConfig id="18" name="Neutral Territory" baseTax="50"/>
+	<priceConfig id="19" name="Gludio Castle" baseTax="10" castleId="1"/>
+	<priceConfig id="20" name="Dion Castle" baseTax="10" castleId="2"/>
+	<priceConfig id="21" name="Giran Castle" baseTax="10" castleId="3"/>
+	<priceConfig id="22" name="Oren Castle" baseTax="10" castleId="4"/>
+	<priceConfig id="23" name="Aden Castle" baseTax="10" castleId="5"/>
+	<priceConfig id="24" name="Innadril Castle" baseTax="10" castleId="6"/>
+	<priceConfig id="25" name="Goddard Castle" baseTax="10" castleId="7"/>
+	<priceConfig id="26" name="Rune Castle" baseTax="10" castleId="8"/>
+	<priceConfig id="27" name="Schuttgart Castle" baseTax="10" castleId="9"/>
+</merchantPriceConfig>

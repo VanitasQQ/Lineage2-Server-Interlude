@@ -1,0 +1,645 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE list SYSTEM "skills.dtd">
+<list>
+<skill id="7000" levels="1" name="NPC Default">
+  <set name="target" val="TARGET_ONE"/>
+  <set name="isMagic" val="false"/>
+  <set name="skillType" val="PDAM"/>
+  <set name="operateType" val="OP_ACTIVE"/>
+  <set name="castRange" val="0"/>
+</skill>
+<skill id="7001" levels="1" name="Dispel Buff">
+  <set name="magicLvl" val="99"/>
+  <set name="target" val="TARGET_ONE"/>
+  <set name="skillType" val="NEGATE"/>
+  <set name="negateStats" val="BUFF"/>
+  <set name="operateType" val="OP_ACTIVE"/>
+  <set name="castRange" val="400"/>
+  <set name="effectRange" val="900"/>
+  <set name="aggroPoints" val="100"/>
+</skill>
+<skill id="7002" levels="1" name="Dispel Debuff">
+  <set name="magicLvl" val="99"/>
+  <set name="target" val="TARGET_ONE"/>
+  <set name="skillType" val="NEGATE"/>
+  <set name="negateStats" val="DEBUFF"/>
+  <set name="operateType" val="OP_ACTIVE"/>
+  <set name="castRange" val="400"/>
+  <set name="effectRange" val="900"/>
+  <set name="aggroPoints" val="100"/>
+</skill>
+<skill id="7003" levels="1" name="Dispel All">
+  <set name="magicLvl" val="99"/>
+  <set name="target" val="TARGET_ONE"/>
+  <set name="skillType" val="NEGATE"/>
+  <set name="negateStats" val="BUFF DEBUFF"/>
+  <set name="operateType" val="OP_ACTIVE"/>
+  <set name="castRange" val="400"/>
+  <set name="effectRange" val="900"/>
+  <set name="aggroPoints" val="100"/>
+</skill>
+<skill id="7004" levels="2" name="Dispel Petrification">
+  <set name="magicLvl" val="60"/>
+  <set name="target" val="TARGET_SELF"/>
+  <set name="skillType" val="NEGATE"/>
+  <set name="negateStats" val="PARALYZE"/>
+  <set name="operateType" val="OP_ACTIVE"/>
+  <set name="reuseDelay" val="8000"/>
+  <set name="isMagic" val="true"/>
+  <set name="aggroPoints" val="566"/>
+</skill>
+<skill id="7005" levels="1" name="Greater Chant of Vampire">
+  <set name="magicLvl" val="74"/>
+  <set name="mpInitialConsume" val="55"/>
+  <set name="mpConsume" val="217"/>
+  <set name="target" val="TARGET_CLAN"/>
+  <set name="skillRadius" val="900"/>
+  <set name="skillType" val="BUFF"/>
+  <set name="hitTime" val="2500"/>
+  <set name="reuseDelay" val="20000"/>
+  <set name="operateType" val="OP_ACTIVE"/>
+  <set name="isMagic" val="true"/>
+  <set name="castRange" val="400"/>
+  <set name="effectRange" val="900"/>
+  <set name="aggroPoints" val="655"/>
+  <for>
+    <effect name="Buff" time="1200" count="1" val="0" stackOrder="9" stackType="vampRage">
+      <add order="0x40" stat="absorbDam" val="9"/>
+    </effect>
+  </for>
+</skill>
+<skill id="7006" levels="1" name="The Love of Pa'agrio">
+  <set name="mpConsume" val="272"/>
+  <set name="target" val="TARGET_CLAN"/>
+  <set name="skillRadius" val="900"/>
+  <set name="skillType" val="PASSIVE"/>
+  <set name="hitTime" val="2500"/>
+  <set name="operateType" val="OP_ACTIVE"/>
+  <set name="isMagic" val="true"/>
+  <set name="castRange" val="400"/>
+  <set name="effectRange" val="900"/>
+  <set name="aggroPoints" val="655"/>
+</skill>
+<skill id="7007" levels="4" name="Greater Seal of Flame">
+  <set name="mpConsume" val="122"/>
+  <set name="mpInitialConsume" val="30"/>
+  <set name="skillRadius" val="200"/>
+  <set name="target" val="TARGET_SELF"/>
+  <set name="skillType" val="PASSIVE"/>
+  <set name="hitTime" val="4000"/>
+  <set name="lvlDepend" val="1"/>
+  <set name="coolTime" val="2666"/>
+  <set name="operateType" val="OP_ACTIVE"/>
+  <set name="isMagic" val="true"/>
+  <set name="castRange" val="400"/>
+  <set name="effectRange" val="900"/>
+</skill>
+<skill id="7028" levels="1" name="For Stationary NPCs">
+  <set name="target" val="TARGET_SELF"/>
+  <set name="skillType" val="NOTDONE"/>
+  <set name="operateType" val="OP_PASSIVE"/>
+</skill>
+<skill id="7029" levels="4" name="Super Haste">
+  <table name="#Tab-runSpd"> 1.5 2 3 4 </table>
+  <table name="#Tab-pReuse"> 1 2 4 30 </table>
+  <table name="#Tab-mReuse"> 1 2 4 30 </table>
+  <table name="#Tab-mAtkSpd"> 1.5 1.8 3 4 </table>
+  <table name="#Tab-pAtkSpd"> 1.2 1.5 2 3 </table>
+  <set name="target" val="TARGET_SELF"/>
+  <set name="skillType" val="CONT"/>
+  <set name="operateType" val="OP_TOGGLE"/>
+  <for>
+    <effect name="Buff" time="144000" count="1" val="0">
+      <mul order="0x30" stat="runSpd" val="#Tab-runSpd"/>
+      <div order="0x30" stat="pReuse" val="#Tab-pReuse"/>
+      <div order="0x30" stat="mReuse" val="#Tab-mReuse"/>
+      <mul order="0x30" stat="mAtkSpd" val="#Tab-mAtkSpd"/>
+      <mul order="0x30" stat="pAtkSpd" val="#Tab-pAtkSpd"/>
+    </effect>
+  </for>
+</skill>
+<skill id="7030" levels="1" name="Summon King Bugbear">
+  <set name="itemConsumeId" val="1458"/>
+  <set name="mpConsume" val="3"/>
+  <set name="itemConsumeSteps" val="0"/>
+  <set name="summonTotalLifeTime" val="1200000"/>
+  <set name="summonTimeLostIdle" val="500"/>
+  <set name="summonTimeLostActive" val="1000"/>
+  <set name="target" val="TARGET_SELF"/>
+  <set name="itemConsumeCount" val="8"/>
+  <set name="reuseDelay" val="18600000"/>
+  <set name="hitTime" val="4000"/>
+  <set name="skillType" val="SUMMON"/>
+  <set name="isMagic" val="true"/>
+  <set name="operateType" val="OP_ACTIVE"/>
+  <set name="npcId" val="20150"/>
+  <set name="expPenalty" val="0"/>
+</skill>
+<skill id="7031" levels="1" name="Summon Skeleton Royal Guard">
+  <set name="itemConsumeId" val="1458"/>
+  <set name="mpConsume" val="3"/>
+  <set name="itemConsumeSteps" val="0"/>
+  <set name="summonTotalLifeTime" val="1200000"/>
+  <set name="summonTimeLostIdle" val="500"/>
+  <set name="summonTimeLostActive" val="1000"/>
+  <set name="target" val="TARGET_SELF"/>
+  <set name="itemConsumeCount" val="8"/>
+  <set name="reuseDelay" val="18600000"/>
+  <set name="hitTime" val="4000"/>
+  <set name="skillType" val="SUMMON"/>
+  <set name="isMagic" val="true"/>
+  <set name="operateType" val="OP_ACTIVE"/>
+  <set name="npcId" val="20169"/>
+  <set name="expPenalty" val="0"/>
+</skill>
+<skill id="7032" levels="1" name="Summon Hunter Gargoyle">
+  <set name="itemConsumeId" val="1458"/>
+  <set name="mpConsume" val="3"/>
+  <set name="itemConsumeSteps" val="0"/>
+  <set name="summonTotalLifeTime" val="1200000"/>
+  <set name="summonTimeLostIdle" val="500"/>
+  <set name="summonTimeLostActive" val="1000"/>
+  <set name="target" val="TARGET_SELF"/>
+  <set name="itemConsumeCount" val="8"/>
+  <set name="reuseDelay" val="18600000"/>
+  <set name="hitTime" val="4000"/>
+  <set name="skillType" val="SUMMON"/>
+  <set name="isMagic" val="true"/>
+  <set name="operateType" val="OP_ACTIVE"/>
+  <set name="npcId" val="20241"/>
+  <set name="expPenalty" val="0"/>
+</skill>
+<skill id="7041" levels="1" name="Master's Blessing - Focus">
+  <set name="mpConsume" val="2"/>
+  <set name="magicLvl" val="1"/>
+  <set name="target" val="TARGET_AURA"/>
+  <set name="skillRadius" val="400"/>
+  <set name="hitTime" val="4000"/>
+  <set name="skillType" val="BUFF"/>
+  <set name="isMagic" val="true"/>
+  <set name="operateType" val="OP_ACTIVE"/>
+  <set name="castRange" val="400"/>
+  <set name="effectRange" val="400"/>
+  <for>
+    <effect count="1" name="Buff" time="1200" val="0" stackOrder="0.3" stackType="critical_prob_up">
+      <basemul order="0x30" stat="rCrit" val="0.3"/>
+    </effect>
+  </for>
+</skill>
+<skill id="7042" levels="1" name="Master's Blessing - Death Whisper">
+  <set name="mpConsume" val="2"/>
+  <set name="magicLvl" val="1"/>
+  <set name="target" val="TARGET_AURA"/>
+  <set name="skillRadius" val="400"/>
+  <set name="hitTime" val="4000"/>
+  <set name="skillType" val="BUFF"/>
+  <set name="isMagic" val="true"/>
+  <set name="operateType" val="OP_ACTIVE"/>
+  <set name="castRange" val="400"/>
+  <set name="effectRange" val="900"/>
+  <set name="coolTime" val="332"/>
+  <for>
+    <effect count="1" name="Buff" time="1200" val="0" stackOrder="1.35" stackType="critical_dmg_up">
+      <mul order="0x30" stat="cAtk" val="1.35"/>
+    </effect>
+  </for>
+</skill>
+<skill id="7043" levels="1" name="Master's Blessing - Haste">
+  <set name="mpConsume" val="2"/>
+  <set name="magicLvl" val="1"/>
+  <set name="target" val="TARGET_AURA"/>
+  <set name="skillRadius" val="400"/>
+  <set name="hitTime" val="4000"/>
+  <set name="skillType" val="BUFF"/>
+  <set name="isMagic" val="true"/>
+  <set name="operateType" val="OP_ACTIVE"/>
+  <set name="castRange" val="400"/>
+  <set name="effectRange" val="900"/>
+  <set name="coolTime" val="332"/>
+  <for>
+    <effect count="1" name="Buff" time="1200" val="0" stackOrder="1.33" stackType="attack_time_down">
+      <mul order="0x30" stat="pAtkSpd" val="1.33"/>
+    </effect>
+  </for>
+</skill>
+<skill id="7044" levels="1" name="Master's Blessing - Guidance">
+  <set name="mpConsume" val="2"/>
+  <set name="magicLvl" val="1"/>
+  <set name="target" val="TARGET_AURA"/>
+  <set name="skillRadius" val="400"/>
+  <set name="hitTime" val="4000"/>
+  <set name="skillType" val="BUFF"/>
+  <set name="isMagic" val="true"/>
+  <set name="operateType" val="OP_ACTIVE"/>
+  <set name="castRange" val="400"/>
+  <set name="effectRange" val="900"/>
+  <set name="coolTime" val="332"/>
+  <for>
+    <effect name="Buff" time="1200" count="1" val="0" stackOrder="4" stackType="hit_up">
+      <add order="0x40" stat="accCombat" val="4"/>
+    </effect>
+  </for>
+</skill>
+<skill id="7045" levels="1" name="Master's Blessing - Blessed Body">
+  <set name="mpConsume" val="2"/>
+  <set name="magicLvl" val="1"/>
+  <set name="target" val="TARGET_AURA"/>
+  <set name="skillRadius" val="400"/>
+  <set name="hitTime" val="4000"/>
+  <set name="skillType" val="BUFF"/>
+  <set name="isMagic" val="true"/>
+  <set name="operateType" val="OP_ACTIVE"/>
+  <set name="castRange" val="400"/>
+  <set name="effectRange" val="900"/>
+  <set name="coolTime" val="332"/>
+  <for>
+    <effect count="1" name="Buff" time="1200" val="0" stackOrder="1.35" stackType="max_hp_up">
+      <mul order="0x30" stat="maxHp" val="1.35"/>
+    </effect>
+  </for>
+</skill>
+<skill id="7046" levels="1" name="Master's Blessing - Blessed Soul">
+  <set name="mpConsume" val="2"/>
+  <set name="magicLvl" val="1"/>
+  <set name="target" val="TARGET_AURA"/>
+  <set name="skillRadius" val="400"/>
+  <set name="hitTime" val="4000"/>
+  <set name="skillType" val="BUFF"/>
+  <set name="isMagic" val="true"/>
+  <set name="operateType" val="OP_ACTIVE"/>
+  <set name="castRange" val="400"/>
+  <set name="effectRange" val="900"/>
+  <set name="coolTime" val="332"/>
+  <for>
+    <effect count="1" name="Buff" time="1200" val="0" stackOrder="1.35" stackType="max_mp_up">
+      <mul order="0x30" stat="maxMp" val="1.35"/>
+    </effect>
+  </for>
+</skill>
+<skill id="7047" levels="1" name="Master's Blessing - Agility">
+  <set name="mpConsume" val="2"/>
+  <set name="magicLvl" val="1"/>
+  <set name="target" val="TARGET_AURA"/>
+  <set name="skillRadius" val="400"/>
+  <set name="hitTime" val="4000"/>
+  <set name="skillType" val="BUFF"/>
+  <set name="isMagic" val="true"/>
+  <set name="operateType" val="OP_ACTIVE"/>
+  <set name="castRange" val="400"/>
+  <set name="effectRange" val="900"/>
+  <set name="coolTime" val="332"/>
+  <for>
+    <effect count="1" name="Buff" time="1200" val="0" stackOrder="4" stackType="rEvas">
+      <add order="0x40" stat="rEvas" val="4"/>
+    </effect>
+  </for>
+</skill>
+<skill id="7048" levels="1" name="Master's Blessing - Acumen">
+  <set name="mpConsume" val="2"/>
+  <set name="magicLvl" val="1"/>
+  <set name="target" val="TARGET_AURA"/>
+  <set name="skillRadius" val="400"/>
+  <set name="hitTime" val="4000"/>
+  <set name="skillType" val="BUFF"/>
+  <set name="isMagic" val="true"/>
+  <set name="operateType" val="OP_ACTIVE"/>
+  <set name="castRange" val="400"/>
+  <set name="effectRange" val="900"/>
+  <set name="coolTime" val="332"/>
+  <for>
+    <effect count="1" name="Buff" time="1200" val="0" stackOrder="1.3" stackType="casting_time_down">
+      <mul order="0x30" stat="mAtkSpd" val="1.3"/>
+    </effect>
+  </for>
+</skill>
+<skill id="7049" levels="1" name="Master's Blessing - Decrease Weight">
+  <set name="mpConsume" val="2"/>
+  <set name="magicLvl" val="1"/>
+  <set name="target" val="TARGET_AURA"/>
+  <set name="skillRadius" val="400"/>
+  <set name="hitTime" val="4000"/>
+  <set name="skillType" val="BUFF"/>
+  <set name="isMagic" val="true"/>
+  <set name="operateType" val="OP_ACTIVE"/>
+  <set name="castRange" val="400"/>
+  <set name="effectRange" val="900"/>
+  <set name="coolTime" val="332"/>
+  <for>
+    <effect count="1" name="Buff" time="1200" val="0" stackOrder="9000" stackType="Weight">
+      <add order="0x40" stat="maxLoad" val="9000"/>
+    </effect>
+  </for>
+</skill>
+<skill id="7050" levels="1" name="Master's Blessing - Might">
+  <set name="mpConsume" val="2"/>
+  <set name="magicLvl" val="1"/>
+  <set name="target" val="TARGET_AURA"/>
+  <set name="skillRadius" val="400"/>
+  <set name="hitTime" val="4000"/>
+  <set name="skillType" val="BUFF"/>
+  <set name="isMagic" val="true"/>
+  <set name="operateType" val="OP_ACTIVE"/>
+  <set name="castRange" val="400"/>
+  <set name="effectRange" val="900"/>
+  <set name="coolTime" val="332"/>
+  <for>
+    <effect count="1" name="Buff" time="1200" val="0" stackOrder="1.15" stackType="pa_up">
+      <mul order="0x30" stat="pAtk" val="1.15"/>
+    </effect>
+  </for>
+</skill>
+<skill id="7051" levels="1" name="Master's Blessing - Shield">
+  <set name="mpConsume" val="2"/>
+  <set name="magicLvl" val="1"/>
+  <set name="target" val="TARGET_AURA"/>
+  <set name="skillRadius" val="400"/>
+  <set name="hitTime" val="4000"/>
+  <set name="skillType" val="BUFF"/>
+  <set name="isMagic" val="true"/>
+  <set name="operateType" val="OP_ACTIVE"/>
+  <set name="castRange" val="400"/>
+  <set name="effectRange" val="900"/>
+  <set name="coolTime" val="332"/>
+  <for>
+    <effect count="1" name="Buff" time="1200" val="0" stackOrder="1.15" stackType="pd_up">
+      <mul order="0x30" stat="pDef" val="1.15"/>
+    </effect>
+  </for>
+</skill>
+<skill id="7052" levels="1" name="Master's Blessing - Magic Barrier">
+  <set name="mpConsume" val="2"/>
+  <set name="magicLvl" val="1"/>
+  <set name="target" val="TARGET_AURA"/>
+  <set name="skillRadius" val="400"/>
+  <set name="hitTime" val="4000"/>
+  <set name="skillType" val="BUFF"/>
+  <set name="isMagic" val="true"/>
+  <set name="operateType" val="OP_ACTIVE"/>
+  <set name="castRange" val="400"/>
+  <set name="effectRange" val="900"/>
+  <set name="coolTime" val="332"/>
+  <for>
+    <effect count="1" name="Buff" time="1200" val="0" stackOrder="1.3" stackType="MagicDefUp">
+      <mul order="0x30" stat="mDef" val="1.3"/>
+    </effect>
+  </for>
+</skill>
+<skill id="7053" levels="1" name="Master's Blessing - Vampiric Rage">
+  <set name="mpConsume" val="2"/>
+  <set name="magicLvl" val="1"/>
+  <set name="target" val="TARGET_AURA"/>
+  <set name="skillRadius" val="400"/>
+  <set name="hitTime" val="4000"/>
+  <set name="skillType" val="BUFF"/>
+  <set name="isMagic" val="true"/>
+  <set name="operateType" val="OP_ACTIVE"/>
+  <set name="castRange" val="400"/>
+  <set name="effectRange" val="900"/>
+  <set name="coolTime" val="332"/>
+  <for>
+    <effect name="Buff" time="1200" count="1" val="0" stackOrder="9" stackType="vampRage">
+      <add order="0x40" stat="absorbDam" val="9"/>
+    </effect>
+  </for>
+</skill>
+<skill id="7054" levels="1" name="Master's Blessing - Empower">
+  <set name="mpConsume" val="2"/>
+  <set name="magicLvl" val="1"/>
+  <set name="target" val="TARGET_AURA"/>
+  <set name="skillRadius" val="400"/>
+  <set name="hitTime" val="4000"/>
+  <set name="skillType" val="BUFF"/>
+  <set name="isMagic" val="true"/>
+  <set name="operateType" val="OP_ACTIVE"/>
+  <set name="castRange" val="400"/>
+  <set name="effectRange" val="900"/>
+  <set name="coolTime" val="332"/>
+  <for>
+    <effect count="1" name="Buff" time="1200" val="0" stackOrder="1.75" stackType="ma_up">
+      <mul order="0x30" stat="mAtk" val="1.75"/>
+    </effect>
+  </for>
+</skill>
+<skill id="7055" levels="1" name="Master's Blessing - Wind Walk">
+  <set name="mpConsume" val="2"/>
+  <set name="magicLvl" val="1"/>
+  <set name="target" val="TARGET_AURA"/>
+  <set name="skillRadius" val="400"/>
+  <set name="hitTime" val="4000"/>
+  <set name="skillType" val="BUFF"/>
+  <set name="isMagic" val="true"/>
+  <set name="operateType" val="OP_ACTIVE"/>
+  <set name="castRange" val="400"/>
+  <set name="effectRange" val="900"/>
+  <set name="coolTime" val="332"/>
+  <for>
+    <effect count="1" name="Buff" time="1200" val="0" stackOrder="33" stackType="speed_up">
+      <add order="0x40" stat="runSpd" val="33"/>
+    </effect>
+  </for>
+</skill>
+<skill id="7056" levels="1" name="Master's Blessing - Berserker Spirit">
+  <set name="mpConsume" val="2"/>
+  <set name="magicLvl" val="1"/>
+  <set name="target" val="TARGET_AURA"/>
+  <set name="skillRadius" val="400"/>
+  <set name="hitTime" val="4000"/>
+  <set name="skillType" val="BUFF"/>
+  <set name="isMagic" val="true"/>
+  <set name="operateType" val="OP_ACTIVE"/>
+  <set name="castRange" val="400"/>
+  <set name="effectRange" val="900"/>
+  <set name="coolTime" val="332"/>
+  <for>
+    <effect count="1" name="Buff" time="1200" val="0" stackOrder="1" stackType="berserk">
+      <mul order="0x30" stat="mAtk" val="1.16"/>
+      <mul order="0x30" stat="pAtk" val="1.08"/>
+      <mul order="0x30" stat="mDef" val="0.84"/>
+      <mul order="0x30" stat="pDef" val="0.92"/>
+      <mul order="0x30" stat="mAtkSpd" val="1.08"/>
+      <mul order="0x30" stat="pAtkSpd" val="1.08"/>
+      <add order="0x40" stat="runSpd" val="8"/>
+      <sub order="0x40" stat="rEvas" val="4"/>
+    </effect>
+  </for>
+</skill>
+<skill id="7057" levels="1" name="Master's Blessing - Greater Might">
+  <set name="mpConsume" val="2"/>
+  <set name="magicLvl" val="1"/>
+  <set name="target" val="TARGET_AURA"/>
+  <set name="skillRadius" val="400"/>
+  <set name="hitTime" val="4000"/>
+  <set name="skillType" val="BUFF"/>
+  <set name="isMagic" val="true"/>
+  <set name="operateType" val="OP_ACTIVE"/>
+  <set name="castRange" val="400"/>
+  <set name="effectRange" val="900"/>
+  <set name="coolTime" val="332"/>
+  <for>
+    <effect count="1" name="Buff" time="1200" val="0" stackOrder="0" stackType="Great">
+      <mul order="0x30" stat="pAtk" val="1.1"/>
+    </effect>
+  </for>
+</skill>
+<skill id="7058" levels="1" name="Master's Blessing - Greater Shield">
+  <set name="mpConsume" val="2"/>
+  <set name="magicLvl" val="1"/>
+  <set name="target" val="TARGET_AURA"/>
+  <set name="skillRadius" val="400"/>
+  <set name="hitTime" val="4000"/>
+  <set name="skillType" val="BUFF"/>
+  <set name="isMagic" val="true"/>
+  <set name="operateType" val="OP_ACTIVE"/>
+  <set name="castRange" val="400"/>
+  <set name="effectRange" val="900"/>
+  <set name="coolTime" val="332"/>
+  <for>
+    <effect count="1" name="Buff" time="1200" val="0" stackOrder="0" stackType="Great">
+      <mul order="0x30" stat="pDef" val="1.15"/>
+    </effect>
+  </for>
+</skill>
+<skill id="7059" levels="1" name="Master's Blessing - Wild Magic">
+  <set name="mpConsume" val="2"/>
+  <set name="magicLvl" val="1"/>
+  <set name="target" val="TARGET_AURA"/>
+  <set name="skillRadius" val="400"/>
+  <set name="hitTime" val="4000"/>
+  <set name="skillType" val="BUFF"/>
+  <set name="isMagic" val="true"/>
+  <set name="operateType" val="OP_ACTIVE"/>
+  <set name="castRange" val="400"/>
+  <set name="effectRange" val="900"/>
+  <set name="coolTime" val="332"/>
+  <for>
+    <effect name="Buff" time="1200" count="1" val="0" stackOrder="4" stackType="magic_critical_up">
+      <mul order="0x30" stat="mCritRate" val="1.4"/>
+    </effect>
+  </for>
+</skill>
+<skill id="7060" levels="1" name="Master's Blessing - Clarity">
+  <set name="mpConsume" val="2"/>
+  <set name="magicLvl" val="1"/>
+  <set name="target" val="TARGET_AURA"/>
+  <set name="skillRadius" val="400"/>
+  <set name="hitTime" val="4000"/>
+  <set name="skillType" val="BUFF"/>
+  <set name="isMagic" val="true"/>
+  <set name="operateType" val="OP_ACTIVE"/>
+  <set name="castRange" val="400"/>
+  <set name="effectRange" val="900"/>
+  <set name="coolTime" val="332"/>
+  <for>
+    <effect count="1" name="Buff" time="1200" val="0" stackOrder="3" stackType="MPrate">
+      <mul order="0x30" stat="MagicalMpConsumeRate" val="0.9"/>
+      <mul order="0x30" stat="PhysicalMpConsumeRate" val="0.9"/>
+    </effect>
+  </for>
+</skill>
+<skill id="7061" levels="1" name="Master's Blessing - Prophecy of Water">
+  <set name="mpConsume" val="2"/>
+  <set name="magicLvl" val="1"/>
+  <set name="target" val="TARGET_AURA"/>
+  <set name="skillRadius" val="400"/>
+  <set name="hitTime" val="4000"/>
+  <set name="skillType" val="BUFF"/>
+  <set name="isMagic" val="true"/>
+  <set name="operateType" val="OP_ACTIVE"/>
+  <set name="castRange" val="400"/>
+  <set name="effectRange" val="900"/>
+  <set name="coolTime" val="332"/>
+  <for>
+    <effect count="1" name="Buff" time="1200" val="0" stackOrder="1" stackType="multi_buff">
+      <mul order="0x30" stat="mAtk" val="1.2"/>
+      <mul order="0x30" stat="mDef" val="1.2"/>
+      <mul order="0x30" stat="mAtkSpd" val="1.2"/>
+      <mul order="0x30" stat="mCritRate" val="1.2"/>
+      <mul order="0x30" stat="regMp" val="1.2"/>
+      <mul order="0x30" stat="runSpd" val="0.8"/>
+      <mul order="0x30" stat="debuffVuln" val="0.9"/>
+    </effect>
+  </for>
+</skill>
+<skill id="7062" levels="1" name="Master's Blessing - Prophecy of Fire">
+  <set name="mpConsume" val="2"/>
+  <set name="magicLvl" val="1"/>
+  <set name="target" val="TARGET_AURA"/>
+  <set name="skillRadius" val="400"/>
+  <set name="hitTime" val="4000"/>
+  <set name="skillType" val="BUFF"/>
+  <set name="isMagic" val="true"/>
+  <set name="operateType" val="OP_ACTIVE"/>
+  <set name="castRange" val="400"/>
+  <set name="effectRange" val="900"/>
+  <set name="coolTime" val="332"/>
+  <for>
+    <effect count="1" name="Buff" time="1200" val="0" stackOrder="1" stackType="multi_buff">
+      <mul order="0x30" stat="pAtk" val="1.1"/>
+      <mul order="0x30" stat="pDef" val="1.2"/>
+      <add order="0x40" stat="accCombat" val="4"/>
+      <mul order="0x30" stat="pAtkSpd" val="1.2"/>
+      <mul order="0x30" stat="runSpd" val="0.9"/>
+      <mul order="0x30" stat="maxHp" val="1.2"/>
+      <mul order="0x30" stat="regHp" val="1.2"/>
+      <mul order="0x30" stat="debuffVuln" val="0.9"/>
+    </effect>
+  </for>
+</skill>
+<skill id="7063" levels="1" name="Master's Blessing - Prophecy of Wind">
+  <set name="mpConsume" val="2"/>
+  <set name="magicLvl" val="1"/>
+  <set name="target" val="TARGET_AURA"/>
+  <set name="skillRadius" val="400"/>
+  <set name="hitTime" val="4000"/>
+  <set name="skillType" val="BUFF"/>
+  <set name="isMagic" val="true"/>
+  <set name="operateType" val="OP_ACTIVE"/>
+  <set name="castRange" val="400"/>
+  <set name="effectRange" val="900"/>
+  <set name="coolTime" val="332"/>
+  <for>
+    <effect count="1" name="Buff" time="1200" val="0" stackOrder="1" stackType="multi_buff">
+      <add order="0x40" stat="absorbDam" val="5"/>
+      <add order="0x40" stat="accCombat" val="4"/>
+      <add order="0x40" stat="rEvas" val="4"/>
+      <mul order="0x30" stat="pAtkSpd" val="1.20"/>
+      <mul order="0x30" stat="cAtk" val="1.2">
+        <player behind="True"/>
+      </mul>
+      <basemul order="0x30" stat="rCrit" val="0.2">
+        <player behind="True"/>
+      </basemul>
+      <mul order="0x30" stat="debuffVuln" val="0.9"/>
+    </effect>
+  </for>
+</skill>
+<skill id="7064" levels="1" name="Master's Blessing - Chant of Victory">
+  <set name="mpConsume" val="2"/>
+  <set name="magicLvl" val="1"/>
+  <set name="target" val="TARGET_AURA"/>
+  <set name="skillRadius" val="400"/>
+  <set name="hitTime" val="4000"/>
+  <set name="skillType" val="BUFF"/>
+  <set name="isMagic" val="true"/>
+  <set name="operateType" val="OP_ACTIVE"/>
+  <set name="castRange" val="400"/>
+  <set name="effectRange" val="900"/>
+  <set name="coolTime" val="332"/>
+  <for>
+    <effect count="1" name="Buff" time="1200" val="0" stackOrder="2" stackType="multi_buff">
+      <mul order="0x30" stat="pAtk" val="1.1"/>
+      <mul order="0x30" stat="pDef" val="1.2"/>
+      <basemul order="0x30" stat="rCrit" val="0.2"/>
+      <add order="0x40" stat="accCombat" val="4"/>
+      <mul order="0x30" stat="pAtkSpd" val="1.2"/>
+      <mul order="0x30" stat="mAtkSpd" val="1.2"/>
+      <mul order="0x30" stat="cAtk" val="1.2"/>
+      <mul order="0x30" stat="mAtk" val="1.2"/>
+      <mul order="0x30" stat="mDef" val="1.2"/>
+      <mul order="0x30" stat="runSpd" val="0.8"/>
+      <mul order="0x30" stat="maxHp" val="1.2"/>
+      <mul order="0x30" stat="debuffVuln" val="0.8"/>
+    </effect>
+  </for>
+</skill>
+</list>

@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE list SYSTEM "skills.dtd">
+<list>
+<skill id="600" levels="1" name="Residence Guidance">
+  <set name="target" val="TARGET_SELF"/>
+  <set name="skillType" val="BUFF"/>
+  <set name="operateType" val="OP_PASSIVE"/>
+  <set name="isMagic" val="true"/>
+  <for>
+    <add order="0x40" stat="accCombat" val="4"/>
+  </for>
+</skill>
+<skill id="601" levels="1" name="Residence Agility">
+  <set name="target" val="TARGET_SELF"/>
+  <set name="skillType" val="BUFF"/>
+  <set name="operateType" val="OP_PASSIVE"/>
+  <set name="isMagic" val="true"/>
+  <for>
+    <add order="0x40" stat="rEvas" val="4"/>
+  </for>
+</skill>
+<skill id="602" levels="1" name="Residence Shield Block">
+  <set name="target" val="TARGET_SELF"/>
+  <set name="skillType" val="BUFF"/>
+  <set name="operateType" val="OP_PASSIVE"/>
+  <set name="isMagic" val="true"/>
+  <for>
+    <add order="0x40" stat="rShld" val="54.7"/>
+  </for>
+</skill>
+<skill id="603" levels="1" name="Residence Shield Defense">
+  <set name="target" val="TARGET_SELF"/>
+  <set name="skillType" val="BUFF"/>
+  <set name="operateType" val="OP_PASSIVE"/>
+  <set name="isMagic" val="true"/>
+  <for>
+    <add order="0x40" stat="sDef" val="225"/>
+  </for>
+</skill>
+<skill id="604" levels="1" name="Residence Resist Typhoon">
+  <set name="target" val="TARGET_SELF"/>
+  <set name="skillType" val="BUFF"/>
+  <set name="operateType" val="OP_PASSIVE"/>
+  <set name="isMagic" val="true"/>
+  <for>
+    <mul order="0x30" stat="windVuln" val="0.9"/>
+    <mul order="0x30" stat="waterVuln" val="0.9"/>
+  </for>
+</skill>
+<skill id="605" levels="1" name="Residence Resist Lava">
+  <set name="target" val="TARGET_SELF"/>
+  <set name="skillType" val="BUFF"/>
+  <set name="operateType" val="OP_PASSIVE"/>
+  <set name="isMagic" val="true"/>
+  <for>
+    <mul order="0x30" stat="fireVuln" val="0.9"/>
+    <mul order="0x30" stat="earthVuln" val="0.9"/>
+  </for>
+</skill>
+<skill id="606" levels="1" name="Residence Fortitude">
+  <set name="target" val="TARGET_SELF"/>
+  <set name="skillType" val="BUFF"/>
+  <set name="operateType" val="OP_PASSIVE"/>
+  <set name="isMagic" val="true"/>
+  <for>
+    <mul order="0x30" stat="stunVuln" val="0.9"/>
+  </for>
+</skill>
+<skill id="607" levels="1" name="Residence Freedom">
+  <set name="target" val="TARGET_SELF"/>
+  <set name="skillType" val="BUFF"/>
+  <set name="operateType" val="OP_PASSIVE"/>
+  <set name="isMagic" val="true"/>
+  <for>
+    <mul order="0x30" stat="rootVuln" val="0.9"/>
+  </for>
+</skill>
+<skill id="608" levels="1" name="Residence Vigilance">
+  <set name="target" val="TARGET_SELF"/>
+  <set name="skillType" val="BUFF"/>
+  <set name="operateType" val="OP_PASSIVE"/>
+  <set name="isMagic" val="true"/>
+  <for>
+    <mul order="0x30" stat="sleepVuln" val="0.9"/>
+  </for>
+</skill>
+<skill id="609" levels="1" name="Residence Movement">
+  <set name="target" val="TARGET_SELF"/>
+  <set name="skillType" val="BUFF"/>
+  <set name="operateType" val="OP_PASSIVE"/>
+  <set name="isMagic" val="true"/>
+  <set name="minPledgeClass" val="7"/>
+  <for>
+    <add order="0x40" stat="runSpd" val="6"/>
+  </for>
+</skill>
+<skill id="610" levels="1" name="Residence Death Fortune">
+  <set name="target" val="TARGET_SELF"/>
+  <set name="skillType" val="BUFF"/>
+  <set name="operateType" val="OP_PASSIVE"/>
+  <set name="isMagic" val="true"/>
+  <for>
+    <mul order="0x30" stat="lostExp" val="0.7"/>
+  </for>
+</skill>
+</list>

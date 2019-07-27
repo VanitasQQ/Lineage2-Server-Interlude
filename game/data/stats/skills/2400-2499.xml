@@ -1,0 +1,742 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE list SYSTEM "skills.dtd">
+<list>
+<skill id="2400" levels="1" name="Red Coral Treasure Chest Key">
+  <set name="target" val="TARGET_NONE"/>
+  <set name="skillType" val="NOTDONE"/>
+  <set name="operateType" val="OP_PASSIVE"/>
+  <set name="hitTime" val="500"/>
+</skill>
+<skill id="2401" levels="1" name="Lesser Battlefield Mana Potion">
+  <set name="target" val="TARGET_NONE"/>
+  <set name="skillType" val="NOTDONE"/>
+  <set name="operateType" val="OP_PASSIVE"/>
+</skill>
+<skill id="2402" levels="1" name="Lesser Battlefield CP Potion">
+  <set name="power" val="50"/>
+  <set name="target" val="TARGET_SELF"/>
+  <set name="skillType" val="COMBATPOINTHEAL"/>
+  <set name="operateType" val="OP_ACTIVE"/>
+  <set name="reuseDelay" val="1000"/>
+  <set name="staticReuse" val="true"/>
+  <set name="isPotion" val="true"/>
+</skill>
+<skill id="2403" levels="1" name="Spring CP Potion">
+  <set name="power" val="1000"/>
+  <set name="target" val="TARGET_SELF"/>
+  <set name="skillType" val="COMBATPOINTHEAL"/>
+  <set name="operateType" val="OP_ACTIVE"/>
+  <set name="reuseDelay" val="600000"/>
+  <set name="staticReuse" val="true"/>
+  <set name="isPotion" val="true"/>
+</skill>
+<skill id="2404" levels="1" name="Might">
+  <set name="target" val="TARGET_SELF"/>
+  <set name="skillType" val="BUFF"/>
+  <set name="operateType" val="OP_ACTIVE"/>
+  <set name="isPotion" val="true"/>
+  <set name="buffDuration" val="3600000"/>
+  <for>
+    <effect count="1" name="Buff" time="3600" val="0" stackOrder="1.15" stackType="pa_up">
+      <mul order="0x30" stat="pAtk" val="1.12"/>
+    </effect>
+  </for>
+</skill>
+<skill id="2405" levels="1" name="Shield">
+  <set name="target" val="TARGET_SELF"/>
+  <set name="skillType" val="BUFF"/>
+  <set name="operateType" val="OP_ACTIVE"/>
+  <set name="isPotion" val="true"/>
+  <set name="buffDuration" val="3600000"/>
+  <for>
+    <effect count="1" name="Buff" time="3600" val="0" stackOrder="1.15" stackType="pd_up">
+      <mul order="0x30" stat="pDef" val="1.12"/>
+    </effect>
+  </for>
+</skill>
+<skill id="2406" levels="1" name="Wind Walk">
+  <set name="target" val="TARGET_SELF"/>
+  <set name="skillType" val="BUFF"/>
+  <set name="operateType" val="OP_ACTIVE"/>
+  <set name="isPotion" val="true"/>
+  <set name="buffDuration" val="3600000"/>
+  <for>
+    <effect count="1" name="Buff" time="3600" val="0" stackOrder="40" stackType="speed_up">
+      <add order="0x40" stat="runSpd" val="33"/>
+    </effect>
+  </for>
+</skill>
+<skill id="2407" levels="1" name="Focus">
+  <set name="target" val="TARGET_SELF"/>
+  <set name="skillType" val="BUFF"/>
+  <set name="operateType" val="OP_ACTIVE"/>
+  <set name="isPotion" val="true"/>
+  <set name="buffDuration" val="3600000"/>
+  <for>
+    <effect count="1" name="Buff" time="3600" val="0" stackOrder="0.3" stackType="critical_prob_up">
+      <basemul order="0x30" stat="rCrit" val="0.25"/>
+    </effect>
+  </for>
+</skill>
+<skill id="2408" levels="1" name="Death Whisper">
+  <set name="target" val="TARGET_SELF"/>
+  <set name="skillType" val="BUFF"/>
+  <set name="operateType" val="OP_ACTIVE"/>
+  <set name="isPotion" val="true"/>
+  <set name="buffDuration" val="3600000"/>
+  <for>
+    <effect count="1" name="Buff" time="3600" val="0" stackOrder="1.35" stackType="critical_dmg_up">
+      <mul order="0x30" stat="cAtk" val="1.32"/>
+    </effect>
+  </for>
+</skill>
+<skill id="2409" levels="1" name="Guidance">
+  <set name="target" val="TARGET_SELF"/>
+  <set name="skillType" val="BUFF"/>
+  <set name="operateType" val="OP_ACTIVE"/>
+  <set name="isPotion" val="true"/>
+  <set name="buffDuration" val="3600000"/>
+  <for>
+    <effect count="1" name="Buff" time="3600" val="0" stackOrder="4" stackType="hit_up">
+      <add order="0x40" stat="accCombat" val="3"/>
+    </effect>
+  </for>
+</skill>
+<skill id="2410" levels="1" name="Bless Shield">
+  <set name="target" val="TARGET_SELF"/>
+  <set name="skillType" val="BUFF"/>
+  <set name="operateType" val="OP_ACTIVE"/>
+  <set name="isPotion" val="true"/>
+  <set name="buffDuration" val="3600000"/>
+  <for>
+    <effect count="1" name="Buff" time="3600" val="0" stackOrder="1.5" stackType="shieldProbUp">
+      <mul order="0x30" stat="rShld" val="1.4"/>
+    </effect>
+  </for>
+</skill>
+<skill id="2411" levels="1" name="Blessed Body">
+  <set name="target" val="TARGET_SELF"/>
+  <set name="skillType" val="BUFF"/>
+  <set name="operateType" val="OP_ACTIVE"/>
+  <set name="isPotion" val="true"/>
+  <set name="buffDuration" val="3600000"/>
+  <for>
+    <effect count="1" name="Buff" time="3600" val="0" stackOrder="1.25" stackType="max_hp_up">
+      <mul order="0x30" stat="maxHp" val="1.2"/>
+    </effect>
+  </for>
+</skill>
+<skill id="2412" levels="1" name="Haste">
+  <set name="target" val="TARGET_SELF"/>
+  <set name="skillType" val="BUFF"/>
+  <set name="operateType" val="OP_ACTIVE"/>
+  <set name="isPotion" val="true"/>
+  <set name="buffDuration" val="3600000"/>
+  <for>
+    <effect count="1" name="Buff" time="3600" val="0" stackOrder="1.2" stackType="attack_time_down">
+      <mul order="0x30" stat="pAtkSpd" val="1.15"/>
+    </effect>
+  </for>
+</skill>
+<skill id="2413" levels="1" name="Vampiric Rage">
+  <set name="target" val="TARGET_SELF"/>
+  <set name="skillType" val="BUFF"/>
+  <set name="operateType" val="OP_ACTIVE"/>
+  <set name="isPotion" val="true"/>
+  <set name="buffDuration" val="3600000"/>
+  <for>
+    <effect count="1" name="Buff" time="3600" val="0" stackOrder="9" stackType="vampRage">
+      <add order="0x40" stat="absorbDam" val="7"/> <!-- absorb 7% HP from damage inflicted on enemies -->
+    </effect>
+  </for>
+</skill>
+<skill id="2414" levels="1" name="Berserker Spirit">
+  <set name="target" val="TARGET_SELF"/>
+  <set name="skillType" val="BUFF"/>
+  <set name="operateType" val="OP_ACTIVE"/>
+  <set name="isPotion" val="true"/>
+  <set name="buffDuration" val="3600000"/>
+  <for>
+    <effect count="1" name="Buff" time="3600" val="0" stackOrder="1" stackType="berserk">
+      <mul order="0x30" stat="mAtk" val="1.1"/>
+      <mul order="0x30" stat="pAtk" val="1.05"/>
+      <mul order="0x30" stat="mDef" val="0.9"/>
+      <mul order="0x30" stat="pDef" val="0.95"/>
+      <mul order="0x30" stat="mAtkSpd" val="1.05"/>
+      <mul order="0x30" stat="pAtkSpd" val="1.05"/>
+      <add order="0x40" stat="runSpd" val="5"/>
+      <sub order="0x40" stat="rEvas" val="2"/>
+    </effect>
+  </for>
+</skill>
+<skill id="2415" levels="1" name="Magic Barrier">
+  <set name="target" val="TARGET_SELF"/>
+  <set name="skillType" val="BUFF"/>
+  <set name="operateType" val="OP_ACTIVE"/>
+  <set name="isPotion" val="true"/>
+  <set name="buffDuration" val="3600000"/>
+  <for>
+    <effect count="1" name="Buff" time="3600" val="0" stackOrder="1.3" stackType="MagicDefUp">
+      <mul order="0x30" stat="mDef" val="1.23"/>
+    </effect>
+  </for>
+</skill>
+<skill id="2416" levels="1" name="Blessed Soul">
+  <set name="target" val="TARGET_SELF"/>
+  <set name="skillType" val="BUFF"/>
+  <set name="operateType" val="OP_ACTIVE"/>
+  <set name="isPotion" val="true"/>
+  <set name="buffDuration" val="3600000"/>
+  <for>
+    <effect count="1" name="Buff" time="3600" val="0" stackOrder="1.25" stackType="max_mp_up">
+      <mul order="0x30" stat="maxMp" val="1.2"/>
+    </effect>
+  </for>
+</skill>
+<skill id="2417" levels="1" name="Empower">
+  <set name="target" val="TARGET_SELF"/>
+  <set name="skillType" val="BUFF"/>
+  <set name="operateType" val="OP_ACTIVE"/>
+  <set name="isPotion" val="true"/>
+  <set name="buffDuration" val="3600000"/>
+  <for>
+    <effect count="1" name="Buff" time="3600" val="0" stackOrder="1.75" stackType="ma_up">
+      <mul order="0x30" stat="mAtk" val="1.65"/>
+    </effect>
+  </for>
+</skill>
+<skill id="2418" levels="1" name="Acumen">
+  <set name="target" val="TARGET_SELF"/>
+  <set name="skillType" val="BUFF"/>
+  <set name="operateType" val="OP_ACTIVE"/>
+  <set name="isPotion" val="true"/>
+  <set name="buffDuration" val="3600000"/>
+  <for>
+    <effect count="1" name="Buff" time="3600" val="0" stackOrder="1.3" stackType="casting_time_down">
+      <mul order="0x30" stat="mAtkSpd" val="1.23"/>
+    </effect>
+  </for>
+</skill>
+<skill id="2419" levels="1" name="Clarity">
+  <set name="target" val="TARGET_SELF"/>
+  <set name="skillType" val="BUFF"/>
+  <set name="operateType" val="OP_ACTIVE"/>
+  <set name="isPotion" val="true"/>
+  <set name="buffDuration" val="3600000"/>
+  <for>
+    <effect count="1" name="Buff" time="3600" val="0" stackOrder="2" stackType="MPrate">
+      <mul order="0x30" stat="MagicalMpConsumeRate" val="0.9"/>
+      <mul order="0x30" stat="PhysicalMpConsumeRate" val="0.9"/>
+      <mul order="0x30" stat="DanceMpConsumeRate" val="0.9"/>
+    </effect>
+  </for>
+</skill>
+<skill id="2420" levels="1" name="White Seed of Evil LUmp">
+  <set name="target" val="TARGET_NONE"/>
+  <set name="skillType" val="NOTDONE"/>
+  <set name="operateType" val="OP_PASSIVE"/>
+</skill>
+<skill id="2421" levels="1" name="Black Seed of Evil LUmp">
+  <set name="target" val="TARGET_NONE"/>
+  <set name="skillType" val="NOTDONE"/>
+  <set name="operateType" val="OP_PASSIVE"/>
+</skill>
+<skill id="2422" levels="1" name="1st Place Treasure Sack">
+  <set name="itemConsumeId" val="10254"/>
+  <set name="itemConsumeCount" val="1"/>
+  <set name="target" val="TARGET_SELF"/>
+  <set name="skillType" val="EXTRACTABLE"/>
+  <set name="operateType" val="OP_ACTIVE"/>
+  <cond msgId="129">
+    <and>
+       <player invSize="10"/>
+       <player weight="80"/>
+    </and>
+  </cond>
+</skill>
+<skill id="2423" levels="2" name="2nd Place Treasure Sack">
+  <set name="itemConsumeId" val="10255"/>
+  <set name="itemConsumeCount" val="1"/>
+  <set name="target" val="TARGET_SELF"/>
+  <set name="skillType" val="EXTRACTABLE"/>
+  <set name="operateType" val="OP_ACTIVE"/>
+  <cond msgId="129">
+    <and>
+       <player invSize="10"/>
+       <player weight="80"/>
+    </and>
+  </cond>
+</skill>
+<skill id="2424" levels="3" name="3rd Place Treasure Sack">
+  <set name="itemConsumeId" val="10256"/>
+  <set name="itemConsumeCount" val="1"/>
+  <set name="target" val="TARGET_SELF"/>
+  <set name="skillType" val="EXTRACTABLE"/>
+  <set name="operateType" val="OP_ACTIVE"/>
+  <cond msgId="129">
+    <and>
+       <player invSize="10"/>
+       <player weight="80"/>
+    </and>
+  </cond>
+</skill>
+<skill id="2425" levels="4" name="4th Place Treasure Sack">
+  <set name="itemConsumeId" val="10257"/>
+  <set name="itemConsumeCount" val="1"/>
+  <set name="target" val="TARGET_SELF"/>
+  <set name="skillType" val="EXTRACTABLE"/>
+  <set name="operateType" val="OP_ACTIVE"/>
+  <cond msgId="129">
+    <and>
+       <player invSize="10"/>
+       <player weight="80"/>
+    </and>
+  </cond>
+</skill>
+<skill id="2426" levels="5" name="5th Place Treasure sack">
+  <set name="itemConsumeId" val="10258"/>
+  <set name="itemConsumeCount" val="1"/>
+  <set name="target" val="TARGET_SELF"/>
+  <set name="skillType" val="EXTRACTABLE"/>
+  <set name="operateType" val="OP_ACTIVE"/>
+  <cond msgId="129">
+    <and>
+       <player invSize="10"/>
+       <player weight="80"/>
+    </and>
+  </cond>
+</skill>
+<skill id="2427" levels="6" name="6th Place Treasure Sack">
+  <set name="itemConsumeId" val="10259"/>
+  <set name="itemConsumeCount" val="1"/>
+  <set name="target" val="TARGET_SELF"/>
+  <set name="skillType" val="EXTRACTABLE"/>
+  <set name="operateType" val="OP_ACTIVE"/>
+  <cond msgId="129">
+    <and>
+       <player invSize="10"/>
+       <player weight="80"/>
+    </and>
+  </cond>
+</skill>
+<skill id="2429" levels="1" name="Haste Juice">
+  <set name="target" val="TARGET_SELF"/>
+  <set name="skillType" val="BUFF"/>
+  <set name="operateType" val="OP_ACTIVE"/>
+  <set name="isPotion" val="true"/>
+  <set name="buffDuration" val="3600000"/>
+  <for>
+    <effect count="1" name="Buff" time="3600" val="0" stackOrder="1.33" stackType="attack_time_down">
+      <mul order="0x30" stat="pAtkSpd" val="1.33"/>
+    </effect>
+  </for>
+</skill>
+<skill id="2430" levels="1" name="Accuracy Juice">
+  <set name="target" val="TARGET_SELF"/>
+  <set name="skillType" val="BUFF"/>
+  <set name="operateType" val="OP_ACTIVE"/>
+  <set name="isPotion" val="true"/>
+  <set name="buffDuration" val="3600000"/>
+  <for>
+    <effect count="1" name="Buff" time="3600" val="0" stackOrder="4" stackType="hit_up">
+      <add order="0x40" stat="accCombat" val="4"/>
+    </effect>
+  </for>
+</skill>
+<skill id="2431" levels="1" name="Critical Power Juice">
+  <set name="target" val="TARGET_SELF"/>
+  <set name="skillType" val="BUFF"/>
+  <set name="operateType" val="OP_ACTIVE"/>
+  <set name="isPotion" val="true"/>
+  <set name="buffDuration" val="3600000"/>
+  <for>
+    <effect count="1" name="Buff" time="3600" val="0" stackOrder="1.35" stackType="critical_dmg_up">
+      <mul order="0x30" stat="cAtk" val="1.35"/>
+    </effect>
+  </for>
+</skill>
+<skill id="2432" levels="1" name="Critical Attack Juice">
+  <set name="target" val="TARGET_SELF"/>
+  <set name="skillType" val="BUFF"/>
+  <set name="operateType" val="OP_ACTIVE"/>
+  <set name="isPotion" val="true"/>
+  <set name="buffDuration" val="3600000"/>
+  <for>
+    <effect count="1" name="Buff" time="3600" val="0" stackOrder="0.3" stackType="critical_prob_up">
+      <basemul order="0x30" stat="rCrit" val="0.3"/>
+    </effect>
+  </for>
+</skill>
+<skill id="2433" levels="1" name="Casting Speed Juice">
+  <set name="target" val="TARGET_SELF"/>
+  <set name="skillType" val="BUFF"/>
+  <set name="operateType" val="OP_ACTIVE"/>
+  <set name="isPotion" val="true"/>
+  <set name="buffDuration" val="3600000"/>
+  <for>
+    <effect count="1" name="Buff" time="3600" val="0" stackOrder="1.3" stackType="casting_time_down">
+      <mul order="0x30" stat="mAtkSpd" val="1.3"/>
+    </effect>
+  </for>
+</skill>
+<skill id="2434" levels="1" name="Evasion Juice">
+  <set name="target" val="TARGET_SELF"/>
+  <set name="skillType" val="BUFF"/>
+  <set name="operateType" val="OP_ACTIVE"/>
+  <set name="isPotion" val="true"/>
+  <set name="buffDuration" val="3600000"/>
+  <for>
+    <effect count="1" name="Buff" time="3600" val="0" stackOrder="4" stackType="rEvas">
+      <add order="0x40" stat="rEvas" val="4"/>
+    </effect>
+  </for>
+</skill>
+<skill id="2435" levels="1" name="Magic Power Juice">
+  <set name="target" val="TARGET_SELF"/>
+  <set name="skillType" val="BUFF"/>
+  <set name="operateType" val="OP_ACTIVE"/>
+  <set name="isPotion" val="true"/>
+  <set name="buffDuration" val="3600000"/>
+  <for>
+    <effect count="1" name="Buff" time="3600" val="0" stackOrder="1.76" stackType="ma_up">
+      <mul order="0x30" stat="mAtk" val="1.75"/>
+    </effect>
+  </for>
+</skill>
+<skill id="2436" levels="1" name="Power Juice">
+  <set name="target" val="TARGET_SELF"/>
+  <set name="skillType" val="BUFF"/>
+  <set name="operateType" val="OP_ACTIVE"/>
+  <set name="isPotion" val="true"/>
+  <set name="buffDuration" val="3600000"/>
+  <for>
+    <effect count="1" name="Buff" time="3600" val="0" stackOrder="1.15" stackType="pa_up">
+      <mul order="0x30" stat="pAtk" val="1.15"/>
+    </effect>
+  </for>
+</skill>
+<skill id="2437" levels="1" name="Speed Juice">
+  <set name="target" val="TARGET_SELF"/>
+  <set name="skillType" val="BUFF"/>
+  <set name="operateType" val="OP_ACTIVE"/>
+  <set name="isPotion" val="true"/>
+  <set name="buffDuration" val="3600000"/>
+  <for>
+    <effect count="1" name="Buff" time="3600" val="0" stackOrder="34" stackType="speed_up">
+      <add order="0x40" stat="runSpd" val="33"/>
+    </effect>
+  </for>
+</skill>
+<skill id="2438" levels="1" name="Defense Juice">
+  <set name="target" val="TARGET_SELF"/>
+  <set name="skillType" val="BUFF"/>
+  <set name="operateType" val="OP_ACTIVE"/>
+  <set name="isPotion" val="true"/>
+  <set name="buffDuration" val="3600000"/>
+  <for>
+    <effect count="1" name="Buff" time="3600" val="0" stackOrder="1.16" stackType="pd_up">
+      <mul order="0x30" stat="pDef" val="1.15"/>
+    </effect>
+  </for>
+</skill>
+<skill id="2439" levels="1" name="MP Consumption Juice">
+  <set name="target" val="TARGET_SELF"/>
+  <set name="skillType" val="BUFF"/>
+  <set name="operateType" val="OP_ACTIVE"/>
+  <set name="isPotion" val="true"/>
+  <set name="buffDuration" val="3600000"/>
+  <for>
+    <effect count="1" name="Buff" time="3600" val="0" stackOrder="3" stackType="MPrate">
+      <sub order="0x40" stat="MagicalMpConsumeRate" val="10"/>
+      <sub order="0x40" stat="PhysicalMpConsumeRate" val="10"/>
+      <sub order="0x40" stat="DanceMpConsumeRate" val="10"/>
+    </effect>
+  </for>
+</skill>
+<skill id="2440" levels="1" name="Ancient Tome of the Demon">
+  <set name="itemConsumeId" val="9599"/>
+  <set name="itemConsumeCount" val="1"/>
+  <set name="target" val="TARGET_SELF"/>
+  <set name="skillType" val="EXTRACTABLE"/>
+  <set name="operateType" val="OP_ACTIVE"/>
+  <cond msgId="129">
+    <and>
+       <player invSize="10"/>
+       <player weight="80"/>
+    </and>
+  </cond>
+</skill>
+<skill id="2441" levels="1" name="Protection of Rune">
+  <set name="target" val="TARGET_SELF"/>
+  <set name="skillType" val="BUFF"/>
+  <set name="operateType" val="OP_ACTIVE"/>
+</skill>
+<skill id="2442" levels="1" name="Protection of Elemental">
+  <set name="target" val="TARGET_SELF"/>
+  <set name="skillType" val="BUFF"/>
+  <set name="operateType" val="OP_ACTIVE"/>
+</skill>
+<skill id="2443" levels="1" name="Protection of Alignment">
+  <set name="target" val="TARGET_SELF"/>
+  <set name="skillType" val="BUFF"/>
+  <set name="operateType" val="OP_ACTIVE"/>
+</skill>
+<skill id="2444" levels="1" name="Fighter's Will">
+  <set name="target" val="TARGET_SELF"/>
+  <set name="skillType" val="BUFF"/>
+  <set name="operateType" val="OP_ACTIVE"/>
+</skill>
+<skill id="2445" levels="1" name="Archer's Will">
+  <set name="target" val="TARGET_SELF"/>
+  <set name="skillType" val="BUFF"/>
+  <set name="operateType" val="OP_ACTIVE"/>
+</skill>
+<skill id="2446" levels="1" name="Anti-magic Armor">
+  <set name="target" val="TARGET_SELF"/>
+  <set name="skillType" val="BUFF"/>
+  <set name="operateType" val="OP_ACTIVE"/>
+</skill>
+<skill id="2447" levels="1" name="Seed of Revenge">
+  <set name="target" val="TARGET_SELF"/>
+  <set name="skillType" val="BUFF"/>
+  <set name="operateType" val="OP_ACTIVE"/>
+</skill>
+<skill id="2448" levels="1" name="Hell Scream">
+  <set name="target" val="TARGET_SELF"/>
+  <set name="skillType" val="BUFF"/>
+  <set name="operateType" val="OP_ACTIVE"/>
+</skill>
+<skill id="2449" levels="1" name="Song of Wind Strom">
+  <set name="target" val="TARGET_SELF"/>
+  <set name="skillType" val="BUFF"/>
+  <set name="operateType" val="OP_ACTIVE"/>
+</skill>
+<skill id="2450" levels="1" name="Blade Storm">
+  <set name="target" val="TARGET_SELF"/>
+  <set name="skillType" val="BUFF"/>
+  <set name="operateType" val="OP_ACTIVE"/>
+</skill>
+<skill id="2451" levels="1" name="Sixth Sense">
+  <set name="target" val="TARGET_SELF"/>
+  <set name="skillType" val="BUFF"/>
+  <set name="operateType" val="OP_ACTIVE"/>
+</skill>
+<skill id="2452" levels="1" name="Expose Weak Point">
+  <set name="target" val="TARGET_SELF"/>
+  <set name="skillType" val="BUFF"/>
+  <set name="operateType" val="OP_ACTIVE"/>
+</skill>
+<skill id="2453" levels="1" name="Exciting Adventure">
+  <set name="target" val="TARGET_SELF"/>
+  <set name="skillType" val="BUFF"/>
+  <set name="operateType" val="OP_ACTIVE"/>
+</skill>
+<skill id="2454" levels="1" name="Wind Riding">
+  <set name="target" val="TARGET_SELF"/>
+  <set name="skillType" val="BUFF"/>
+  <set name="operateType" val="OP_ACTIVE"/>
+</skill>
+<skill id="2455" levels="1" name="Ghost Walking">
+  <set name="target" val="TARGET_SELF"/>
+  <set name="skillType" val="BUFF"/>
+  <set name="operateType" val="OP_ACTIVE"/>
+</skill>
+<skill id="2456" levels="1" name="Flame Hawk">
+  <set name="target" val="TARGET_SELF"/>
+  <set name="skillType" val="BUFF"/>
+  <set name="operateType" val="OP_ACTIVE"/>
+</skill>
+<skill id="2457" levels="1" name="Rain of Arrow">
+  <set name="target" val="TARGET_SELF"/>
+  <set name="skillType" val="BUFF"/>
+  <set name="operateType" val="OP_ACTIVE"/>
+</skill>
+<skill id="2458" levels="1" name="Ghost Piercing">
+  <set name="target" val="TARGET_SELF"/>
+  <set name="skillType" val="BUFF"/>
+  <set name="operateType" val="OP_ACTIVE"/>
+</skill>
+<skill id="2459" levels="1" name="Dread Pook">
+  <set name="target" val="TARGET_SELF"/>
+  <set name="skillType" val="BUFF"/>
+  <set name="operateType" val="OP_ACTIVE"/>
+</skill>
+<skill id="2460" levels="1" name="Weapon Blockade">
+  <set name="target" val="TARGET_SELF"/>
+  <set name="skillType" val="BUFF"/>
+  <set name="operateType" val="OP_ACTIVE"/>
+</skill>
+<skill id="2461" levels="1" name="Post of Destruction">
+  <set name="target" val="TARGET_SELF"/>
+  <set name="skillType" val="BUFF"/>
+  <set name="operateType" val="OP_ACTIVE"/>
+</skill>
+<skill id="2462" levels="1" name="Demolition Impact">
+  <set name="target" val="TARGET_SELF"/>
+  <set name="skillType" val="BUFF"/>
+  <set name="operateType" val="OP_ACTIVE"/>
+</skill>
+<skill id="2463" levels="1" name="Golem Armor">
+  <set name="target" val="TARGET_SELF"/>
+  <set name="skillType" val="BUFF"/>
+  <set name="operateType" val="OP_ACTIVE"/>
+</skill>
+<skill id="2464" levels="1" name="Flame Armor">
+  <set name="target" val="TARGET_SELF"/>
+  <set name="skillType" val="BUFF"/>
+  <set name="operateType" val="OP_ACTIVE"/>
+</skill>
+<skill id="2465" levels="1" name="Frost Armor">
+  <set name="target" val="TARGET_SELF"/>
+  <set name="skillType" val="BUFF"/>
+  <set name="operateType" val="OP_ACTIVE"/>
+</skill>
+<skill id="2466" levels="1" name="Hurricane Armor">
+  <set name="target" val="TARGET_SELF"/>
+  <set name="skillType" val="BUFF"/>
+  <set name="operateType" val="OP_ACTIVE"/>
+</skill>
+<skill id="2467" levels="1" name="Vampiric Mist">
+  <set name="target" val="TARGET_SELF"/>
+  <set name="skillType" val="BUFF"/>
+  <set name="operateType" val="OP_ACTIVE"/>
+</skill>
+<skill id="2468" levels="1" name="Servitor Barrier">
+  <set name="target" val="TARGET_SELF"/>
+  <set name="skillType" val="BUFF"/>
+  <set name="operateType" val="OP_ACTIVE"/>
+</skill>
+<skill id="2469" levels="1" name="Excessive Royalty">
+  <set name="target" val="TARGET_SELF"/>
+  <set name="skillType" val="BUFF"/>
+  <set name="operateType" val="OP_ACTIVE"/>
+</skill>
+<skill id="2470" levels="1" name="Mutual Response">
+  <set name="target" val="TARGET_SELF"/>
+  <set name="skillType" val="BUFF"/>
+  <set name="operateType" val="OP_ACTIVE"/>
+</skill>
+<skill id="2471" levels="1" name="Improve Combat">
+  <set name="target" val="TARGET_SELF"/>
+  <set name="skillType" val="BUFF"/>
+  <set name="operateType" val="OP_ACTIVE"/>
+</skill>
+<skill id="2472" levels="1" name="Improve Magic">
+  <set name="target" val="TARGET_SELF"/>
+  <set name="skillType" val="BUFF"/>
+  <set name="operateType" val="OP_ACTIVE"/>
+</skill>
+<skill id="2473" levels="1" name="Improve Condition">
+  <set name="target" val="TARGET_SELF"/>
+  <set name="skillType" val="BUFF"/>
+  <set name="operateType" val="OP_ACTIVE"/>
+</skill>
+<skill id="2474" levels="1" name="Improve Critical">
+  <set name="target" val="TARGET_SELF"/>
+  <set name="skillType" val="BUFF"/>
+  <set name="operateType" val="OP_ACTIVE"/>
+</skill>
+<skill id="2475" levels="1" name="Improve Shield Defense">
+  <set name="target" val="TARGET_SELF"/>
+  <set name="skillType" val="BUFF"/>
+  <set name="operateType" val="OP_ACTIVE"/>
+</skill>
+<skill id="2476" levels="1" name="Improve Movement">
+  <set name="target" val="TARGET_SELF"/>
+  <set name="skillType" val="BUFF"/>
+  <set name="operateType" val="OP_ACTIVE"/>
+</skill>
+<skill id="2477" levels="1" name="Sublime Self-sacrifice">
+  <set name="target" val="TARGET_SELF"/>
+  <set name="skillType" val="BUFF"/>
+  <set name="operateType" val="OP_ACTIVE"/>
+</skill>
+<skill id="2478" levels="1" name="Blessing of Eva">
+  <set name="target" val="TARGET_SELF"/>
+  <set name="skillType" val="BUFF"/>
+  <set name="operateType" val="OP_ACTIVE"/>
+</skill>
+<skill id="2479" levels="1" name="Loard of Vampire">
+  <set name="target" val="TARGET_SELF"/>
+  <set name="skillType" val="BUFF"/>
+  <set name="operateType" val="OP_ACTIVE"/>
+</skill>
+<skill id="2480" levels="1" name="Throne Route">
+  <set name="target" val="TARGET_SELF"/>
+  <set name="skillType" val="BUFF"/>
+  <set name="operateType" val="OP_ACTIVE"/>
+</skill>
+<skill id="2481" levels="1" name="Seal of Limit">
+  <set name="target" val="TARGET_SELF"/>
+  <set name="skillType" val="BUFF"/>
+  <set name="operateType" val="OP_ACTIVE"/>
+</skill>
+<skill id="2482" levels="1" name="Spirit of Phoenix">
+  <set name="target" val="TARGET_SELF"/>
+  <set name="skillType" val="BUFF"/>
+  <set name="operateType" val="OP_ACTIVE"/>
+</skill>
+<skill id="2483" levels="1" name="Eva's Will">
+  <set name="target" val="TARGET_SELF"/>
+  <set name="skillType" val="BUFF"/>
+  <set name="operateType" val="OP_ACTIVE"/>
+</skill>
+<skill id="2484" levels="1" name="Pain of Shillien">
+  <set name="target" val="TARGET_SELF"/>
+  <set name="skillType" val="BUFF"/>
+  <set name="operateType" val="OP_ACTIVE"/>
+</skill>
+<skill id="2485" levels="1" name="Herb of Life">
+  <set name="power" val="15"/>
+  <set name="hitTime" val="100"/>
+  <set name="target" val="TARGET_SELF"/>
+  <set name="skillType" val="HEAL_PERCENT"/>
+  <set name="operateType" val="OP_ACTIVE"/>
+  <set name="isPotion" val="true"/>
+</skill>
+<skill id="2486" levels="1" name="Herb of Mana">
+  <set name="power" val="12"/>
+  <set name="hitTime" val="100"/>
+  <set name="target" val="TARGET_SELF"/>
+  <set name="skillType" val="MANAHEAL_PERCENT"/>
+  <set name="operateType" val="OP_ACTIVE"/>
+  <set name="isPotion" val="true"/>
+</skill>
+<skill id="2487" levels="1" name="Item - Special Sound Crystal">
+  <set name="target" val="TARGET_NONE"/>
+  <set name="skillType" val="NOTDONE"/>
+  <set name="operateType" val="OP_PASSIVE"/>
+</skill>
+<skill id="2488" levels="1" name="Wild Shot">
+  <set name="target" val="TARGET_SELF"/>
+  <set name="skillType" val="BUFF"/>
+  <set name="operateType" val="OP_ACTIVE"/>
+</skill>
+<skill id="2489" levels="1" name="Lightning Stuns">
+  <set name="target" val="TARGET_SELF"/>
+  <set name="skillType" val="BUFF"/>
+  <set name="operateType" val="OP_ACTIVE"/>
+</skill>
+<skill id="2490" levels="1" name="Magic Defense Toolkit for beginners">
+  <set name="target" val="TARGET_NONE"/>
+  <set name="skillType" val="NOTDONE"/>
+  <set name="operateType" val="OP_PASSIVE"/>
+  <set name="hitTime" val="1500"/>
+</skill>
+<skill id="2498" levels="1" name="Bottle of Empty Soul">
+  <set name="hitTime" val="500"/>
+  <set name="staticHitTime" val="true"/>
+  <set name="target" val="TARGET_SELF"/>
+  <set name="skillType" val="CREATE_ITEM"/>
+  <set name="operateType" val="OP_ACTIVE"/>
+  <set name="create_item_id" val="10410"/>
+  <set name="create_item_count" val="1"/>
+  <set name="soulConsumeCount" val="6"/>
+</skill>
+<skill id="2499" levels="1" name="Bottle of Full Soul">
+  <set name="target" val="TARGET_SELF"/>
+  <set name="skillType" val="CHARGESOUL"/>
+  <set name="operateType" val="OP_ACTIVE"/>
+  <set name="num_souls" val="5"/>
+</skill>
+</list>

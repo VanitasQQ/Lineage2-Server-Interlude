@@ -1,0 +1,1316 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<foursepulchers opentime="55" cooltime="5">
+ <mausoleum>
+        <gatekeeper id="31921"/>
+	<room no="1">
+	 <door id="25150011"/>
+	 <gatekeeper id="31921" />
+	 <stage no="1">
+	   <openbox x="182074" y="-85579" z="-7216" />
+	 </stage>
+	 <stage no="2">
+           <spawn npcid="18120" x="182395" y="-85585" z="-7218" heading="213"/>                              
+           <spawn npcid="18132" x="182501" y="-85934" z="-7219" heading="25522"/>                            
+           <spawn npcid="18132" x="182554" y="-85213" z="-7219" heading="43355"/>                            
+           <spawn npcid="18132" x="181665" y="-85235" z="-7215" heading="59734"/>                            
+           <spawn npcid="18132" x="181654" y="-85920" z="-7219" heading="5304"/>                             
+           <spawn npcid="18132" x="182066" y="-85903" z="-7219" heading="12563"/>                            
+           <spawn npcid="18132" x="182075" y="-85234" z="-7219" heading="49152"/>                            
+           <spawn npcid="18133" x="181854" y="-85392" z="-7217" heading="0"/>                                
+           <spawn npcid="18133" x="182443" y="-85398" z="-7217" heading="33539"/>                            
+           <spawn npcid="18133" x="182384" y="-85861" z="-7219" heading="24773"/>                            
+           <spawn npcid="18133" x="181852" y="-85933" z="-7219" heading="10102"/>                            
+           <spawn npcid="18137" x="182558" y="-85773" z="-7217" heading="30488"/>                            
+           <spawn npcid="18137" x="182318" y="-85762" z="-7217" heading="32291"/>                            
+           <spawn npcid="18137" x="182066" y="-85779" z="-7217" heading="29297"/>                            
+           <spawn npcid="18137" x="181685" y="-85749" z="-7217" heading="33937"/>                            
+           <spawn npcid="18137" x="181678" y="-85562" z="-7218" heading="56294"/>                            
+           <spawn npcid="18137" x="181661" y="-85401" z="-7217" heading="17482"/>                            
+           <spawn npcid="18137" x="182258" y="-85398" z="-7217" heading="374"/>                              
+           <spawn npcid="18137" x="182543" y="-85417" z="-7217" heading="2965"/>                             
+           <spawn npcid="18137" x="182288" y="-85585" z="-7218" heading="33297"/>                            
+           <spawn npcid="18137" x="181886" y="-85582" z="-7218" heading="32131"/>                            
+	   <boss npcid="18120"/>
+         </stage>
+	 <stage no="3">
+	   <keybox/>
+	 </stage>
+	</room>
+
+	<room no="2">
+	 <door id="25150012"/>
+	 <gatekeeper id="31925"/>
+	 <stage no="1">
+   	   <openbox x="183868" y="-85577" z="-7216" />
+	 </stage>
+	 <stage no="2">
+           <spawn npcid="18141" x="183458" y="-85470" z="-7218" heading="53226"/>                            
+           <spawn npcid="18141" x="183649" y="-85464" z="-7218" heading="328"/>                              
+           <spawn npcid="18141" x="183972" y="-85465" z="-7218" heading="65503"/>                            
+           <spawn npcid="18141" x="184240" y="-85470" z="-7218" heading="65254"/>                            
+           <spawn npcid="18141" x="184382" y="-85217" z="-7219" heading="11169"/>                            
+           <spawn npcid="18141" x="184104" y="-85219" z="-7219" heading="33346"/>                            
+           <spawn npcid="18141" x="183794" y="-85217" z="-7214" heading="33954"/>                            
+           <spawn npcid="18141" x="183524" y="-85220" z="-7216" heading="64089"/>                            
+           <spawn npcid="18141" x="183341" y="-85843" z="-7219" heading="36011"/>                            
+           <spawn npcid="18141" x="183548" y="-85836" z="-7218" heading="61958"/>                            
+           <spawn npcid="18141" x="183794" y="-85833" z="-7219" heading="474"/>                              
+           <spawn npcid="18141" x="184110" y="-85836" z="-7218" heading="31355"/>                            
+           <spawn npcid="18141" x="184387" y="-85984" z="-7219" heading="59782"/>                            
+           <spawn npcid="18141" x="183921" y="-85986" z="-7219" heading="31729"/>                            
+           <spawn npcid="18141" x="183679" y="-85986" z="-7218" heading="29655"/>                            
+           <spawn npcid="18141" x="183433" y="-85987" z="-7219" heading="31798"/>                                     
+         </stage>
+	 <stage no="3">
+	   <keybox/>
+	 </stage>
+	</room>
+
+	<room no="3">
+	 <door id="25150013"/>
+	 <gatekeeper id="31926"/>
+	 <stage no="1">
+	    <openbox x="185681" y="-85573" z="-7216" />
+	 </stage>
+	 <stage no="2">
+           <!-- spawn npcid="18166" x="185185" y="-86027" z="-7219" heading="0"/>                                
+           <spawn npcid="18166" x="185325" y="-86029" z="-7219" heading="7038"/>                             
+           <spawn npcid="18166" x="185424" y="-86031" z="-7219" heading="64871"/>                            
+           <spawn npcid="18166" x="185543" y="-86030" z="-7219" heading="32334"/>                            
+           <spawn npcid="18166" x="185680" y="-86030" z="-7219" heading="12416"/>                            
+           <spawn npcid="18166" x="185828" y="-86027" z="-7219" heading="18107"/>                            
+           <spawn npcid="18166" x="186000" y="-86027" z="-7219" heading="0"/>                                
+           <spawn npcid="18166" x="186208" y="-86030" z="-7219" heading="62180"/>                            
+           <spawn npcid="18166" x="185182" y="-85877" z="-7219" heading="28800"/>                            
+           <spawn npcid="18166" x="185352" y="-85884" z="-7219" heading="65106"/>                            
+           <spawn npcid="18166" x="185538" y="-85888" z="-7218" heading="772"/>                              
+           <spawn npcid="18166" x="185699" y="-85886" z="-7219" heading="130"/>                              
+           <spawn npcid="18166" x="185854" y="-85897" z="-7219" heading="46038"/>                            
+           <spawn npcid="18166" x="186025" y="-85908" z="-7219" heading="62633"/>                            
+           <spawn npcid="18166" x="186277" y="-85919" z="-7219" heading="2100"/>                             
+           <spawn npcid="18166" x="185184" y="-85727" z="-7218" heading="1184"/>                             
+           <spawn npcid="18166" x="185367" y="-85735" z="-7218" heading="31046"/>                            
+           <spawn npcid="18166" x="185644" y="-85743" z="-7218" heading="63871"/  -->                            
+           <spawn npcid="18166" x="185825" y="-85736" z="-7218" heading="3356"/>                             
+           <spawn npcid="18166" x="186001" y="-85738" z="-7218" heading="38901"/>                            
+           <spawn npcid="18166" x="186251" y="-85742" z="-7218" heading="65369"/>                            
+           <spawn npcid="18166" x="185165" y="-85617" z="-7218" heading="65287"/>                            
+           <spawn npcid="18166" x="185440" y="-85622" z="-7218" heading="282"/>                              
+           <spawn npcid="18166" x="185647" y="-85633" z="-7218" heading="36803"/>                            
+           <spawn npcid="18166" x="185816" y="-85649" z="-7218" heading="35670"/>                            
+           <spawn npcid="18166" x="186019" y="-85640" z="-7218" heading="23925"/>                            
+           <spawn npcid="18166" x="186242" y="-85638" z="-7218" heading="21593"/>                            
+           <spawn npcid="18166" x="185205" y="-85487" z="-7218" heading="62980"/>                            
+           <spawn npcid="18166" x="185418" y="-85482" z="-7218" heading="0"/>                                
+           <spawn npcid="18166" x="185684" y="-85486" z="-7218" heading="0"/>                                
+           <spawn npcid="18166" x="185921" y="-85490" z="-7218" heading="65359"/>                            
+           <spawn npcid="18166" x="186132" y="-85487" z="-7218" heading="886" />                              
+           <spawn npcid="18166" x="186271" y="-85474" z="-7218" heading="23422"/>                            
+           <spawn npcid="18166" x="185200" y="-85302" z="-7219" heading="64692"/>                            
+           <spawn npcid="18166" x="185433" y="-85293" z="-7218" heading="403"/>                              
+           <spawn npcid="18166" x="185711" y="-85283" z="-7219" heading="376"/>                              
+           <spawn npcid="18166" x="185909" y="-85286" z="-7219" heading="31582"/>                            
+           <spawn npcid="18166" x="186192" y="-85299" z="-7219" heading="65057"/>                            
+           <spawn npcid="18166" x="185205" y="-85102" z="-7219" heading="64759"/>                            
+           <spawn npcid="18166" x="185389" y="-85117" z="-7219" heading="61258"/>                            
+           <spawn npcid="18166" x="185575" y="-85127" z="-7219" heading="64975"/>                            
+           <spawn npcid="18166" x="185792" y="-85114" z="-7219" heading="63615"/>                            
+           <spawn npcid="18166" x="186029" y="-85114" z="-7219" heading="61427"/>                            
+           <spawn npcid="18166" x="186217" y="-85135" z="-7219" heading="53988"/>                            
+           <spawn npcid="18170" x="185447" y="-85798" z="-7217" heading="20459"/>                            
+           <spawn npcid="18170" x="185804" y="-85803" z="-7217" heading="64864"/>                            
+           <spawn npcid="18170" x="186103" y="-85775" z="-7217" heading="998"/>                              
+           <spawn npcid="18170" x="186117" y="-85383" z="-7217" heading="32595"/>                            
+           <spawn npcid="18170" x="185812" y="-85375" z="-7217" heading="40404"/>                            
+           <spawn npcid="18170" x="185357" y="-85377" z="-7217" heading="1781"/>                             
+           <spawn npcid="18170" x="185378" y="-85578" z="-7218" heading="5415"/>                             
+           <spawn npcid="18170" x="186078" y="-85580" z="-7218" heading="64644"/>                            	 
+           <spawn npcid="18150" x="185710" y="-85584" z="-7218" heading="833"/>                              
+	   <alive npcid="18150" />
+	 </stage>
+	 <stage no="3">
+	   <spawn npcid="18158" x="185810" y="-85684" z="-7218" heading="833"/>
+	   <boss npcid="18158"/>
+	 </stage>
+	 <stage no="4">
+	   <keybox/>
+	 </stage>
+	</room>
+
+	<room no="4">
+	 <door id="25150014"/>
+	 <gatekeeper id="31927"/>
+         <stage no="1">
+	   <openbox x="187498" y="-85566" z="-7216" />
+	 </stage>
+	 <stage no="2">
+           <spawn npcid="18183" x="187941" y="-85572" z="-7218" heading="32661"/>                            
+           <spawn npcid="18196" x="188111" y="-86103" z="-7219" heading="18750"/>                            
+           <spawn npcid="18197" x="188115" y="-85032" z="-7219" heading="44702"/>                            
+           <spawn npcid="18198" x="186901" y="-85016" z="-7218" heading="53988"/>                            
+           <spawn npcid="18199" x="186903" y="-86111" z="-7218" heading="10002"/>                            
+           <spawn npcid="18185" x="187328" y="-85852" z="-7219" heading="1481"/>                             
+           <spawn npcid="18185" x="187654" y="-85848" z="-7219" heading="31823"/>                            
+           <spawn npcid="18185" x="187693" y="-85320" z="-7219" heading="46408"/>                            
+           <spawn npcid="18185" x="187355" y="-85334" z="-7219" heading="56700"/>                            
+           <spawn npcid="18185" x="187165" y="-85237" z="-7219" heading="59842"/>                            
+           <spawn npcid="18185" x="187067" y="-85849" z="-7219" heading="7624"/>                             
+           <spawn npcid="18187" x="187028" y="-85665" z="-7218" heading="12816"/>                            
+           <spawn npcid="18187" x="187046" y="-85384" z="-7217" heading="55468"/>                            
+           <spawn npcid="18187" x="187935" y="-85341" z="-7219" heading="27658"/>                            
+           <spawn npcid="18187" x="187938" y="-85710" z="-7218" heading="25303"/>                            
+           <spawn npcid="18191" x="188003" y="-85988" z="-7219" heading="20999"/>                            
+           <spawn npcid="18191" x="188014" y="-85793" z="-7217" heading="62495"/>                            
+           <spawn npcid="18191" x="187826" y="-85962" z="-7219" heading="40389"/>                            
+           <spawn npcid="18191" x="186969" y="-86022" z="-7219" heading="6470"/>                             
+           <spawn npcid="18191" x="186979" y="-85860" z="-7219" heading="15690"/>                            
+           <spawn npcid="18191" x="187142" y="-86028" z="-7219" heading="57186"/>                            
+           <spawn npcid="18191" x="187431" y="-85794" z="-7217" heading="14326"/>                            
+           <spawn npcid="18191" x="187447" y="-85393" z="-7217" heading="21674"/>                            
+           <spawn npcid="18191" x="187991" y="-85134" z="-7218" heading="37101"/>                            
+           <spawn npcid="18191" x="188007" y="-85316" z="-7215" heading="48989"/>                            
+           <spawn npcid="18191" x="187800" y="-85137" z="-7219" heading="14850"/>                            
+           <spawn npcid="18191" x="186951" y="-85081" z="-7219" heading="0"/>                                
+           <spawn npcid="18191" x="186941" y="-85239" z="-7219" heading="46111"/>                            
+           <spawn npcid="18191" x="187110" y="-85120" z="-7219" heading="7861"/>                             
+           <spawn npcid="18195" x="187311" y="-85275" z="-7219" heading="8276"/>                             
+           <spawn npcid="18195" x="187769" y="-85276" z="-7219" heading="65488"/>                            
+           <spawn npcid="18195" x="187791" y="-85804" z="-7217" heading="47340"/>                            
+           <spawn npcid="18195" x="187169" y="-85801" z="-7217" heading="37459"/>                            
+           <spawn npcid="18195" x="187467" y="-85659" z="-7218" heading="62563"/>                            
+           <spawn npcid="18195" x="187492" y="-85461" z="-7218" heading="18606"/>                            
+	   <boss npcid="18183"/>
+         </stage>
+	 <stage no="3">
+	   <keybox/>
+	 </stage>
+	</room>
+
+	<room no="5">
+	 <door id="25150015"/>
+	 <gatekeeper id="31928"/>
+         <stage no="1">
+	   <openbox x="189306" y="-85571" z="-7216" />
+	 </stage>
+	 <stage no="2">
+             <spawn npcid="18220" x="189762" y="-85412" z="-7217" heading="36123"/>                            
+             <spawn npcid="18220" x="189471" y="-85411" z="-7217" heading="33600"/>                            
+             <spawn npcid="18220" x="189085" y="-85393" z="-7217" heading="32282"/>                            
+             <spawn npcid="18220" x="189046" y="-85773" z="-7218" heading="46975"/>                            
+             <spawn npcid="18220" x="189318" y="-85780" z="-7217" heading="65293"/>                            
+             <spawn npcid="18220" x="189649" y="-85789" z="-7217" heading="255"/>                              
+             <spawn npcid="18230" x="189735" y="-85966" z="-7219" heading="62980"/>                            
+             <spawn npcid="18230" x="189463" y="-85961" z="-7218" heading="32437"/>                            
+             <spawn npcid="18230" x="189163" y="-85959" z="-7219" heading="32699"/>                            
+             <spawn npcid="18230" x="188874" y="-85952" z="-7219" heading="32516"/>                            
+             <spawn npcid="18230" x="188805" y="-85198" z="-7219" heading="16497"/>                            
+             <spawn npcid="18230" x="189023" y="-85209" z="-7219" heading="65010"/>                            
+             <spawn npcid="18230" x="189299" y="-85209" z="-7219" heading="0"/>                                
+             <spawn npcid="18230" x="189651" y="-85209" z="-7219" heading="0"/>                                
+             <spawn npcid="18222" x="189767" y="-85137" z="-7219" heading="34065"/>                            
+             <spawn npcid="18222" x="189590" y="-85134" z="-7219" heading="34401"/>                            
+             <spawn npcid="18222" x="189404" y="-85134" z="-7219" heading="32768"/>                            
+             <spawn npcid="18226" x="189219" y="-85130" z="-7219" heading="32543"/>                            
+             <spawn npcid="18222" x="188898" y="-85127" z="-7219" heading="32671"/>                            
+             <spawn npcid="18222" x="189658" y="-85324" z="-7219" heading="18107"/>                            
+             <spawn npcid="18222" x="189418" y="-85304" z="-7219" heading="31901"/>                            
+             <spawn npcid="18226" x="189244" y="-85294" z="-7219" heading="32170"/>                            
+             <spawn npcid="18222" x="188986" y="-85272" z="-7219" heading="62633"/>                            
+             <spawn npcid="18222" x="189782" y="-85497" z="-7218" heading="1797"/>                             
+             <spawn npcid="18222" x="189589" y="-85477" z="-7218" heading="31691"/>                            
+             <spawn npcid="18226" x="189343" y="-85468" z="-7218" heading="32387"/>                            
+             <spawn npcid="18222" x="189087" y="-85457" z="-7218" heading="32321"/>                            
+             <spawn npcid="18222" x="188787" y="-85435" z="-7218" heading="32005"/>                            
+             <spawn npcid="18222" x="189812" y="-85716" z="-7218" heading="27932"/>                            
+             <spawn npcid="18226" x="189510" y="-85722" z="-7218" heading="32975"/>                            
+             <spawn npcid="18222" x="189311" y="-85745" z="-7217" heading="27932"/>                            
+             <spawn npcid="18222" x="189030" y="-85731" z="-7217" heading="32249"/>                            
+             <spawn npcid="18222" x="189737" y="-85931" z="-7219" heading="28545"/>                            
+             <spawn npcid="18226" x="189431" y="-85929" z="-7217" heading="31386"/>                            
+             <spawn npcid="18222" x="189130" y="-85924" z="-7219" heading="25522"/>                            
+             <spawn npcid="18222" x="188844" y="-85915" z="-7219" heading="30050"/>                            
+             <spawn npcid="18222" x="189750" y="-86064" z="-7219" heading="28800"/>                            
+             <spawn npcid="18226" x="189523" y="-86066" z="-7218" heading="32859"/>                            
+             <spawn npcid="18222" x="189243" y="-86053" z="-7219" heading="32285"/>                            
+             <spawn npcid="18222" x="188932" y="-86046" z="-7219" heading="1423"/>                             
+             <spawn npcid="18222" x="189624" y="-85580" z="-7218" heading="32768"/>                            
+             <spawn npcid="18226" x="189529" y="-85573" z="-7218" heading="31758"/>                            
+             <spawn npcid="18222" x="189005" y="-85581" z="-7218" heading="56927"/>                            
+             <spawn npcid="18222" x="188731" y="-85582" z="-7218" heading="35165"/>                            	 
+	   </stage>	
+          <stage no="3">
+	     <skill id="4616,1" />
+             <spawn npcid="18231" x="189908" y="-85079" z="-7219" heading="32631"/>                            
+             <spawn npcid="18232" x="189904" y="-85199" z="-7219" heading="32631"/>                            
+             <spawn npcid="18233" x="189894" y="-85328" z="-7219" heading="32631"/>                            
+             <spawn npcid="18234" x="189898" y="-85269" z="-7219" heading="32631"/>                            
+             <spawn npcid="18235" x="189898" y="-85138" z="-7219" heading="32631"/>                            
+             <spawn npcid="18236" x="189929" y="-86099" z="-7219" heading="32631"/>                            
+             <spawn npcid="18237" x="189929" y="-86022" z="-7219" heading="32631"/>                            
+             <spawn npcid="18238" x="189925" y="-85936" z="-7219" heading="32631"/>                            
+             <spawn npcid="18239" x="189920" y="-85858" z="-7219" heading="32631"/>                            
+             <spawn npcid="18240" x="189931" y="-85777" z="-7217" heading="32631"/>                            
+	 </stage>
+	 <stage no="4">
+            <spawn npcid="18221" x="189762" y="-85412" z="-7217" heading="36123"/>                            
+            <spawn npcid="18221" x="189471" y="-85411" z="-7217" heading="33600"/>                            
+            <spawn npcid="18221" x="189085" y="-85393" z="-7217" heading="32282"/>                            
+            <spawn npcid="18221" x="189046" y="-85773" z="-7218" heading="46975"/>                            
+            <spawn npcid="18221" x="189318" y="-85780" z="-7217" heading="65293"/>                            
+            <spawn npcid="18221" x="189649" y="-85789" z="-7217" heading="255"/>                              
+            <spawn npcid="18230" x="189735" y="-85966" z="-7219" heading="62980"/>                            
+            <spawn npcid="18230" x="189463" y="-85961" z="-7218" heading="32437"/>                            
+            <spawn npcid="18230" x="189163" y="-85959" z="-7219" heading="32699"/>                            
+            <spawn npcid="18230" x="188874" y="-85952" z="-7219" heading="32516"/>                            
+            <spawn npcid="18230" x="188805" y="-85198" z="-7219" heading="16497"/>                            
+            <spawn npcid="18230" x="189023" y="-85209" z="-7219" heading="65010"/>                            
+            <spawn npcid="18230" x="189299" y="-85209" z="-7219" heading="0"/>                                
+            <spawn npcid="18230" x="189651" y="-85209" z="-7219" heading="0"/>                                
+            <spawn npcid="18226" x="189767" y="-85137" z="-7219" heading="34065"/>                            
+            <spawn npcid="18226" x="189590" y="-85134" z="-7219" heading="34401"/>                            
+            <spawn npcid="18226" x="189404" y="-85134" z="-7219" heading="32768"/>                            
+            <spawn npcid="18222" x="189219" y="-85130" z="-7219" heading="32543"/>                            
+            <spawn npcid="18226" x="188898" y="-85127" z="-7219" heading="32671"/>                            
+            <spawn npcid="18226" x="189658" y="-85324" z="-7219" heading="18107"/>                            
+            <spawn npcid="18226" x="189418" y="-85304" z="-7219" heading="31901"/>                            
+            <spawn npcid="18222" x="189244" y="-85294" z="-7219" heading="32170"/>                            
+            <spawn npcid="18226" x="188986" y="-85272" z="-7219" heading="62633"/>                            
+            <spawn npcid="18226" x="189782" y="-85497" z="-7218" heading="1797"/>                             
+            <spawn npcid="18226" x="189589" y="-85477" z="-7218" heading="31691"/>                            
+            <spawn npcid="18222" x="189343" y="-85468" z="-7218" heading="32387"/>                            
+            <spawn npcid="18226" x="189087" y="-85457" z="-7218" heading="32321"/>                            
+            <spawn npcid="18226" x="188787" y="-85435" z="-7218" heading="32005"/>                            
+            <spawn npcid="18226" x="189812" y="-85716" z="-7218" heading="27932"/>                            
+            <spawn npcid="18222" x="189510" y="-85722" z="-7218" heading="32975"/>                            
+            <spawn npcid="18226" x="189311" y="-85745" z="-7217" heading="27932"/>                            
+            <spawn npcid="18226" x="189030" y="-85731" z="-7217" heading="32249"/>                            
+            <spawn npcid="18226" x="189737" y="-85931" z="-7219" heading="28545"/>                            
+            <spawn npcid="18222" x="189431" y="-85929" z="-7217" heading="31386"/>                            
+            <spawn npcid="18226" x="189130" y="-85924" z="-7219" heading="25522"/>                            
+            <spawn npcid="18226" x="188844" y="-85915" z="-7219" heading="30050"/>                            
+            <spawn npcid="18226" x="189750" y="-86064" z="-7219" heading="28800"/>                            
+            <spawn npcid="18222" x="189523" y="-86066" z="-7218" heading="32859"/>                            
+            <spawn npcid="18226" x="189243" y="-86053" z="-7219" heading="32285"/>                            
+            <spawn npcid="18226" x="188932" y="-86046" z="-7219" heading="1423"/>                             
+            <spawn npcid="18226" x="189624" y="-85580" z="-7218" heading="32768"/>                            
+            <spawn npcid="18222" x="189529" y="-85573" z="-7218" heading="31758"/>                            
+            <spawn npcid="18226" x="189005" y="-85581" z="-7218" heading="56927"/>                            
+            <spawn npcid="18226" x="188731" y="-85582" z="-7218" heading="35165"/>                            
+	    <spawn npcid="18212" x="189360" y="-85575" z="-7218" heading="160"/>
+	    <boss npcid="18212"/>
+	 </stage>
+	 <stage no="5">
+	   <keybox/>
+	 </stage>
+	</room>
+	<room no="6">
+	 <door id="25150016"/>
+	 <gatekeeper id="31929"/>
+	 <stage no="1">
+	   <spawn npcid="25339" x="191240" y="-85574" z="-7216" />
+	   <boss npcid="25339"/>
+         </stage>
+	 <stage no="2">
+           <spawn npcid="31452" x="191240" y="-85574" z="-7216" heading="32768"/>                            
+           <spawn npcid="18256" x="190710" y="-85930" z="-7219" heading="45796"/>                            
+           <spawn npcid="18256" x="190828" y="-85799" z="-7219" heading="4312"/>                             
+           <spawn npcid="18256" x="191130" y="-85981" z="-7216" heading="56820"/>                            
+           <spawn npcid="18256" x="191260" y="-85970" z="-7215" heading="8726"/>                             
+           <spawn npcid="18256" x="191365" y="-85705" z="-7216" heading="15402"/>                            
+           <spawn npcid="18256" x="191329" y="-85488" z="-7216" heading="24431"/>                            
+           <spawn npcid="18256" x="191357" y="-85299" z="-7216" heading="3893"/>                             
+           <spawn npcid="18256" x="191674" y="-85175" z="-7219" heading="3893"/>                             
+           <spawn npcid="18256" x="191743" y="-85440" z="-7219" heading="51290"/>                            
+           <spawn npcid="18256" x="191048" y="-85338" z="-7216" heading="31049"/>                            
+           <spawn npcid="18256" x="190807" y="-85075" z="-7219" heading="23924"/>                            
+           <spawn npcid="18256" x="190762" y="-85312" z="-7246" heading="47194"/>                            
+           <spawn npcid="18256" x="190981" y="-85549" z="-7216" heading="56839"/>                            
+           <spawn npcid="18256" x="191485" y="-85712" z="-7243" heading="8389"/>                             
+           <spawn npcid="18256" x="191711" y="-85948" z="-7219" heading="57817"/>                            
+           <spawn npcid="18256" x="191803" y="-85866" z="-7219" heading="13121"/>                                     
+         </stage>
+	</room>
+	
+ </mausoleum>	
+ <mausoleum>
+        <gatekeeper id="31924"/>
+	<room no="1">
+	 <door id="25150021"/>
+	 <gatekeeper id="31924" />
+	 <stage no="1">
+	   <openbox x="175601" y="-81905" z="-7216" />
+	 </stage>
+	 <stage no="2">
+           <spawn npcid="18120" x="175595" y="-81584" z="-7218" heading="16677"/>                            
+           <spawn npcid="18132" x="175246" y="-81478" z="-7219" heading="41986"/>                            
+           <spawn npcid="18132" x="175967" y="-81425" z="-7219" heading="59819"/>                            
+           <spawn npcid="18132" x="175945" y="-82314" z="-7215" heading="76198"/>                            
+           <spawn npcid="18132" x="175260" y="-82325" z="-7219" heading="21768"/>                            
+           <spawn npcid="18132" x="175277" y="-81913" z="-7219" heading="29027"/>                            
+           <spawn npcid="18132" x="175946" y="-81904" z="-7219" heading="65616"/>                            
+           <spawn npcid="18133" x="175788" y="-82125" z="-7217" heading="16464"/>                            
+           <spawn npcid="18133" x="175782" y="-81536" z="-7217" heading="50003"/>                            
+           <spawn npcid="18133" x="175319" y="-81595" z="-7219" heading="41237"/>                            
+           <spawn npcid="18133" x="175247" y="-82127" z="-7219" heading="26566"/>                            
+           <spawn npcid="18137" x="175407" y="-81421" z="-7217" heading="46952"/>                            
+           <spawn npcid="18137" x="175418" y="-81661" z="-7217" heading="48755"/>                            
+           <spawn npcid="18137" x="175401" y="-81913" z="-7217" heading="45761"/>                            
+           <spawn npcid="18137" x="175431" y="-82294" z="-7217" heading="50401"/>                            
+           <spawn npcid="18137" x="175618" y="-82301" z="-7218" heading="72758"/>                            
+           <spawn npcid="18137" x="175779" y="-82318" z="-7217" heading="33946"/>                            
+           <spawn npcid="18137" x="175782" y="-81721" z="-7217" heading="16838"/>                            
+           <spawn npcid="18137" x="175763" y="-81436" z="-7217" heading="19429"/>                            
+           <spawn npcid="18137" x="175595" y="-81691" z="-7218" heading="49761"/>                            
+           <spawn npcid="18137" x="175598" y="-82093" z="-7218" heading="48595"/>
+           <boss npcid="18120"/>
+          </stage>              
+          <stage no="3">
+            <keybox/>
+          </stage>
+	</room>
+	<room no="2">
+	 <door id="25150022"/>
+	 <gatekeeper id="31940"/>
+	 <stage no="1">
+	   <openbox x="175619" y="-80094" z="-7216" />
+	 </stage>
+	 <stage no="2">
+          <spawn npcid="18141" x="175696" y="-80541" z="-7218" heading="69882"/>                            
+          <spawn npcid="18141" x="175702" y="-80350" z="-7218" heading="16984"/>                            
+          <spawn npcid="18141" x="175701" y="-80027" z="-7218" heading="82159"/>                            
+          <spawn npcid="18141" x="175696" y="-79759" z="-7218" heading="81910"/>                            
+          <spawn npcid="18141" x="175949" y="-79617" z="-7219" heading="27825"/>                            
+          <spawn npcid="18141" x="175947" y="-79895" z="-7219" heading="50002"/>                            
+          <spawn npcid="18141" x="175949" y="-80205" z="-7214" heading="50610"/>                            
+          <spawn npcid="18141" x="175946" y="-80475" z="-7216" heading="80745"/>                            
+          <spawn npcid="18141" x="175323" y="-80658" z="-7219" heading="52667"/>                            
+          <spawn npcid="18141" x="175330" y="-80451" z="-7218" heading="78614"/>                            
+          <spawn npcid="18141" x="175333" y="-80205" z="-7219" heading="17130"/>                            
+          <spawn npcid="18141" x="175330" y="-79889" z="-7218" heading="48011"/>                            
+          <spawn npcid="18141" x="175182" y="-79612" z="-7219" heading="76438"/>                            
+          <spawn npcid="18141" x="175180" y="-80078" z="-7219" heading="48385"/>                            
+          <spawn npcid="18141" x="175180" y="-80320" z="-7218" heading="46311"/>                            
+          <spawn npcid="18141" x="175179" y="-80566" z="-7219" heading="48454"/>                            
+        </stage>
+        <stage no="3">
+          <keybox/>
+        </stage>
+	</room>
+	<room no="3">
+	 <door id="25150023"/>
+	 <gatekeeper id="31941"/>
+	 <stage no="1">
+	   <openbox x="175608" y="-78268" z="-7216" />
+	 </stage>
+	 <stage no="2">
+           <!-- spawn npcid="18166" x="175137" y="-78783" z="-7219" heading="16656"/>                            
+           <spawn npcid="18166" x="175135" y="-78643" z="-7219" heading="23694"/>                            
+           <spawn npcid="18166" x="175133" y="-78544" z="-7219" heading="81527"/>                            
+           <spawn npcid="18166" x="175134" y="-78425" z="-7219" heading="48990"/>                            
+           <spawn npcid="18166" x="175134" y="-78288" z="-7219" heading="29072"/>                            
+           <spawn npcid="18166" x="175137" y="-78140" z="-7219" heading="34763"/>                            
+           <spawn npcid="18166" x="175137" y="-77968" z="-7219" heading="16656"/>                            
+           <spawn npcid="18166" x="175134" y="-77760" z="-7219" heading="78836"/>                            
+           <spawn npcid="18166" x="175287" y="-78786" z="-7219" heading="45456"/>                            
+           <spawn npcid="18166" x="175280" y="-78616" z="-7219" heading="81762"/>                            
+           <spawn npcid="18166" x="175276" y="-78430" z="-7218" heading="17428"/>                            
+           <spawn npcid="18166" x="175278" y="-78269" z="-7219" heading="16786"/>                            
+           <spawn npcid="18166" x="175267" y="-78114" z="-7219" heading="62694"/>                            
+           <spawn npcid="18166" x="175256" y="-77943" z="-7219" heading="79289"/>                            
+           <spawn npcid="18166" x="175245" y="-77691" z="-7219" heading="18756"/>                            
+           <spawn npcid="18166" x="175437" y="-78784" z="-7218" heading="17840"/-->                            
+           <spawn npcid="18166" x="175429" y="-78601" z="-7218" heading="47702"/>                            
+           <spawn npcid="18166" x="175421" y="-78324" z="-7218" heading="80527"/>                            
+           <spawn npcid="18166" x="175428" y="-78143" z="-7218" heading="20012"/>                            
+           <spawn npcid="18166" x="175426" y="-77967" z="-7218" heading="55557"/>                            
+           <spawn npcid="18166" x="175422" y="-77717" z="-7218" heading="82025"/>                            
+           <spawn npcid="18166" x="175547" y="-78803" z="-7218" heading="81943"/>                            
+           <spawn npcid="18166" x="175542" y="-78528" z="-7218" heading="16938"/>                            
+           <spawn npcid="18166" x="175531" y="-78321" z="-7218" heading="53459"/>                            
+           <spawn npcid="18166" x="175515" y="-78152" z="-7218" heading="52326"/>                            
+           <spawn npcid="18166" x="175524" y="-77949" z="-7218" heading="40581"/>                            
+           <spawn npcid="18166" x="175526" y="-77726" z="-7218" heading="38249"/>                            
+           <spawn npcid="18166" x="175677" y="-78763" z="-7218" heading="79636"/>                            
+           <spawn npcid="18166" x="175682" y="-78550" z="-7218" heading="16656"/>                            
+           <spawn npcid="18166" x="175678" y="-78284" z="-7218" heading="16656"/>                            
+           <spawn npcid="18166" x="175674" y="-78047" z="-7218" heading="82015"/>                            
+           <spawn npcid="18166" x="175677" y="-77836" z="-7218" heading="17542"/>                            
+           <spawn npcid="18166" x="175690" y="-77697" z="-7218" heading="40078"/>                            
+           <spawn npcid="18166" x="175862" y="-78768" z="-7219" heading="81348"/>                            
+           <spawn npcid="18166" x="175871" y="-78535" z="-7218" heading="17059"/>                            
+           <spawn npcid="18166" x="175881" y="-78257" z="-7219" heading="17032"/>                            
+           <spawn npcid="18166" x="175878" y="-78059" z="-7219" heading="48238"/>                            
+           <spawn npcid="18166" x="175865" y="-77776" z="-7219" heading="81713"/>                            
+           <spawn npcid="18166" x="176062" y="-78763" z="-7219" heading="81415"/>                            
+           <spawn npcid="18166" x="176047" y="-78579" z="-7219" heading="77914"/>                            
+           <spawn npcid="18166" x="176037" y="-78393" z="-7219" heading="81631"/>                            
+           <spawn npcid="18166" x="176050" y="-78176" z="-7219" heading="80271"/>                            
+           <spawn npcid="18166" x="176050" y="-77939" z="-7219" heading="78083"/>                            
+           <spawn npcid="18166" x="176029" y="-77751" z="-7219" heading="70644"/>                            
+           <spawn npcid="18170" x="175366" y="-78521" z="-7217" heading="37115"/>                            
+           <spawn npcid="18170" x="175361" y="-78164" z="-7217" heading="81520"/>                            
+           <spawn npcid="18170" x="175389" y="-77865" z="-7217" heading="17654"/>                            
+           <spawn npcid="18170" x="175781" y="-77851" z="-7217" heading="49251"/>                            
+           <spawn npcid="18170" x="175789" y="-78156" z="-7217" heading="57060"/>                            
+           <spawn npcid="18170" x="175787" y="-78611" z="-7217" heading="18437"/>                            
+           <spawn npcid="18170" x="175586" y="-78590" z="-7218" heading="22071"/>                            
+           <spawn npcid="18170" x="175584" y="-77890" z="-7218" heading="81300"/>                            
+           <spawn npcid="18150" x="175580" y="-78258" z="-7218" heading="17489"/>                            
+           <alive npcid="18150" />
+	</stage>	
+	<stage no="3">
+	   <spawn npcid="18158" x="175680" y="-78358" z="-7218" heading="17489"/>
+	   <boss npcid="18158"/>
+	</stage>
+        <stage no="4">
+          <keybox/>
+        </stage> 
+	</room>
+	<room no="4">
+	 <door id="25150024"/>
+	 <gatekeeper id="31942"/>
+	 <stage no="1">
+           <openbox x="175588"  y="-76472" z="-7216" />
+         </stage>
+         <stage no="2">
+            <spawn npcid="18183" x="175568" y="-76049" z="-7218" heading="49013"/>                            
+            <spawn npcid="18196" x="175037" y="-75879" z="-7219" heading="61054"/>                            
+            <spawn npcid="18197" x="176108" y="-75875" z="-7219" heading="35102"/>                            
+            <spawn npcid="18198" x="176124" y="-77089" z="-7218" heading="26354"/>                            
+            <spawn npcid="18199" x="175029" y="-77087" z="-7218" heading="70340"/>                            
+            <spawn npcid="18185" x="175288" y="-76662" z="-7219" heading="17833"/>                            
+            <spawn npcid="18185" x="175292" y="-76336" z="-7219" heading="48175"/>                            
+            <spawn npcid="18185" x="175820" y="-76297" z="-7219" heading="62760"/>                            
+            <spawn npcid="18185" x="175806" y="-76635" z="-7219" heading="73052"/>                            
+            <spawn npcid="18185" x="175903" y="-76825" z="-7219" heading="76194"/>                            
+            <spawn npcid="18185" x="175291" y="-76923" z="-7219" heading="23976"/>                            
+            <spawn npcid="18187" x="175475" y="-76962" z="-7218" heading="29168"/>                            
+            <spawn npcid="18187" x="175756" y="-76944" z="-7217" heading="71820"/>                            
+            <spawn npcid="18187" x="175799" y="-76055" z="-7219" heading="44010"/>                            
+            <spawn npcid="18187" x="175430" y="-76052" z="-7218" heading="41655"/>                            
+            <spawn npcid="18191" x="175152" y="-75987" z="-7219" heading="37351"/>                            
+            <spawn npcid="18191" x="175347" y="-75976" z="-7217" heading="78847"/>                            
+            <spawn npcid="18191" x="175178" y="-76164" z="-7219" heading="56741"/>                            
+            <spawn npcid="18191" x="175118" y="-77021" z="-7219" heading="22822"/>                            
+            <spawn npcid="18191" x="175280" y="-77011" z="-7219" heading="32042"/>                            
+            <spawn npcid="18191" x="175112" y="-76848" z="-7219" heading="73538"/>                            
+            <spawn npcid="18191" x="175346" y="-76559" z="-7217" heading="30678"/>                            
+            <spawn npcid="18191" x="175747" y="-76543" z="-7217" heading="38026"/>                            
+            <spawn npcid="18191" x="176006" y="-75999" z="-7218" heading="53453"/>                            
+            <spawn npcid="18191" x="175824" y="-75983" z="-7215" heading="65341"/>                            
+            <spawn npcid="18191" x="176003" y="-76190" z="-7219" heading="31202"/>                            
+            <spawn npcid="18191" x="176059" y="-77039" z="-7219" heading="16352"/>                            
+            <spawn npcid="18191" x="175901" y="-77049" z="-7219" heading="62463"/>                            
+            <spawn npcid="18191" x="176020" y="-76880" z="-7219" heading="24213"/>                            
+            <spawn npcid="18195" x="175865" y="-76679" z="-7219" heading="24628"/>                            
+            <spawn npcid="18195" x="175864" y="-76221" z="-7219" heading="81840"/>                            
+            <spawn npcid="18195" x="175336" y="-76199" z="-7217" heading="63692"/>                            
+            <spawn npcid="18195" x="175339" y="-76821" z="-7217" heading="53811"/>                            
+            <spawn npcid="18195" x="175481" y="-76523" z="-7218" heading="78915"/>                            
+            <spawn npcid="18195" x="175679" y="-76498" z="-7218" heading="34958"/>                            
+            <boss npcid="18183" />
+	  </stage>
+          <stage no="3">
+            <keybox/>
+	  </stage>
+	</room>
+	<room no="5">
+	 <door id="25150025"/>
+	 <gatekeeper id="31943"/>
+	 <stage no="1">
+	   <openbox x="175594" y="-74655" z="-7216" />
+         </stage>
+         <stage no="2">
+           <spawn npcid="18220" x="175740" y="-74211" z="-7217" heading="52795"/>                            
+           <spawn npcid="18220" x="175741" y="-74502" z="-7217" heading="50272"/>                            
+           <spawn npcid="18220" x="175759" y="-74888" z="-7217" heading="48954"/>                            
+           <spawn npcid="18220" x="175379" y="-74927" z="-7218" heading="63647"/>                            
+           <spawn npcid="18220" x="175372" y="-74655" z="-7217" heading="81965"/>                            
+           <spawn npcid="18220" x="175363" y="-74324" z="-7217" heading="16927"/>                            
+           <spawn npcid="18230" x="175186" y="-74238" z="-7219" heading="79652"/>                            
+           <spawn npcid="18230" x="175191" y="-74510" z="-7218" heading="49109"/>                            
+           <spawn npcid="18230" x="175193" y="-74810" z="-7219" heading="49371"/>                            
+           <spawn npcid="18230" x="175200" y="-75099" z="-7219" heading="49188"/>                            
+           <spawn npcid="18230" x="175954" y="-75168" z="-7219" heading="33169"/>                            
+           <spawn npcid="18230" x="175943" y="-74950" z="-7219" heading="81682"/>                            
+           <spawn npcid="18230" x="175943" y="-74674" z="-7219" heading="16672"/>                            
+           <spawn npcid="18230" x="175943" y="-74322" z="-7219" heading="16672"/>                            
+           <spawn npcid="18222" x="176015" y="-74206" z="-7219" heading="50737"/>                            
+           <spawn npcid="18222" x="176018" y="-74383" z="-7219" heading="51073"/>                            
+           <spawn npcid="18222" x="176018" y="-74569" z="-7219" heading="49440"/>                            
+           <spawn npcid="18226" x="176022" y="-74754" z="-7219" heading="49215"/>                            
+           <spawn npcid="18222" x="176025" y="-75075" z="-7219" heading="49343"/>                            
+           <spawn npcid="18222" x="175828" y="-74315" z="-7219" heading="34779"/>                            
+           <spawn npcid="18222" x="175848" y="-74555" z="-7219" heading="48573"/>                            
+           <spawn npcid="18226" x="175858" y="-74729" z="-7219" heading="48842"/>                            
+           <spawn npcid="18222" x="175880" y="-74987" z="-7219" heading="79305"/>                            
+           <spawn npcid="18222" x="175655" y="-74191" z="-7218" heading="18469"/>                            
+           <spawn npcid="18222" x="175675" y="-74384" z="-7218" heading="48363"/>                            
+           <spawn npcid="18226" x="175684" y="-74630" z="-7218" heading="49059"/>                            
+           <spawn npcid="18222" x="175695" y="-74886" z="-7218" heading="48993"/>                            
+           <spawn npcid="18222" x="175717" y="-75186" z="-7218" heading="48677"/>                            
+           <spawn npcid="18222" x="175436" y="-74161" z="-7218" heading="44604"/>                            
+           <spawn npcid="18226" x="175430" y="-74463" z="-7218" heading="49647"/>                            
+           <spawn npcid="18222" x="175407" y="-74662" z="-7217" heading="44604"/>                            
+           <spawn npcid="18222" x="175421" y="-74943" z="-7217" heading="48921"/>                            
+           <spawn npcid="18222" x="175221" y="-74236" z="-7219" heading="45217"/>                            
+           <spawn npcid="18226" x="175223" y="-74542" z="-7217" heading="48058"/>                            
+           <spawn npcid="18222" x="175228" y="-74843" z="-7219" heading="42194"/>                            
+           <spawn npcid="18222" x="175237" y="-75129" z="-7219" heading="46722"/>                            
+           <spawn npcid="18222" x="175088" y="-74223" z="-7219" heading="45472"/>                            
+           <spawn npcid="18226" x="175086" y="-74450" z="-7218" heading="49531"/>                            
+           <spawn npcid="18222" x="175099" y="-74730" z="-7219" heading="48957"/>                            
+           <spawn npcid="18222" x="175106" y="-75041" z="-7219" heading="18095"/>                            
+           <spawn npcid="18222" x="175572" y="-74349" z="-7218" heading="49440"/>                            
+           <spawn npcid="18226" x="175579" y="-74444" z="-7218" heading="48430"/>                            
+           <spawn npcid="18222" x="175571" y="-74968" z="-7218" heading="73599"/>                            
+           <spawn npcid="18222" x="175570" y="-75242" z="-7218" heading="51837"/>                            		
+         </stage> 
+	 <stage no="3">
+           <skill id="4616,1" />
+           <spawn npcid="18231" x="176073" y="-74065" z="-7219" heading="49184"/>                            
+           <spawn npcid="18232" x="175953" y="-74069" z="-7219" heading="49184"/>                            
+           <spawn npcid="18233" x="175824" y="-74079" z="-7219" heading="49184"/>                            
+           <spawn npcid="18234" x="175883" y="-74075" z="-7219" heading="49184"/>                            
+           <spawn npcid="18235" x="176014" y="-74075" z="-7219" heading="49184"/>                            
+           <spawn npcid="18236" x="175053" y="-74044" z="-7219" heading="49184"/>                            
+           <spawn npcid="18237" x="175130" y="-74044" z="-7219" heading="49184"/>                            
+           <spawn npcid="18238" x="175216" y="-74048" z="-7219" heading="49184"/>                            
+           <spawn npcid="18239" x="175294" y="-74053" z="-7219" heading="49184"/>                            
+           <spawn npcid="18240" x="175375" y="-74042" z="-7217" heading="49184"/>                            
+        </stage>
+        <stage no="4">
+           <spawn npcid="18220" x="175740" y="-74211" z="-7217" heading="52795"/>                            
+           <spawn npcid="18220" x="175741" y="-74502" z="-7217" heading="50272"/>                            
+           <spawn npcid="18220" x="175759" y="-74888" z="-7217" heading="48954"/>                            
+           <spawn npcid="18220" x="175379" y="-74927" z="-7218" heading="63647"/>                            
+           <spawn npcid="18220" x="175372" y="-74655" z="-7217" heading="81965"/>                            
+           <spawn npcid="18220" x="175363" y="-74324" z="-7217" heading="16927"/>                            
+           <spawn npcid="18230" x="175186" y="-74238" z="-7219" heading="79652"/>                            
+           <spawn npcid="18230" x="175191" y="-74510" z="-7218" heading="49109"/>                            
+           <spawn npcid="18230" x="175193" y="-74810" z="-7219" heading="49371"/>                            
+           <spawn npcid="18230" x="175200" y="-75099" z="-7219" heading="49188"/>                            
+           <spawn npcid="18230" x="175954" y="-75168" z="-7219" heading="33169"/>                            
+           <spawn npcid="18230" x="175943" y="-74950" z="-7219" heading="81682"/>                            
+           <spawn npcid="18230" x="175943" y="-74674" z="-7219" heading="16672"/>                            
+           <spawn npcid="18230" x="175943" y="-74322" z="-7219" heading="16672"/>                            
+           <spawn npcid="18222" x="176015" y="-74206" z="-7219" heading="50737"/>                            
+           <spawn npcid="18222" x="176018" y="-74383" z="-7219" heading="51073"/>                            
+           <spawn npcid="18222" x="176018" y="-74569" z="-7219" heading="49440"/>                            
+           <spawn npcid="18226" x="176022" y="-74754" z="-7219" heading="49215"/>                            
+           <spawn npcid="18222" x="176025" y="-75075" z="-7219" heading="49343"/>                            
+           <spawn npcid="18222" x="175828" y="-74315" z="-7219" heading="34779"/>                            
+           <spawn npcid="18222" x="175848" y="-74555" z="-7219" heading="48573"/>                            
+           <spawn npcid="18226" x="175858" y="-74729" z="-7219" heading="48842"/>                            
+           <spawn npcid="18222" x="175880" y="-74987" z="-7219" heading="79305"/>                            
+           <spawn npcid="18222" x="175655" y="-74191" z="-7218" heading="18469"/>                            
+           <spawn npcid="18222" x="175675" y="-74384" z="-7218" heading="48363"/>                            
+           <spawn npcid="18226" x="175684" y="-74630" z="-7218" heading="49059"/>                            
+           <spawn npcid="18222" x="175695" y="-74886" z="-7218" heading="48993"/>                            
+           <spawn npcid="18222" x="175717" y="-75186" z="-7218" heading="48677"/>                            
+           <spawn npcid="18222" x="175436" y="-74161" z="-7218" heading="44604"/>                            
+           <spawn npcid="18226" x="175430" y="-74463" z="-7218" heading="49647"/>                            
+           <spawn npcid="18222" x="175407" y="-74662" z="-7217" heading="44604"/>                            
+           <spawn npcid="18222" x="175421" y="-74943" z="-7217" heading="48921"/>                            
+           <spawn npcid="18222" x="175221" y="-74236" z="-7219" heading="45217"/>                            
+           <spawn npcid="18226" x="175223" y="-74542" z="-7217" heading="48058"/>                            
+           <spawn npcid="18222" x="175228" y="-74843" z="-7219" heading="42194"/>                            
+           <spawn npcid="18222" x="175237" y="-75129" z="-7219" heading="46722"/>                            
+           <spawn npcid="18222" x="175088" y="-74223" z="-7219" heading="45472"/>                            
+           <spawn npcid="18226" x="175086" y="-74450" z="-7218" heading="49531"/>                            
+           <spawn npcid="18222" x="175099" y="-74730" z="-7219" heading="48957"/>                            
+           <spawn npcid="18222" x="175106" y="-75041" z="-7219" heading="18095"/>                            
+           <spawn npcid="18222" x="175572" y="-74349" z="-7218" heading="49440"/>                            
+           <spawn npcid="18226" x="175579" y="-74444" z="-7218" heading="48430"/>                            
+           <spawn npcid="18222" x="175571" y="-74968" z="-7218" heading="73599"/>                            
+           <spawn npcid="18222" x="175570" y="-75242" z="-7218" heading="51837"/>                            		
+           <spawn npcid="18212" x="175577" y="-74613" z="-7218" heading="16832"/>
+           <boss npcid="18212"/>
+         </stage>
+         <stage no="5">
+           <keybox/>
+         </stage>  
+	</room>
+	<room no="6">
+	 <door id="25150026"/>
+	 <gatekeeper id="31944"/>
+	 <stage no="1">
+	   <spawn npcid="25342" x="175578" y="-72733" z="-7216" heading="49440"/>                            
+	   <boss npcid="25342"/>	
+         </stage>
+         <stage no="2">
+           <spawn npcid="31452" x="175578" y="-72733" z="-7216" heading="49440"/>                            
+           <spawn npcid="18256" x="175222" y="-73263" z="-7219" heading="62468"/>                            
+           <spawn npcid="18256" x="175353" y="-73145" z="-7219" heading="20984"/>                            
+           <spawn npcid="18256" x="175171" y="-72843" z="-7216" heading="73492"/>                            
+           <spawn npcid="18256" x="175182" y="-72713" z="-7215" heading="25398"/>                            
+           <spawn npcid="18256" x="175447" y="-72608" z="-7216" heading="32074"/>                            
+           <spawn npcid="18256" x="175664" y="-72644" z="-7216" heading="41103"/>                            
+           <spawn npcid="18256" x="175853" y="-72616" z="-7216" heading="20565"/>                            
+           <spawn npcid="18256" x="175977" y="-72299" z="-7219" heading="20565"/>                            
+           <spawn npcid="18256" x="175712" y="-72230" z="-7219" heading="67962"/>                            
+           <spawn npcid="18256" x="175814" y="-72925" z="-7216" heading="47721"/>                            
+           <spawn npcid="18256" x="176077" y="-73166" z="-7219" heading="40596"/>                            
+           <spawn npcid="18256" x="175840" y="-73211" z="-7246" heading="63866"/>                            
+           <spawn npcid="18256" x="175603" y="-72992" z="-7216" heading="73511"/>                            
+           <spawn npcid="18256" x="175440" y="-72488" z="-7243" heading="25061"/>                            
+           <spawn npcid="18256" x="175204" y="-72262" z="-7219" heading="74489"/>                            
+           <spawn npcid="18256" x="175286" y="-72170" z="-7219" heading="29793"/>                            
+         </stage>
+	</room>
+  </mausoleum>	
+  <mausoleum>
+        <gatekeeper id="31923"/>
+	<room no="1">
+	 <door id="25150031"/>
+	 <gatekeeper id="31923" />
+	 <stage no="1">
+	   <openbox x="173218" y="-85703" z="-7216" />
+	 </stage>
+	 <stage no="2">
+            <spawn npcid="18120" x="173212" y="-85382" z="-7218" heading="16677"/>                            
+            <spawn npcid="18132" x="172863" y="-85276" z="-7219" heading="41986"/>                            
+            <spawn npcid="18132" x="173584" y="-85223" z="-7219" heading="59819"/>                            
+            <spawn npcid="18132" x="173562" y="-86112" z="-7215" heading="76198"/>                            
+            <spawn npcid="18132" x="172877" y="-86123" z="-7219" heading="21768"/>                            
+            <spawn npcid="18132" x="172894" y="-85711" z="-7219" heading="29027"/>                            
+            <spawn npcid="18132" x="173563" y="-85702" z="-7219" heading="65616"/>                            
+            <spawn npcid="18133" x="173405" y="-85923" z="-7217" heading="16464"/>                            
+            <spawn npcid="18133" x="173399" y="-85334" z="-7217" heading="50003"/>                            
+            <spawn npcid="18133" x="172936" y="-85393" z="-7219" heading="41237"/>                            
+            <spawn npcid="18133" x="172864" y="-85925" z="-7219" heading="26566"/>                            
+            <spawn npcid="18137" x="173024" y="-85219" z="-7217" heading="46952"/>                            
+            <spawn npcid="18137" x="173035" y="-85459" z="-7217" heading="48755"/>                            
+            <spawn npcid="18137" x="173018" y="-85711" z="-7217" heading="45761"/>                            
+            <spawn npcid="18137" x="173048" y="-86092" z="-7217" heading="50401"/>                            
+            <spawn npcid="18137" x="173235" y="-86099" z="-7218" heading="72758"/>                            
+            <spawn npcid="18137" x="173396" y="-86116" z="-7217" heading="33946"/>                            
+            <spawn npcid="18137" x="173399" y="-85519" z="-7217" heading="16838"/>                            
+            <spawn npcid="18137" x="173380" y="-85234" z="-7217" heading="19429"/>                            
+            <spawn npcid="18137" x="173212" y="-85489" z="-7218" heading="49761"/>                            
+            <spawn npcid="18137" x="173215" y="-85891" z="-7218" heading="48595"/>                            
+	    <boss npcid="18120"/>
+         </stage>
+	 <stage no="3">
+	   <keybox/>
+	 </stage>
+	</room>
+	<room no="2">
+	 <door id="25150032"/>
+	 <gatekeeper id="31935"/>
+	 <stage no="1">
+   	   <openbox x="173206" y="-83929" z="-7216" />
+	 </stage>
+	 <stage no="2">
+          <spawn npcid="18141" x="173313" y="-84339" z="-7218" heading="69882"/>                            
+          <spawn npcid="18141" x="173319" y="-84148" z="-7218" heading="16984"/>                            
+          <spawn npcid="18141" x="173318" y="-83825" z="-7218" heading="82159"/>                            
+          <spawn npcid="18141" x="173313" y="-83557" z="-7218" heading="81910"/>                            
+          <spawn npcid="18141" x="173566" y="-83415" z="-7219" heading="27825"/>                            
+          <spawn npcid="18141" x="173564" y="-83693" z="-7219" heading="50002"/>                            
+          <spawn npcid="18141" x="173566" y="-84003" z="-7214" heading="50610"/>                            
+          <spawn npcid="18141" x="173563" y="-84273" z="-7216" heading="80745"/>                            
+          <spawn npcid="18141" x="172940" y="-84456" z="-7219" heading="52667"/>                            
+          <spawn npcid="18141" x="172947" y="-84249" z="-7218" heading="78614"/>                            
+          <spawn npcid="18141" x="172950" y="-84003" z="-7219" heading="17130"/>                            
+          <spawn npcid="18141" x="172947" y="-83687" z="-7218" heading="48011"/>                            
+          <spawn npcid="18141" x="172799" y="-83410" z="-7219" heading="76438"/>                            
+          <spawn npcid="18141" x="172797" y="-83876" z="-7219" heading="48385"/>                            
+          <spawn npcid="18141" x="172797" y="-84118" z="-7218" heading="46311"/>                            
+          <spawn npcid="18141" x="172796" y="-84364" z="-7219" heading="48454"/>                            
+        </stage>
+        <stage no="3">
+           <keybox/>
+        </stage>
+       </room>
+       <room no="3">
+	 <door id="25150033"/>
+	 <gatekeeper id="31936"/>
+	 <stage no="1">
+   	   <openbox x="173208" y="-82085" z="-7216" />
+	 </stage>
+	 <stage no="2">
+          <spawn npcid="18166" x="172754" y="-82581" z="-7219" heading="16656"/>                            
+          <spawn npcid="18166" x="172752" y="-82441" z="-7219" heading="23694"/>                            
+          <spawn npcid="18166" x="172750" y="-82342" z="-7219" heading="81527"/>                            
+          <spawn npcid="18166" x="172751" y="-82223" z="-7219" heading="48990"/>                            
+          <spawn npcid="18166" x="172751" y="-82086" z="-7219" heading="29072"/>                            
+          <spawn npcid="18166" x="172754" y="-81938" z="-7219" heading="34763"/>                            
+          <spawn npcid="18166" x="172754" y="-81766" z="-7219" heading="16656"/>                            
+          <spawn npcid="18166" x="172751" y="-81558" z="-7219" heading="78836"/>                            
+          <spawn npcid="18166" x="172904" y="-82584" z="-7219" heading="45456"/>                            
+          <spawn npcid="18166" x="172897" y="-82414" z="-7219" heading="81762"/>                            
+          <spawn npcid="18166" x="172893" y="-82228" z="-7218" heading="17428"/>                            
+          <spawn npcid="18166" x="172895" y="-82067" z="-7219" heading="16786"/>                            
+          <spawn npcid="18166" x="172884" y="-81912" z="-7219" heading="62694"/>                            
+          <spawn npcid="18166" x="172873" y="-81741" z="-7219" heading="79289"/>                            
+          <spawn npcid="18166" x="172862" y="-81489" z="-7219" heading="18756"/>                            
+          <spawn npcid="18166" x="173054" y="-82582" z="-7218" heading="17840"/>                            
+          <spawn npcid="18166" x="173046" y="-82399" z="-7218" heading="47702"/>                            
+          <spawn npcid="18166" x="173038" y="-82122" z="-7218" heading="80527"/>                            
+          <spawn npcid="18166" x="173045" y="-81941" z="-7218" heading="20012"/>                            
+          <spawn npcid="18166" x="173043" y="-81765" z="-7218" heading="55557"/>                            
+          <spawn npcid="18166" x="173039" y="-81515" z="-7218" heading="82025"/>                            
+          <spawn npcid="18166" x="173164" y="-82601" z="-7218" heading="81943"/>                            
+          <spawn npcid="18166" x="173159" y="-82326" z="-7218" heading="16938"/>                            
+          <spawn npcid="18166" x="173148" y="-82119" z="-7218" heading="53459"/>                            
+          <spawn npcid="18166" x="173132" y="-81950" z="-7218" heading="52326"/>                            
+          <spawn npcid="18166" x="173141" y="-81747" z="-7218" heading="40581"/>                            
+          <spawn npcid="18166" x="173143" y="-81524" z="-7218" heading="38249"/>                            
+          <spawn npcid="18166" x="173294" y="-82561" z="-7218" heading="79636"/>                            
+          <spawn npcid="18166" x="173299" y="-82348" z="-7218" heading="16656"/>                            
+          <spawn npcid="18166" x="173295" y="-82082" z="-7218" heading="16656"/>                            
+          <spawn npcid="18166" x="173291" y="-81845" z="-7218" heading="82015"/>                            
+          <spawn npcid="18166" x="173294" y="-81634" z="-7218" heading="17542"/>                            
+          <spawn npcid="18166" x="173307" y="-81495" z="-7218" heading="40078"/>                            
+          <spawn npcid="18166" x="173479" y="-82566" z="-7219" heading="81348"/>                            
+          <spawn npcid="18166" x="173488" y="-82333" z="-7218" heading="17059"/>                            
+          <spawn npcid="18166" x="173498" y="-82055" z="-7219" heading="17032"/>                            
+          <spawn npcid="18166" x="173495" y="-81857" z="-7219" heading="48238"/>                            
+          <spawn npcid="18166" x="173482" y="-81574" z="-7219" heading="81713"/>                            
+          <spawn npcid="18166" x="173679" y="-82561" z="-7219" heading="81415"/>                            
+          <spawn npcid="18166" x="173664" y="-82377" z="-7219" heading="77914"/>                            
+          <spawn npcid="18166" x="173654" y="-82191" z="-7219" heading="81631"/>                            
+          <spawn npcid="18166" x="173667" y="-81974" z="-7219" heading="80271"/>                            
+          <spawn npcid="18166" x="173667" y="-81737" z="-7219" heading="78083"/>                            
+          <spawn npcid="18166" x="173646" y="-81549" z="-7219" heading="70644"/>                            
+          <spawn npcid="18170" x="172983" y="-82319" z="-7217" heading="37115"/>                            
+          <spawn npcid="18170" x="172978" y="-81962" z="-7217" heading="81520"/>                            
+          <spawn npcid="18170" x="173006" y="-81663" z="-7217" heading="17654"/>                            
+          <spawn npcid="18170" x="173398" y="-81649" z="-7217" heading="49251"/>                            
+          <spawn npcid="18170" x="173406" y="-81954" z="-7217" heading="57060"/>                            
+          <spawn npcid="18170" x="173404" y="-82409" z="-7217" heading="18437"/>                            
+          <spawn npcid="18170" x="173203" y="-82388" z="-7218" heading="22071"/>                            
+          <spawn npcid="18170" x="173201" y="-81688" z="-7218" heading="81300"/>                            
+	  <spawn npcid="18150" x="173197" y="-82056" z="-7218" heading="17489"/>                            
+ 	  <alive npcid="18150" />
+        </stage>
+	<stage no="3">
+         <spawn npcid="18158" x="173297" y="-82156" z="-7218" heading="17489"/>                            
+         <boss npcid="18158"/>
+        </stage>
+        <stage no="4">
+          <keybox/>
+        </stage>
+      </room>	
+	<room no="4">
+	 <door id="25150034"/>
+	 <gatekeeper id="31937"/>
+         <stage no="1">
+	   <openbox x="173191" y="-80290" z="-7216" />
+	 </stage>
+	 <stage no="2">
+          <spawn npcid="18183" x="173185" y="-79847" z="-7218" heading="49013"/>                            
+          <spawn npcid="18196" x="172654" y="-79677" z="-7219" heading="61054"/>                            
+          <spawn npcid="18197" x="173725" y="-79673" z="-7219" heading="35102"/>                            
+          <spawn npcid="18198" x="173741" y="-80887" z="-7218" heading="26354"/>                            
+          <spawn npcid="18199" x="172646" y="-80885" z="-7218" heading="70340"/>                            
+          <spawn npcid="18185" x="172905" y="-80460" z="-7219" heading="17833"/>                            
+          <spawn npcid="18185" x="172909" y="-80134" z="-7219" heading="48175"/>                            
+          <spawn npcid="18185" x="173437" y="-80095" z="-7219" heading="62760"/>                            
+          <spawn npcid="18185" x="173423" y="-80433" z="-7219" heading="73052"/>                            
+          <spawn npcid="18185" x="173520" y="-80623" z="-7219" heading="76194"/>                            
+          <spawn npcid="18185" x="172908" y="-80721" z="-7219" heading="23976"/>                            
+          <spawn npcid="18187" x="173092" y="-80760" z="-7218" heading="29168"/>                            
+          <spawn npcid="18187" x="173373" y="-80742" z="-7217" heading="71820"/>                            
+          <spawn npcid="18187" x="173416" y="-79853" z="-7219" heading="44010"/>                            
+          <spawn npcid="18187" x="173047" y="-79850" z="-7218" heading="41655"/>                            
+          <spawn npcid="18191" x="172769" y="-79785" z="-7219" heading="37351"/>                            
+          <spawn npcid="18191" x="172964" y="-79774" z="-7217" heading="78847"/>                            
+          <spawn npcid="18191" x="172795" y="-79962" z="-7219" heading="56741"/>                            
+          <spawn npcid="18191" x="172735" y="-80819" z="-7219" heading="22822"/>                            
+          <spawn npcid="18191" x="172897" y="-80809" z="-7219" heading="32042"/>                            
+          <spawn npcid="18191" x="172729" y="-80646" z="-7219" heading="73538"/>                            
+          <spawn npcid="18191" x="172963" y="-80357" z="-7217" heading="30678"/>                            
+          <spawn npcid="18191" x="173364" y="-80341" z="-7217" heading="38026"/>                            
+          <spawn npcid="18191" x="173623" y="-79797" z="-7218" heading="53453"/>                            
+          <spawn npcid="18191" x="173441" y="-79781" z="-7215" heading="65341"/>                            
+          <spawn npcid="18191" x="173620" y="-79988" z="-7219" heading="31202"/>                            
+          <spawn npcid="18191" x="173676" y="-80837" z="-7219" heading="16352"/>                            
+          <spawn npcid="18191" x="173518" y="-80847" z="-7219" heading="62463"/>                            
+          <spawn npcid="18191" x="173637" y="-80678" z="-7219" heading="24213"/>                            
+          <spawn npcid="18195" x="173482" y="-80477" z="-7219" heading="24628"/>                            
+          <spawn npcid="18195" x="173481" y="-80019" z="-7219" heading="81840"/>                            
+          <spawn npcid="18195" x="172953" y="-79997" z="-7217" heading="63692"/>                            
+          <spawn npcid="18195" x="172956" y="-80619" z="-7217" heading="53811"/>                            
+          <spawn npcid="18195" x="173098" y="-80321" z="-7218" heading="78915"/>                            
+          <spawn npcid="18195" x="173296" y="-80296" z="-7218" heading="34958"/>                            
+	  <boss npcid="18183"/>
+        </stage>
+        <stage no="3">
+	 <keybox/>
+        </stage>
+      </room>
+      <room no="5">
+	 <door id="25150035"/>
+	 <gatekeeper id="31938"/>
+         <stage no="1">
+	   <openbox x="173198" y="-78465" z="-7216" />
+	 </stage>
+	 <stage no="2">	
+           <spawn npcid="18220" x="173357" y="-78009" z="-7217" heading="52795"/>                            
+           <spawn npcid="18220" x="173358" y="-78300" z="-7217" heading="50272"/>                            
+           <spawn npcid="18220" x="173376" y="-78686" z="-7217" heading="48954"/>                            
+           <spawn npcid="18220" x="172996" y="-78725" z="-7218" heading="63647"/>                            
+           <spawn npcid="18220" x="172989" y="-78453" z="-7217" heading="81965"/>                            
+           <spawn npcid="18220" x="172980" y="-78122" z="-7217" heading="16927"/>                            
+           <spawn npcid="18230" x="172803" y="-78036" z="-7219" heading="79652"/>                            
+           <spawn npcid="18230" x="172808" y="-78308" z="-7218" heading="49109"/>                            
+           <spawn npcid="18230" x="172810" y="-78608" z="-7219" heading="49371"/>                            
+           <spawn npcid="18230" x="172817" y="-78897" z="-7219" heading="49188"/>                            
+           <spawn npcid="18230" x="173571" y="-78966" z="-7219" heading="33169"/>                            
+           <spawn npcid="18230" x="173560" y="-78748" z="-7219" heading="81682"/>                            
+           <spawn npcid="18230" x="173560" y="-78472" z="-7219" heading="16672"/>                            
+           <spawn npcid="18230" x="173560" y="-78120" z="-7219" heading="16672"/>                            
+           <spawn npcid="18222" x="173632" y="-78004" z="-7219" heading="50737"/>                            
+           <spawn npcid="18222" x="173635" y="-78181" z="-7219" heading="51073"/>                            
+           <spawn npcid="18222" x="173635" y="-78367" z="-7219" heading="49440"/>                            
+           <spawn npcid="18226" x="173639" y="-78552" z="-7219" heading="49215"/>                            
+           <spawn npcid="18222" x="173642" y="-78873" z="-7219" heading="49343"/>                            
+           <spawn npcid="18222" x="173445" y="-78113" z="-7219" heading="34779"/>                            
+           <spawn npcid="18222" x="173465" y="-78353" z="-7219" heading="48573"/>                            
+           <spawn npcid="18226" x="173475" y="-78527" z="-7219" heading="48842"/>                            
+           <spawn npcid="18222" x="173497" y="-78785" z="-7219" heading="79305"/>                            
+           <spawn npcid="18222" x="173272" y="-77989" z="-7218" heading="18469"/>                            
+           <spawn npcid="18222" x="173292" y="-78182" z="-7218" heading="48363"/>                            
+           <spawn npcid="18226" x="173301" y="-78428" z="-7218" heading="49059"/>                            
+           <spawn npcid="18222" x="173312" y="-78684" z="-7218" heading="48993"/>                            
+           <spawn npcid="18222" x="173334" y="-78984" z="-7218" heading="48677"/>                            
+           <spawn npcid="18222" x="173053" y="-77959" z="-7218" heading="44604"/>                            
+           <spawn npcid="18226" x="173047" y="-78261" z="-7218" heading="49647"/>                            
+           <spawn npcid="18222" x="173024" y="-78460" z="-7217" heading="44604"/>                            
+           <spawn npcid="18222" x="173038" y="-78741" z="-7217" heading="48921"/>                            
+           <spawn npcid="18222" x="172838" y="-78034" z="-7219" heading="45217"/>                            
+           <spawn npcid="18226" x="172840" y="-78340" z="-7217" heading="48058"/>                            
+           <spawn npcid="18222" x="172845" y="-78641" z="-7219" heading="42194"/>                            
+           <spawn npcid="18222" x="172854" y="-78927" z="-7219" heading="46722"/>                            
+           <spawn npcid="18222" x="172705" y="-78021" z="-7219" heading="45472"/>                            
+           <spawn npcid="18226" x="172703" y="-78248" z="-7218" heading="49531"/>                            
+           <spawn npcid="18222" x="172716" y="-78528" z="-7219" heading="48957"/>                            
+           <spawn npcid="18222" x="172723" y="-78839" z="-7219" heading="18095"/>                            
+           <spawn npcid="18222" x="173189" y="-78147" z="-7218" heading="49440"/>                            
+           <spawn npcid="18226" x="173196" y="-78242" z="-7218" heading="48430"/>                            
+           <spawn npcid="18222" x="173188" y="-78766" z="-7218" heading="73599"/>                            
+           <spawn npcid="18222" x="173187" y="-79040" z="-7218" heading="51837"/>                            	
+	 </stage>
+	 <stage no="3">
+	   <skill id="4616,1" />
+           <spawn npcid="18231" x="173690" y="-77863" z="-7219" heading="49109"/>                            
+           <spawn npcid="18232" x="173570" y="-77867" z="-7219" heading="49109"/>                            
+           <spawn npcid="18233" x="173441" y="-77877" z="-7219" heading="49109"/>                            
+           <spawn npcid="18234" x="173500" y="-77873" z="-7219" heading="49109"/>                            
+           <spawn npcid="18235" x="173631" y="-77873" z="-7219" heading="49109"/>                            
+           <spawn npcid="18236" x="172670" y="-77842" z="-7219" heading="49109"/>                            
+           <spawn npcid="18237" x="172747" y="-77842" z="-7219" heading="49109"/>                            
+           <spawn npcid="18238" x="172833" y="-77846" z="-7219" heading="49109"/>                            
+           <spawn npcid="18239" x="172911" y="-77851" z="-7219" heading="49109"/>                            
+           <spawn npcid="18240" x="172992" y="-77840" z="-7217" heading="49109"/>                            
+        </stage>
+	<stage no="4">
+           <spawn npcid="18220" x="173357" y="-78009" z="-7217" heading="52795"/>                            
+           <spawn npcid="18220" x="173358" y="-78300" z="-7217" heading="50272"/>                            
+           <spawn npcid="18220" x="173376" y="-78686" z="-7217" heading="48954"/>                            
+           <spawn npcid="18220" x="172996" y="-78725" z="-7218" heading="63647"/>                            
+           <spawn npcid="18220" x="172989" y="-78453" z="-7217" heading="81965"/>                            
+           <spawn npcid="18220" x="172980" y="-78122" z="-7217" heading="16927"/>                            
+           <spawn npcid="18230" x="172803" y="-78036" z="-7219" heading="79652"/>                            
+           <spawn npcid="18230" x="172808" y="-78308" z="-7218" heading="49109"/>                            
+           <spawn npcid="18230" x="172810" y="-78608" z="-7219" heading="49371"/>                            
+           <spawn npcid="18230" x="172817" y="-78897" z="-7219" heading="49188"/>                            
+           <spawn npcid="18230" x="173571" y="-78966" z="-7219" heading="33169"/>                            
+           <spawn npcid="18230" x="173560" y="-78748" z="-7219" heading="81682"/>                            
+           <spawn npcid="18230" x="173560" y="-78472" z="-7219" heading="16672"/>                            
+           <spawn npcid="18230" x="173560" y="-78120" z="-7219" heading="16672"/>                            
+           <spawn npcid="18222" x="173632" y="-78004" z="-7219" heading="50737"/>                            
+           <spawn npcid="18222" x="173635" y="-78181" z="-7219" heading="51073"/>                            
+           <spawn npcid="18222" x="173635" y="-78367" z="-7219" heading="49440"/>                            
+           <spawn npcid="18226" x="173639" y="-78552" z="-7219" heading="49215"/>                            
+           <spawn npcid="18222" x="173642" y="-78873" z="-7219" heading="49343"/>                            
+           <spawn npcid="18222" x="173445" y="-78113" z="-7219" heading="34779"/>                            
+           <spawn npcid="18222" x="173465" y="-78353" z="-7219" heading="48573"/>                            
+           <spawn npcid="18226" x="173475" y="-78527" z="-7219" heading="48842"/>                            
+           <spawn npcid="18222" x="173497" y="-78785" z="-7219" heading="79305"/>                            
+           <spawn npcid="18222" x="173272" y="-77989" z="-7218" heading="18469"/>                            
+           <spawn npcid="18222" x="173292" y="-78182" z="-7218" heading="48363"/>                            
+           <spawn npcid="18226" x="173301" y="-78428" z="-7218" heading="49059"/>                            
+           <spawn npcid="18222" x="173312" y="-78684" z="-7218" heading="48993"/>                            
+           <spawn npcid="18222" x="173334" y="-78984" z="-7218" heading="48677"/>                            
+           <spawn npcid="18222" x="173053" y="-77959" z="-7218" heading="44604"/>                            
+           <spawn npcid="18226" x="173047" y="-78261" z="-7218" heading="49647"/>                            
+           <spawn npcid="18222" x="173024" y="-78460" z="-7217" heading="44604"/>                            
+           <spawn npcid="18222" x="173038" y="-78741" z="-7217" heading="48921"/>                            
+           <spawn npcid="18222" x="172838" y="-78034" z="-7219" heading="45217"/>                            
+           <spawn npcid="18226" x="172840" y="-78340" z="-7217" heading="48058"/>                            
+           <spawn npcid="18222" x="172845" y="-78641" z="-7219" heading="42194"/>                            
+           <spawn npcid="18222" x="172854" y="-78927" z="-7219" heading="46722"/>                            
+           <spawn npcid="18222" x="172705" y="-78021" z="-7219" heading="45472"/>                            
+           <spawn npcid="18226" x="172703" y="-78248" z="-7218" heading="49531"/>                            
+           <spawn npcid="18222" x="172716" y="-78528" z="-7219" heading="48957"/>                            
+           <spawn npcid="18222" x="172723" y="-78839" z="-7219" heading="18095"/>                            
+           <spawn npcid="18222" x="173189" y="-78147" z="-7218" heading="49440"/>                            
+           <spawn npcid="18226" x="173196" y="-78242" z="-7218" heading="48430"/>                            
+           <spawn npcid="18222" x="173188" y="-78766" z="-7218" heading="73599"/>                            
+           <spawn npcid="18222" x="173187" y="-79040" z="-7218" heading="51837"/>                            	
+	   <spawn npcid="18212" x="173194" y="-78411" z="-7218" heading="16832"/>
+	   <boss npcid="18212"/>
+	 </stage>
+	<stage no="5">	
+	 <keybox/>
+        </stage>
+     </room>
+     <room no="6">
+	 <door id="25150036"/>
+	 <gatekeeper id="31939"/>
+	 <stage no="1">
+	   <spawn npcid="25346" x="173195" y="-76531" z="-7216" heading="49440" />
+	   <boss npcid="25346"/>
+         </stage>
+	 <stage no="2">
+           <spawn npcid="31452" x="173195" y="-76531" z="-7216" heading="49440"/>                            
+           <spawn npcid="18256" x="172839" y="-77061" z="-7219" heading="62468"/>                            
+           <spawn npcid="18256" x="172970" y="-76943" z="-7219" heading="20984"/>                            
+           <spawn npcid="18256" x="172788" y="-76641" z="-7216" heading="73492"/>                            
+           <spawn npcid="18256" x="172799" y="-76511" z="-7215" heading="25398"/>                            
+           <spawn npcid="18256" x="173064" y="-76406" z="-7216" heading="32074"/>                            
+           <spawn npcid="18256" x="173281" y="-76442" z="-7216" heading="41103"/>                            
+           <spawn npcid="18256" x="173470" y="-76414" z="-7216" heading="20565"/>                            
+           <spawn npcid="18256" x="173594" y="-76097" z="-7219" heading="20565"/>                            
+           <spawn npcid="18256" x="173329" y="-76028" z="-7219" heading="67962"/>                            
+           <spawn npcid="18256" x="173431" y="-76723" z="-7216" heading="47721"/>                            
+           <spawn npcid="18256" x="173694" y="-76964" z="-7219" heading="40596"/>                            
+           <spawn npcid="18256" x="173457" y="-77009" z="-7246" heading="63866"/>                            
+           <spawn npcid="18256" x="173220" y="-76790" z="-7216" heading="73511"/>                            
+           <spawn npcid="18256" x="173057" y="-76286" z="-7243" heading="25061"/>                            
+           <spawn npcid="18256" x="172821" y="-76060" z="-7219" heading="74489"/>                            
+	   <spawn npcid="18256" x="172903" y="-75968" z="-7219" heading="29793"/>
+     	</stage>
+      </room>
+  </mausoleum>
+  <mausoleum>
+        <gatekeeper id="31922"/>
+	<room no="1">
+	 <door id="25150001"/>
+	 <gatekeeper id="31922" />
+	 <stage no="1">
+	   <openbox x="180375" y="-88968" z="-7216" />
+	 </stage>
+	 <stage no="2">
+           <spawn npcid="18120" x="180696" y="-88974" z="-7218" heading="213"/>                              
+           <spawn npcid="18132" x="180802" y="-89323" z="-7219" heading="25522"/>                            
+           <spawn npcid="18132" x="180855" y="-88602" z="-7219" heading="43355"/>                            
+           <spawn npcid="18132" x="179966" y="-88624" z="-7215" heading="59734"/>                            
+           <spawn npcid="18132" x="179955" y="-89309" z="-7219" heading="5304"/>                             
+           <spawn npcid="18132" x="180367" y="-89292" z="-7219" heading="12563"/>                            
+           <spawn npcid="18132" x="180376" y="-88623" z="-7219" heading="49152"/>                            
+           <spawn npcid="18133" x="180155" y="-88781" z="-7217" heading="0"/>                                
+           <spawn npcid="18133" x="180744" y="-88787" z="-7217" heading="33539"/>                            
+           <spawn npcid="18133" x="180685" y="-89250" z="-7219" heading="24773"/>                            
+           <spawn npcid="18133" x="180153" y="-89322" z="-7219" heading="10102"/>                            
+           <spawn npcid="18137" x="180859" y="-89162" z="-7217" heading="30488"/>                            
+           <spawn npcid="18137" x="180619" y="-89151" z="-7217" heading="32291"/>                            
+           <spawn npcid="18137" x="180367" y="-89168" z="-7217" heading="29297"/>                            
+           <spawn npcid="18137" x="179986" y="-89138" z="-7217" heading="33937"/>                            
+           <spawn npcid="18137" x="179979" y="-88951" z="-7218" heading="56294"/>                            
+           <spawn npcid="18137" x="179962" y="-88790" z="-7217" heading="17482"/>                            
+           <spawn npcid="18137" x="180559" y="-88787" z="-7217" heading="374"/>                              
+           <spawn npcid="18137" x="180844" y="-88806" z="-7217" heading="2965"/>                             
+           <spawn npcid="18137" x="180589" y="-88974" z="-7218" heading="33297"/>                            
+           <spawn npcid="18137" x="180187" y="-88971" z="-7218" heading="32131"/>                            
+	   <boss npcid="18120"/>
+	 </stage>
+	 <stage no="3">
+           <keybox/>
+	 </stage>
+	</room>
+	<room no="2">
+	 <door id="25150002"/>
+	 <gatekeeper id="31930" />
+	 <stage no="1">
+	   <openbox x="182151" y="-88962" z="-7216" />
+	 </stage>
+	 <stage no="2">
+          <spawn npcid="18141" x="181741" y="-88855" z="-7218" heading="53226"/>                            
+          <spawn npcid="18141" x="181932" y="-88849" z="-7218" heading="328"/>                              
+          <spawn npcid="18141" x="182255" y="-88850" z="-7218" heading="65503"/>                            
+          <spawn npcid="18141" x="182523" y="-88855" z="-7218" heading="65254"/>                            
+          <spawn npcid="18141" x="182665" y="-88602" z="-7219" heading="11169"/>                            
+          <spawn npcid="18141" x="182387" y="-88604" z="-7219" heading="33346"/>                            
+          <spawn npcid="18141" x="182077" y="-88602" z="-7214" heading="33954"/>                            
+          <spawn npcid="18141" x="181807" y="-88605" z="-7216" heading="64089"/>                            
+          <spawn npcid="18141" x="181624" y="-89228" z="-7219" heading="36011"/>                            
+          <spawn npcid="18141" x="181831" y="-89221" z="-7218" heading="61958"/>                            
+          <spawn npcid="18141" x="182077" y="-89218" z="-7219" heading="474"/>                              
+          <spawn npcid="18141" x="182393" y="-89221" z="-7218" heading="31355"/>                            
+          <spawn npcid="18141" x="182670" y="-89369" z="-7219" heading="59782"/>                            
+          <spawn npcid="18141" x="182204" y="-89371" z="-7219" heading="31729"/>                            
+          <spawn npcid="18141" x="181962" y="-89371" z="-7218" heading="29655"/>                            
+          <spawn npcid="18141" x="181716" y="-89372" z="-7219" heading="31798"/>                            
+	</stage>
+	<stage no="3">
+         <keybox/>
+        </stage>
+       </room>
+       <room no="3">
+	 <door id="25150003"/>
+	 <gatekeeper id="31931" />
+	 <stage no="1">
+	   <openbox x="183960" y="-88964" z="-7216" />
+	 </stage>
+	 <stage no="2">
+           <spawn npcid="18150" x="183989" y="-88975" z="-7218" heading="833"/>                              
+           <spawn npcid="18166" x="183464" y="-89418" z="-7219" heading="0"/>                                
+           <spawn npcid="18166" x="183604" y="-89420" z="-7219" heading="7038"/>                             
+           <spawn npcid="18166" x="183703" y="-89422" z="-7219" heading="64871"/>                            
+           <spawn npcid="18166" x="183822" y="-89421" z="-7219" heading="32334"/>                            
+           <spawn npcid="18166" x="183959" y="-89421" z="-7219" heading="12416"/>                            
+           <spawn npcid="18166" x="184107" y="-89418" z="-7219" heading="18107"/>                            
+           <spawn npcid="18166" x="184279" y="-89418" z="-7219" heading="0"/>                                
+           <spawn npcid="18166" x="184487" y="-89421" z="-7219" heading="62180"/>                            
+           <spawn npcid="18166" x="183461" y="-89268" z="-7219" heading="28800"/>                            
+           <spawn npcid="18166" x="183631" y="-89275" z="-7219" heading="65106"/>                            
+           <spawn npcid="18166" x="183817" y="-89279" z="-7218" heading="772"/>                              
+           <spawn npcid="18166" x="183978" y="-89277" z="-7219" heading="130"/>                              
+           <spawn npcid="18166" x="184133" y="-89288" z="-7219" heading="46038"/>                            
+           <spawn npcid="18166" x="184304" y="-89299" z="-7219" heading="62633"/>                            
+           <spawn npcid="18166" x="184556" y="-89310" z="-7219" heading="2100"/>                             
+           <spawn npcid="18166" x="183463" y="-89118" z="-7218" heading="1184"/>                             
+           <spawn npcid="18166" x="183646" y="-89126" z="-7218" heading="31046"/>                            
+           <spawn npcid="18166" x="183923" y="-89134" z="-7218" heading="63871"/>                            
+           <spawn npcid="18166" x="184104" y="-89127" z="-7218" heading="3356"/>                             
+           <spawn npcid="18166" x="184280" y="-89129" z="-7218" heading="38901"/>                            
+           <spawn npcid="18166" x="184530" y="-89133" z="-7218" heading="65369"/>                            
+           <spawn npcid="18166" x="183444" y="-89008" z="-7218" heading="65287"/>                            
+           <spawn npcid="18166" x="183719" y="-89013" z="-7218" heading="282"/>                              
+           <spawn npcid="18166" x="183926" y="-89024" z="-7218" heading="36803"/>                            
+           <spawn npcid="18166" x="184095" y="-89040" z="-7218" heading="35670"/>                            
+           <spawn npcid="18166" x="184298" y="-89031" z="-7218" heading="23925"/>                            
+           <spawn npcid="18166" x="184521" y="-89029" z="-7218" heading="21593"/>                            
+           <spawn npcid="18166" x="183484" y="-88878" z="-7218" heading="62980"/>                            
+           <spawn npcid="18166" x="183697" y="-88873" z="-7218" heading="0"/>                                
+           <spawn npcid="18166" x="183963" y="-88877" z="-7218" heading="0"/>                                
+           <spawn npcid="18166" x="184200" y="-88881" z="-7218" heading="65359"/>                            
+           <spawn npcid="18166" x="184411" y="-88878" z="-7218" heading="886"/>                              
+           <spawn npcid="18166" x="184550" y="-88865" z="-7218" heading="23422"/>                            
+           <spawn npcid="18166" x="183479" y="-88693" z="-7219" heading="64692"/>                            
+           <spawn npcid="18166" x="183712" y="-88684" z="-7218" heading="403"/>                              
+           <spawn npcid="18166" x="183990" y="-88674" z="-7219" heading="376"/>                              
+           <spawn npcid="18166" x="184188" y="-88677" z="-7219" heading="31582"/>                            
+           <spawn npcid="18166" x="184471" y="-88690" z="-7219" heading="65057"/>                            
+           <spawn npcid="18166" x="183484" y="-88493" z="-7219" heading="64759"/>                            
+           <spawn npcid="18166" x="183668" y="-88508" z="-7219" heading="61258"/>                            
+           <spawn npcid="18166" x="183854" y="-88518" z="-7219" heading="64975"/>                            
+           <spawn npcid="18166" x="184071" y="-88505" z="-7219" heading="63615"/>                            
+           <spawn npcid="18166" x="184308" y="-88505" z="-7219" heading="61427"/>                            
+           <spawn npcid="18166" x="184496" y="-88526" z="-7219" heading="53988"/>                            
+           <spawn npcid="18170" x="183726" y="-89189" z="-7217" heading="20459"/>                            
+           <spawn npcid="18170" x="184083" y="-89194" z="-7217" heading="64864"/>                            
+           <spawn npcid="18170" x="184382" y="-89166" z="-7217" heading="998"/>                              
+           <spawn npcid="18170" x="184396" y="-88774" z="-7217" heading="32595"/>                            
+           <spawn npcid="18170" x="184091" y="-88766" z="-7217" heading="40404"/>                            
+           <spawn npcid="18170" x="183636" y="-88768" z="-7217" heading="1781"/>                             
+           <spawn npcid="18170" x="183657" y="-88969" z="-7218" heading="5415"/>                             
+           <spawn npcid="18170" x="184357" y="-88971" z="-7218" heading="64644"/>                            
+	   <alive npcid="18150" />
+	 </stage>
+	 <stage no="3">
+	   <spawn npcid="18158" x="184089" y="-89075" z="-7218" heading="833"/>
+	   <boss  npcid="18158"/>
+	 </stage>
+	 <stage no="4">
+           <keybox/>
+	 </stage>
+	</room>
+	<room no="4">
+	 <door id="25150004"/>
+	 <gatekeeper id="31932" />
+	 <stage no="1">
+	   <openbox x="185792" y="-88966" z="-7216" />
+	 </stage>
+	 <stage no="2">
+          <spawn npcid="18183" x="186235" y="-88972" z="-7218" heading="32661"/>                            
+          <spawn npcid="18196" x="186405" y="-89503" z="-7219" heading="18750"/>                            
+          <spawn npcid="18197" x="186409" y="-88432" z="-7219" heading="44702"/>                            
+          <spawn npcid="18198" x="185195" y="-88416" z="-7218" heading="53988"/>                            
+          <spawn npcid="18199" x="185197" y="-89511" z="-7218" heading="10002"/>                            
+          <spawn npcid="18185" x="185622" y="-89252" z="-7219" heading="1481"/>                             
+          <spawn npcid="18185" x="185948" y="-89248" z="-7219" heading="31823"/>                            
+          <spawn npcid="18185" x="185987" y="-88720" z="-7219" heading="46408"/>                            
+          <spawn npcid="18185" x="185649" y="-88734" z="-7219" heading="56700"/>                            
+          <spawn npcid="18185" x="185459" y="-88637" z="-7219" heading="59842"/>                            
+          <spawn npcid="18185" x="185361" y="-89249" z="-7219" heading="7624"/>                             
+          <spawn npcid="18187" x="185322" y="-89065" z="-7218" heading="12816"/>                            
+          <spawn npcid="18187" x="185340" y="-88784" z="-7217" heading="55468"/>                            
+          <spawn npcid="18187" x="186229" y="-88741" z="-7219" heading="27658"/>                            
+          <spawn npcid="18187" x="186232" y="-89110" z="-7218" heading="25303"/>                            
+          <spawn npcid="18191" x="186297" y="-89388" z="-7219" heading="20999"/>                            
+          <spawn npcid="18191" x="186308" y="-89193" z="-7217" heading="62495"/>                            
+          <spawn npcid="18191" x="186120" y="-89362" z="-7219" heading="40389"/>                            
+          <spawn npcid="18191" x="185263" y="-89422" z="-7219" heading="6470"/>                             
+          <spawn npcid="18191" x="185273" y="-89260" z="-7219" heading="15690"/>                            
+          <spawn npcid="18191" x="185436" y="-89428" z="-7219" heading="57186"/>                            
+          <spawn npcid="18191" x="185725" y="-89194" z="-7217" heading="14326"/>                            
+          <spawn npcid="18191" x="185741" y="-88793" z="-7217" heading="21674"/>                            
+          <spawn npcid="18191" x="186285" y="-88534" z="-7218" heading="37101"/>                            
+          <spawn npcid="18191" x="186301" y="-88716" z="-7215" heading="48989"/>                            
+          <spawn npcid="18191" x="186094" y="-88537" z="-7219" heading="14850"/>                            
+          <spawn npcid="18191" x="185245" y="-88481" z="-7219" heading="0"/>                                
+          <spawn npcid="18191" x="185235" y="-88639" z="-7219" heading="46111"/>                            
+          <spawn npcid="18191" x="185404" y="-88520" z="-7219" heading="7861"/>                             
+          <spawn npcid="18195" x="185605" y="-88675" z="-7219" heading="8276"/>                             
+          <spawn npcid="18195" x="186063" y="-88676" z="-7219" heading="65488"/>                            
+          <spawn npcid="18195" x="186085" y="-89204" z="-7217" heading="47340"/>                            
+          <spawn npcid="18195" x="185463" y="-89201" z="-7217" heading="37459"/>                            
+          <spawn npcid="18195" x="185761" y="-89059" z="-7218" heading="62563"/>                            
+          <spawn npcid="18195" x="185786" y="-88861" z="-7218" heading="18606"/>                            	
+	  <boss npcid="18183"/>
+	</stage>
+	<stage no="3">
+	  <keybox/>
+        </stage>
+      </room>
+      <room no="5">
+	 <door id="25150005"/>
+	 <gatekeeper id="31933" />
+	 <stage no="1">
+	   <openbox x="187625" y="-88953" z="-7216" />
+	 </stage>
+	 <stage no="2">
+           <spawn npcid="18220" x="188081" y="-88794" z="-7217" heading="36123"/>                            
+           <spawn npcid="18220" x="187790" y="-88793" z="-7217" heading="33600"/>                            
+           <spawn npcid="18220" x="187404" y="-88775" z="-7217" heading="32282"/>                            
+           <spawn npcid="18220" x="187365" y="-89155" z="-7218" heading="46975"/>                            
+           <spawn npcid="18220" x="187637" y="-89162" z="-7217" heading="65293"/>                            
+           <spawn npcid="18220" x="187968" y="-89171" z="-7217" heading="255"/>                              
+           <spawn npcid="18230" x="188054" y="-89348" z="-7219" heading="62980"/>                            
+           <spawn npcid="18230" x="187782" y="-89343" z="-7218" heading="32437"/>                            
+           <spawn npcid="18230" x="187482" y="-89341" z="-7219" heading="32699"/>                            
+           <spawn npcid="18230" x="187193" y="-89334" z="-7219" heading="32516"/>                            
+           <spawn npcid="18230" x="187124" y="-88580" z="-7219" heading="16497"/>                            
+           <spawn npcid="18230" x="187342" y="-88591" z="-7219" heading="65010"/>                            
+           <spawn npcid="18230" x="187618" y="-88591" z="-7219" heading="0"/>                                
+           <spawn npcid="18230" x="187970" y="-88591" z="-7219" heading="0"/>                                
+           <spawn npcid="18222" x="188086" y="-88519" z="-7219" heading="34065"/>                            
+           <spawn npcid="18222" x="187909" y="-88516" z="-7219" heading="34401"/>                            
+           <spawn npcid="18222" x="187723" y="-88516" z="-7219" heading="32768"/>                            
+           <spawn npcid="18226" x="187538" y="-88512" z="-7219" heading="32543"/>                            
+           <spawn npcid="18222" x="187217" y="-88509" z="-7219" heading="32671"/>                            
+           <spawn npcid="18222" x="187977" y="-88706" z="-7219" heading="18107"/>                            
+           <spawn npcid="18222" x="187737" y="-88686" z="-7219" heading="31901"/>                            
+           <spawn npcid="18226" x="187563" y="-88676" z="-7219" heading="32170"/>                            
+           <spawn npcid="18222" x="187305" y="-88654" z="-7219" heading="62633"/>                            
+           <spawn npcid="18222" x="188101" y="-88879" z="-7218" heading="1797"/>                             
+           <spawn npcid="18222" x="187908" y="-88859" z="-7218" heading="31691"/>                            
+           <spawn npcid="18226" x="187662" y="-88850" z="-7218" heading="32387"/>                            
+           <spawn npcid="18222" x="187406" y="-88839" z="-7218" heading="32321"/>                            
+           <spawn npcid="18222" x="187106" y="-88817" z="-7218" heading="32005"/>                            
+           <spawn npcid="18222" x="188131" y="-89098" z="-7218" heading="27932"/>                            
+           <spawn npcid="18226" x="187829" y="-89104" z="-7218" heading="32975"/>                            
+           <spawn npcid="18222" x="187630" y="-89127" z="-7217" heading="27932"/>                            
+           <spawn npcid="18222" x="187349" y="-89113" z="-7217" heading="32249"/>                            
+           <spawn npcid="18222" x="188056" y="-89313" z="-7219" heading="28545"/>                            
+           <spawn npcid="18226" x="187750" y="-89311" z="-7217" heading="31386"/>                            
+           <spawn npcid="18222" x="187449" y="-89306" z="-7219" heading="25522"/>                            
+           <spawn npcid="18222" x="187163" y="-89297" z="-7219" heading="30050"/>                            
+           <spawn npcid="18222" x="188069" y="-89446" z="-7219" heading="28800"/>                            
+           <spawn npcid="18226" x="187842" y="-89448" z="-7218" heading="32859"/>                            
+           <spawn npcid="18222" x="187562" y="-89435" z="-7219" heading="32285"/>                            
+           <spawn npcid="18222" x="187251" y="-89428" z="-7219" heading="1423"/>                             
+           <spawn npcid="18222" x="187943" y="-88962" z="-7218" heading="32768"/>                            
+           <spawn npcid="18226" x="187848" y="-88955" z="-7218" heading="31758"/>                            
+           <spawn npcid="18222" x="187324" y="-88963" z="-7218" heading="56927"/>                            
+           <spawn npcid="18222" x="187050" y="-88964" z="-7218" heading="35165"/>                               
+	</stage>
+	<stage no="3">
+	   <skill id="4616,1" />
+           <spawn npcid="18231" x="188227" y="-88461" z="-7219" heading="32970"/>                            
+           <spawn npcid="18232" x="188223" y="-88581" z="-7219" heading="32970"/>                            
+           <spawn npcid="18233" x="188213" y="-88710" z="-7219" heading="32970"/>                            
+           <spawn npcid="18234" x="188217" y="-88651" z="-7219" heading="32970"/>                            
+           <spawn npcid="18235" x="188217" y="-88520" z="-7219" heading="32970"/>                            
+           <spawn npcid="18236" x="188248" y="-89481" z="-7219" heading="32970"/>                            
+           <spawn npcid="18237" x="188248" y="-89404" z="-7219" heading="32970"/>                            
+           <spawn npcid="18238" x="188244" y="-89318" z="-7219" heading="32970"/>                            
+           <spawn npcid="18239" x="188239" y="-89240" z="-7219" heading="32970"/>                            
+           <spawn npcid="18240" x="188250" y="-89159" z="-7217" heading="32970"/>                            
+	</stage>
+	<stage no="4">
+           <spawn npcid="18220" x="188081" y="-88794" z="-7217" heading="36123"/>                            
+           <spawn npcid="18220" x="187790" y="-88793" z="-7217" heading="33600"/>                            
+           <spawn npcid="18220" x="187404" y="-88775" z="-7217" heading="32282"/>                            
+           <spawn npcid="18220" x="187365" y="-89155" z="-7218" heading="46975"/>                            
+           <spawn npcid="18220" x="187637" y="-89162" z="-7217" heading="65293"/>                            
+           <spawn npcid="18220" x="187968" y="-89171" z="-7217" heading="255"/>                              
+           <spawn npcid="18230" x="188054" y="-89348" z="-7219" heading="62980"/>                            
+           <spawn npcid="18230" x="187782" y="-89343" z="-7218" heading="32437"/>                            
+           <spawn npcid="18230" x="187482" y="-89341" z="-7219" heading="32699"/>                            
+           <spawn npcid="18230" x="187193" y="-89334" z="-7219" heading="32516"/>                            
+           <spawn npcid="18230" x="187124" y="-88580" z="-7219" heading="16497"/>                            
+           <spawn npcid="18230" x="187342" y="-88591" z="-7219" heading="65010"/>                            
+           <spawn npcid="18230" x="187618" y="-88591" z="-7219" heading="0"/>                                
+           <spawn npcid="18230" x="187970" y="-88591" z="-7219" heading="0"/>                                
+           <spawn npcid="18222" x="188086" y="-88519" z="-7219" heading="34065"/>                            
+           <spawn npcid="18222" x="187909" y="-88516" z="-7219" heading="34401"/>                            
+           <spawn npcid="18222" x="187723" y="-88516" z="-7219" heading="32768"/>                            
+           <spawn npcid="18226" x="187538" y="-88512" z="-7219" heading="32543"/>                            
+           <spawn npcid="18222" x="187217" y="-88509" z="-7219" heading="32671"/>                            
+           <spawn npcid="18222" x="187977" y="-88706" z="-7219" heading="18107"/>                            
+           <spawn npcid="18222" x="187737" y="-88686" z="-7219" heading="31901"/>                            
+           <spawn npcid="18226" x="187563" y="-88676" z="-7219" heading="32170"/>                            
+           <spawn npcid="18222" x="187305" y="-88654" z="-7219" heading="62633"/>                            
+           <spawn npcid="18222" x="188101" y="-88879" z="-7218" heading="1797"/>                             
+           <spawn npcid="18222" x="187908" y="-88859" z="-7218" heading="31691"/>                            
+           <spawn npcid="18226" x="187662" y="-88850" z="-7218" heading="32387"/>                            
+           <spawn npcid="18222" x="187406" y="-88839" z="-7218" heading="32321"/>                            
+           <spawn npcid="18222" x="187106" y="-88817" z="-7218" heading="32005"/>                            
+           <spawn npcid="18222" x="188131" y="-89098" z="-7218" heading="27932"/>                            
+           <spawn npcid="18226" x="187829" y="-89104" z="-7218" heading="32975"/>                            
+           <spawn npcid="18222" x="187630" y="-89127" z="-7217" heading="27932"/>                            
+           <spawn npcid="18222" x="187349" y="-89113" z="-7217" heading="32249"/>                            
+           <spawn npcid="18222" x="188056" y="-89313" z="-7219" heading="28545"/>                            
+           <spawn npcid="18226" x="187750" y="-89311" z="-7217" heading="31386"/>                            
+           <spawn npcid="18222" x="187449" y="-89306" z="-7219" heading="25522"/>                            
+           <spawn npcid="18222" x="187163" y="-89297" z="-7219" heading="30050"/>                            
+           <spawn npcid="18222" x="188069" y="-89446" z="-7219" heading="28800"/>                            
+           <spawn npcid="18226" x="187842" y="-89448" z="-7218" heading="32859"/>                            
+           <spawn npcid="18222" x="187562" y="-89435" z="-7219" heading="32285"/>                            
+           <spawn npcid="18222" x="187251" y="-89428" z="-7219" heading="1423"/>                             
+           <spawn npcid="18222" x="187943" y="-88962" z="-7218" heading="32768"/>                            
+           <spawn npcid="18226" x="187848" y="-88955" z="-7218" heading="31758"/>                            
+           <spawn npcid="18222" x="187324" y="-88963" z="-7218" heading="56927"/>                            
+           <spawn npcid="18222" x="187050" y="-88964" z="-7218" heading="35165"/>                               
+	   <spawn npcid="18212" x="187679" y="-88957" z="-7218" heading="160"/>
+           <boss npcid="18212"/>
+	</stage>
+	<stage no="5">
+	  <keybox/>
+	</stage>
+      </room>	
+      <room no="6">
+	 <door id="25150006"/>
+	 <gatekeeper id="31934"/>
+	 <stage no="1">
+	   <spawn npcid="25349" x="189543" y="-88969" z="-7216" heading="32768" />
+	   <boss npcid="25349"/>
+         </stage>
+	 <stage no="2">
+           <spawn npcid="31452" x="189543" y="-88969" z="-7216" heading="32768"/>                            
+           <spawn npcid="18256" x="189013" y="-89325" z="-7219" heading="45796"/>                            
+           <spawn npcid="18256" x="189131" y="-89194" z="-7219" heading="4312"/>                             
+           <spawn npcid="18256" x="189433" y="-89376" z="-7216" heading="56820"/>                            
+           <spawn npcid="18256" x="189563" y="-89365" z="-7215" heading="8726"/>                             
+           <spawn npcid="18256" x="189668" y="-89100" z="-7216" heading="15402"/>                            
+           <spawn npcid="18256" x="189632" y="-88883" z="-7216" heading="24431"/>                            
+           <spawn npcid="18256" x="189660" y="-88694" z="-7216" heading="3893"/>                             
+           <spawn npcid="18256" x="189977" y="-88570" z="-7219" heading="3893"/>                             
+           <spawn npcid="18256" x="190046" y="-88835" z="-7219" heading="51290"/>                            
+           <spawn npcid="18256" x="189351" y="-88733" z="-7216" heading="31049"/>                            
+           <spawn npcid="18256" x="189110" y="-88470" z="-7219" heading="23924"/>                            
+           <spawn npcid="18256" x="189065" y="-88707" z="-7246" heading="47194"/>                            
+           <spawn npcid="18256" x="189284" y="-88944" z="-7216" heading="56839"/>                            
+           <spawn npcid="18256" x="189788" y="-89107" z="-7243" heading="8389"/>                             
+           <spawn npcid="18256" x="190014" y="-89343" z="-7219" heading="57817"/>                            
+           <spawn npcid="18256" x="190106" y="-89261" z="-7219" heading="13121"/>                            
+         </stage>
+	</room>
+  </mausoleum>
+</foursepulchers>

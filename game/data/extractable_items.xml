@@ -1,0 +1,5338 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<list>
+	<item id="7629">
+		<product skillId="2217" skillLevel="1" chance="9" >
+		 <item id="6688" count="1"/>
+		</product>
+		<product skillId="2217" skillLevel="1" chance="9" >
+		 <item id="6689" count="1"/>
+		</product>
+		<product skillId="2217" skillLevel="1" chance="9" >
+		 <item id="6690" count="1"/>
+		</product>
+		<product skillId="2217" skillLevel="1" chance="9" >
+		 <item id="6691" count="1"/>
+		</product>
+		<product skillId="2217" skillLevel="1" chance="9" >
+		 <item id="6693" count="1"/>
+		</product>
+		<product skillId="2217" skillLevel="1" chance="9" >
+		 <item id="6694" count="1"/>
+		</product>
+		<product skillId="2217" skillLevel="1" chance="9" >
+		 <item id="6695" count="1"/>
+		</product>
+		<product skillId="2217" skillLevel="1" chance="9" >
+		 <item id="6696" count="1"/>
+		</product>
+		<product skillId="2217" skillLevel="1" chance="9" >
+		 <item id="6697" count="1"/>
+		</product>
+		<product skillId="2217" skillLevel="1" chance="9" >
+		 <item id="7579" count="1"/>
+		</product>
+		<product skillId="2217" skillLevel="1" chance="10" >
+		 <item id="57" count="330000"/>
+		</product>
+	</item> <!-- 7629 -->
+	<item id="7630">
+		<product skillId="2217" skillLevel="2" chance="8" >
+		 <item id="6703" count="1"/>
+		</product>
+		<product skillId="2217" skillLevel="2" chance="8" >
+		 <item id="6704" count="1"/>
+		</product>
+		<product skillId="2217" skillLevel="2" chance="8" >
+		 <item id="6705" count="1"/>
+		</product>
+		<product skillId="2217" skillLevel="2" chance="8" >
+		 <item id="6706" count="1"/>
+		</product>
+		<product skillId="2217" skillLevel="2" chance="8" >
+		 <item id="6708" count="1"/>
+		</product>
+		<product skillId="2217" skillLevel="2" chance="8" >
+		 <item id="6709" count="1"/>
+		</product>
+		<product skillId="2217" skillLevel="2" chance="8" >
+		 <item id="6710" count="1"/>
+		</product>
+		<product skillId="2217" skillLevel="2" chance="8" >
+		 <item id="6712" count="1"/>
+		</product>
+		<product skillId="2217" skillLevel="2" chance="8" >
+		 <item id="6713" count="1"/>
+		</product>
+		<product skillId="2217" skillLevel="2" chance="8" >
+		 <item id="6714" count="1"/>
+		</product>
+		<product skillId="2217" skillLevel="2" chance="20" >
+		 <item id="57" count="292000"/>
+		</product>
+	</item> <!-- 7630 -->
+	<item id="7631">
+		<product skillId="2217" skillLevel="3" chance="20" >
+		 <item id="6701" count="1"/>
+		</product>
+		<product skillId="2217" skillLevel="3" chance="20" >
+		 <item id="6702" count="1"/>
+		</product>
+		<product skillId="2217" skillLevel="3" chance="20" >
+		 <item id="6707" count="1"/>
+		</product>
+		<product skillId="2217" skillLevel="3" chance="20" >
+		 <item id="6711" count="1"/>
+		</product>
+		<product skillId="2217" skillLevel="3" chance="20" >
+		 <item id="57" count="930000"/>
+		</product>
+	</item> <!-- 7631 -->
+	<item id="7632">
+		<product skillId="2217" skillLevel="4" chance="8" >
+		 <item id="6857" count="1"/>
+		</product>
+		<product skillId="2217" skillLevel="4" chance="8" >
+		 <item id="6859" count="1"/>
+		</product>
+		<product skillId="2217" skillLevel="4" chance="8" >
+		 <item id="6861" count="1"/>
+		</product>
+		<product skillId="2217" skillLevel="4" chance="8" >
+		 <item id="6863" count="1"/>
+		</product>
+		<product skillId="2217" skillLevel="4" chance="8" >
+		 <item id="6867" count="1"/>
+		</product>
+		<product skillId="2217" skillLevel="4" chance="8" >
+		 <item id="6869" count="1"/>
+		</product>
+		<product skillId="2217" skillLevel="4" chance="8" >
+		 <item id="6871" count="1"/>
+		</product>
+		<product skillId="2217" skillLevel="4" chance="8" >
+		 <item id="6875" count="1"/>
+		</product>
+		<product skillId="2217" skillLevel="4" chance="8" >
+		 <item id="6877" count="1"/>
+		</product>
+		<product skillId="2217" skillLevel="4" chance="8" >
+		 <item id="6879" count="1"/>
+		</product>
+		<product skillId="2217" skillLevel="4" chance="20" >
+		 <item id="57" count="340000"/>
+		</product>
+	</item> <!-- 7632 -->
+	<item id="7633">
+		<product skillId="2217" skillLevel="5" chance="20" >
+		 <item id="6853" count="1"/>
+		</product>
+		<product skillId="2217" skillLevel="5" chance="20" >
+		 <item id="6855" count="1"/>
+		</product>
+		<product skillId="2217" skillLevel="5" chance="20" >
+		 <item id="6865" count="1"/>
+		</product>
+		<product skillId="2217" skillLevel="5" chance="20" >
+		 <item id="6873" count="1"/>
+		</product>
+		<product skillId="2217" skillLevel="5" chance="20" >
+		 <item id="57" count="850000"/>
+		</product>
+	</item> <!-- 7633 -->
+	<item id="7634">
+		<product skillId="2219" skillLevel="1" chance="10" >
+		 <item id="1874" count="20"/>
+		</product>
+		<product skillId="2219" skillLevel="1" chance="10" >
+		 <item id="1875" count="20"/>
+		</product>
+		<product skillId="2219" skillLevel="1" chance="16" >
+		 <item id="1876" count="20"/>
+		</product>
+		<product skillId="2219" skillLevel="1" chance="11" >
+		 <item id="1877" count="20"/>
+		</product>
+		<product skillId="2219" skillLevel="1" chance="10" >
+		 <item id="1879" count="20"/>
+		</product>
+		<product skillId="2219" skillLevel="1" chance="5" >
+		 <item id="1880" count="20"/>
+		</product>
+		<product skillId="2219" skillLevel="1" chance="10" >
+		 <item id="1881" count="20"/>
+		</product>
+		<product skillId="2219" skillLevel="1" chance="18" >
+		 <item id="1882" count="20"/>
+		</product>
+		<product skillId="2219" skillLevel="1" chance="10" >
+		 <item id="57" count="150000"/>
+		</product>
+	</item> <!-- 7634 -->
+	<item id="7635">
+		<product skillId="2219" skillLevel="2" chance="20" >
+		 <item id="4039" count="4"/>
+		</product>
+		<product skillId="2219" skillLevel="2" chance="10" >
+		 <item id="4040" count="4"/>
+		</product>
+		<product skillId="2219" skillLevel="2" chance="10" >
+		 <item id="4041" count="4"/>
+		</product>
+		<product skillId="2219" skillLevel="2" chance="10" >
+		 <item id="4042" count="4"/>
+		</product>
+		<product skillId="2219" skillLevel="2" chance="20" >
+		 <item id="4043" count="4"/>
+		</product>
+		<product skillId="2219" skillLevel="2" chance="20" >
+		 <item id="4044" count="4"/>
+		</product>
+		<product skillId="2219" skillLevel="2" chance="10" >
+		 <item id="57" count="160000"/>
+		</product>
+	</item> <!-- 7635 -->
+	<item id="7725">
+		<product skillId="2218" skillLevel="3" chance="7" >
+		 <item id="6035" count="1"/>
+		</product>
+		<product skillId="2218" skillLevel="3" chance="39" >
+		 <item id="1060" count="1"/>
+		</product>
+		<product skillId="2218" skillLevel="3" chance="7" >
+		 <item id="735" count="1"/>
+		</product>
+		<product skillId="2218" skillLevel="3" chance="3" >
+		 <item id="1540" count="1"/>
+		</product>
+		<product skillId="2218" skillLevel="3" chance="12" >
+		 <item id="1061" count="1"/>
+		</product>
+		<product skillId="2218" skillLevel="3" chance="32" >
+		 <item id="1539" count="1"/>
+		</product>
+	</item> <!-- 7725 -->
+	<item id="7637">
+		<product skillId="2218" skillLevel="2" chance="20" >
+		 <item id="4039" count="4"/>
+		</product>
+		<product skillId="2218" skillLevel="2" chance="10" >
+		 <item id="4041" count="1"/>
+		</product>
+		<product skillId="2218" skillLevel="2" chance="20" >
+		 <item id="4043" count="4"/>
+		</product>
+		<product skillId="2218" skillLevel="2" chance="20" >
+		 <item id="4044" count="4"/>
+		</product>
+		<product skillId="2218" skillLevel="2" chance="15" >
+		 <item id="4042" count="2"/>
+		</product>
+		<product skillId="2218" skillLevel="2" chance="15" >
+		 <item id="4040" count="2"/>
+		</product>
+	</item> <!-- 7637 -->
+	<item id="7636">
+		<product skillId="2218" skillLevel="1" chance="10" >
+		 <item id="1875" count="3"/>
+		</product>
+		<product skillId="2218" skillLevel="1" chance="20" >
+		 <item id="1882" count="3"/>
+		</product>
+		<product skillId="2218" skillLevel="1" chance="10" >
+		 <item id="1880" count="4"/>
+		</product>
+		<product skillId="2218" skillLevel="1" chance="10" >
+		 <item id="1874" count="1"/>
+		</product>
+		<product skillId="2218" skillLevel="1" chance="10" >
+		 <item id="1877" count="3"/>
+		</product>
+		<product skillId="2218" skillLevel="1" chance="12" >
+		 <item id="1881" count="1"/>
+		</product>
+		<product skillId="2218" skillLevel="1" chance="12" >
+		 <item id="1879" count="3"/>
+		</product>
+		<product skillId="2218" skillLevel="1" chance="16" >
+		 <item id="1876" count="6"/>
+		</product>
+	</item> <!-- 7636 -->
+	<item id="8534">
+		<product skillId="2270" skillLevel="1" chance="17" >
+		 <item id="853" count="1"/>
+		</product>
+		<product skillId="2270" skillLevel="1" chance="17" >
+		 <item id="916" count="1"/>
+		</product>
+		<product skillId="2270" skillLevel="1" chance="17" >
+		 <item id="884" count="1"/>
+		</product>
+		<product skillId="2270" skillLevel="1" chance="49" >
+		 <item id="-1" count="0"/>
+		</product>
+	</item> <!-- 8534 -->
+	<item id="8535">
+		<product skillId="2270" skillLevel="2" chance="17" >
+		 <item id="854" count="1"/>
+		</product>
+		<product skillId="2270" skillLevel="2" chance="17" >
+		 <item id="917" count="1"/>
+		</product>
+		<product skillId="2270" skillLevel="2" chance="17" >
+		 <item id="885" count="1"/>
+		</product>
+		<product skillId="2270" skillLevel="2" chance="49" >
+		 <item id="-1" count="0"/>
+		</product>
+	</item> <!-- 8535 -->
+	<item id="8536">
+		<product skillId="2270" skillLevel="3" chance="17" >
+		 <item id="855" count="1"/>
+		</product>
+		<product skillId="2270" skillLevel="3" chance="17" >
+		 <item id="119" count="1"/>
+		</product>
+		<product skillId="2270" skillLevel="3" chance="17" >
+		 <item id="886" count="1"/>
+		</product>
+		<product skillId="2270" skillLevel="3" chance="49" >
+		 <item id="-1" count="0"/>
+		</product>
+	</item> <!-- 8536 -->
+	<item id="8537">
+		<product skillId="2270" skillLevel="4" chance="17" >
+		 <item id="856" count="1"/>
+		</product>
+		<product skillId="2270" skillLevel="4" chance="17" >
+		 <item id="918" count="1"/>
+		</product>
+		<product skillId="2270" skillLevel="4" chance="17" >
+		 <item id="887" count="1"/>
+		</product>
+		<product skillId="2270" skillLevel="4" chance="49" >
+		 <item id="-1" count="0"/>
+		</product>
+	</item> <!-- 8537 -->
+	<item id="8538">
+		<product skillId="2270" skillLevel="5" chance="17" >
+		 <item id="864" count="1"/>
+		</product>
+		<product skillId="2270" skillLevel="5" chance="17" >
+		 <item id="926" count="1"/>
+		</product>
+		<product skillId="2270" skillLevel="5" chance="17" >
+		 <item id="895" count="1"/>
+		</product>
+		<product skillId="2270" skillLevel="5" chance="49" >
+		 <item id="-1" count="0"/>
+		</product>
+	</item> <!-- 8538 -->
+	<item id="8539">
+		<product skillId="2270" skillLevel="6" chance="10" >
+		 <item id="8179" count="1"/>
+		</product>
+		<product skillId="2270" skillLevel="6" chance="20" >
+		 <item id="8178" count="1"/>
+		</product>
+		<product skillId="2270" skillLevel="6" chance="30" >
+		 <item id="8177" count="1"/>
+		</product>
+		<product skillId="2270" skillLevel="6" chance="40" >
+		 <item id="-1" count="0"/>
+		</product>
+	</item> <!-- 8539 -->
+	<item id="8540">
+		<product skillId="2270" skillLevel="7" chance="33" >
+		 <item id="8175" count="1"/>
+		</product>
+		<product skillId="2270" skillLevel="7" chance="67" >
+		 <item id="-1" count="0"/>
+		</product>
+	</item> <!-- 8540 -->
+	<item id="5916">
+		<product skillId="2171" skillLevel="1" chance="10" >
+		 <item id="5917" count="1"/>
+		</product>
+		<product skillId="2171" skillLevel="1" chance="10" >
+		 <item id="5918" count="1"/>
+		</product>
+		<product skillId="2171" skillLevel="1" chance="10" >
+		 <item id="5919" count="1"/>
+		</product>
+		<product skillId="2171" skillLevel="1" chance="10" >
+		 <item id="5920" count="1"/>
+		</product>
+		<product skillId="2171" skillLevel="1" chance="60" >
+		 <item id="736" count="1"/>
+		</product>
+	</item> <!-- 5916 -->
+	<item id="5944">
+		<product skillId="2172" skillLevel="1" chance="3" >
+		 <item id="5922" count="1"/>
+		</product>
+		<product skillId="2172" skillLevel="1" chance="3" >
+		 <item id="5923" count="1"/>
+		</product>
+		<product skillId="2172" skillLevel="1" chance="3" >
+		 <item id="5924" count="1"/>
+		</product>
+		<product skillId="2172" skillLevel="1" chance="3" >
+		 <item id="5925" count="1"/>
+		</product>
+		<product skillId="2172" skillLevel="1" chance="3" >
+		 <item id="5926" count="1"/>
+		</product>
+		<product skillId="2172" skillLevel="1" chance="3" >
+		 <item id="5927" count="1"/>
+		</product>
+		<product skillId="2172" skillLevel="1" chance="3" >
+		 <item id="5928" count="1"/>
+		</product>
+		<product skillId="2172" skillLevel="1" chance="3" >
+		 <item id="5929" count="1"/>
+		</product>
+		<product skillId="2172" skillLevel="1" chance="3" >
+		 <item id="5930" count="1"/>
+		</product>
+		<product skillId="2172" skillLevel="1" chance="3" >
+		 <item id="5931" count="1"/>
+		</product>
+		<product skillId="2172" skillLevel="1" chance="3" >
+		 <item id="5932" count="1"/>
+		</product>
+		<product skillId="2172" skillLevel="1" chance="3" >
+		 <item id="5933" count="1"/>
+		</product>
+		<product skillId="2172" skillLevel="1" chance="3" >
+		 <item id="5934" count="1"/>
+		</product>
+		<product skillId="2172" skillLevel="1" chance="3" >
+		 <item id="5935" count="1"/>
+		</product>
+		<product skillId="2172" skillLevel="1" chance="3" >
+		 <item id="5936" count="1"/>
+		</product>
+		<product skillId="2172" skillLevel="1" chance="3" >
+		 <item id="5937" count="1"/>
+		</product>
+		<product skillId="2172" skillLevel="1" chance="3" >
+		 <item id="5938" count="1"/>
+		</product>
+		<product skillId="2172" skillLevel="1" chance="3" >
+		 <item id="5939" count="1"/>
+		</product>
+		<product skillId="2172" skillLevel="1" chance="3" >
+		 <item id="5940" count="1"/>
+		</product>
+		<product skillId="2172" skillLevel="1" chance="3" >
+		 <item id="5941" count="1"/>
+		</product>
+		<product skillId="2172" skillLevel="1" chance="20" >
+		 <item id="5942" count="1"/>
+		</product>
+		<product skillId="2172" skillLevel="1" chance="20" >
+		 <item id="5943" count="1"/>
+		</product>
+	</item> <!-- 5944 -->
+	<item id="5955">
+		<product skillId="2173" skillLevel="1" chance="25" >
+		 <item id="5942" count="1"/>
+		</product>
+		<product skillId="2173" skillLevel="1" chance="25" >
+		 <item id="5943" count="1"/>
+		</product>
+		<product skillId="2173" skillLevel="1" chance="5" >
+		 <item id="5945" count="1"/>
+		</product>
+		<product skillId="2173" skillLevel="1" chance="5" >
+		 <item id="5946" count="1"/>
+		</product>
+		<product skillId="2173" skillLevel="1" chance="5" >
+		 <item id="5947" count="1"/>
+		</product>
+		<product skillId="2173" skillLevel="1" chance="5" >
+		 <item id="5948" count="1"/>
+		</product>
+		<product skillId="2173" skillLevel="1" chance="5" >
+		 <item id="5949" count="1"/>
+		</product>
+		<product skillId="2173" skillLevel="1" chance="5" >
+		 <item id="5950" count="1"/>
+		</product>
+		<product skillId="2173" skillLevel="1" chance="5" >
+		 <item id="5951" count="1"/>
+		</product>
+		<product skillId="2173" skillLevel="1" chance="5" >
+		 <item id="5952" count="1"/>
+		</product>
+		<product skillId="2173" skillLevel="1" chance="5" >
+		 <item id="5953" count="1"/>
+		</product>
+		<product skillId="2173" skillLevel="1" chance="5" >
+		 <item id="5954" count="1"/>
+		</product>
+	</item> <!-- 5955 -->
+	<item id="5134">
+		<product skillId="2078" skillLevel="1" chance="100" >
+		 <item id="1835" count="300"/>
+		</product>
+	</item> <!-- 5134 -->
+	<item id="5135">
+		<product skillId="2079" skillLevel="1" chance="100" >
+		 <item id="1463" count="300"/>
+		</product>
+	</item> <!-- 5135 -->
+	<item id="5136">
+		<product skillId="2080" skillLevel="1" chance="100" >
+		 <item id="1464" count="300"/>
+		</product>
+	</item> <!-- 5136 -->
+	<item id="5137">
+		<product skillId="2081" skillLevel="1" chance="100" >
+		 <item id="1465" count="300"/>
+		</product>
+	</item> <!-- 5137 -->
+	<item id="5138">
+		<product skillId="2082" skillLevel="1" chance="100" >
+		 <item id="1466" count="300"/>
+		</product>
+	</item> <!-- 5138 -->
+	<item id="5139">
+		<product skillId="2083" skillLevel="1" chance="100" >
+		 <item id="1467" count="300"/>
+		</product>
+	</item> <!-- 5139 -->
+	<item id="5140">
+		<product skillId="2084" skillLevel="1" chance="100" >
+		 <item id="2509" count="300"/>
+		</product>
+	</item> <!-- 5140 -->
+	<item id="5141">
+		<product skillId="2085" skillLevel="1" chance="100" >
+		 <item id="2510" count="300"/>
+		</product>
+	</item> <!-- 5141 -->
+	<item id="5142">
+		<product skillId="2086" skillLevel="1" chance="100" >
+		 <item id="2511" count="300"/>
+		</product>
+	</item> <!-- 5142 -->
+	<item id="5143">
+		<product skillId="2087" skillLevel="1" chance="100" >
+		 <item id="2512" count="300"/>
+		</product>
+	</item> <!-- 5143 -->
+	<item id="5144">
+		<product skillId="2088" skillLevel="1" chance="100" >
+		 <item id="2513" count="300"/>
+		</product>
+	</item> <!-- 5144 -->
+	<item id="5145">
+		<product skillId="2089" skillLevel="1" chance="100" >
+		 <item id="2514" count="300"/>
+		</product>
+	</item> <!-- 5145 -->
+	<item id="5146">
+		<product skillId="2090" skillLevel="1" chance="100" >
+		 <item id="3947" count="300"/>
+		</product>
+	</item> <!-- 5146 -->
+	<item id="5147">
+		<product skillId="2091" skillLevel="1" chance="100" >
+		 <item id="3948" count="300"/>
+		</product>
+	</item> <!-- 5147 -->
+	<item id="5148">
+		<product skillId="2092" skillLevel="1" chance="100" >
+		 <item id="3949" count="300"/>
+		</product>
+	</item> <!-- 5148 -->
+	<item id="5149">
+		<product skillId="2093" skillLevel="1" chance="100" >
+		 <item id="3950" count="300"/>
+		</product>
+	</item> <!-- 5149 -->
+	<item id="5150">
+		<product skillId="2094" skillLevel="1" chance="100" >
+		 <item id="3951" count="300"/>
+		</product>
+	</item> <!-- 5150 -->
+	<item id="5151">
+		<product skillId="2095" skillLevel="1" chance="100" >
+		 <item id="3952" count="300"/>
+		</product>
+	</item> <!-- 5151 -->
+	<item id="5250">
+		<product skillId="2104" skillLevel="1" chance="100" >
+		 <item id="1835" count="1000"/>
+		</product>
+	</item> <!-- 5250 -->
+	<item id="5251">
+		<product skillId="2105" skillLevel="1" chance="100" >
+		 <item id="1463" count="1000"/>
+		</product>
+	</item> <!-- 5251 -->
+	<item id="5252">
+		<product skillId="2106" skillLevel="1" chance="100" >
+		 <item id="1464" count="1000"/>
+		</product>
+	</item> <!-- 5252 -->
+	<item id="5253">
+		<product skillId="2107" skillLevel="1" chance="100" >
+		 <item id="1465" count="1000"/>
+		</product>
+	</item> <!-- 5253 -->
+	<item id="5254">
+		<product skillId="2108" skillLevel="1" chance="100" >
+		 <item id="1466" count="1000"/>
+		</product>
+	</item> <!-- 5254 -->
+	<item id="5255">
+		<product skillId="2109" skillLevel="1" chance="100" >
+		 <item id="1467" count="1000"/>
+		</product>
+	</item> <!-- 5255 -->
+	<item id="5256">
+		<product skillId="2110" skillLevel="1" chance="100" >
+		 <item id="2509" count="1000"/>
+		</product>
+	</item> <!-- 5256 -->
+	<item id="5257">
+		<product skillId="2111" skillLevel="1" chance="100" >
+		 <item id="2510" count="1000"/>
+		</product>
+	</item> <!-- 5257 -->
+	<item id="5258">
+		<product skillId="2112" skillLevel="1" chance="100" >
+		 <item id="2511" count="1000"/>
+		</product>
+	</item> <!-- 5258 -->
+	<item id="5259">
+		<product skillId="2113" skillLevel="1" chance="100" >
+		 <item id="2512" count="1000"/>
+		</product>
+	</item> <!-- 5259 -->
+	<item id="5260">
+		<product skillId="2114" skillLevel="1" chance="100" >
+		 <item id="2513" count="1000"/>
+		</product>
+	</item> <!-- 5260 -->
+	<item id="5261">
+		<product skillId="2115" skillLevel="1" chance="100" >
+		 <item id="2514" count="1000"/>
+		</product>
+	</item> <!-- 5261 -->
+	<item id="5262">
+		<product skillId="2116" skillLevel="1" chance="100" >
+		 <item id="3947" count="1000"/>
+		</product>
+	</item> <!-- 5262 -->
+	<item id="5263">
+		<product skillId="2117" skillLevel="1" chance="100" >
+		 <item id="3948" count="1000"/>
+		</product>
+	</item> <!-- 5263 -->
+	<item id="5264">
+		<product skillId="2118" skillLevel="1" chance="100" >
+		 <item id="3949" count="1000"/>
+		</product>
+	</item> <!-- 5264 -->
+	<item id="5265">
+		<product skillId="2119" skillLevel="1" chance="100" >
+		 <item id="3950" count="1000"/>
+		</product>
+	</item> <!-- 5265 -->
+	<item id="5266">
+		<product skillId="2120" skillLevel="1" chance="100" >
+		 <item id="3951" count="1000"/>
+		</product>
+	</item> <!-- 5266 -->
+	<item id="5267">
+		<product skillId="2121" skillLevel="1" chance="100" >
+		 <item id="3952" count="1000"/>
+		</product>
+	</item> <!-- 5267 -->
+	<item id="10515">
+		<product skillId="2500" skillLevel="1" chance="100" >
+		 <item id="6645" count="500"/>
+		</product>
+	</item> <!-- 10515 -->
+	<item id="10516">
+		<product skillId="2501" skillLevel="1" chance="100" >
+		 <item id="6646" count="500"/>
+		</product>
+	</item> <!-- 10516 -->
+	<item id="10517">
+		<product skillId="2502" skillLevel="1" chance="100" >
+		 <item id="6647" count="500"/>
+		</product>
+	</item> <!-- 10517 -->
+	<item id="6007">
+		<product skillId="2174" skillLevel="1" chance="30" >
+		 <item id="6019" count="2"/>
+		</product>
+		<product skillId="2174" skillLevel="1" chance="30" >
+		 <item id="6013" count="2"/>
+		</product>
+		<product skillId="2174" skillLevel="1" chance="20" >
+		 <item id="6014" count="1"/>
+		</product>
+		<product skillId="2174" skillLevel="1" chance="20" >
+		 <item id="6016" count="1"/>
+		</product>
+	</item> <!-- 6007 -->
+	<item id="6008">
+		<product skillId="2174" skillLevel="2" chance="10" >
+		 <item id="6017" count="2"/>
+		</product>
+		<product skillId="2174" skillLevel="2" chance="20" >
+		 <item id="6020" count="2"/>
+		</product>
+		<product skillId="2174" skillLevel="2" chance="35" >
+		 <item id="6014" count="1"/>
+		</product>
+		<product skillId="2174" skillLevel="2" chance="35" >
+		 <item id="6016" count="1"/>
+		</product>
+	</item> <!-- 6008 -->
+	<item id="6009">
+		<product skillId="2174" skillLevel="3" chance="20" >
+		 <item id="6012" count="1"/>
+		</product>
+		<product skillId="2174" skillLevel="3" chance="20" >
+		 <item id="6018" count="2"/>
+		</product>
+		<product skillId="2174" skillLevel="3" chance="20" >
+		 <item id="6019" count="2"/>
+		</product>
+		<product skillId="2174" skillLevel="3" chance="40" >
+		 <item id="6013" count="1"/>
+		</product>
+	</item> <!-- 6009 -->
+	<item id="6010">
+		<product skillId="2175" skillLevel="1" chance="20" >
+		 <item id="6017" count="2"/>
+		</product>
+		<product skillId="2175" skillLevel="1" chance="20" >
+		 <item id="6020" count="2"/>
+		</product>
+		<product skillId="2175" skillLevel="1" chance="35" >
+		 <item id="6016" count="1"/>
+		</product>
+		<product skillId="2175" skillLevel="1" chance="25" >
+		 <item id="6015" count="2"/>
+		</product>
+	</item> <!-- 6010 -->
+	<item id="5966">
+		<product skillId="2176" skillLevel="1" chance="2" >
+		 <item id="5978" count="1"/>
+		</product>
+		<product skillId="2176" skillLevel="1" chance="2" >
+		 <item id="5983" count="1"/>
+		</product>
+		<product skillId="2176" skillLevel="1" chance="2" >
+		 <item id="5988" count="1"/>
+		</product>
+		<product skillId="2176" skillLevel="1" chance="2" >
+		 <item id="5994" count="1"/>
+		</product>
+		<product skillId="2176" skillLevel="1" chance="2" >
+		 <item id="5995" count="1"/>
+		</product>
+		<product skillId="2176" skillLevel="1" chance="8" >
+		 <item id="5975" count="1"/>
+		</product>
+		<product skillId="2176" skillLevel="1" chance="8" >
+		 <item id="5976" count="1"/>
+		</product>
+		<product skillId="2176" skillLevel="1" chance="8" >
+		 <item id="5977" count="1"/>
+		</product>
+		<product skillId="2176" skillLevel="1" chance="8" >
+		 <item id="5981" count="1"/>
+		</product>
+		<product skillId="2176" skillLevel="1" chance="8" >
+		 <item id="5982" count="1"/>
+		</product>
+		<product skillId="2176" skillLevel="1" chance="11" >
+		 <item id="5973" count="1"/>
+		</product>
+		<product skillId="2176" skillLevel="1" chance="11" >
+		 <item id="5974" count="1"/>
+		</product>
+		<product skillId="2176" skillLevel="1" chance="11" >
+		 <item id="5980" count="1"/>
+		</product>
+		<product skillId="2176" skillLevel="1" chance="11" >
+		 <item id="5985" count="1"/>
+		</product>
+		<product skillId="2176" skillLevel="1" chance="2" >
+		 <item id="5972" count="1"/>
+		</product>
+		<product skillId="2176" skillLevel="1" chance="2" >
+		 <item id="5979" count="1"/>
+		</product>
+		<product skillId="2176" skillLevel="1" chance="2" >
+		 <item id="5984" count="1"/>
+		</product>
+	</item> <!-- 5966 -->
+	<item id="5967">
+		<product skillId="2176" skillLevel="2" chance="4" >
+		 <item id="5978" count="1"/>
+		</product>
+		<product skillId="2176" skillLevel="2" chance="4" >
+		 <item id="5983" count="1"/>
+		</product>
+		<product skillId="2176" skillLevel="2" chance="4" >
+		 <item id="5988" count="1"/>
+		</product>
+		<product skillId="2176" skillLevel="2" chance="4" >
+		 <item id="5994" count="1"/>
+		</product>
+		<product skillId="2176" skillLevel="2" chance="4" >
+		 <item id="5995" count="1"/>
+		</product>
+		<product skillId="2176" skillLevel="2" chance="4" >
+		 <item id="5975" count="1"/>
+		</product>
+		<product skillId="2176" skillLevel="2" chance="4" >
+		 <item id="5976" count="1"/>
+		</product>
+		<product skillId="2176" skillLevel="2" chance="4" >
+		 <item id="5977" count="1"/>
+		</product>
+		<product skillId="2176" skillLevel="2" chance="4" >
+		 <item id="5981" count="1"/>
+		</product>
+		<product skillId="2176" skillLevel="2" chance="4" >
+		 <item id="5982" count="1"/>
+		</product>
+		<product skillId="2176" skillLevel="2" chance="10" >
+		 <item id="5973" count="1"/>
+		</product>
+		<product skillId="2176" skillLevel="2" chance="10" >
+		 <item id="5974" count="1"/>
+		</product>
+		<product skillId="2176" skillLevel="2" chance="10" >
+		 <item id="5980" count="1"/>
+		</product>
+		<product skillId="2176" skillLevel="2" chance="10" >
+		 <item id="5985" count="1"/>
+		</product>
+		<product skillId="2176" skillLevel="2" chance="7" >
+		 <item id="5972" count="1"/>
+		</product>
+		<product skillId="2176" skillLevel="2" chance="7" >
+		 <item id="5979" count="1"/>
+		</product>
+		<product skillId="2176" skillLevel="2" chance="6" >
+		 <item id="5984" count="1"/>
+		</product>
+	</item> <!-- 5967 -->
+	<item id="5968">
+		<product skillId="2176" skillLevel="3" chance="2" >
+		 <item id="6001" count="1"/>
+		</product>
+		<product skillId="2176" skillLevel="3" chance="2" >
+		 <item id="5970" count="1"/>
+		</product>
+		<product skillId="2176" skillLevel="3" chance="2" >
+		 <item id="5971" count="1"/>
+		</product>
+		<product skillId="2176" skillLevel="3" chance="2" >
+		 <item id="4408" count="1"/>
+		</product>
+		<product skillId="2176" skillLevel="3" chance="2" >
+		 <item id="4409" count="1"/>
+		</product>
+		<product skillId="2176" skillLevel="3" chance="2" >
+		 <item id="5986" count="1"/>
+		</product>
+		<product skillId="2176" skillLevel="3" chance="2" >
+		 <item id="5987" count="1"/>
+		</product>
+		<product skillId="2176" skillLevel="3" chance="2" >
+		 <item id="5993" count="1"/>
+		</product>
+		<product skillId="2176" skillLevel="3" chance="2" >
+		 <item id="5999" count="1"/>
+		</product>
+		<product skillId="2176" skillLevel="3" chance="2" >
+		 <item id="6000" count="1"/>
+		</product>
+		<product skillId="2176" skillLevel="3" chance="10" >
+		 <item id="5991" count="1"/>
+		</product>
+		<product skillId="2176" skillLevel="3" chance="10" >
+		 <item id="5992" count="1"/>
+		</product>
+		<product skillId="2176" skillLevel="3" chance="10" >
+		 <item id="5997" count="1"/>
+		</product>
+		<product skillId="2176" skillLevel="3" chance="10" >
+		 <item id="5998" count="1"/>
+		</product>
+		<product skillId="2176" skillLevel="3" chance="14" >
+		 <item id="5989" count="1"/>
+		</product>
+		<product skillId="2176" skillLevel="3" chance="13" >
+		 <item id="5990" count="1"/>
+		</product>
+		<product skillId="2176" skillLevel="3" chance="13" >
+		 <item id="5996" count="1"/>
+		</product>
+	</item> <!-- 5968 -->
+	<item id="5969">
+		<product skillId="2176" skillLevel="4" chance="3" >
+		 <item id="6001" count="1"/>
+		</product>
+		<product skillId="2176" skillLevel="4" chance="3" >
+		 <item id="5970" count="1"/>
+		</product>
+		<product skillId="2176" skillLevel="4" chance="3" >
+		 <item id="5971" count="1"/>
+		</product>
+		<product skillId="2176" skillLevel="4" chance="3" >
+		 <item id="4408" count="1"/>
+		</product>
+		<product skillId="2176" skillLevel="4" chance="3" >
+		 <item id="4409" count="1"/>
+		</product>
+		<product skillId="2176" skillLevel="4" chance="2" >
+		 <item id="5986" count="1"/>
+		</product>
+		<product skillId="2176" skillLevel="4" chance="2" >
+		 <item id="5987" count="1"/>
+		</product>
+		<product skillId="2176" skillLevel="4" chance="2" >
+		 <item id="5993" count="1"/>
+		</product>
+		<product skillId="2176" skillLevel="4" chance="2" >
+		 <item id="5999" count="1"/>
+		</product>
+		<product skillId="2176" skillLevel="4" chance="2" >
+		 <item id="6000" count="1"/>
+		</product>
+		<product skillId="2176" skillLevel="4" chance="3" >
+		 <item id="5991" count="1"/>
+		</product>
+		<product skillId="2176" skillLevel="4" chance="3" >
+		 <item id="5992" count="1"/>
+		</product>
+		<product skillId="2176" skillLevel="4" chance="3" >
+		 <item id="5997" count="1"/>
+		</product>
+		<product skillId="2176" skillLevel="4" chance="3" >
+		 <item id="5998" count="1"/>
+		</product>
+		<product skillId="2176" skillLevel="4" chance="21" >
+		 <item id="5989" count="1"/>
+		</product>
+		<product skillId="2176" skillLevel="4" chance="21" >
+		 <item id="5990" count="1"/>
+		</product>
+		<product skillId="2176" skillLevel="4" chance="21" >
+		 <item id="5996" count="1"/>
+		</product>
+	</item> <!-- 5969 -->
+	<item id="6411">
+		<product skillId="2190" skillLevel="1" chance="31" >
+		 <item id="6908" count="6"/>
+		</product>
+		<product skillId="2190" skillLevel="1" chance="18" >
+		 <item id="6913" count="1"/>
+		</product>
+		<product skillId="2190" skillLevel="1" chance="51" >
+		 <item id="-1" count="0"/>
+		</product>
+	</item> <!-- 6411 -->
+	<item id="6412">
+		<product skillId="2190" skillLevel="2" chance="29" >
+		 <item id="6908" count="6"/>
+		</product>
+		<product skillId="2190" skillLevel="2" chance="22" >
+		 <item id="6911" count="2"/>
+		</product>
+		<product skillId="2190" skillLevel="2" chance="49" >
+		 <item id="-1" count="0"/>
+		</product>
+	</item> <!-- 6412 -->
+	<item id="6413">
+		<product skillId="2190" skillLevel="3" chance="35" >
+		 <item id="6908" count="6"/>
+		</product>
+		<product skillId="2190" skillLevel="3" chance="33" >
+		 <item id="6915" count="1"/>
+		</product>
+		<product skillId="2190" skillLevel="3" chance="32" >
+		 <item id="-1" count="0"/>
+		</product>
+	</item> <!-- 6413 -->
+	<item id="6414">
+		<product skillId="2190" skillLevel="4" chance="33" >
+		 <item id="6908" count="6"/>
+		</product>
+		<product skillId="2190" skillLevel="4" chance="23" >
+		 <item id="6913" count="1"/>
+		</product>
+		<product skillId="2190" skillLevel="4" chance="44" >
+		 <item id="-1" count="0"/>
+		</product>
+	</item> <!-- 6414 -->
+	<item id="6415">
+		<product skillId="2190" skillLevel="5" chance="31" >
+		 <item id="6908" count="8"/>
+		</product>
+		<product skillId="2190" skillLevel="5" chance="31" >
+		 <item id="6911" count="2"/>
+		</product>
+		<product skillId="2190" skillLevel="5" chance="38" >
+		 <item id="-1" count="0"/>
+		</product>
+	</item> <!-- 6415 -->
+	<item id="6416">
+		<product skillId="2190" skillLevel="6" chance="45" >
+		 <item id="6908" count="6"/>
+		</product>
+		<product skillId="2190" skillLevel="6" chance="32" >
+		 <item id="6915" count="1"/>
+		</product>
+		<product skillId="2190" skillLevel="6" chance="23" >
+		 <item id="-1" count="0"/>
+		</product>
+	</item> <!-- 6416 -->
+	<item id="6417">
+		<product skillId="2190" skillLevel="7" chance="16" >
+		 <item id="6908" count="12"/>
+		</product>
+		<product skillId="2190" skillLevel="7" chance="18" >
+		 <item id="6913" count="1"/>
+		</product>
+		<product skillId="2190" skillLevel="7" chance="26" >
+		 <item id="6920" count="8"/>
+		</product>
+		<product skillId="2190" skillLevel="7" chance="40" >
+		 <item id="-1" count="0"/>
+		</product>
+	</item> <!-- 6417 -->
+	<item id="6418">
+		<product skillId="2190" skillLevel="8" chance="42" >
+		 <item id="6908" count="8"/>
+		</product>
+		<product skillId="2190" skillLevel="8" chance="38" >
+		 <item id="6911" count="2"/>
+		</product>
+		<product skillId="2190" skillLevel="8" chance="20" >
+		 <item id="-1" count="0"/>
+		</product>
+	</item> <!-- 6418 -->
+	<item id="6419">
+		<product skillId="2190" skillLevel="9" chance="27" >
+		 <item id="6908" count="12"/>
+		</product>
+		<product skillId="2190" skillLevel="9" chance="45" >
+		 <item id="6915" count="1"/>
+		</product>
+		<product skillId="2190" skillLevel="9" chance="28" >
+		 <item id="-1" count="0"/>
+		</product>
+	</item> <!-- 6419 -->
+	<item id="6420">
+		<product skillId="2191" skillLevel="1" chance="21" >
+		 <item id="6908" count="12"/>
+		</product>
+		<product skillId="2191" skillLevel="1" chance="25" >
+		 <item id="6913" count="1"/>
+		</product>
+		<product skillId="2191" skillLevel="1" chance="35" >
+		 <item id="6920" count="8"/>
+		</product>
+		<product skillId="2191" skillLevel="1" chance="19" >
+		 <item id="-1" count="0"/>
+		</product>
+	</item> <!-- 6420 -->
+	<item id="6421">
+		<product skillId="2191" skillLevel="2" chance="47" >
+		 <item id="6908" count="8"/>
+		</product>
+		<product skillId="2191" skillLevel="2" chance="47" >
+		 <item id="6911" count="2"/>
+		</product>
+		<product skillId="2191" skillLevel="2" chance="6" >
+		 <item id="-1" count="0"/>
+		</product>
+	</item> <!-- 6421 -->
+	<item id="6422">
+		<product skillId="2191" skillLevel="3" chance="33" >
+		 <item id="6908" count="12"/>
+		</product>
+		<product skillId="2191" skillLevel="3" chance="55" >
+		 <item id="6915" count="1"/>
+		</product>
+		<product skillId="2191" skillLevel="3" chance="12" >
+		 <item id="-1" count="0"/>
+		</product>
+	</item> <!-- 6422 -->
+	<item id="6423">
+		<product skillId="2191" skillLevel="4" chance="28" >
+		 <item id="6908" count="12"/>
+		</product>
+		<product skillId="2191" skillLevel="4" chance="33" >
+		 <item id="6913" count="1"/>
+		</product>
+		<product skillId="2191" skillLevel="4" chance="23" >
+		 <item id="6920" count="16"/>
+		</product>
+		<product skillId="2191" skillLevel="4" chance="16" >
+		 <item id="-1" count="0"/>
+		</product>
+	</item> <!-- 6423 -->
+	<item id="6424">
+		<product skillId="2191" skillLevel="5" chance="38" >
+		 <item id="6908" count="16"/>
+		</product>
+		<product skillId="2191" skillLevel="5" chance="36" >
+		 <item id="6911" count="4"/>
+		</product>
+		<product skillId="2191" skillLevel="5" chance="26" >
+		 <item id="-1" count="0"/>
+		</product>
+	</item> <!-- 6424 -->
+	<item id="6425">
+		<product skillId="2191" skillLevel="6" chance="46" >
+		 <item id="6908" count="12"/>
+		</product>
+		<product skillId="2191" skillLevel="6" chance="35" >
+		 <item id="6915" count="2"/>
+		</product>
+		<product skillId="2191" skillLevel="6" chance="19" >
+		 <item id="-1" count="0"/>
+		</product>
+	</item> <!-- 6425 -->
+	<item id="6426">
+		<product skillId="2191" skillLevel="7" chance="33" >
+		 <item id="6908" count="12"/>
+		</product>
+		<product skillId="2191" skillLevel="7" chance="22" >
+		 <item id="6913" count="2"/>
+		</product>
+		<product skillId="2191" skillLevel="7" chance="26" >
+		 <item id="6920" count="16"/>
+		</product>
+		<product skillId="2191" skillLevel="7" chance="19" >
+		 <item id="-1" count="0"/>
+		</product>
+	</item> <!-- 6426 -->
+	<item id="6427">
+		<product skillId="2191" skillLevel="8" chance="41" >
+		 <item id="6908" count="16"/>
+		</product>
+		<product skillId="2191" skillLevel="8" chance="38" >
+		 <item id="6911" count="4"/>
+		</product>
+		<product skillId="2191" skillLevel="8" chance="21" >
+		 <item id="-1" count="0"/>
+		</product>
+	</item> <!-- 6427 -->
+	<item id="6428">
+		<product skillId="2191" skillLevel="9" chance="47" >
+		 <item id="6908" count="12"/>
+		</product>
+		<product skillId="2191" skillLevel="9" chance="38" >
+		 <item id="6915" count="2"/>
+		</product>
+		<product skillId="2191" skillLevel="9" chance="15" >
+		 <item id="-1" count="0"/>
+		</product>
+	</item> <!-- 6428 -->
+	<item id="6429">
+		<product skillId="2192" skillLevel="1" chance="33" >
+		 <item id="6908" count="12"/>
+		</product>
+		<product skillId="2192" skillLevel="1" chance="23" >
+		 <item id="6913" count="2"/>
+		</product>
+		<product skillId="2192" skillLevel="1" chance="27" >
+		 <item id="6920" count="16"/>
+		</product>
+		<product skillId="2192" skillLevel="1" chance="17" >
+		 <item id="-1" count="0"/>
+		</product>
+	</item> <!-- 6429 -->
+	<item id="6430">
+		<product skillId="2192" skillLevel="2" chance="41" >
+		 <item id="6908" count="16"/>
+		</product>
+		<product skillId="2192" skillLevel="2" chance="38" >
+		 <item id="6911" count="4"/>
+		</product>
+		<product skillId="2192" skillLevel="2" chance="21" >
+		 <item id="-1" count="0"/>
+		</product>
+	</item> <!-- 6430 -->
+	<item id="6431">
+		<product skillId="2192" skillLevel="3" chance="48" >
+		 <item id="6908" count="12"/>
+		</product>
+		<product skillId="2192" skillLevel="3" chance="39" >
+		 <item id="6915" count="2"/>
+		</product>
+		<product skillId="2192" skillLevel="3" chance="13" >
+		 <item id="-1" count="0"/>
+		</product>
+	</item> <!-- 6431 -->
+	<item id="6432">
+		<product skillId="2192" skillLevel="4" chance="2" >
+		 <item id="6904" count="1"/>
+		</product>
+		<product skillId="2192" skillLevel="4" chance="19" >
+		 <item id="6908" count="14"/>
+		</product>
+		<product skillId="2192" skillLevel="4" chance="17" >
+		 <item id="6909" count="4"/>
+		</product>
+		<product skillId="2192" skillLevel="4" chance="26" >
+		 <item id="6913" count="1"/>
+		</product>
+		<product skillId="2192" skillLevel="4" chance="18" >
+		 <item id="6920" count="16"/>
+		</product>
+		<product skillId="2192" skillLevel="4" chance="18" >
+		 <item id="-1" count="0"/>
+		</product>
+	</item> <!-- 6432 -->
+	<item id="6433">
+		<product skillId="2192" skillLevel="5" chance="2" >
+		 <item id="6904" count="1"/>
+		</product>
+		<product skillId="2192" skillLevel="5" chance="25" >
+		 <item id="6908" count="10"/>
+		</product>
+		<product skillId="2192" skillLevel="5" chance="21" >
+		 <item id="6909" count="2"/>
+		</product>
+		<product skillId="2192" skillLevel="5" chance="17" >
+		 <item id="6911" count="4"/>
+		</product>
+		<product skillId="2192" skillLevel="5" chance="17" >
+		 <item id="6921" count="4"/>
+		</product>
+		<product skillId="2192" skillLevel="5" chance="18" >
+		 <item id="-1" count="0"/>
+		</product>
+	</item> <!-- 6433 -->
+	<item id="6434">
+		<product skillId="2192" skillLevel="6" chance="4" >
+		 <item id="6904" count="1"/>
+		</product>
+		<product skillId="2192" skillLevel="6" chance="26" >
+		 <item id="6908" count="16"/>
+		</product>
+		<product skillId="2192" skillLevel="6" chance="19" >
+		 <item id="6909" count="4"/>
+		</product>
+		<product skillId="2192" skillLevel="6" chance="21" >
+		 <item id="6915" count="4"/>
+		</product>
+		<product skillId="2192" skillLevel="6" chance="30" >
+		 <item id="-1" count="0"/>
+		</product>
+	</item> <!-- 6434 -->
+	<item id="6435">
+		<product skillId="2192" skillLevel="7" chance="2" >
+		 <item id="6904" count="1"/>
+		</product>
+		<product skillId="2192" skillLevel="7" chance="21" >
+		 <item id="6908" count="14"/>
+		</product>
+		<product skillId="2192" skillLevel="7" chance="18" >
+		 <item id="6909" count="4"/>
+		</product>
+		<product skillId="2192" skillLevel="7" chance="14" >
+		 <item id="6913" count="2"/>
+		</product>
+		<product skillId="2192" skillLevel="7" chance="20" >
+		 <item id="6920" count="16"/>
+		</product>
+		<product skillId="2192" skillLevel="7" chance="25" >
+		 <item id="-1" count="0"/>
+		</product>
+	</item> <!-- 6435 -->
+	<item id="6436">
+		<product skillId="2192" skillLevel="8" chance="2" >
+		 <item id="6904" count="1"/>
+		</product>
+		<product skillId="2192" skillLevel="8" chance="24" >
+		 <item id="6908" count="10"/>
+		</product>
+		<product skillId="2192" skillLevel="8" chance="22" >
+		 <item id="6909" count="2"/>
+		</product>
+		<product skillId="2192" skillLevel="8" chance="17" >
+		 <item id="6911" count="4"/>
+		</product>
+		<product skillId="2192" skillLevel="8" chance="17" >
+		 <item id="6921" count="4"/>
+		</product>
+		<product skillId="2192" skillLevel="8" chance="18" >
+		 <item id="-1" count="0"/>
+		</product>
+	</item> <!-- 6436 -->
+	<item id="6437">
+		<product skillId="2192" skillLevel="9" chance="3" >
+		 <item id="6904" count="1"/>
+		</product>
+		<product skillId="2192" skillLevel="9" chance="26" >
+		 <item id="6908" count="16"/>
+		</product>
+		<product skillId="2192" skillLevel="9" chance="20" >
+		 <item id="6909" count="4"/>
+		</product>
+		<product skillId="2192" skillLevel="9" chance="21" >
+		 <item id="6915" count="4"/>
+		</product>
+		<product skillId="2192" skillLevel="9" chance="30" >
+		 <item id="-1" count="0"/>
+		</product>
+	</item> <!-- 6437 -->
+	<item id="6438">
+		<product skillId="2193" skillLevel="1" chance="2" >
+		 <item id="6904" count="1"/>
+		</product>
+		<product skillId="2193" skillLevel="1" chance="19" >
+		 <item id="6908" count="14"/>
+		</product>
+		<product skillId="2193" skillLevel="1" chance="18" >
+		 <item id="6909" count="4"/>
+		</product>
+		<product skillId="2193" skillLevel="1" chance="12" >
+		 <item id="6913" count="2"/>
+		</product>
+		<product skillId="2193" skillLevel="1" chance="16" >
+		 <item id="6920" count="16"/>
+		</product>
+		<product skillId="2193" skillLevel="1" chance="33" >
+		 <item id="-1" count="0"/>
+		</product>
+	</item> <!-- 6438 -->
+	<item id="6439">
+		<product skillId="2193" skillLevel="2" chance="2" >
+		 <item id="6904" count="1"/>
+		</product>
+		<product skillId="2193" skillLevel="2" chance="12" >
+		 <item id="6908" count="20"/>
+		</product>
+		<product skillId="2193" skillLevel="2" chance="20" >
+		 <item id="6909" count="2"/>
+		</product>
+		<product skillId="2193" skillLevel="2" chance="16" >
+		 <item id="6911" count="4"/>
+		</product>
+		<product skillId="2193" skillLevel="2" chance="17" >
+		 <item id="6921" count="4"/>
+		</product>
+		<product skillId="2193" skillLevel="2" chance="33" >
+		 <item id="-1" count="0"/>
+		</product>
+	</item> <!-- 6439 -->
+	<item id="6440">
+		<product skillId="2193" skillLevel="3" chance="3" >
+		 <item id="6904" count="1"/>
+		</product>
+		<product skillId="2193" skillLevel="3" chance="25" >
+		 <item id="6908" count="16"/>
+		</product>
+		<product skillId="2193" skillLevel="3" chance="19" >
+		 <item id="6909" count="4"/>
+		</product>
+		<product skillId="2193" skillLevel="3" chance="20" >
+		 <item id="6915" count="4"/>
+		</product>
+		<product skillId="2193" skillLevel="3" chance="33" >
+		 <item id="-1" count="0"/>
+		</product>
+	</item> <!-- 6440 -->
+	<item id="6441">
+		<product skillId="2193" skillLevel="4" chance="2" >
+		 <item id="6904" count="1"/>
+		</product>
+		<product skillId="2193" skillLevel="4" chance="19" >
+		 <item id="6908" count="14"/>
+		</product>
+		<product skillId="2193" skillLevel="4" chance="18" >
+		 <item id="6909" count="4"/>
+		</product>
+		<product skillId="2193" skillLevel="4" chance="14" >
+		 <item id="6913" count="2"/>
+		</product>
+		<product skillId="2193" skillLevel="4" chance="18" >
+		 <item id="6920" count="16"/>
+		</product>
+		<product skillId="2193" skillLevel="4" chance="29" >
+		 <item id="-1" count="0"/>
+		</product>
+	</item> <!-- 6441 -->
+	<item id="6442">
+		<product skillId="2193" skillLevel="5" chance="3" >
+		 <item id="6904" count="1"/>
+		</product>
+		<product skillId="2193" skillLevel="5" chance="13" >
+		 <item id="6908" count="20"/>
+		</product>
+		<product skillId="2193" skillLevel="5" chance="12" >
+		 <item id="6909" count="4"/>
+		</product>
+		<product skillId="2193" skillLevel="5" chance="18" >
+		 <item id="6911" count="4"/>
+		</product>
+		<product skillId="2193" skillLevel="5" chance="19" >
+		 <item id="6921" count="4"/>
+		</product>
+		<product skillId="2193" skillLevel="5" chance="35" >
+		 <item id="-1" count="0"/>
+		</product>
+	</item> <!-- 6442 -->
+	<item id="6443">
+		<product skillId="2193" skillLevel="6" chance="3" >
+		 <item id="6904" count="1"/>
+		</product>
+		<product skillId="2193" skillLevel="6" chance="25" >
+		 <item id="6908" count="16"/>
+		</product>
+		<product skillId="2193" skillLevel="6" chance="19" >
+		 <item id="6909" count="4"/>
+		</product>
+		<product skillId="2193" skillLevel="6" chance="20" >
+		 <item id="6915" count="4"/>
+		</product>
+		<product skillId="2193" skillLevel="6" chance="33" >
+		 <item id="-1" count="0"/>
+		</product>
+	</item> <!-- 6443 -->
+	<item id="6444">
+		<product skillId="2193" skillLevel="7" chance="2" >
+		 <item id="6904" count="1"/>
+		</product>
+		<product skillId="2193" skillLevel="7" chance="21" >
+		 <item id="6908" count="14"/>
+		</product>
+		<product skillId="2193" skillLevel="7" chance="20" >
+		 <item id="6909" count="4"/>
+		</product>
+		<product skillId="2193" skillLevel="7" chance="14" >
+		 <item id="6913" count="2"/>
+		</product>
+		<product skillId="2193" skillLevel="7" chance="19" >
+		 <item id="6920" count="16"/>
+		</product>
+		<product skillId="2193" skillLevel="7" chance="24" >
+		 <item id="-1" count="0"/>
+		</product>
+	</item> <!-- 6444 -->
+	<item id="6445">
+		<product skillId="2193" skillLevel="8" chance="3" >
+		 <item id="6904" count="1"/>
+		</product>
+		<product skillId="2193" skillLevel="8" chance="14" >
+		 <item id="6908" count="20"/>
+		</product>
+		<product skillId="2193" skillLevel="8" chance="12" >
+		 <item id="6909" count="4"/>
+		</product>
+		<product skillId="2193" skillLevel="8" chance="19" >
+		 <item id="6911" count="4"/>
+		</product>
+		<product skillId="2193" skillLevel="8" chance="21" >
+		 <item id="6921" count="4"/>
+		</product>
+		<product skillId="2193" skillLevel="8" chance="31" >
+		 <item id="-1" count="0"/>
+		</product>
+	</item> <!-- 6445 -->
+	<item id="6446">
+		<product skillId="2193" skillLevel="9" chance="4" >
+		 <item id="6904" count="1"/>
+		</product>
+		<product skillId="2193" skillLevel="9" chance="26" >
+		 <item id="6908" count="16"/>
+		</product>
+		<product skillId="2193" skillLevel="9" chance="19" >
+		 <item id="6909" count="4"/>
+		</product>
+		<product skillId="2193" skillLevel="9" chance="21" >
+		 <item id="6915" count="4"/>
+		</product>
+		<product skillId="2193" skillLevel="9" chance="30" >
+		 <item id="-1" count="0"/>
+		</product>
+	</item> <!-- 6446 -->
+	<item id="6447">
+		<product skillId="2194" skillLevel="1" chance="3" >
+		 <item id="6904" count="1"/>
+		</product>
+		<product skillId="2194" skillLevel="1" chance="11" >
+		 <item id="6908" count="28"/>
+		</product>
+		<product skillId="2194" skillLevel="1" chance="20" >
+		 <item id="6909" count="4"/>
+		</product>
+		<product skillId="2194" skillLevel="1" chance="16" >
+		 <item id="6913" count="2"/>
+		</product>
+		<product skillId="2194" skillLevel="1" chance="20" >
+		 <item id="6920" count="16"/>
+		</product>
+		<product skillId="2194" skillLevel="1" chance="30" >
+		 <item id="-1" count="0"/>
+		</product>
+	</item> <!-- 6447 -->
+	<item id="6448">
+		<product skillId="2194" skillLevel="2" chance="3" >
+		 <item id="6904" count="1"/>
+		</product>
+		<product skillId="2194" skillLevel="2" chance="16" >
+		 <item id="6908" count="20"/>
+		</product>
+		<product skillId="2194" skillLevel="2" chance="13" >
+		 <item id="6909" count="4"/>
+		</product>
+		<product skillId="2194" skillLevel="2" chance="11" >
+		 <item id="6911" count="8"/>
+		</product>
+		<product skillId="2194" skillLevel="2" chance="11" >
+		 <item id="6921" count="8"/>
+		</product>
+		<product skillId="2194" skillLevel="2" chance="46" >
+		 <item id="-1" count="0"/>
+		</product>
+	</item> <!-- 6448 -->
+	<item id="6449">
+		<product skillId="2194" skillLevel="3" chance="4" >
+		 <item id="6904" count="1"/>
+		</product>
+		<product skillId="2194" skillLevel="3" chance="14" >
+		 <item id="6908" count="32"/>
+		</product>
+		<product skillId="2194" skillLevel="3" chance="20" >
+		 <item id="6909" count="4"/>
+		</product>
+		<product skillId="2194" skillLevel="3" chance="23" >
+		 <item id="6915" count="4"/>
+		</product>
+		<product skillId="2194" skillLevel="3" chance="39" >
+		 <item id="-1" count="0"/>
+		</product>
+	</item> <!-- 6449 -->
+	<item id="6450">
+		<product skillId="2194" skillLevel="4" chance="24" >
+		 <item id="6910" count="1"/>
+		</product>
+		<product skillId="2194" skillLevel="4" chance="14" >
+		 <item id="6914" count="2"/>
+		</product>
+		<product skillId="2194" skillLevel="4" chance="5" >
+		 <item id="7698" count="1"/>
+		</product>
+		<product skillId="2194" skillLevel="4" chance="57" >
+		 <item id="-1" count="0"/>
+		</product>
+	</item> <!-- 6450 -->
+	<item id="6451">
+		<product skillId="2194" skillLevel="5" chance="28" >
+		 <item id="6910" count="1"/>
+		</product>
+		<product skillId="2194" skillLevel="5" chance="18" >
+		 <item id="6912" count="8"/>
+		</product>
+		<product skillId="2194" skillLevel="5" chance="7" >
+		 <item id="7686" count="1"/>
+		</product>
+		<product skillId="2194" skillLevel="5" chance="47" >
+		 <item id="-1" count="0"/>
+		</product>
+	</item> <!-- 6451 -->
+	<item id="6452">
+		<product skillId="2194" skillLevel="6" chance="26" >
+		 <item id="6910" count="1"/>
+		</product>
+		<product skillId="2194" skillLevel="6" chance="25" >
+		 <item id="6916" count="4"/>
+		</product>
+		<product skillId="2194" skillLevel="6" chance="7" >
+		 <item id="7697" count="1"/>
+		</product>
+		<product skillId="2194" skillLevel="6" chance="42" >
+		 <item id="-1" count="0"/>
+		</product>
+	</item> <!-- 6452 -->
+	<item id="6453">
+		<product skillId="2194" skillLevel="7" chance="30" >
+		 <item id="6910" count="1"/>
+		</product>
+		<product skillId="2194" skillLevel="7" chance="17" >
+		 <item id="6912" count="2"/>
+		</product>
+		<product skillId="2194" skillLevel="7" chance="6" >
+		 <item id="7698" count="1"/>
+		</product>
+		<product skillId="2194" skillLevel="7" chance="47" >
+		 <item id="-1" count="0"/>
+		</product>
+	</item> <!-- 6453 -->
+	<item id="6454">
+		<product skillId="2194" skillLevel="8" chance="15" >
+		 <item id="6910" count="2"/>
+		</product>
+		<product skillId="2194" skillLevel="8" chance="21" >
+		 <item id="6912" count="8"/>
+		</product>
+		<product skillId="2194" skillLevel="8" chance="7" >
+		 <item id="7686" count="1"/>
+		</product>
+		<product skillId="2194" skillLevel="8" chance="57" >
+		 <item id="-1" count="0"/>
+		</product>
+	</item> <!-- 6454 -->
+	<item id="6455">
+		<product skillId="2194" skillLevel="9" chance="31" >
+		 <item id="6910" count="1"/>
+		</product>
+		<product skillId="2194" skillLevel="9" chance="26" >
+		 <item id="6916" count="4"/>
+		</product>
+		<product skillId="2194" skillLevel="9" chance="7" >
+		 <item id="7697" count="1"/>
+		</product>
+		<product skillId="2194" skillLevel="9" chance="36" >
+		 <item id="-1" count="0"/>
+		</product>
+	</item> <!-- 6455 -->
+	<item id="6456">
+		<product skillId="2195" skillLevel="1" chance="20" >
+		 <item id="6910" count="2"/>
+		</product>
+		<product skillId="2195" skillLevel="1" chance="18" >
+		 <item id="6914" count="2"/>
+		</product>
+		<product skillId="2195" skillLevel="1" chance="7" >
+		 <item id="7698" count="1"/>
+		</product>
+		<product skillId="2195" skillLevel="1" chance="55" >
+		 <item id="-1" count="0"/>
+		</product>
+	</item> <!-- 6456 -->
+	<item id="6457">
+		<product skillId="2195" skillLevel="2" chance="16" >
+		 <item id="6910" count="2"/>
+		</product>
+		<product skillId="2195" skillLevel="2" chance="22" >
+		 <item id="6912" count="8"/>
+		</product>
+		<product skillId="2195" skillLevel="2" chance="8" >
+		 <item id="7686" count="1"/>
+		</product>
+		<product skillId="2195" skillLevel="2" chance="54" >
+		 <item id="-1" count="0"/>
+		</product>
+	</item> <!-- 6457 -->
+	<item id="6458">
+		<product skillId="2195" skillLevel="3" chance="31" >
+		 <item id="6910" count="1"/>
+		</product>
+		<product skillId="2195" skillLevel="3" chance="28" >
+		 <item id="6916" count="4"/>
+		</product>
+		<product skillId="2195" skillLevel="3" chance="8" >
+		 <item id="7697" count="1"/>
+		</product>
+		<product skillId="2195" skillLevel="3" chance="33" >
+		 <item id="-1" count="0"/>
+		</product>
+	</item> <!-- 6458 -->
+	<item id="6459">
+		<product skillId="2195" skillLevel="4" chance="22" >
+		 <item id="6910" count="2"/>
+		</product>
+		<product skillId="2195" skillLevel="4" chance="22" >
+		 <item id="6914" count="2"/>
+		</product>
+		<product skillId="2195" skillLevel="4" chance="8" >
+		 <item id="7698" count="1"/>
+		</product>
+		<product skillId="2195" skillLevel="4" chance="48" >
+		 <item id="-1" count="0"/>
+		</product>
+	</item> <!-- 6459 -->
+	<item id="6460">
+		<product skillId="2195" skillLevel="5" chance="17" >
+		 <item id="6910" count="2"/>
+		</product>
+		<product skillId="2195" skillLevel="5" chance="26" >
+		 <item id="6912" count="8"/>
+		</product>
+		<product skillId="2195" skillLevel="5" chance="9" >
+		 <item id="7686" count="1"/>
+		</product>
+		<product skillId="2195" skillLevel="5" chance="48" >
+		 <item id="-1" count="0"/>
+		</product>
+	</item> <!-- 6460 -->
+	<item id="6461">
+		<product skillId="2195" skillLevel="6" chance="20" >
+		 <item id="6910" count="2"/>
+		</product>
+		<product skillId="2195" skillLevel="6" chance="37" >
+		 <item id="6916" count="4"/>
+		</product>
+		<product skillId="2195" skillLevel="6" chance="10" >
+		 <item id="7697" count="1"/>
+		</product>
+		<product skillId="2195" skillLevel="6" chance="33" >
+		 <item id="-1" count="0"/>
+		</product>
+	</item> <!-- 6461 -->
+	<item id="6462">
+		<product skillId="2195" skillLevel="7" chance="6" >
+		 <item id="6907" count="1"/>
+		</product>
+		<product skillId="2195" skillLevel="7" chance="19" >
+		 <item id="6910" count="2"/>
+		</product>
+		<product skillId="2195" skillLevel="7" chance="17" >
+		 <item id="6914" count="2"/>
+		</product>
+		<product skillId="2195" skillLevel="7" chance="6" >
+		 <item id="7685" count="1"/>
+		</product>
+		<product skillId="2195" skillLevel="7" chance="6" >
+		 <item id="7698" count="1"/>
+		</product>
+		<product skillId="2195" skillLevel="7" chance="46" >
+		 <item id="-1" count="0"/>
+		</product>
+	</item> <!-- 6462 -->
+	<item id="6463">
+		<product skillId="2195" skillLevel="8" chance="8" >
+		 <item id="6905" count="1"/>
+		</product>
+		<product skillId="2195" skillLevel="8" chance="16" >
+		 <item id="6910" count="2"/>
+		</product>
+		<product skillId="2195" skillLevel="8" chance="24" >
+		 <item id="6912" count="8"/>
+		</product>
+		<product skillId="2195" skillLevel="8" chance="8" >
+		 <item id="7686" count="1"/>
+		</product>
+		<product skillId="2195" skillLevel="8" chance="44" >
+		 <item id="-1" count="0"/>
+		</product>
+	</item> <!-- 6463 -->
+	<item id="6464">
+		<product skillId="2195" skillLevel="9" chance="8" >
+		 <item id="6906" count="1"/>
+		</product>
+		<product skillId="2195" skillLevel="9" chance="18" >
+		 <item id="6910" count="2"/>
+		</product>
+		<product skillId="2195" skillLevel="9" chance="16" >
+		 <item id="6916" count="8"/>
+		</product>
+		<product skillId="2195" skillLevel="9" chance="9" >
+		 <item id="7697" count="1"/>
+		</product>
+		<product skillId="2195" skillLevel="9" chance="49" >
+		 <item id="-1" count="0"/>
+		</product>
+	</item> <!-- 6464 -->
+	<item id="6465">
+		<product skillId="2196" skillLevel="1" chance="7" >
+		 <item id="6907" count="1"/>
+		</product>
+		<product skillId="2196" skillLevel="1" chance="20" >
+		 <item id="6910" count="2"/>
+		</product>
+		<product skillId="2196" skillLevel="1" chance="17" >
+		 <item id="6914" count="2"/>
+		</product>
+		<product skillId="2196" skillLevel="1" chance="7" >
+		 <item id="7685" count="1"/>
+		</product>
+		<product skillId="2196" skillLevel="1" chance="8" >
+		 <item id="7698" count="1"/>
+		</product>
+		<product skillId="2196" skillLevel="1" chance="41" >
+		 <item id="-1" count="0"/>
+		</product>
+	</item> <!-- 6465 -->
+	<item id="6466">
+		<product skillId="2196" skillLevel="2" chance="9" >
+		 <item id="6905" count="1"/>
+		</product>
+		<product skillId="2196" skillLevel="2" chance="18" >
+		 <item id="6910" count="2"/>
+		</product>
+		<product skillId="2196" skillLevel="2" chance="27" >
+		 <item id="6912" count="8"/>
+		</product>
+		<product skillId="2196" skillLevel="2" chance="7" >
+		 <item id="7686" count="1"/>
+		</product>
+		<product skillId="2196" skillLevel="2" chance="39" >
+		 <item id="-1" count="0"/>
+		</product>
+	</item> <!-- 6466 -->
+	<item id="6467">
+		<product skillId="2196" skillLevel="3" chance="10" >
+		 <item id="6906" count="1"/>
+		</product>
+		<product skillId="2196" skillLevel="3" chance="18" >
+		 <item id="6910" count="2"/>
+		</product>
+		<product skillId="2196" skillLevel="3" chance="18" >
+		 <item id="6916" count="8"/>
+		</product>
+		<product skillId="2196" skillLevel="3" chance="9" >
+		 <item id="7697" count="1"/>
+		</product>
+		<product skillId="2196" skillLevel="3" chance="45" >
+		 <item id="-1" count="0"/>
+		</product>
+	</item> <!-- 6467 -->
+	<item id="6468">
+		<product skillId="2196" skillLevel="4" chance="8" >
+		 <item id="6907" count="1"/>
+		</product>
+		<product skillId="2196" skillLevel="4" chance="18" >
+		 <item id="6910" count="2"/>
+		</product>
+		<product skillId="2196" skillLevel="4" chance="18" >
+		 <item id="6914" count="2"/>
+		</product>
+		<product skillId="2196" skillLevel="4" chance="6" >
+		 <item id="7685" count="1"/>
+		</product>
+		<product skillId="2196" skillLevel="4" chance="7" >
+		 <item id="7698" count="1"/>
+		</product>
+		<product skillId="2196" skillLevel="4" chance="43" >
+		 <item id="-1" count="0"/>
+		</product>
+	</item> <!-- 6468 -->
+	<item id="6469">
+		<product skillId="2196" skillLevel="5" chance="9" >
+		 <item id="6905" count="1"/>
+		</product>
+		<product skillId="2196" skillLevel="5" chance="17" >
+		 <item id="6910" count="2"/>
+		</product>
+		<product skillId="2196" skillLevel="5" chance="26" >
+		 <item id="6912" count="8"/>
+		</product>
+		<product skillId="2196" skillLevel="5" chance="8" >
+		 <item id="7686" count="1"/>
+		</product>
+		<product skillId="2196" skillLevel="5" chance="40" >
+		 <item id="-1" count="0"/>
+		</product>
+	</item> <!-- 6469 -->
+	<item id="6470">
+		<product skillId="2196" skillLevel="6" chance="10" >
+		 <item id="6906" count="1"/>
+		</product>
+		<product skillId="2196" skillLevel="6" chance="23" >
+		 <item id="6910" count="2"/>
+		</product>
+		<product skillId="2196" skillLevel="6" chance="19" >
+		 <item id="6916" count="8"/>
+		</product>
+		<product skillId="2196" skillLevel="6" chance="11" >
+		 <item id="7697" count="1"/>
+		</product>
+		<product skillId="2196" skillLevel="6" chance="37" >
+		 <item id="-1" count="0"/>
+		</product>
+	</item> <!-- 6470 -->
+	<item id="6471">
+		<product skillId="2196" skillLevel="7" chance="8" >
+		 <item id="6907" count="1"/>
+		</product>
+		<product skillId="2196" skillLevel="7" chance="10" >
+		 <item id="6910" count="4"/>
+		</product>
+		<product skillId="2196" skillLevel="7" chance="20" >
+		 <item id="6914" count="2"/>
+		</product>
+		<product skillId="2196" skillLevel="7" chance="8" >
+		 <item id="7685" count="1"/>
+		</product>
+		<product skillId="2196" skillLevel="7" chance="8" >
+		 <item id="7698" count="1"/>
+		</product>
+		<product skillId="2196" skillLevel="7" chance="46" >
+		 <item id="-1" count="0"/>
+		</product>
+	</item> <!-- 6471 -->
+	<item id="6472">
+		<product skillId="2196" skillLevel="8" chance="10" >
+		 <item id="6905" count="1"/>
+		</product>
+		<product skillId="2196" skillLevel="8" chance="21" >
+		 <item id="6910" count="2"/>
+		</product>
+		<product skillId="2196" skillLevel="8" chance="23" >
+		 <item id="6912" count="8"/>
+		</product>
+		<product skillId="2196" skillLevel="8" chance="10" >
+		 <item id="7686" count="1"/>
+		</product>
+		<product skillId="2196" skillLevel="8" chance="36" >
+		 <item id="-1" count="0"/>
+		</product>
+	</item> <!-- 6472 -->
+	<item id="6473">
+		<product skillId="2196" skillLevel="9" chance="10" >
+		 <item id="6906" count="1"/>
+		</product>
+		<product skillId="2196" skillLevel="9" chance="23" >
+		 <item id="6910" count="2"/>
+		</product>
+		<product skillId="2196" skillLevel="9" chance="19" >
+		 <item id="6916" count="8"/>
+		</product>
+		<product skillId="2196" skillLevel="9" chance="11" >
+		 <item id="7697" count="1"/>
+		</product>
+		<product skillId="2196" skillLevel="9" chance="37" >
+		 <item id="-1" count="0"/>
+		</product>
+	</item> <!-- 6473 -->
+	<item id="6474">
+		<product skillId="2197" skillLevel="1" chance="9" >
+		 <item id="6907" count="1"/>
+		</product>
+		<product skillId="2197" skillLevel="1" chance="13" >
+		 <item id="6910" count="4"/>
+		</product>
+		<product skillId="2197" skillLevel="1" chance="11" >
+		 <item id="6914" count="4"/>
+		</product>
+		<product skillId="2197" skillLevel="1" chance="9" >
+		 <item id="7685" count="1"/>
+		</product>
+		<product skillId="2197" skillLevel="1" chance="9" >
+		 <item id="7698" count="1"/>
+		</product>
+		<product skillId="2197" skillLevel="1" chance="49" >
+		 <item id="-1" count="0"/>
+		</product>
+	</item> <!-- 6474 -->
+	<item id="6475">
+		<product skillId="2197" skillLevel="2" chance="11" >
+		 <item id="6905" count="1"/>
+		</product>
+		<product skillId="2197" skillLevel="2" chance="23" >
+		 <item id="6910" count="2"/>
+		</product>
+		<product skillId="2197" skillLevel="2" chance="27" >
+		 <item id="6912" count="8"/>
+		</product>
+		<product skillId="2197" skillLevel="2" chance="11" >
+		 <item id="7686" count="1"/>
+		</product>
+		<product skillId="2197" skillLevel="2" chance="28" >
+		 <item id="-1" count="0"/>
+		</product>
+	</item> <!-- 6475 -->
+	<item id="6476">
+		<product skillId="2197" skillLevel="3" chance="12" >
+		 <item id="6906" count="1"/>
+		</product>
+		<product skillId="2197" skillLevel="3" chance="25" >
+		 <item id="6910" count="2"/>
+		</product>
+		<product skillId="2197" skillLevel="3" chance="16" >
+		 <item id="6916" count="8"/>
+		</product>
+		<product skillId="2197" skillLevel="3" chance="11" >
+		 <item id="7697" count="1"/>
+		</product>
+		<product skillId="2197" skillLevel="3" chance="36" >
+		 <item id="-1" count="0"/>
+		</product>
+	</item> <!-- 6476 -->
+	<item id="6477">
+		<product skillId="2197" skillLevel="4" chance="9" >
+		 <item id="6907" count="1"/>
+		</product>
+		<product skillId="2197" skillLevel="4" chance="13" >
+		 <item id="6910" count="4"/>
+		</product>
+		<product skillId="2197" skillLevel="4" chance="12" >
+		 <item id="6914" count="4"/>
+		</product>
+		<product skillId="2197" skillLevel="4" chance="8" >
+		 <item id="7685" count="1"/>
+		</product>
+		<product skillId="2197" skillLevel="4" chance="10" >
+		 <item id="7698" count="1"/>
+		</product>
+		<product skillId="2197" skillLevel="4" chance="48" >
+		 <item id="-1" count="0"/>
+		</product>
+	</item> <!-- 6477 -->
+	<item id="6478">
+		<product skillId="2197" skillLevel="5" chance="12" >
+		 <item id="6905" count="1"/>
+		</product>
+		<product skillId="2197" skillLevel="5" chance="24" >
+		 <item id="6910" count="2"/>
+		</product>
+		<product skillId="2197" skillLevel="5" chance="14" >
+		 <item id="6912" count="16"/>
+		</product>
+		<product skillId="2197" skillLevel="5" chance="12" >
+		 <item id="7686" count="1"/>
+		</product>
+		<product skillId="2197" skillLevel="5" chance="38" >
+		 <item id="-1" count="0"/>
+		</product>
+	</item> <!-- 6478 -->
+	<item id="6479">
+		<product skillId="2197" skillLevel="6" chance="11" >
+		 <item id="6906" count="1"/>
+		</product>
+		<product skillId="2197" skillLevel="6" chance="26" >
+		 <item id="6910" count="2"/>
+		</product>
+		<product skillId="2197" skillLevel="6" chance="20" >
+		 <item id="6916" count="8"/>
+		</product>
+		<product skillId="2197" skillLevel="6" chance="11" >
+		 <item id="7697" count="1"/>
+		</product>
+		<product skillId="2197" skillLevel="6" chance="32" >
+		 <item id="-1" count="0"/>
+		</product>
+	</item> <!-- 6479 -->
+	<item id="6480">
+		<product skillId="2197" skillLevel="7" chance="11" >
+		 <item id="6907" count="1"/>
+		</product>
+		<product skillId="2197" skillLevel="7" chance="13" >
+		 <item id="6910" count="4"/>
+		</product>
+		<product skillId="2197" skillLevel="7" chance="12" >
+		 <item id="6914" count="4"/>
+		</product>
+		<product skillId="2197" skillLevel="7" chance="12" >
+		 <item id="7685" count="1"/>
+		</product>
+		<product skillId="2197" skillLevel="7" chance="11" >
+		 <item id="7698" count="1"/>
+		</product>
+		<product skillId="2197" skillLevel="7" chance="41" >
+		 <item id="-1" count="0"/>
+		</product>
+	</item> <!-- 6480 -->
+	<item id="6481">
+		<product skillId="2197" skillLevel="8" chance="14" >
+		 <item id="6905" count="0"/>
+		</product>
+		<product skillId="2197" skillLevel="8" chance="26" >
+		 <item id="6910" count="2"/>
+		</product>
+		<product skillId="2197" skillLevel="8" chance="15" >
+		 <item id="6912" count="16"/>
+		</product>
+		<product skillId="2197" skillLevel="8" chance="15" >
+		 <item id="7686" count="1"/>
+		</product>
+		<product skillId="2197" skillLevel="8" chance="30" >
+		 <item id="-1" count="0"/>
+		</product>
+	</item> <!-- 6481 -->
+	<item id="6482">
+		<product skillId="2197" skillLevel="9" chance="14" >
+		 <item id="6906" count="1"/>
+		</product>
+		<product skillId="2197" skillLevel="9" chance="28" >
+		 <item id="6910" count="2"/>
+		</product>
+		<product skillId="2197" skillLevel="9" chance="20" >
+		 <item id="6916" count="8"/>
+		</product>
+		<product skillId="2197" skillLevel="9" chance="12" >
+		 <item id="7697" count="1"/>
+		</product>
+		<product skillId="2197" skillLevel="9" chance="26" >
+		 <item id="-1" count="0"/>
+		</product>
+	</item> <!-- 6482 -->
+	<item id="6483">
+		<product skillId="2198" skillLevel="1" chance="12" >
+		 <item id="6907" count="1"/>
+		</product>
+		<product skillId="2198" skillLevel="1" chance="16" >
+		 <item id="6910" count="4"/>
+		</product>
+		<product skillId="2198" skillLevel="1" chance="15" >
+		 <item id="6914" count="4"/>
+		</product>
+		<product skillId="2198" skillLevel="1" chance="13" >
+		 <item id="7685" count="1"/>
+		</product>
+		<product skillId="2198" skillLevel="1" chance="14" >
+		 <item id="7698" count="1"/>
+		</product>
+		<product skillId="2198" skillLevel="1" chance="30" >
+		 <item id="-1" count="0"/>
+		</product>
+	</item> <!-- 6483 -->
+	<item id="6484">
+		<product skillId="2198" skillLevel="2" chance="18" >
+		 <item id="6905" count="1"/>
+		</product>
+		<product skillId="2198" skillLevel="2" chance="15" >
+		 <item id="6910" count="4"/>
+		</product>
+		<product skillId="2198" skillLevel="2" chance="16" >
+		 <item id="6912" count="16"/>
+		</product>
+		<product skillId="2198" skillLevel="2" chance="16" >
+		 <item id="7686" count="1"/>
+		</product>
+		<product skillId="2198" skillLevel="2" chance="35" >
+		 <item id="-1" count="0"/>
+		</product>
+	</item> <!-- 6484 -->
+	<item id="6485">
+		<product skillId="2198" skillLevel="3" chance="16" >
+		 <item id="6906" count="1"/>
+		</product>
+		<product skillId="2198" skillLevel="3" chance="15" >
+		 <item id="6910" count="4"/>
+		</product>
+		<product skillId="2198" skillLevel="3" chance="26" >
+		 <item id="6916" count="8"/>
+		</product>
+		<product skillId="2198" skillLevel="3" chance="17" >
+		 <item id="7697" count="1"/>
+		</product>
+		<product skillId="2198" skillLevel="3" chance="26" >
+		 <item id="-1" count="0"/>
+		</product>
+	</item> <!-- 6485 -->
+	<item id="6486">
+		<product skillId="2198" skillLevel="4" chance="12" >
+		 <item id="6907" count="1"/>
+		</product>
+		<product skillId="2198" skillLevel="4" chance="15" >
+		 <item id="6910" count="4"/>
+		</product>
+		<product skillId="2198" skillLevel="4" chance="20" >
+		 <item id="6914" count="4"/>
+		</product>
+		<product skillId="2198" skillLevel="4" chance="15" >
+		 <item id="7685" count="1"/>
+		</product>
+		<product skillId="2198" skillLevel="4" chance="12" >
+		 <item id="7698" count="1"/>
+		</product>
+		<product skillId="2198" skillLevel="4" chance="26" >
+		 <item id="-1" count="0"/>
+		</product>
+	</item> <!-- 6486 -->
+	<item id="6487">
+		<product skillId="2198" skillLevel="5" chance="14" >
+		 <item id="6905" count="1"/>
+		</product>
+		<product skillId="2198" skillLevel="5" chance="20" >
+		 <item id="6910" count="4"/>
+		</product>
+		<product skillId="2198" skillLevel="5" chance="23" >
+		 <item id="6912" count="16"/>
+		</product>
+		<product skillId="2198" skillLevel="5" chance="12" >
+		 <item id="7686" count="2"/>
+		</product>
+		<product skillId="2198" skillLevel="5" chance="31" >
+		 <item id="-1" count="0"/>
+		</product>
+	</item> <!-- 6487 -->
+	<item id="6488">
+		<product skillId="2198" skillLevel="6" chance="18" >
+		 <item id="6906" count="1"/>
+		</product>
+		<product skillId="2198" skillLevel="6" chance="15" >
+		 <item id="6910" count="4"/>
+		</product>
+		<product skillId="2198" skillLevel="6" chance="25" >
+		 <item id="6916" count="8"/>
+		</product>
+		<product skillId="2198" skillLevel="6" chance="16" >
+		 <item id="7697" count="1"/>
+		</product>
+		<product skillId="2198" skillLevel="6" chance="26" >
+		 <item id="-1" count="0"/>
+		</product>
+	</item> <!-- 6488 -->
+	<item id="6489">
+		<product skillId="2198" skillLevel="7" chance="15" >
+		 <item id="6907" count="1"/>
+		</product>
+		<product skillId="2198" skillLevel="7" chance="17" >
+		 <item id="6910" count="4"/>
+		</product>
+		<product skillId="2198" skillLevel="7" chance="16" >
+		 <item id="6914" count="4"/>
+		</product>
+		<product skillId="2198" skillLevel="7" chance="19" >
+		 <item id="7685" count="1"/>
+		</product>
+		<product skillId="2198" skillLevel="7" chance="10" >
+		 <item id="7698" count="1"/>
+		</product>
+		<product skillId="2198" skillLevel="7" chance="23" >
+		 <item id="-1" count="0"/>
+		</product>
+	</item> <!-- 6489 -->
+	<item id="6490">
+		<product skillId="2198" skillLevel="8" chance="22" >
+		 <item id="6905" count="1"/>
+		</product>
+		<product skillId="2198" skillLevel="8" chance="21" >
+		 <item id="6910" count="4"/>
+		</product>
+		<product skillId="2198" skillLevel="8" chance="19" >
+		 <item id="6912" count="16"/>
+		</product>
+		<product skillId="2198" skillLevel="8" chance="16" >
+		 <item id="7686" count="2"/>
+		</product>
+		<product skillId="2198" skillLevel="8" chance="22" >
+		 <item id="-1" count="0"/>
+		</product>
+	</item> <!-- 6490 -->
+	<item id="6491">
+		<product skillId="2198" skillLevel="9" chance="21" >
+		 <item id="6906" count="1"/>
+		</product>
+		<product skillId="2198" skillLevel="9" chance="18" >
+		 <item id="6910" count="4"/>
+		</product>
+		<product skillId="2198" skillLevel="9" chance="31" >
+		 <item id="6916" count="8"/>
+		</product>
+		<product skillId="2198" skillLevel="9" chance="9" >
+		 <item id="7697" count="2"/>
+		</product>
+		<product skillId="2198" skillLevel="9" chance="21" >
+		 <item id="-1" count="0"/>
+		</product>
+	</item> <!-- 6491 -->
+	<item id="6492">
+		<product skillId="2199" skillLevel="1" chance="32" >
+		 <item id="6908" count="12"/>
+		</product>
+		<product skillId="2199" skillLevel="1" chance="51" >
+		 <item id="7609" count="8"/>
+		</product>
+		<product skillId="2199" skillLevel="1" chance="17" >
+		 <item id="-1" count="0"/>
+		</product>
+	</item> <!-- 6492 -->
+	<item id="6493">
+		<product skillId="2199" skillLevel="2" chance="47" >
+		 <item id="6908" count="12"/>
+		</product>
+		<product skillId="2199" skillLevel="2" chance="33" >
+		 <item id="7609" count="16"/>
+		</product>
+		<product skillId="2199" skillLevel="2" chance="20" >
+		 <item id="-1" count="0"/>
+		</product>
+	</item> <!-- 6493 -->
+	<item id="6494">
+		<product skillId="2199" skillLevel="3" chance="28" >
+		 <item id="6908" count="24"/>
+		</product>
+		<product skillId="2199" skillLevel="3" chance="28" >
+		 <item id="7609" count="26"/>
+		</product>
+		<product skillId="2199" skillLevel="3" chance="44" >
+		 <item id="-1" count="0"/>
+		</product>
+	</item> <!-- 6494 -->
+	<item id="6495">
+		<product skillId="2200" skillLevel="1" chance="39" >
+		 <item id="6908" count="24"/>
+		</product>
+		<product skillId="2200" skillLevel="1" chance="35" >
+		 <item id="7609" count="26"/>
+		</product>
+		<product skillId="2200" skillLevel="1" chance="26" >
+		 <item id="-1" count="0"/>
+		</product>
+	</item> <!-- 6495 -->
+	<item id="6496">
+		<product skillId="2200" skillLevel="2" chance="44" >
+		 <item id="6908" count="24"/>
+		</product>
+		<product skillId="2200" skillLevel="2" chance="41" >
+		 <item id="7609" count="26"/>
+		</product>
+		<product skillId="2200" skillLevel="2" chance="15" >
+		 <item id="-1" count="0"/>
+		</product>
+	</item> <!-- 6496 -->
+	<item id="6497">
+		<product skillId="2200" skillLevel="3" chance="46" >
+		 <item id="6908" count="24"/>
+		</product>
+		<product skillId="2200" skillLevel="3" chance="43" >
+		 <item id="7609" count="26"/>
+		</product>
+		<product skillId="2200" skillLevel="3" chance="11" >
+		 <item id="-1" count="0"/>
+		</product>
+	</item> <!-- 6497 -->
+	<item id="6498">
+		<product skillId="2201" skillLevel="1" chance="47" >
+		 <item id="6908" count="24"/>
+		</product>
+		<product skillId="2201" skillLevel="1" chance="42" >
+		 <item id="7609" count="26"/>
+		</product>
+		<product skillId="2201" skillLevel="1" chance="11" >
+		 <item id="-1" count="0"/>
+		</product>
+	</item> <!-- 6498 -->
+	<item id="6499">
+		<product skillId="2201" skillLevel="2" chance="7" >
+		 <item id="6904" count="1"/>
+		</product>
+		<product skillId="2201" skillLevel="2" chance="26" >
+		 <item id="6908" count="28"/>
+		</product>
+		<product skillId="2201" skillLevel="2" chance="23" >
+		 <item id="6909" count="8"/>
+		</product>
+		<product skillId="2201" skillLevel="2" chance="25" >
+		 <item id="7609" count="30"/>
+		</product>
+		<product skillId="2201" skillLevel="2" chance="19" >
+		 <item id="-1" count="0"/>
+		</product>
+	</item> <!-- 6499 -->
+	<item id="6500">
+		<product skillId="2201" skillLevel="3" chance="7" >
+		 <item id="6904" count="1"/>
+		</product>
+		<product skillId="2201" skillLevel="3" chance="25" >
+		 <item id="6908" count="28"/>
+		</product>
+		<product skillId="2201" skillLevel="3" chance="24" >
+		 <item id="6909" count="8"/>
+		</product>
+		<product skillId="2201" skillLevel="3" chance="25" >
+		 <item id="7609" count="30"/>
+		</product>
+		<product skillId="2201" skillLevel="3" chance="19" >
+		 <item id="-1" count="0"/>
+		</product>
+	</item> <!-- 6500 -->
+	<item id="6501">
+		<product skillId="2202" skillLevel="1" chance="5" >
+		 <item id="6904" count="1"/>
+		</product>
+		<product skillId="2202" skillLevel="1" chance="24" >
+		 <item id="6908" count="28"/>
+		</product>
+		<product skillId="2202" skillLevel="1" chance="22" >
+		 <item id="6909" count="8"/>
+		</product>
+		<product skillId="2202" skillLevel="1" chance="22" >
+		 <item id="7609" count="30"/>
+		</product>
+		<product skillId="2202" skillLevel="1" chance="27" >
+		 <item id="-1" count="0"/>
+		</product>
+	</item> <!-- 6501 -->
+	<item id="6502">
+		<product skillId="2202" skillLevel="2" chance="7" >
+		 <item id="6904" count="1"/>
+		</product>
+		<product skillId="2202" skillLevel="2" chance="29" >
+		 <item id="6908" count="28"/>
+		</product>
+		<product skillId="2202" skillLevel="2" chance="23" >
+		 <item id="6909" count="8"/>
+		</product>
+		<product skillId="2202" skillLevel="2" chance="20" >
+		 <item id="7609" count="30"/>
+		</product>
+		<product skillId="2202" skillLevel="2" chance="21" >
+		 <item id="-1" count="0"/>
+		</product>
+	</item> <!-- 6502 -->
+	<item id="6503">
+		<product skillId="2202" skillLevel="3" chance="7" >
+		 <item id="6904" count="1"/>
+		</product>
+		<product skillId="2202" skillLevel="3" chance="13" >
+		 <item id="6908" count="56"/>
+		</product>
+		<product skillId="2202" skillLevel="3" chance="12" >
+		 <item id="6909" count="14"/>
+		</product>
+		<product skillId="2202" skillLevel="3" chance="27" >
+		 <item id="7609" count="30"/>
+		</product>
+		<product skillId="2202" skillLevel="3" chance="41" >
+		 <item id="-1" count="0"/>
+		</product>
+	</item> <!-- 6503 -->
+	<item id="6504">
+		<product skillId="2203" skillLevel="1" chance="8" >
+		 <item id="6904" count="1"/>
+		</product>
+		<product skillId="2203" skillLevel="1" chance="15" >
+		 <item id="6908" count="56"/>
+		</product>
+		<product skillId="2203" skillLevel="1" chance="12" >
+		 <item id="6909" count="14"/>
+		</product>
+		<product skillId="2203" skillLevel="1" chance="13" >
+		 <item id="7609" count="60"/>
+		</product>
+		<product skillId="2203" skillLevel="1" chance="52" >
+		 <item id="-1" count="0"/>
+		</product>
+	</item> <!-- 6504 -->
+	<item id="6505">
+		<product skillId="2203" skillLevel="2" chance="58" >
+		 <item id="6910" count="3"/>
+		</product>
+		<product skillId="2203" skillLevel="2" chance="42" >
+		 <item id="-1" count="0"/>
+		</product>
+	</item> <!-- 6505 -->
+	<item id="6506">
+		<product skillId="2203" skillLevel="3" chance="62" >
+		 <item id="6910" count="3"/>
+		</product>
+		<product skillId="2203" skillLevel="3" chance="38" >
+		 <item id="-1" count="0"/>
+		</product>
+	</item> <!-- 6506 -->
+	<item id="6507">
+		<product skillId="2204" skillLevel="1" chance="62" >
+		 <item id="6910" count="3"/>
+		</product>
+		<product skillId="2204" skillLevel="1" chance="38" >
+		 <item id="-1" count="0"/>
+		</product>
+	</item> <!-- 6507 -->
+	<item id="6508">
+		<product skillId="2204" skillLevel="2" chance="77" >
+		 <item id="6910" count="3"/>
+		</product>
+		<product skillId="2204" skillLevel="2" chance="23" >
+		 <item id="-1" count="0"/>
+		</product>
+	</item> <!-- 6508 -->
+	<item id="6509">
+		<product skillId="2204" skillLevel="3" chance="82" >
+		 <item id="6910" count="3"/>
+		</product>
+		<product skillId="2204" skillLevel="3" chance="18" >
+		 <item id="-1" count="0"/>
+		</product>
+	</item> <!-- 6509 -->
+	<item id="6510">
+		<product skillId="2205" skillLevel="1" chance="90" >
+		 <item id="6910" count="3"/>
+		</product>
+		<product skillId="2205" skillLevel="1" chance="10" >
+		 <item id="-1" count="0"/>
+		</product>
+	</item> <!-- 6510 -->
+	<item id="6511">
+		<product skillId="2205" skillLevel="2" chance="91" >
+		 <item id="6910" count="3"/>
+		</product>
+		<product skillId="2205" skillLevel="2" chance="9" >
+		 <item id="-1" count="0"/>
+		</product>
+	</item> <!-- 6511 -->
+	<item id="6512">
+		<product skillId="2205" skillLevel="3" chance="61" >
+		 <item id="6910" count="6"/>
+		</product>
+		<product skillId="2205" skillLevel="3" chance="39" >
+		 <item id="-1" count="0"/>
+		</product>
+	</item> <!-- 6512 -->
+	<item id="6513">
+		<product skillId="2206" skillLevel="1" chance="64" >
+		 <item id="6910" count="6"/>
+		</product>
+		<product skillId="2206" skillLevel="1" chance="36" >
+		 <item id="-1" count="0"/>
+		</product>
+	</item> <!-- 6513 -->
+	<item id="6514">
+		<product skillId="2206" skillLevel="2" chance="69" >
+		 <item id="6910" count="6"/>
+		</product>
+		<product skillId="2206" skillLevel="2" chance="31" >
+		 <item id="-1" count="0"/>
+		</product>
+	</item> <!-- 6514 -->
+	<item id="6515">
+		<product skillId="2206" skillLevel="3" chance="74" >
+		 <item id="6910" count="6"/>
+		</product>
+		<product skillId="2206" skillLevel="3" chance="26" >
+		 <item id="-1" count="0"/>
+		</product>
+	</item> <!-- 6515 -->
+	<item id="6516">
+		<product skillId="2207" skillLevel="1" chance="81" >
+		 <item id="6910" count="1"/>
+		</product>
+		<product skillId="2207" skillLevel="1" chance="19" >
+		 <item id="-1" count="0"/>
+		</product>
+	</item> <!-- 6516 -->
+	<item id="6517">
+		<product skillId="2207" skillLevel="2" chance="91" >
+		 <item id="6910" count="6"/>
+		</product>
+		<product skillId="2207" skillLevel="2" chance="9" >
+		 <item id="-1" count="0"/>
+		</product>
+	</item> <!-- 6517 -->
+	<item id="6518">
+		<product skillId="2207" skillLevel="3" chance="99" >
+		 <item id="6910" count="6"/>
+		</product>
+		<product skillId="2207" skillLevel="3" chance="1" >
+		 <item id="-1" count="0"/>
+		</product>
+	</item> <!-- 6518 -->
+	<item id="7726">
+		<product skillId="2220" skillLevel="1" chance="44" >
+		 <item id="6908" count="3"/>
+		</product>
+		<product skillId="2220" skillLevel="1" chance="7" >
+		 <item id="6913" count="1"/>
+		</product>
+		<product skillId="2220" skillLevel="1" chance="49" >
+		 <item id="-1" count="0"/>
+		</product>
+	</item> <!-- 7726 -->
+	<item id="7727">
+		<product skillId="2220" skillLevel="2" chance="32" >
+		 <item id="6908" count="4"/>
+		</product>
+		<product skillId="2220" skillLevel="2" chance="17" >
+		 <item id="6911" count="1"/>
+		</product>
+		<product skillId="2220" skillLevel="2" chance="51" >
+		 <item id="-1" count="0"/>
+		</product>
+	</item> <!-- 7727 -->
+	<item id="7728">
+		<product skillId="2220" skillLevel="3" chance="33" >
+		 <item id="6908" count="4"/>
+		</product>
+		<product skillId="2220" skillLevel="3" chance="13" >
+		 <item id="6915" count="1"/>
+		</product>
+		<product skillId="2220" skillLevel="3" chance="54" >
+		 <item id="-1" count="0"/>
+		</product>
+	</item> <!-- 7728 -->
+	<item id="7729">
+		<product skillId="2220" skillLevel="4" chance="36" >
+		 <item id="6908" count="4"/>
+		</product>
+		<product skillId="2220" skillLevel="4" chance="9" >
+		 <item id="6913" count="1"/>
+		</product>
+		<product skillId="2220" skillLevel="4" chance="55" >
+		 <item id="-1" count="0"/>
+		</product>
+	</item> <!-- 7729 -->
+	<item id="7730">
+		<product skillId="2220" skillLevel="5" chance="40" >
+		 <item id="6908" count="4"/>
+		</product>
+		<product skillId="2220" skillLevel="5" chance="26" >
+		 <item id="6911" count="1"/>
+		</product>
+		<product skillId="2220" skillLevel="5" chance="34" >
+		 <item id="-1" count="0"/>
+		</product>
+	</item> <!-- 7730 -->
+	<item id="7731">
+		<product skillId="2220" skillLevel="6" chance="49" >
+		 <item id="6908" count="4"/>
+		</product>
+		<product skillId="2220" skillLevel="6" chance="20" >
+		 <item id="6915" count="1"/>
+		</product>
+		<product skillId="2220" skillLevel="6" chance="31" >
+		 <item id="-1" count="0"/>
+		</product>
+	</item> <!-- 7731 -->
+	<item id="7732">
+		<product skillId="2220" skillLevel="7" chance="33" >
+		 <item id="6908" count="4"/>
+		</product>
+		<product skillId="2220" skillLevel="7" chance="9" >
+		 <item id="6913" count="1"/>
+		</product>
+		<product skillId="2220" skillLevel="7" chance="17" >
+		 <item id="6920" count="4"/>
+		</product>
+		<product skillId="2220" skillLevel="7" chance="41" >
+		 <item id="-1" count="0"/>
+		</product>
+	</item> <!-- 7732 -->
+	<item id="7733">
+		<product skillId="2220" skillLevel="8" chance="58" >
+		 <item id="6908" count="4"/>
+		</product>
+		<product skillId="2220" skillLevel="8" chance="18" >
+		 <item id="6911" count="2"/>
+		</product>
+		<product skillId="2220" skillLevel="8" chance="24" >
+		 <item id="-1" count="0"/>
+		</product>
+	</item> <!-- 7733 -->
+	<item id="7734">
+		<product skillId="2220" skillLevel="9" chance="29" >
+		 <item id="6908" count="6"/>
+		</product>
+		<product skillId="2220" skillLevel="9" chance="15" >
+		 <item id="6915" count="1"/>
+		</product>
+		<product skillId="2220" skillLevel="9" chance="56" >
+		 <item id="-1" count="0"/>
+		</product>
+	</item> <!-- 7734 -->
+	<item id="7735">
+		<product skillId="2221" skillLevel="1" chance="37" >
+		 <item id="6908" count="6"/>
+		</product>
+		<product skillId="2221" skillLevel="1" chance="7" >
+		 <item id="6913" count="1"/>
+		</product>
+		<product skillId="2221" skillLevel="1" chance="28" >
+		 <item id="6920" count="4"/>
+		</product>
+		<product skillId="2221" skillLevel="1" chance="28" >
+		 <item id="-1" count="0"/>
+		</product>
+	</item> <!-- 7735 -->
+	<item id="7736">
+		<product skillId="2221" skillLevel="2" chance="49" >
+		 <item id="6908" count="6"/>
+		</product>
+		<product skillId="2221" skillLevel="2" chance="17" >
+		 <item id="6911" count="2"/>
+		</product>
+		<product skillId="2221" skillLevel="2" chance="34" >
+		 <item id="-1" count="0"/>
+		</product>
+	</item> <!-- 7736 -->
+	<item id="7737">
+		<product skillId="2221" skillLevel="3" chance="47" >
+		 <item id="6908" count="6"/>
+		</product>
+		<product skillId="2221" skillLevel="3" chance="28" >
+		 <item id="6915" count="1"/>
+		</product>
+		<product skillId="2221" skillLevel="3" chance="25" >
+		 <item id="-1" count="0"/>
+		</product>
+	</item> <!-- 7737 -->
+	<item id="7738">
+		<product skillId="2221" skillLevel="4" chance="45" >
+		 <item id="6908" count="6"/>
+		</product>
+		<product skillId="2221" skillLevel="4" chance="11" >
+		 <item id="6913" count="1"/>
+		</product>
+		<product skillId="2221" skillLevel="4" chance="15" >
+		 <item id="6920" count="8"/>
+		</product>
+		<product skillId="2221" skillLevel="4" chance="29" >
+		 <item id="-1" count="0"/>
+		</product>
+	</item> <!-- 7738 -->
+	<item id="7739">
+		<product skillId="2221" skillLevel="5" chance="46" >
+		 <item id="6908" count="6"/>
+		</product>
+		<product skillId="2221" skillLevel="5" chance="20" >
+		 <item id="6911" count="2"/>
+		</product>
+		<product skillId="2221" skillLevel="5" chance="34" >
+		 <item id="-1" count="0"/>
+		</product>
+	</item> <!-- 7739 -->
+	<item id="7740">
+		<product skillId="2221" skillLevel="6" chance="45" >
+		 <item id="6908" count="6"/>
+		</product>
+		<product skillId="2221" skillLevel="6" chance="26" >
+		 <item id="6915" count="1"/>
+		</product>
+		<product skillId="2221" skillLevel="6" chance="29" >
+		 <item id="-1" count="0"/>
+		</product>
+	</item> <!-- 7740 -->
+	<item id="7741">
+		<product skillId="2221" skillLevel="7" chance="47" >
+		 <item id="6908" count="6"/>
+		</product>
+		<product skillId="2221" skillLevel="7" chance="6" >
+		 <item id="6913" count="1"/>
+		</product>
+		<product skillId="2221" skillLevel="7" chance="13" >
+		 <item id="6920" count="8"/>
+		</product>
+		<product skillId="2221" skillLevel="7" chance="34" >
+		 <item id="-1" count="0"/>
+		</product>
+	</item> <!-- 7741 -->
+	<item id="7742">
+		<product skillId="2221" skillLevel="8" chance="41" >
+		 <item id="6908" count="6"/>
+		</product>
+		<product skillId="2221" skillLevel="8" chance="18" >
+		 <item id="6911" count="2"/>
+		</product>
+		<product skillId="2221" skillLevel="8" chance="41" >
+		 <item id="-1" count="0"/>
+		</product>
+	</item> <!-- 7742 -->
+	<item id="7743">
+		<product skillId="2221" skillLevel="9" chance="45" >
+		 <item id="6908" count="6"/>
+		</product>
+		<product skillId="2221" skillLevel="9" chance="28" >
+		 <item id="6915" count="1"/>
+		</product>
+		<product skillId="2221" skillLevel="9" chance="27" >
+		 <item id="-1" count="0"/>
+		</product>
+	</item> <!-- 7743 -->
+	<item id="7744">
+		<product skillId="2222" skillLevel="1" chance="31" >
+		 <item id="6908" count="6"/>
+		</product>
+		<product skillId="2222" skillLevel="1" chance="13" >
+		 <item id="6913" count="1"/>
+		</product>
+		<product skillId="2222" skillLevel="1" chance="13" >
+		 <item id="6920" count="8"/>
+		</product>
+		<product skillId="2222" skillLevel="1" chance="43" >
+		 <item id="-1" count="0"/>
+		</product>
+	</item> <!-- 7744 -->
+	<item id="7745">
+		<product skillId="2222" skillLevel="2" chance="41" >
+		 <item id="6908" count="6"/>
+		</product>
+		<product skillId="2222" skillLevel="2" chance="20" >
+		 <item id="6911" count="2"/>
+		</product>
+		<product skillId="2222" skillLevel="2" chance="39" >
+		 <item id="-1" count="0"/>
+		</product>
+	</item> <!-- 7745 -->
+	<item id="7746">
+		<product skillId="2222" skillLevel="3" chance="42" >
+		 <item id="6908" count="6"/>
+		</product>
+		<product skillId="2222" skillLevel="3" chance="40" >
+		 <item id="6915" count="1"/>
+		</product>
+		<product skillId="2222" skillLevel="3" chance="18" >
+		 <item id="-1" count="0"/>
+		</product>
+	</item> <!-- 7746 -->
+	<item id="7747">
+		<product skillId="2222" skillLevel="4" chance="13" >
+		 <item id="6908" count="8"/>
+		</product>
+		<product skillId="2222" skillLevel="4" chance="17" >
+		 <item id="6909" count="2"/>
+		</product>
+		<product skillId="2222" skillLevel="4" chance="8" >
+		 <item id="6913" count="1"/>
+		</product>
+		<product skillId="2222" skillLevel="4" chance="11" >
+		 <item id="6920" count="8"/>
+		</product>
+		<product skillId="2222" skillLevel="4" chance="1" >
+		 <item id="6904" count="1"/>
+		</product>
+		<product skillId="2222" skillLevel="4" chance="50" >
+		 <item id="-1" count="0"/>
+		</product>
+	</item> <!-- 7747 -->
+	<item id="7748">
+		<product skillId="2222" skillLevel="5" chance="19" >
+		 <item id="6908" count="8"/>
+		</product>
+		<product skillId="2222" skillLevel="5" chance="17" >
+		 <item id="6909" count="2"/>
+		</product>
+		<product skillId="2222" skillLevel="5" chance="10" >
+		 <item id="6911" count="2"/>
+		</product>
+		<product skillId="2222" skillLevel="5" chance="17" >
+		 <item id="6920" count="1"/>
+		</product>
+		<product skillId="2222" skillLevel="5" chance="1" >
+		 <item id="6904" count="1"/>
+		</product>
+		<product skillId="2222" skillLevel="5" chance="36" >
+		 <item id="-1" count="0"/>
+		</product>
+	</item> <!-- 7748 -->
+	<item id="7749">
+		<product skillId="2222" skillLevel="6" chance="20" >
+		 <item id="6908" count="8"/>
+		</product>
+		<product skillId="2222" skillLevel="6" chance="18" >
+		 <item id="6909" count="2"/>
+		</product>
+		<product skillId="2222" skillLevel="6" chance="20" >
+		 <item id="6915" count="1"/>
+		</product>
+		<product skillId="2222" skillLevel="6" chance="2" >
+		 <item id="6904" count="1"/>
+		</product>
+		<product skillId="2222" skillLevel="6" chance="40" >
+		 <item id="-1" count="0"/>
+		</product>
+	</item> <!-- 7749 -->
+	<item id="7750">
+		<product skillId="2222" skillLevel="7" chance="16" >
+		 <item id="6908" count="8"/>
+		</product>
+		<product skillId="2222" skillLevel="7" chance="15" >
+		 <item id="6909" count="2"/>
+		</product>
+		<product skillId="2222" skillLevel="7" chance="11" >
+		 <item id="6913" count="1"/>
+		</product>
+		<product skillId="2222" skillLevel="7" chance="14" >
+		 <item id="6920" count="8"/>
+		</product>
+		<product skillId="2222" skillLevel="7" chance="1" >
+		 <item id="6904" count="1"/>
+		</product>
+		<product skillId="2222" skillLevel="7" chance="43" >
+		 <item id="-1" count="0"/>
+		</product>
+	</item> <!-- 7750 -->
+	<item id="7751">
+		<product skillId="2222" skillLevel="8" chance="17" >
+		 <item id="6908" count="8"/>
+		</product>
+		<product skillId="2222" skillLevel="8" chance="15" >
+		 <item id="6909" count="2"/>
+		</product>
+		<product skillId="2222" skillLevel="8" chance="9" >
+		 <item id="6911" count="2"/>
+		</product>
+		<product skillId="2222" skillLevel="8" chance="11" >
+		 <item id="6920" count="2"/>
+		</product>
+		<product skillId="2222" skillLevel="8" chance="1" >
+		 <item id="6904" count="1"/>
+		</product>
+		<product skillId="2222" skillLevel="8" chance="47" >
+		 <item id="-1" count="0"/>
+		</product>
+	</item> <!-- 7751 -->
+	<item id="7752">
+		<product skillId="2222" skillLevel="9" chance="20" >
+		 <item id="6908" count="8"/>
+		</product>
+		<product skillId="2222" skillLevel="9" chance="13" >
+		 <item id="6909" count="2"/>
+		</product>
+		<product skillId="2222" skillLevel="9" chance="17" >
+		 <item id="6915" count="1"/>
+		</product>
+		<product skillId="2222" skillLevel="9" chance="3" >
+		 <item id="6904" count="1"/>
+		</product>
+		<product skillId="2222" skillLevel="9" chance="47" >
+		 <item id="-1" count="0"/>
+		</product>
+	</item> <!-- 7752 -->
+	<item id="7753">
+		<product skillId="2223" skillLevel="1" chance="15" >
+		 <item id="6908" count="8"/>
+		</product>
+		<product skillId="2223" skillLevel="1" chance="18" >
+		 <item id="6909" count="2"/>
+		</product>
+		<product skillId="2223" skillLevel="1" chance="8" >
+		 <item id="6913" count="1"/>
+		</product>
+		<product skillId="2223" skillLevel="1" chance="11" >
+		 <item id="6920" count="8"/>
+		</product>
+		<product skillId="2223" skillLevel="1" chance="3" >
+		 <item id="6904" count="1"/>
+		</product>
+		<product skillId="2223" skillLevel="1" chance="45" >
+		 <item id="-1" count="0"/>
+		</product>
+	</item> <!-- 7753 -->
+	<item id="7754">
+		<product skillId="2223" skillLevel="2" chance="28" >
+		 <item id="6908" count="8"/>
+		</product>
+		<product skillId="2223" skillLevel="2" chance="16" >
+		 <item id="6909" count="2"/>
+		</product>
+		<product skillId="2223" skillLevel="2" chance="12" >
+		 <item id="6911" count="2"/>
+		</product>
+		<product skillId="2223" skillLevel="2" chance="8" >
+		 <item id="6921" count="2"/>
+		</product>
+		<product skillId="2223" skillLevel="2" chance="1" >
+		 <item id="6904" count="1"/>
+		</product>
+		<product skillId="2223" skillLevel="2" chance="35" >
+		 <item id="-1" count="0"/>
+		</product>
+	</item> <!-- 7754 -->
+	<item id="7755">
+		<product skillId="2223" skillLevel="3" chance="21" >
+		 <item id="6908" count="8"/>
+		</product>
+		<product skillId="2223" skillLevel="3" chance="19" >
+		 <item id="6909" count="2"/>
+		</product>
+		<product skillId="2223" skillLevel="3" chance="19" >
+		 <item id="6915" count="1"/>
+		</product>
+		<product skillId="2223" skillLevel="3" chance="1" >
+		 <item id="6904" count="1"/>
+		</product>
+		<product skillId="2223" skillLevel="3" chance="40" >
+		 <item id="-1" count="0"/>
+		</product>
+	</item> <!-- 7755 -->
+	<item id="7756">
+		<product skillId="2223" skillLevel="4" chance="15" >
+		 <item id="6908" count="12"/>
+		</product>
+		<product skillId="2223" skillLevel="4" chance="18" >
+		 <item id="6909" count="2"/>
+		</product>
+		<product skillId="2223" skillLevel="4" chance="14" >
+		 <item id="6913" count="1"/>
+		</product>
+		<product skillId="2223" skillLevel="4" chance="14" >
+		 <item id="6920" count="8"/>
+		</product>
+		<product skillId="2223" skillLevel="4" chance="1" >
+		 <item id="6904" count="1"/>
+		</product>
+		<product skillId="2223" skillLevel="4" chance="38" >
+		 <item id="-1" count="0"/>
+		</product>
+	</item> <!-- 7756 -->
+	<item id="7757">
+		<product skillId="2223" skillLevel="5" chance="8" >
+		 <item id="6908" count="16"/>
+		</product>
+		<product skillId="2223" skillLevel="5" chance="8" >
+		 <item id="6909" count="16"/>
+		</product>
+		<product skillId="2223" skillLevel="5" chance="19" >
+		 <item id="6911" count="2"/>
+		</product>
+		<product skillId="2223" skillLevel="5" chance="20" >
+		 <item id="6921" count="2"/>
+		</product>
+		<product skillId="2223" skillLevel="5" chance="1" >
+		 <item id="6904" count="1"/>
+		</product>
+		<product skillId="2223" skillLevel="5" chance="44" >
+		 <item id="-1" count="0"/>
+		</product>
+	</item> <!-- 7757 -->
+	<item id="7758">
+		<product skillId="2223" skillLevel="6" chance="21" >
+		 <item id="6908" count="8"/>
+		</product>
+		<product skillId="2223" skillLevel="6" chance="21" >
+		 <item id="6909" count="2"/>
+		</product>
+		<product skillId="2223" skillLevel="6" chance="17" >
+		 <item id="6915" count="2"/>
+		</product>
+		<product skillId="2223" skillLevel="6" chance="1" >
+		 <item id="6904" count="1"/>
+		</product>
+		<product skillId="2223" skillLevel="6" chance="40" >
+		 <item id="-1" count="0"/>
+		</product>
+	</item> <!-- 7758 -->
+	<item id="7759">
+		<product skillId="2223" skillLevel="7" chance="22" >
+		 <item id="6908" count="8"/>
+		</product>
+		<product skillId="2223" skillLevel="7" chance="19" >
+		 <item id="6909" count="2"/>
+		</product>
+		<product skillId="2223" skillLevel="7" chance="10" >
+		 <item id="6913" count="1"/>
+		</product>
+		<product skillId="2223" skillLevel="7" chance="18" >
+		 <item id="6920" count="8"/>
+		</product>
+		<product skillId="2223" skillLevel="7" chance="31" >
+		 <item id="-1" count="0"/>
+		</product>
+	</item> <!-- 7759 -->
+	<item id="7760">
+		<product skillId="2223" skillLevel="8" chance="16" >
+		 <item id="6908" count="16"/>
+		</product>
+		<product skillId="2223" skillLevel="8" chance="14" >
+		 <item id="6909" count="2"/>
+		</product>
+		<product skillId="2223" skillLevel="8" chance="16" >
+		 <item id="6911" count="2"/>
+		</product>
+		<product skillId="2223" skillLevel="8" chance="14" >
+		 <item id="6921" count="2"/>
+		</product>
+		<product skillId="2223" skillLevel="8" chance="2" >
+		 <item id="6904" count="1"/>
+		</product>
+		<product skillId="2223" skillLevel="8" chance="38" >
+		 <item id="-1" count="0"/>
+		</product>
+	</item> <!-- 7760 -->
+	<item id="7761">
+		<product skillId="2223" skillLevel="9" chance="28" >
+		 <item id="6908" count="8"/>
+		</product>
+		<product skillId="2223" skillLevel="9" chance="20" >
+		 <item id="6909" count="2"/>
+		</product>
+		<product skillId="2223" skillLevel="9" chance="13" >
+		 <item id="6915" count="2"/>
+		</product>
+		<product skillId="2223" skillLevel="9" chance="1" >
+		 <item id="6904" count="1"/>
+		</product>
+		<product skillId="2223" skillLevel="9" chance="38" >
+		 <item id="-1" count="0"/>
+		</product>
+	</item> <!-- 7761 -->
+	<item id="7762">
+		<product skillId="2224" skillLevel="1" chance="16" >
+		 <item id="6908" count="14"/>
+		</product>
+		<product skillId="2224" skillLevel="1" chance="21" >
+		 <item id="6909" count="2"/>
+		</product>
+		<product skillId="2224" skillLevel="1" chance="11" >
+		 <item id="6913" count="1"/>
+		</product>
+		<product skillId="2224" skillLevel="1" chance="17" >
+		 <item id="6920" count="8"/>
+		</product>
+		<product skillId="2224" skillLevel="1" chance="2" >
+		 <item id="6904" count="1"/>
+		</product>
+		<product skillId="2224" skillLevel="1" chance="33" >
+		 <item id="-1" count="0"/>
+		</product>
+	</item> <!-- 7762 -->
+	<item id="7763">
+		<product skillId="2224" skillLevel="2" chance="14" >
+		 <item id="6908" count="16"/>
+		</product>
+		<product skillId="2224" skillLevel="2" chance="15" >
+		 <item id="6909" count="2"/>
+		</product>
+		<product skillId="2224" skillLevel="2" chance="19" >
+		 <item id="6911" count="2"/>
+		</product>
+		<product skillId="2224" skillLevel="2" chance="8" >
+		 <item id="6921" count="4"/>
+		</product>
+		<product skillId="2224" skillLevel="2" chance="1" >
+		 <item id="6904" count="1"/>
+		</product>
+		<product skillId="2224" skillLevel="2" chance="33" >
+		 <item id="-1" count="0"/>
+		</product>
+	</item> <!-- 7763 -->
+	<item id="7764">
+		<product skillId="2224" skillLevel="3" chance="14" >
+		 <item id="6908" count="16"/>
+		</product>
+		<product skillId="2224" skillLevel="3" chance="19" >
+		 <item id="6909" count="2"/>
+		</product>
+		<product skillId="2224" skillLevel="3" chance="17" >
+		 <item id="6915" count="2"/>
+		</product>
+		<product skillId="2224" skillLevel="3" chance="3" >
+		 <item id="6904" count="1"/>
+		</product>
+		<product skillId="2224" skillLevel="3" chance="47" >
+		 <item id="-1" count="0"/>
+		</product>
+	</item> <!-- 7764 -->
+	<item id="7765">
+		<product skillId="2224" skillLevel="4" chance="15" >
+		 <item id="6910" count="1"/>
+		</product>
+		<product skillId="2224" skillLevel="4" chance="9" >
+		 <item id="6914" count="1"/>
+		</product>
+		<product skillId="2224" skillLevel="4" chance="2" >
+		 <item id="7698" count="1"/>
+		</product>
+		<product skillId="2224" skillLevel="4" chance="74" >
+		 <item id="-1" count="0"/>
+		</product>
+	</item> <!-- 7765 -->
+	<item id="7766">
+		<product skillId="2224" skillLevel="5" chance="17" >
+		 <item id="6910" count="1"/>
+		</product>
+		<product skillId="2224" skillLevel="5" chance="17" >
+		 <item id="6912" count="1"/>
+		</product>
+		<product skillId="2224" skillLevel="5" chance="1" >
+		 <item id="7686" count="1"/>
+		</product>
+		<product skillId="2224" skillLevel="5" chance="65" >
+		 <item id="-1" count="0"/>
+		</product>
+	</item> <!-- 7766 -->
+	<item id="7767">
+		<product skillId="2224" skillLevel="6" chance="20" >
+		 <item id="6910" count="1"/>
+		</product>
+		<product skillId="2224" skillLevel="6" chance="17" >
+		 <item id="6916" count="2"/>
+		</product>
+		<product skillId="2224" skillLevel="6" chance="3" >
+		 <item id="7697" count="1"/>
+		</product>
+		<product skillId="2224" skillLevel="6" chance="60" >
+		 <item id="-1" count="0"/>
+		</product>
+	</item> <!-- 7767 -->
+	<item id="7768">
+		<product skillId="2224" skillLevel="7" chance="21" >
+		 <item id="6910" count="1"/>
+		</product>
+		<product skillId="2224" skillLevel="7" chance="13" >
+		 <item id="6914" count="1"/>
+		</product>
+		<product skillId="2224" skillLevel="7" chance="1" >
+		 <item id="7698" count="1"/>
+		</product>
+		<product skillId="2224" skillLevel="7" chance="65" >
+		 <item id="-1" count="0"/>
+		</product>
+	</item> <!-- 7768 -->
+	<item id="7769">
+		<product skillId="2224" skillLevel="8" chance="24" >
+		 <item id="6910" count="1"/>
+		</product>
+		<product skillId="2224" skillLevel="8" chance="20" >
+		 <item id="6912" count="1"/>
+		</product>
+		<product skillId="2224" skillLevel="8" chance="3" >
+		 <item id="7686" count="1"/>
+		</product>
+		<product skillId="2224" skillLevel="8" chance="53" >
+		 <item id="-1" count="0"/>
+		</product>
+	</item> <!-- 7769 -->
+	<item id="7770">
+		<product skillId="2224" skillLevel="9" chance="33" >
+		 <item id="6910" count="1"/>
+		</product>
+		<product skillId="2224" skillLevel="9" chance="12" >
+		 <item id="6916" count="2"/>
+		</product>
+		<product skillId="2224" skillLevel="9" chance="1" >
+		 <item id="7697" count="1"/>
+		</product>
+		<product skillId="2224" skillLevel="9" chance="54" >
+		 <item id="-1" count="0"/>
+		</product>
+	</item> <!-- 7770 -->
+	<item id="7771">
+		<product skillId="2225" skillLevel="1" chance="25" >
+		 <item id="6910" count="1"/>
+		</product>
+		<product skillId="2225" skillLevel="1" chance="13" >
+		 <item id="6914" count="1"/>
+		</product>
+		<product skillId="2225" skillLevel="1" chance="5" >
+		 <item id="7698" count="1"/>
+		</product>
+		<product skillId="2225" skillLevel="1" chance="57" >
+		 <item id="-1" count="0"/>
+		</product>
+	</item> <!-- 7771 -->
+	<item id="7772">
+		<product skillId="2225" skillLevel="2" chance="21" >
+		 <item id="6910" count="1"/>
+		</product>
+		<product skillId="2225" skillLevel="2" chance="27" >
+		 <item id="6912" count="2"/>
+		</product>
+		<product skillId="2225" skillLevel="2" chance="2" >
+		 <item id="7686" count="1"/>
+		</product>
+		<product skillId="2225" skillLevel="2" chance="50" >
+		 <item id="-1" count="0"/>
+		</product>
+	</item> <!-- 7772 -->
+	<item id="7773">
+		<product skillId="2225" skillLevel="3" chance="24" >
+		 <item id="6910" count="1"/>
+		</product>
+		<product skillId="2225" skillLevel="3" chance="18" >
+		 <item id="6916" count="2"/>
+		</product>
+		<product skillId="2225" skillLevel="3" chance="5" >
+		 <item id="7697" count="1"/>
+		</product>
+		<product skillId="2225" skillLevel="3" chance="53" >
+		 <item id="-1" count="0"/>
+		</product>
+	</item> <!-- 7773 -->
+	<item id="7774">
+		<product skillId="2225" skillLevel="4" chance="20" >
+		 <item id="6910" count="1"/>
+		</product>
+		<product skillId="2225" skillLevel="4" chance="15" >
+		 <item id="6914" count="1"/>
+		</product>
+		<product skillId="2225" skillLevel="4" chance="3" >
+		 <item id="7698" count="1"/>
+		</product>
+		<product skillId="2225" skillLevel="4" chance="62" >
+		 <item id="-1" count="0"/>
+		</product>
+	</item> <!-- 7774 -->
+	<item id="7775">
+		<product skillId="2225" skillLevel="5" chance="22" >
+		 <item id="6910" count="1"/>
+		</product>
+		<product skillId="2225" skillLevel="5" chance="16" >
+		 <item id="6912" count="4"/>
+		</product>
+		<product skillId="2225" skillLevel="5" chance="5" >
+		 <item id="7686" count="1"/>
+		</product>
+		<product skillId="2225" skillLevel="5" chance="57" >
+		 <item id="-1" count="0"/>
+		</product>
+	</item> <!-- 7775 -->
+	<item id="7776">
+		<product skillId="2225" skillLevel="6" chance="17" >
+		 <item id="6910" count="2"/>
+		</product>
+		<product skillId="2225" skillLevel="6" chance="19" >
+		 <item id="6916" count="2"/>
+		</product>
+		<product skillId="2225" skillLevel="6" chance="4" >
+		 <item id="7697" count="1"/>
+		</product>
+		<product skillId="2225" skillLevel="6" chance="60" >
+		 <item id="-1" count="0"/>
+		</product>
+	</item> <!-- 7776 -->
+	<item id="7777">
+		<product skillId="2225" skillLevel="7" chance="14" >
+		 <item id="6910" count="2"/>
+		</product>
+		<product skillId="2225" skillLevel="7" chance="6" >
+		 <item id="6914" count="1"/>
+		</product>
+		<product skillId="2225" skillLevel="7" chance="2" >
+		 <item id="7698" count="1"/>
+		</product>
+		<product skillId="2225" skillLevel="7" chance="2" >
+		 <item id="7685" count="1"/>
+		</product>
+		<product skillId="2225" skillLevel="7" chance="10" >
+		 <item id="6907" count="1"/>
+		</product>
+		<product skillId="2225" skillLevel="7" chance="66" >
+		 <item id="-1" count="0"/>
+		</product>
+	</item> <!-- 7777 -->
+	<item id="7778">
+		<product skillId="2225" skillLevel="8" chance="19" >
+		 <item id="6910" count="2"/>
+		</product>
+		<product skillId="2225" skillLevel="8" chance="12" >
+		 <item id="6912" count="4"/>
+		</product>
+		<product skillId="2225" skillLevel="8" chance="7" >
+		 <item id="6905" count="1"/>
+		</product>
+		<product skillId="2225" skillLevel="8" chance="62" >
+		 <item id="-1" count="0"/>
+		</product>
+	</item> <!-- 7778 -->
+	<item id="7779">
+		<product skillId="2225" skillLevel="9" chance="20" >
+		 <item id="6910" count="2"/>
+		</product>
+		<product skillId="2225" skillLevel="9" chance="13" >
+		 <item id="6916" count="2"/>
+		</product>
+		<product skillId="2225" skillLevel="9" chance="2" >
+		 <item id="7697" count="1"/>
+		</product>
+		<product skillId="2225" skillLevel="9" chance="2" >
+		 <item id="6906" count="1"/>
+		</product>
+		<product skillId="2225" skillLevel="9" chance="63" >
+		 <item id="-1" count="0"/>
+		</product>
+	</item> <!-- 7779 -->
+	<item id="7780">
+		<product skillId="2226" skillLevel="1" chance="16" >
+		 <item id="6910" count="2"/>
+		</product>
+		<product skillId="2226" skillLevel="1" chance="27" >
+		 <item id="6914" count="1"/>
+		</product>
+		<product skillId="2226" skillLevel="1" chance="4" >
+		 <item id="7698" count="1"/>
+		</product>
+		<product skillId="2226" skillLevel="1" chance="4" >
+		 <item id="7685" count="1"/>
+		</product>
+		<product skillId="2226" skillLevel="1" chance="1" >
+		 <item id="6907" count="1"/>
+		</product>
+		<product skillId="2226" skillLevel="1" chance="48" >
+		 <item id="-1" count="0"/>
+		</product>
+	</item> <!-- 7780 -->
+	<item id="7781">
+		<product skillId="2226" skillLevel="2" chance="28" >
+		 <item id="6910" count="2"/>
+		</product>
+		<product skillId="2226" skillLevel="2" chance="16" >
+		 <item id="6912" count="4"/>
+		</product>
+		<product skillId="2226" skillLevel="2" chance="5" >
+		 <item id="6905" count="1"/>
+		</product>
+		<product skillId="2226" skillLevel="2" chance="5" >
+		 <item id="7686" count="1"/>
+		</product>
+		<product skillId="2226" skillLevel="2" chance="46" >
+		 <item id="-1" count="0"/>
+		</product>
+	</item> <!-- 7781 -->
+	<item id="7782">
+		<product skillId="2226" skillLevel="3" chance="30" >
+		 <item id="6910" count="2"/>
+		</product>
+		<product skillId="2226" skillLevel="3" chance="22" >
+		 <item id="6916" count="2"/>
+		</product>
+		<product skillId="2226" skillLevel="3" chance="6" >
+		 <item id="7697" count="1"/>
+		</product>
+		<product skillId="2226" skillLevel="3" chance="6" >
+		 <item id="6906" count="1"/>
+		</product>
+		<product skillId="2226" skillLevel="3" chance="36" >
+		 <item id="-1" count="0"/>
+		</product>
+	</item> <!-- 7782 -->
+	<item id="7783">
+		<product skillId="2226" skillLevel="4" chance="36" >
+		 <item id="6910" count="2"/>
+		</product>
+		<product skillId="2226" skillLevel="4" chance="11" >
+		 <item id="6914" count="1"/>
+		</product>
+		<product skillId="2226" skillLevel="4" chance="7" >
+		 <item id="6907" count="1"/>
+		</product>
+		<product skillId="2226" skillLevel="4" chance="1" >
+		 <item id="7685" count="1"/>
+		</product>
+		<product skillId="2226" skillLevel="4" chance="45" >
+		 <item id="-1" count="0"/>
+		</product>
+	</item> <!-- 7783 -->
+	<item id="7784">
+		<product skillId="2226" skillLevel="5" chance="39" >
+		 <item id="6910" count="2"/>
+		</product>
+		<product skillId="2226" skillLevel="5" chance="25" >
+		 <item id="6912" count="4"/>
+		</product>
+		<product skillId="2226" skillLevel="5" chance="4" >
+		 <item id="7686" count="1"/>
+		</product>
+		<product skillId="2226" skillLevel="5" chance="1" >
+		 <item id="6905" count="1"/>
+		</product>
+		<product skillId="2226" skillLevel="5" chance="31" >
+		 <item id="-1" count="0"/>
+		</product>
+	</item> <!-- 7784 -->
+	<item id="7785">
+		<product skillId="2226" skillLevel="6" chance="39" >
+		 <item id="6910" count="2"/>
+		</product>
+		<product skillId="2226" skillLevel="6" chance="14" >
+		 <item id="6916" count="2"/>
+		</product>
+		<product skillId="2226" skillLevel="6" chance="8" >
+		 <item id="6906" count="1"/>
+		</product>
+		<product skillId="2226" skillLevel="6" chance="4" >
+		 <item id="7697" count="1"/>
+		</product>
+		<product skillId="2226" skillLevel="6" chance="35" >
+		 <item id="-1" count="0"/>
+		</product>
+	</item> <!-- 7785 -->
+	<item id="7786">
+		<product skillId="2226" skillLevel="7" chance="20" >
+		 <item id="6910" count="2"/>
+		</product>
+		<product skillId="2226" skillLevel="7" chance="14" >
+		 <item id="6914" count="1"/>
+		</product>
+		<product skillId="2226" skillLevel="7" chance="2" >
+		 <item id="7685" count="1"/>
+		</product>
+		<product skillId="2226" skillLevel="7" chance="2" >
+		 <item id="6907" count="1"/>
+		</product>
+		<product skillId="2226" skillLevel="7" chance="2" >
+		 <item id="7698" count="1"/>
+		</product>
+		<product skillId="2226" skillLevel="7" chance="60" >
+		 <item id="-1" count="0"/>
+		</product>
+	</item> <!-- 7786 -->
+	<item id="7787">
+		<product skillId="2226" skillLevel="8" chance="30" >
+		 <item id="6910" count="2"/>
+		</product>
+		<product skillId="2226" skillLevel="8" chance="5" >
+		 <item id="6905" count="1"/>
+		</product>
+		<product skillId="2226" skillLevel="8" chance="1" >
+		 <item id="6912" count="8"/>
+		</product>
+		<product skillId="2226" skillLevel="8" chance="1" >
+		 <item id="7686" count="1"/>
+		</product>
+		<product skillId="2226" skillLevel="8" chance="63" >
+		 <item id="-1" count="0"/>
+		</product>
+	</item> <!-- 7787 -->
+	<item id="7788">
+		<product skillId="2226" skillLevel="9" chance="37" >
+		 <item id="6910" count="2"/>
+		</product>
+		<product skillId="2226" skillLevel="9" chance="12" >
+		 <item id="6916" count="4"/>
+		</product>
+		<product skillId="2226" skillLevel="9" chance="4" >
+		 <item id="6906" count="1"/>
+		</product>
+		<product skillId="2226" skillLevel="9" chance="4" >
+		 <item id="7697" count="1"/>
+		</product>
+		<product skillId="2226" skillLevel="9" chance="43" >
+		 <item id="-1" count="0"/>
+		</product>
+	</item> <!-- 7788 -->
+	<item id="7789">
+		<product skillId="2227" skillLevel="1" chance="17" >
+		 <item id="6910" count="2"/>
+		</product>
+		<product skillId="2227" skillLevel="1" chance="12" >
+		 <item id="6914" count="2"/>
+		</product>
+		<product skillId="2227" skillLevel="1" chance="6" >
+		 <item id="7685" count="1"/>
+		</product>
+		<product skillId="2227" skillLevel="1" chance="4" >
+		 <item id="7698" count="1"/>
+		</product>
+		<product skillId="2227" skillLevel="1" chance="3" >
+		 <item id="6907" count="1"/>
+		</product>
+		<product skillId="2227" skillLevel="1" chance="58" >
+		 <item id="-1" count="0"/>
+		</product>
+	</item> <!-- 7789 -->
+	<item id="7790">
+		<product skillId="2227" skillLevel="2" chance="23" >
+		 <item id="6910" count="2"/>
+		</product>
+		<product skillId="2227" skillLevel="2" chance="15" >
+		 <item id="6912" count="8"/>
+		</product>
+		<product skillId="2227" skillLevel="2" chance="9" >
+		 <item id="6905" count="1"/>
+		</product>
+		<product skillId="2227" skillLevel="2" chance="7" >
+		 <item id="7686" count="1"/>
+		</product>
+		<product skillId="2227" skillLevel="2" chance="46" >
+		 <item id="-1" count="0"/>
+		</product>
+	</item> <!-- 7790 -->
+	<item id="7791">
+		<product skillId="2227" skillLevel="3" chance="29" >
+		 <item id="6910" count="2"/>
+		</product>
+		<product skillId="2227" skillLevel="3" chance="20" >
+		 <item id="6916" count="4"/>
+		</product>
+		<product skillId="2227" skillLevel="3" chance="8" >
+		 <item id="6906" count="1"/>
+		</product>
+		<product skillId="2227" skillLevel="3" chance="2" >
+		 <item id="7697" count="1"/>
+		</product>
+		<product skillId="2227" skillLevel="3" chance="41" >
+		 <item id="-1" count="0"/>
+		</product>
+	</item> <!-- 7791 -->
+	<item id="7792">
+		<product skillId="2227" skillLevel="4" chance="11" >
+		 <item id="6910" count="1"/>
+		</product>
+		<product skillId="2227" skillLevel="4" chance="22" >
+		 <item id="6914" count="2"/>
+		</product>
+		<product skillId="2227" skillLevel="4" chance="5" >
+		 <item id="7685" count="1"/>
+		</product>
+		<product skillId="2227" skillLevel="4" chance="5" >
+		 <item id="6907" count="1"/>
+		</product>
+		<product skillId="2227" skillLevel="4" chance="3" >
+		 <item id="7698" count="1"/>
+		</product>
+		<product skillId="2227" skillLevel="4" chance="54" >
+		 <item id="-1" count="0"/>
+		</product>
+	</item> <!-- 7792 -->
+	<item id="7793">
+		<product skillId="2227" skillLevel="5" chance="27" >
+		 <item id="6910" count="2"/>
+		</product>
+		<product skillId="2227" skillLevel="5" chance="10" >
+		 <item id="6912" count="8"/>
+		</product>
+		<product skillId="2227" skillLevel="5" chance="5" >
+		 <item id="6905" count="1"/>
+		</product>
+		<product skillId="2227" skillLevel="5" chance="3" >
+		 <item id="7686" count="1"/>
+		</product>
+		<product skillId="2227" skillLevel="5" chance="55" >
+		 <item id="-1" count="0"/>
+		</product>
+	</item> <!-- 7793 -->
+	<item id="7794">
+		<product skillId="2227" skillLevel="6" chance="36" >
+		 <item id="6910" count="2"/>
+		</product>
+		<product skillId="2227" skillLevel="6" chance="24" >
+		 <item id="6916" count="4"/>
+		</product>
+		<product skillId="2227" skillLevel="6" chance="10" >
+		 <item id="6906" count="1"/>
+		</product>
+		<product skillId="2227" skillLevel="6" chance="3" >
+		 <item id="7697" count="1"/>
+		</product>
+		<product skillId="2227" skillLevel="6" chance="27" >
+		 <item id="-1" count="0"/>
+		</product>
+	</item> <!-- 7794 -->
+	<item id="7795">
+		<product skillId="2227" skillLevel="7" chance="34" >
+		 <item id="6910" count="2"/>
+		</product>
+		<product skillId="2227" skillLevel="7" chance="25" >
+		 <item id="6914" count="2"/>
+		</product>
+		<product skillId="2227" skillLevel="7" chance="4" >
+		 <item id="6907" count="1"/>
+		</product>
+		<product skillId="2227" skillLevel="7" chance="37" >
+		 <item id="-1" count="0"/>
+		</product>
+	</item> <!-- 7795 -->
+	<item id="7796">
+		<product skillId="2227" skillLevel="8" chance="11" >
+		 <item id="6910" count="2"/>
+		</product>
+		<product skillId="2227" skillLevel="8" chance="23" >
+		 <item id="6912" count="8"/>
+		</product>
+		<product skillId="2227" skillLevel="8" chance="14" >
+		 <item id="7686" count="1"/>
+		</product>
+		<product skillId="2227" skillLevel="8" chance="5" >
+		 <item id="6905" count="1"/>
+		</product>
+		<product skillId="2227" skillLevel="8" chance="47" >
+		 <item id="-1" count="0"/>
+		</product>
+	</item> <!-- 7796 -->
+	<item id="7797">
+		<product skillId="2227" skillLevel="9" chance="31" >
+		 <item id="6910" count="2"/>
+		</product>
+		<product skillId="2227" skillLevel="9" chance="22" >
+		 <item id="6916" count="4"/>
+		</product>
+		<product skillId="2227" skillLevel="9" chance="6" >
+		 <item id="7697" count="1"/>
+		</product>
+		<product skillId="2227" skillLevel="9" chance="4" >
+		 <item id="6906" count="1"/>
+		</product>
+		<product skillId="2227" skillLevel="9" chance="37" >
+		 <item id="-1" count="0"/>
+		</product>
+	</item> <!-- 7797 -->
+	<item id="7798">
+		<product skillId="2228" skillLevel="1" chance="16" >
+		 <item id="6910" count="1"/>
+		</product>
+		<product skillId="2228" skillLevel="1" chance="12" >
+		 <item id="6907" count="1"/>
+		</product>
+		<product skillId="2228" skillLevel="1" chance="8" >
+		 <item id="6914" count="2"/>
+		</product>
+		<product skillId="2228" skillLevel="1" chance="4" >
+		 <item id="7685" count="1"/>
+		</product>
+		<product skillId="2228" skillLevel="1" chance="4" >
+		 <item id="7698" count="1"/>
+		</product>
+		<product skillId="2228" skillLevel="1" chance="56" >
+		 <item id="-1" count="0"/>
+		</product>
+	</item> <!-- 7798 -->
+	<item id="7799">
+		<product skillId="2228" skillLevel="2" chance="15" >
+		 <item id="6910" count="2"/>
+		</product>
+		<product skillId="2228" skillLevel="2" chance="15" >
+		 <item id="6912" count="8"/>
+		</product>
+		<product skillId="2228" skillLevel="2" chance="7" >
+		 <item id="6905" count="1"/>
+		</product>
+		<product skillId="2228" skillLevel="2" chance="63" >
+		 <item id="-1" count="0"/>
+		</product>
+	</item> <!-- 7799 -->
+	<item id="7800">
+		<product skillId="2228" skillLevel="3" chance="6" >
+		 <item id="6910" count="2"/>
+		</product>
+		<product skillId="2228" skillLevel="3" chance="17" >
+		 <item id="6916" count="4"/>
+		</product>
+		<product skillId="2228" skillLevel="3" chance="13" >
+		 <item id="6906" count="1"/>
+		</product>
+		<product skillId="2228" skillLevel="3" chance="10" >
+		 <item id="7697" count="1"/>
+		</product>
+		<product skillId="2228" skillLevel="3" chance="54" >
+		 <item id="-1" count="0"/>
+		</product>
+	</item> <!-- 7800 -->
+	<item id="7801">
+		<product skillId="2228" skillLevel="4" chance="16" >
+		 <item id="6910" count="1"/>
+		</product>
+		<product skillId="2228" skillLevel="4" chance="12" >
+		 <item id="6907" count="1"/>
+		</product>
+		<product skillId="2228" skillLevel="4" chance="8" >
+		 <item id="6914" count="2"/>
+		</product>
+		<product skillId="2228" skillLevel="4" chance="4" >
+		 <item id="7685" count="1"/>
+		</product>
+		<product skillId="2228" skillLevel="4" chance="4" >
+		 <item id="7698" count="1"/>
+		</product>
+		<product skillId="2228" skillLevel="4" chance="56" >
+		 <item id="-1" count="0"/>
+		</product>
+	</item> <!-- 7801 -->
+	<item id="7802">
+		<product skillId="2228" skillLevel="5" chance="15" >
+		 <item id="6910" count="2"/>
+		</product>
+		<product skillId="2228" skillLevel="5" chance="15" >
+		 <item id="6912" count="8"/>
+		</product>
+		<product skillId="2228" skillLevel="5" chance="7" >
+		 <item id="6905" count="1"/>
+		</product>
+		<product skillId="2228" skillLevel="5" chance="63" >
+		 <item id="-1" count="0"/>
+		</product>
+	</item> <!-- 7802 -->
+	<item id="7803">
+		<product skillId="2228" skillLevel="6" chance="6" >
+		 <item id="6910" count="2"/>
+		</product>
+		<product skillId="2228" skillLevel="6" chance="17" >
+		 <item id="6916" count="4"/>
+		</product>
+		<product skillId="2228" skillLevel="6" chance="13" >
+		 <item id="6906" count="1"/>
+		</product>
+		<product skillId="2228" skillLevel="6" chance="10" >
+		 <item id="7697" count="1"/>
+		</product>
+		<product skillId="2228" skillLevel="6" chance="54" >
+		 <item id="-1" count="0"/>
+		</product>
+	</item> <!-- 7803 -->
+	<item id="7804">
+		<product skillId="2228" skillLevel="7" chance="16" >
+		 <item id="6910" count="1"/>
+		</product>
+		<product skillId="2228" skillLevel="7" chance="12" >
+		 <item id="6907" count="1"/>
+		</product>
+		<product skillId="2228" skillLevel="7" chance="8" >
+		 <item id="6914" count="2"/>
+		</product>
+		<product skillId="2228" skillLevel="7" chance="4" >
+		 <item id="7685" count="1"/>
+		</product>
+		<product skillId="2228" skillLevel="7" chance="4" >
+		 <item id="7698" count="1"/>
+		</product>
+		<product skillId="2228" skillLevel="7" chance="56" >
+		 <item id="-1" count="0"/>
+		</product>
+	</item> <!-- 7804 -->
+	<item id="7805">
+		<product skillId="2228" skillLevel="8" chance="15" >
+		 <item id="6910" count="2"/>
+		</product>
+		<product skillId="2228" skillLevel="8" chance="15" >
+		 <item id="6912" count="8"/>
+		</product>
+		<product skillId="2228" skillLevel="8" chance="7" >
+		 <item id="6905" count="1"/>
+		</product>
+		<product skillId="2228" skillLevel="8" chance="63" >
+		 <item id="-1" count="0"/>
+		</product>
+	</item> <!-- 7805 -->
+	<item id="7806">
+		<product skillId="2228" skillLevel="9" chance="6" >
+		 <item id="6910" count="2"/>
+		</product>
+		<product skillId="2228" skillLevel="9" chance="17" >
+		 <item id="6916" count="4"/>
+		</product>
+		<product skillId="2228" skillLevel="9" chance="13" >
+		 <item id="6906" count="1"/>
+		</product>
+		<product skillId="2228" skillLevel="9" chance="10" >
+		 <item id="7697" count="1"/>
+		</product>
+		<product skillId="2228" skillLevel="9" chance="54" >
+		 <item id="-1" count="0"/>
+		</product>
+	</item> <!-- 7806 -->
+	<item id="8403">
+		<product skillId="2261" skillLevel="1" chance="30" >
+		 <item id="6911" count="2"/>
+		</product>
+		<product skillId="2261" skillLevel="1" chance="21" >
+		 <item id="6913" count="1"/>
+		</product>
+		<product skillId="2261" skillLevel="1" chance="47" >
+		 <item id="8353" count="2"/>
+		</product>
+		<product skillId="2261" skillLevel="1" chance="2" >
+		 <item id="-1" count="0"/>
+		</product>
+	</item> <!-- 8403 -->
+	<item id="8404">
+		<product skillId="2261" skillLevel="2" chance="31" >
+		 <item id="6911" count="2"/>
+		</product>
+		<product skillId="2261" skillLevel="2" chance="20" >
+		 <item id="6913" count="1"/>
+		</product>
+		<product skillId="2261" skillLevel="2" chance="47" >
+		 <item id="8353" count="2"/>
+		</product>
+		<product skillId="2261" skillLevel="2" chance="2" >
+		 <item id="-1" count="0"/>
+		</product>
+	</item> <!-- 8404 -->
+	<item id="8405">
+		<product skillId="2261" skillLevel="3" chance="30" >
+		 <item id="6911" count="2"/>
+		</product>
+		<product skillId="2261" skillLevel="3" chance="20" >
+		 <item id="6913" count="1"/>
+		</product>
+		<product skillId="2261" skillLevel="3" chance="48" >
+		 <item id="8353" count="2"/>
+		</product>
+		<product skillId="2261" skillLevel="3" chance="2" >
+		 <item id="-1" count="0"/>
+		</product>
+	</item> <!-- 8405 -->
+	<item id="8406">
+		<product skillId="2261" skillLevel="4" chance="30" >
+		 <item id="6911" count="2"/>
+		</product>
+		<product skillId="2261" skillLevel="4" chance="20" >
+		 <item id="6913" count="1"/>
+		</product>
+		<product skillId="2261" skillLevel="4" chance="48" >
+		 <item id="8353" count="2"/>
+		</product>
+		<product skillId="2261" skillLevel="4" chance="2" >
+		 <item id="-1" count="0"/>
+		</product>
+	</item> <!-- 8406 -->
+	<item id="8407">
+		<product skillId="2261" skillLevel="5" chance="43" >
+		 <item id="6911" count="2"/>
+		</product>
+		<product skillId="2261" skillLevel="5" chance="24" >
+		 <item id="6913" count="1"/>
+		</product>
+		<product skillId="2261" skillLevel="5" chance="31" >
+		 <item id="8353" count="4"/>
+		</product>
+		<product skillId="2261" skillLevel="5" chance="2" >
+		 <item id="-1" count="0"/>
+		</product>
+	</item> <!-- 8407 -->
+	<item id="8408">
+		<product skillId="2261" skillLevel="6" chance="45" >
+		 <item id="6911" count="2"/>
+		</product>
+		<product skillId="2261" skillLevel="6" chance="24" >
+		 <item id="6913" count="1"/>
+		</product>
+		<product skillId="2261" skillLevel="6" chance="29" >
+		 <item id="8353" count="4"/>
+		</product>
+		<product skillId="2261" skillLevel="6" chance="2" >
+		 <item id="-1" count="0"/>
+		</product>
+	</item> <!-- 8408 -->
+	<item id="8409">
+		<product skillId="2261" skillLevel="7" chance="40" >
+		 <item id="6911" count="2"/>
+		</product>
+		<product skillId="2261" skillLevel="7" chance="26" >
+		 <item id="6913" count="1"/>
+		</product>
+		<product skillId="2261" skillLevel="7" chance="32" >
+		 <item id="8353" count="4"/>
+		</product>
+		<product skillId="2261" skillLevel="7" chance="2" >
+		 <item id="-1" count="0"/>
+		</product>
+	</item> <!-- 8409 -->
+	<item id="8410">
+		<product skillId="2261" skillLevel="8" chance="41" >
+		 <item id="6911" count="2"/>
+		</product>
+		<product skillId="2261" skillLevel="8" chance="26" >
+		 <item id="6913" count="1"/>
+		</product>
+		<product skillId="2261" skillLevel="8" chance="32" >
+		 <item id="8353" count="4"/>
+		</product>
+		<product skillId="2261" skillLevel="8" chance="1" >
+		 <item id="-1" count="0"/>
+		</product>
+	</item> <!-- 8410 -->
+	<item id="8411">
+		<product skillId="2261" skillLevel="9" chance="25" >
+		 <item id="6911" count="4"/>
+		</product>
+		<product skillId="2261" skillLevel="9" chance="29" >
+		 <item id="6913" count="1"/>
+		</product>
+		<product skillId="2261" skillLevel="9" chance="45" >
+		 <item id="8353" count="4"/>
+		</product>
+		<product skillId="2261" skillLevel="9" chance="1" >
+		 <item id="-1" count="0"/>
+		</product>
+	</item> <!-- 8411 -->
+	<item id="8412">
+		<product skillId="2262" skillLevel="1" chance="44" >
+		 <item id="6911" count="2"/>
+		</product>
+		<product skillId="2262" skillLevel="1" chance="31" >
+		 <item id="6913" count="1"/>
+		</product>
+		<product skillId="2262" skillLevel="1" chance="23" >
+		 <item id="8359" count="4"/>
+		</product>
+		<product skillId="2262" skillLevel="1" chance="2" >
+		 <item id="-1" count="0"/>
+		</product>
+	</item> <!-- 8412 -->
+	<item id="8413">
+		<product skillId="2262" skillLevel="2" chance="38" >
+		 <item id="6911" count="2"/>
+		</product>
+		<product skillId="2262" skillLevel="2" chance="31" >
+		 <item id="6913" count="1"/>
+		</product>
+		<product skillId="2262" skillLevel="2" chance="30" >
+		 <item id="8359" count="4"/>
+		</product>
+		<product skillId="2262" skillLevel="2" chance="1" >
+		 <item id="-1" count="0"/>
+		</product>
+	</item> <!-- 8413 -->
+	<item id="8414">
+		<product skillId="2262" skillLevel="3" chance="39" >
+		 <item id="6911" count="2"/>
+		</product>
+		<product skillId="2262" skillLevel="3" chance="26" >
+		 <item id="6913" count="1"/>
+		</product>
+		<product skillId="2262" skillLevel="3" chance="33" >
+		 <item id="8359" count="4"/>
+		</product>
+		<product skillId="2262" skillLevel="3" chance="2" >
+		 <item id="-1" count="0"/>
+		</product>
+	</item> <!-- 8414 -->
+	<item id="8415">
+		<product skillId="2262" skillLevel="4" chance="41" >
+		 <item id="6911" count="2"/>
+		</product>
+		<product skillId="2262" skillLevel="4" chance="26" >
+		 <item id="6913" count="1"/>
+		</product>
+		<product skillId="2262" skillLevel="4" chance="31" >
+		 <item id="8359" count="4"/>
+		</product>
+		<product skillId="2262" skillLevel="4" chance="1" >
+		 <item id="-1" count="0"/>
+		</product>
+	</item> <!-- 8415 -->
+	<item id="8416">
+		<product skillId="2262" skillLevel="5" chance="27" >
+		 <item id="6911" count="4"/>
+		</product>
+		<product skillId="2262" skillLevel="5" chance="39" >
+		 <item id="6913" count="1"/>
+		</product>
+		<product skillId="2262" skillLevel="5" chance="32" >
+		 <item id="8359" count="4"/>
+		</product>
+		<product skillId="2262" skillLevel="5" chance="2" >
+		 <item id="-1" count="0"/>
+		</product>
+	</item> <!-- 8416 -->
+	<item id="8417">
+		<product skillId="2262" skillLevel="6" chance="25" >
+		 <item id="6911" count="4"/>
+		</product>
+		<product skillId="2262" skillLevel="6" chance="39" >
+		 <item id="6913" count="1"/>
+		</product>
+		<product skillId="2262" skillLevel="6" chance="34" >
+		 <item id="8359" count="4"/>
+		</product>
+		<product skillId="2262" skillLevel="6" chance="2" >
+		 <item id="-1" count="0"/>
+		</product>
+	</item> <!-- 8417 -->
+	<item id="8418">
+		<product skillId="2262" skillLevel="7" chance="24" >
+		 <item id="6911" count="4"/>
+		</product>
+		<product skillId="2262" skillLevel="7" chance="37" >
+		 <item id="6913" count="1"/>
+		</product>
+		<product skillId="2262" skillLevel="7" chance="38" >
+		 <item id="8359" count="4"/>
+		</product>
+		<product skillId="2262" skillLevel="7" chance="1" >
+		 <item id="-1" count="0"/>
+		</product>
+	</item> <!-- 8418 -->
+	<item id="8419">
+		<product skillId="2262" skillLevel="8" chance="29" >
+		 <item id="6911" count="4"/>
+		</product>
+		<product skillId="2262" skillLevel="8" chance="33" >
+		 <item id="6913" count="1"/>
+		</product>
+		<product skillId="2262" skillLevel="8" chance="37" >
+		 <item id="8359" count="4"/>
+		</product>
+		<product skillId="2262" skillLevel="8" chance="1" >
+		 <item id="-1" count="0"/>
+		</product>
+	</item> <!-- 8419 -->
+	<item id="8420">
+		<product skillId="2262" skillLevel="9" chance="20" >
+		 <item id="6911" count="4"/>
+		</product>
+		<product skillId="2262" skillLevel="9" chance="35" >
+		 <item id="6913" count="1"/>
+		</product>
+		<product skillId="2262" skillLevel="9" chance="44" >
+		 <item id="8359" count="4"/>
+		</product>
+		<product skillId="2262" skillLevel="9" chance="1" >
+		 <item id="-1" count="0"/>
+		</product>
+	</item> <!-- 8420 -->
+	<item id="8421">
+		<product skillId="2263" skillLevel="1" chance="32" >
+		 <item id="6911" count="4"/>
+		</product>
+		<product skillId="2263" skillLevel="1" chance="41" >
+		 <item id="6913" count="1"/>
+		</product>
+		<product skillId="2263" skillLevel="1" chance="25" >
+		 <item id="8355" count="4"/>
+		</product>
+		<product skillId="2263" skillLevel="1" chance="2" >
+		 <item id="-1" count="0"/>
+		</product>
+	</item> <!-- 8421 -->
+	<item id="8422">
+		<product skillId="2263" skillLevel="2" chance="22" >
+		 <item id="6911" count="4"/>
+		</product>
+		<product skillId="2263" skillLevel="2" chance="45" >
+		 <item id="6913" count="1"/>
+		</product>
+		<product skillId="2263" skillLevel="2" chance="32" >
+		 <item id="8355" count="4"/>
+		</product>
+		<product skillId="2263" skillLevel="2" chance="1" >
+		 <item id="-1" count="0"/>
+		</product>
+	</item> <!-- 8422 -->
+	<item id="8423">
+		<product skillId="2263" skillLevel="3" chance="40" >
+		 <item id="6911" count="4"/>
+		</product>
+		<product skillId="2263" skillLevel="3" chance="35" >
+		 <item id="6913" count="1"/>
+		</product>
+		<product skillId="2263" skillLevel="3" chance="23" >
+		 <item id="8355" count="4"/>
+		</product>
+		<product skillId="2263" skillLevel="3" chance="2" >
+		 <item id="-1" count="0"/>
+		</product>
+	</item> <!-- 8423 -->
+	<item id="8424">
+		<product skillId="2263" skillLevel="4" chance="31" >
+		 <item id="6911" count="4"/>
+		</product>
+		<product skillId="2263" skillLevel="4" chance="35" >
+		 <item id="6913" count="1"/>
+		</product>
+		<product skillId="2263" skillLevel="4" chance="32" >
+		 <item id="8355" count="4"/>
+		</product>
+		<product skillId="2263" skillLevel="4" chance="2" >
+		 <item id="-1" count="0"/>
+		</product>
+	</item> <!-- 8424 -->
+	<item id="8425">
+		<product skillId="2263" skillLevel="5" chance="35" >
+		 <item id="6911" count="4"/>
+		</product>
+		<product skillId="2263" skillLevel="5" chance="38" >
+		 <item id="6913" count="1"/>
+		</product>
+		<product skillId="2263" skillLevel="5" chance="25" >
+		 <item id="8355" count="4"/>
+		</product>
+		<product skillId="2263" skillLevel="5" chance="2" >
+		 <item id="-1" count="0"/>
+		</product>
+	</item> <!-- 8425 -->
+	<item id="8426">
+		<product skillId="2263" skillLevel="6" chance="34" >
+		 <item id="6911" count="4"/>
+		</product>
+		<product skillId="2263" skillLevel="6" chance="42" >
+		 <item id="6913" count="1"/>
+		</product>
+		<product skillId="2263" skillLevel="6" chance="22" >
+		 <item id="8355" count="4"/>
+		</product>
+		<product skillId="2263" skillLevel="6" chance="2" >
+		 <item id="-1" count="0"/>
+		</product>
+	</item> <!-- 8426 -->
+	<item id="8427">
+		<product skillId="2263" skillLevel="7" chance="29" >
+		 <item id="6911" count="4"/>
+		</product>
+		<product skillId="2263" skillLevel="7" chance="37" >
+		 <item id="6913" count="1"/>
+		</product>
+		<product skillId="2263" skillLevel="7" chance="33" >
+		 <item id="8355" count="4"/>
+		</product>
+		<product skillId="2263" skillLevel="7" chance="1" >
+		 <item id="-1" count="0"/>
+		</product>
+	</item> <!-- 8427 -->
+	<item id="8428">
+		<product skillId="2263" skillLevel="8" chance="24" >
+		 <item id="6911" count="4"/>
+		</product>
+		<product skillId="2263" skillLevel="8" chance="45" >
+		 <item id="6913" count="1"/>
+		</product>
+		<product skillId="2263" skillLevel="8" chance="29" >
+		 <item id="8355" count="4"/>
+		</product>
+		<product skillId="2263" skillLevel="8" chance="2" >
+		 <item id="-1" count="0"/>
+		</product>
+	</item> <!-- 8428 -->
+	<item id="8429">
+		<product skillId="2263" skillLevel="9" chance="33" >
+		 <item id="6911" count="4"/>
+		</product>
+		<product skillId="2263" skillLevel="9" chance="45" >
+		 <item id="6913" count="1"/>
+		</product>
+		<product skillId="2263" skillLevel="9" chance="21" >
+		 <item id="8355" count="4"/>
+		</product>
+		<product skillId="2263" skillLevel="9" chance="1" >
+		 <item id="-1" count="0"/>
+		</product>
+	</item> <!-- 8429 -->
+	<item id="8430">
+		<product skillId="2264" skillLevel="1" chance="39" >
+		 <item id="6911" count="4"/>
+		</product>
+		<product skillId="2264" skillLevel="1" chance="35" >
+		 <item id="6913" count="1"/>
+		</product>
+		<product skillId="2264" skillLevel="1" chance="25" >
+		 <item id="8354" count="2"/>
+		</product>
+		<product skillId="2264" skillLevel="1" chance="1" >
+		 <item id="-1" count="0"/>
+		</product>
+	</item> <!-- 8430 -->
+	<item id="8431">
+		<product skillId="2264" skillLevel="2" chance="35" >
+		 <item id="6911" count="4"/>
+		</product>
+		<product skillId="2264" skillLevel="2" chance="36" >
+		 <item id="6913" count="1"/>
+		</product>
+		<product skillId="2264" skillLevel="2" chance="28" >
+		 <item id="8354" count="2"/>
+		</product>
+		<product skillId="2264" skillLevel="2" chance="1" >
+		 <item id="-1" count="0"/>
+		</product>
+	</item> <!-- 8431 -->
+	<item id="8432">
+		<product skillId="2264" skillLevel="3" chance="37" >
+		 <item id="6911" count="4"/>
+		</product>
+		<product skillId="2264" skillLevel="3" chance="33" >
+		 <item id="6913" count="1"/>
+		</product>
+		<product skillId="2264" skillLevel="3" chance="28" >
+		 <item id="8354" count="2"/>
+		</product>
+		<product skillId="2264" skillLevel="3" chance="2" >
+		 <item id="-1" count="0"/>
+		</product>
+	</item> <!-- 8432 -->
+	<item id="8433">
+		<product skillId="2264" skillLevel="4" chance="25" >
+		 <item id="6911" count="8"/>
+		</product>
+		<product skillId="2264" skillLevel="4" chance="25" >
+		 <item id="6913" count="2"/>
+		</product>
+		<product skillId="2264" skillLevel="4" chance="45" >
+		 <item id="8354" count="2"/>
+		</product>
+		<product skillId="2264" skillLevel="4" chance="5" >
+		 <item id="-1" count="0"/>
+		</product>
+	</item> <!-- 8433 -->
+	<item id="8434">
+		<product skillId="2264" skillLevel="5" chance="29" >
+		 <item id="6911" count="8"/>
+		</product>
+		<product skillId="2264" skillLevel="5" chance="28" >
+		 <item id="6913" count="2"/>
+		</product>
+		<product skillId="2264" skillLevel="5" chance="42" >
+		 <item id="8354" count="2"/>
+		</product>
+		<product skillId="2264" skillLevel="5" chance="1" >
+		 <item id="-1" count="0"/>
+		</product>
+	</item> <!-- 8434 -->
+	<item id="8435">
+		<product skillId="2264" skillLevel="6" chance="31" >
+		 <item id="6911" count="8"/>
+		</product>
+		<product skillId="2264" skillLevel="6" chance="25" >
+		 <item id="6913" count="2"/>
+		</product>
+		<product skillId="2264" skillLevel="6" chance="43" >
+		 <item id="8354" count="2"/>
+		</product>
+		<product skillId="2264" skillLevel="6" chance="1" >
+		 <item id="-1" count="0"/>
+		</product>
+	</item> <!-- 8435 -->
+	<item id="8436">
+		<product skillId="2264" skillLevel="7" chance="32" >
+		 <item id="6911" count="8"/>
+		</product>
+		<product skillId="2264" skillLevel="7" chance="24" >
+		 <item id="6913" count="2"/>
+		</product>
+		<product skillId="2264" skillLevel="7" chance="42" >
+		 <item id="8354" count="2"/>
+		</product>
+		<product skillId="2264" skillLevel="7" chance="2" >
+		 <item id="-1" count="0"/>
+		</product>
+	</item> <!-- 8436 -->
+	<item id="8437">
+		<product skillId="2264" skillLevel="8" chance="26" >
+		 <item id="6911" count="8"/>
+		</product>
+		<product skillId="2264" skillLevel="8" chance="29" >
+		 <item id="6913" count="2"/>
+		</product>
+		<product skillId="2264" skillLevel="8" chance="43" >
+		 <item id="8354" count="2"/>
+		</product>
+		<product skillId="2264" skillLevel="8" chance="2" >
+		 <item id="-1" count="0"/>
+		</product>
+	</item> <!-- 8437 -->
+	<item id="8438">
+		<product skillId="2264" skillLevel="9" chance="25" >
+		 <item id="6911" count="8"/>
+		</product>
+		<product skillId="2264" skillLevel="9" chance="31" >
+		 <item id="6913" count="2"/>
+		</product>
+		<product skillId="2264" skillLevel="9" chance="43" >
+		 <item id="8354" count="2"/>
+		</product>
+		<product skillId="2264" skillLevel="9" chance="1" >
+		 <item id="-1" count="0"/>
+		</product>
+	</item> <!-- 8438 -->
+	<item id="8439">
+		<product skillId="2265" skillLevel="1" chance="30" >
+		 <item id="6911" count="8"/>
+		</product>
+		<product skillId="2265" skillLevel="1" chance="38" >
+		 <item id="6913" count="2"/>
+		</product>
+		<product skillId="2265" skillLevel="1" chance="30" >
+		 <item id="8357" count="2"/>
+		</product>
+		<product skillId="2265" skillLevel="1" chance="2" >
+		 <item id="-1" count="0"/>
+		</product>
+	</item> <!-- 8439 -->
+	<item id="8440">
+		<product skillId="2265" skillLevel="2" chance="29" >
+		 <item id="6911" count="8"/>
+		</product>
+		<product skillId="2265" skillLevel="2" chance="41" >
+		 <item id="6913" count="2"/>
+		</product>
+		<product skillId="2265" skillLevel="2" chance="29" >
+		 <item id="8357" count="2"/>
+		</product>
+		<product skillId="2265" skillLevel="2" chance="1" >
+		 <item id="-1" count="0"/>
+		</product>
+	</item> <!-- 8440 -->
+	<item id="8441">
+		<product skillId="2265" skillLevel="3" chance="28" >
+		 <item id="6911" count="8"/>
+		</product>
+		<product skillId="2265" skillLevel="3" chance="39" >
+		 <item id="6913" count="2"/>
+		</product>
+		<product skillId="2265" skillLevel="3" chance="32" >
+		 <item id="8357" count="2"/>
+		</product>
+		<product skillId="2265" skillLevel="3" chance="1" >
+		 <item id="-1" count="0"/>
+		</product>
+	</item> <!-- 8441 -->
+	<item id="8442">
+		<product skillId="2265" skillLevel="4" chance="37" >
+		 <item id="6912" count="4"/>
+		</product>
+		<product skillId="2265" skillLevel="4" chance="36" >
+		 <item id="6914" count="1"/>
+		</product>
+		<product skillId="2265" skillLevel="4" chance="26" >
+		 <item id="8357" count="4"/>
+		</product>
+		<product skillId="2265" skillLevel="4" chance="1" >
+		 <item id="-1" count="0"/>
+		</product>
+	</item> <!-- 8442 -->
+	<item id="8443">
+		<product skillId="2265" skillLevel="5" chance="35" >
+		 <item id="6912" count="4"/>
+		</product>
+		<product skillId="2265" skillLevel="5" chance="29" >
+		 <item id="6914" count="1"/>
+		</product>
+		<product skillId="2265" skillLevel="5" chance="29" >
+		 <item id="8357" count="4"/>
+		</product>
+		<product skillId="2265" skillLevel="5" chance="5" >
+		 <item id="8377" count="1"/>
+		</product>
+		<product skillId="2265" skillLevel="5" chance="2" >
+		 <item id="-1" count="0"/>
+		</product>
+	</item> <!-- 8443 -->
+	<item id="8444">
+		<product skillId="2265" skillLevel="6" chance="28" >
+		 <item id="6912" count="4"/>
+		</product>
+		<product skillId="2265" skillLevel="6" chance="32" >
+		 <item id="6914" count="1"/>
+		</product>
+		<product skillId="2265" skillLevel="6" chance="30" >
+		 <item id="8357" count="4"/>
+		</product>
+		<product skillId="2265" skillLevel="6" chance="8" >
+		 <item id="8378" count="1"/>
+		</product>
+		<product skillId="2265" skillLevel="6" chance="2" >
+		 <item id="-1" count="0"/>
+		</product>
+	</item> <!-- 8444 -->
+	<item id="8445">
+		<product skillId="2265" skillLevel="7" chance="33" >
+		 <item id="6912" count="4"/>
+		</product>
+		<product skillId="2265" skillLevel="7" chance="40" >
+		 <item id="6914" count="1"/>
+		</product>
+		<product skillId="2265" skillLevel="7" chance="25" >
+		 <item id="8357" count="4"/>
+		</product>
+		<product skillId="2265" skillLevel="7" chance="2" >
+		 <item id="-1" count="0"/>
+		</product>
+	</item> <!-- 8445 -->
+	<item id="8446">
+		<product skillId="2265" skillLevel="8" chance="35" >
+		 <item id="6912" count="4"/>
+		</product>
+		<product skillId="2265" skillLevel="8" chance="31" >
+		 <item id="6914" count="1"/>
+		</product>
+		<product skillId="2265" skillLevel="8" chance="27" >
+		 <item id="8357" count="4"/>
+		</product>
+		<product skillId="2265" skillLevel="8" chance="6" >
+		 <item id="8377" count="1"/>
+		</product>
+		<product skillId="2265" skillLevel="8" chance="1" >
+		 <item id="-1" count="0"/>
+		</product>
+	</item> <!-- 8446 -->
+	<item id="8447">
+		<product skillId="2265" skillLevel="9" chance="27" >
+		 <item id="6912" count="4"/>
+		</product>
+		<product skillId="2265" skillLevel="9" chance="28" >
+		 <item id="6914" count="1"/>
+		</product>
+		<product skillId="2265" skillLevel="9" chance="32" >
+		 <item id="8357" count="4"/>
+		</product>
+		<product skillId="2265" skillLevel="9" chance="10" >
+		 <item id="8378" count="1"/>
+		</product>
+		<product skillId="2265" skillLevel="9" chance="3" >
+		 <item id="-1" count="0"/>
+		</product>
+	</item> <!-- 8447 -->
+	<item id="8448">
+		<product skillId="2266" skillLevel="1" chance="21" >
+		 <item id="6912" count="8"/>
+		</product>
+		<product skillId="2266" skillLevel="1" chance="40" >
+		 <item id="6914" count="1"/>
+		</product>
+		<product skillId="2266" skillLevel="1" chance="37" >
+		 <item id="8358" count="2"/>
+		</product>
+		<product skillId="2266" skillLevel="1" chance="2" >
+		 <item id="-1" count="0"/>
+		</product>
+	</item> <!-- 8448 -->
+	<item id="8449">
+		<product skillId="2266" skillLevel="2" chance="20" >
+		 <item id="6912" count="8"/>
+		</product>
+		<product skillId="2266" skillLevel="2" chance="34" >
+		 <item id="6914" count="1"/>
+		</product>
+		<product skillId="2266" skillLevel="2" chance="36" >
+		 <item id="8358" count="2"/>
+		</product>
+		<product skillId="2266" skillLevel="2" chance="9" >
+		 <item id="8377" count="1"/>
+		</product>
+		<product skillId="2266" skillLevel="2" chance="1" >
+		 <item id="-1" count="0"/>
+		</product>
+	</item> <!-- 8449 -->
+	<item id="8450">
+		<product skillId="2266" skillLevel="3" chance="20" >
+		 <item id="6912" count="8"/>
+		</product>
+		<product skillId="2266" skillLevel="3" chance="31" >
+		 <item id="6914" count="1"/>
+		</product>
+		<product skillId="2266" skillLevel="3" chance="39" >
+		 <item id="8358" count="2"/>
+		</product>
+		<product skillId="2266" skillLevel="3" chance="8" >
+		 <item id="8378" count="1"/>
+		</product>
+		<product skillId="2266" skillLevel="3" chance="2" >
+		 <item id="-1" count="0"/>
+		</product>
+	</item> <!-- 8450 -->
+	<item id="8451">
+		<product skillId="2266" skillLevel="4" chance="28" >
+		 <item id="6912" count="8"/>
+		</product>
+		<product skillId="2266" skillLevel="4" chance="36" >
+		 <item id="6914" count="1"/>
+		</product>
+		<product skillId="2266" skillLevel="4" chance="34" >
+		 <item id="8358" count="2"/>
+		</product>
+		<product skillId="2266" skillLevel="4" chance="2" >
+		 <item id="-1" count="0"/>
+		</product>
+	</item> <!-- 8451 -->
+	<item id="8452">
+		<product skillId="2266" skillLevel="5" chance="25" >
+		 <item id="6912" count="8"/>
+		</product>
+		<product skillId="2266" skillLevel="5" chance="28" >
+		 <item id="6914" count="1"/>
+		</product>
+		<product skillId="2266" skillLevel="5" chance="38" >
+		 <item id="8358" count="2"/>
+		</product>
+		<product skillId="2266" skillLevel="5" chance="8" >
+		 <item id="8377" count="1"/>
+		</product>
+		<product skillId="2266" skillLevel="5" chance="1" >
+		 <item id="-1" count="0"/>
+		</product>
+	</item> <!-- 8452 -->
+	<item id="8453">
+		<product skillId="2266" skillLevel="6" chance="39" >
+		 <item id="6912" count="8"/>
+		</product>
+		<product skillId="2266" skillLevel="6" chance="26" >
+		 <item id="6914" count="1"/>
+		</product>
+		<product skillId="2266" skillLevel="6" chance="23" >
+		 <item id="8358" count="4"/>
+		</product>
+		<product skillId="2266" skillLevel="6" chance="10" >
+		 <item id="8378" count="1"/>
+		</product>
+		<product skillId="2266" skillLevel="6" chance="2" >
+		 <item id="-1" count="0"/>
+		</product>
+	</item> <!-- 8453 -->
+	<item id="8454">
+		<product skillId="2266" skillLevel="7" chance="34" >
+		 <item id="6912" count="9"/>
+		</product>
+		<product skillId="2266" skillLevel="7" chance="30" >
+		 <item id="6914" count="2"/>
+		</product>
+		<product skillId="2266" skillLevel="7" chance="34" >
+		 <item id="8358" count="4"/>
+		</product>
+		<product skillId="2266" skillLevel="7" chance="2" >
+		 <item id="-1" count="0"/>
+		</product>
+	</item> <!-- 8454 -->
+	<item id="8455">
+		<product skillId="2266" skillLevel="8" chance="32" >
+		 <item id="6912" count="8"/>
+		</product>
+		<product skillId="2266" skillLevel="8" chance="26" >
+		 <item id="6914" count="2"/>
+		</product>
+		<product skillId="2266" skillLevel="8" chance="28" >
+		 <item id="8358" count="4"/>
+		</product>
+		<product skillId="2266" skillLevel="8" chance="12" >
+		 <item id="8377" count="1"/>
+		</product>
+		<product skillId="2266" skillLevel="8" chance="2" >
+		 <item id="-1" count="0"/>
+		</product>
+	</item> <!-- 8455 -->
+	<item id="8456">
+		<product skillId="2266" skillLevel="9" chance="35" >
+		 <item id="6912" count="8"/>
+		</product>
+		<product skillId="2266" skillLevel="9" chance="24" >
+		 <item id="6914" count="2"/>
+		</product>
+		<product skillId="2266" skillLevel="9" chance="27" >
+		 <item id="8358" count="4"/>
+		</product>
+		<product skillId="2266" skillLevel="9" chance="11" >
+		 <item id="8378" count="1"/>
+		</product>
+		<product skillId="2266" skillLevel="9" chance="3" >
+		 <item id="-1" count="0"/>
+		</product>
+	</item> <!-- 8456 -->
+	<item id="8457">
+		<product skillId="2267" skillLevel="1" chance="33" >
+		 <item id="6912" count="9"/>
+		</product>
+		<product skillId="2267" skillLevel="1" chance="35" >
+		 <item id="6914" count="2"/>
+		</product>
+		<product skillId="2267" skillLevel="1" chance="31" >
+		 <item id="8352" count="4"/>
+		</product>
+		<product skillId="2267" skillLevel="1" chance="1" >
+		 <item id="-1" count="0"/>
+		</product>
+	</item> <!-- 8457 -->
+	<item id="8458">
+		<product skillId="2267" skillLevel="2" chance="29" >
+		 <item id="6912" count="9"/>
+		</product>
+		<product skillId="2267" skillLevel="2" chance="30" >
+		 <item id="6914" count="2"/>
+		</product>
+		<product skillId="2267" skillLevel="2" chance="27" >
+		 <item id="8352" count="4"/>
+		</product>
+		<product skillId="2267" skillLevel="2" chance="12" >
+		 <item id="8377" count="1"/>
+		</product>
+		<product skillId="2267" skillLevel="2" chance="2" >
+		 <item id="-1" count="0"/>
+		</product>
+	</item> <!-- 8458 -->
+	<item id="8459">
+		<product skillId="2267" skillLevel="3" chance="28" >
+		 <item id="6912" count="9"/>
+		</product>
+		<product skillId="2267" skillLevel="3" chance="27" >
+		 <item id="6914" count="2"/>
+		</product>
+		<product skillId="2267" skillLevel="3" chance="31" >
+		 <item id="8352" count="4"/>
+		</product>
+		<product skillId="2267" skillLevel="3" chance="12" >
+		 <item id="8378" count="1"/>
+		</product>
+		<product skillId="2267" skillLevel="3" chance="2" >
+		 <item id="-1" count="0"/>
+		</product>
+	</item> <!-- 8459 -->
+	<item id="8460">
+		<product skillId="2267" skillLevel="4" chance="41" >
+		 <item id="6912" count="8"/>
+		</product>
+		<product skillId="2267" skillLevel="4" chance="27" >
+		 <item id="6914" count="2"/>
+		</product>
+		<product skillId="2267" skillLevel="4" chance="26" >
+		 <item id="8352" count="4"/>
+		</product>
+		<product skillId="2267" skillLevel="4" chance="4" >
+		 <item id="8373" count="1"/>
+		</product>
+		<product skillId="2267" skillLevel="4" chance="2" >
+		 <item id="-1" count="0"/>
+		</product>
+	</item> <!-- 8460 -->
+	<item id="8461">
+		<product skillId="2267" skillLevel="5" chance="35" >
+		 <item id="6912" count="8"/>
+		</product>
+		<product skillId="2267" skillLevel="5" chance="27" >
+		 <item id="6914" count="2"/>
+		</product>
+		<product skillId="2267" skillLevel="5" chance="22" >
+		 <item id="8352" count="4"/>
+		</product>
+		<product skillId="2267" skillLevel="5" chance="2" >
+		 <item id="8374" count="1"/>
+		</product>
+		<product skillId="2267" skillLevel="5" chance="12" >
+		 <item id="8377" count="1"/>
+		</product>
+		<product skillId="2267" skillLevel="5" chance="2" >
+		 <item id="-1" count="0"/>
+		</product>
+	</item> <!-- 8461 -->
+	<item id="8462">
+		<product skillId="2267" skillLevel="6" chance="32" >
+		 <item id="6912" count="8"/>
+		</product>
+		<product skillId="2267" skillLevel="6" chance="25" >
+		 <item id="6914" count="2"/>
+		</product>
+		<product skillId="2267" skillLevel="6" chance="25" >
+		 <item id="8352" count="4"/>
+		</product>
+		<product skillId="2267" skillLevel="6" chance="4" >
+		 <item id="8375" count="1"/>
+		</product>
+		<product skillId="2267" skillLevel="6" chance="11" >
+		 <item id="8378" count="1"/>
+		</product>
+		<product skillId="2267" skillLevel="6" chance="3" >
+		 <item id="-1" count="0"/>
+		</product>
+	</item> <!-- 8462 -->
+	<item id="8463">
+		<product skillId="2267" skillLevel="7" chance="29" >
+		 <item id="6912" count="9"/>
+		</product>
+		<product skillId="2267" skillLevel="7" chance="36" >
+		 <item id="6914" count="2"/>
+		</product>
+		<product skillId="2267" skillLevel="7" chance="30" >
+		 <item id="8352" count="4"/>
+		</product>
+		<product skillId="2267" skillLevel="7" chance="3" >
+		 <item id="8373" count="1"/>
+		</product>
+		<product skillId="2267" skillLevel="7" chance="2" >
+		 <item id="-1" count="0"/>
+		</product>
+	</item> <!-- 8463 -->
+	<item id="8464">
+		<product skillId="2267" skillLevel="8" chance="25" >
+		 <item id="6912" count="9"/>
+		</product>
+		<product skillId="2267" skillLevel="8" chance="29" >
+		 <item id="6914" count="2"/>
+		</product>
+		<product skillId="2267" skillLevel="8" chance="29" >
+		 <item id="8352" count="4"/>
+		</product>
+		<product skillId="2267" skillLevel="8" chance="2" >
+		 <item id="8374" count="1"/>
+		</product>
+		<product skillId="2267" skillLevel="8" chance="12" >
+		 <item id="8377" count="1"/>
+		</product>
+		<product skillId="2267" skillLevel="8" chance="3" >
+		 <item id="-1" count="0"/>
+		</product>
+	</item> <!-- 8464 -->
+	<item id="8465">
+		<product skillId="2267" skillLevel="9" chance="26" >
+		 <item id="6912" count="9"/>
+		</product>
+		<product skillId="2267" skillLevel="9" chance="30" >
+		 <item id="6914" count="2"/>
+		</product>
+		<product skillId="2267" skillLevel="9" chance="25" >
+		 <item id="8352" count="4"/>
+		</product>
+		<product skillId="2267" skillLevel="9" chance="2" >
+		 <item id="8375" count="1"/>
+		</product>
+		<product skillId="2267" skillLevel="9" chance="15" >
+		 <item id="8378" count="1"/>
+		</product>
+		<product skillId="2267" skillLevel="9" chance="2" >
+		 <item id="-1" count="0"/>
+		</product>
+	</item> <!-- 8465 -->
+	<item id="8466">
+		<product skillId="2268" skillLevel="1" chance="28" >
+		 <item id="6912" count="9"/>
+		</product>
+		<product skillId="2268" skillLevel="1" chance="38" >
+		 <item id="6914" count="2"/>
+		</product>
+		<product skillId="2268" skillLevel="1" chance="29" >
+		 <item id="8356" count="4"/>
+		</product>
+		<product skillId="2268" skillLevel="1" chance="3" >
+		 <item id="8373" count="1"/>
+		</product>
+		<product skillId="2268" skillLevel="1" chance="2" >
+		 <item id="-1" count="0"/>
+		</product>
+	</item> <!-- 8466 -->
+	<item id="8467">
+		<product skillId="2268" skillLevel="2" chance="24" >
+		 <item id="6912" count="9"/>
+		</product>
+		<product skillId="2268" skillLevel="2" chance="29" >
+		 <item id="6914" count="2"/>
+		</product>
+		<product skillId="2268" skillLevel="2" chance="24" >
+		 <item id="8356" count="4"/>
+		</product>
+		<product skillId="2268" skillLevel="2" chance="4" >
+		 <item id="8374" count="1"/>
+		</product>
+		<product skillId="2268" skillLevel="2" chance="16" >
+		 <item id="8377" count="1"/>
+		</product>
+		<product skillId="2268" skillLevel="2" chance="3" >
+		 <item id="-1" count="0"/>
+		</product>
+	</item> <!-- 8467 -->
+	<item id="8468">
+		<product skillId="2268" skillLevel="3" chance="29" >
+		 <item id="6912" count="9"/>
+		</product>
+		<product skillId="2268" skillLevel="3" chance="32" >
+		 <item id="6914" count="2"/>
+		</product>
+		<product skillId="2268" skillLevel="3" chance="26" >
+		 <item id="8356" count="4"/>
+		</product>
+		<product skillId="2268" skillLevel="3" chance="3" >
+		 <item id="8375" count="1"/>
+		</product>
+		<product skillId="2268" skillLevel="3" chance="9" >
+		 <item id="8378" count="1"/>
+		</product>
+		<product skillId="2268" skillLevel="3" chance="1" >
+		 <item id="-1" count="0"/>
+		</product>
+	</item> <!-- 8468 -->
+	<item id="8469">
+		<product skillId="2268" skillLevel="4" chance="30" >
+		 <item id="6912" count="9"/>
+		</product>
+		<product skillId="2268" skillLevel="4" chance="35" >
+		 <item id="6914" count="2"/>
+		</product>
+		<product skillId="2268" skillLevel="4" chance="27" >
+		 <item id="8356" count="4"/>
+		</product>
+		<product skillId="2268" skillLevel="4" chance="5" >
+		 <item id="8373" count="1"/>
+		</product>
+		<product skillId="2268" skillLevel="4" chance="3" >
+		 <item id="-1" count="0"/>
+		</product>
+	</item> <!-- 8469 -->
+	<item id="8470">
+		<product skillId="2268" skillLevel="5" chance="27" >
+		 <item id="6912" count="9"/>
+		</product>
+		<product skillId="2268" skillLevel="5" chance="29" >
+		 <item id="6914" count="2"/>
+		</product>
+		<product skillId="2268" skillLevel="5" chance="22" >
+		 <item id="8356" count="4"/>
+		</product>
+		<product skillId="2268" skillLevel="5" chance="3" >
+		 <item id="8374" count="1"/>
+		</product>
+		<product skillId="2268" skillLevel="5" chance="17" >
+		 <item id="8377" count="1"/>
+		</product>
+		<product skillId="2268" skillLevel="5" chance="2" >
+		 <item id="-1" count="0"/>
+		</product>
+	</item> <!-- 8470 -->
+	<item id="8471">
+		<product skillId="2268" skillLevel="6" chance="27" >
+		 <item id="6912" count="9"/>
+		</product>
+		<product skillId="2268" skillLevel="6" chance="30" >
+		 <item id="6914" count="2"/>
+		</product>
+		<product skillId="2268" skillLevel="6" chance="23" >
+		 <item id="8356" count="4"/>
+		</product>
+		<product skillId="2268" skillLevel="6" chance="4" >
+		 <item id="8375" count="1"/>
+		</product>
+		<product skillId="2268" skillLevel="6" chance="15" >
+		 <item id="8378" count="1"/>
+		</product>
+		<product skillId="2268" skillLevel="6" chance="1" >
+		 <item id="-1" count="0"/>
+		</product>
+	</item> <!-- 8471 -->
+	<item id="8472">
+		<product skillId="2268" skillLevel="7" chance="33" >
+		 <item id="6912" count="9"/>
+		</product>
+		<product skillId="2268" skillLevel="7" chance="37" >
+		 <item id="6914" count="2"/>
+		</product>
+		<product skillId="2268" skillLevel="7" chance="26" >
+		 <item id="8356" count="4"/>
+		</product>
+		<product skillId="2268" skillLevel="7" chance="2" >
+		 <item id="8373" count="1"/>
+		</product>
+		<product skillId="2268" skillLevel="7" chance="2" >
+		 <item id="-1" count="0"/>
+		</product>
+	</item> <!-- 8472 -->
+	<item id="8473">
+		<product skillId="2268" skillLevel="8" chance="29" >
+		 <item id="6912" count="9"/>
+		</product>
+		<product skillId="2268" skillLevel="8" chance="29" >
+		 <item id="6914" count="2"/>
+		</product>
+		<product skillId="2268" skillLevel="8" chance="20" >
+		 <item id="8356" count="4"/>
+		</product>
+		<product skillId="2268" skillLevel="8" chance="3" >
+		 <item id="8374" count="1"/>
+		</product>
+		<product skillId="2268" skillLevel="8" chance="16" >
+		 <item id="8377" count="1"/>
+		</product>
+		<product skillId="2268" skillLevel="8" chance="3" >
+		 <item id="-1" count="0"/>
+		</product>
+	</item> <!-- 8473 -->
+	<item id="8474">
+		<product skillId="2268" skillLevel="9" chance="25" >
+		 <item id="6912" count="9"/>
+		</product>
+		<product skillId="2268" skillLevel="9" chance="29" >
+		 <item id="6914" count="2"/>
+		</product>
+		<product skillId="2268" skillLevel="9" chance="27" >
+		 <item id="8356" count="4"/>
+		</product>
+		<product skillId="2268" skillLevel="9" chance="3" >
+		 <item id="8375" count="1"/>
+		</product>
+		<product skillId="2268" skillLevel="9" chance="14" >
+		 <item id="8378" count="1"/>
+		</product>
+		<product skillId="2268" skillLevel="9" chance="2" >
+		 <item id="-1" count="0"/>
+		</product>
+	</item> <!-- 8474 -->
+	<item id="8475">
+		<product skillId="2269" skillLevel="1" chance="31" >
+		 <item id="6912" count="9"/>
+		</product>
+		<product skillId="2269" skillLevel="1" chance="38" >
+		 <item id="6914" count="2"/>
+		</product>
+		<product skillId="2269" skillLevel="1" chance="25" >
+		 <item id="8351" count="4"/>
+		</product>
+		<product skillId="2269" skillLevel="1" chance="4" >
+		 <item id="8373" count="1"/>
+		</product>
+		<product skillId="2269" skillLevel="1" chance="2" >
+		 <item id="-1" count="0"/>
+		</product>
+	</item> <!-- 8475 -->
+	<item id="8476">
+		<product skillId="2269" skillLevel="2" chance="30" >
+		 <item id="6912" count="9"/>
+		</product>
+		<product skillId="2269" skillLevel="2" chance="22" >
+		 <item id="6914" count="4"/>
+		</product>
+		<product skillId="2269" skillLevel="2" chance="25" >
+		 <item id="8351" count="4"/>
+		</product>
+		<product skillId="2269" skillLevel="2" chance="5" >
+		 <item id="8374" count="1"/>
+		</product>
+		<product skillId="2269" skillLevel="2" chance="16" >
+		 <item id="8377" count="1"/>
+		</product>
+		<product skillId="2269" skillLevel="2" chance="2" >
+		 <item id="-1" count="0"/>
+		</product>
+	</item> <!-- 8476 -->
+	<item id="8477">
+		<product skillId="2269" skillLevel="3" chance="33" >
+		 <item id="6912" count="9"/>
+		</product>
+		<product skillId="2269" skillLevel="3" chance="17" >
+		 <item id="6914" count="4"/>
+		</product>
+		<product skillId="2269" skillLevel="3" chance="26" >
+		 <item id="8351" count="4"/>
+		</product>
+		<product skillId="2269" skillLevel="3" chance="4" >
+		 <item id="8375" count="1"/>
+		</product>
+		<product skillId="2269" skillLevel="3" chance="17" >
+		 <item id="8378" count="1"/>
+		</product>
+		<product skillId="2269" skillLevel="3" chance="3" >
+		 <item id="-1" count="0"/>
+		</product>
+	</item> <!-- 8477 -->
+	<item id="8478">
+		<product skillId="2269" skillLevel="4" chance="27" >
+		 <item id="6912" count="18"/>
+		</product>
+		<product skillId="2269" skillLevel="4" chance="24" >
+		 <item id="6914" count="4"/>
+		</product>
+		<product skillId="2269" skillLevel="4" chance="42" >
+		 <item id="8351" count="4"/>
+		</product>
+		<product skillId="2269" skillLevel="4" chance="5" >
+		 <item id="8373" count="1"/>
+		</product>
+		<product skillId="2269" skillLevel="4" chance="2" >
+		 <item id="-1" count="0"/>
+		</product>
+	</item> <!-- 8478 -->
+	<item id="8479">
+		<product skillId="2269" skillLevel="5" chance="15" >
+		 <item id="6912" count="18"/>
+		</product>
+		<product skillId="2269" skillLevel="5" chance="23" >
+		 <item id="6914" count="4"/>
+		</product>
+		<product skillId="2269" skillLevel="5" chance="29" >
+		 <item id="8351" count="4"/>
+		</product>
+		<product skillId="2269" skillLevel="5" chance="6" >
+		 <item id="8374" count="1"/>
+		</product>
+		<product skillId="2269" skillLevel="5" chance="25" >
+		 <item id="8377" count="1"/>
+		</product>
+		<product skillId="2269" skillLevel="5" chance="2" >
+		 <item id="-1" count="0"/>
+		</product>
+	</item> <!-- 8479 -->
+	<item id="8480">
+		<product skillId="2269" skillLevel="6" chance="19" >
+		 <item id="6912" count="18"/>
+		</product>
+		<product skillId="2269" skillLevel="6" chance="22" >
+		 <item id="6914" count="4"/>
+		</product>
+		<product skillId="2269" skillLevel="6" chance="31" >
+		 <item id="8351" count="4"/>
+		</product>
+		<product skillId="2269" skillLevel="6" chance="5" >
+		 <item id="8375" count="1"/>
+		</product>
+		<product skillId="2269" skillLevel="6" chance="21" >
+		 <item id="8378" count="1"/>
+		</product>
+		<product skillId="2269" skillLevel="6" chance="2" >
+		 <item id="-1" count="0"/>
+		</product>
+	</item> <!-- 8480 -->
+	<item id="8481">
+		<product skillId="2269" skillLevel="7" chance="31" >
+		 <item id="6912" count="18"/>
+		</product>
+		<product skillId="2269" skillLevel="7" chance="24" >
+		 <item id="6914" count="4"/>
+		</product>
+		<product skillId="2269" skillLevel="7" chance="38" >
+		 <item id="8351" count="4"/>
+		</product>
+		<product skillId="2269" skillLevel="7" chance="5" >
+		 <item id="8373" count="1"/>
+		</product>
+		<product skillId="2269" skillLevel="7" chance="2" >
+		 <item id="-1" count="0"/>
+		</product>
+	</item> <!-- 8481 -->
+	<item id="8482">
+		<product skillId="2269" skillLevel="8" chance="14" >
+		 <item id="6912" count="18"/>
+		</product>
+		<product skillId="2269" skillLevel="8" chance="24" >
+		 <item id="6914" count="4"/>
+		</product>
+		<product skillId="2269" skillLevel="8" chance="40" >
+		 <item id="8351" count="4"/>
+		</product>
+		<product skillId="2269" skillLevel="8" chance="4" >
+		 <item id="8374" count="1"/>
+		</product>
+		<product skillId="2269" skillLevel="8" chance="15" >
+		 <item id="8377" count="1"/>
+		</product>
+		<product skillId="2269" skillLevel="8" chance="3" >
+		 <item id="-1" count="0"/>
+		</product>
+	</item> <!-- 8482 -->
+	<item id="8483">
+		<product skillId="2269" skillLevel="9" chance="30" >
+		 <item id="6912" count="18"/>
+		</product>
+		<product skillId="2269" skillLevel="9" chance="22" >
+		 <item id="6914" count="4"/>
+		</product>
+		<product skillId="2269" skillLevel="9" chance="17" >
+		 <item id="8351" count="7"/>
+		</product>
+		<product skillId="2269" skillLevel="9" chance="5" >
+		 <item id="8375" count="1"/>
+		</product>
+		<product skillId="2269" skillLevel="9" chance="24" >
+		 <item id="8378" count="1"/>
+		</product>
+		<product skillId="2269" skillLevel="9" chance="2" >
+		 <item id="-1" count="0"/>
+		</product>
+	</item> <!-- 8483 -->
+	<item id="8547">
+		<product skillId="2215" skillLevel="1" chance="30" >
+		 <item id="8034" count="1"/>
+		</product>
+	</item> <!-- 8547 -->
+	<item id="9171">
+		<product skillId="2323" skillLevel="1" chance="1" >
+		 <item id="8678" count="1"/>
+		</product>
+		<product skillId="2323" skillLevel="1" chance="1" >
+		 <item id="8682" count="1"/>
+		</product>
+		<product skillId="2323" skillLevel="1" chance="2" >
+		 <item id="9177" count="1"/>
+		</product>
+		<product skillId="2323" skillLevel="1" chance="2" >
+		 <item id="9184" count="1"/>
+		</product>
+		<product skillId="2323" skillLevel="1" chance="2" >
+		 <item id="9191" count="1"/>
+		</product>
+		<product skillId="2323" skillLevel="1" chance="2" >
+		 <item id="9198" count="1"/>
+		</product>
+		<product skillId="2323" skillLevel="1" chance="10" >
+		 <item id="9153" count="1"/>
+		</product>
+		<product skillId="2323" skillLevel="1" chance="10" >
+		 <item id="9146" count="1"/>
+		</product>
+		<product skillId="2323" skillLevel="1" chance="10" >
+		 <item id="9150" count="1"/>
+		</product>
+		<product skillId="2323" skillLevel="1" chance="10" >
+		 <item id="9156" count="1"/>
+		</product>
+		<product skillId="2323" skillLevel="1" chance="10" >
+		 <item id="9157" count="1"/>
+		</product>
+		<product skillId="2323" skillLevel="1" chance="20" >
+		 <item id="9207" count="1"/>
+		</product>
+		<product skillId="2323" skillLevel="1" chance="20" >
+		 <item id="9206" count="1"/>
+		</product>
+	</item> <!-- 9171 -->
+	<item id="9172">
+		<product skillId="2324" skillLevel="1" chance="1" >
+		 <item id="8685" count="1"/>
+		</product>
+		<product skillId="2324" skillLevel="1" chance="1" >
+		 <item id="8679" count="1"/>
+		</product>
+		<product skillId="2324" skillLevel="1" chance="2" >
+		 <item id="9178" count="1"/>
+		</product>
+		<product skillId="2324" skillLevel="1" chance="2" >
+		 <item id="9185" count="1"/>
+		</product>
+		<product skillId="2324" skillLevel="1" chance="2" >
+		 <item id="9192" count="1"/>
+		</product>
+		<product skillId="2324" skillLevel="1" chance="2" >
+		 <item id="9199" count="1"/>
+		</product>
+		<product skillId="2324" skillLevel="1" chance="10" >
+		 <item id="9147" count="1"/>
+		</product>
+		<product skillId="2324" skillLevel="1" chance="10" >
+		 <item id="9151" count="1"/>
+		</product>
+		<product skillId="2324" skillLevel="1" chance="10" >
+		 <item id="9149" count="1"/>
+		</product>
+		<product skillId="2324" skillLevel="1" chance="10" >
+		 <item id="9156" count="1"/>
+		</product>
+		<product skillId="2324" skillLevel="1" chance="10" >
+		 <item id="9157" count="1"/>
+		</product>
+		<product skillId="2324" skillLevel="1" chance="20" >
+		 <item id="9207" count="1"/>
+		</product>
+		<product skillId="2324" skillLevel="1" chance="20" >
+		 <item id="9206" count="1"/>
+		</product>
+	</item> <!-- 9172 -->
+	<item id="9173">
+		<product skillId="2325" skillLevel="1" chance="1" >
+		 <item id="8688" count="1"/>
+		</product>
+		<product skillId="2325" skillLevel="1" chance="1" >
+		 <item id="8680" count="1"/>
+		</product>
+		<product skillId="2325" skillLevel="1" chance="2" >
+		 <item id="9180" count="1"/>
+		</product>
+		<product skillId="2325" skillLevel="1" chance="2" >
+		 <item id="9187" count="1"/>
+		</product>
+		<product skillId="2325" skillLevel="1" chance="2" >
+		 <item id="9194" count="1"/>
+		</product>
+		<product skillId="2325" skillLevel="1" chance="2" >
+		 <item id="9201" count="1"/>
+		</product>
+		<product skillId="2325" skillLevel="1" chance="10" >
+		 <item id="9149" count="1"/>
+		</product>
+		<product skillId="2325" skillLevel="1" chance="10" >
+		 <item id="9155" count="1"/>
+		</product>
+		<product skillId="2325" skillLevel="1" chance="10" >
+		 <item id="9150" count="1"/>
+		</product>
+		<product skillId="2325" skillLevel="1" chance="10" >
+		 <item id="9156" count="1"/>
+		</product>
+		<product skillId="2325" skillLevel="1" chance="10" >
+		 <item id="9157" count="1"/>
+		</product>
+		<product skillId="2325" skillLevel="1" chance="20" >
+		 <item id="9207" count="1"/>
+		</product>
+		<product skillId="2325" skillLevel="1" chance="20" >
+		 <item id="9206" count="1"/>
+		</product>
+	</item> <!-- 9173 -->
+	<item id="9174">
+		<product skillId="2326" skillLevel="1" chance="1" >
+		 <item id="8681" count="1"/>
+		</product>
+		<product skillId="2326" skillLevel="1" chance="1" >
+		 <item id="8687" count="1"/>
+		</product>
+		<product skillId="2326" skillLevel="1" chance="2" >
+		 <item id="9182" count="1"/>
+		</product>
+		<product skillId="2326" skillLevel="1" chance="2" >
+		 <item id="9189" count="1"/>
+		</product>
+		<product skillId="2326" skillLevel="1" chance="2" >
+		 <item id="9196" count="1"/>
+		</product>
+		<product skillId="2326" skillLevel="1" chance="2" >
+		 <item id="9203" count="1"/>
+		</product>
+		<product skillId="2326" skillLevel="1" chance="10" >
+		 <item id="9148" count="1"/>
+		</product>
+		<product skillId="2326" skillLevel="1" chance="10" >
+		 <item id="9146" count="1"/>
+		</product>
+		<product skillId="2326" skillLevel="1" chance="10" >
+		 <item id="9154" count="1"/>
+		</product>
+		<product skillId="2326" skillLevel="1" chance="10" >
+		 <item id="9156" count="1"/>
+		</product>
+		<product skillId="2326" skillLevel="1" chance="10" >
+		 <item id="9157" count="1"/>
+		</product>
+		<product skillId="2326" skillLevel="1" chance="20" >
+		 <item id="9207" count="1"/>
+		</product>
+		<product skillId="2326" skillLevel="1" chance="20" >
+		 <item id="9206" count="1"/>
+		</product>
+	</item> <!-- 9174 -->
+	<item id="9175">
+		<product skillId="2327" skillLevel="1" chance="1" >
+		 <item id="8685" count="1"/>
+		</product>
+		<product skillId="2327" skillLevel="1" chance="1" >
+		 <item id="8683" count="1"/>
+		</product>
+		<product skillId="2327" skillLevel="1" chance="2" >
+		 <item id="9183" count="1"/>
+		</product>
+		<product skillId="2327" skillLevel="1" chance="2" >
+		 <item id="9190" count="1"/>
+		</product>
+		<product skillId="2327" skillLevel="1" chance="2" >
+		 <item id="9197" count="1"/>
+		</product>
+		<product skillId="2327" skillLevel="1" chance="2" >
+		 <item id="9204" count="1"/>
+		</product>
+		<product skillId="2327" skillLevel="1" chance="10" >
+		 <item id="9152" count="1"/>
+		</product>
+		<product skillId="2327" skillLevel="1" chance="10" >
+		 <item id="9155" count="1"/>
+		</product>
+		<product skillId="2327" skillLevel="1" chance="10" >
+		 <item id="9147" count="1"/>
+		</product>
+		<product skillId="2327" skillLevel="1" chance="10" >
+		 <item id="9156" count="1"/>
+		</product>
+		<product skillId="2327" skillLevel="1" chance="10" >
+		 <item id="9157" count="1"/>
+		</product>
+		<product skillId="2327" skillLevel="1" chance="20" >
+		 <item id="9207" count="1"/>
+		</product>
+		<product skillId="2327" skillLevel="1" chance="20" >
+		 <item id="9206" count="1"/>
+		</product>
+	</item> <!-- 9175 -->
+	<item id="9176">
+		<product skillId="2328" skillLevel="1" chance="1" >
+		 <item id="8686" count="1"/>
+		</product>
+		<product skillId="2328" skillLevel="1" chance="1" >
+		 <item id="8684" count="1"/>
+		</product>
+		<product skillId="2328" skillLevel="1" chance="2" >
+		 <item id="9179" count="1"/>
+		</product>
+		<product skillId="2328" skillLevel="1" chance="2" >
+		 <item id="9186" count="1"/>
+		</product>
+		<product skillId="2328" skillLevel="1" chance="2" >
+		 <item id="9193" count="1"/>
+		</product>
+		<product skillId="2328" skillLevel="1" chance="2" >
+		 <item id="9200" count="1"/>
+		</product>
+		<product skillId="2328" skillLevel="1" chance="10" >
+		 <item id="9148" count="1"/>
+		</product>
+		<product skillId="2328" skillLevel="1" chance="10" >
+		 <item id="9152" count="1"/>
+		</product>
+		<product skillId="2328" skillLevel="1" chance="10" >
+		 <item id="9154" count="1"/>
+		</product>
+		<product skillId="2328" skillLevel="1" chance="10" >
+		 <item id="9156" count="1"/>
+		</product>
+		<product skillId="2328" skillLevel="1" chance="10" >
+		 <item id="9157" count="1"/>
+		</product>
+		<product skillId="2328" skillLevel="1" chance="20" >
+		 <item id="9207" count="1"/>
+		</product>
+		<product skillId="2328" skillLevel="1" chance="20" >
+		 <item id="9206" count="1"/>
+		</product>
+	</item> <!-- 9176 -->
+</list>

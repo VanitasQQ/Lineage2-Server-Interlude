@@ -1,0 +1,434 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<list>
+  <armor id="6373" name="Imperial Crusader Breastplate" armorType="Heavy" >
+   <set icon="icon.armor_t88_u_i00"/>
+   <set bodyPart="CHEST" grade="S"/>
+   <set crystallizable="true" crystal_count="613" />
+   <set weight="7620" price="14300000"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <stats>
+    <add stat="pDef" order="0x10" val="205"/>
+    <enchant stat="pDef" order="0xc" val="0"/>
+   </stats>
+  </armor>
+  <armor id="6374" name="Imperial Crusader Gaiters" armorType="Heavy" >
+   <set icon="icon.armor_t88_l_i00"/>
+   <set bodyPart="LEGS" grade="S"/>
+   <set crystallizable="true" crystal_count="383" />
+   <set weight="3260" price="8960000"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <stats>
+    <add stat="pDef" order="0x10" val="128"/>
+    <enchant stat="pDef" order="0xc" val="0"/>
+   </stats>
+  </armor>
+  <armor id="6375" name="Imperial Crusader Gauntlets" armorType="None" >
+   <set icon="icon.armor_t88_g_i00"/>
+   <set bodyPart="GLOVES" grade="S"/>
+   <set crystallizable="true" crystal_count="153" />
+   <set weight="540" price="3580000"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <stats>
+    <add stat="pDef" order="0x10" val="55"/>
+    <enchant stat="pDef" order="0xc" val="0"/>
+   </stats>
+  </armor>
+  <armor id="6376" name="Imperial Crusader Boots" armorType="None" >
+   <set icon="icon.armor_t88_b_i00"/>
+   <set bodyPart="FEET" grade="S"/>
+   <set crystallizable="true" crystal_count="153" />
+   <set weight="1110" price="3580000"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <stats>
+    <add stat="pDef" order="0x10" val="55"/>
+    <enchant stat="pDef" order="0xc" val="0"/>
+   </stats>
+  </armor>
+  <armor id="6377" name="Imperial Crusader Shield" armorType="Shield" >
+   <set icon="icon.shield_imperial_crusader_shield_i00"/>
+   <set bodyPart="LHAND" grade="S"/>
+   <set crystallizable="true" crystal_count="161" />
+   <set weight="1170" price="3760000"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <stats>
+    <sub stat="rEvas" order="0x10" val="8"/>
+    <set stat="sDef" order="0x8" val="290"/>
+    <set stat="rShld" order="0x8" val="20"/>
+    <enchant stat="sDef" order="0xc" val="0"/>
+   </stats>
+  </armor>
+  <armor id="6378" name="Imperial Crusader Helmet" armorType="None" >
+   <set icon="icon.armor_helmet_i00"/>
+   <set bodyPart="HEAD" grade="S"/>
+   <set crystallizable="true" crystal_count="230" />
+   <set weight="550" price="5370000"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <stats>
+    <add stat="pDef" order="0x10" val="83"/>
+    <enchant stat="pDef" order="0xc" val="0"/>
+   </stats>
+  </armor>
+  <armor id="6379" name="Draconic Leather Armor" armorType="Light" >
+   <set icon="icon.armor_t89_ul_i00"/>
+   <set bodyPart="FULLARMOR" grade="S"/>
+   <set crystallizable="true" crystal_count="748" />
+   <set weight="4950" price="17400000"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <stats>
+    <add stat="pDef" order="0x10" val="249"/>
+    <enchant stat="pDef" order="0xc" val="0"/>
+   </stats>
+  </armor>
+  <armor id="6380" name="Draconic Leather Gloves" armorType="None" >
+   <set icon="icon.armor_t89_g_i00"/>
+   <set bodyPart="GLOVES" grade="S"/>
+   <set crystallizable="true" crystal_count="153" />
+   <set weight="540" price="3580000"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <stats>
+    <add stat="pDef" order="0x10" val="55"/>
+    <enchant stat="pDef" order="0xc" val="0"/>
+   </stats>
+  </armor>
+  <armor id="6381" name="Draconic Leather Boots" armorType="None" >
+   <set icon="icon.armor_t89_b_i00"/>
+   <set bodyPart="FEET" grade="S"/>
+   <set crystallizable="true" crystal_count="153" />
+   <set weight="1110" price="3580000"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <stats>
+    <add stat="pDef" order="0x10" val="55"/>
+    <enchant stat="pDef" order="0xc" val="0"/>
+   </stats>
+  </armor>
+  <armor id="6382" name="Draconic Leather Helmet" armorType="None" >
+   <set icon="icon.armor_leather_helmet_i00"/>
+   <set bodyPart="HEAD" grade="S"/>
+   <set crystallizable="true" crystal_count="230" />
+   <set weight="550" price="5370000"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <stats>
+    <add stat="pDef" order="0x10" val="83"/>
+    <enchant stat="pDef" order="0xc" val="0"/>
+   </stats>
+  </armor>
+  <armor id="6383" name="Major Arcana Robe" armorType="Magic" >
+   <set icon="icon.armor_t90_ul_i00"/>
+   <set bodyPart="FULLARMOR" grade="S"/>
+   <set crystallizable="true" crystal_count="748" />
+   <set weight="2300" price="17400000"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <stats>
+    <add stat="pDef" order="0x10" val="166"/>
+    <add stat="maxMp" order="0x40" val="866"/>
+    <enchant stat="pDef" order="0xc" val="0"/>
+   </stats>
+  </armor>
+  <armor id="6384" name="Major Arcana Gloves" armorType="None" >
+   <set icon="icon.armor_t90_g_i00"/>
+   <set bodyPart="GLOVES" grade="S"/>
+   <set crystallizable="true" crystal_count="153" />
+   <set weight="540" price="3580000"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <stats>
+    <add stat="pDef" order="0x10" val="55"/>
+    <enchant stat="pDef" order="0xc" val="0"/>
+   </stats>
+  </armor>
+  <armor id="6385" name="Major Arcana Boots" armorType="None" >
+   <set icon="icon.armor_t90_b_i00"/>
+   <set bodyPart="FEET" grade="S"/>
+   <set crystallizable="true" crystal_count="153" />
+   <set weight="1110" price="3580000"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <stats>
+    <add stat="pDef" order="0x10" val="55"/>
+    <enchant stat="pDef" order="0xc" val="0"/>
+   </stats>
+  </armor>
+  <armor id="6386" name="Major Arcana Circlet" armorType="None" >
+   <set icon="icon.armor_leather_helmet_i00"/>
+   <set bodyPart="HEAD" grade="S"/>
+   <set crystallizable="true" crystal_count="230" />
+   <set weight="550" price="5370000"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <stats>
+    <add stat="pDef" order="0x10" val="83"/>
+    <enchant stat="pDef" order="0xc" val="0"/>
+   </stats>
+  </armor>
+  <armor id="6408" name="Formal Wear" armorType="None" >
+   <set icon="icon.armor_t2000_ul_i00"/>
+   <set bodyPart="FULLARMOR" grade="NONE"/>
+   <set crystallizable="false" />
+   <set weight="1000" price="5000000"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <stats>
+    <add stat="pDef" order="0x10" val="0"/>
+    <add stat="maxHp" order="0x10" val="0"/>
+    <enchant stat="pDef" order="0xc" val="0"/>
+   </stats>
+  </armor>
+  <armor id="6674" name="Sealed Imperial Crusader Breastplate" armorType="Heavy" >
+   <set icon="icon.armor_t88_u_i02"/>
+   <set bodyPart="CHEST" grade="S"/>
+   <set crystallizable="true" crystal_count="613" />
+   <set weight="7620" price="14300000"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <stats>
+    <add stat="pDef" order="0x10" val="193"/>
+   </stats>
+  </armor>
+  <armor id="6675" name="Sealed Imperial Crusader Gaiters" armorType="Heavy" >
+   <set icon="icon.armor_t88_l_i02"/>
+   <set bodyPart="LEGS" grade="S"/>
+   <set crystallizable="true" crystal_count="383" />
+   <set weight="3260" price="8960000"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <stats>
+    <add stat="pDef" order="0x10" val="121"/>
+   </stats>
+  </armor>
+  <armor id="6676" name="Sealed Imperial Crusader Gauntlet" armorType="None" >
+   <set icon="icon.armor_t88_g_i02"/>
+   <set bodyPart="GLOVES" grade="S"/>
+   <set crystallizable="true" crystal_count="153" />
+   <set weight="540" price="3580000"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <stats>
+    <add stat="pDef" order="0x10" val="55"/>
+   </stats>
+  </armor>
+  <armor id="6677" name="Sealed Imperial Crusader Boots" armorType="None" >
+   <set icon="icon.armor_t88_b_i02"/>
+   <set bodyPart="FEET" grade="S"/>
+   <set crystallizable="true" crystal_count="153" />
+   <set weight="1110" price="3580000"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <stats>
+    <add stat="pDef" order="0x10" val="55"/>
+   </stats>
+  </armor>
+  <armor id="6678" name="Sealed Imperial Crusader Shield" armorType="Shield" >
+   <set icon="icon.shield_imperial_crusader_shield_i02"/>
+   <set bodyPart="LHAND" grade="S"/>
+   <set crystallizable="true" crystal_count="161" />
+   <set weight="1170" price="3760000"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <stats>
+    <sub stat="rEvas" order="0x10" val="8"/>
+    <set stat="sDef" order="0x8" val="276"/>
+    <set stat="rShld" order="0x8" val="20"/>
+    <enchant stat="sDef" order="0xc" val="0"/>
+   </stats>
+  </armor>
+  <armor id="6679" name="Sealed Imperial Crusader Helmet" armorType="None" >
+   <set icon="icon.armor_helmet_i02"/>
+   <set bodyPart="HEAD" grade="S"/>
+   <set crystallizable="true" crystal_count="230" />
+   <set weight="550" price="5370000"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <stats>
+    <add stat="pDef" order="0x10" val="83"/>
+   </stats>
+  </armor>
+  <armor id="6680" name="Sealed Draconic Leather Armor" armorType="Light" >
+   <set icon="icon.armor_t89_ul_i02"/>
+   <set bodyPart="FULLARMOR" grade="S"/>
+   <set crystallizable="true" crystal_count="748" />
+   <set weight="4950" price="17400000"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <stats>
+    <add stat="pDef" order="0x10" val="236"/>
+   </stats>
+  </armor>
+  <armor id="6681" name="Sealed Draconic Leather Glove" armorType="None" >
+   <set icon="icon.armor_t89_g_i02"/>
+   <set bodyPart="GLOVES" grade="S"/>
+   <set crystallizable="true" crystal_count="153" />
+   <set weight="540" price="3580000"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <stats>
+    <add stat="pDef" order="0x10" val="55"/>
+   </stats>
+  </armor>
+  <armor id="6682" name="Sealed Draconic Leather Boots" armorType="None" >
+   <set icon="icon.armor_t89_b_i02"/>
+   <set bodyPart="FEET" grade="S"/>
+   <set crystallizable="true" crystal_count="153" />
+   <set weight="1110" price="3580000"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <stats>
+    <add stat="pDef" order="0x10" val="55"/>
+   </stats>
+  </armor>
+  <armor id="6683" name="Sealed Draconic Leather Helmet" armorType="None" >
+   <set icon="icon.armor_leather_helmet_i02"/>
+   <set bodyPart="HEAD" grade="S"/>
+   <set crystallizable="true" crystal_count="230" />
+   <set weight="550" price="5370000"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <stats>
+    <add stat="pDef" order="0x10" val="83"/>
+   </stats>
+  </armor>
+  <armor id="6684" name="Sealed Major Arcana Robe" armorType="Magic" >
+   <set icon="icon.armor_t90_ul_i02"/>
+   <set bodyPart="FULLARMOR" grade="S"/>
+   <set crystallizable="true" crystal_count="748" />
+   <set weight="2300" price="17400000"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <stats>
+    <add stat="pDef" order="0x10" val="157"/>
+    <add stat="maxMp" order="0x40" val="866"/>
+   </stats>
+  </armor>
+  <armor id="6685" name="Sealed Major Arcana Glove" armorType="None" >
+   <set icon="icon.armor_t90_g_i02"/>
+   <set bodyPart="GLOVES" grade="S"/>
+   <set crystallizable="true" crystal_count="153" />
+   <set weight="540" price="3580000"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <stats>
+    <add stat="pDef" order="0x10" val="55"/>
+   </stats>
+  </armor>
+  <armor id="6686" name="Sealed Major Arcana Boots" armorType="None" >
+   <set icon="icon.armor_t90_b_i02"/>
+   <set bodyPart="FEET" grade="S"/>
+   <set crystallizable="true" crystal_count="153" />
+   <set weight="1110" price="3580000"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <stats>
+    <add stat="pDef" order="0x10" val="55"/>
+   </stats>
+  </armor>
+  <armor id="6687" name="Sealed Major Arcana Circlet" armorType="None" >
+   <set icon="icon.armor_leather_helmet_i02"/>
+   <set bodyPart="HEAD" grade="S"/>
+   <set crystallizable="true" crystal_count="230" />
+   <set weight="550" price="5370000"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <stats>
+    <add stat="pDef" order="0x10" val="83"/>
+   </stats>
+  </armor>
+  <armor id="6721" name="Monster Only(Shield of Imperial Warlord Zombie)" armorType="Shield" >
+   <set icon="icon.weapon_monster_i00"/>
+   <set bodyPart="LHAND" grade="NONE"/>
+   <set crystallizable="false" />
+   <set weight="1430" price="39"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <stats>
+    <sub stat="rEvas" order="0x10" val="8"/>
+    <set stat="sDef" order="0x8" val="47"/>
+    <set stat="rShld" order="0x8" val="20"/>
+    <enchant stat="sDef" order="0xc" val="0"/>
+   </stats>
+  </armor>
+  <armor id="6902" name="Pledge Shield" armorType="Shield" >
+   <set icon="icon.shield_pledge_shield_i00"/>
+   <set bodyPart="LHAND" grade="NONE"/>
+   <set crystallizable="false" />
+   <set weight="1380" price="12900"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <stats>
+    <sub stat="rEvas" order="0x10" val="8"/>
+    <set stat="sDef" order="0x8" val="90"/>
+    <set stat="rShld" order="0x8" val="20"/>
+    <enchant stat="sDef" order="0xc" val="0"/>
+   </stats>
+  </armor>
+  <armor id="6918" name="Monster Only (Shield of Silenos)" armorType="Shield" >
+   <set icon="icon.weapon_monster_i00"/>
+   <set bodyPart="LHAND" grade="NONE"/>
+   <set crystallizable="false" />
+   <set weight="1380" price="12900"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <stats>
+    <sub stat="rEvas" order="0x10" val="8"/>
+    <set stat="sDef" order="0x8" val="90"/>
+    <set stat="rShld" order="0x8" val="20"/>
+    <enchant stat="sDef" order="0xc" val="0"/>
+   </stats>
+  </armor>
+  <armor id="6919" name="Monster Only (Shield of Ketra Orc)" armorType="Shield" >
+   <set icon="icon.weapon_monster_i00"/>
+   <set bodyPart="LHAND" grade="NONE"/>
+   <set crystallizable="false" />
+   <set weight="1320" price="78400"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <stats>
+    <sub stat="rEvas" order="0x10" val="8"/>
+    <set stat="sDef" order="0x8" val="142"/>
+    <set stat="rShld" order="0x8" val="20"/>
+    <enchant stat="sDef" order="0xc" val="0"/>
+   </stats>
+  </armor>
+</list>

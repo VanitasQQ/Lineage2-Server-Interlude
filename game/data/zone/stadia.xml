@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+  <zone id="1" name="Stadia 1" type="Stadium">
+    <settings noLanding="true"/>
+    <shape type="Rect" zMin="-3400" zMax="-3000">
+      <point x="-18670" y="-20294"/>
+      <point x="-22913" y="-21917"/>
+    </shape>
+  </zone>
+  <zone id="2" name="Stadia 2" type="Stadium">
+    <settings noLanding="true"/>
+    <shape type="Rect" zMin="-3400" zMax="-3000">
+      <point x="-119100" y="-223705"/>
+      <point x="-121484" y="-226316"/>
+    </shape>
+  </zone>
+  <zone id="3" name="Stadia 3" type="Stadium">
+    <settings noLanding="true"/>
+    <shape type="Rect" zMin="-3400" zMax="-3000">
+      <point x="-103690" y="-210300"/>
+      <point x="-101325" y="-207724"/>
+    </shape>
+  </zone>
+  <zone id="4" name="Stadia 4" type="Stadium">
+    <settings noLanding="true"/>
+    <shape type="Rect" zMin="-3400" zMax="-3000">
+      <point x="-119079" y="-206078"/>
+      <point x="-121438" y="-208668"/>
+    </shape>
+  </zone>
+  <zone id="5" name="Stadia 5" type="Stadium">
+    <settings noLanding="true"/>
+    <shape type="Rect" zMin="-3400" zMax="-3000">
+      <point x="-88700" y="-226280"/>
+      <point x="-86351" y="-223722"/>
+    </shape>
+  </zone>
+  <zone id="6" name="Stadia 6" type="Stadium">
+    <settings noLanding="true"/>
+    <shape type="Rect" zMin="-3400" zMax="-3000">
+      <point x="-80586" y="-211911"/>
+      <point x="-82939" y="-214487"/>
+    </shape>
+  </zone>
+  <zone id="7" name="Stadia 7" type="Stadium">
+    <settings noLanding="true"/>
+    <shape type="Rect" zMin="-3400" zMax="-3000">
+      <point x="-88659" y="-208652"/>
+      <point x="-86297" y="-206075"/>
+    </shape>
+  </zone>
+  <zone id="8" name="Stadia 8" type="Stadium">
+    <settings noLanding="true"/>
+    <shape type="Rect" zMin="-3400" zMax="-3000">
+      <point x="-95000" y="-219531"/>
+      <point x="-92632" y="-216950"/>
+    </shape>
+  </zone>
+  <zone id="9" name="Stadia 9" type="Stadium">
+    <settings noLanding="true"/>
+    <shape type="Rect" zMin="-3400" zMax="-3000">
+      <point x="-75936" y="-217408"/>
+      <point x="-78306" y="-220017"/>
+    </shape>
+  </zone>
+  <zone id="10" name="Stadia 10" type="Stadium">
+    <settings noLanding="true"/>
+    <shape type="Rect" zMin="-3400" zMax="-3000">
+      <point x="-68560" y="-207718"/>
+      <point x="-70933" y="-210312"/>
+    </shape>
+  </zone>
+  <zone id="11" name="Stadia 11" type="Stadium">
+    <settings noLanding="true"/>
+    <shape type="Rect" zMin="-3400" zMax="-3000">
+      <point x="-78008" y="-202528"/>
+      <point x="-75663" y="-199943"/>
+    </shape>
+  </zone>
+  <zone id="12" name="Stadia 12" type="Stadium">
+    <settings noLanding="true"/>
+    <shape type="Rect" zMin="-3400" zMax="-3000">
+      <point x="-108690" y="-217403"/>
+      <point x="-111072" y="-220023"/>
+    </shape>
+  </zone>
+  <zone id="13" name="Stadia 13" type="Stadium">
+    <settings noLanding="true"/>
+    <shape type="Rect" zMin="-3400" zMax="-3000">
+      <point x="-127766" y="-219555"/>
+      <point x="-125394" y="-216946"/>
+    </shape>
+  </zone>
+  <zone id="14" name="Stadia 14" type="Stadium">
+    <settings noLanding="true"/>
+    <shape type="Rect" zMin="-3400" zMax="-3000">
+      <point x="-108428" y="-199935"/>
+      <point x="-110796" y="-202541"/>
+    </shape>
+  </zone>
+  <zone id="15" name="Stadia 15" type="Stadium">
+    <settings noLanding="true"/>
+    <shape type="Rect" zMin="-3400" zMax="-3000">
+      <point x="-88677" y="-241444"/>
+      <point x="-86294" y="-238836"/>
+    </shape>
+  </zone>
+  <zone id="16" name="Stadia 16" type="Stadium">
+    <settings noLanding="true"/>
+    <shape type="Rect" zMin="-3400" zMax="-3000">
+      <point x="-82938" y="-247261"/>
+      <point x="-80580" y="-244668"/>
+    </shape>
+  </zone>
+  <zone id="17" name="Stadia 17" type="Stadium">
+    <settings noLanding="true"/>
+    <shape type="Rect" zMin="-3400" zMax="-3000">
+      <point x="-75930" y="-250175"/>
+      <point x="-78298" y="-252779"/>
+    </shape>
+  </zone>
+  <zone id="18" name="Stadia 18" type="Stadium">
+    <settings noLanding="true"/>
+    <shape type="Rect" zMin="-3400" zMax="-3000">
+      <point x="-70920" y="-243079"/>
+      <point x="-68547" y="-240473"/>
+    </shape>
+  </zone>
+  <zone id="19" name="Stadia 19" type="Stadium">
+    <settings noLanding="true"/>
+    <shape type="Rect" zMin="-3400" zMax="-3000">
+      <point x="-75670" y="-232712"/>
+      <point x="-78027" y="-235326"/>
+    </shape>
+  </zone>
+  <zone id="20" name="Stadia 20" type="Stadium">
+    <settings noLanding="true"/>
+    <shape type="Rect" zMin="-3400" zMax="-3000">
+      <point x="-92632" y="-249706"/>
+      <point x="-94999" y="-252316"/>
+    </shape>
+  </zone>
+  <zone id="21" name="Stadia 21" type="Stadium">
+    <settings noLanding="true"/>
+    <shape type="Rect" zMin="-3400" zMax="-3000">
+      <point x="-87816" y="-254280"/>
+      <point x="-86332" y="-256466"/>
+    </shape>
+  </zone>
+  <zone id="22" name="Stadia 22" type="Stadium">
+    <settings noLanding="true"/>
+    <shape type="Rect" zMin="-3400" zMax="-3000">
+      <point x="-113332" y="-211881"/>
+      <point x="-115713" y="-214513"/>
+    </shape>
+  </zone>
+</list>

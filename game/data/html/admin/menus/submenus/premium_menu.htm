@@ -1,0 +1,34 @@
+<html><title>Панель управления сервером</title><body>
+<center>
+<!-- top menu -->
+<table width=240>
+<tr>
+<td><button value="Главная" action="bypass -h admin_admin" width=60 height=21 back="sek.cbui94" fore="sek.cbui94"></td>
+<td><button value="Игровая" action="bypass -h admin_gamemenu" width=60 height=21 back="sek.cbui94" fore="sek.cbui94"></td>
+<td><button value="Эфекты" action="bypass -h admin_effects" width=60 height=21 back="sek.cbui94" fore="sek.cbui94"></td>
+<td><button value="Эвенты" action="bypass -h admin_events" width=60 height=21 back="sek.cbui94" fore="sek.cbui94"></td>
+</tr>
+<tr>
+<td><button value="Сервер" action="bypass -h admin_server" width=60 height=21 back="sek.cbui94" fore="sek.cbui94"></td>
+<td><button value="Контроль" action="bypass -h admin_control" width=60 height=21 back="sek.cbui94" fore="sek.cbui94"></td>
+<td><button value="Игроки" action="bypass -h admin_players" width=60 height=21 back="sek.cbui94" fore="sek.cbui94"></td>
+<td><button value="Конфиги" action="bypass -h admin_config" width=60 height=21 back="sek.cbui94" fore="sek.cbui94"></td>
+</tr>
+</table>
+
+<font color="LEVEL">Введите имя аккаунта</font>
+<multiedit var="qbox" width=260 height=30><br>
+
+<br><font color="LEVEL">Срок действия</font>
+<table width=260>
+<tr>
+<td><button value="1 месяц" action="bypass -h admin_premium_add1 $qbox" width=75 height=21 back="sek.cbui94" fore="sek.cbui94"></td>
+<td><button value="2 месяца" action="bypass -h admin_premium_add2 $qbox" width=75 height=21 back="sek.cbui94" fore="sek.cbui94"></td>
+<td><button value="3 месяца" action="bypass -h admin_premium_add3 $qbox" width=75 height=21 back="sek.cbui94" fore="sek.cbui94"></td>
+</tr>
+</table>
+
+<br><font color="LEVEL">Описание сервиса</font></center><br1>
+Данный сервис увеличивает рейты персонажу на заданные в конфиге.<br1>
+У игроков с данным сервисом активен индиакатор на уровне персонажа.<br1>
+</body></html>

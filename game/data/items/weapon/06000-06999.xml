@@ -1,0 +1,1762 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<list>
+  <weapon id="6307" name="Sword of Limit - Guidance" weaponType="Sword" >
+   <set icon="icon.weapon_sword_of_limit_i01"/>
+   <set bodyPart="RHAND" grade="C"/>
+   <set crystallizable="true" crystal_count="1322" />
+   <set weight="1400" price="4300000"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <skills>
+      <skill id="3573" level="1"/>
+    </skills>
+
+   <stats>
+    <set stat="pAtk" order="0x8" val="139"/>
+    <set stat="mAtk" order="0x8" val="76"/>
+    <set stat="rCrit" order="0x8" val="8"/>
+    <add stat="accCombat" order="0x10" val="0"/>
+    <set stat="pAtkSpd" order="0x8" val="379"/>
+    <enchant stat="pAtk" order="0xc" val="0"/>
+    <enchant stat="mAtk" order="0xc" val="0"/>
+   </stats>
+  </weapon>
+  <weapon id="6308" name="Sword of Limit - Critical Drain" weaponType="Sword" >
+   <set icon="icon.weapon_sword_of_limit_i01"/>
+   <set bodyPart="RHAND" grade="C"/>
+   <set crystallizable="true" crystal_count="1322" />
+   <set weight="1400" price="4300000"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <stats>
+    <set stat="pAtk" order="0x8" val="139"/>
+    <set stat="mAtk" order="0x8" val="76"/>
+    <set stat="rCrit" order="0x8" val="8"/>
+    <add stat="accCombat" order="0x10" val="0"/>
+    <set stat="pAtkSpd" order="0x8" val="379"/>
+    <enchant stat="pAtk" order="0xc" val="0"/>
+    <enchant stat="mAtk" order="0xc" val="0"/>
+   </stats>
+  </weapon>
+  <weapon id="6309" name="Sword of Limit - Health" weaponType="Sword" >
+   <set icon="icon.weapon_sword_of_limit_i01"/>
+   <set bodyPart="RHAND" grade="C"/>
+   <set crystallizable="true" crystal_count="1322" />
+   <set weight="1400" price="4300000"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <skills>
+      <skill id="3013" level="1"/>
+    </skills>
+
+   <stats>
+    <set stat="pAtk" order="0x8" val="139"/>
+    <set stat="mAtk" order="0x8" val="76"/>
+    <set stat="rCrit" order="0x8" val="8"/>
+    <add stat="accCombat" order="0x10" val="0"/>
+    <set stat="pAtkSpd" order="0x8" val="379"/>
+    <enchant stat="pAtk" order="0xc" val="0"/>
+    <enchant stat="mAtk" order="0xc" val="0"/>
+   </stats>
+  </weapon>
+  <weapon id="6310" name="Sword of Whispering Death - Empower" weaponType="Sword" >
+   <set icon="icon.weapon_deathbreath_sword_i01"/>
+   <set bodyPart="RHAND" grade="C"/>
+   <set crystallizable="true" crystal_count="1322" />
+   <set weight="920" price="4300000"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <skills>
+      <skill id="3076" level="3"/>
+    </skills>
+
+   <stats>
+    <set stat="pAtk" order="0x8" val="111"/>
+    <set stat="mAtk" order="0x8" val="101"/>
+    <set stat="rCrit" order="0x8" val="8"/>
+    <add stat="accCombat" order="0x10" val="0"/>
+    <set stat="pAtkSpd" order="0x8" val="379"/>
+    <enchant stat="pAtk" order="0xc" val="0"/>
+    <enchant stat="mAtk" order="0xc" val="0"/>
+   </stats>
+  </weapon>
+  <weapon id="6311" name="Sword of Whispering Death - Magic Power" weaponType="Sword" >
+   <set icon="icon.weapon_deathbreath_sword_i01"/>
+   <set bodyPart="RHAND" grade="C"/>
+   <set crystallizable="true" crystal_count="1322" />
+   <set weight="920" price="4300000"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <skills>
+      <skill id="3077" level="3"/>
+    </skills>
+
+   <stats>
+    <set stat="pAtk" order="0x8" val="111"/>
+    <set stat="mAtk" order="0x8" val="101"/>
+    <set stat="rCrit" order="0x8" val="8"/>
+    <add stat="accCombat" order="0x10" val="0"/>
+    <set stat="pAtkSpd" order="0x8" val="379"/>
+    <enchant stat="pAtk" order="0xc" val="0"/>
+    <enchant stat="mAtk" order="0xc" val="0"/>
+   </stats>
+  </weapon>
+  <weapon id="6312" name="Sword of Whispering Death - Magic Silence" weaponType="Sword" >
+   <set icon="icon.weapon_deathbreath_sword_i01"/>
+   <set bodyPart="RHAND" grade="C"/>
+   <set crystallizable="true" crystal_count="1322" />
+   <set weight="920" price="4300000"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <stats>
+    <set stat="pAtk" order="0x8" val="111"/>
+    <set stat="mAtk" order="0x8" val="101"/>
+    <set stat="rCrit" order="0x8" val="8"/>
+    <add stat="accCombat" order="0x10" val="0"/>
+    <set stat="pAtkSpd" order="0x8" val="379"/>
+    <enchant stat="pAtk" order="0xc" val="0"/>
+    <enchant stat="mAtk" order="0xc" val="0"/>
+   </stats>
+  </weapon>
+  <weapon id="6313" name="Homunkulus's Sword - Acumen" weaponType="Sword" >
+   <set icon="icon.weapon_homunkuluss_sword_i01"/>
+   <set bodyPart="RHAND" grade="C"/>
+   <set crystallizable="true" crystal_count="1322" />
+   <set weight="950" price="4300000"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <skills>
+      <skill id="3047" level="1"/>
+    </skills>
+
+   <stats>
+    <set stat="pAtk" order="0x8" val="111"/>
+    <set stat="mAtk" order="0x8" val="101"/>
+    <set stat="rCrit" order="0x8" val="8"/>
+    <add stat="accCombat" order="0x10" val="0"/>
+    <set stat="pAtkSpd" order="0x8" val="379"/>
+    <enchant stat="pAtk" order="0xc" val="0"/>
+    <enchant stat="mAtk" order="0xc" val="0"/>
+   </stats>
+  </weapon>
+  <weapon id="6314" name="Homunkulus's Sword - Conversion" weaponType="Sword" >
+   <set icon="icon.weapon_homunkuluss_sword_i01"/>
+   <set bodyPart="RHAND" grade="C"/>
+   <set crystallizable="true" crystal_count="1322" />
+   <set weight="950" price="4300000"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <skills>
+      <skill id="3048" level="1"/>
+    </skills>
+
+   <stats>
+    <set stat="pAtk" order="0x8" val="111"/>
+    <set stat="mAtk" order="0x8" val="101"/>
+    <set stat="rCrit" order="0x8" val="8"/>
+    <add stat="accCombat" order="0x10" val="0"/>
+    <set stat="pAtkSpd" order="0x8" val="379"/>
+    <enchant stat="pAtk" order="0xc" val="0"/>
+    <enchant stat="mAtk" order="0xc" val="0"/>
+   </stats>
+  </weapon>
+  <weapon id="6315" name="Homunkulus's Sword - Magic Paralyze" weaponType="Sword" >
+   <set icon="icon.weapon_homunkuluss_sword_i01"/>
+   <set bodyPart="RHAND" grade="C"/>
+   <set crystallizable="true" crystal_count="1322" />
+   <set weight="950" price="4300000"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <stats>
+    <set stat="pAtk" order="0x8" val="111"/>
+    <set stat="mAtk" order="0x8" val="101"/>
+    <set stat="rCrit" order="0x8" val="8"/>
+    <add stat="accCombat" order="0x10" val="0"/>
+    <set stat="pAtkSpd" order="0x8" val="379"/>
+    <enchant stat="pAtk" order="0xc" val="0"/>
+    <enchant stat="mAtk" order="0xc" val="0"/>
+   </stats>
+  </weapon>
+  <weapon id="6347" name="Berserker Blade - Focus" weaponType="BigSword" >
+   <set icon="icon.weapon_berserker_blade_i01"/>
+   <set bodyPart="LRHAND" grade="C"/>
+   <set crystallizable="true" crystal_count="1885" />
+   <set weight="1380" price="6130000"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <skills>
+      <skill id="3010" level="4"/>
+    </skills>
+
+   <stats>
+    <set stat="pAtk" order="0x8" val="190"/>
+    <set stat="mAtk" order="0x8" val="83"/>
+    <set stat="rCrit" order="0x8" val="8"/>
+    <add stat="accCombat" order="0x10" val="0"/>
+    <set stat="pAtkSpd" order="0x8" val="325"/>
+    <enchant stat="pAtk" order="0xc" val="0"/>
+    <enchant stat="mAtk" order="0xc" val="0"/>
+   </stats>
+  </weapon>
+  <weapon id="6348" name="Berserker Blade - Critical Damage" weaponType="BigSword" >
+   <set icon="icon.weapon_berserker_blade_i01"/>
+   <set bodyPart="LRHAND" grade="C"/>
+   <set crystallizable="true" crystal_count="1885" />
+   <set weight="1380" price="6130000"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <stats>
+    <set stat="pAtk" order="0x8" val="190"/>
+    <set stat="mAtk" order="0x8" val="83"/>
+    <set stat="rCrit" order="0x8" val="8"/>
+    <add stat="accCombat" order="0x10" val="0"/>
+    <set stat="pAtkSpd" order="0x8" val="325"/>
+    <enchant stat="pAtk" order="0xc" val="0"/>
+    <enchant stat="mAtk" order="0xc" val="0"/>
+   </stats>
+  </weapon>
+  <weapon id="6349" name="Berserker Blade - Haste" weaponType="BigSword" >
+   <set icon="icon.weapon_berserker_blade_i01"/>
+   <set bodyPart="LRHAND" grade="C"/>
+   <set crystallizable="true" crystal_count="1885" />
+   <set weight="1380" price="6130000"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <skills>
+      <skill id="3036" level="4"/>
+    </skills>
+
+   <stats>
+    <set stat="pAtk" order="0x8" val="190"/>
+    <set stat="mAtk" order="0x8" val="83"/>
+    <set stat="rCrit" order="0x8" val="8"/>
+    <add stat="accCombat" order="0x10" val="0"/>
+    <set stat="pAtkSpd" order="0x8" val="325"/>
+    <enchant stat="pAtk" order="0xc" val="0"/>
+    <enchant stat="mAtk" order="0xc" val="0"/>
+   </stats>
+  </weapon>
+  <weapon id="6354" name="Falchion - for Beginners" weaponType="Sword" >
+   <set icon="icon.weapon_falchion_i00"/>
+   <set bodyPart="RHAND" grade="NONE"/>
+   <set crystallizable="false" />
+   <set weight="1530" />
+   <set sellable="false" tradeable="false" />
+   <set dropable="false" destroyable="false"/>
+
+   <stats>
+    <set stat="pAtk" order="0x8" val="31"/>
+    <set stat="mAtk" order="0x8" val="21"/>
+    <set stat="rCrit" order="0x8" val="8"/>
+    <add stat="accCombat" order="0x10" val="0"/>
+    <set stat="pAtkSpd" order="0x8" val="379"/>
+    <enchant stat="pAtk" order="0xc" val="0"/>
+    <enchant stat="mAtk" order="0xc" val="0"/>
+   </stats>
+  </weapon>
+  <weapon id="6355" name="Mage Staff - for Beginners" weaponType="BigBlunt" >
+   <set icon="icon.weapon_apprentices_staff_i00"/>
+   <set bodyPart="LRHAND" grade="NONE"/>
+   <set crystallizable="false" />
+   <set weight="1050" />
+   <set sellable="false" tradeable="false" />
+   <set dropable="false" destroyable="false"/>
+
+   <stats>
+    <set stat="pAtk" order="0x8" val="30"/>
+    <set stat="mAtk" order="0x8" val="28"/>
+    <set stat="rCrit" order="0x8" val="4"/>
+    <add stat="accCombat" order="0x10" val="4"/>
+    <set stat="pAtkSpd" order="0x8" val="325"/>
+    <enchant stat="pAtk" order="0xc" val="0"/>
+    <enchant stat="mAtk" order="0xc" val="0"/>
+   </stats>
+  </weapon>
+  <weapon id="6356" name="Dark Elven Dagger - Rsk. Haste" weaponType="Dagger" >
+   <set icon="icon.weapon_darkelven_dagger_i01"/>
+   <set bodyPart="RHAND" grade="C"/>
+   <set crystallizable="true" crystal_count="705" />
+   <set weight="1050" price="2290000"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <skills>
+      <skill id="3033" level="1"/>
+    </skills>
+
+   <stats>
+    <set stat="pAtk" order="0x8" val="94"/>
+    <set stat="mAtk" order="0x8" val="61"/>
+    <set stat="rCrit" order="0x8" val="12"/>
+    <add stat="accCombat" order="0x10" val="-3"/>
+    <set stat="pAtkSpd" order="0x8" val="433"/>
+    <enchant stat="pAtk" order="0xc" val="0"/>
+    <enchant stat="mAtk" order="0xc" val="0"/>
+   </stats>
+  </weapon>
+  <weapon id="6357" name="Stiletto - Rsk. Haste" weaponType="Dagger" >
+   <set icon="icon.weapon_stiletto_i01"/>
+   <set bodyPart="RHAND" grade="C"/>
+   <set crystallizable="true" crystal_count="884" />
+   <set weight="1030" price="2870000"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <skills>
+      <skill id="3033" level="2"/>
+    </skills>
+
+   <stats>
+    <set stat="pAtk" order="0x8" val="107"/>
+    <set stat="mAtk" order="0x8" val="68"/>
+    <set stat="rCrit" order="0x8" val="12"/>
+    <add stat="accCombat" order="0x10" val="-3"/>
+    <set stat="pAtkSpd" order="0x8" val="433"/>
+    <enchant stat="pAtk" order="0xc" val="0"/>
+    <enchant stat="mAtk" order="0xc" val="0"/>
+   </stats>
+  </weapon>
+  <weapon id="6358" name="Crystal Dagger - Critical Damage" weaponType="Dagger" >
+   <set icon="icon.weapon_crystal_dagger_i01"/>
+   <set bodyPart="RHAND" grade="C"/>
+   <set crystallizable="true" crystal_count="1885" />
+   <set weight="1000" price="6130000"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <skills>
+      <skill id="3043" level="4"/>
+    </skills>
+
+   <stats>
+    <set stat="pAtk" order="0x8" val="136"/>
+    <set stat="mAtk" order="0x8" val="83"/>
+    <set stat="rCrit" order="0x8" val="12"/>
+    <add stat="accCombat" order="0x10" val="-3"/>
+    <set stat="pAtkSpd" order="0x8" val="433"/>
+    <enchant stat="pAtk" order="0xc" val="0"/>
+    <enchant stat="mAtk" order="0xc" val="0"/>
+   </stats>
+  </weapon>
+  <weapon id="6359" name="Demon Dagger - Critical Damage" weaponType="Dagger" >
+   <set icon="icon.weapon_demons_sword_i01"/>
+   <set bodyPart="RHAND" grade="B"/>
+   <set crystallizable="true" crystal_count="1346" />
+   <set weight="970" price="13100000"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <skills>
+      <skill id="3043" level="6"/>
+    </skills>
+
+   <stats>
+    <set stat="pAtk" order="0x8" val="170"/>
+    <set stat="mAtk" order="0x8" val="99"/>
+    <set stat="rCrit" order="0x8" val="12"/>
+    <add stat="accCombat" order="0x10" val="-3"/>
+    <set stat="pAtkSpd" order="0x8" val="433"/>
+    <enchant stat="pAtk" order="0xc" val="0"/>
+    <enchant stat="mAtk" order="0xc" val="0"/>
+   </stats>
+  </weapon>
+  <weapon id="6364" name="Forgotten Blade" weaponType="Sword" >
+   <set icon="icon.weapon_forgotten_blade_i00"/>
+   <set bodyPart="RHAND" grade="S"/>
+   <set crystallizable="true" crystal_count="2052" />
+   <set weight="1300" price="48800000"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <stats>
+    <set stat="pAtk" order="0x8" val="281"/>
+    <set stat="mAtk" order="0x8" val="132"/>
+    <set stat="rCrit" order="0x8" val="8"/>
+    <add stat="accCombat" order="0x10" val="0"/>
+    <set stat="pAtkSpd" order="0x8" val="379"/>
+    <enchant stat="pAtk" order="0xc" val="0"/>
+    <enchant stat="mAtk" order="0xc" val="0"/>
+   </stats>
+  </weapon>
+  <weapon id="6365" name="Basalt Battlehammer" weaponType="Blunt" >
+   <set icon="icon.weapon_basalt_battlehammer_i00"/>
+   <set bodyPart="RHAND" grade="S"/>
+   <set crystallizable="true" crystal_count="2052" />
+   <set weight="1570" price="48800000"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <stats>
+    <set stat="pAtk" order="0x8" val="281"/>
+    <set stat="mAtk" order="0x8" val="132"/>
+    <set stat="rCrit" order="0x8" val="4"/>
+    <add stat="accCombat" order="0x10" val="4"/>
+    <set stat="pAtkSpd" order="0x8" val="379"/>
+    <enchant stat="pAtk" order="0xc" val="0"/>
+    <enchant stat="mAtk" order="0xc" val="0"/>
+   </stats>
+  </weapon>
+  <weapon id="6366" name="Imperial Staff" weaponType="BigBlunt" >
+   <set icon="icon.weapon_imperial_staff_i00"/>
+   <set bodyPart="LRHAND" grade="S"/>
+   <set crystallizable="true" crystal_count="2052" />
+   <set weight="910" price="48800000"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <stats>
+    <set stat="pAtk" order="0x8" val="274"/>
+    <set stat="mAtk" order="0x8" val="175"/>
+    <set stat="rCrit" order="0x8" val="4"/>
+    <add stat="accCombat" order="0x10" val="4"/>
+    <set stat="pAtkSpd" order="0x8" val="325"/>
+    <enchant stat="pAtk" order="0xc" val="0"/>
+    <enchant stat="mAtk" order="0xc" val="0"/>
+   </stats>
+  </weapon>
+  <weapon id="6367" name="Angel Slayer" weaponType="Dagger" >
+   <set icon="icon.weapon_angel_slayer_i00"/>
+   <set bodyPart="RHAND" grade="S"/>
+   <set crystallizable="true" crystal_count="2052" />
+   <set weight="950" price="48800000"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <stats>
+    <set stat="pAtk" order="0x8" val="246"/>
+    <set stat="mAtk" order="0x8" val="132"/>
+    <set stat="rCrit" order="0x8" val="12"/>
+    <add stat="accCombat" order="0x10" val="-3"/>
+    <set stat="pAtkSpd" order="0x8" val="433"/>
+    <enchant stat="pAtk" order="0xc" val="0"/>
+    <enchant stat="mAtk" order="0xc" val="0"/>
+   </stats>
+  </weapon>
+  <weapon id="6368" name="Shining Bow" weaponType="Bow" >
+   <set icon="icon.weapon_shining_bow_i00"/>
+   <set bodyPart="LRHAND" grade="S"/>
+   <set crystallizable="true" crystal_count="2052" />
+   <set weight="1650" price="48800000"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <stats>
+    <set stat="pAtk" order="0x8" val="581"/>
+    <set stat="mAtk" order="0x8" val="132"/>
+    <set stat="rCrit" order="0x8" val="12"/>
+    <add stat="accCombat" order="0x10" val="-3"/>
+    <set stat="pAtkSpd" order="0x8" val="293"/>
+    <enchant stat="pAtk" order="0xc" val="0"/>
+    <enchant stat="mAtk" order="0xc" val="0"/>
+   </stats>
+  </weapon>
+  <weapon id="6369" name="Dragon Hunter Axe" weaponType="BigBlunt" >
+   <set icon="icon.weapon_dragon_hunter_axe_i00"/>
+   <set bodyPart="LRHAND" grade="S"/>
+   <set crystallizable="true" crystal_count="2052" />
+   <set weight="1820" price="48800000"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <stats>
+    <set stat="pAtk" order="0x8" val="342"/>
+    <set stat="mAtk" order="0x8" val="132"/>
+    <set stat="rCrit" order="0x8" val="4"/>
+    <add stat="accCombat" order="0x10" val="4"/>
+    <set stat="pAtkSpd" order="0x8" val="325"/>
+    <enchant stat="pAtk" order="0xc" val="0"/>
+    <enchant stat="mAtk" order="0xc" val="0"/>
+   </stats>
+  </weapon>
+  <weapon id="6370" name="Saint Spear" weaponType="Pole" >
+   <set icon="icon.weapon_saint_spear_i00"/>
+   <set bodyPart="LRHAND" grade="S"/>
+   <set crystallizable="true" crystal_count="2052" />
+   <set weight="1800" price="48800000"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <stats>
+    <set stat="pAtk" order="0x8" val="281"/>
+    <set stat="mAtk" order="0x8" val="132"/>
+    <set stat="rCrit" order="0x8" val="8"/>
+    <set stat="pAtkRange" order="0x8" val="66"/>
+    <add stat="accCombat" order="0x10" val="-3"/>
+    <set stat="pAtkSpd" order="0x8" val="325"/>
+    <enchant stat="pAtk" order="0xc" val="0"/>
+    <enchant stat="mAtk" order="0xc" val="0"/>
+   </stats>
+  </weapon>
+  <weapon id="6371" name="Demon Splinter" weaponType="DualFist" >
+   <set icon="icon.weapon_demon_splinter_i00"/>
+   <set bodyPart="LRHAND" grade="S"/>
+   <set crystallizable="true" crystal_count="2052" />
+   <set weight="1350" price="48800000"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <stats>
+    <set stat="pAtk" order="0x8" val="342"/>
+    <set stat="mAtk" order="0x8" val="132"/>
+    <set stat="rCrit" order="0x8" val="4"/>
+    <add stat="accCombat" order="0x10" val="4"/>
+    <set stat="pAtkSpd" order="0x8" val="325"/>
+    <enchant stat="pAtk" order="0xc" val="0"/>
+    <enchant stat="mAtk" order="0xc" val="0"/>
+   </stats>
+  </weapon>
+  <weapon id="6372" name="Heaven's Divider" weaponType="BigSword" >
+   <set icon="icon.weapon_heavens_divider_i00"/>
+   <set bodyPart="LRHAND" grade="S"/>
+   <set crystallizable="true" crystal_count="2052" />
+   <set weight="1380" price="48800000"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <stats>
+    <set stat="pAtk" order="0x8" val="342"/>
+    <set stat="mAtk" order="0x8" val="132"/>
+    <set stat="rCrit" order="0x8" val="8"/>
+    <add stat="accCombat" order="0x10" val="0"/>
+    <set stat="pAtkSpd" order="0x8" val="325"/>
+    <enchant stat="pAtk" order="0xc" val="0"/>
+    <enchant stat="mAtk" order="0xc" val="0"/>
+   </stats>
+  </weapon>
+  <weapon id="6529" name="Baby Duck Rod" weaponType="Rod" >
+   <set icon="icon.weapon_fishing_rod_i00"/>
+   <set bodyPart="LRHAND" grade="NONE"/>
+   <set crystallizable="false" />
+   <set weight="1000" price="30000"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <stats>
+    <set stat="pAtk" order="0x8" val="1"/>
+    <set stat="mAtk" order="0x8" val="1"/>
+    <set stat="rCrit" order="0x8" val="0"/>
+    <add stat="accCombat" order="0x10" val="-3"/>
+    <set stat="pAtkSpd" order="0x8" val="325"/>
+    <enchant stat="pAtk" order="0xc" val="0"/>
+    <enchant stat="mAtk" order="0xc" val="0"/>
+   </stats>
+  </weapon>
+  <weapon id="6530" name="Albatross Rod" weaponType="Rod" >
+   <set icon="icon.weapon_fishing_rod_i01"/>
+   <set bodyPart="LRHAND" grade="D"/>
+   <set crystallizable="false" />
+   <set weight="1000" price="100000"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <stats>
+    <set stat="pAtk" order="0x8" val="1"/>
+    <set stat="mAtk" order="0x8" val="1"/>
+    <set stat="rCrit" order="0x8" val="0"/>
+    <add stat="accCombat" order="0x10" val="-3"/>
+    <set stat="pAtkSpd" order="0x8" val="325"/>
+    <enchant stat="pAtk" order="0xc" val="0"/>
+    <enchant stat="mAtk" order="0xc" val="0"/>
+   </stats>
+  </weapon>
+  <weapon id="6531" name="Pelican Rod" weaponType="Rod" >
+   <set icon="icon.weapon_fishing_rod_i02"/>
+   <set bodyPart="LRHAND" grade="C"/>
+   <set crystallizable="false" />
+   <set weight="1000" price="400000"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <stats>
+    <set stat="pAtk" order="0x8" val="1"/>
+    <set stat="mAtk" order="0x8" val="1"/>
+    <set stat="rCrit" order="0x8" val="0"/>
+    <add stat="accCombat" order="0x10" val="-3"/>
+    <set stat="pAtkSpd" order="0x8" val="325"/>
+    <enchant stat="pAtk" order="0xc" val="0"/>
+    <enchant stat="mAtk" order="0xc" val="0"/>
+   </stats>
+  </weapon>
+  <weapon id="6532" name="KingFisher Rod" weaponType="Rod" >
+   <set icon="icon.weapon_fishing_rod_i03"/>
+   <set bodyPart="LRHAND" grade="B"/>
+   <set crystallizable="false" />
+   <set weight="1000" price="1200000"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <stats>
+    <set stat="pAtk" order="0x8" val="1"/>
+    <set stat="mAtk" order="0x8" val="1"/>
+    <set stat="rCrit" order="0x8" val="0"/>
+    <add stat="accCombat" order="0x10" val="-3"/>
+    <set stat="pAtkSpd" order="0x8" val="325"/>
+    <enchant stat="pAtk" order="0xc" val="0"/>
+    <enchant stat="mAtk" order="0xc" val="0"/>
+   </stats>
+  </weapon>
+  <weapon id="6533" name="Cygnus Pole" weaponType="Rod" >
+   <set icon="icon.weapon_fishing_rod_i04"/>
+   <set bodyPart="LRHAND" grade="A"/>
+   <set crystallizable="false" />
+   <set weight="1000" price="4000000"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <stats>
+    <set stat="pAtk" order="0x8" val="1"/>
+    <set stat="mAtk" order="0x8" val="1"/>
+    <set stat="rCrit" order="0x8" val="0"/>
+    <add stat="accCombat" order="0x10" val="-3"/>
+    <set stat="pAtkSpd" order="0x8" val="325"/>
+    <enchant stat="pAtk" order="0xc" val="0"/>
+    <enchant stat="mAtk" order="0xc" val="0"/>
+   </stats>
+  </weapon>
+  <weapon id="6534" name="Triton Pole" weaponType="Rod" >
+   <set icon="icon.weapon_fishing_rod_i05"/>
+   <set bodyPart="LRHAND" grade="S"/>
+   <set crystallizable="false" />
+   <set weight="1000" price="10000000"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <stats>
+    <set stat="pAtk" order="0x8" val="1"/>
+    <set stat="mAtk" order="0x8" val="1"/>
+    <set stat="rCrit" order="0x8" val="0"/>
+    <add stat="accCombat" order="0x10" val="-3"/>
+    <set stat="pAtkSpd" order="0x8" val="325"/>
+    <enchant stat="pAtk" order="0xc" val="0"/>
+    <enchant stat="mAtk" order="0xc" val="0"/>
+   </stats>
+  </weapon>
+  <weapon id="6579" name="Arcana Mace" weaponType="Blunt" >
+   <set icon="icon.weapon_arcana_mace_i00"/>
+   <set bodyPart="RHAND" grade="S"/>
+   <set crystallizable="true" crystal_count="2052" />
+   <set weight="1300" price="48800000"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <stats>
+    <set stat="pAtk" order="0x8" val="225"/>
+    <set stat="mAtk" order="0x8" val="175"/>
+    <set stat="rCrit" order="0x8" val="4"/>
+    <add stat="accCombat" order="0x10" val="4"/>
+    <set stat="pAtkSpd" order="0x8" val="379"/>
+    <enchant stat="pAtk" order="0xc" val="0"/>
+    <enchant stat="mAtk" order="0xc" val="0"/>
+   </stats>
+  </weapon>
+  <weapon id="6580" name="Tallum Blade*Dark Legion's Edge" weaponType="DualSword" >
+   <set icon="icon.weapon_dual_sword_i00"/>
+   <set bodyPart="LRHAND" grade="S"/>
+   <set crystallizable="true" crystal_count="2052" />
+   <set weight="2080" price="48800000"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <stats>
+    <set stat="pAtk" order="0x8" val="342"/>
+    <set stat="mAtk" order="0x8" val="132"/>
+    <set stat="rCrit" order="0x8" val="8"/>
+    <add stat="accCombat" order="0x10" val="0"/>
+    <set stat="pAtkSpd" order="0x8" val="325"/>
+    <enchant stat="pAtk" order="0xc" val="0"/>
+    <enchant stat="mAtk" order="0xc" val="0"/>
+   </stats>
+  </weapon>
+  <weapon id="6581" name="Forgotten Blade - Haste" weaponType="Sword" >
+   <set icon="icon.weapon_forgotten_blade_i01"/>
+   <set bodyPart="RHAND" grade="S"/>
+   <set crystallizable="true" crystal_count="2052" />
+   <set weight="1300" price="48800000"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <skills>
+      <skill id="3564" level="1"/>
+    </skills>
+
+   <stats>
+    <set stat="pAtk" order="0x8" val="281"/>
+    <set stat="mAtk" order="0x8" val="132"/>
+    <set stat="rCrit" order="0x8" val="8"/>
+    <add stat="accCombat" order="0x10" val="0"/>
+    <set stat="pAtkSpd" order="0x8" val="379"/>
+    <enchant stat="pAtk" order="0xc" val="0"/>
+    <enchant stat="mAtk" order="0xc" val="0"/>
+   </stats>
+  </weapon>
+  <weapon id="6582" name="Forgotten Blade - Health" weaponType="Sword" >
+   <set icon="icon.weapon_forgotten_blade_i01"/>
+   <set bodyPart="RHAND" grade="S"/>
+   <set crystallizable="true" crystal_count="2052" />
+   <set weight="1300" price="48800000"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <skills>
+      <skill id="3013" level="3"/>
+    </skills>
+
+   <stats>
+    <set stat="pAtk" order="0x8" val="281"/>
+    <set stat="mAtk" order="0x8" val="132"/>
+    <set stat="rCrit" order="0x8" val="8"/>
+    <add stat="accCombat" order="0x10" val="0"/>
+    <set stat="pAtkSpd" order="0x8" val="379"/>
+    <enchant stat="pAtk" order="0xc" val="0"/>
+    <enchant stat="mAtk" order="0xc" val="0"/>
+   </stats>
+  </weapon>
+  <weapon id="6583" name="Forgotten Blade - Focus" weaponType="Sword" >
+   <set icon="icon.weapon_forgotten_blade_i01"/>
+   <set bodyPart="RHAND" grade="S"/>
+   <set crystallizable="true" crystal_count="2052" />
+   <set weight="1300" price="48800000"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <skills>
+      <skill id="3566" level="1"/>
+    </skills>
+
+   <stats>
+    <set stat="pAtk" order="0x8" val="281"/>
+    <set stat="mAtk" order="0x8" val="132"/>
+    <set stat="rCrit" order="0x8" val="8"/>
+    <add stat="accCombat" order="0x10" val="0"/>
+    <set stat="pAtkSpd" order="0x8" val="379"/>
+    <enchant stat="pAtk" order="0xc" val="0"/>
+    <enchant stat="mAtk" order="0xc" val="0"/>
+   </stats>
+  </weapon>
+  <weapon id="6584" name="Basalt Battlehammer - HP Drain" weaponType="Blunt" >
+   <set icon="icon.weapon_basalt_battlehammer_i01"/>
+   <set bodyPart="RHAND" grade="S"/>
+   <set crystallizable="true" crystal_count="2052" />
+   <set weight="1570" price="48800000"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <skills>
+      <skill id="3568" level="1"/>
+    </skills>
+
+   <stats>
+    <set stat="pAtk" order="0x8" val="281"/>
+    <set stat="mAtk" order="0x8" val="132"/>
+    <set stat="rCrit" order="0x8" val="4"/>
+    <add stat="accCombat" order="0x10" val="4"/>
+    <set stat="pAtkSpd" order="0x8" val="379"/>
+    <enchant stat="pAtk" order="0xc" val="0"/>
+    <enchant stat="mAtk" order="0xc" val="0"/>
+    <mul stat="pvpPhysDmg" order="0x30" val="1.05"/>
+    <mul stat="pvpMagicalDmg" order="0x30" val="1.05"/>
+   </stats>
+  </weapon>
+  <weapon id="6585" name="Basalt Battlehammer - Health" weaponType="Blunt" >
+   <set icon="icon.weapon_basalt_battlehammer_i01"/>
+   <set bodyPart="RHAND" grade="S"/>
+   <set crystallizable="true" crystal_count="2052" />
+   <set weight="1570" price="48800000"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <skills>
+      <skill id="3013" level="3"/>
+    </skills>
+
+   <stats>
+    <set stat="pAtk" order="0x8" val="281"/>
+    <set stat="mAtk" order="0x8" val="132"/>
+    <set stat="rCrit" order="0x8" val="4"/>
+    <add stat="accCombat" order="0x10" val="4"/>
+    <set stat="pAtkSpd" order="0x8" val="379"/>
+    <enchant stat="pAtk" order="0xc" val="0"/>
+    <enchant stat="mAtk" order="0xc" val="0"/>
+   </stats>
+  </weapon>
+  <weapon id="6586" name="Basalt Battlehammer - HP Regeneration" weaponType="Blunt" >
+   <set icon="icon.weapon_basalt_battlehammer_i01"/>
+   <set bodyPart="RHAND" grade="S"/>
+   <set crystallizable="true" crystal_count="2052" />
+   <set weight="1570" price="48800000"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <skills>
+      <skill id="3569" level="1"/>
+    </skills>
+
+   <stats>
+    <set stat="pAtk" order="0x8" val="281"/>
+    <set stat="mAtk" order="0x8" val="132"/>
+    <set stat="rCrit" order="0x8" val="4"/>
+    <add stat="accCombat" order="0x10" val="4"/>
+    <set stat="pAtkSpd" order="0x8" val="379"/>
+    <enchant stat="pAtk" order="0xc" val="0"/>
+    <enchant stat="mAtk" order="0xc" val="0"/>
+    <mul stat="pvpPhysDmg" order="0x30" val="1.05"/>
+    <mul stat="pvpMagicalDmg" order="0x30" val="1.05"/>
+   </stats>
+  </weapon>
+  <weapon id="6587" name="Imperial Staff - Empower" weaponType="BigBlunt" >
+   <set icon="icon.weapon_imperial_staff_i01"/>
+   <set bodyPart="LRHAND" grade="S"/>
+   <set crystallizable="true" crystal_count="2052" />
+   <set weight="910" price="48800000"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <skills>
+      <skill id="3575" level="1"/>
+    </skills>
+
+   <stats>
+    <set stat="pAtk" order="0x8" val="274"/>
+    <set stat="mAtk" order="0x8" val="175"/>
+    <set stat="rCrit" order="0x8" val="4"/>
+    <add stat="accCombat" order="0x10" val="4"/>
+    <set stat="pAtkSpd" order="0x8" val="325"/>
+    <enchant stat="pAtk" order="0xc" val="0"/>
+    <enchant stat="mAtk" order="0xc" val="0"/>
+    <mul stat="pvpPhysDmg" order="0x30" val="1.05"/>
+    <mul stat="pvpMagicalDmg" order="0x30" val="1.05"/>
+   </stats>
+  </weapon>
+  <weapon id="6588" name="Imperial Staff - MP Regeneration" weaponType="BigBlunt" >
+   <set icon="icon.weapon_imperial_staff_i01"/>
+   <set bodyPart="LRHAND" grade="S"/>
+   <set crystallizable="true" crystal_count="2052" />
+   <set weight="910" price="48800000"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <skills>
+      <skill id="3576" level="1"/>
+    </skills>
+
+   <stats>
+    <set stat="pAtk" order="0x8" val="274"/>
+    <set stat="mAtk" order="0x8" val="175"/>
+    <set stat="rCrit" order="0x8" val="4"/>
+    <add stat="accCombat" order="0x10" val="4"/>
+    <set stat="pAtkSpd" order="0x8" val="325"/>
+    <enchant stat="pAtk" order="0xc" val="0"/>
+    <enchant stat="mAtk" order="0xc" val="0"/>
+    <mul stat="pvpPhysDmg" order="0x30" val="1.05"/>
+    <mul stat="pvpMagicalDmg" order="0x30" val="1.05"/>
+   </stats>
+  </weapon>
+  <weapon id="6589" name="Imperial Staff - Magic Hold" weaponType="BigBlunt" >
+   <set icon="icon.weapon_imperial_staff_i01"/>
+   <set bodyPart="LRHAND" grade="S"/>
+   <set crystallizable="true" crystal_count="2052" />
+   <set weight="910" price="48800000"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <stats>
+    <set stat="pAtk" order="0x8" val="274"/>
+    <set stat="mAtk" order="0x8" val="175"/>
+    <set stat="rCrit" order="0x8" val="4"/>
+    <add stat="accCombat" order="0x10" val="4"/>
+    <set stat="pAtkSpd" order="0x8" val="325"/>
+    <enchant stat="pAtk" order="0xc" val="0"/>
+    <enchant stat="mAtk" order="0xc" val="0"/>
+    <mul stat="pvpPhysDmg" order="0x30" val="1.05"/>
+    <mul stat="pvpMagicalDmg" order="0x30" val="1.05"/>
+   </stats>
+  </weapon>
+  <weapon id="6590" name="Angel Slayer - Critical Damage" weaponType="Dagger" >
+   <set icon="icon.weapon_angel_slayer_i01"/>
+   <set bodyPart="RHAND" grade="S"/>
+   <set crystallizable="true" crystal_count="2052" />
+   <set weight="950" price="48800000"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <skills>
+      <skill id="3572" level="1"/>
+    </skills>
+
+   <stats>
+    <set stat="pAtk" order="0x8" val="246"/>
+    <set stat="mAtk" order="0x8" val="132"/>
+    <set stat="rCrit" order="0x8" val="12"/>
+    <add stat="accCombat" order="0x10" val="-3"/>
+    <set stat="pAtkSpd" order="0x8" val="433"/>
+    <enchant stat="pAtk" order="0xc" val="0"/>
+    <enchant stat="mAtk" order="0xc" val="0"/>
+    <mul stat="pvpPhysDmg" order="0x30" val="1.05"/>
+    <mul stat="pvpMagicalDmg" order="0x30" val="1.05"/>
+   </stats>
+  </weapon>
+  <weapon id="6591" name="Angel Slayer - HP Drain" weaponType="Dagger" >
+   <set icon="icon.weapon_angel_slayer_i01"/>
+   <set bodyPart="RHAND" grade="S"/>
+   <set crystallizable="true" crystal_count="2052" />
+   <set weight="950" price="48800000"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <skills>
+      <skill id="3568" level="1"/>
+    </skills>
+
+   <stats>
+    <set stat="pAtk" order="0x8" val="246"/>
+    <set stat="mAtk" order="0x8" val="132"/>
+    <set stat="rCrit" order="0x8" val="12"/>
+    <add stat="accCombat" order="0x10" val="-3"/>
+    <set stat="pAtkSpd" order="0x8" val="433"/>
+    <enchant stat="pAtk" order="0xc" val="0"/>
+    <enchant stat="mAtk" order="0xc" val="0"/>
+    <mul stat="pvpPhysDmg" order="0x30" val="1.05"/>
+    <mul stat="pvpMagicalDmg" order="0x30" val="1.05"/>
+   </stats>
+  </weapon>
+  <weapon id="6592" name="Angel Slayer - Haste" weaponType="Dagger" >
+   <set icon="icon.weapon_angel_slayer_i01"/>
+   <set bodyPart="RHAND" grade="S"/>
+   <set crystallizable="true" crystal_count="2052" />
+   <set weight="950" price="48800000"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <skills>
+      <skill id="3564" level="1"/>
+    </skills>
+
+   <stats>
+    <set stat="pAtk" order="0x8" val="246"/>
+    <set stat="mAtk" order="0x8" val="132"/>
+    <set stat="rCrit" order="0x8" val="12"/>
+    <add stat="accCombat" order="0x10" val="-3"/>
+    <set stat="pAtkSpd" order="0x8" val="433"/>
+    <enchant stat="pAtk" order="0xc" val="0"/>
+    <enchant stat="mAtk" order="0xc" val="0"/>
+   </stats>
+  </weapon>
+  <weapon id="6593" name="Shining Bow - Cheap Shot" weaponType="Bow" >
+   <set icon="icon.weapon_shining_bow_i01"/>
+   <set bodyPart="LRHAND" grade="S"/>
+   <set crystallizable="true" crystal_count="2052" />
+   <set weight="1650" price="48800000"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <skills>
+      <skill id="3360" level="1"/>
+    </skills>
+
+   <stats>
+    <set stat="pAtk" order="0x8" val="581"/>
+    <set stat="mAtk" order="0x8" val="132"/>
+    <set stat="rCrit" order="0x8" val="12"/>
+    <add stat="accCombat" order="0x10" val="-3"/>
+    <set stat="pAtkSpd" order="0x8" val="293"/>
+    <enchant stat="pAtk" order="0xc" val="0"/>
+    <enchant stat="mAtk" order="0xc" val="0"/>
+    <set stat="MpConsume" order="0x8" val="1"/>
+   </stats>
+  </weapon>
+  <weapon id="6594" name="Shining Bow - Focus" weaponType="Bow" >
+   <set icon="icon.weapon_shining_bow_i01"/>
+   <set bodyPart="LRHAND" grade="S"/>
+   <set crystallizable="true" crystal_count="2052" />
+   <set weight="1650" price="48800000"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <skills>
+      <skill id="3567" level="1"/>
+    </skills>
+
+   <stats>
+    <set stat="pAtk" order="0x8" val="581"/>
+    <set stat="mAtk" order="0x8" val="132"/>
+    <set stat="rCrit" order="0x8" val="12"/>
+    <add stat="accCombat" order="0x10" val="-3"/>
+    <set stat="pAtkSpd" order="0x8" val="293"/>
+    <enchant stat="pAtk" order="0xc" val="0"/>
+    <enchant stat="mAtk" order="0xc" val="0"/>
+   </stats>
+  </weapon>
+  <weapon id="6595" name="Shining Bow - Critical Slow" weaponType="Bow" >
+   <set icon="icon.weapon_shining_bow_i01"/>
+   <set bodyPart="LRHAND" grade="S"/>
+   <set crystallizable="true" crystal_count="2052" />
+   <set weight="1650" price="48800000"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <stats>
+    <set stat="pAtk" order="0x8" val="581"/>
+    <set stat="mAtk" order="0x8" val="132"/>
+    <set stat="rCrit" order="0x8" val="12"/>
+    <add stat="accCombat" order="0x10" val="-3"/>
+    <set stat="pAtkSpd" order="0x8" val="293"/>
+    <enchant stat="pAtk" order="0xc" val="0"/>
+    <enchant stat="mAtk" order="0xc" val="0"/>
+   </stats>
+  </weapon>
+  <weapon id="6596" name="Dragon Hunter Axe - HP Regeneration" weaponType="BigBlunt" >
+   <set icon="icon.weapon_dragon_hunter_axe_i01"/>
+   <set bodyPart="LRHAND" grade="S"/>
+   <set crystallizable="true" crystal_count="2052" />
+   <set weight="1820" price="48800000"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <skills>
+      <skill id="3569" level="1"/>
+    </skills>
+
+   <stats>
+    <set stat="pAtk" order="0x8" val="342"/>
+    <set stat="mAtk" order="0x8" val="132"/>
+    <set stat="rCrit" order="0x8" val="4"/>
+    <add stat="accCombat" order="0x10" val="4"/>
+    <set stat="pAtkSpd" order="0x8" val="325"/>
+    <enchant stat="pAtk" order="0xc" val="0"/>
+    <enchant stat="mAtk" order="0xc" val="0"/>
+    <mul stat="pvpPhysDmg" order="0x30" val="1.05"/>
+    <mul stat="pvpMagicalDmg" order="0x30" val="1.05"/>
+   </stats>
+  </weapon>
+  <weapon id="6597" name="Dragon Hunter Axe - Health" weaponType="BigBlunt" >
+   <set icon="icon.weapon_dragon_hunter_axe_i01"/>
+   <set bodyPart="LRHAND" grade="S"/>
+   <set crystallizable="true" crystal_count="2052" />
+   <set weight="1820" price="48800000"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <skills>
+      <skill id="3013" level="3"/>
+    </skills>
+
+   <stats>
+    <set stat="pAtk" order="0x8" val="342"/>
+    <set stat="mAtk" order="0x8" val="132"/>
+    <set stat="rCrit" order="0x8" val="4"/>
+    <add stat="accCombat" order="0x10" val="4"/>
+    <set stat="pAtkSpd" order="0x8" val="325"/>
+    <enchant stat="pAtk" order="0xc" val="0"/>
+    <enchant stat="mAtk" order="0xc" val="0"/>
+   </stats>
+  </weapon>
+  <weapon id="6598" name="Dragon Hunter Axe - HP Drain" weaponType="BigBlunt" >
+   <set icon="icon.weapon_dragon_hunter_axe_i01"/>
+   <set bodyPart="LRHAND" grade="S"/>
+   <set crystallizable="true" crystal_count="2052" />
+   <set weight="1820" price="48800000"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <skills>
+      <skill id="3568" level="1"/>
+    </skills>
+
+   <stats>
+    <set stat="pAtk" order="0x8" val="342"/>
+    <set stat="mAtk" order="0x8" val="132"/>
+    <set stat="rCrit" order="0x8" val="4"/>
+    <add stat="accCombat" order="0x10" val="4"/>
+    <set stat="pAtkSpd" order="0x8" val="325"/>
+    <enchant stat="pAtk" order="0xc" val="0"/>
+    <enchant stat="mAtk" order="0xc" val="0"/>
+   </stats>
+  </weapon>
+  <weapon id="6599" name="Saint Spear - Health" weaponType="Pole" >
+   <set icon="icon.weapon_saint_spear_i01"/>
+   <set bodyPart="LRHAND" grade="S"/>
+   <set crystallizable="true" crystal_count="2052" />
+   <set weight="1800" price="48800000"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <skills>
+      <skill id="3013" level="4"/>
+    </skills>
+
+   <stats>
+    <set stat="pAtk" order="0x8" val="281"/>
+    <set stat="mAtk" order="0x8" val="132"/>
+    <set stat="rCrit" order="0x8" val="8"/>
+    <set stat="pAtkRange" order="0x8" val="66"/>
+    <add stat="accCombat" order="0x10" val="-3"/>
+    <set stat="pAtkSpd" order="0x8" val="325"/>
+    <enchant stat="pAtk" order="0xc" val="0"/>
+    <enchant stat="mAtk" order="0xc" val="0"/>
+   </stats>
+  </weapon>
+  <weapon id="6600" name="Saint Spear - Guidance" weaponType="Pole" >
+   <set icon="icon.weapon_saint_spear_i01"/>
+   <set bodyPart="LRHAND" grade="S"/>
+   <set crystallizable="true" crystal_count="2052" />
+   <set weight="1800" price="48800000"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <skills>
+      <skill id="3602" level="5"/>
+    </skills>
+
+   <stats>
+    <set stat="pAtk" order="0x8" val="281"/>
+    <set stat="mAtk" order="0x8" val="132"/>
+    <set stat="rCrit" order="0x8" val="8"/>
+    <set stat="pAtkRange" order="0x8" val="66"/>
+    <add stat="accCombat" order="0x10" val="-3"/>
+    <set stat="pAtkSpd" order="0x8" val="325"/>
+    <enchant stat="pAtk" order="0xc" val="0"/>
+    <enchant stat="mAtk" order="0xc" val="0"/>
+    <mul stat="pvpPhysDmg" order="0x30" val="1.05"/>
+    <mul stat="pvpMagicalDmg" order="0x30" val="1.05"/>
+   </stats>
+  </weapon>
+  <weapon id="6601" name="Saint Spear - Haste" weaponType="Pole" >
+   <set icon="icon.weapon_saint_spear_i01"/>
+   <set bodyPart="LRHAND" grade="S"/>
+   <set crystallizable="true" crystal_count="2052" />
+   <set weight="1800" price="48800000"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <skills>
+      <skill id="3601" level="9"/>
+    </skills>
+
+   <stats>
+    <set stat="pAtk" order="0x8" val="281"/>
+    <set stat="mAtk" order="0x8" val="132"/>
+    <set stat="rCrit" order="0x8" val="8"/>
+    <set stat="pAtkRange" order="0x8" val="66"/>
+    <add stat="accCombat" order="0x10" val="-3"/>
+    <set stat="pAtkSpd" order="0x8" val="325"/>
+    <enchant stat="pAtk" order="0xc" val="0"/>
+    <enchant stat="mAtk" order="0xc" val="0"/>
+   </stats>
+  </weapon>
+  <weapon id="6602" name="Demon Splinter - Focus" weaponType="DualFist" >
+   <set icon="icon.weapon_demon_splinter_i01"/>
+   <set bodyPart="LRHAND" grade="S"/>
+   <set crystallizable="true" crystal_count="2052" />
+   <set weight="1350" price="48800000"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <skills>
+      <skill id="3565" level="1"/>
+    </skills>
+
+   <stats>
+    <set stat="pAtk" order="0x8" val="342"/>
+    <set stat="mAtk" order="0x8" val="132"/>
+    <set stat="rCrit" order="0x8" val="4"/>
+    <add stat="accCombat" order="0x10" val="4"/>
+    <set stat="pAtkSpd" order="0x8" val="325"/>
+    <enchant stat="pAtk" order="0xc" val="0"/>
+    <enchant stat="mAtk" order="0xc" val="0"/>
+   </stats>
+  </weapon>
+  <weapon id="6603" name="Demon Splinter - Health" weaponType="DualFist" >
+   <set icon="icon.weapon_demon_splinter_i01"/>
+   <set bodyPart="LRHAND" grade="S"/>
+   <set crystallizable="true" crystal_count="2052" />
+   <set weight="1350" price="48800000"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <skills>
+      <skill id="3013" level="3"/>
+    </skills>
+
+   <stats>
+    <set stat="pAtk" order="0x8" val="342"/>
+    <set stat="mAtk" order="0x8" val="132"/>
+    <set stat="rCrit" order="0x8" val="4"/>
+    <add stat="accCombat" order="0x10" val="4"/>
+    <set stat="pAtkSpd" order="0x8" val="325"/>
+    <enchant stat="pAtk" order="0xc" val="0"/>
+    <enchant stat="mAtk" order="0xc" val="0"/>
+   </stats>
+  </weapon>
+  <weapon id="6604" name="Demon Splinter - Critical Stun" weaponType="DualFist" >
+   <set icon="icon.weapon_demon_splinter_i01"/>
+   <set bodyPart="LRHAND" grade="S"/>
+   <set crystallizable="true" crystal_count="2052" />
+   <set weight="1350" price="48800000"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <stats>
+    <set stat="pAtk" order="0x8" val="342"/>
+    <set stat="mAtk" order="0x8" val="132"/>
+    <set stat="rCrit" order="0x8" val="4"/>
+    <add stat="accCombat" order="0x10" val="4"/>
+    <set stat="pAtkSpd" order="0x8" val="325"/>
+    <enchant stat="pAtk" order="0xc" val="0"/>
+    <enchant stat="mAtk" order="0xc" val="0"/>
+    <mul stat="pvpPhysDmg" order="0x30" val="1.05"/>
+    <mul stat="pvpMagicalDmg" order="0x30" val="1.05"/>
+   </stats>
+  </weapon>
+  <weapon id="6605" name="Heavens Divider - Haste" weaponType="BigSword" >
+   <set icon="icon.weapon_heavens_divider_i01"/>
+   <set bodyPart="LRHAND" grade="S"/>
+   <set crystallizable="true" crystal_count="2052" />
+   <set weight="1380" price="48800000"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <skills>
+      <skill id="3564" level="1"/>
+    </skills>
+
+   <stats>
+    <set stat="pAtk" order="0x8" val="342"/>
+    <set stat="mAtk" order="0x8" val="132"/>
+    <set stat="rCrit" order="0x8" val="8"/>
+    <add stat="accCombat" order="0x10" val="0"/>
+    <set stat="pAtkSpd" order="0x8" val="325"/>
+    <enchant stat="pAtk" order="0xc" val="0"/>
+    <enchant stat="mAtk" order="0xc" val="0"/>
+   </stats>
+  </weapon>
+  <weapon id="6606" name="Heavens Divider - Health" weaponType="BigSword" >
+   <set icon="icon.weapon_heavens_divider_i01"/>
+   <set bodyPart="LRHAND" grade="S"/>
+   <set crystallizable="true" crystal_count="2052" />
+   <set weight="1380" price="48800000"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <skills>
+      <skill id="3013" level="3"/>
+    </skills>
+
+   <stats>
+    <set stat="pAtk" order="0x8" val="342"/>
+    <set stat="mAtk" order="0x8" val="132"/>
+    <set stat="rCrit" order="0x8" val="8"/>
+    <add stat="accCombat" order="0x10" val="0"/>
+    <set stat="pAtkSpd" order="0x8" val="325"/>
+    <enchant stat="pAtk" order="0xc" val="0"/>
+    <enchant stat="mAtk" order="0xc" val="0"/>
+   </stats>
+  </weapon>
+  <weapon id="6607" name="Heavens Divider - Focus" weaponType="BigSword" >
+   <set icon="icon.weapon_heavens_divider_i01"/>
+   <set bodyPart="LRHAND" grade="S"/>
+   <set crystallizable="true" crystal_count="2052" />
+   <set weight="1380" price="48800000"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <skills>
+      <skill id="3566" level="1"/>
+    </skills>
+
+   <stats>
+    <set stat="pAtk" order="0x8" val="342"/>
+    <set stat="mAtk" order="0x8" val="132"/>
+    <set stat="rCrit" order="0x8" val="8"/>
+    <add stat="accCombat" order="0x10" val="0"/>
+    <set stat="pAtkSpd" order="0x8" val="325"/>
+    <enchant stat="pAtk" order="0xc" val="0"/>
+    <enchant stat="mAtk" order="0xc" val="0"/>
+   </stats>
+  </weapon>
+  <weapon id="6608" name="Arcana Mace - Acumen" weaponType="Blunt" >
+   <set icon="icon.weapon_arcana_mace_i01"/>
+   <set bodyPart="RHAND" grade="S"/>
+   <set crystallizable="true" crystal_count="2052" />
+   <set weight="1300" price="48800000"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <skills>
+      <skill id="3047" level="2"/>
+    </skills>
+
+   <stats>
+    <set stat="pAtk" order="0x8" val="225"/>
+    <set stat="mAtk" order="0x8" val="175"/>
+    <set stat="rCrit" order="0x8" val="4"/>
+    <add stat="accCombat" order="0x10" val="4"/>
+    <set stat="pAtkSpd" order="0x8" val="379"/>
+    <enchant stat="pAtk" order="0xc" val="0"/>
+    <enchant stat="mAtk" order="0xc" val="0"/>
+   </stats>
+  </weapon>
+  <weapon id="6609" name="Arcana Mace - MP Regeneration" weaponType="Blunt" >
+   <set icon="icon.weapon_arcana_mace_i01"/>
+   <set bodyPart="RHAND" grade="S"/>
+   <set crystallizable="true" crystal_count="2052" />
+   <set weight="1300" price="48800000"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <skills>
+      <skill id="3576" level="1"/>
+    </skills>
+
+   <stats>
+    <set stat="pAtk" order="0x8" val="225"/>
+    <set stat="mAtk" order="0x8" val="175"/>
+    <set stat="rCrit" order="0x8" val="4"/>
+    <add stat="accCombat" order="0x10" val="4"/>
+    <set stat="pAtkSpd" order="0x8" val="379"/>
+    <enchant stat="pAtk" order="0xc" val="0"/>
+    <enchant stat="mAtk" order="0xc" val="0"/>
+    <mul stat="pvpPhysDmg" order="0x30" val="1.05"/>
+    <mul stat="pvpMagicalDmg" order="0x30" val="1.05"/>
+   </stats>
+  </weapon>
+  <weapon id="6610" name="Arcana Mace - Mana Up" weaponType="Blunt" >
+   <set icon="icon.weapon_arcana_mace_i01"/>
+   <set bodyPart="RHAND" grade="S"/>
+   <set crystallizable="true" crystal_count="2052" />
+   <set weight="1300" price="48800000"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <skills>
+      <skill id="3014" level="2"/>
+    </skills>
+
+   <stats>
+    <set stat="pAtk" order="0x8" val="225"/>
+    <set stat="mAtk" order="0x8" val="175"/>
+    <set stat="rCrit" order="0x8" val="4"/>
+    <add stat="accCombat" order="0x10" val="4"/>
+    <set stat="pAtkSpd" order="0x8" val="379"/>
+    <enchant stat="pAtk" order="0xc" val="0"/>
+    <enchant stat="mAtk" order="0xc" val="0"/>
+   </stats>
+  </weapon>
+  <weapon id="6611" name="Infinity Blade" weaponType="Sword" >
+   <set icon="icon.weapon_the_sword_of_hero_i00"/>
+   <set bodyPart="RHAND" grade="S"/>
+   <set crystallizable="false" />
+   <set weight="1300" price="57000000"/>
+   <set sellable="false" tradeable="false" />
+   <set dropable="false" destroyable="false"/>
+
+   <skills>
+      <skill id="3578" level="1"/>
+    </skills>
+
+   <stats>
+    <set stat="pAtk" order="0x8" val="379"/>
+    <set stat="mAtk" order="0x8" val="169"/>
+    <set stat="rCrit" order="0x8" val="8"/>
+    <add stat="accCombat" order="0x10" val="0"/>
+    <set stat="pAtkSpd" order="0x8" val="379"/>
+    <enchant stat="pAtk" order="0xc" val="0"/>
+    <enchant stat="mAtk" order="0xc" val="0"/>
+   </stats>
+  </weapon>
+  <weapon id="6612" name="Infinity Cleaver" weaponType="BigSword" >
+   <set icon="icon.weapon_the_two_handed_sword_of_hero_i00"/>
+   <set bodyPart="LRHAND" grade="S"/>
+   <set crystallizable="false" />
+   <set weight="1300" price="57000000"/>
+   <set sellable="false" tradeable="false" />
+   <set dropable="false" destroyable="false"/>
+
+   <skills>
+      <skill id="3582" level="1"/>
+    </skills>
+
+   <stats>
+    <set stat="pAtk" order="0x8" val="461"/>
+    <set stat="mAtk" order="0x8" val="169"/>
+    <set stat="rCrit" order="0x8" val="8"/>
+    <add stat="accCombat" order="0x10" val="0"/>
+    <set stat="pAtkSpd" order="0x8" val="325"/>
+    <enchant stat="pAtk" order="0xc" val="0"/>
+    <enchant stat="mAtk" order="0xc" val="0"/>
+   </stats>
+  </weapon>
+  <weapon id="6613" name="Infinity Axe" weaponType="Blunt" >
+   <set icon="icon.weapon_the_axe_of_hero_i00"/>
+   <set bodyPart="RHAND" grade="S"/>
+   <set crystallizable="false" />
+   <set weight="1300" price="57000000"/>
+   <set sellable="false" tradeable="false" />
+   <set dropable="false" destroyable="false"/>
+
+   <skills>
+      <skill id="3580" level="1"/>
+    </skills>
+
+   <stats>
+    <set stat="pAtk" order="0x8" val="397"/>
+    <set stat="mAtk" order="0x8" val="169"/>
+    <set stat="rCrit" order="0x8" val="4"/>
+    <add stat="accCombat" order="0x10" val="4"/>
+    <set stat="pAtkSpd" order="0x8" val="379"/>
+    <enchant stat="pAtk" order="0xc" val="0"/>
+    <enchant stat="mAtk" order="0xc" val="0"/>
+   </stats>
+  </weapon>
+  <weapon id="6614" name="Infinity Rod" weaponType="Blunt" >
+   <set icon="icon.weapon_the_mace_of_hero_i00"/>
+   <set bodyPart="RHAND" grade="S"/>
+   <set crystallizable="false" />
+   <set weight="1300" price="57000000"/>
+   <set sellable="false" tradeable="false" />
+   <set dropable="false" destroyable="false"/>
+
+   <skills>
+      <skill id="3597" level="1"/>
+    </skills>
+
+   <stats>
+    <set stat="pAtk" order="0x8" val="303"/>
+    <set stat="mAtk" order="0x8" val="226"/>
+    <set stat="rCrit" order="0x8" val="4"/>
+    <add stat="accCombat" order="0x10" val="4"/>
+    <set stat="pAtkSpd" order="0x8" val="379"/>
+    <enchant stat="pAtk" order="0xc" val="0"/>
+    <enchant stat="mAtk" order="0xc" val="0"/>
+   </stats>
+  </weapon>
+  <weapon id="6615" name="Infinity Crusher" weaponType="BigBlunt" >
+   <set icon="icon.weapon_the_hammer_of_hero_i00"/>
+   <set bodyPart="LRHAND" grade="S"/>
+   <set crystallizable="false" />
+   <set weight="1300" price="57000000"/>
+   <set sellable="false" tradeable="false" />
+   <set dropable="false" destroyable="false"/>
+
+   <skills>
+      <skill id="3583" level="1"/>
+    </skills>
+
+   <stats>
+    <set stat="pAtk" order="0x8" val="461"/>
+    <set stat="mAtk" order="0x8" val="169"/>
+    <set stat="rCrit" order="0x8" val="4"/>
+    <add stat="accCombat" order="0x10" val="4"/>
+    <set stat="pAtkSpd" order="0x8" val="325"/>
+    <enchant stat="pAtk" order="0xc" val="0"/>
+    <enchant stat="mAtk" order="0xc" val="0"/>
+   </stats>
+  </weapon>
+  <weapon id="6616" name="Infinity Scepter" weaponType="BigBlunt" >
+   <set icon="icon.weapon_the_staff_of_hero_i00"/>
+   <set bodyPart="LRHAND" grade="S"/>
+   <set crystallizable="false" />
+   <set weight="1300" price="57000000"/>
+   <set sellable="false" tradeable="false" />
+   <set dropable="false" destroyable="false"/>
+
+   <skills>
+      <skill id="3595" level="1"/>
+    </skills>
+
+   <stats>
+    <set stat="pAtk" order="0x8" val="369"/>
+    <set stat="mAtk" order="0x8" val="226"/>
+    <set stat="rCrit" order="0x8" val="4"/>
+    <add stat="accCombat" order="0x10" val="4"/>
+    <set stat="pAtkSpd" order="0x8" val="325"/>
+    <enchant stat="pAtk" order="0xc" val="0"/>
+    <enchant stat="mAtk" order="0xc" val="0"/>
+   </stats>
+  </weapon>
+  <weapon id="6617" name="Infinity Stinger" weaponType="Dagger" >
+   <set icon="icon.weapon_the_dagger_of_hero_i00"/>
+   <set bodyPart="RHAND" grade="S"/>
+   <set crystallizable="false" />
+   <set weight="1300" price="57000000"/>
+   <set sellable="false" tradeable="false" />
+   <set dropable="false" destroyable="false"/>
+
+   <skills>
+      <skill id="3589" level="1"/>
+    </skills>
+
+   <stats>
+    <set stat="pAtk" order="0x8" val="332"/>
+    <set stat="mAtk" order="0x8" val="169"/>
+    <set stat="rCrit" order="0x8" val="12"/>
+    <add stat="accCombat" order="0x10" val="-3"/>
+    <set stat="pAtkSpd" order="0x8" val="433"/>
+    <enchant stat="pAtk" order="0xc" val="0"/>
+    <enchant stat="mAtk" order="0xc" val="0"/>
+   </stats>
+  </weapon>
+  <weapon id="6618" name="Infinity Fang" weaponType="DualFist" >
+   <set icon="icon.weapon_the_fist_of_hero_i00"/>
+   <set bodyPart="LRHAND" grade="S"/>
+   <set crystallizable="false" />
+   <set weight="1300" price="57000000"/>
+   <set sellable="false" tradeable="false" />
+   <set dropable="false" destroyable="false"/>
+
+   <skills>
+      <skill id="3587" level="1"/>
+    </skills>
+
+   <stats>
+    <set stat="pAtk" order="0x8" val="461"/>
+    <set stat="mAtk" order="0x8" val="169"/>
+    <set stat="rCrit" order="0x8" val="4"/>
+    <add stat="accCombat" order="0x10" val="4"/>
+    <set stat="pAtkSpd" order="0x8" val="325"/>
+    <enchant stat="pAtk" order="0xc" val="0"/>
+    <enchant stat="mAtk" order="0xc" val="0"/>
+   </stats>
+  </weapon>
+  <weapon id="6619" name="Infinity Bow" weaponType="Bow" >
+   <set icon="icon.weapon_the_bow_of_hero_i00"/>
+   <set bodyPart="LRHAND" grade="S"/>
+   <set crystallizable="false" />
+   <set weight="1300" price="57000000"/>
+   <set sellable="false" tradeable="false" />
+   <set dropable="false" destroyable="false"/>
+
+   <skills>
+      <skill id="3593" level="1"/>
+    </skills>
+
+   <stats>
+    <set stat="pAtk" order="0x8" val="707"/>
+    <set stat="mAtk" order="0x8" val="169"/>
+    <set stat="rCrit" order="0x8" val="12"/>
+    <add stat="accCombat" order="0x10" val="-3"/>
+    <set stat="pAtkSpd" order="0x8" val="293"/>
+    <enchant stat="pAtk" order="0xc" val="0"/>
+    <enchant stat="mAtk" order="0xc" val="0"/>
+    <set stat="MpConsume" order="0x8" val="1"/>
+   </stats>
+  </weapon>
+  <weapon id="6620" name="Infinity Wing" weaponType="DualSword" >
+   <set icon="icon.weapon_the_dualsword_of_hero_i00"/>
+   <set bodyPart="LRHAND" grade="S"/>
+   <set crystallizable="false" />
+   <set weight="1300" price="57000000"/>
+   <set sellable="false" tradeable="false" />
+   <set dropable="false" destroyable="false"/>
+
+   <skills>
+      <skill id="3585" level="1"/>
+    </skills>
+
+   <stats>
+    <set stat="pAtk" order="0x8" val="461"/>
+    <set stat="mAtk" order="0x8" val="169"/>
+    <set stat="rCrit" order="0x8" val="8"/>
+    <add stat="accCombat" order="0x10" val="0"/>
+    <set stat="pAtkSpd" order="0x8" val="325"/>
+    <enchant stat="pAtk" order="0xc" val="0"/>
+    <enchant stat="mAtk" order="0xc" val="0"/>
+   </stats>
+  </weapon>
+  <weapon id="6621" name="Infinity Spear" weaponType="Pole" >
+   <set icon="icon.weapon_the_pole_of_hero_i00"/>
+   <set bodyPart="LRHAND" grade="S"/>
+   <set crystallizable="false" />
+   <set weight="1300" price="57000000"/>
+   <set sellable="false" tradeable="false" />
+   <set dropable="false" destroyable="false"/>
+
+   <skills>
+      <skill id="3591" level="1"/>
+    </skills>
+
+   <stats>
+    <set stat="pAtk" order="0x8" val="379"/>
+    <set stat="mAtk" order="0x8" val="169"/>
+    <set stat="rCrit" order="0x8" val="8"/>
+    <set stat="pAtkRange" order="0x8" val="66"/>
+    <add stat="accCombat" order="0x10" val="-3"/>
+    <set stat="pAtkSpd" order="0x8" val="325"/>
+    <enchant stat="pAtk" order="0xc" val="0"/>
+    <enchant stat="mAtk" order="0xc" val="0"/>
+   </stats>
+  </weapon>
+  <weapon id="6715" name="Monster Only(Silenos Archer)" weaponType="Bow" >
+   <set icon="icon.weapon_monster_i00"/>
+   <set bodyPart="LRHAND" grade="NONE"/>
+   <set crystallizable="false" />
+   <set weight="1950" price="768"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <stats>
+    <set stat="pAtk" order="0x8" val="16"/>
+    <set stat="mAtk" order="0x8" val="6"/>
+    <set stat="rCrit" order="0x8" val="12"/>
+    <add stat="accCombat" order="0x10" val="-3"/>
+    <set stat="pAtkSpd" order="0x8" val="293"/>
+    <enchant stat="pAtk" order="0xc" val="0"/>
+    <enchant stat="mAtk" order="0xc" val="0"/>
+   </stats>
+  </weapon>
+  <weapon id="6716" name="Monster Only(Silenos Shaman)" weaponType="BigBlunt" >
+   <set icon="icon.weapon_monster_i00"/>
+   <set bodyPart="LRHAND" grade="NONE"/>
+   <set crystallizable="false" />
+   <set weight="1080" price="12500"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <stats>
+    <set stat="pAtk" order="0x8" val="11"/>
+    <set stat="mAtk" order="0x8" val="12"/>
+    <set stat="rCrit" order="0x8" val="4"/>
+    <add stat="accCombat" order="0x10" val="4"/>
+    <set stat="pAtkSpd" order="0x8" val="325"/>
+    <enchant stat="pAtk" order="0xc" val="0"/>
+    <enchant stat="mAtk" order="0xc" val="0"/>
+   </stats>
+  </weapon>
+  <weapon id="6717" name="Monster Only(Einhasad Warrior)" weaponType="Sword" >
+   <set icon="icon.weapon_monster_i00"/>
+   <set bodyPart="RHAND" grade="NONE"/>
+   <set crystallizable="false" />
+   <set weight="1560" price="136000"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <stats>
+    <set stat="pAtk" order="0x8" val="24"/>
+    <set stat="mAtk" order="0x8" val="17"/>
+    <set stat="rCrit" order="0x8" val="8"/>
+    <add stat="accCombat" order="0x10" val="0"/>
+    <set stat="pAtkSpd" order="0x8" val="379"/>
+    <enchant stat="pAtk" order="0xc" val="0"/>
+    <enchant stat="mAtk" order="0xc" val="0"/>
+   </stats>
+  </weapon>
+  <weapon id="6718" name="Monster Only(Einhasad Shaman)" weaponType="BigBlunt" >
+   <set icon="icon.weapon_monster_i00"/>
+   <set bodyPart="LRHAND" grade="NONE"/>
+   <set crystallizable="false" />
+   <set weight="1560" price="136000"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <stats>
+    <set stat="pAtk" order="0x8" val="24"/>
+    <set stat="mAtk" order="0x8" val="17"/>
+    <set stat="rCrit" order="0x8" val="4"/>
+    <add stat="accCombat" order="0x10" val="4"/>
+    <set stat="pAtkSpd" order="0x8" val="325"/>
+    <enchant stat="pAtk" order="0xc" val="0"/>
+    <enchant stat="mAtk" order="0xc" val="0"/>
+   </stats>
+  </weapon>
+  <weapon id="6719" name="Monster Only(Ketra Orc Chieftain)" weaponType="BigBlunt" >
+   <set icon="icon.weapon_monster_i00"/>
+   <set bodyPart="LRHAND" grade="C"/>
+   <set crystallizable="false" />
+   <set weight="990" price="4780000"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <stats>
+    <set stat="pAtk" order="0x8" val="141"/>
+    <set stat="mAtk" order="0x8" val="104"/>
+    <set stat="rCrit" order="0x8" val="4"/>
+    <add stat="accCombat" order="0x10" val="4"/>
+    <set stat="pAtkSpd" order="0x8" val="325"/>
+    <enchant stat="pAtk" order="0xc" val="0"/>
+    <enchant stat="mAtk" order="0xc" val="0"/>
+   </stats>
+  </weapon>
+  <weapon id="6720" name="Monster Only(Shadow of Halisha)" weaponType="Bow" >
+   <set icon="icon.weapon_monster_i00"/>
+   <set bodyPart="LRHAND" grade="NONE"/>
+   <set crystallizable="false" />
+   <set weight="1950" price="768"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <stats>
+    <set stat="pAtk" order="0x8" val="16"/>
+    <set stat="mAtk" order="0x8" val="6"/>
+    <set stat="rCrit" order="0x8" val="12"/>
+    <add stat="accCombat" order="0x10" val="-3"/>
+    <set stat="pAtkSpd" order="0x8" val="293"/>
+    <enchant stat="pAtk" order="0xc" val="0"/>
+    <enchant stat="mAtk" order="0xc" val="0"/>
+   </stats>
+  </weapon>
+  <weapon id="6722" name="Monster Only(Ahrimanes)" weaponType="DualSword" >
+   <set icon="icon.weapon_monster_i00"/>
+   <set bodyPart="LRHAND" grade="B"/>
+   <set crystallizable="false" />
+   <set weight="2080" price="13100000"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <stats>
+    <set stat="pAtk" order="0x8" val="236"/>
+    <set stat="mAtk" order="0x8" val="99"/>
+    <set stat="rCrit" order="0x8" val="8"/>
+    <add stat="accCombat" order="0x10" val="0"/>
+    <set stat="pAtkSpd" order="0x8" val="325"/>
+    <enchant stat="pAtk" order="0xc" val="0"/>
+    <enchant stat="mAtk" order="0xc" val="0"/>
+   </stats>
+  </weapon>
+  <weapon id="6723" name="Monster Only(Vampire Warrior)" weaponType="BigSword" >
+   <set icon="icon.weapon_monster_i00"/>
+   <set bodyPart="LRHAND" grade="D"/>
+   <set crystallizable="false" />
+   <set weight="2090" price="1800000"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <stats>
+    <set stat="pAtk" order="0x8" val="112"/>
+    <set stat="mAtk" order="0x8" val="54"/>
+    <set stat="rCrit" order="0x8" val="8"/>
+    <add stat="accCombat" order="0x10" val="0"/>
+    <set stat="pAtkSpd" order="0x8" val="325"/>
+    <enchant stat="pAtk" order="0xc" val="0"/>
+    <enchant stat="mAtk" order="0xc" val="0"/>
+   </stats>
+  </weapon>
+  <weapon id="6917" name="Monster Only (Poison Sting)" weaponType="DualFist" >
+   <set icon="icon.weapon_monster_i00"/>
+   <set bodyPart="RHAND" grade="NONE"/>
+   <set crystallizable="false" />
+   <set weight="6" price="2"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <stats>
+    <set stat="pAtk" order="0x8" val="0"/>
+    <set stat="mAtk" order="0x8" val="0"/>
+    <set stat="rCrit" order="0x8" val="0"/>
+    <add stat="accCombat" order="0x10" val="0"/>
+    <set stat="pAtkSpd" order="0x8" val="0"/>
+    <enchant stat="pAtk" order="0xc" val="0"/>
+    <enchant stat="mAtk" order="0xc" val="0"/>
+   </stats>
+  </weapon>
+</list>

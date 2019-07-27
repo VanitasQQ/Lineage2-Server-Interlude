@@ -1,0 +1,81 @@
+<html><title>Панель управления сервером</title><body>
+<center>
+<table width=210>
+<tr>
+<td><button value="Главная" action="bypass -h admin_admin" width=60 height=21 back="sek.cbui94" fore="sek.cbui94"></td>
+<td><button value="Игровая" action="bypass -h admin_gamemenu" width=60 height=21 back="sek.cbui94" fore="sek.cbui94"></td>
+<td><button value="Эфекты" action="bypass -h admin_effects" width=60 height=21 back="sek.cbui94" fore="sek.cbui94"></td>
+<td><button value="Эвенты" action="bypass -h admin_events" width=60 height=21 back="sek.cbui94" fore="sek.cbui94"></td>
+</tr>
+<tr>
+<td><button value="Сервер" action="bypass -h admin_server" width=60 height=21 back="sek.cbui94" fore="sek.cbui94"></td>
+<td><button value="Контроль" action="bypass -h admin_control" width=60 height=21 back="sek.cbui94" fore="sek.cbui94"></td>
+<td><button value="Игроки" action="bypass -h admin_players" width=60 height=21 back="sek.cbui94" fore="sek.cbui94"></td>
+<td><button value="Конфиги" action="bypass -h admin_config" width=60 height=21 back="sek.cbui94" fore="sek.cbui94"></td>
+</tr>
+</table>
+
+<!-- menu 1-->
+<br><font color="LEVEL">Список подменю</font>
+<table width=260>
+<tr>
+<td><button value="Анонсы" action="bypass -h admin_announce_menu" width=65 height=19 back="sek.cbui94" fore="sek.cbui94"></td>
+<td><button value="Телепорт" action="bypass -h admin_show_moves" width=65 height=19 back="sek.cbui94" fore="sek.cbui94"></td>
+<td><button value="Премиум" action="bypass -h admin_premium_menu" width=65 height=19 back="sek.cbui94" fore="sek.cbui94"></td>
+<td><button value="Обновить" action="bypass -h admin_reload_menu" width=65 height=19 back="sek.cbui94" fore="sek.cbui94"></td>
+</tr>
+<tr>
+<td><button value="Магазин" action="bypass -h admin_gmshop" width=65 height=19 back="sek.cbui94" fore="sek.cbui94"></td>
+<td><button value="Заточка" action="bypass -h admin_enchant" width=65 height=19 back="sek.cbui94" fore="sek.cbui94"></td>
+<td><button value="Админка" action="bypass -h admin_gmmenu" width=65 height=19 back="sek.cbui94" fore="sek.cbui94"></td>
+<td><button value="Спавн" action="bypass -h admin_spawn_menu" width=65 height=19 back="sek.cbui94" fore="sek.cbui94"></td>
+</tr>
+</table>
+
+<br><font color="LEVEL">Команды</font>
+
+<table width=260>
+<tr>
+<td width=50></td>
+<td width=160><edit var="qbox" width=160 height=19></td>
+<td width=50></td>
+</tr>
+</table><br>
+<table width=270>
+<tr>
+<td><button value="Убийство" action="bypass -h admin_kill $qbox" width=90 height=17 back="sek.cbui94" fore="sek.cbui94"></td>
+<td><button value="Воскрешение" action="bypass -h admin_res $qbox" width=90 height=17 back="sek.cbui94" fore="sek.cbui94"></td>
+<td><button value="Лечение" action="bypass -h admin_heal $qbox" width=90 height=17 back="sek.cbui94" fore="sek.cbui94"></td>
+</tr>
+<tr>
+<td><button value="Снять баф" action="bypass -h admin_gmcancel $qbox" width=90 height=17 back="sek.cbui94" fore="sek.cbui94"></td>
+<td><button value="Снять карму" action="bypass -h admin_nokarma" width=90 height=17 back="sek.cbui94" fore="sek.cbui94"></td>
+<td><button value="Дать карму" action="bypass -h admin_setkarma $qbox" width=90 height=17 back="sek.cbui94" fore="sek.cbui94"></td>
+</tr>
+<tr>
+<td><button value="Открыть" action="bypass -h admin_open $qbox" width=90 height=17 back="sek.cbui94" fore="sek.cbui94"></td>
+<td><button value="Закрыть" action="bypass -h admin_close $qbox" width=90 height=17 back="sek.cbui94" fore="sek.cbui94"></td>
+<td><button value="Удалить" action="bypass -h admin_delete" width=90 height=17 back="sek.cbui94" fore="sek.cbui94"></td>
+</tr>
+<tr>
+<td><button value="Set Nobless" action="bypass -h admin_setnoble" width=90 height=17 back="sek.cbui94" fore="sek.cbui94"></td>
+<td><button value="Set Hero" action="bypass -h admin_sethero" width=90 height=17 back="sek.cbui94" fore="sek.cbui94"></td>
+<td><button value="Rem ClanWait" action="bypass -h admin_remclanwait" width=90 height=17 back="sek.cbui94" fore="sek.cbui94"></td>
+</tr>
+</table>
+
+<br><font color="LEVEL">Статус администратора</font>
+<table width=270>
+<tr>
+<td><button value="Invul" action="bypass -h admin_invul" width=90 height=17 back="sek.cbui94" fore="sek.cbui94"></td>
+<td><button value="Invis" action="bypass -h admin_invis" width=90 height=17 back="sek.cbui94" fore="sek.cbui94"></td>
+<td><button value="Visible" action="bypass -h admin_vis" width=90 height=17 back="sek.cbui94" fore="sek.cbui94"></td>
+</tr>
+<tr>
+<td><button value="Silence" action="bypass -h admin_silence" width=90 height=17 back="sek.cbui94" fore="sek.cbui94"></td>
+<td><button value="TradeOff" action="bypass -h admin_tradeoff" width=90 height=17 back="sek.cbui94" fore="sek.cbui94"></td>
+<td><button value="DietMode" action="bypass -h admin_diet" width=90 height=17 back="sek.cbui94" fore="sek.cbui94"></td>
+</tr>
+</table>
+
+</center></body></html>

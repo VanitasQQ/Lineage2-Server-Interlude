@@ -1,0 +1,43 @@
+<html><title>Панель управления сервером</title><body>
+<center>
+<font color="CCCC99">CopyRight L2CatsSoftware © 2009-2010</font>
+<!-- top menu -->
+<table width=240>
+<tr>
+<td><button value="Главная" action="bypass -h admin_admin" width=60 height=19 back="sek.cbui94" fore="sek.cbui94"></td>
+<td><button value="Игровая" action="bypass -h admin_gamemenu" width=60 height=19 back="sek.cbui94" fore="sek.cbui94"></td>
+<td><button value="Эфекты" action="bypass -h admin_effects" width=60 height=19 back="sek.cbui94" fore="sek.cbui94"></td>
+<td><button value="Эвенты" action="bypass -h admin_events" width=60 height=19 back="sek.cbui94" fore="sek.cbui94"></td>
+</tr>
+<tr>
+<td><button value="Сервер" action="bypass -h admin_server" width=60 height=19 back="sek.cbui94" fore="sek.cbui94"></td>
+<td><button value="Контроль" action="bypass -h admin_control" width=60 height=19 back="sek.cbui94" fore="sek.cbui94"></td>
+<td><button value="Игроки" action="bypass -h admin_players" width=60 height=19 back="sek.cbui94" fore="sek.cbui94"></td>
+<td><button value="Конфиги" action="bypass -h admin_config" width=60 height=19 back="sek.cbui94" fore="sek.cbui94"></td>
+</tr>
+</table>
+
+<br><font color="LEVEL">Поиск игроков</font>
+<table width=240>
+<tr>
+<td><edit var="name" width=200></td><td><button value="Поиск" action="bypass -h admin_find_character $name" width=50 height=19 back="sek.cbui94" fore="sek.cbui94"></td>
+</tr>
+</table></center>
+<font color="B22222">[*]:</font> <font color="CCCC99">Поиск можно делать по части имени</font>
+
+<center>
+<br><font color="LEVEL">Найденые игроки</font>
+<img src="L2UI.SquareWhite" width=270 height=1>
+<img src="L2UI.SquareBlank" width=1 height=3>
+</center>
+
+<table width=270>
+<tr><td width=80>Имя:</td><td width=110>Класс:</td><td width=40>Уровень:</td></tr>
+%players%
+</table>
+
+<center>
+<img src="L2UI.SquareBlank" width=1 height=3>
+<img src="L2UI.SquareWhite" width=270 height=1>
+<br><td><button value="Назад" action="bypass -h admin_find_character" width=60 height=19 back="sek.cbui94" fore="sek.cbui94"></td>
+</center></body></html>

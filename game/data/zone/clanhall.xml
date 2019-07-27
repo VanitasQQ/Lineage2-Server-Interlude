@@ -1,0 +1,611 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+  <zone id="1" name="Partisan Hideaway" type="Clanhall">
+    <settings trade="true"/>
+    <entity castleId="-1" clanhallId="21"/>
+    <restart_owner x="43370" y="108839" z="-1980"/>
+    <shape type="Poly" zMin="-2104" zMax="-1104">
+      <point x="43048" y="108832"/>
+      <point x="43692" y="108204"/>
+      <point x="44052" y="108604"/>
+      <point x="43976" y="109180"/>
+      <point x="43684" y="109496"/>
+    </shape>
+  </zone>
+
+  <zone id="2" name="Gludio Moonstone Hall" type="Clanhall">
+    <settings trade="true"/>
+    <entity castleId="1" clanhallId="22"/>
+    <restart_owner x="-16029" y="123642" z="-3101"/>
+    <shape type="Poly" zMin="-3598" zMax="-2098">
+      <point x="-16362" y="123496"/>
+      <point x="-15748" y="123315"/>
+      <point x="-15645" y="123655"/>
+      <point x="-16234" y="123831"/>
+    </shape>
+  </zone>
+
+  <zone id="3" name="Gludio Onyx Hall" type="Clanhall">
+    <settings trade="true"/>
+    <entity castleId="1" clanhallId="23"/>
+    <restart_owner x="-14848" y="125552" z="-3128"/>
+    <shape type="Poly" zMin="-3777" zMax="-2277">
+      <point x="-15098" y="125352"/>
+      <point x="-14789" y="125352"/>
+      <point x="-14789" y="125816"/>
+      <point x="-15098" y="125816"/>
+    </shape>
+  </zone>
+
+  <zone id="4" name="Gludio Topaz Hall" type="Clanhall">
+    <settings trade="true"/>
+    <entity castleId="1" clanhallId="24"/>
+    <restart_owner x="-13879" y="125413" z="-3128"/>
+    <shape type="Poly" zMin="-3745" zMax="-2245">
+      <point x="-14028" y="125062"/>
+      <point x="-13695" y="125070"/>
+      <point x="-13695" y="125671"/>
+      <point x="-14028" y="125663"/>
+    </shape>
+  </zone>
+
+  <zone id="5" name="Gludio Ruby Hall" type="Clanhall">
+    <settings trade="true"/>
+    <entity castleId="1" clanhallId="25"/>
+    <restart_owner x="-12710" y="124029" z="-3096"/>
+    <shape type="Poly" zMin="-3809" zMax="-2309">
+      <point x="-12942" y="123872"/>
+      <point x="-12327" y="123872"/>
+      <point x="-12327" y="124231"/>
+      <point x="-12942" y="124231"/>
+    </shape>
+  </zone>
+
+  <zone id="6" name="Gludin Crystal Hall" type="Clanhall">
+    <settings trade="true"/>
+    <entity castleId="1" clanhallId="26"/>
+    <restart_owner x="-84416" y="152192" z="-3123"/>
+    <shape type="Poly" zMin="-4706" zMax="-2576">
+      <point x="-84691" y="151557"/>
+      <point x="-84261" y="151557"/>
+      <point x="-84260" y="152333"/>
+      <point x="-84690" y="152330"/>
+      <point x="-84325" y="151962"/>
+      <point x="-83819" y="151959"/>
+      <point x="-83819" y="152328"/>
+      <point x="-84325" y="152328"/>
+    </shape>
+  </zone>
+
+  <zone id="7" name="Gludin Onyx Hall" type="Clanhall">
+    <settings trade="true"/>
+    <entity castleId="1" clanhallId="27"/>
+    <restart_owner x="-84171" y="153385" z="-3159"/>
+    <shape type="Poly" zMin="-4012" zMax="-2512">
+      <point x="-84000" y="154024"/>
+      <point x="-84333" y="154024"/>
+      <point x="-84333" y="153113"/>
+      <point x="-83618" y="153100"/>
+      <point x="-83618" y="153547"/>
+      <point x="-84000" y="153559"/>
+    </shape>
+  </zone>
+
+  <zone id="8" name="Gludin Sapphire Hall" type="Clanhall">
+    <settings trade="true"/>
+    <entity castleId="1" clanhallId="28"/>
+    <restart_owner x="-84236" y="155520" z="-3160"/>
+    <shape type="Poly" zMin="-4044" zMax="-2544">
+      <point x="-84463" y="154941"/>
+      <point x="-83987" y="154941"/>
+      <point x="-83986" y="155688"/>
+      <point x="-84463" y="155685"/>
+      <point x="-84098" y="155318"/>
+      <point x="-83523" y="155317"/>
+      <point x="-83523" y="155686"/>
+      <point x="-84098" y="155684"/>
+    </shape>
+  </zone>
+
+  <zone id="9" name="Gludin Moonstone Hall" type="Clanhall">
+    <settings trade="true"/>
+    <entity castleId="1" clanhallId="29"/>
+    <restart_owner x="-79544" y="150181" z="-3038"/>
+    <shape type="Poly" zMin="-3948" zMax="-2448">
+      <point x="-79657" y="149419"/>
+      <point x="-79290" y="149424"/>
+      <point x="-79284" y="150296"/>
+      <point x="-79656" y="150298"/>
+      <point x="-80066" y="149420"/>
+      <point x="-79491" y="149419"/>
+      <point x="-79491" y="149859"/>
+      <point x="-80066" y="149857"/>
+    </shape>
+  </zone>
+
+  <zone id="10" name="Gludin Emerald Hall" type="Clanhall">
+    <settings trade="true"/>
+    <entity castleId="1" clanhallId="30"/>
+    <restart_owner x="-79513" y="151506" z="-3041"/>
+    <shape type="Poly" zMin="-3980" zMax="-2480">
+      <point x="-79663" y="151367"/>
+      <point x="-79296" y="151372"/>
+      <point x="-79290" y="152244"/>
+      <point x="-79663" y="152246"/>
+      <point x="-80067" y="151809"/>
+      <point x="-79493" y="151808"/>
+      <point x="-79493" y="152247"/>
+      <point x="-80067" y="152245"/>
+    </shape>
+  </zone>
+
+  <zone id="11" name="Dion Atramental Barracks Hall" type="Clanhall">
+    <settings trade="true"/>
+    <entity castleId="2" clanhallId="31"/>
+    <restart_owner x="17760" y="145200" z="-3036"/>
+    <shape type="Poly" zMin="-3365" zMax="-1865">
+      <point x="17597" y="144823"/>
+      <point x="17989" y="145089"/>
+      <point x="17828" y="145333"/>
+      <point x="17433" y="145067"/>
+    </shape>
+  </zone>
+
+  <zone id="12" name="Dion Scarlet Barracks Hall" type="Clanhall">
+    <settings trade="true"/>
+    <entity castleId="2" clanhallId="32"/>
+    <restart_owner x="18800" y="143248" z="-3010"/>
+    <shape type="Poly" zMin="-3333" zMax="-1833">
+      <point x="18849" y="143099"/>
+      <point x="18897" y="143562"/>
+      <point x="18615" y="143588"/>
+      <point x="18571" y="143128"/>
+    </shape>
+  </zone>
+
+  <zone id="13" name="Dion Viridian Barracks Hall" type="Clanhall">
+    <settings trade="true"/>
+    <entity castleId="2" clanhallId="33"/>
+    <restart_owner x="20096" y="146064" z="-3111"/>
+    <shape type="Poly" zMin="-3397" zMax="-1897">
+      <point x="19942" y="145996"/>
+      <point x="20414" y="145996"/>
+      <point x="20414" y="146292"/>
+      <point x="19942" y="146292"/>
+    </shape>
+  </zone>
+
+  <zone id="14" name="Devastated Castle" type="Clanhall">
+    <settings trade="true"/>
+    <entity castleId="-1" clanhallId="34"/>
+    <restart_owner x="177832" y="-17627" z="-2231"/>
+    <shape type="Poly" zMin="-2514" zMax="486">
+      <point x="176793" y="-19176"/>
+      <point x="179892" y="-19176"/>
+      <point x="179892" y="-15276"/>
+      <point x="179417" y="-14511"/>
+      <point x="177270" y="-14511"/>
+      <point x="176793" y="-15276"/>
+    </shape>
+    <shape type="Poly" zMin="-2920" zMax="80">
+      <point x="177465" y="-17925"/>
+      <point x="177685" y="-18620"/>
+      <point x="178490" y="-18711"/>
+    </shape>
+    <shape type="Poly" zMin="-2920" zMax="80">
+      <point x="178265" y="-15114"/>
+      <point x="178153" y="-15290"/>
+      <point x="178342" y="-15323"/>
+    </shape>
+  </zone>
+
+  <zone id="15" name="Bandits Stronghold" type="Clanhall">
+    <settings trade="true"/>
+    <entity castleId="-1" clanhallId="35"/>
+    <restart_owner x="80389" y="-15494" z="-1805"/>
+    <shape type="Poly" zMin="-2920" zMax="80">
+      <point x="79028" y="-17588"/>
+      <point x="84640" y="-19528"/>
+      <point x="85421" y="-18290"/>
+      <point x="86380" y="-19341"/>
+      <point x="86952" y="-16888"/>
+      <point x="83636" y="-13448"/>
+      <point x="79196" y="-13584"/>
+    </shape>
+    <shape type="Poly" zMin="-2920" zMax="80">
+      <point x="80455" y="-15231"/>
+      <point x="80765" y="-15589"/>
+      <point x="81364" y="-15365"/>
+    </shape>
+    <shape type="Poly" zMin="-2920" zMax="80">
+      <point x="85056" y="-17631"/>
+      <point x="85057" y="-17632"/>
+      <point x="85058" y="-17631"/>
+    </shape>
+  </zone>
+
+  <zone id="16" name="Aden The Golden Chamber Hall" type="Clanhall">
+    <settings trade="true"/>
+    <entity castleId="5" clanhallId="36"/>
+    <restart_owner x="149134" y="23140" z="-2160"/>
+    <shape type="Poly" zMin="-2160" zMax="-1960">
+      <point x="148844" y="22709"/>
+      <point x="149424" y="22709"/>
+      <point x="149424" y="23569"/>
+      <point x="148844" y="23569"/>
+    </shape>
+  </zone>
+
+  <zone id="17" name="Aden The Silver Chamber Hall" type="Clanhall">
+    <settings trade="true"/>
+    <entity castleId="5" clanhallId="37"/>
+    <restart_owner x="150644" y="23653" z="-2150"/>
+    <shape type="Poly" zMin="-2150" zMax="-1950">
+      <point x="150343" y="23193"/>
+      <point x="150943" y="23193"/>
+      <point x="150943" y="24113"/>
+      <point x="150343" y="24113"/>
+    </shape>
+  </zone>
+
+  <zone id="18" name="Aden The Mithril Chamber Hall" type="Clanhall">
+    <settings trade="true"/>
+    <entity castleId="5" clanhallId="38"/>
+    <restart_owner x="145667" y="25356" z="-2150"/>
+    <shape type="Poly" zMin="-2150" zMax="-1950">
+      <point x="145362" y="24890" z="-2150"/>
+      <point x="145972" y="24890" z="-2150"/>
+      <point x="145972" y="25820" z="-2150"/>
+      <point x="145362" y="25820" z="-1950"/>
+    </shape>
+  </zone>
+
+  <zone id="19" name="Aden Silver Manor Hall" type="Clanhall">
+    <settings trade="true"/>
+    <entity castleId="5" clanhallId="39"/>
+    <restart_owner x="150748" y="26540" z="-2280"/>
+    <shape type="Poly" zMin="-2280" zMax="-2080">
+      <point x="150460" y="26108"/>
+      <point x="151036" y="26108"/>
+      <point x="151036" y="26972"/>
+      <point x="150460" y="26972"/>
+    </shape>
+  </zone>
+
+  <zone id="20" name="Aden Golden Manor Hall" type="Clanhall">
+    <settings trade="true"/>
+    <entity castleId="5" clanhallId="40"/>
+    <restart_owner x="143992" y="27092" z="-2290"/>
+    <shape type="Poly" zMin="-2290" zMax="-2090">
+      <point x="143701" y="26661"/>
+      <point x="144281" y="26661"/>
+      <point x="144281" y="27521"/>
+      <point x="143701" y="27521"/>
+    </shape>
+  </zone>
+
+  <zone id="21" name="Aden The Bronze Chamber Hall" type="Clanhall">
+    <settings trade="true"/>
+    <entity castleId="5" clanhallId="41"/>
+    <restart_owner x="144014" y="28202" z="-2280"/>
+    <shape type="Poly" zMin="-2280" zMax="-2080">
+      <point x="143704" y="27734"/>
+      <point x="144324" y="27734"/>
+      <point x="144324" y="28670"/>
+      <point x="143704" y="28670"/>
+    </shape>
+  </zone>
+
+  <zone id="22" name="Giran The Golden Chamber Hall" type="Clanhall">
+    <settings trade="true"/>
+    <entity castleId="3" clanhallId="42"/>
+    <restart_owner x="78592" y="148080" z="-3581"/>
+    <shape type="Poly" zMin="-3647" zMax="-3297">
+      <point x="78059" y="147906"/>
+      <point x="79122" y="147906"/>
+      <point x="79122" y="148296"/>
+      <point x="78059" y="148296"/>
+    </shape>
+  </zone>
+
+  <zone id="23" name="Giran The Silver Chamber Hall" type="Clanhall">
+    <settings trade="true"/>
+    <entity castleId="3" clanhallId="43"/>
+    <restart_owner x="82032" y="145328" z="-3520"/>
+    <shape type="Poly" zMin="-3647" zMax="-3297">
+      <point x="81859" y="144802"/>
+      <point x="82254" y="144802"/>
+      <point x="82254" y="145870"/>
+      <point x="81859" y="145870"/>
+    </shape>
+  </zone>
+
+  <zone id="24" name="Giran The Mithril Chamber Hall" type="Clanhall">
+    <settings trade="true"/>
+    <entity castleId="3" clanhallId="44"/>
+    <restart_owner x="83392" y="145328" z="-3389"/>
+    <shape type="Poly" zMin="-3540" zMax="-3190">
+      <point x="83195" y="144779"/>
+      <point x="83591" y="144779"/>
+      <point x="83591" y="145847"/>
+      <point x="83195" y="145847"/>
+    </shape>
+  </zone>
+
+  <zone id="25" name="Giran The Bronze Chamber Hall" type="Clanhall">
+    <settings trade="true"/>
+    <entity castleId="3" clanhallId="45"/>
+    <restart_owner x="80960" y="151600" z="-3517"/>
+    <shape type="Poly" zMin="-3647" zMax="-3297">
+      <point x="80773" y="151053"/>
+      <point x="81169" y="151053"/>
+      <point x="81169" y="152121"/>
+      <point x="80773" y="152121"/>
+    </shape>
+  </zone>
+
+  <zone id="26" name="Giran Silver Manor Hall" type="Clanhall">
+    <settings trade="true"/>
+    <entity castleId="3" clanhallId="46"/>
+    <restart_owner x="82064" y="151904" z="-3520"/>
+    <shape type="Poly" zMin="-3647" zMax="-3297">
+      <point x="81903" y="151377"/>
+      <point x="82299" y="151377"/>
+      <point x="82299" y="152445"/>
+      <point x="81903" y="152445"/>
+    </shape>
+  </zone>
+
+  <zone id="27" name="Goddard Moonstone Hall" type="Clanhall">
+    <settings trade="true"/>
+    <entity castleId="7" clanhallId="47"/>
+    <restart_owner x="146022" y="-55560" z="-2765"/>
+    <shape type="Poly" zMin="-2828" zMax="-2528">
+      <point x="145660" y="-55829"/>
+      <point x="146459" y="-55730"/>
+      <point x="146402" y="-55280"/>
+      <point x="145605" y="-55378"/>
+    </shape>
+  </zone>
+
+  <zone id="28" name="Goddard Onyx Hall" type="Clanhall">
+    <settings trade="true"/>
+    <entity castleId="7" clanhallId="48"/>
+    <restart_owner x="146960" y="-56768" z="-2765"/>
+    <shape type="Poly" zMin="-2828" zMax="-2528">
+      <point x="146936" y="-57320"/>
+      <point x="147308" y="-56607"/>
+      <point x="146906" y="-56397"/>
+      <point x="146535" y="-57111"/>
+    </shape>
+  </zone>
+
+  <zone id="29" name="Goddard Emerald Hall" type="Clanhall">
+    <settings trade="true"/>
+    <entity castleId="7" clanhallId="49"/>
+    <restart_owner x="148480" y="-56848" z="-2765"/>
+    <shape type="Poly" zMin="-2828" zMax="-2528">
+      <point x="148487" y="-57327"/>
+      <point x="148887" y="-57113"/>
+      <point x="148508" y="-56405"/>
+      <point x="148108" y="-56618"/>
+    </shape>
+  </zone>
+
+  <zone id="30" name="Goddard Sapphire Hall" type="Clanhall">
+    <settings trade="true"/>
+    <entity castleId="7" clanhallId="50"/>
+    <restart_owner x="149376" y="-55568" z="-2765"/>
+    <shape type="Poly" zMin="-2828" zMax="-2528">
+      <point x="148962" y="-55739"/>
+      <point x="149759" y="-55838"/>
+      <point x="149815" y="-55388"/>
+      <point x="149018" y="-55289"/>
+    </shape>
+  </zone>
+
+  <zone id="31" name="Rune Mont Chamber Hall" type="Clanhall">
+    <settings trade="true"/>
+    <entity castleId="8" clanhallId="51"/>
+    <restart_owner x="37733" y="-50736" z="894"/><!-- custom spawn point -->
+    <shape type="Rect" zMin="880" zMax="990">
+      <point x="37461" y="-50973" z="880"/>
+      <point x="38006" y="-50589" z="990"/>
+    </shape>
+  </zone>
+
+  <zone id="32" name="Rune Astaire Chamber Hall" type="Clanhall">
+    <settings trade="true"/>
+    <entity castleId="8" clanhallId="52"/>
+    <restart_owner x="38722" y="-50428" z="894"/><!-- custom spawn point -->
+    <shape type="Poly" zMin="880" zMax="990">
+      <point x="38532" y="-50156"/>
+      <point x="38588" y="-50282"/>
+      <point x="38453" y="-50348"/>
+      <point x="38411" y="-50466"/>
+      <point x="38553" y="-50746"/>
+      <point x="38607" y="-50759"/>
+      <point x="39051" y="-50532"/>
+      <point x="39079" y="-50472"/>
+      <point x="38943" y="-50198"/>
+      <point x="38833" y="-50161"/>
+      <point x="38682" y="-50234"/>
+      <point x="38607" y="-50118"/>
+    </shape>
+  </zone>
+
+  <zone id="33" name="Rune Aria Chamber Hall" type="Clanhall">
+    <settings trade="true"/>
+    <entity castleId="8" clanhallId="53"/>
+    <restart_owner x="39431" y="-49668" z="873"/><!-- custom spawn point -->
+    <shape type="Rect" zMin="880" zMax="990">
+      <point x="39173" y="-50020"/>
+      <point x="39774" y="-49340"/>
+    </shape>
+  </zone>
+
+  <zone id="34" name="Rune Yiana Chamber Hall" type="Clanhall">
+    <settings trade="true"/>
+    <entity castleId="8" clanhallId="54"/>
+    <restart_owner x="39573" y="-48251" z="892"/><!-- custom spawn point -->
+    <shape type="Rect" zMin="880" zMax="990">
+      <point x="39426" y="-48619"/>
+      <point x="39820" y="-47871"/>
+    </shape>
+  </zone>
+
+  <zone id="35" name="Rune Roien Chamber Hall" type="Clanhall">
+    <settings trade="true"/>
+    <entity castleId="8" clanhallId="55"/>
+    <restart_owner x="39456" y="-46815" z="894"/><!-- custom spawn point -->
+    <shape type="Poly" zMin="880" zMax="990">
+      <point x="39179" y="-47017"/>
+      <point x="39301" y="-46961"/>
+      <point x="39376" y="-47098"/>
+      <point x="39490" y="-47128"/>
+      <point x="39775" y="-46970"/>
+      <point x="39777" y="-46933"/>
+      <point x="39520" y="-46439"/>
+      <point x="39478" y="-46466"/>
+      <point x="39198" y="-46610"/>
+      <point x="39178" y="-46719"/>
+      <point x="39253" y="-46876"/>
+      <point x="39137" y="-46944"/>
+    </shape>
+  </zone>
+
+  <zone id="36" name="Rune Luna Chamber Hall" type="Clanhall">
+    <settings trade="true"/>
+    <entity castleId="8" clanhallId="56"/>
+    <restart_owner x="38730" y="-46056" z="894"/><!-- custom spawn point -->
+    <shape type="Rect" zMin="880" zMax="990">
+      <point x="38433" y="-46322"/><!-- points wrong (everywhere peacezone) -->
+      <point x="39062" y="-45731"/>
+    </shape>
+  </zone>
+
+  <zone id="37" name="Rune Traban Chamber Hall" type="Clanhall">
+    <settings trade="true"/>
+    <entity castleId="8" clanhallId="57"/>
+    <restart_owner x="37738" y="-45691" z="894"/><!-- custom spawn point -->
+    <shape type="Poly" zMin="880" zMax="990">
+      <point x="37784" y="-46040"/>
+      <point x="37791" y="-45905"/>
+      <point x="37947" y="-45905"/>
+      <point x="38025" y="-45816"/>
+      <point x="38025" y="-45509"/>
+      <point x="37994" y="-45460"/>
+      <point x="37457" y="-45460"/>
+      <point x="37436" y="-45506"/>
+      <point x="37436" y="-45823"/>
+      <point x="37518" y="-45905"/>
+      <point x="37688" y="-45905"/>
+      <point x="37701" y="-46040"/>
+    </shape>
+  </zone>
+
+  <zone id="38" name="Schuttgart Eisen Hall" type="Clanhall">
+    <settings trade="true"/>
+    <entity castleId="9" clanhallId="58"/>
+    <restart_owner x="85765" y="-143152" z="-1332"/><!-- custom spawn point -->
+    <shape type="Rect" zMin="-1360" zMax="-1250">
+      <point x="85426" y="-143448"/>
+      <point x="86069" y="-142769"/>
+    </shape>
+  </zone>
+
+  <zone id="39" name="Schuttgart Heavy Metal Hall" type="Clanhall">
+    <settings trade="true"/>
+    <entity castleId="9" clanhallId="59"/>
+    <restart_owner x="86594" y="-141868" z="-1332"/><!-- custom spawn point -->
+    <shape type="Poly" zMin="-1360" zMax="-1250">
+      <point x="86887" y="-142126"/>
+      <point x="86909" y="-142013"/>
+      <point x="86596" y="-141413"/>
+      <point x="86558" y="-141393"/>
+      <point x="86213" y="-141578"/>
+      <point x="86207" y="-141630"/>
+      <point x="86526" y="-142225"/>
+      <point x="86637" y="-142258"/>
+    </shape>
+  </zone>
+
+  <zone id="40" name="Schuttgart Molten Ore Hall" type="Clanhall">
+    <settings trade="true"/>
+    <entity castleId="9" clanhallId="60"/>
+    <restart_owner x="88127" y="-141888" z="-1332"/><!-- custom spawn point -->
+    <shape type="Poly" zMin="-1360" zMax="-1250">
+      <point x="88092" y="-142261"/>
+      <point x="88203" y="-142226"/>
+      <point x="88520" y="-141624"/>
+      <point x="88506" y="-141578"/>
+      <point x="88172" y="-141404"/>
+      <point x="88121" y="-141414"/>
+      <point x="87808" y="-142017"/>
+      <point x="87841" y="-142132"/>
+    </shape>
+  </zone>
+
+  <zone id="41" name="Schuttgart Titan Hall" type="Clanhall">
+    <settings trade="true"/>
+    <entity castleId="9" clanhallId="61"/>
+    <restart_owner x="88998" y="-143156" z="-1332"/><!-- custom spawn point -->
+    <shape type="Rect" zMin="-1360" zMax="-1250">
+      <point x="88500" y="-143500"/>
+      <point x="89500" y="-142880"/>
+    </shape>
+  </zone>
+
+  <zone id="42" name="Hot Springs Guild House" type="Clanhall"><!-- Not Done -->
+    <settings trade="true"/>
+    <entity castleId="-1" clanhallId="62"/>
+    <restart_owner x="140955" y="-124640" z="-1869"/>
+    <shape type="Rect">
+      <point x="141414" y="-124508"/>
+      <point x="140590" y="-124706"/>
+    </shape>
+  </zone>
+
+  <zone id="43" name="Beast Farm" type="Clanhall">
+    <settings trade="true"/>
+    <entity castleId="-1" clanhallId="63"/>
+    <restart_owner x="58020" y="-92943" z="-1360"/>
+    <shape type="Poly" zMin="-1500" zMax="-500">
+      <point x="55170" y="-92806"/>
+      <point x="55675" y="-90516"/>
+      <point x="57767" y="-89733"/>
+      <point x="60603" y="-91257"/>
+      <point x="61662" y="-94462"/>
+      <point x="59171" y="-98866"/>
+      <point x="55478" y="-93638"/>
+    </shape>
+    <shape type="Poly" zMin="-1500" zMax="-500">
+      <point x="60126" y="-94328"/>
+      <point x="60652" y="-94447"/>
+      <point x="60914" y="-93960"/>
+    </shape>
+  </zone>
+
+  <zone id="44" name="Fortress of the Dead" type="Clanhall">
+    <settings trade="true"/>
+    <entity castleId="-1" clanhallId="64"/>
+    <restart_owner x="57970" y="-28572" z="569"/>
+    <shape type="Poly" zMin="-1500" zMax="2400">
+      <point x="58653" y="-30170"/>
+      <point x="59482" y="-29233"/>
+      <point x="59469" y="-25630"/>
+      <point x="58035" y="-25630"/>
+      <point x="56426" y="-25642"/>
+      <point x="56447" y="-29258"/>
+      <point x="57279" y="-30130"/>
+      <point x="57647" y="-29473"/>
+      <point x="58305" y="-29419"/>
+    </shape>
+    <shape type="Poly" zMin="-1500" zMax="2400">
+      <point x="58074" y="-26471"/>
+      <point x="58015" y="-26551"/>
+      <point x="57981" y="-26300"/>
+    </shape>
+  </zone>
+
+</list>

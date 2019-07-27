@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE list SYSTEM "skills.dtd">
+<list>
+<skill id="3498" levels="1" name="Special Ability Light">
+  <set name="target" val="TARGET_SELF"/>
+  <set name="skillType" val="BUFF"/>
+  <set name="operateType" val="OP_PASSIVE"/>
+  <for>
+    <mul order="0x30" stat="maxLoad" val="1.2"/>
+    <mul order="0x30" stat="pvpPhysDmg" val="1.05"/>
+    <mul order="0x30" stat="pvpPhysSkillsDmg" val="1.05"/>
+    <mul order="0x30" stat="pvpMagicalDmg" val="1.05"/>
+  </for>
+</skill>
+</list>

@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE list SYSTEM "weapons.dtd">
+<list>
+<item id='7560' name="Monster Only (Fishing Rod)">
+  <for>
+    <set val='1' order='0x08' stat='pAtk'/>
+    <set val='1' order='0x08' stat='mAtk'/>
+    <set val='0' order='0x08' stat='rCrit'/>
+    <add val='-3' order='0x10' stat='accCombat'/>
+    <set val='325' order='0x08' stat='pAtkSpd'/>
+    <enchant val='0' order='0x0C' stat='pAtk'/>
+    <enchant val='0' order='0x0C' stat='mAtk'/>
+  </for>
+</item>
+<item id='7575' name="Draconic Bow">
+  <for>
+    <set val='581' order='0x08' stat='pAtk'/>
+    <set val='132' order='0x08' stat='mAtk'/>
+    <set val='12' order='0x08' stat='rCrit'/>
+    <add val='-3' order='0x10' stat='accCombat'/>
+    <set val='293' order='0x08' stat='pAtkSpd'/>
+    <enchant val='0' order='0x0C' stat='pAtk'/>
+    <enchant val='0' order='0x0C' stat='mAtk'/>
+  </for>
+</item>
+<item id='7576' name="Draconic Bow - Cheap Shot">
+  <for>
+    <set val='581' order='0x08' stat='pAtk'/>
+    <set val='132' order='0x08' stat='mAtk'/>
+    <set val='12' order='0x08' stat='rCrit'/>
+    <add val='-3' order='0x10' stat='accCombat'/>
+    <set val='293' order='0x08' stat='pAtkSpd'/>
+    <enchant val='0' order='0x0C' stat='pAtk'/>
+    <enchant val='0' order='0x0C' stat='mAtk'/>
+    <!-- SA: Cheap Shot -->
+    <set val='1' order='0x08' stat='MpConsume'> 
+      <and>
+        <game chance="26"/>
+        <player skill="false"/>
+      </and> 
+    </set>
+    <!-- Enhances damage to target during PvP -->
+    <mul val='1.05' order='0x30' stat='pvpPhysDmg'/>
+    <mul val='1.05' order='0x30' stat='pvpMagicalDmg'/>
+  </for>
+</item>
+<item id='7577' name="Draconic Bow - Focus">
+  <for>
+    <set val='581' order='0x08' stat='pAtk'/>
+    <set val='132' order='0x08' stat='mAtk'/>
+    <set val='12' order='0x08' stat='rCrit'/>
+    <add val='-3' order='0x10' stat='accCombat'/>
+    <set val='293' order='0x08' stat='pAtkSpd'/>
+    <enchant val='0' order='0x0C' stat='pAtk'/>
+    <enchant val='0' order='0x0C' stat='mAtk'/>
+  </for>
+</item>
+<item id='7578' name="Draconic Bow - Critical Slow">
+  <for>
+    <set val='581' order='0x08' stat='pAtk'/>
+    <set val='132' order='0x08' stat='mAtk'/>
+    <set val='12' order='0x08' stat='rCrit'/>
+    <add val='-3' order='0x10' stat='accCombat'/>
+    <set val='293' order='0x08' stat='pAtkSpd'/>
+    <enchant val='0' order='0x0C' stat='pAtk'/>
+    <enchant val='0' order='0x0C' stat='mAtk'/>
+    <!-- Enhances damage to target during PvP -->
+    <mul val='1.05' order='0x30' stat='pvpPhysDmg'/>
+    <mul val='1.05' order='0x30' stat='pvpMagicalDmg'/>
+  </for>
+</item>
+</list>

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE list SYSTEM "armors.dtd">
+<list>
+<item id="7680" name="Raccoon Ears">
+  <for>
+    <add val="0" order="0x10" stat="pDef"/>
+  </for>
+</item>
+<item id="7681" name="Outlaw's Eyepatch">
+  <for>
+    <add val="0" order="0x10" stat="pDef"/>
+  </for>
+</item>
+<item id="7682" name="Maiden's Hairpin">
+  <cond msgId="1518">
+    <player sex="1"/>
+  </cond>
+  <for>
+    <add val="0" order="0x10" stat="pDef"/>
+  </for>
+</item>
+<item id="7683" name="Rabbit Ears">
+  <for>
+    <add val="0" order="0x10" stat="pDef"/>
+  </for>
+</item>
+<item id="7694" name="Noblesse Tiara">
+  <for>
+    <add val="0" order="0x10" stat="pDef"/>
+  </for>
+</item>
+<item id="7695" name="Forget-me-not Hairpin">
+  <cond msgId="1518">
+    <player sex="1"/>
+  </cond>
+  <for>
+    <add val="0" order="0x10" stat="pDef"/>
+  </for>
+</item>
+<item id="7696" name="Daisy Hairpin">
+  <cond msgId="1518">
+    <player sex="1"/>
+  </cond>
+  <for>
+    <add val="0" order="0x10" stat="pDef"/>
+  </for>
+</item>
+</list>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<list>
+  <etc id="15003" displayId="8570" name="Event Gift Box" itemType="Other" >
+   <set icon="icon.skill4416_etc"/>
+   <set weight="100" />
+   <set stackable="false"/>
+   <set sellable="false" tradeable="false" />
+   <set dropable="false" destroyable="true"/>
+  </etc>
+  <etc id="15100" displayId="739" name="Broken Item" itemType="Other" >
+   <set icon="icon.skill4416_etc"/>
+   <set stackable="false"/>
+   <set sellable="false" tradeable="false" />
+   <set dropable="false" destroyable="true"/>
+  </etc>
+  <etc id="15101" displayId="780" name="Original blueprint" itemType="Other" >
+   <set icon="icon.skill4416_etc"/>
+   <set stackable="true"/>
+   <set sellable="false" tradeable="false" />
+   <set dropable="false" destroyable="true"/>
+  </etc>
+  <etc id="15900" displayId="1655" name="Empty Soul Jar" itemType="Other" >
+   <set icon="icon.skill4416_etc"/>
+   <set stackable="false"/>
+   <set sellable="false" tradeable="false" />
+   <set dropable="false" destroyable="true"/>
+  </etc>
+  <etc id="15901" displayId="4382" name="Filled Soul Jar" itemType="Other" >
+   <set icon="icon.skill4416_etc"/>
+   <set weight="10" />
+   <set stackable="false"/>
+   <set sellable="false" tradeable="false" />
+   <set dropable="false" destroyable="true"/>
+  </etc>
+</list>

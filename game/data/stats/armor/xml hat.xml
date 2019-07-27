@@ -1,0 +1,78 @@
+<?xml version='1.0' encoding='utf-8'?>
+<list>
+<item id='9805' name="Cap Adiddas">
+  <for>
+    <add val='0' order='0x10' stat='pDef'/>
+  </for>
+</item>
+
+<item id='9804' name="Straw Hat">
+  <for>
+    <add val='0' order='0x10' stat='pDef'/>
+  </for>
+</item>
+
+<item id='9802' name="Mumia Mask">
+  <for>
+    <add val='0' order='0x10' stat='pDef'/>
+  </for>
+</item>
+
+<item id='9800' name="Frank Mask">
+  <for>
+    <add val='0' order='0x10' stat='pDef'/>
+  </for>
+</item>
+
+<item id='9798' name="Alien Mask">
+  <for>
+    <add val='0' order='0x10' stat='pDef'/>
+  </for>
+</item>
+
+<item id='9803' name="Panic mask">
+  <for>
+    <add val='0' order='0x10' stat='pDef'/>
+  </for>
+</item>
+<item id='9801' name="Abobora Mask">
+  <for>
+    <add val='0' order='0x10' stat='pDef'/>
+  </for>
+</item>
+
+<item id='9799' name="Doccabi Mask">
+  <for>
+    <add val='0' order='0x10' stat='pDef'/>
+  </for>
+</item>
+
+
+<item id='9711' name="Bamboo Hat">
+  <for>
+    <add val='0' order='0x10' stat='pDef'/>
+  </for>
+</item>
+
+
+<item id='9712' name="Helloween Hat">
+  <for>
+    <add val='0' order='0x10' stat='pDef'/>
+  </for>
+</item>
+
+
+<item id='9713' name="Topper Clown">
+  <for>
+    <add val='0' order='0x10' stat='pDef'/>
+  </for>
+</item>
+
+<item id='9905' name="Chullo Cap">
+  <for>
+    <add val='0' order='0x10' stat='pDef'/>
+  </for>
+</item>
+
+
+</list>

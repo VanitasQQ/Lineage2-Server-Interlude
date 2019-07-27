@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+<item id='735' name="Potion of Alacrity">
+  <!-- <skill id="2012" lvl="1"/> -->
+  <cond msgId="1508">
+    <player olympiad="false"/>
+  </cond>
+  <for>
+  </for>
+</item>
+</list>

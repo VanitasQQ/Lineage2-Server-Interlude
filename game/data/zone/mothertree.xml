@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+  <zone id="1" name="Shadow of the Mother Tree" type="Mothertree">
+    <shape type="Poly" zMin="-3550" zMax="-3350">
+      <point x="45889" y="41890"/>
+      <point x="45277" y="41672"/>
+      <point x="45028" y="41478"/>
+      <point x="44809" y="41230"/>
+      <point x="44522" y="40689"/>
+      <point x="44501" y="39970"/>
+      <point x="44725" y="39407"/>
+      <point x="44930" y="39145"/>
+      <point x="45447" y="38764"/>
+      <point x="46073" y="38618"/>
+      <point x="46710" y="38716"/>
+      <point x="47255" y="39049"/>
+      <point x="47743" y="39834"/>
+      <point x="47772" y="40568"/>
+      <point x="47545" y="41125"/>
+      <point x="47108" y="41599"/>
+      <point x="46531" y="41868"/>
+    </shape>
+  </zone>
+  <zone id="2" name="Elven Village" type="Mothertree">
+    <shape type="Poly" zMin="-3121" zMax="-2921">
+      <point x="45234" y="49892"/>
+      <point x="45117" y="49826"/>
+      <point x="45031" y="49722"/>
+      <point x="44986" y="49597"/>
+      <point x="44985" y="49462"/>
+      <point x="45032" y="49336"/>
+      <point x="45116" y="49233"/>
+      <point x="45233" y="49165"/>
+      <point x="45365" y="49143"/>
+      <point x="45498" y="49166"/>
+      <point x="45614" y="49235"/>
+      <point x="45700" y="49336"/>
+      <point x="45746" y="49462"/>
+      <point x="45747" y="49596"/>
+      <point x="45699" y="49723"/>
+      <point x="45614" y="49825"/>
+      <point x="45498" y="49893"/>
+      <point x="45366" y="49914"/>
+    </shape>
+  </zone>
+  <zone id="3" name="East Elven Village" type="Mothertree">
+    <shape type="Poly" zMin="-3745" zMax="-3545">
+      <point x="21101" y="50538"/>
+      <point x="21511" y="50683"/>
+      <point x="21642" y="51005"/>
+      <point x="21583" y="51349"/>
+      <point x="21255" y="51581"/>
+      <point x="20852" y="51473"/>
+      <point x="20627" y="51121"/>
+      <point x="20728" y="50743"/>
+    </shape>
+  </zone>
+  <zone id="4" name="Elven Fortress" type="Mothertree">
+    <shape type="Poly" zMin="-3268" zMax="-3068">
+      <point x="25084" y="81616"/>
+      <point x="25073" y="81892"/>
+      <point x="24948" y="81895"/>
+      <point x="24826" y="81866"/>
+      <point x="24716" y="81788"/>
+      <point x="24637" y="81623"/>
+      <point x="24637" y="81428"/>
+      <point x="25076" y="81428"/>
+    </shape>
+  </zone>
+  <zone id="5" name="Iris Lake" type="Mothertree">
+    <shape type="Poly" zMin="-3775" zMax="-3575">
+      <point x="57755" y="85802"/>
+      <point x="57974" y="86079"/>
+      <point x="57953" y="86404"/>
+      <point x="57711" y="86683"/>
+      <point x="57324" y="86686"/>
+      <point x="57105" y="86436"/>
+      <point x="57088" y="86061"/>
+      <point x="57404" y="85785"/>
+    </shape>
+  </zone>
+</list>

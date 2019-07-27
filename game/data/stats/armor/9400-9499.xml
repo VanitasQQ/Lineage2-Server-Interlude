@@ -1,0 +1,506 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE list SYSTEM "armors.dtd">
+<list>
+<item id='9400' name="Weapon Master Circlet">
+  <cond msgId="1518">
+    <target class_id_restriction="9, 113, 117, 118"/>
+  </cond>
+  <for>
+  </for>
+</item>
+<item id='9401' name="Dagger Master Circlet">
+  <cond msgId="1518">
+    <target class_id_restriction="93, 101, 108"/>
+  </cond>
+  <for>
+  </for>
+</item>
+<item id='9402' name="Bow Master Circlet">
+  <cond msgId="1518">
+    <target class_id_restriction="92, 102, 109"/>
+  </cond>
+  <for>
+  </for>
+</item>
+<item id='9403' name="Wizard Circlet">
+  <cond msgId="1518">
+    <target class_id_restriction="94, 95, 103, 110"/>
+  </cond>
+  <for>
+  </for>
+</item>
+<item id='9404' name="Summoner Circlet">
+  <cond msgId="1518">
+    <target class_id_restriction="96, 104, 111"/>
+  </cond>
+  <for>
+  </for>
+</item>
+<item id='9405' name="Healer Circlet">
+  <cond msgId="1518">
+    <target class_id_restriction="97, 105, 112"/>
+  </cond>
+  <for>
+  </for>
+</item>
+<item id='9406' name="Enchanter Circlet">
+  <cond msgId="1518">
+    <target class_id_restriction="98, 115, 116"/>
+  </cond>
+  <for>
+  </for>
+</item>
+<item id='9407' name="Weapon Master Circlet (Kamael only)">
+  <cond msgId="1518">
+    <target class_id_restriction="131, 132, 133"/>
+  </cond>
+  <for>
+  </for>
+</item>
+<item id='9408' name="Bow Master Circlet (Kamael only)">
+  <cond msgId="1518">
+    <target class_id_restriction="134"/>
+  </cond>
+  <for>
+  </for>
+</item>
+<item id='9409' name="Black Phantom Mask (Event)">
+  <for>
+  </for>
+</item>
+<item id='9410' name="Human Veteran's Circlet">
+  <cond msgId="1518">
+    <player race="Human"/>
+  </cond>
+  <for>
+  </for>
+</item>
+<item id='9411' name="Elven Veteran's Circlet">
+  <cond msgId="1518">
+    <player race="Elf"/>
+  </cond>
+  <for>
+  </for>
+</item>
+<item id='9412' name="Dark Elven Veteran's Circlet">
+  <cond msgId="1518">
+    <player race="Darkelf"/>
+  </cond>
+  <for>
+  </for>
+</item>
+<item id='9413' name="Orcish Veteran's Circlet">
+  <cond msgId="1518">
+    <player race="Orc"/>
+  </cond>
+  <for>
+  </for>
+</item>
+<item id='9414' name="Dwarf Veteran's Circlet">
+  <cond msgId="1518">
+    <player race="Dwarf"/>
+  </cond>
+  <for>
+  </for>
+</item>
+<item id='9415' name="Kamaelic Veteran's Circlet">
+  <cond msgId="1518">
+    <player race="Kamael"/>
+  </cond>
+  <for>
+  </for>
+</item>
+<item id='9416' name="Dynasty Breast Plate">
+  <for>
+    <add val='226' order='0x10' stat='pDef'/>
+    <enchant val='0' order='0x0C' stat='pDef'/>
+  </for>
+</item>
+<item id='9417' name="Dynasty Breast Plate - Shield Master">
+  <cond msgId="1518">
+    <target class_id_restriction="90, 91, 99, 106"/>
+  </cond>
+  <for>
+    <add val='226' order='0x10' stat='pDef'/>
+    <enchant val='0' order='0x0C' stat='pDef'/>
+  </for>
+</item>
+<item id='9418' name="Dynasty Breast Plate - Weapon Master">
+  <cond msgId="1518">
+    <target class_id_restriction="89, 113, 117, 118"/>
+  </cond>
+  <for>
+    <add val='226' order='0x10' stat='pDef'/>
+    <enchant val='0' order='0x0C' stat='pDef'/>
+  </for>
+</item>
+<item id='9419' name="Dynasty Breast Plate - Force Master">
+  <cond msgId="1518">
+    <target class_id_restriction="88, 114"/>
+  </cond>
+  <for>
+    <add val='226' order='0x10' stat='pDef'/>
+    <enchant val='0' order='0x0C' stat='pDef'/>
+  </for>
+</item>
+<item id='9420' name="Dynasty Breast Plate - Bard">
+  <cond msgId="1518">
+    <target class_id_restriction="100, 107"/>
+  </cond>
+  <for>
+    <add val='226' order='0x10' stat='pDef'/>
+    <enchant val='0' order='0x0C' stat='pDef'/>
+  </for>
+</item>
+<item id='9421' name="Dynasty Gaiter">
+  <for>
+    <add val='141' order='0x10' stat='pDef'/>
+    <enchant val='0' order='0x0C' stat='pDef'/>
+  </for>
+</item>
+<item id='9422' name="Dynasty Helmet">
+  <for>
+    <add val='92' order='0x10' stat='pDef'/>
+    <enchant val='0' order='0x0C' stat='pDef'/>
+  </for>
+</item>
+<item id='9423' name="Dynasty Gauntlet - Heavy Armor">
+  <for>
+    <add val='61' order='0x10' stat='pDef'/>
+    <enchant val='0' order='0x0C' stat='pDef'/>
+  </for>
+</item>
+<item id='9424' name="Dynasty Boots - Heavy Armor">
+  <for>
+    <add val='61' order='0x10' stat='pDef'/>
+    <enchant val='0' order='0x0C' stat='pDef'/>
+  </for>
+</item>
+<item id='9425' name="Dynasty Leather Armor">
+  <for>
+    <add val='170' order='0x10' stat='pDef'/>
+    <enchant val='0' order='0x0C' stat='pDef'/>
+  </for>
+</item>
+<item id='9426' name="Dynasty Leather Armor - Dagger Master">
+  <cond msgId="1518">
+    <target class_id_restriction="93, 101, 108"/>
+  </cond>
+  <for>
+    <add val='170' order='0x10' stat='pDef'/>
+    <enchant val='0' order='0x0C' stat='pDef'/>
+  </for>
+</item>
+<item id='9427' name="Dynasty Leather Armor - Bow Master">
+  <cond msgId="1518">
+    <target class_id_restriction="92, 102, 109, 134"/>
+  </cond>
+  <for>
+    <add val='170' order='0x10' stat='pDef'/>
+    <enchant val='0' order='0x0C' stat='pDef'/>
+  </for>
+</item>
+<item id='9428' name="Dynasty Leather Leggings">
+  <for>
+    <add val='106' order='0x10' stat='pDef'/>
+    <enchant val='0' order='0x0C' stat='pDef'/>
+  </for>
+</item>
+<item id='9429' name="Dynasty Leather Helmet">
+  <for>
+    <add val='92' order='0x10' stat='pDef'/>
+    <enchant val='0' order='0x0C' stat='pDef'/>
+  </for>
+</item>
+<item id='9430' name="Dynasty Leather Gloves - Light Armor">
+  <for>
+    <add val='61' order='0x10' stat='pDef'/>
+    <enchant val='0' order='0x0C' stat='pDef'/>
+  </for>
+</item>
+<item id='9431' name="Dynasty Leather Boots - Light Armor">
+  <for>
+    <add val='61' order='0x10' stat='pDef'/>
+    <enchant val='0' order='0x0C' stat='pDef'/>
+  </for>
+</item>
+<item id='9432' name="Dynasty Tunic">
+  <for>
+    <add val='113' order='0x10' stat='pDef'/>
+    <add val='592' order='0x40' stat='maxMp'/>
+    <enchant val='0' order='0x0C' stat='pDef'/>
+  </for>
+</item>
+<item id='9433' name="Dynasty Tunic - Healer">
+  <cond msgId="1518">
+    <target class_id_restriction="97, 105, 112"/>
+  </cond>
+  <for>
+    <add val='113' order='0x10' stat='pDef'/>
+    <add val='592' order='0x40' stat='maxMp'/>
+    <enchant val='0' order='0x0C' stat='pDef'/>
+  </for>
+</item>
+<item id='9434' name="Dynasty Tunic - Enchanter">
+  <cond msgId="1518">
+    <target class_id_restriction="98, 115, 116"/>
+  </cond>
+  <for>
+    <add val='113' order='0x10' stat='pDef'/>
+    <add val='592' order='0x40' stat='maxMp'/>
+    <enchant val='0' order='0x0C' stat='pDef'/>
+  </for>
+</item>
+<item id='9435' name="Dynasty Tunic - Summoner">
+  <cond msgId="1518">
+    <target class_id_restriction="96, 104, 111"/>
+  </cond>
+  <for>
+    <add val='113' order='0x10' stat='pDef'/>
+    <add val='592' order='0x40' stat='maxMp'/>
+    <enchant val='0' order='0x0C' stat='pDef'/>
+  </for>
+</item>
+<item id='9436' name="Dynasty Tunic - Wizard">
+  <cond msgId="1518">
+    <target class_id_restriction="94, 95, 103, 110"/>
+  </cond>
+  <for>
+    <add val='113' order='0x10' stat='pDef'/>
+    <add val='592' order='0x40' stat='maxMp'/>
+    <enchant val='0' order='0x0C' stat='pDef'/>
+  </for>
+</item>
+<item id='9437' name="Dynasty Stockings">
+  <for>
+    <add val='71' order='0x10' stat='pDef'/>
+    <add val='370' order='0x40' stat='maxMp'/>
+    <enchant val='0' order='0x0C' stat='pDef'/>
+  </for>
+</item>
+<item id='9438' name="Dynasty Circlet">
+  <for>
+    <add val='92' order='0x10' stat='pDef'/>
+    <enchant val='0' order='0x0C' stat='pDef'/>
+  </for>
+</item>
+<item id='9439' name="Dynasty Gloves - Robe">
+  <for>
+    <add val='61' order='0x10' stat='pDef'/>
+    <enchant val='0' order='0x0C' stat='pDef'/>
+  </for>
+</item>
+<item id='9440' name="Dynasty Shoes - Robe">
+  <for>
+    <add val='61' order='0x10' stat='pDef'/>
+    <enchant val='0' order='0x0C' stat='pDef'/>
+  </for>
+</item>
+<item id='9452' name="Sealed Dynasty Earring">
+  <for>
+    <add val='71' order='0x10' stat='mDef'/>
+    <enchant val='0' order='0x0C' stat='mDef'/>
+  </for>
+</item>
+<item id='9453' name="Sealed Dynasty Necklace">
+  <for>
+    <add val='95' order='0x10' stat='mDef'/>
+    <enchant val='0' order='0x0C' stat='mDef'/>
+  </for>
+</item>
+<item id='9454' name="Sealed Dynasty Ring">
+  <for>
+    <add val='53' order='0x10' stat='mDef'/>
+    <enchant val='0' order='0x0C' stat='mDef'/>
+  </for>
+</item>
+<item id='9455' name="Dynasty Earrings">
+  <for>
+    <add val='79' order='0x10' stat='mDef'/>
+    <add val='35' order='0x40' stat='maxMp'/>
+    <enchant val='0' order='0x0C' stat='mDef'/>
+  </for>
+</item>
+<item id='9456' name="Dynasty Necklace">
+  <for>
+    <add val='106' order='0x10' stat='mDef'/>
+    <add val='46' order='0x40' stat='maxMp'/>
+    <enchant val='0' order='0x0C' stat='mDef'/>
+  </for>
+</item>
+<item id='9457' name="Dynasty Ring">
+  <for>
+    <add val='60' order='0x10' stat='mDef'/>
+    <add val='23' order='0x40' stat='maxMp'/>
+    <enchant val='0' order='0x0C' stat='mDef'/>
+  </for>
+</item>
+<item id='9458' name="Dynasty Earrings - Stun Resistance">
+  <for>
+    <add val='27' order='0x10' stat='mDef'/>
+    <add val='35' order='0x40' stat='maxMp'/>
+    <enchant val='0' order='0x0C' stat='mDef'/>
+  </for>
+</item>
+<item id='9459' name="Dynasty Necklace - Stun Resistance">
+  <for>
+    <add val='36' order='0x10' stat='mDef'/>
+    <add val='46' order='0x40' stat='maxMp'/>
+    <enchant val='0' order='0x0C' stat='mDef'/>
+  </for>
+</item>
+<item id='9460' name="Dynasty Ring - Stun Resistance">
+  <for>
+    <add val='18' order='0x10' stat='mDef'/>
+    <add val='23' order='0x40' stat='maxMp'/>
+    <enchant val='0' order='0x0C' stat='mDef'/>
+  </for>
+</item>
+<item id='9461' name="Dynasty Earrings - Poison Resistance">
+  <for>
+    <add val='27' order='0x10' stat='mDef'/>
+    <add val='35' order='0x40' stat='maxMp'/>
+    <enchant val='0' order='0x0C' stat='mDef'/>
+  </for>
+</item>
+<item id='9462' name="Dynasty Necklace - Poison Resistance">
+  <for>
+    <add val='36' order='0x10' stat='mDef'/>
+    <add val='46' order='0x40' stat='maxMp'/>
+    <enchant val='0' order='0x0C' stat='mDef'/>
+  </for>
+</item>
+<item id='9463' name="Dynasty Ring - Poison Resistance">
+  <for>
+    <add val='18' order='0x10' stat='mDef'/>
+    <add val='23' order='0x40' stat='maxMp'/>
+    <enchant val='0' order='0x0C' stat='mDef'/>
+  </for>
+</item>
+<item id='9464' name="Dynasty Earrings - Bleeding Resistance">
+  <for>
+    <add val='27' order='0x10' stat='mDef'/>
+    <add val='35' order='0x40' stat='maxMp'/>
+    <enchant val='0' order='0x0C' stat='mDef'/>
+  </for>
+</item>
+<item id='9465' name="Dynasty Necklace - Bleeding Resistance">
+  <for>
+    <add val='36' order='0x10' stat='mDef'/>
+    <add val='46' order='0x40' stat='maxMp'/>
+    <enchant val='0' order='0x0C' stat='mDef'/>
+  </for>
+</item>
+<item id='9466' name="Dynasty Ring - Bleeding Resistance">
+  <for>
+    <add val='18' order='0x10' stat='mDef'/>
+    <add val='23' order='0x40' stat='maxMp'/>
+    <enchant val='0' order='0x0C' stat='mDef'/>
+  </for>
+</item>
+<item id='9467' name="Dynasty Earrings - Sleep Resistance">
+  <for>
+    <add val='27' order='0x10' stat='mDef'/>
+    <add val='35' order='0x40' stat='maxMp'/>
+    <enchant val='0' order='0x0C' stat='mDef'/>
+  </for>
+</item>
+<item id='9468' name="Dynasty Necklace - Sleep Resistance">
+  <for>
+    <add val='36' order='0x10' stat='mDef'/>
+    <add val='46' order='0x40' stat='maxMp'/>
+    <enchant val='0' order='0x0C' stat='mDef'/>
+  </for>
+</item>
+<item id='9469' name="Dynasty Ring - Sleep Resistance">
+  <for>
+    <add val='18' order='0x10' stat='mDef'/>
+    <add val='23' order='0x40' stat='maxMp'/>
+    <enchant val='0' order='0x0C' stat='mDef'/>
+  </for>
+</item>
+<item id='9470' name="Dynasty Earrings - Paralysis Resistance">
+  <for>
+    <add val='27' order='0x10' stat='mDef'/>
+    <add val='35' order='0x40' stat='maxMp'/>
+    <enchant val='0' order='0x0C' stat='mDef'/>
+  </for>
+</item>
+<item id='9471' name="Dynasty Necklace - Paralysis Resistance">
+  <for>
+    <add val='36' order='0x10' stat='mDef'/>
+    <add val='46' order='0x40' stat='maxMp'/>
+    <enchant val='0' order='0x0C' stat='mDef'/>
+  </for>
+</item>
+<item id='9472' name="Dynasty Ring - Paralysis Resistance">
+  <for>
+    <add val='18' order='0x10' stat='mDef'/>
+    <add val='23' order='0x40' stat='maxMp'/>
+    <enchant val='0' order='0x0C' stat='mDef'/>
+  </for>
+</item>
+<item id='9473' name="Dynasty Earrings - Hold Resistance">
+  <for>
+    <add val='27' order='0x10' stat='mDef'/>
+    <add val='35' order='0x40' stat='maxMp'/>
+    <enchant val='0' order='0x0C' stat='mDef'/>
+  </for>
+</item>
+<item id='9474' name="Dynasty Necklace - Hold Resistance">
+  <for>
+    <add val='36' order='0x10' stat='mDef'/>
+    <add val='46' order='0x40' stat='maxMp'/>
+    <enchant val='0' order='0x0C' stat='mDef'/>
+  </for>
+</item>
+<item id='9475' name="Dynasty Ring - Hold Resistance">
+  <for>
+    <add val='18' order='0x10' stat='mDef'/>
+    <add val='23' order='0x40' stat='maxMp'/>
+    <enchant val='0' order='0x0C' stat='mDef'/>
+  </for>
+</item>
+<item id='9476' name="Dynasty Earrings - Fear Resistance">
+  <for>
+    <add val='27' order='0x10' stat='mDef'/>
+    <add val='35' order='0x40' stat='maxMp'/>
+    <enchant val='0' order='0x0C' stat='mDef'/>
+  </for>
+</item>
+<item id='9477' name="Dynasty Necklace - Fear Resistance">
+  <for>
+    <add val='36' order='0x10' stat='mDef'/>
+    <add val='46' order='0x40' stat='maxMp'/>
+    <enchant val='0' order='0x0C' stat='mDef'/>
+  </for>
+</item>
+<item id='9478' name="Dynasty Ring - Fear Resistance">
+  <for>
+    <add val='18' order='0x10' stat='mDef'/>
+    <add val='23' order='0x40' stat='maxMp'/>
+    <enchant val='0' order='0x0C' stat='mDef'/>
+  </for>
+</item>
+<item id='9479' name="Dynasty Earrings (not used) - Darkness Resistance">
+  <for>
+    <add val='27' order='0x10' stat='mDef'/>
+    <add val='35' order='0x40' stat='maxMp'/>
+    <enchant val='0' order='0x0C' stat='mDef'/>
+  </for>
+</item>
+<item id='9480' name="Dynasty Necklace (not used) - Darkness Resistance">
+  <for>
+    <add val='36' order='0x10' stat='mDef'/>
+    <add val='46' order='0x40' stat='maxMp'/>
+    <enchant val='0' order='0x0C' stat='mDef'/>
+  </for>
+</item>
+<item id='9481' name="Dynasty Ring (not used) - Darkness Resistance">
+  <for>
+    <add val='18' order='0x10' stat='mDef'/>
+    <add val='23' order='0x40' stat='maxMp'/>
+    <enchant val='0' order='0x0C' stat='mDef'/>
+  </for>
+</item>
+</list>

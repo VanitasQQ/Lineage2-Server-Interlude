@@ -1,0 +1,93 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+
+<!--
+  ~ This file is part of aion-unique <aionunique.smfnew.com>.
+  ~
+  ~ aion-unique is free software: you can redistribute it and/or modify
+  ~ it under the terms of the GNU General Public License as published by
+  ~ the Free Software Foundation, either version 3 of the License, or
+  ~ (at your option) any later version.
+  ~
+  ~ aion-unique is distributed in the hope that it will be useful,
+  ~ but WITHOUT ANY WARRANTY; without even the implied warranty of
+  ~ MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+  ~ GNU General Public License for more details.
+  ~
+  ~ You should have received a copy of the GNU General Public License
+  ~ along with aion-unique.  If not, see <http://www.gnu.org/licenses/>.
+  -->
+
+<!DOCTYPE log4j:configuration SYSTEM "log4j.dtd">
+
+<log4j:configuration>
+
+    <!-- This appender prints information to console -->
+    <appender name="CONSOLE" class="org.apache.log4j.ConsoleAppender">
+        <layout class="org.apache.log4j.EnhancedPatternLayout">
+            <param name="ConversionPattern" value="[%p %d{yyyy-MM-dd HH:mm:ss}]: %m%n"/>
+        </layout>
+    </appender>
+
+	<appender name="LOGFILEASYNC" class="org.apache.log4j.AsyncAppender">
+		<param name="Blocking" value="false"/>
+		<param name="BufferSize" value="256"/>
+		<appender-ref ref="LOGFILE"/>
+	</appender>
+	<appender name="LOGFILE" class="org.apache.log4j.RollingFileAppender">
+		<param name="File" value="log/login.log"/>
+		<param name="Append" value="true"/>
+		<param name="maxBackupIndex" value="50" />
+		<param name="MaxFileSize" value="100MB"/>
+		<layout class="org.apache.log4j.EnhancedPatternLayout">
+			<param name="ConversionPattern" value="[%d{dd.MM.yy HH:mm:ss}] %m%n" />
+		</layout>
+	</appender>
+
+	<appender name="LOGINASYNC" class="org.apache.log4j.AsyncAppender">
+		<param name="Blocking" value="false"/>
+		<param name="BufferSize" value="256"/>
+		<appender-ref ref="LOGFILE"/>
+	</appender>
+	<appender name="LOGINFILE" class="org.apache.log4j.RollingFileAppender">
+		<param name="File" value="log/login_ip.log"/>
+		<param name="Append" value="true"/>
+		<param name="maxBackupIndex" value="50" />
+		<param name="MaxFileSize" value="100MB"/>
+		<layout class="org.apache.log4j.EnhancedPatternLayout">
+			<param name="ConversionPattern" value="[%d{dd.MM.yy HH:mm:ss}] %m%n" />
+		</layout>
+	</appender>
+
+	<appender name="FAILASYNC" class="org.apache.log4j.AsyncAppender">
+		<param name="Blocking" value="false"/>
+		<param name="BufferSize" value="256"/>
+		<appender-ref ref="LOGFILE"/>
+	</appender>
+	<appender name="FAILFILE" class="org.apache.log4j.RollingFileAppender">
+		<param name="File" value="log/login_fail.log"/>
+		<param name="Append" value="true"/>
+		<param name="maxBackupIndex" value="50" />
+		<param name="MaxFileSize" value="100MB"/>
+		<layout class="org.apache.log4j.EnhancedPatternLayout">
+			<param name="ConversionPattern" value="[%d{dd.MM.yy HH:mm:ss}] %m%n" />
+		</layout>
+	</appender>
+
+	<logger name="login" additivity="false">
+	  <appender-ref ref="LOGINFILE" />
+	  <appender-ref ref="CONSOLE"/>
+	</logger>
+	<logger name="fail" additivity="false">
+	  <appender-ref ref="FAILASYNC" />
+	  <appender-ref ref="CONSOLE"/>
+	</logger>
+
+
+    <!-- Root Logger -->
+    <root>
+        <priority value="info"/>
+        <appender-ref ref="CONSOLE"/>
+	<appender-ref ref="LOGFILEASYNC"/>	
+    </root>
+
+</log4j:configuration>

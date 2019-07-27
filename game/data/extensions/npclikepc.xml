@@ -1,0 +1,15 @@
+<?xml version="1.0" ?>
+<list>
+ <npc id="90008" race="Darkelf" class="DE_StormScreamer" >
+   <set name="FaceType" value="0" />
+   <set name="HairStyle" value="0" />	
+   <set name="HairColor" value="1"/>	
+   <equip>
+    <item id="6579" enchant="15" />
+    <item id="2400"/>
+    <item id="2405"/>	
+    <item id="5770"/>	
+    <item id="5782"/>
+   </equip>
+ </npc>
+</list>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE list SYSTEM "armors.dtd">
+<list>
+<item id="5808" name="Party Mask">
+  <for>
+    <add val="0" order="0x10" stat="pDef"/>
+  </for>
+</item>
+</list>

@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+  <zone id="1" name="FourSepulchers Debuff 1" type="Dynamic">
+    <settings exitOnDeath="true" buffRepeat="true" affected="playable"/>
+    <skill applyEnter="4146,3"/>
+    <shape type="Poly" zMin="-7260" zMax="-7010"> <!-- Conqueror's -->
+      <point x="186739" y="-86322"/>
+      <point x="190108" y="-86335"/>
+      <point x="190110" y="-84794"/>
+      <point x="186736" y="-84786"/>
+    </shape>
+    <shape type="Poly" zMin="-7265" zMax="-7015"> <!-- Lord's -->
+      <point x="185028" y="-89729"/>
+      <point x="188398" y="-89741"/>
+      <point x="188400" y="-88200"/>
+      <point x="185026" y="-88192"/>
+    </shape>
+    <shape type="Poly" zMin="-7262" zMax="-7012"> <!-- Savant's -->
+      <point x="172411" y="-81083"/>
+      <point x="173942" y="-81073"/>
+      <point x="173931" y="-77639"/>
+      <point x="172418" y="-77644"/>
+    </shape>
+    <shape type="Poly" zMin="-7262" zMax="-7012"> <!-- Magistrate's -->
+      <point x="174822" y="-77261"/>
+      <point x="176354" y="-77251"/>
+      <point x="176342" y="-73817"/>
+      <point x="174829" y="-73822"/>
+    </shape>
+  </zone>
+  <zone id="2" name="FourSepulchers Debuff 2" type="Dynamic">
+    <settings exitOnDeath="true" buffRepeat="true" affected="playable"/>
+    <skill applyEnter="4145,3"/>
+    <shape type="Poly" zMin="-7260" zMax="-7010"> <!-- Conqueror's -->
+      <point x="186739" y="-86322"/>
+      <point x="190108" y="-86335"/>
+      <point x="190110" y="-84794"/>
+      <point x="186736" y="-84786"/>
+    </shape>
+    <shape type="Poly" zMin="-7265" zMax="-7015"> <!-- Lord's -->
+      <point x="185028" y="-89729"/>
+      <point x="188398" y="-89741"/>
+      <point x="188400" y="-88200"/>
+      <point x="185026" y="-88192"/>
+    </shape>
+    <shape type="Poly" zMin="-7262" zMax="-7012"> <!-- Savant's -->
+      <point x="172411" y="-81083"/>
+      <point x="173942" y="-81073"/>
+      <point x="173931" y="-77639"/>
+      <point x="172418" y="-77644"/>
+    </shape>
+    <shape type="Poly" zMin="-7262" zMax="-7012"> <!-- Magistrate's -->
+      <point x="174822" y="-77261"/>
+      <point x="176354" y="-77251"/>
+      <point x="176342" y="-73817"/>
+      <point x="174829" y="-73822"/>
+    </shape>
+  </zone>
+  <zone id="3" name="FourSepulchers Poison" type="Dynamic">
+    <settings exitOnDeath="true" buffRepeat="true" affected="playable"/>
+    <skill applyEnter="4148,9"/>
+    <shape type="Poly" zMin="-7260" zMax="-7010"> <!-- Conqueror's -->
+      <point x="186739" y="-86322"/>
+      <point x="190108" y="-86335"/>
+      <point x="190110" y="-84794"/>
+      <point x="186736" y="-84786"/>
+    </shape>
+    <shape type="Poly" zMin="-7265" zMax="-7015"> <!-- Lord's -->
+      <point x="185028" y="-89729"/>
+      <point x="188398" y="-89741"/>
+      <point x="188400" y="-88200"/>
+      <point x="185026" y="-88192"/>
+    </shape>
+    <shape type="Poly" zMin="-7262" zMax="-7012"> <!-- Savant's -->
+      <point x="172411" y="-81083"/>
+      <point x="173942" y="-81073"/>
+      <point x="173931" y="-77639"/>
+      <point x="172418" y="-77644"/>
+    </shape>
+    <shape type="Poly" zMin="-7262" zMax="-7012"> <!-- Magistrate's -->
+      <point x="174822" y="-77261"/>
+      <point x="176354" y="-77251"/>
+      <point x="176342" y="-73817"/>
+      <point x="174829" y="-73822"/>
+    </shape>
+  </zone>
+  <zone id="4" name="FourSepulchers Nonheal" type="Dynamic">
+    <settings exitOnDeath="true" buffRepeat="true" affected="playable"/>
+    <skill applyEnter="4624,9"/>
+    <shape type="Poly" zMin="-7260" zMax="-7010"> <!-- Conqueror's -->
+      <point x="186739" y="-86322"/>
+      <point x="190108" y="-86335"/>
+      <point x="190110" y="-84794"/>
+      <point x="186736" y="-84786"/>
+    </shape>
+    <shape type="Poly" zMin="-7265" zMax="-7015"> <!-- Lord's -->
+      <point x="185028" y="-89729"/>
+      <point x="188398" y="-89741"/>
+      <point x="188400" y="-88200"/>
+      <point x="185026" y="-88192"/>
+    </shape>
+    <shape type="Poly" zMin="-7262" zMax="-7012"> <!-- Savant's -->
+      <point x="172411" y="-81083"/>
+      <point x="173942" y="-81073"/>
+      <point x="173931" y="-77639"/>
+      <point x="172418" y="-77644"/>
+    </shape>
+    <shape type="Poly" zMin="-7262" zMax="-7012"> <!-- Magistrate's -->
+      <point x="174822" y="-77261"/>
+      <point x="176354" y="-77251"/>
+      <point x="176342" y="-73817"/>
+      <point x="174829" y="-73822"/>
+    </shape>
+  </zone>
+
+  <zone id="31921" name="Four Sepulcher 1" type="Boss">
+    <settings boss="FOURSEPULCHERS" noLanding="true"/>	
+    <shape type="Rect" zMin="-7230" zMax="-6621">
+      <point x="181241" y="-86443"/>
+      <point x="192134" y="-84575"/>
+    </shape>
+  </zone>
+  <zone id="31922" name="Four Sepulcher 2" type="Boss">
+    <settings boss="FOURSEPULCHERS" noLanding="true"/>		
+    <shape type="Rect" zMin="-7230" zMax="-6621">
+      <point x="179551" y="-89844"/>
+      <point x="190342" y="-88042"/>
+    </shape>
+  </zone>
+  <zone id="31923" name="Four Sepulcher 3" type="Boss">
+    <settings boss="FOURSEPULCHERS" noLanding="true"/>			
+    <shape type="Rect" zMin="-7230" zMax="-6621">
+      <point x="172354" y="-86630"/>
+      <point x="174073" y="-75565"/>
+    </shape>
+  </zone>
+  <zone id="31924" name="Four Sepulcher 4" type="Boss">	
+    <settings boss="FOURSEPULCHERS" noLanding="true"/>				
+    <shape type="Rect" zMin="-7230" zMax="-6621">
+      <point x="174697" y="-82707"/>
+      <point x="176500" y="-71885"/>
+    </shape>
+  </zone>
+
+</list>

@@ -1,0 +1,1076 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<list>
+  <armor id="9030" name="Shadow Item: Bronze Breastplate" armorType="Heavy" >
+   <set icon="icon.armor_t34_u_i00"/>
+   <set bodyPart="CHEST" grade="NONE"/>
+   <set crystallizable="false" />
+   <set weight="2973" />
+   <set mana="600"/>
+   <set sellable="false" tradeable="false" />
+   <set dropable="false" destroyable="true"/>
+
+   <stats>
+    <add stat="pDef" order="0x10" val="68"/>
+   </stats>
+  </armor>
+  <armor id="9031" name="Shadow Item: Bronze Gaiters" armorType="Heavy" >
+   <set icon="icon.armor_t34_l_i00"/>
+   <set bodyPart="LEGS" grade="NONE"/>
+   <set crystallizable="false" />
+   <set weight="1320" />
+   <set mana="600"/>
+   <set sellable="false" tradeable="false" />
+   <set dropable="false" destroyable="true"/>
+
+   <stats>
+    <add stat="pDef" order="0x10" val="43"/>
+   </stats>
+  </armor>
+  <armor id="9032" name="Shadow Item: Hard Leather Shirt" armorType="Light" >
+   <set icon="icon.armor_t30_u_i00"/>
+   <set bodyPart="CHEST" grade="NONE"/>
+   <set crystallizable="false" />
+   <set weight="1573" />
+   <set mana="600"/>
+   <set sellable="false" tradeable="false" />
+   <set dropable="false" destroyable="true"/>
+
+   <stats>
+    <add stat="pDef" order="0x10" val="53"/>
+   </stats>
+  </armor>
+  <armor id="9033" name="Shadow Item: Hard Leather Gaiters" armorType="Light" >
+   <set icon="icon.armor_t30_l_i00"/>
+   <set bodyPart="LEGS" grade="NONE"/>
+   <set crystallizable="false" />
+   <set weight="537" />
+   <set mana="600"/>
+   <set sellable="false" tradeable="false" />
+   <set dropable="false" destroyable="true"/>
+
+   <stats>
+    <add stat="pDef" order="0x10" val="33"/>
+   </stats>
+  </armor>
+  <armor id="9034" name="Shadow Item: Tunic of Magic" armorType="Magic" >
+   <set icon="icon.armor_t58_u_i00"/>
+   <set bodyPart="CHEST" grade="NONE"/>
+   <set crystallizable="false" />
+   <set weight="693" />
+   <set mana="600"/>
+   <set sellable="false" tradeable="false" />
+   <set dropable="false" destroyable="true"/>
+
+   <stats>
+    <add stat="pDef" order="0x10" val="49"/>
+    <add stat="maxMp" order="0x40" val="86"/>
+    <enchant stat="pDef" order="0xc" val="0"/>
+   </stats>
+  </armor>
+  <armor id="9035" name="Shadow Item: Stockings of Magic" armorType="Magic" >
+   <set icon="icon.armor_t58_l_i00"/>
+   <set bodyPart="LEGS" grade="NONE"/>
+   <set crystallizable="false" />
+   <set weight="343" />
+   <set mana="600"/>
+   <set sellable="false" tradeable="false" />
+   <set dropable="false" destroyable="true"/>
+
+   <stats>
+    <add stat="pDef" order="0x10" val="30"/>
+    <add stat="maxMp" order="0x40" val="54"/>
+    <enchant stat="pDef" order="0xc" val="0"/>
+   </stats>
+  </armor>
+  <armor id="9036" name="Shadow Item: Bone Shield" armorType="Shield" >
+   <set icon="icon.shield_bone_shield_i00"/>
+   <set bodyPart="LHAND" grade="NONE"/>
+   <set crystallizable="false" />
+   <set weight="460" />
+   <set mana="600"/>
+   <set sellable="false" tradeable="false" />
+   <set dropable="false" destroyable="true"/>
+
+   <stats>
+    <sub stat="rEvas" order="0x10" val="8"/>
+    <set stat="sDef" order="0x8" val="90"/>
+    <set stat="rShld" order="0x8" val="20"/>
+   </stats>
+  </armor>
+  <armor id="9037" name="Shadow Item: Hard Leather Helmet" armorType="None" >
+   <set icon="icon.armor_leather_helmet_i00"/>
+   <set bodyPart="HEAD" grade="NONE"/>
+   <set crystallizable="false" />
+   <set weight="213" />
+   <set mana="600"/>
+   <set sellable="false" tradeable="false" />
+   <set dropable="false" destroyable="true"/>
+
+   <stats>
+    <add stat="pDef" order="0x10" val="26"/>
+   </stats>
+  </armor>
+  <armor id="9038" name="Shadow Item: Boots" armorType="None" >
+   <set icon="icon.armor_t30_b_i00"/>
+   <set bodyPart="FEET" grade="NONE"/>
+   <set crystallizable="false" />
+   <set weight="437" />
+   <set mana="600"/>
+   <set sellable="false" tradeable="false" />
+   <set dropable="false" destroyable="true"/>
+
+   <stats>
+    <add stat="pDef" order="0x10" val="17"/>
+   </stats>
+  </armor>
+  <armor id="9039" name="Shadow Item: Bracer" armorType="None" >
+   <set icon="icon.armor_t30_g_i00"/>
+   <set bodyPart="GLOVES" grade="NONE"/>
+   <set crystallizable="false" />
+   <set weight="217" />
+   <set mana="600"/>
+   <set sellable="false" tradeable="false" />
+   <set dropable="false" destroyable="true"/>
+
+   <stats>
+    <add stat="pDef" order="0x10" val="17"/>
+   </stats>
+  </armor>
+  <armor id="9040" name="Shadow Item: Mithril Breastplate" armorType="Heavy" >
+   <set icon="icon.armor_t19_u_i00"/>
+   <set bodyPart="CHEST" grade="D"/>
+   <set crystallizable="false" />
+   <set weight="2890" />
+   <set mana="600"/>
+   <set sellable="false" tradeable="false" />
+   <set dropable="false" destroyable="true"/>
+
+   <stats>
+    <add stat="pDef" order="0x10" val="95"/>
+    <enchant stat="pDef" order="0xc" val="0"/>
+   </stats>
+  </armor>
+  <armor id="9041" name="Shadow Item: Mithril Gaiters" armorType="Heavy" >
+   <set icon="icon.armor_t19_l_i00"/>
+   <set bodyPart="LEGS" grade="D"/>
+   <set crystallizable="false" />
+   <set weight="1277" />
+   <set mana="600"/>
+   <set sellable="false" tradeable="false" />
+   <set dropable="false" destroyable="true"/>
+
+   <stats>
+    <add stat="pDef" order="0x10" val="61"/>
+    <enchant stat="pDef" order="0xc" val="0"/>
+   </stats>
+  </armor>
+  <armor id="9042" name="Shadow Item: Gauntlet" armorType="None" >
+   <set icon="icon.armor_t10_g_i00"/>
+   <set bodyPart="GLOVES" grade="D"/>
+   <set crystallizable="false" />
+   <set weight="213" />
+   <set mana="600"/>
+   <set sellable="false" tradeable="false" />
+   <set dropable="false" destroyable="true"/>
+
+   <stats>
+    <add stat="pDef" order="0x10" val="24"/>
+    <enchant stat="pDef" order="0xc" val="0"/>
+   </stats>
+  </armor>
+  <armor id="9043" name="Shadow Item: Iron Boots" armorType="None" >
+   <set icon="icon.armor_t10_b_i00"/>
+   <set bodyPart="FEET" grade="D"/>
+   <set crystallizable="false" />
+   <set weight="427" />
+   <set mana="600"/>
+   <set sellable="false" tradeable="false" />
+   <set dropable="false" destroyable="true"/>
+
+   <stats>
+    <add stat="pDef" order="0x10" val="24"/>
+    <enchant stat="pDef" order="0xc" val="0"/>
+   </stats>
+  </armor>
+  <armor id="9044" name="Shadow Item: Hoplon" armorType="Shield" >
+   <set icon="icon.shield_hoplon_i00"/>
+   <set bodyPart="LHAND" grade="D"/>
+   <set crystallizable="false" />
+   <set weight="447" />
+   <set mana="600"/>
+   <set sellable="false" tradeable="false" />
+   <set dropable="false" destroyable="true"/>
+
+   <stats>
+    <sub stat="rEvas" order="0x10" val="8"/>
+    <set stat="sDef" order="0x8" val="128"/>
+    <set stat="rShld" order="0x8" val="20"/>
+   </stats>
+  </armor>
+  <armor id="9045" name="Shadow Item: Reinforced Leather Shirt" armorType="Light" >
+   <set icon="icon.armor_t13_u_i00"/>
+   <set bodyPart="CHEST" grade="D"/>
+   <set crystallizable="false" />
+   <set weight="1523" />
+   <set mana="600"/>
+   <set sellable="false" tradeable="false" />
+   <set dropable="false" destroyable="true"/>
+
+   <stats>
+    <add stat="pDef" order="0x10" val="73"/>
+    <enchant stat="pDef" order="0xc" val="0"/>
+   </stats>
+  </armor>
+  <armor id="9046" name="Shadow Item: Reinforced Leather Gaiters" armorType="Light" >
+   <set icon="icon.armor_t13_l_i00"/>
+   <set bodyPart="LEGS" grade="D"/>
+   <set crystallizable="false" />
+   <set weight="523" />
+   <set mana="600"/>
+   <set sellable="false" tradeable="false" />
+   <set dropable="false" destroyable="true"/>
+
+   <stats>
+    <add stat="pDef" order="0x10" val="46"/>
+    <enchant stat="pDef" order="0xc" val="0"/>
+   </stats>
+  </armor>
+  <armor id="9047" name="Shadow Item: Reinforced Leather Gloves" armorType="None" >
+   <set icon="icon.armor_t13_g_i00"/>
+   <set bodyPart="GLOVES" grade="D"/>
+   <set crystallizable="false" />
+   <set weight="213" />
+   <set mana="600"/>
+   <set sellable="false" tradeable="false" />
+   <set dropable="false" destroyable="true"/>
+
+   <stats>
+    <add stat="pDef" order="0x10" val="37"/>
+    <enchant stat="pDef" order="0xc" val="0"/>
+   </stats>
+  </armor>
+  <armor id="9048" name="Shadow Item: Reinforced Leather Boots" armorType="None" >
+   <set icon="icon.armor_t13_b_i00"/>
+   <set bodyPart="FEET" grade="D"/>
+   <set crystallizable="false" />
+   <set weight="427" />
+   <set mana="600"/>
+   <set sellable="false" tradeable="false" />
+   <set dropable="false" destroyable="true"/>
+
+   <stats>
+    <add stat="pDef" order="0x10" val="24"/>
+    <enchant stat="pDef" order="0xc" val="0"/>
+   </stats>
+  </armor>
+  <armor id="9049" name="Shadow Item: Tunic of Knowledge" armorType="Magic" >
+   <set icon="icon.armor_t41_u_i00"/>
+   <set bodyPart="CHEST" grade="D"/>
+   <set crystallizable="false" />
+   <set weight="673" />
+   <set mana="600"/>
+   <set sellable="false" tradeable="false" />
+   <set dropable="false" destroyable="true"/>
+
+   <stats>
+    <add stat="pDef" order="0x10" val="49"/>
+    <add stat="maxMp" order="0x40" val="147"/>
+    <enchant stat="pDef" order="0xc" val="0"/>
+   </stats>
+  </armor>
+  <armor id="9050" name="Shadow Item: Stockings of Knowledge" armorType="Magic" >
+   <set icon="icon.armor_t41_l_i00"/>
+   <set bodyPart="LEGS" grade="D"/>
+   <set crystallizable="false" />
+   <set weight="333" />
+   <set mana="600"/>
+   <set sellable="false" tradeable="false" />
+   <set dropable="false" destroyable="true"/>
+
+   <stats>
+    <add stat="pDef" order="0x10" val="30"/>
+    <add stat="maxMp" order="0x40" val="92"/>
+    <enchant stat="pDef" order="0xc" val="0"/>
+   </stats>
+  </armor>
+  <armor id="9051" name="Shadow Item: Gloves of Knowledge" armorType="None" >
+   <set icon="icon.armor_t41_g_i00"/>
+   <set bodyPart="GLOVES" grade="D"/>
+   <set crystallizable="false" />
+   <set weight="213" />
+   <set mana="600"/>
+   <set sellable="false" tradeable="false" />
+   <set dropable="false" destroyable="true"/>
+
+   <stats>
+    <add stat="pDef" order="0x10" val="24"/>
+    <enchant stat="pDef" order="0xc" val="0"/>
+   </stats>
+  </armor>
+  <armor id="9052" name="Shadow Item: Boots of Knowledge" armorType="None" >
+   <set icon="icon.armor_t41_b_i00"/>
+   <set bodyPart="FEET" grade="D"/>
+   <set crystallizable="false" />
+   <set weight="423" />
+   <set mana="600"/>
+   <set sellable="false" tradeable="false" />
+   <set dropable="false" destroyable="true"/>
+
+   <stats>
+    <add stat="pDef" order="0x10" val="24"/>
+    <enchant stat="pDef" order="0xc" val="0"/>
+   </stats>
+  </armor>
+  <armor id="9053" name="Shadow Item: Helmet" armorType="None" >
+   <set icon="icon.armor_helmet_i00"/>
+   <set bodyPart="HEAD" grade="D"/>
+   <set crystallizable="false" />
+   <set weight="213" />
+   <set mana="600"/>
+   <set sellable="false" tradeable="false" />
+   <set dropable="false" destroyable="true"/>
+
+   <stats>
+    <add stat="pDef" order="0x10" val="37"/>
+    <enchant stat="pDef" order="0xc" val="0"/>
+   </stats>
+  </armor>
+  <armor id="9054" name="Shadow Item: Composite Armor" armorType="Heavy" >
+   <set icon="icon.armor_t61_ul_i00"/>
+   <set bodyPart="FULLARMOR" grade="C"/>
+   <set crystallizable="false" />
+   <set weight="3660" />
+   <set mana="600"/>
+   <set sellable="false" tradeable="false" />
+   <set dropable="false" destroyable="true"/>
+
+   <stats>
+    <add stat="pDef" order="0x10" val="224"/>
+    <enchant stat="pDef" order="0xc" val="0"/>
+   </stats>
+  </armor>
+  <armor id="9055" name="Shadow Item: Composite Boots" armorType="None" >
+   <set icon="icon.armor_t61_b_i00"/>
+   <set bodyPart="FEET" grade="C"/>
+   <set crystallizable="false" />
+   <set weight="407" />
+   <set mana="600"/>
+   <set sellable="false" tradeable="false" />
+   <set dropable="false" destroyable="true"/>
+
+   <stats>
+    <add stat="pDef" order="0x10" val="36"/>
+    <enchant stat="pDef" order="0xc" val="0"/>
+   </stats>
+  </armor>
+  <armor id="9056" name="Shadow Item: Composite Shield" armorType="Shield" >
+   <set icon="icon.shield_composite_shield_i00"/>
+   <set bodyPart="LHAND" grade="C"/>
+   <set crystallizable="false" />
+   <set weight="410" />
+   <set mana="600"/>
+   <set sellable="false" tradeable="false" />
+   <set dropable="false" destroyable="true"/>
+
+   <stats>
+    <sub stat="rEvas" order="0x10" val="8"/>
+    <set stat="sDef" order="0x8" val="190"/>
+    <set stat="rShld" order="0x8" val="20"/>
+   </stats>
+  </armor>
+  <armor id="9057" name="Shadow Item: Composite Helmet" armorType="None" >
+   <set icon="icon.armor_leather_helmet_i00"/>
+   <set bodyPart="HEAD" grade="C"/>
+   <set crystallizable="false" />
+   <set weight="203" />
+   <set mana="600"/>
+   <set sellable="false" tradeable="false" />
+   <set dropable="false" destroyable="true"/>
+
+   <stats>
+    <add stat="pDef" order="0x10" val="54"/>
+    <enchant stat="pDef" order="0xc" val="0"/>
+   </stats>
+  </armor>
+  <armor id="9058" name="Shadow Item: Theca Leather Armor" armorType="Light" >
+   <set icon="icon.armor_t63_u_i00"/>
+   <set bodyPart="CHEST" grade="C"/>
+   <set crystallizable="false" />
+   <set weight="1457" />
+   <set mana="600"/>
+   <set sellable="false" tradeable="false" />
+   <set dropable="false" destroyable="true"/>
+
+   <stats>
+    <add stat="pDef" order="0x10" val="106"/>
+    <enchant stat="pDef" order="0xc" val="0"/>
+   </stats>
+  </armor>
+  <armor id="9059" name="Shadow Item: Theca Leather Gaiters" armorType="Light" >
+   <set icon="icon.armor_t63_l_i00"/>
+   <set bodyPart="LEGS" grade="C"/>
+   <set crystallizable="false" />
+   <set weight="510" />
+   <set mana="600"/>
+   <set sellable="false" tradeable="false" />
+   <set dropable="false" destroyable="true"/>
+
+   <stats>
+    <add stat="pDef" order="0x10" val="66"/>
+    <enchant stat="pDef" order="0xc" val="0"/>
+   </stats>
+  </armor>
+  <armor id="9060" name="Shadow Item: Theca Leather Boots" armorType="None" >
+   <set icon="icon.armor_t63_b_i00"/>
+   <set bodyPart="FEET" grade="C"/>
+   <set crystallizable="false" />
+   <set weight="403" />
+   <set mana="600"/>
+   <set sellable="false" tradeable="false" />
+   <set dropable="false" destroyable="true"/>
+
+   <stats>
+    <add stat="pDef" order="0x10" val="37"/>
+    <enchant stat="pDef" order="0xc" val="0"/>
+   </stats>
+  </armor>
+  <armor id="9061" name="Shadow Item: Theca Leather Gloves" armorType="None" >
+   <set icon="icon.armor_t63_g_i00"/>
+   <set bodyPart="GLOVES" grade="C"/>
+   <set crystallizable="false" />
+   <set weight="200" />
+   <set mana="600"/>
+   <set sellable="false" tradeable="false" />
+   <set dropable="false" destroyable="true"/>
+
+   <stats>
+    <add stat="pDef" order="0x10" val="37"/>
+    <enchant stat="pDef" order="0xc" val="0"/>
+   </stats>
+  </armor>
+  <armor id="9062" name="Shadow Item: Demon's Tunic" armorType="Magic" >
+   <set icon="icon.armor_t54_u_i00"/>
+   <set bodyPart="CHEST" grade="C"/>
+   <set crystallizable="false" />
+   <set weight="663" />
+   <set mana="600"/>
+   <set sellable="false" tradeable="false" />
+   <set dropable="false" destroyable="true"/>
+
+   <stats>
+    <add stat="pDef" order="0x10" val="69"/>
+    <add stat="maxMp" order="0x40" val="184"/>
+    <enchant stat="pDef" order="0xc" val="0"/>
+   </stats>
+  </armor>
+  <armor id="9063" name="Shadow Item: Demon's Stockings" armorType="Magic" >
+   <set icon="icon.armor_t54_l_i00"/>
+   <set bodyPart="LEGS" grade="C"/>
+   <set crystallizable="false" />
+   <set weight="327" />
+   <set mana="600"/>
+   <set sellable="false" tradeable="false" />
+   <set dropable="false" destroyable="true"/>
+
+   <stats>
+    <add stat="pDef" order="0x10" val="43"/>
+    <add stat="maxMp" order="0x40" val="177"/>
+    <enchant stat="pDef" order="0xc" val="0"/>
+   </stats>
+  </armor>
+  <armor id="9064" name="Shadow Item: Demon's Boots" armorType="None" >
+   <set icon="icon.armor_t54_b_i00"/>
+   <set bodyPart="FEET" grade="C"/>
+   <set crystallizable="false" />
+   <set weight="407" />
+   <set mana="600"/>
+   <set sellable="false" tradeable="false" />
+   <set dropable="false" destroyable="true"/>
+
+   <stats>
+    <add stat="pDef" order="0x10" val="36"/>
+    <enchant stat="pDef" order="0xc" val="0"/>
+   </stats>
+  </armor>
+  <armor id="9065" name="Shadow Item: Demon's Gloves" armorType="None" >
+   <set icon="icon.armor_t54_g_i00"/>
+   <set bodyPart="GLOVES" grade="C"/>
+   <set crystallizable="false" />
+   <set weight="203" />
+   <set mana="600"/>
+   <set sellable="false" tradeable="false" />
+   <set dropable="false" destroyable="true"/>
+
+   <stats>
+    <add stat="pDef" order="0x10" val="36"/>
+    <enchant stat="pDef" order="0xc" val="0"/>
+   </stats>
+  </armor>
+  <armor id="9066" name="Shadow Item: Shining Circlet" armorType="None" >
+   <set icon="icon.armor_circlet_i00"/>
+   <set bodyPart="HEAD" grade="C"/>
+   <set crystallizable="false" />
+   <set weight="200" />
+   <set mana="600"/>
+   <set sellable="false" tradeable="false" />
+   <set dropable="false" destroyable="true"/>
+
+   <stats>
+    <add stat="pDef" order="0x10" val="54"/>
+    <enchant stat="pDef" order="0xc" val="0"/>
+   </stats>
+  </armor>
+  <armor id="9067" name="Shadow Item: Zubei's Breastplate" armorType="Heavy" >
+   <set icon="icon.armor_t64_u_i00"/>
+   <set bodyPart="CHEST" grade="B"/>
+   <set crystallizable="false" />
+   <set weight="2657" />
+   <set mana="600"/>
+   <set sellable="false" tradeable="false" />
+   <set dropable="false" destroyable="true"/>
+
+   <stats>
+    <add stat="pDef" order="0x10" val="157"/>
+    <enchant stat="pDef" order="0xc" val="0"/>
+   </stats>
+  </armor>
+  <armor id="9068" name="Shadow Item: Zubei's Gaiters" armorType="Heavy" >
+   <set icon="icon.armor_t64_l_i00"/>
+   <set bodyPart="LEGS" grade="B"/>
+   <set crystallizable="false" />
+   <set weight="1190" />
+   <set mana="600"/>
+   <set sellable="false" tradeable="false" />
+   <set dropable="false" destroyable="true"/>
+
+   <stats>
+    <add stat="pDef" order="0x10" val="98"/>
+    <enchant stat="pDef" order="0xc" val="0"/>
+   </stats>
+  </armor>
+  <armor id="9069" name="Shadow Item: Zubei's Helmet" armorType="None" >
+   <set icon="icon.armor_helmet_i00"/>
+   <set bodyPart="HEAD" grade="B"/>
+   <set crystallizable="false" />
+   <set weight="197" />
+   <set mana="600"/>
+   <set sellable="false" tradeable="false" />
+   <set dropable="false" destroyable="true"/>
+
+   <stats>
+    <add stat="pDef" order="0x10" val="62"/>
+    <enchant stat="pDef" order="0xc" val="0"/>
+   </stats>
+  </armor>
+  <armor id="9070" name="Shadow Item: Zubei's Shield" armorType="Shield" >
+   <set icon="icon.shield_shrnoens_shield_i00"/>
+   <set bodyPart="LHAND" grade="B"/>
+   <set crystallizable="false" />
+   <set weight="403" />
+   <set mana="600"/>
+   <set sellable="false" tradeable="false" />
+   <set dropable="false" destroyable="true"/>
+
+   <stats>
+    <sub stat="rEvas" order="0x10" val="8"/>
+    <set stat="sDef" order="0x8" val="216"/>
+    <set stat="rShld" order="0x8" val="20"/>
+   </stats>
+  </armor>
+  <armor id="9071" name="Shadow Item: Zubei's Gauntlet" armorType="None" >
+   <set icon="icon.armor_t64_g_i00"/>
+   <set bodyPart="GLOVES" grade="B"/>
+   <set crystallizable="false" />
+   <set weight="197" />
+   <set mana="600"/>
+   <set sellable="false" tradeable="false" />
+   <set dropable="false" destroyable="true"/>
+
+   <stats>
+    <add stat="pDef" order="0x10" val="41"/>
+    <enchant stat="pDef" order="0xc" val="0"/>
+   </stats>
+  </armor>
+  <armor id="9072" name="Shadow Item: Zubei's Boots" armorType="None" >
+   <set icon="icon.armor_t64_b_i00"/>
+   <set bodyPart="FEET" grade="B"/>
+   <set crystallizable="false" />
+   <set weight="393" />
+   <set mana="600"/>
+   <set sellable="false" tradeable="false" />
+   <set dropable="false" destroyable="true"/>
+
+   <stats>
+    <add stat="pDef" order="0x10" val="41"/>
+    <enchant stat="pDef" order="0xc" val="0"/>
+   </stats>
+  </armor>
+  <armor id="9073" name="Shadow Item: Zubei's Leather Shirt" armorType="Light" >
+   <set icon="icon.armor_t65_u_i00"/>
+   <set bodyPart="CHEST" grade="B"/>
+   <set crystallizable="false" />
+   <set weight="1443" />
+   <set mana="600"/>
+   <set sellable="false" tradeable="false" />
+   <set dropable="false" destroyable="true"/>
+
+   <stats>
+    <add stat="pDef" order="0x10" val="117"/>
+    <enchant stat="pDef" order="0xc" val="0"/>
+   </stats>
+  </armor>
+  <armor id="9074" name="Shadow Item: Zubei's Leather Gaiters" armorType="Light" >
+   <set icon="icon.armor_t65_l_i00"/>
+   <set bodyPart="LEGS" grade="B"/>
+   <set crystallizable="false" />
+   <set weight="493" />
+   <set mana="600"/>
+   <set sellable="false" tradeable="false" />
+   <set dropable="false" destroyable="true"/>
+
+   <stats>
+    <add stat="pDef" order="0x10" val="73"/>
+    <enchant stat="pDef" order="0xc" val="0"/>
+   </stats>
+  </armor>
+  <armor id="9075" name="Shadow Item: Zubei's Gauntlet" armorType="None" >
+   <set icon="icon.armor_t65_g_i00"/>
+   <set bodyPart="GLOVES" grade="B"/>
+   <set crystallizable="false" />
+   <set weight="197" />
+   <set mana="600"/>
+   <set sellable="false" tradeable="false" />
+   <set dropable="false" destroyable="true"/>
+
+   <stats>
+    <add stat="pDef" order="0x10" val="41"/>
+    <enchant stat="pDef" order="0xc" val="0"/>
+   </stats>
+  </armor>
+  <armor id="9076" name="Shadow Item: Zubei's Boots" armorType="None" >
+   <set icon="icon.armor_t65_b_i00"/>
+   <set bodyPart="FEET" grade="B"/>
+   <set crystallizable="false" />
+   <set weight="393" />
+   <set mana="600"/>
+   <set sellable="false" tradeable="false" />
+   <set dropable="false" destroyable="true"/>
+
+   <stats>
+    <add stat="pDef" order="0x10" val="41"/>
+    <enchant stat="pDef" order="0xc" val="0"/>
+   </stats>
+  </armor>
+  <armor id="9077" name="Shadow Item: Tunic of Zubei" armorType="Magic" >
+   <set icon="icon.armor_t56_u_i00"/>
+   <set bodyPart="CHEST" grade="B"/>
+   <set crystallizable="false" />
+   <set weight="653" />
+   <set mana="600"/>
+   <set sellable="false" tradeable="false" />
+   <set dropable="false" destroyable="true"/>
+
+   <stats>
+    <add stat="pDef" order="0x10" val="78"/>
+    <add stat="maxMp" order="0x40" val="345"/>
+    <enchant stat="pDef" order="0xc" val="0"/>
+   </stats>
+  </armor>
+  <armor id="9078" name="Shadow Item: Stockings of Zubei" armorType="Magic" >
+   <set icon="icon.armor_t56_l_i00"/>
+   <set bodyPart="LEGS" grade="B"/>
+   <set crystallizable="false" />
+   <set weight="313" />
+   <set mana="600"/>
+   <set sellable="false" tradeable="false" />
+   <set dropable="false" destroyable="true"/>
+
+   <stats>
+    <add stat="pDef" order="0x10" val="49"/>
+    <add stat="maxMp" order="0x40" val="216"/>
+    <enchant stat="pDef" order="0xc" val="0"/>
+   </stats>
+  </armor>
+  <armor id="9079" name="Shadow Item: Zubei's Gauntlet" armorType="None" >
+   <set icon="icon.armor_t56_g_i00"/>
+   <set bodyPart="GLOVES" grade="B"/>
+   <set crystallizable="false" />
+   <set weight="197" />
+   <set mana="600"/>
+   <set sellable="false" tradeable="false" />
+   <set dropable="false" destroyable="true"/>
+
+   <stats>
+    <add stat="pDef" order="0x10" val="41"/>
+    <enchant stat="pDef" order="0xc" val="0"/>
+   </stats>
+  </armor>
+  <armor id="9080" name="Shadow Item: Zubei's Boots" armorType="None" >
+   <set icon="icon.armor_t56_b_i00"/>
+   <set bodyPart="FEET" grade="B"/>
+   <set crystallizable="false" />
+   <set weight="393" />
+   <set mana="600"/>
+   <set sellable="false" tradeable="false" />
+   <set dropable="false" destroyable="true"/>
+
+   <stats>
+    <add stat="pDef" order="0x10" val="41"/>
+    <enchant stat="pDef" order="0xc" val="0"/>
+   </stats>
+  </armor>
+  <armor id="9081" name="Shadow Item: Dark Crystal Breastplate" armorType="Heavy" >
+   <set icon="icon.armor_t74_u_i00"/>
+   <set bodyPart="CHEST" grade="A"/>
+   <set crystallizable="false" />
+   <set weight="2567" />
+   <set mana="600"/>
+   <set sellable="false" tradeable="false" />
+   <set dropable="false" destroyable="true"/>
+
+   <stats>
+    <add stat="pDef" order="0x10" val="171"/>
+    <enchant stat="pDef" order="0xc" val="0"/>
+   </stats>
+  </armor>
+  <armor id="9082" name="Shadow Item: Dark Crystal Gaiters" armorType="Heavy" >
+   <set icon="icon.armor_t74_l_i00"/>
+   <set bodyPart="LEGS" grade="A"/>
+   <set crystallizable="false" />
+   <set weight="1107" />
+   <set mana="600"/>
+   <set sellable="false" tradeable="false" />
+   <set dropable="false" destroyable="true"/>
+
+   <stats>
+    <add stat="pDef" order="0x10" val="107"/>
+    <enchant stat="pDef" order="0xc" val="0"/>
+   </stats>
+  </armor>
+  <armor id="9083" name="Shadow Item: Dark Crystal Helmet" armorType="None" >
+   <set icon="icon.armor_helmet_i00"/>
+   <set bodyPart="HEAD" grade="A"/>
+   <set crystallizable="false" />
+   <set weight="190" />
+   <set mana="600"/>
+   <set sellable="false" tradeable="false" />
+   <set dropable="false" destroyable="true"/>
+
+   <stats>
+    <add stat="pDef" order="0x10" val="69"/>
+    <enchant stat="pDef" order="0xc" val="0"/>
+   </stats>
+  </armor>
+  <armor id="9084" name="Shadow Item: Dark Crystal Shield" armorType="Shield" >
+   <set icon="icon.shield_dark_crystal_shield_i00"/>
+   <set bodyPart="LHAND" grade="A"/>
+   <set crystallizable="false" />
+   <set weight="397" />
+   <set mana="600"/>
+   <set sellable="false" tradeable="false" />
+   <set dropable="false" destroyable="true"/>
+
+   <stats>
+    <sub stat="rEvas" order="0x10" val="8"/>
+    <set stat="sDef" order="0x8" val="243"/>
+    <set stat="rShld" order="0x8" val="20"/>
+   </stats>
+  </armor>
+  <armor id="9085" name="Shadow Item: Dark Crystal Gloves" armorType="None" >
+   <set icon="icon.armor_t74_g_i00"/>
+   <set bodyPart="GLOVES" grade="A"/>
+   <set crystallizable="false" />
+   <set weight="193" />
+   <set mana="600"/>
+   <set sellable="false" tradeable="false" />
+   <set dropable="false" destroyable="true"/>
+
+   <stats>
+    <add stat="pDef" order="0x10" val="45"/>
+    <enchant stat="pDef" order="0xc" val="0"/>
+   </stats>
+  </armor>
+  <armor id="9086" name="Shadow Item: Dark Crystal Boots" armorType="None" >
+   <set icon="icon.armor_t74_b_i00"/>
+   <set bodyPart="FEET" grade="A"/>
+   <set crystallizable="false" />
+   <set weight="370" />
+   <set mana="600"/>
+   <set sellable="false" tradeable="false" />
+   <set dropable="false" destroyable="true"/>
+
+   <stats>
+    <add stat="pDef" order="0x10" val="45"/>
+    <enchant stat="pDef" order="0xc" val="0"/>
+   </stats>
+  </armor>
+  <armor id="9087" name="Shadow Item: Dark Crystal Leather Armor" armorType="Light" >
+   <set icon="icon.armor_t75_u_i00"/>
+   <set bodyPart="CHEST" grade="A"/>
+   <set crystallizable="false" />
+   <set weight="1433" />
+   <set mana="600"/>
+   <set sellable="false" tradeable="false" />
+   <set dropable="false" destroyable="true"/>
+
+   <stats>
+    <add stat="pDef" order="0x10" val="128"/>
+    <enchant stat="pDef" order="0xc" val="0"/>
+   </stats>
+  </armor>
+  <armor id="9088" name="Shadow Item: Dark Crystal Leggings" armorType="Light" >
+   <set icon="icon.armor_t75_l_i00"/>
+   <set bodyPart="LEGS" grade="A"/>
+   <set crystallizable="false" />
+   <set weight="493" />
+   <set mana="600"/>
+   <set sellable="false" tradeable="false" />
+   <set dropable="false" destroyable="true"/>
+
+   <stats>
+    <add stat="pDef" order="0x10" val="80"/>
+    <enchant stat="pDef" order="0xc" val="0"/>
+   </stats>
+  </armor>
+  <armor id="9089" name="Shadow Item: Dark Crystal Gloves" armorType="None" >
+   <set icon="icon.armor_t75_g_i00"/>
+   <set bodyPart="GLOVES" grade="A"/>
+   <set crystallizable="false" />
+   <set weight="193" />
+   <set mana="600"/>
+   <set sellable="false" tradeable="false" />
+   <set dropable="false" destroyable="true"/>
+
+   <stats>
+    <add stat="pDef" order="0x10" val="45"/>
+    <enchant stat="pDef" order="0xc" val="0"/>
+   </stats>
+  </armor>
+  <armor id="9090" name="Shadow Item: Dark Crystal Boots" armorType="None" >
+   <set icon="icon.armor_t75_b_i00"/>
+   <set bodyPart="FEET" grade="A"/>
+   <set crystallizable="false" />
+   <set weight="370" />
+   <set mana="600"/>
+   <set sellable="false" tradeable="false" />
+   <set dropable="false" destroyable="true"/>
+
+   <stats>
+    <add stat="pDef" order="0x10" val="45"/>
+    <enchant stat="pDef" order="0xc" val="0"/>
+   </stats>
+  </armor>
+  <armor id="9091" name="Shadow Item: Dark Crystal Robe" armorType="Magic" >
+   <set icon="icon.armor_t76_ul_i00"/>
+   <set bodyPart="FULLARMOR" grade="A"/>
+   <set crystallizable="false" />
+   <set weight="817" />
+   <set mana="600"/>
+   <set sellable="false" tradeable="false" />
+   <set dropable="false" destroyable="true"/>
+
+   <stats>
+    <add stat="pDef" order="0x10" val="139"/>
+    <add stat="maxMp" order="0x40" val="665"/>
+    <enchant stat="pDef" order="0xc" val="0"/>
+   </stats>
+  </armor>
+  <armor id="9092" name="Shadow Item: Dark Crystal Gloves" armorType="None" >
+   <set icon="icon.armor_t76_g_i00"/>
+   <set bodyPart="GLOVES" grade="A"/>
+   <set crystallizable="false" />
+   <set weight="193" />
+   <set mana="600"/>
+   <set sellable="false" tradeable="false" />
+   <set dropable="false" destroyable="true"/>
+
+   <stats>
+    <add stat="pDef" order="0x10" val="45"/>
+    <enchant stat="pDef" order="0xc" val="0"/>
+   </stats>
+  </armor>
+  <armor id="9093" name="Shadow Item: Dark Crystal Boots" armorType="None" >
+   <set icon="icon.armor_t76_b_i00"/>
+   <set bodyPart="FEET" grade="A"/>
+   <set crystallizable="false" />
+   <set weight="370" />
+   <set mana="600"/>
+   <set sellable="false" tradeable="false" />
+   <set dropable="false" destroyable="true"/>
+
+   <stats>
+    <add stat="pDef" order="0x10" val="45"/>
+    <enchant stat="pDef" order="0xc" val="0"/>
+   </stats>
+  </armor>
+  <armor id="9094" name="Shadow Item: Majestic Plate Armor" armorType="Heavy" >
+   <set icon="icon.armor_t83_ul_i00"/>
+   <set bodyPart="FULLARMOR" grade="A"/>
+   <set crystallizable="false" />
+   <set weight="3067" />
+   <set mana="600"/>
+   <set sellable="false" tradeable="false" />
+   <set dropable="false" destroyable="true"/>
+
+   <stats>
+    <add stat="pDef" order="0x10" val="293"/>
+    <enchant stat="pDef" order="0xc" val="0"/>
+   </stats>
+  </armor>
+  <armor id="9095" name="Shadow Item: Majestic Circlet" armorType="None" >
+   <set icon="icon.armor_leather_helmet_i00"/>
+   <set bodyPart="HEAD" grade="A"/>
+   <set crystallizable="false" />
+   <set weight="183" />
+   <set mana="600"/>
+   <set sellable="false" tradeable="false" />
+   <set dropable="false" destroyable="true"/>
+
+   <stats>
+    <add stat="pDef" order="0x10" val="73"/>
+    <enchant stat="pDef" order="0xc" val="0"/>
+   </stats>
+  </armor>
+  <armor id="9096" name="Shadow Item: Majestic Gauntlet" armorType="None" >
+   <set icon="icon.armor_t83_g_i00"/>
+   <set bodyPart="GLOVES" grade="A"/>
+   <set crystallizable="false" />
+   <set weight="180" />
+   <set mana="600"/>
+   <set sellable="false" tradeable="false" />
+   <set dropable="false" destroyable="true"/>
+
+   <stats>
+    <add stat="pDef" order="0x10" val="49"/>
+    <enchant stat="pDef" order="0xc" val="0"/>
+   </stats>
+  </armor>
+  <armor id="9097" name="Shadow Item: Majestic Boots" armorType="None" >
+   <set icon="icon.armor_t83_b_i00"/>
+   <set bodyPart="FEET" grade="A"/>
+   <set crystallizable="false" />
+   <set weight="370" />
+   <set mana="600"/>
+   <set sellable="false" tradeable="false" />
+   <set dropable="false" destroyable="true"/>
+
+   <stats>
+    <add stat="pDef" order="0x10" val="48"/>
+    <enchant stat="pDef" order="0xc" val="0"/>
+   </stats>
+  </armor>
+  <armor id="9098" name="Shadow Item: Majestic Leather Armor" armorType="Light" >
+   <set icon="icon.armor_t84_ul_i00"/>
+   <set bodyPart="FULLARMOR" grade="A"/>
+   <set crystallizable="false" />
+   <set weight="1783" />
+   <set mana="600"/>
+   <set sellable="false" tradeable="false" />
+   <set dropable="false" destroyable="true"/>
+
+   <stats>
+    <add stat="pDef" order="0x10" val="220"/>
+    <enchant stat="pDef" order="0xc" val="0"/>
+   </stats>
+  </armor>
+  <armor id="9099" name="Shadow Item: Majestic Gauntlet" armorType="None" >
+   <set icon="icon.armor_t84_g_i00"/>
+   <set bodyPart="GLOVES" grade="A"/>
+   <set crystallizable="false" />
+   <set weight="180" />
+   <set mana="600"/>
+   <set sellable="false" tradeable="false" />
+   <set dropable="false" destroyable="true"/>
+
+   <stats>
+    <add stat="pDef" order="0x10" val="49"/>
+    <enchant stat="pDef" order="0xc" val="0"/>
+   </stats>
+  </armor>
+  <armor id="9100" name="Shadow Item: Majestic Boots" armorType="None" >
+   <set icon="icon.armor_t84_b_i00"/>
+   <set bodyPart="FEET" grade="A"/>
+   <set crystallizable="false" />
+   <set weight="370" />
+   <set mana="600"/>
+   <set sellable="false" tradeable="false" />
+   <set dropable="false" destroyable="true"/>
+
+   <stats>
+    <add stat="pDef" order="0x10" val="49"/>
+    <enchant stat="pDef" order="0xc" val="0"/>
+   </stats>
+  </armor>
+  <armor id="9101" name="Shadow Item: Majestic Robe" armorType="Magic" >
+   <set icon="icon.armor_t85_ul_i00"/>
+   <set bodyPart="FULLARMOR" grade="A"/>
+   <set crystallizable="false" />
+   <set weight="777" />
+   <set mana="600"/>
+   <set sellable="false" tradeable="false" />
+   <set dropable="false" destroyable="true"/>
+
+   <stats>
+    <add stat="pDef" order="0x10" val="147"/>
+    <add stat="maxMp" order="0x40" val="718"/>
+    <enchant stat="pDef" order="0xc" val="0"/>
+   </stats>
+  </armor>
+  <armor id="9102" name="Shadow Item: Majestic Gauntlet" armorType="None" >
+   <set icon="icon.armor_t85_g_i00"/>
+   <set bodyPart="GLOVES" grade="A"/>
+   <set crystallizable="false" />
+   <set weight="180" />
+   <set mana="600"/>
+   <set sellable="false" tradeable="false" />
+   <set dropable="false" destroyable="true"/>
+
+   <stats>
+    <add stat="pDef" order="0x10" val="49"/>
+    <enchant stat="pDef" order="0xc" val="0"/>
+   </stats>
+  </armor>
+  <armor id="9103" name="Shadow Item: Majestic Boots" armorType="None" >
+   <set icon="icon.armor_t85_b_i00"/>
+   <set bodyPart="FEET" grade="A"/>
+   <set crystallizable="false" />
+   <set weight="370" />
+   <set mana="600"/>
+   <set sellable="false" tradeable="false" />
+   <set dropable="false" destroyable="true"/>
+
+   <stats>
+    <add stat="pDef" order="0x10" val="49"/>
+    <enchant stat="pDef" order="0xc" val="0"/>
+   </stats>
+  </armor>
+  <armor id="9128" name="Shadow Item: Mithril Gauntlet" armorType="None" >
+   <set icon="icon.armor_t61_g_i00"/>
+   <set bodyPart="GLOVES" grade="C"/>
+   <set crystallizable="false" />
+   <set weight="200" />
+   <set mana="600"/>
+   <set sellable="false" tradeable="false" />
+   <set dropable="false" destroyable="true"/>
+
+   <stats>
+    <add stat="pDef" order="0x10" val="36"/>
+    <enchant stat="pDef" order="0xc" val="0"/>
+   </stats>
+  </armor>
+  <armor id="9129" name="Shadow Item: Shield of Nightmare" armorType="Shield" >
+   <set icon="icon.shield_shield_of_nightmare_i00"/>
+   <set bodyPart="LHAND" grade="A"/>
+   <set crystallizable="false" />
+   <set weight="400" />
+   <set mana="600"/>
+   <set sellable="false" tradeable="false" />
+   <set dropable="false" destroyable="true"/>
+
+   <stats>
+    <sub stat="rEvas" order="0x10" val="8"/>
+    <set stat="sDef" order="0x8" val="256"/>
+    <set stat="rShld" order="0x8" val="20"/>
+   </stats>
+  </armor>
+</list>

@@ -1,0 +1,381 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+  <zone id="1" name="Shanty Fortress" type="Fort">
+    <settings trade="true"/>
+    <entity fortId="101"/>
+    <restart_chaotic x="-52695" y="156457" z="-2053"/>
+    <restart_owner x="-52695" y="156457" z="-2053"/>
+    <shape type="Rect" zMin="-3800" zMax="3200">
+      <point x="-56256" y="153728"/>
+      <point x="-49536" y="159424"/>
+    </shape>
+  </zone>
+  <zone id="2" name="Shanty Fortress Siege" type="Siege">
+    <settings trade="true"/>
+    <entity fortId="101"/>
+    <shape type="Rect" zMin="-3800" zMax="3200">
+      <point x="-56256" y="153728"/>
+      <point x="-49536" y="159424"/>
+    </shape>
+  </zone>
+  <zone id="3" name="Southern Fortress" type="Fort">
+    <settings trade="true"/>
+    <entity fortId="102"/>
+    <restart_chaotic x="-22759" y="219818" z="-3236"/>
+    <restart_owner x="-22759" y="219818" z="-3236"/>
+    <shape type="Rect" zMin="-3800" zMax="3200">
+      <point x="-26304" y="216576"/>
+      <point x="-19584" y="222912"/>
+    </shape>
+  </zone>
+  <zone id="4" name="Southern Fortress Siege" type="Siege">
+    <settings trade="true"/>
+    <entity fortId="102"/>
+    <shape type="Rect" zMin="-3800" zMax="3200">
+      <point x="-26304" y="216576"/>
+      <point x="-19584" y="222912"/>
+    </shape>
+  </zone>
+  <zone id="5" name="Hive Fortress" type="Fort">
+    <settings trade="true"/>
+    <entity fortId="103"/>
+    <restart_chaotic x="16625" y="188108" z="-2924"/>
+    <restart_owner x="16625" y="188108" z="-2924"/>
+    <shape type="Rect" zMin="-3800" zMax="3200">
+      <point x="12544" y="185856"/>
+      <point x="19456" y="190272"/>
+    </shape>
+  </zone>
+  <zone id="6" name="Hive Fortress Siege" type="Siege">
+    <settings trade="true"/>
+    <entity fortId="103"/>
+    <shape type="Rect" zMin="-3800" zMax="3200">
+      <point x="12544" y="185856"/>
+      <point x="19456" y="190272"/>
+    </shape>
+  </zone>
+  <zone id="7" name="Valley Fortress" type="Fort">
+    <settings trade="true"/>
+    <entity fortId="104"/>
+    <restart_chaotic x="126058" y="123425" z="-2585"/>
+    <restart_owner x="126058" y="123425" z="-2585"/>
+    <shape type="Rect" zMin="-3800" zMax="3200">
+      <point x="122432" y="120192"/>
+      <point x="129600" y="126656"/>
+    </shape>
+  </zone>
+  <zone id="8" name="Valley Fortress Siege" type="Siege">
+    <settings trade="true"/>
+    <entity fortId="104"/>
+    <shape type="Rect" zMin="-3800" zMax="3200">
+      <point x="122432" y="120192"/>
+      <point x="129600" y="126656"/>
+    </shape>
+  </zone>
+  <zone id="9" name="Ivory Fortress" type="Fort">
+    <settings trade="true"/>
+    <entity fortId="105"/>
+    <restart_chaotic x="72808" y="4307" z="-3045"/>
+    <restart_owner x="72808" y="4307" z="-3045"/>
+    <shape type="Rect" zMin="-3800" zMax="3200">
+      <point x="70080" y="1984"/>
+      <point x="74944" y="6656"/>
+    </shape>
+  </zone>
+  <zone id="10" name="Ivory Fortress Siege" type="Siege">
+    <settings trade="true"/>
+    <entity fortId="105"/>
+    <shape type="Rect" zMin="-3800" zMax="3200">
+      <point x="70080" y="1984"/>
+      <point x="74944" y="6656"/>
+    </shape>
+  </zone>
+  <zone id="11" name="Narsell Fortress" type="Fort">
+    <settings trade="true"/>
+    <entity fortId="106"/>
+    <restart_chaotic x="154966" y="55276" z="-3254"/>
+    <restart_owner x="154966" y="55276" z="-3254"/>
+    <shape type="Rect" zMin="-3800" zMax="3200">
+      <point x="151936" y="52736"/>
+      <point x="157760" y="58304"/>
+    </shape>
+  </zone>
+  <zone id="12" name="Narsell Fortress Siege" type="Siege">
+    <settings trade="true"/>
+    <entity fortId="106"/>
+    <shape type="Rect" zMin="-3800" zMax="3200">
+      <point x="151936" y="52736"/>
+      <point x="157760" y="58304"/>
+    </shape>
+  </zone>
+  <zone id="13" name="Bayou Fortress" type="Fort">
+    <settings trade="true"/>
+    <entity fortId="107"/>
+    <restart_chaotic x="189910" y="39770" z="-3410"/>
+    <restart_owner x="189910" y="39770" z="-3410"/>
+    <shape type="Rect" zMin="-3800" zMax="3200">
+      <point x="186368" y="36288"/>
+      <point x="192640" y="42240"/>
+    </shape>
+  </zone>
+  <zone id="14" name="Bayou Fortress Siege" type="Siege">
+    <settings trade="true"/>
+    <entity fortId="107"/>
+    <shape type="Rect" zMin="-3800" zMax="3200">
+      <point x="186368" y="36288"/>
+      <point x="192640" y="42240"/>
+    </shape>
+  </zone>
+  <zone id="15" name="White Sands Fortress" type="Fort">
+    <settings trade="true"/>
+    <entity fortId="108"/>
+    <restart_chaotic x="118361" y="204924" z="-3333"/>
+    <restart_owner x="118361" y="204924" z="-3333"/>
+    <shape type="Rect" zMin="-3800" zMax="3200">
+      <point x="114432" y="201664"/>
+      <point x="122176" y="208704"/>
+    </shape>
+  </zone>
+  <zone id="16" name="White Sands Fortress Siege" type="Siege">
+    <settings trade="true"/>
+    <entity fortId="108"/>
+    <shape type="Rect" zMin="-3800" zMax="3200">
+      <point x="114432" y="201664"/>
+      <point x="122176" y="208704"/>
+    </shape>
+  </zone>
+  <zone id="17" name="Borderland Fortress" type="Fort">
+    <settings trade="true"/>
+    <entity fortId="109"/>
+    <restart_chaotic x="159009" y="-70167" z="-2864"/>
+    <restart_owner x="159009" y="-70167" z="-2864"/>
+    <shape type="Rect" zMin="-3800" zMax="3200">
+      <point x="155776" y="-72896"/>
+      <point x="162368" y="-67776"/>
+    </shape>
+  </zone>
+  <zone id="18" name="Borderland Fortress Siege" type="Siege">
+    <settings trade="true"/>
+    <entity fortId="109"/>
+    <shape type="Rect" zMin="-3800" zMax="3200">
+      <point x="155776" y="-72896"/>
+      <point x="162368" y="-67776"/>
+    </shape>
+  </zone>
+  <zone id="19" name="Marshland Fortress" type="Fort">
+    <settings trade="true"/>
+    <entity fortId="110"/>
+    <restart_chaotic x="69791" y="-61482" z="-2786"/>
+    <restart_owner x="69791" y="-61482" z="-2786"/>
+    <shape type="Rect" zMin="-3800" zMax="3200">
+      <point x="66304" y="-63872"/>
+      <point x="72832" y="-58688"/>
+    </shape>
+  </zone>
+  <zone id="20" name="Marshland Fortress Siege" type="Siege">
+    <settings trade="true"/>
+    <entity fortId="110"/>
+    <shape type="Rect" zMin="-3800" zMax="3200">
+      <point x="66304" y="-63872"/>
+      <point x="72832" y="-58688"/>
+    </shape>
+  </zone>
+  <zone id="21" name="Archaic Fortress" type="Fort">
+    <settings trade="true"/>
+    <entity fortId="111"/>
+    <restart_chaotic x="109568" y="-141277" z="-2957"/>
+    <restart_owner x="109568" y="-141277" z="-2957"/>
+    <shape type="Rect" zMin="-3800" zMax="3200">
+      <point x="106176" y="-143616"/>
+      <point x="112704" y="-138752"/>
+    </shape>
+  </zone>
+  <zone id="22" name="Archaic Fortress Siege" type="Siege">
+    <settings trade="true"/>
+    <entity fortId="111"/>
+    <shape type="Rect" zMin="-3800" zMax="3200">
+      <point x="106176" y="-143616"/>
+      <point x="112704" y="-138752"/>
+    </shape>
+  </zone>
+  <zone id="23" name="Floran Fortress" type="Fort">
+    <settings trade="true"/>
+    <entity fortId="112"/>
+    <restart_chaotic x="5688" y="149726" z="-2889"/>
+    <restart_owner x="5688" y="149726" z="-2889"/>
+    <shape type="Rect" zMin="-3800" zMax="3200">
+      <point x="1472" y="145216"/>
+      <point x="9728" y="155136"/>
+    </shape>
+  </zone>
+  <zone id="24" name="Floran Fortress Siege" type="Siege">
+    <settings trade="true"/>
+    <entity fortId="112"/>
+    <shape type="Rect" zMin="-3800" zMax="3200">
+      <point x="1472" y="145216"/>
+      <point x="9728" y="155136"/>
+    </shape>
+  </zone>
+  <zone id="25" name="Cloud Mountain Fortress" type="Fort">
+    <settings trade="true"/>
+    <entity fortId="113"/>
+    <restart_chaotic x="-53204" y="91210" z="-2821"/>
+    <restart_owner x="-53204" y="91210" z="-2821"/>
+    <shape type="Rect" zMin="-3800" zMax="3200">
+      <point x="-57408" y="88704"/>
+      <point x="-49408" y="93824"/>
+    </shape>
+  </zone>
+  <zone id="26" name="Cloud Mountain Fortress Siege" type="Siege">
+    <settings trade="true"/>
+    <entity fortId="113"/>
+    <shape type="Rect" zMin="-3800" zMax="3200">
+      <point x="-57408" y="88704"/>
+      <point x="-49408" y="93824"/>
+    </shape>
+  </zone>
+  <zone id="27" name="Tanor Fortress" type="Fort">
+    <settings trade="true"/>
+    <entity fortId="114"/>
+    <restart_chaotic x="60258" y="139425" z="-1754"/>
+    <restart_owner x="60258" y="139425" z="-1754"/>
+    <shape type="Rect" zMin="-3800" zMax="3200">
+      <point x="56256" y="136768"/>
+      <point x="64256" y="142016"/>
+    </shape>
+  </zone>
+  <zone id="28" name="Tanor Fortress Siege" type="Siege">
+    <settings trade="true"/>
+    <entity fortId="114"/>
+    <shape type="Rect" zMin="-3800" zMax="3200">
+      <point x="56256" y="136768"/>
+      <point x="64256" y="142016"/>
+    </shape>
+  </zone>
+  <zone id="29" name="Dragonspine Fortress" type="Fort">
+    <settings trade="true"/>
+    <entity fortId="115"/>
+    <restart_chaotic x="11542" y="95060" z="-3426"/>
+    <restart_owner x="11542" y="95060" z="-3426"/>
+    <shape type="Rect" zMin="-3800" zMax="3200">
+      <point x="8000" y="92928"/>
+      <point x="14976" y="97408"/>
+    </shape>
+  </zone>
+  <zone id="30" name="Dragonspine Fortress Siege" type="Siege">
+    <settings trade="true"/>
+    <entity fortId="115"/>
+    <shape type="Rect" zMin="-3800" zMax="3200">
+      <point x="8000" y="92928"/>
+      <point x="14976" y="97408"/>
+    </shape>
+  </zone>
+  <zone id="31" name="Antharas Fortress" type="Fort">
+    <settings trade="true"/>
+    <entity fortId="116"/>
+    <restart_chaotic x="79199" y="91021" z="-2878"/>
+    <restart_owner x="79199" y="91021" z="-2878"/>
+    <shape type="Rect" zMin="-3800" zMax="3200">
+      <point x="75904" y="86336"/>
+      <point x="80448" y="95488"/>
+    </shape>
+  </zone>
+  <zone id="32" name="Antharas Fortress Siege" type="Siege">
+    <settings trade="true"/>
+    <entity fortId="116"/>
+    <shape type="Rect" zMin="-3800" zMax="3200">
+      <point x="75904" y="86336"/>
+      <point x="80448" y="95488"/>
+    </shape>
+  </zone>
+  <zone id="33" name="Western Fortress" type="Fort">
+    <settings trade="true"/>
+    <entity fortId="117"/>
+    <restart_chaotic x="111376" y="-15203" z="-995"/>
+    <restart_owner x="111376" y="-15203" z="-995"/>
+    <shape type="Rect" zMin="-3800" zMax="3200">
+      <point x="107264" y="-17664"/>
+      <point x="115392" y="-12544"/>
+    </shape>
+  </zone>
+  <zone id="34" name="Western Fortress Siege" type="Siege">
+    <settings trade="true"/>
+    <entity fortId="117"/>
+    <shape type="Rect" zMin="-3800" zMax="3200">
+      <point x="107264" y="-17664"/>
+      <point x="115392" y="-12544"/>
+    </shape>
+  </zone>
+  <zone id="35" name="Hunters Fortress" type="Fort">
+    <settings trade="true"/>
+    <entity fortId="118"/>
+    <restart_chaotic x="125308" y="95066" z="-2140"/>
+    <restart_owner x="125308" y="95066" z="-2140"/>
+    <shape type="Rect" zMin="-3800" zMax="3200">
+      <point x="121472" y="92992"/>
+      <point x="129088" y="97792"/>
+    </shape>
+  </zone>
+  <zone id="36" name="Hunters Fortress Siege" type="Siege">
+    <settings trade="true"/>
+    <entity fortId="118"/>
+    <shape type="Rect" zMin="-3800" zMax="3200">
+      <point x="121472" y="92992"/>
+      <point x="129088" y="97792"/>
+    </shape>
+  </zone>
+  <zone id="37" name="Aaru Fortress" type="Fort">
+    <settings trade="true"/>
+    <entity fortId="119"/>
+    <restart_chaotic x="73066" y="185954" z="-2581"/>
+    <restart_owner x="73066" y="185954" z="-2581"/>
+    <shape type="Rect" zMin="-3800" zMax="3200">
+      <point x="69120" y="182400"/>
+      <point x="76672" y="190784"/>
+    </shape>
+  </zone>
+  <zone id="38" name="Aaru Fortress Siege" type="Siege">
+    <settings trade="true"/>
+    <entity fortId="119"/>
+    <shape type="Rect" zMin="-3800" zMax="3200">
+      <point x="69120" y="182400"/>
+      <point x="76672" y="190784"/>
+    </shape>
+  </zone>
+  <zone id="39" name="Demon Fortress" type="Fort">
+    <settings trade="true"/>
+    <entity fortId="120"/>
+    <restart_chaotic x="100707" y="-54938" z="-320"/>
+    <restart_owner x="100707" y="-54938" z="-320"/>
+    <shape type="Rect" zMin="-3800" zMax="3200">
+      <point x="98432" y="-58405"/>
+      <point x="102912" y="-52288"/>
+    </shape>
+  </zone>
+  <zone id="40" name="Demon Fortress Siege" type="Siege">
+    <settings trade="true"/>
+    <entity fortId="120"/>
+    <shape type="Rect" zMin="-3800" zMax="3200">
+      <point x="98432" y="-58405"/>
+      <point x="102912" y="-52288"/>
+    </shape>
+  </zone>
+  <zone id="41" name="Monastic Fortress" type="Fort">
+    <settings trade="true"/>
+    <entity fortId="121"/>
+    <restart_chaotic x="72146" y="-94782" z="-1428"/>
+    <restart_owner x="72146" y="-94782" z="-1428"/>
+    <shape type="Rect" zMin="-3800" zMax="3200">
+      <point x="68480" y="-97536"/>
+      <point x="75520" y="-92224"/>
+    </shape>
+  </zone>
+  <zone id="42" name="Monastic Fortress Siege" type="Siege">
+    <settings trade="true"/>
+    <entity fortId="121"/>
+    <shape type="Rect" zMin="-3800" zMax="3200">
+      <point x="68480" y="-97536"/>
+      <point x="75520" y="-92224"/>
+    </shape>
+  </zone>
+</list>

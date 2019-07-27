@@ -1,0 +1,32 @@
+﻿<html><title>Панель управления сервером</title><body>
+<center>
+<table width=270>
+<tr>
+<td width=45><button value="Main" action="bypass -h admin_admin" width=45 height=19 back="sek.cbui94" fore="sek.cbui94"></td>
+<td width=180><center><font color="LEVEL">Создание вещей</font></center></td>
+<td width=45><button value="Back" action="bypass -h admin_gamemenu" width=45 height=19 back="sek.cbui94" fore="sek.cbui94"></td>
+</tr>
+</table>
+
+<br><font color="LEVEL">Введите ID и количество</font>
+<table>
+<tr>
+<td>Item ID: <edit var="itemid" width=50></td>
+<td>Count: <edit var="itemnum" width=50></td>
+</tr><tr>
+<td>&nbsp;<button value="Создать себе" action="bypass -h admin_create_item $itemid $itemnum" width=90 height=19 back="sek.cbui94" fore="sek.cbui94"></td>
+<td>&nbsp;<button value="Создать игроку" action="bypass -h admin_create_item $itemid $itemnum other" width=90 height=19 back="sek.cbui94" fore="sek.cbui94"></td>
+</tr>
+</table></center><br><br><center>
+<table>
+<tr><td><center>Заготовки: <edit var="asset" width=70 height=11></center></td></tr>
+</table><br>
+<table><tr>
+<td>
+<button value="Adena" action="bypass -h admin_create_item 57 $asset" width=95 height=19 back="sek.cbui94" fore="sek.cbui94">
+<button value="Ancient Adena" action="bypass -h admin_create_item 5575 $asset" width=95 height=19 back="sek.cbui94" fore="sek.cbui94">
+<button value="Blue Seal Stones" action="bypass -h admin_create_item 6360 $asset" width=95 height=19 back="sek.cbui94" fore="sek.cbui94">
+<button value="Green Seal Stones" action="bypass -h admin_create_item 6361 $asset" width=95 height=19 back="sek.cbui94" fore="sek.cbui94">
+<button value="Red Seal Stones" action="bypass -h admin_create_item 6362 $asset" width=95 height=19 back="sek.cbui94" fore="sek.cbui94">
+</td></tr></table></center>
+</body></html>

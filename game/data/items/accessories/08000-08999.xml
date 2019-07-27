@@ -1,0 +1,411 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<list>
+  <accessorie id="8177" name="Raid Challenger's Circlet"  >
+   <set icon="icon.accessory_raid_challenger_i00"/>
+   <set bodyPart="FACE" grade="NONE"/>
+   <set crystallizable="false" />
+   <set weight="10" />
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </accessorie>
+  <accessorie id="8178" name="Raid Adventurer's Circlet"  >
+   <set icon="icon.accessory_raid_explorer_i00"/>
+   <set bodyPart="FACE" grade="NONE"/>
+   <set crystallizable="false" />
+   <set weight="10" />
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </accessorie>
+  <accessorie id="8179" name="Raid Master's Circlet"  >
+   <set icon="icon.accessory_raid_master_i00"/>
+   <set bodyPart="FACE" grade="NONE"/>
+   <set crystallizable="false" />
+   <set weight="10" />
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </accessorie>
+  <accessorie id="8180" name="Circlet of Ice Fairy Sirra"  >
+   <set icon="icon.accessory_ice_queen_i00"/>
+   <set bodyPart="FACE" grade="NONE"/>
+   <set crystallizable="false" />
+   <set weight="10" />
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </accessorie>
+  <accessorie id="8181" name="Academy Circlet"  >
+   <set icon="icon.accessory_academy_i00"/>
+   <set bodyPart="FACE" grade="NONE"/>
+   <set crystallizable="false" />
+   <set weight="10" />
+   <set sellable="false" tradeable="false" />
+   <set dropable="false" destroyable="false"/>
+  </accessorie>
+  <accessorie id="8182" name="Circlet of Rune"  >
+   <set icon="icon.accessory_pledge_cap1_i01"/>
+   <set bodyPart="FACE" grade="NONE"/>
+   <set crystallizable="false" />
+   <set weight="10" price="500000"/>
+   <set sellable="true" tradeable="false" />
+   <set dropable="false" destroyable="false"/>
+
+   <skills>
+      <skill id="3633" level="2"/>
+    </skills>
+  </accessorie>
+  <accessorie id="8183" name="Circlet of Schuttgart"  >
+   <set icon="icon.accessory_pledge_cap1_i07"/>
+   <set bodyPart="FACE" grade="NONE"/>
+   <set crystallizable="false" />
+   <set weight="10" price="500000"/>
+   <set sellable="true" tradeable="false" />
+   <set dropable="false" destroyable="false"/>
+
+   <skills>
+      <skill id="3633" level="2"/>
+    </skills>
+  </accessorie>
+  <accessorie id="8184" name="Party Hat"  >
+   <set icon="icon.accessory_party_hat_i00"/>
+   <set bodyPart="HAIRALL" grade="NONE"/>
+   <set crystallizable="false" />
+   <set weight="10" />
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </accessorie>
+  <accessorie id="8185" name="Feathered Hat"  >
+   <set icon="icon.accessory_archer_hat_i00"/>
+   <set bodyPart="HAIRALL" grade="NONE"/>
+   <set crystallizable="false" />
+   <set weight="10" />
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </accessorie>
+  <accessorie id="8186" name="Artisan's Goggles"  >
+   <set icon="icon.accessory_dwarf_goggle_i00"/>
+   <set bodyPart="HAIRALL" grade="NONE"/>
+   <set crystallizable="false" />
+   <set weight="10" />
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </accessorie>
+  <accessorie id="8187" name="Demon Horns"  >
+   <set icon="icon.accessory_hair_cornu_i00"/>
+   <set bodyPart="HAIR" grade="NONE"/>
+   <set crystallizable="false" />
+   <set weight="10" />
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </accessorie>
+  <accessorie id="8188" name="Little Angel Wings"  >
+   <set icon="icon.accessory_hair_ring_i00"/>
+   <set bodyPart="HAIR" grade="NONE"/>
+   <set crystallizable="false" />
+   <set weight="10" />
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </accessorie>
+  <accessorie id="8189" name="Fairy Antennae"  >
+   <set icon="icon.accessory_hair_feeler_i00"/>
+   <set bodyPart="HAIR" grade="NONE"/>
+   <set crystallizable="false" />
+   <set weight="10" />
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </accessorie>
+  <accessorie id="8552" name="Mask of Spirits"  >
+   <set icon="icon.accessory_worldcup_mask_i00"/>
+   <set bodyPart="FACE" grade="NONE"/>
+   <set crystallizable="false" />
+   <set weight="10" />
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </accessorie>
+  <accessorie id="8557" name="Blue Party Hat"  >
+   <set icon="icon.accessory_party_hat_blue_i00"/>
+   <set bodyPart="HAIRALL" grade="NONE"/>
+   <set crystallizable="false" />
+   <set weight="10" />
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </accessorie>
+  <accessorie id="8558" name="Eva's Mark (Event)"  >
+   <set icon="icon.accessory_soaring_bird_i00"/>
+   <set bodyPart="FACE" grade="NONE"/>
+   <set crystallizable="false" />
+   <set weight="10" />
+   <set sellable="false" tradeable="false" />
+   <set dropable="false" destroyable="true"/>
+  </accessorie>
+  <accessorie id="8559" name="Diadem"  >
+   <set icon="icon.accessory_flower_cap_i00"/>
+   <set bodyPart="HAIRALL" grade="NONE"/>
+   <set crystallizable="false" />
+   <set weight="10" />
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </accessorie>
+  <accessorie id="8560" name="Teddy Bear Hat"  >
+   <set icon="icon.accessory_bear_cap_i00"/>
+   <set bodyPart="HAIRALL" grade="NONE"/>
+   <set crystallizable="false" />
+   <set weight="10" />
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </accessorie>
+  <accessorie id="8561" name="Piggy Hat"  >
+   <set icon="icon.accessory_pig_cap_i00"/>
+   <set bodyPart="HAIRALL" grade="NONE"/>
+   <set crystallizable="false" />
+   <set weight="10" />
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </accessorie>
+  <accessorie id="8562" name="Jester Hat"  >
+   <set icon="icon.accessory_jester_cap_i00"/>
+   <set bodyPart="HAIRALL" grade="NONE"/>
+   <set crystallizable="false" />
+   <set weight="10" />
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </accessorie>
+  <accessorie id="8563" name="Wizard Hat"  >
+   <set icon="icon.accessory_magic_cap_i00"/>
+   <set bodyPart="HAIRALL" grade="NONE"/>
+   <set crystallizable="false" />
+   <set weight="10" />
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </accessorie>
+  <accessorie id="8564" name="Dapper Cap"  >
+   <set icon="icon.accessory_dandy_cap_i00"/>
+   <set bodyPart="HAIRALL" grade="NONE"/>
+   <set crystallizable="false" />
+   <set weight="10" />
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </accessorie>
+  <accessorie id="8565" name="Romantic Chapeau"  >
+   <set icon="icon.accessory_romantic_chaperon_i00"/>
+   <set bodyPart="HAIRALL" grade="NONE"/>
+   <set crystallizable="false" />
+   <set weight="10" />
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </accessorie>
+  <accessorie id="8566" name="Iron Circlet"  >
+   <set icon="icon.accessory_iron_circlet_i00"/>
+   <set bodyPart="FACE" grade="NONE"/>
+   <set crystallizable="false" />
+   <set weight="10" />
+   <set sellable="false" tradeable="false" />
+   <set dropable="false" destroyable="true"/>
+  </accessorie>
+  <accessorie id="8567" name="Valakas Slayer Circlet"  >
+   <set icon="icon.accessory_valakas_circlet_i00"/>
+   <set bodyPart="FACE" grade="NONE"/>
+   <set crystallizable="false" />
+   <set weight="10" />
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </accessorie>
+  <accessorie id="8568" name="Antharas Slayer Circlet"  >
+   <set icon="icon.accessory_antaras_circlet_i00"/>
+   <set bodyPart="FACE" grade="NONE"/>
+   <set crystallizable="false" />
+   <set weight="10" />
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </accessorie>
+  <accessorie id="8569" name="Half Face Mask"  >
+   <set icon="icon.accessory_half_face_i00"/>
+   <set bodyPart="FACE" grade="NONE"/>
+   <set crystallizable="false" />
+   <set weight="10" />
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </accessorie>
+  <accessorie id="8660" name="Demon Horns"  >
+   <set icon="icon.accessory_hair_cornu_i00"/>
+   <set bodyPart="HAIR" grade="NONE"/>
+   <set crystallizable="false" />
+   <set weight="10" />
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </accessorie>
+  <accessorie id="8661" name="Mask of Spirits"  >
+   <set icon="icon.accessory_worldcup_mask_i00"/>
+   <set bodyPart="FACE" grade="NONE"/>
+   <set crystallizable="false" />
+   <set weight="10" />
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </accessorie>
+  <accessorie id="8662" name="Fairy Antennae (Event)"  >
+   <set icon="icon.accessory_hair_feeler_i00"/>
+   <set bodyPart="HAIR" grade="NONE"/>
+   <set crystallizable="false" />
+   <set weight="10" />
+   <set sellable="false" tradeable="false" />
+   <set dropable="false" destroyable="true"/>
+  </accessorie>
+  <accessorie id="8910" name="Black Feather Mask (Event)"  >
+   <set icon="icon.accessary_black_feather_mask_i00"/>
+   <set bodyPart="HAIRALL" grade="NONE"/>
+   <set crystallizable="false" />
+   <set weight="10" />
+   <set sellable="false" tradeable="false" />
+   <set dropable="false" destroyable="true"/>
+  </accessorie>
+  <accessorie id="8911" name="Black Half-Mask (Event)"  >
+   <set icon="icon.Accessary_black_half_mask_i00"/>
+   <set bodyPart="FACE" grade="NONE"/>
+   <set crystallizable="false" />
+   <set weight="10" />
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </accessorie>
+  <accessorie id="8912" name="Single Stem Flower"  >
+   <set icon="icon.accessory_hairpin_i00"/>
+   <set bodyPart="HAIR" grade="NONE"/>
+   <set crystallizable="false" />
+   <set weight="10" />
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </accessorie>
+  <accessorie id="8913" name="Butterfly Hairpin"  >
+   <set icon="icon.Accessary_butterfly_hearpin_i00"/>
+   <set bodyPart="HAIR" grade="NONE"/>
+   <set crystallizable="false" />
+   <set weight="10" />
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </accessorie>
+  <accessorie id="8914" name="Luxurious Gold Circlet"  >
+   <set icon="icon.Accessary_gold_circlet_i00"/>
+   <set bodyPart="HAIRALL" grade="NONE"/>
+   <set crystallizable="false" />
+   <set weight="10" />
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </accessorie>
+  <accessorie id="8915" name="Luxurious Silver Circlet"  >
+   <set icon="icon.Accessary_gold_circlet_i01"/>
+   <set bodyPart="HAIRALL" grade="NONE"/>
+   <set crystallizable="false" />
+   <set weight="10" />
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </accessorie>
+  <accessorie id="8916" name="Eye Patch"  >
+   <set icon="icon.Accessary_one_eye_i00"/>
+   <set bodyPart="FACE" grade="NONE"/>
+   <set crystallizable="false" />
+   <set weight="10" />
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </accessorie>
+  <accessorie id="8917" name="Goddess Circlet"  >
+   <set icon="icon.Accessary_goddess_circlet_i00"/>
+   <set bodyPart="HAIRALL" grade="NONE"/>
+   <set crystallizable="false" />
+   <set weight="10" />
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </accessorie>
+  <accessorie id="8918" name="Leather Cap"  >
+   <set icon="icon.Accessary_middle_ages_i00"/>
+   <set bodyPart="HAIRALL" grade="NONE"/>
+   <set crystallizable="false" />
+   <set weight="10" />
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </accessorie>
+  <accessorie id="8919" name="First Mate's Hat"  >
+   <set icon="icon.Accessary_middle_ages_i01"/>
+   <set bodyPart="HAIRALL" grade="NONE"/>
+   <set crystallizable="false" />
+   <set weight="10" />
+   <set sellable="false" tradeable="false" />
+   <set dropable="false" destroyable="true"/>
+  </accessorie>
+  <accessorie id="8920" name="Angel Halo"  >
+   <set icon="icon.Accessary_angel_circlet_i00"/>
+   <set bodyPart="HAIRALL" grade="NONE"/>
+   <set crystallizable="false" />
+   <set weight="10" />
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </accessorie>
+  <accessorie id="8921" name="Demon Circlet"  >
+   <set icon="icon.Accessary_demon_circlet_i00"/>
+   <set bodyPart="HAIRALL" grade="NONE"/>
+   <set crystallizable="false" />
+   <set weight="10" />
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </accessorie>
+  <accessorie id="8922" name="Pirate Hat"  >
+   <set icon="icon.Accessary_sea_robber_i00"/>
+   <set bodyPart="HAIRALL" grade="NONE"/>
+   <set crystallizable="false" />
+   <set weight="10" />
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </accessorie>
+  <accessorie id="8923" name="Scar"  >
+   <set icon="icon.Accessary_scar_i00"/>
+   <set bodyPart="FACE" grade="NONE"/>
+   <set crystallizable="false" />
+   <set weight="10" />
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </accessorie>
+  <accessorie id="8936" name="Santa's Antlers"  >
+   <set icon="icon.accessory_santas_antler_i00"/>
+   <set bodyPart="HAIRALL" grade="NONE"/>
+   <set crystallizable="false" />
+   <set weight="10" />
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </accessorie>
+  <accessorie id="8947" name="L2 Day: Rabbit Ears"  >
+   <set icon="icon.accessory_rabbit_ear_i00"/>
+   <set bodyPart="HAIR" grade="NONE"/>
+   <set crystallizable="false" />
+   <set weight="10" />
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </accessorie>
+  <accessorie id="8948" name="L2 Day: Little Angel Wings"  >
+   <set icon="icon.accessory_hair_ring_i00"/>
+   <set bodyPart="HAIR" grade="NONE"/>
+   <set crystallizable="false" />
+   <set weight="10" />
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </accessorie>
+  <accessorie id="8949" name="L2 Day: Fairy Antennae"  >
+   <set icon="icon.accessory_hair_feeler_i00"/>
+   <set bodyPart="HAIR" grade="NONE"/>
+   <set crystallizable="false" />
+   <set weight="10" />
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </accessorie>
+  <accessorie id="8950" name="L2 Day: Feathered Hat"  >
+   <set icon="icon.accessory_archer_hat_i00"/>
+   <set bodyPart="HAIRALL" grade="NONE"/>
+   <set crystallizable="false" />
+   <set weight="10" />
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </accessorie>
+  <accessorie id="8951" name="L2 Day: Artisan's Goggles"  >
+   <set icon="icon.accessory_dwarf_goggle_i00"/>
+   <set bodyPart="HAIRALL" grade="NONE"/>
+   <set crystallizable="false" />
+   <set weight="10" />
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </accessorie>
+</list>

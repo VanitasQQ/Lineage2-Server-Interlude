@@ -1,0 +1,44 @@
+<html><title>Панель управления сервером</title><body>
+<center>
+<table width=270>
+<tr>
+<td width=45><button value="Main" action="bypass -h admin_admin" width=45 height=19 back="sek.cbui94" fore="sek.cbui94"></td>
+<td width=180><center><font color="LEVEL">%castleName%</font></center></td>
+<td width=45><button value="Back" action="bypass -h admin_siege" width=45 height=19 back="sek.cbui94" fore="sek.cbui94"></td>
+</tr>
+</table>
+
+<br><font color="LEVEL">Действия с замком</font>
+<table width=270>
+<tr>
+<td width=135 align="center"><button value="Назнач. атак." action="bypass -h admin_add_attacker %castleName%" width=100 height=19 back="sek.cbui94" fore="sek.cbui94"></td>
+<td width=135 align="center"><button value="Назнач. защит." action="bypass -h admin_add_defender %castleName%" width=100 height=19 back="sek.cbui94" fore="sek.cbui94"></td>
+</tr>
+<tr>
+<td width=135 align="center"><button value="Список кланов" action="bypass -h admin_list_siege_clans %castleName%" width=100 height=19 back="sek.cbui94" fore="sek.cbui94"></td>
+<td width=135 align="center"><button value="Очистить список" action="bypass -h admin_clear_siege_list %castleName%" width=100 height=19 back="sek.cbui94" fore="sek.cbui94"></td>
+</tr>
+<tr>
+<td width=135 align="center"><button value="Перемест. защит." action="bypass -h admin_move_defenders %castleName%" width=100 height=19 back="sek.cbui94" fore="sek.cbui94"></td>
+<td width=135 align="center"><button value="Проспавнить Двери" action="bypass -h admin_spawn_doors %castleName%" width=100 height=19 back="sek.cbui94" fore="sek.cbui94"></td>
+</tr>
+<tr>
+<td width=135 align="center"><button value="Запустить Осаду" action="bypass -h admin_startsiege %castleName%" width=100 height=19 back="sek.cbui94" fore="sek.cbui94"></td>
+<td width=135 align="center"><button value="Остановить Осаду" action="bypass -h admin_endsiege %castleName%" width=100 height=19 back="sek.cbui94" fore="sek.cbui94"></td>
+</tr>
+</table>
+
+<table width=270>
+<tr>
+<td width=135 align="center"><button value="Уст. время осады" action="bypass -h admin_setsiegetime %castleName%" width=100 height=19 back="sek.cbui94" fore="sek.cbui94"></td>
+</tr>
+</table>
+
+<table width=270>
+<tr>
+<td width=135 align="center"><button value="Дать Замок" action="bypass -h admin_setcastle %castleName%" width=100 height=19 back="sek.cbui94" fore="sek.cbui94"></td>
+<td width=135 align="center"><button value="Забрать Замок" action="bypass -h admin_removecastle %castleName%" width=100 height=19 back="sek.cbui94" fore="sek.cbui94"></td>
+</tr>
+</table>
+
+</center></body></html>

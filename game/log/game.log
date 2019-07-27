@@ -1,0 +1,286 @@
+[31.12.17 21:14:32] L2Properties: Missing property for key - EnableTelnet
+[31.12.17 21:14:33] L2Properties: Missing property for key - CreatClanLvl
+[31.12.17 21:14:34] L2Properties: Missing property for key - HopzoneDualboxesAllowed
+[31.12.17 21:14:34] Loaded 710 Filter Words.
+[31.12.17 21:14:35] Checking folders: preparations
+[31.12.17 21:14:35] Checking folders: all folders checked.
+[31.12.17 21:14:35] Loaded 1420 Filter Words.
+[31.12.17 21:14:35] L2DatabaseFactory: Connected to database server
+[31.12.17 21:14:36] ..................................................
+[31.12.17 21:14:36] System Time: 31-12-2017 09:14:36 PM
+[31.12.17 21:14:36] ..................................................
+[31.12.17 21:14:36] OS: Windows 7 Build: 6.1
+[31.12.17 21:14:36] OS Arch: x86
+[31.12.17 21:14:36] ..................................................
+[31.12.17 21:14:36] ..................................................
+[31.12.17 21:14:36] Avaible CPU(s): 2
+[31.12.17 21:14:36] Processor(s) Identifier: AMD64 Family 21 Model 19 Stepping 1, AuthenticAMD
+[31.12.17 21:14:36] ..................................................
+[31.12.17 21:14:36] ..................................................
+[31.12.17 21:14:36] Runtime Information
+[31.12.17 21:14:36] Current Free Heap Size: 856 mb
+[31.12.17 21:14:36] Current Heap Size: 921 mb
+[31.12.17 21:14:36] Maximum Heap Size: 921 mb
+[31.12.17 21:14:36] ..................................................
+[31.12.17 21:14:36] ..................................................
+[31.12.17 21:14:36] Java Platform Information
+[31.12.17 21:14:36] Java Runtime  Name: Java(TM) SE Runtime Environment
+[31.12.17 21:14:36] Java Version: 1.8.0_151
+[31.12.17 21:14:36] Java Class Version: 52.0
+[31.12.17 21:14:36] ..................................................
+[31.12.17 21:14:36] ..................................................
+[31.12.17 21:14:36] Virtual Machine Information (JVM)
+[31.12.17 21:14:36] JVM Name: Java HotSpot(TM) Client VM
+[31.12.17 21:14:36] JVM installation directory: C:\Program Files (x86)\Java\jre1.8.0_151
+[31.12.17 21:14:36] JVM version: 25.151-b12
+[31.12.17 21:14:36] JVM Vendor: Oracle Corporation
+[31.12.17 21:14:36] JVM Info: mixed mode
+[31.12.17 21:14:36] ..................................................
+[31.12.17 21:14:36] ..................................................
+[31.12.17 21:14:36] Initializing Script Engine Manager.
+[31.12.17 21:14:40] Script Engine: jython 2.2.1 - Language: python - Language Version: 2.2.1
+[31.12.17 21:14:44] Script Engine: Oracle Nashorn 1.8.0_151 - Language: ECMAScript - Language Version: ECMA - 262 Edition 5.1
+[31.12.17 21:14:45] Script Engine: java 1.6 - Language: java - Language Version: 1.6
+[31.12.17 21:14:45] ThreadPoolManager: Initializing.
+[31.12.17 21:14:46] General threads: ..... 6.
+[31.12.17 21:14:46] Effect threads: ...... 8.
+[31.12.17 21:14:46] AI threads: .......... 8.
+[31.12.17 21:14:46] Packet threads: ...... 4.
+[31.12.17 21:14:46] Total threads: ....... 26.
+[31.12.17 21:14:46] L2World: Setting up World Regions
+[31.12.17 21:14:46] L2World: (136 by 136) World Region Grid set up.
+[31.12.17 21:14:46] DeadlockDetector: Initializing
+[31.12.17 21:14:48] IdFactory: Cleaned 0 elements
+[31.12.17 21:14:48] IdFactory: Cleanup items
+[31.12.17 21:14:48] IdFactory: Cleanup clans
+[31.12.17 21:14:49] IdFactory: Cleanup items on ground
+[31.12.17 21:14:49] IDFactory: 102912 id's avaliable.
+[31.12.17 21:14:49] MapRegionManager: Loaded 38 restartpoint(s).
+[31.12.17 21:14:49] MapRegionManager: Loaded 23 restartareas with 145 arearegion(s).
+[31.12.17 21:14:49] MapRegionManager: Loaded 235 zoneregion(s).
+[31.12.17 21:14:49] MapRegionManager: Loaded 4 race depending redirects.
+[31.12.17 21:14:49] AnnounceManager: Loaded 0 announce
+[31.12.17 21:14:49] AnnounceManager: Loaded 0 auto announce
+[31.12.17 21:14:49] IdFactory: Free ObjectID's remaining: 1879047921
+[31.12.17 21:14:49] ExtensionManager: Loaded 0 extension(s)
+[31.12.17 21:14:49] Geodata Engine: Disabled.
+[31.12.17 21:14:49] PathFinding Engine: - Loading Path Nodes...
+[31.12.17 21:14:49] PathFinding Engine: loaded, time: 0 ms.
+[31.12.17 21:14:49] Static Objects: Loaded 29 object(s)
+[31.12.17 21:14:49] GameTimeController: Initialized.
+[31.12.17 21:14:49] Initializing BoatManager
+[31.12.17 21:14:49] Initializing InstanceManager
+[31.12.17 21:14:49] Multiverse Instance created
+[31.12.17 21:14:49] Universe Instance created
+[31.12.17 21:14:49] AttackStanceTaskManager: Initialized.
+[31.12.17 21:14:49] AntiBot Manager: initialize...
+[31.12.17 21:14:49] DecayTaskManager: Initialized.
+[31.12.17 21:14:49] KnownListUpdateTaskManager: Initialized.
+[31.12.17 21:14:49] LeakTaskManager: Initialized.
+[31.12.17 21:14:49] SQLQueue: started
+[31.12.17 21:14:49] TeleportTable: Loaded 1339 location
+[31.12.17 21:14:50] SkillTreeTable:          Loaded 36066 skills.
+[31.12.17 21:14:50] FishingSkillTreeTable:   Loaded 109 general skills.
+[31.12.17 21:14:50] FishingSkillTreeTable:   Loaded 8 dwarven skills.
+[31.12.17 21:14:50] EnchantSkillTreeTable:   Loaded 14520 enchant skills.
+[31.12.17 21:14:50] PledgeSkillTreeTable:    Loaded 64 pledge skills.
+[31.12.17 21:14:54] SkillTable: Loaded 31190 skill templates from XML files.
+[31.12.17 21:14:54] SkillTable: Occupying arrays for 75080.
+[31.12.17 21:14:54] ExtraSkillTable: Loaded  55 skills.
+[31.12.17 21:14:55] ResidentialSkillTable: Loaded 0 skills.
+[31.12.17 21:14:58] PetSkillsTable: Loaded 1594 skills.
+[31.12.17 21:14:58] NobleSkillTable: Initialized.
+[31.12.17 21:14:58] HeroSkillTable: Initialized.
+[31.12.17 21:14:59] Items: Cleanup items table
+[31.12.17 21:15:03] ItemTable: Loaded 6900/6900 Items.
+[31.12.17 21:15:04] ItemTable: Loaded 1043/1043 Armors.
+[31.12.17 21:15:04] ItemTable: Loaded 1313/1313 Weapons.
+[31.12.17 21:15:04] ArmorSetsTable: Loaded 51 armor sets.
+[31.12.17 21:15:04] ArmorSetsTable: Loaded 51 armor sets.
+[31.12.17 21:15:04] AugmentationData: Loaded: 52 augmentation stats.
+[31.12.17 21:15:04] AugmentationData: Loaded: 1780 weapons skills.
+[31.12.17 21:15:04] SkillSpellbookTable: Loaded 334 Spellbooks.
+[31.12.17 21:15:04] SummonItemsData: Loaded 38 Summon Items from summon_items.xml
+[31.12.17 21:15:04] Extractable items data: Loaded 344 extractable items!
+[31.12.17 21:15:04] FishTable: Loaded 270 Fishes.
+[31.12.17 21:15:04] ItemsAutoDestroy: initialized
+[31.12.17 21:15:06] CharNameTable: Loaded 5 character names.
+[31.12.17 21:15:06] CharTemplateTable: Loaded 89 Character Templates.
+[31.12.17 21:15:06] LevelUpData: Loaded 103 Character Level Up Templates.
+[31.12.17 21:15:06] Helper Buff Table: Loaded 25 Templates.
+[31.12.17 21:15:06] HennaTable: Loaded 180 Templates.
+[31.12.17 21:15:06] HennaTreeTable: Loaded 7128 Henna Tree Templates.
+[31.12.17 21:15:06] CoupleManager: loaded 1 couples(s)
+[31.12.17 21:15:06] ClanTable: restored 2 clans from the database.
+[31.12.17 21:15:07] Cache[Crest]: 0,192MB on 827 files loaded.
+[31.12.17 21:15:07] Cache[Crest]: (Forget Time: 300s , Capacity: 50)
+[31.12.17 21:15:07] HeroSystem: Loaded 0 Heroes.
+[31.12.17 21:15:07] HeroSystem: Loaded 0 all time Heroes.
+[31.12.17 21:15:07] BlockListManager: Loaded 433 character block(s).
+[31.12.17 21:15:07] NpcTable: Loaded 7057 Npc Templates.
+[31.12.17 21:15:07] NpcTable: Loaded 4 Custom Npc Templates.
+[31.12.17 21:15:07] NpcTable: Loaded 447 Minions.
+[31.12.17 21:15:08] NpcLikePc :Loaded 1 template(s)
+[31.12.17 21:15:08] PetDataTable: loaded 12 pets.
+[31.12.17 21:15:08] AutoChatHandler: Loaded 32 handlers in total.
+[31.12.17 21:15:08] SevenSigns: Currently in the Competition (Quest Event) period!
+[31.12.17 21:15:08] SevenSigns: The Seal of Avarice is currently owned by Lords of Dawn.
+[31.12.17 21:15:08] SevenSigns: The Seal of Gnosis is currently owned by Lords of Dawn.
+[31.12.17 21:15:08] SevenSigns: The Seal of Strife remains unclaimed.
+[31.12.17 21:15:08] SevenSigns: The Revolutionaries of Dusk are in the lead this week.
+[31.12.17 21:15:08] SevenSigns: Next period begins in 0 days, 20 hours and 44 mins.
+[31.12.17 21:15:08] AutoSpawnHandler: Loaded 129 spawn group(s) from the database.
+[31.12.17 21:15:08] SevenSignsFestival: first Festival of Darkness cycle begins in 2 minutes.
+[31.12.17 21:15:08] CrownManager: Initialized.
+[31.12.17 21:15:08] ClanHallManager: loaded 0 clan halls
+[31.12.17 21:15:08] ClanHallManager: loaded 44 free clan halls
+[31.12.17 21:15:08] ClanHallManager: 4 halls in Gludio
+[31.12.17 21:15:08] ClanHallManager: 5 halls in Gludin
+[31.12.17 21:15:08] ClanHallManager: 4 halls in Dion
+[31.12.17 21:15:08] ClanHallManager: 5 halls in Giran
+[31.12.17 21:15:08] ClanHallManager: 7 halls in Aden
+[31.12.17 21:15:08] ClanHallManager: 5 halls in Goddard
+[31.12.17 21:15:08] ClanHallManager: 9 halls in Rune
+[31.12.17 21:15:08] ClanHallManager: 4 halls in Schuttgart
+[31.12.17 21:15:08] RegenTaskManager: Initialized.
+[31.12.17 21:15:08] DoorTable: Loaded 223 Door Templates.
+[31.12.17 21:15:08] Loaded: 9 castles
+[31.12.17 21:15:08] SiegeManager: Loaded 0 registred siege(s)
+[31.12.17 21:15:08] Initializing FortManager
+[31.12.17 21:15:08] WalkerRoutesTable: Loaded 626 Npc Walker Routes.
+[31.12.17 21:15:08] Initializing Walkers Routes Table.
+[31.12.17 21:15:08] NpcWalkerAiTaskManager: Initialized.
+[31.12.17 21:15:09] Loaded: 21 fortress
+[31.12.17 21:15:09] FortSiegeManager: Loaded 21 siege(s)
+[31.12.17 21:15:10] ZoneManager: arena.xml loaded with 16 zones
+[31.12.17 21:15:10] Initializing QuestManager
+[31.12.17 21:15:11] ZoneManager: boss.xml loaded with 18 zones
+[31.12.17 21:15:11] Siege of Gludio: Sat Jan 06 19:00:00 GMT+03:00 2018
+[31.12.17 21:15:11] Siege of Dion: Sat Jan 06 20:00:00 GMT+03:00 2018
+[31.12.17 21:15:11] Siege of Giran: Sat Jan 06 01:00:00 GMT+03:00 2018
+[31.12.17 21:15:11] Siege of Oren: Sun Jan 07 16:00:00 GMT+03:00 2018
+[31.12.17 21:15:11] Siege of Aden: Sat Jan 06 20:00:00 GMT+03:00 2018
+[31.12.17 21:15:11] Siege of Innadril: Sun Jan 07 16:00:00 GMT+03:00 2018
+[31.12.17 21:15:11] Siege of Goddard: Sun Jan 07 03:00:00 GMT+03:00 2018
+[31.12.17 21:15:11] Siege of Rune: Sat Jan 06 20:00:00 GMT+03:00 2018
+[31.12.17 21:15:11] Siege of Schuttgart: Sun Jan 07 16:00:00 GMT+03:00 2018
+[31.12.17 21:15:11] ZoneManager: castle.xml loaded with 48 zones
+[31.12.17 21:15:12] ZoneManager: clanhall.xml loaded with 44 zones
+[31.12.17 21:15:12] ZoneManager: custom.xml loaded with 11 zones
+[31.12.17 21:15:12] ZoneManager: fishing.xml loaded with 40 zones
+[31.12.17 21:15:13] ZoneManager: forts.xml loaded with 42 zones
+[31.12.17 21:15:13] ZoneManager: foursepulchers.xml loaded with 8 zones
+[31.12.17 21:15:13] ZoneManager: misc.xml loaded with 21 zones
+[31.12.17 21:15:13] ZoneManager: monstertrack.xml loaded with 2 zones
+[31.12.17 21:15:13] ZoneManager: mothertree.xml loaded with 5 zones
+[31.12.17 21:15:13] ZoneManager: pagan.xml loaded with 1 zones
+[31.12.17 21:15:15] ZoneManager: peace.xml loaded with 42 zones
+[31.12.17 21:15:15] ZoneManager: stadia.xml loaded with 22 zones
+[31.12.17 21:15:16] ZoneManager: water.xml loaded with 86 zones
+[31.12.17 21:15:16] MercTicketManager: loaded 1 Mercenary Tickets
+[31.12.17 21:15:16] SiegeManager of Fortress Of Resistence
+[31.12.17 21:15:16] SiegeManager of Bandits Stronghold
+[31.12.17 21:15:16] SiegeManager of Devastated Castle
+[31.12.17 21:15:16] SiegeManager of Fortres Of Dead
+[31.12.17 21:15:16] SiegeManager of Wild Beasts Farm
+[31.12.17 21:15:16] SiegeManager of Rainbow Springs Chateau
+[31.12.17 21:15:18] Script Engine Manager: loaded 48 script(s) form corequests.jar
+[31.12.17 21:15:26] NpcBufferSkillIdsTable: Loaded 1 buffers and 140 skills.
+[31.12.17 21:15:26] Spawn Game event manager
+[31.12.17 21:15:27] Spawn Events Managers
+[31.12.17 21:15:35] Loaded: 422 quests
+[31.12.17 21:15:35] HtmCache: Loaded 27606 HTM file(s) for 2 language(s)
+[31.12.17 21:15:35] DayNightSpawnManager: Day/Night handler initialized
+[31.12.17 21:15:35] RaidBossReturnHomeManager: Initialized.
+[31.12.17 21:15:35] AttackableAiTaskManager: Initialized.
+[31.12.17 21:15:35] RaidBossSpawnManager: Loaded 190 Instances
+[31.12.17 21:15:35] RaidBossSpawnManager: Scheduled 0 Instances
+[31.12.17 21:15:35] CursedWeaponsManager: loaded 2 cursed weapon(s).
+[31.12.17 21:15:36] TradeListTable: Loaded 634 Buylists.
+[31.12.17 21:15:36] Oren: Data loaded
+[31.12.17 21:15:36] Innadril: Data loaded
+[31.12.17 21:15:36] ManorSystem: Schedule for manor refresh @ Mon Jan 01 20:00:36 GMT+03:00 2018
+[31.12.17 21:15:36] ManorSystem: Manor period approve updated
+[31.12.17 21:15:36] ManorSystem: Schedule for period approve @ Mon Jan 01 06:00:36 GMT+03:00 2018
+[31.12.17 21:15:36] ManorManager: Loaded 256 seeds
+[31.12.17 21:15:36] AuctionManager: loaded 38 auction(s)
+[31.12.17 21:15:36] TimedItems: loaded 0 items 
+[31.12.17 21:15:36] Olympiad System: Loading Olympiad System....
+[31.12.17 21:15:36] Olympiad System: Currently in Olympiad Period
+[31.12.17 21:15:36] Olympiad System: 8805 minutes until period ends
+[31.12.17 21:15:36] Olympiad System: Next weekly change is in 10079 minutes
+[31.12.17 21:15:36] Olympiad System: Loaded 0 Nobles
+[31.12.17 21:15:36] Olympiad System: Competition Period Starts in 0 days, 0 hours and 2 mins.
+[31.12.17 21:15:36] Olympiad System: Event starts/started : Sun Dec 31 18:00:36 GMT+03:00 2017
+[31.12.17 21:15:36] DimensionalRiftManager: Loaded 7 room types with 56 rooms.
+[31.12.17 21:15:36] DimensionalRiftManager: Loaded 462 dimensional rift spawns, 0 errors.
+[31.12.17 21:15:36] GrandBossReturnHomeManager: Initialized.
+[31.12.17 21:15:36] QueenAntManager: State of Queen Ant is ALIVE
+[31.12.17 21:15:36] ZakenManager: State of Zaken is ALIVE
+[31.12.17 21:15:36] FollowTaskManager: Initialized.
+[31.12.17 21:15:36] CoreManager: State of Core is ALIVE
+[31.12.17 21:15:36] AttackFollowTaskManager: Initialized.
+[31.12.17 21:15:36] OrfenManager: State of Orfen is ALIVE
+[31.12.17 21:15:36] SailrenManager: State of Sailren is NOTSPAWN.
+[31.12.17 21:15:36] VanHalterManager : State of High Priestess van Halter is ALIVE.
+[31.12.17 21:15:36] AntharasManager: State of Antharas is NOTSPAWN.
+[31.12.17 21:15:36] BaiumManager : State of Baium is NOTSPAWN.
+[31.12.17 21:15:36] ValakasManager: State of Valakas is NOTSPAWN.
+[31.12.17 21:15:36] ValakasManager: Next spawn date Sun Oct 25 20:04:11 GMT+03:00 2015.
+[31.12.17 21:15:36] LastImperialTombManager: Init The Last Imperial Tomb.
+[31.12.17 21:15:36] FrintezzaManager: State of Frintezza NOTSPAWN
+[31.12.17 21:15:36] Faction Manager: disabled.
+[31.12.17 21:15:36] RecipeController: Loaded 878 recipes.
+[31.12.17 21:15:36] ItemHandler: Loaded 2089 handlers.
+[31.12.17 21:15:36] SkillHandler: Loaded 90 handlers.
+[31.12.17 21:15:36] ChatHandler: Loaded 16 handlers.
+[31.12.17 21:15:36] ObjectRestrictions: loading...
+[31.12.17 21:15:36] ObjectRestrictions: loaded 18 restrictions.
+[31.12.17 21:15:36] SiegeStatus: loading...
+[31.12.17 21:15:36] TaskManager: initalized.
+[31.12.17 21:15:36] TaskManager: Registered: 6 Tasks.
+[31.12.17 21:15:36] PetitionManager: initalized.
+[31.12.17 21:15:36] Fishing Championship Manager : started
+[31.12.17 21:15:36] Load 11 phantom armor sets
+[31.12.17 21:15:36] Load 3 Aecher phantom armor sets
+[31.12.17 21:15:36] Load 16 phantom Last
+[31.12.17 21:15:36] Load 75 phantom Town Locations
+[31.12.17 21:15:36] Load -1 phantom Clans
+[31.12.17 21:15:36] PhantomPlayers: Cached 0 players.
+[31.12.17 21:15:36] Offline Manager: initialize...
+[31.12.17 21:15:36] Offline Manager: load players from database.
+[31.12.17 21:15:36] Offline Manager: 0 trader(s) loaded.
+[31.12.17 21:15:36] Offline Manager: 0 trader(s) deleted.
+[31.12.17 21:15:37] Telnet server is currently disabled.
+[31.12.17 21:15:37] Connecting to login on 127.0.0.1:9014
+[31.12.17 21:15:37] IOFloodManager: initialized.
+[31.12.17 21:15:38] SuperDeamon: registred 1 handler(s)
+[31.12.17 21:15:38] SuperDeamon: staring with poll interval 5 minute(s)
+[31.12.17 21:15:38] GameEventManager: Event TeamVsTeam scheduled at 21:45:38
+[31.12.17 21:15:38] GameEventManager: Loaded 2 events.
+[31.12.17 21:15:38] Cristmas event status: Off.
+[31.12.17 21:15:38] Medals event status: Off.
+[31.12.17 21:15:38] StarlightFestival event status: Off.
+[31.12.17 21:15:38] L2Day event status: Off.
+[31.12.17 21:15:38] BigSquash event status: Off.
+[31.12.17 21:15:38] GmController: Loaded 302 handlers.
+[31.12.17 21:15:38] GmController: Loaded 1 admin players.
+[31.12.17 21:15:38] TaskManager: Loaded: 4 Tasks From Database.
+[31.12.17 21:15:39] Developer: L2jLovely
+[31.12.17 21:15:39] Revision: Private(Core: 25.01.2017)
+[31.12.17 21:15:39] Author: gvb
+[31.12.17 21:15:39] Skype: qfatalonp
+[31.12.17 21:15:39] Build version: Private
+[31.12.17 21:15:39] Free memory: 749 Mb of 921 Mb
+[31.12.17 21:15:39] Ready on IP: 10.11.72.2:7777.
+[31.12.17 21:15:39] Max players: 100
+[31.12.17 21:15:39] Load time: 64 Seconds.
+[31.12.17 21:15:39] Registered on login as Server 1 : Bartz
+[31.12.17 21:15:48] ArrivedCharacterManager: Initialized.
+[31.12.17 21:15:48] L2Top: 0 processed
+[31.12.17 21:17:09] GuardReturnHomeManager: Initialized.
+[31.12.17 21:17:11] SpawnTable: Loaded 37947 Npc Spawn Locations.
+[31.12.17 21:17:11] SpawnTable: 0 Npc Not Spawned.
+[31.12.17 21:17:36] Olympiad System: Olympiad Game Started
+[31.12.17 21:20:48] L2Top: 0 processed
+[31.12.17 21:25:48] L2Top: 0 processed

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+<item id='8954' name="Blue Primeval Crystal">
+  <cond>
+    <and>
+      <player olympiad="false"/>
+      <player level="76"/>
+    </and>
+  </cond>
+  <for>
+  </for>
+</item>
+<item id='8955' name="Green Primeval Crystal">
+  <cond>
+    <and>
+      <player olympiad="false"/>
+      <player level="76"/>
+    </and>
+  </cond>
+  <for>
+  </for>
+</item>
+<item id='8956' name="Red Primeval Crystal">
+  <cond>
+    <and>
+      <player olympiad="false"/>
+      <player level="76"/>
+    </and>
+  </cond>
+  <for>
+  </for>
+</item>
+</list>

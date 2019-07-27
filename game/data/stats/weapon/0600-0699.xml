@@ -1,0 +1,404 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE list SYSTEM "weapons.dtd">
+<list>
+<item id='625' name="Bone Shield">
+  <for>
+    <sub val='8' order='0x10' stat='rEvas'/>
+    <set val='90' order='0x08' stat='sDef'/>
+    <set val='20' order='0x08' stat='rShld'/>
+    <enchant val='0' order='0x0C' stat='sDef'/>
+  </for>
+</item>
+<item id='626' name="Bronze Shield">
+  <for>
+    <sub val='8' order='0x10' stat='rEvas'/>
+    <set val='101' order='0x08' stat='sDef'/>
+    <set val='20' order='0x08' stat='rShld'/>
+    <enchant val='0' order='0x0C' stat='sDef'/>
+  </for>
+</item>
+<item id='627' name="Aspis">
+  <for>
+    <sub val='8' order='0x10' stat='rEvas'/>
+    <set val='114' order='0x08' stat='sDef'/>
+    <set val='20' order='0x08' stat='rShld'/>
+    <enchant val='0' order='0x0C' stat='sDef'/>
+  </for>
+</item>
+<item id='628' name="Hoplon">
+  <for>
+    <sub val='8' order='0x10' stat='rEvas'/>
+    <set val='128' order='0x08' stat='sDef'/>
+    <set val='20' order='0x08' stat='rShld'/>
+    <enchant val='0' order='0x0C' stat='sDef'/>
+  </for>
+</item>
+<item id='629' name="Kite Shield">
+  <for>
+    <sub val='8' order='0x10' stat='rEvas'/>
+    <set val='142' order='0x08' stat='sDef'/>
+    <set val='20' order='0x08' stat='rShld'/>
+    <enchant val='0' order='0x0C' stat='sDef'/>
+  </for>
+</item>
+<item id='630' name="Square Shield">
+  <for>
+    <sub val='8' order='0x10' stat='rEvas'/>
+    <set val='154' order='0x08' stat='sDef'/>
+    <set val='20' order='0x08' stat='rShld'/>
+    <enchant val='0' order='0x0C' stat='sDef'/>
+  </for>
+</item>
+<item id='631' name="Eldarake">
+  <for>
+    <sub val='8' order='0x10' stat='rEvas'/>
+    <set val='166' order='0x08' stat='sDef'/>
+    <set val='20' order='0x08' stat='rShld'/>
+    <enchant val='0' order='0x0C' stat='sDef'/>
+  </for>
+</item>
+<item id='632' name="Knight Shield">
+  <for>
+    <sub val='8' order='0x10' stat='rEvas'/>
+    <set val='178' order='0x08' stat='sDef'/>
+    <set val='20' order='0x08' stat='rShld'/>
+    <enchant val='0' order='0x0C' stat='sDef'/>
+  </for>
+</item>
+<item id='633' name="Zubei's Shield">
+  <for>
+    <sub val='8' order='0x10' stat='rEvas'/>
+    <set val='216' order='0x08' stat='sDef'/>
+    <set val='20' order='0x08' stat='rShld'/>
+    <enchant val='0' order='0x0C' stat='sDef'/>
+  </for>
+</item>
+<item id='634' name="Dragon Shield">
+  <for>
+    <sub val='8' order='0x10' stat='rEvas'/>
+    <set val='269' order='0x08' stat='sDef'/>
+    <set val='20' order='0x08' stat='rShld'/>
+    <enchant val='0' order='0x0C' stat='sDef'/>
+  </for>
+</item>
+<item id='635' name="Wolf Shield">
+  <for>
+    <sub val='8' order='0x10' stat='rEvas'/>
+    <set val='216' order='0x08' stat='sDef'/>
+    <set val='20' order='0x08' stat='rShld'/>
+    <enchant val='0' order='0x0C' stat='sDef'/>
+  </for>
+</item>
+<item id='636' name="Shining Dragon Shield">
+  <for>
+    <sub val='8' order='0x10' stat='rEvas'/>
+    <set val='230' order='0x08' stat='sDef'/>
+    <set val='20' order='0x08' stat='rShld'/>
+    <enchant val='0' order='0x0C' stat='sDef'/>
+  </for>
+</item>
+<item id='637' name="Shield of Valor">
+  <for>
+    <sub val='8' order='0x10' stat='rEvas'/>
+    <set val='230' order='0x08' stat='sDef'/>
+    <set val='20' order='0x08' stat='rShld'/>
+    <enchant val='0' order='0x0C' stat='sDef'/>
+  </for>
+</item>
+<item id='638' name="Glorious Shield">
+  <for>
+    <sub val='8' order='0x10' stat='rEvas'/>
+    <set val='216' order='0x08' stat='sDef'/>
+    <set val='20' order='0x08' stat='rShld'/>
+    <enchant val='0' order='0x0C' stat='sDef'/>
+  </for>
+</item>
+<item id='639' name="Red Flame Shield">
+  <for>
+    <sub val='8' order='0x10' stat='rEvas'/>
+    <set val='230' order='0x08' stat='sDef'/>
+    <set val='20' order='0x08' stat='rShld'/>
+    <enchant val='0' order='0x0C' stat='sDef'/>
+  </for>
+</item>
+<item id='640' name="Elven Crystal Shield">
+  <for>
+    <sub val='8' order='0x10' stat='rEvas'/>
+    <set val='216' order='0x08' stat='sDef'/>
+    <set val='20' order='0x08' stat='rShld'/>
+    <enchant val='0' order='0x0C' stat='sDef'/>
+  </for>
+</item>
+<item id='641' name="Dark Crystal Shield">
+  <for>
+    <sub val='8' order='0x10' stat='rEvas'/>
+    <set val='243' order='0x08' stat='sDef'/>
+    <set val='20' order='0x08' stat='rShld'/>
+    <enchant val='0' order='0x0C' stat='sDef'/>
+  </for>
+</item>
+<item id='642' name="Elven Vagian Shield">
+  <for>
+    <sub val='8' order='0x10' stat='rEvas'/>
+    <set val='216' order='0x08' stat='sDef'/>
+    <set val='20' order='0x08' stat='rShld'/>
+    <enchant val='0' order='0x0C' stat='sDef'/>
+  </for>
+</item>
+<item id='643' name="Dark Vagian Shield">
+  <for>
+    <sub val='8' order='0x10' stat='rEvas'/>
+    <set val='230' order='0x08' stat='sDef'/>
+    <set val='20' order='0x08' stat='rShld'/>
+    <enchant val='0' order='0x0C' stat='sDef'/>
+  </for>
+</item>
+<item id='644' name="Hell Shield">
+  <for>
+    <sub val='8' order='0x10' stat='rEvas'/>
+    <set val='230' order='0x08' stat='sDef'/>
+    <set val='20' order='0x08' stat='rShld'/>
+    <enchant val='0' order='0x0C' stat='sDef'/>
+  </for>
+</item>
+<item id='645' name="Art of Shield">
+  <for>
+    <sub val='8' order='0x10' stat='rEvas'/>
+    <set val='216' order='0x08' stat='sDef'/>
+    <set val='20' order='0x08' stat='rShld'/>
+    <enchant val='0' order='0x0C' stat='sDef'/>
+  </for>
+</item>
+<item id='646' name="Shield of Silence">
+  <for>
+    <sub val='8' order='0x10' stat='rEvas'/>
+    <set val='216' order='0x08' stat='sDef'/>
+    <set val='20' order='0x08' stat='rShld'/>
+    <enchant val='0' order='0x0C' stat='sDef'/>
+  </for>
+</item>
+<item id='647' name="Gust Shield">
+  <for>
+    <sub val='8' order='0x10' stat='rEvas'/>
+    <set val='230' order='0x08' stat='sDef'/>
+    <set val='20' order='0x08' stat='rShld'/>
+    <enchant val='0' order='0x0C' stat='sDef'/>
+  </for>
+</item>
+<item id='648' name="Prairie Shield">
+  <for>
+    <sub val='8' order='0x10' stat='rEvas'/>
+    <set val='216' order='0x08' stat='sDef'/>
+    <set val='20' order='0x08' stat='rShld'/>
+    <enchant val='0' order='0x0C' stat='sDef'/>
+  </for>
+</item>
+<item id='649' name="Shield of the Underworld">
+  <for>
+    <sub val='8' order='0x10' stat='rEvas'/>
+    <set val='230' order='0x08' stat='sDef'/>
+    <set val='20' order='0x08' stat='rShld'/>
+    <enchant val='0' order='0x0C' stat='sDef'/>
+  </for>
+</item>
+<item id='650' name="Shield of Concentration">
+  <for>
+    <sub val='8' order='0x10' stat='rEvas'/>
+    <set val='216' order='0x08' stat='sDef'/>
+    <set val='20' order='0x08' stat='rShld'/>
+    <enchant val='0' order='0x0C' stat='sDef'/>
+  </for>
+</item>
+<item id='651' name="Aces Shield">
+  <for>
+    <sub val='8' order='0x10' stat='rEvas'/>
+    <set val='230' order='0x08' stat='sDef'/>
+    <set val='20' order='0x08' stat='rShld'/>
+    <enchant val='0' order='0x0C' stat='sDef'/>
+  </for>
+</item>
+<item id='652' name="Guardian's Shield">
+  <for>
+    <sub val='8' order='0x10' stat='rEvas'/>
+    <set val='216' order='0x08' stat='sDef'/>
+    <set val='20' order='0x08' stat='rShld'/>
+    <enchant val='0' order='0x0C' stat='sDef'/>
+  </for>
+</item>
+<item id='653' name="Marksman Shield">
+  <for>
+    <sub val='8' order='0x10' stat='rEvas'/>
+    <set val='230' order='0x08' stat='sDef'/>
+    <set val='20' order='0x08' stat='rShld'/>
+    <enchant val='0' order='0x0C' stat='sDef'/>
+  </for>
+</item>
+<item id='654' name="Shield of Mana">
+  <for>
+    <sub val='8' order='0x10' stat='rEvas'/>
+    <set val='216' order='0x08' stat='sDef'/>
+    <set val='20' order='0x08' stat='rShld'/>
+    <enchant val='0' order='0x0C' stat='sDef'/>
+  </for>
+</item>
+<item id='655' name="Sage's Shield">
+  <for>
+    <sub val='8' order='0x10' stat='rEvas'/>
+    <set val='230' order='0x08' stat='sDef'/>
+    <set val='20' order='0x08' stat='rShld'/>
+    <enchant val='0' order='0x0C' stat='sDef'/>
+  </for>
+</item>
+<item id='656' name="Paradia Shield">
+  <for>
+    <sub val='8' order='0x10' stat='rEvas'/>
+    <set val='216' order='0x08' stat='sDef'/>
+    <set val='20' order='0x08' stat='rShld'/>
+    <enchant val='0' order='0x0C' stat='sDef'/>
+  </for>
+</item>
+<item id='657' name="Inferno Shield">
+  <for>
+    <sub val='8' order='0x10' stat='rEvas'/>
+    <set val='230' order='0x08' stat='sDef'/>
+    <set val='20' order='0x08' stat='rShld'/>
+    <enchant val='0' order='0x0C' stat='sDef'/>
+  </for>
+</item>
+<item id='658' name="Shield of Black Ore">
+  <for>
+    <sub val='8' order='0x10' stat='rEvas'/>
+    <set val='230' order='0x08' stat='sDef'/>
+    <set val='20' order='0x08' stat='rShld'/>
+    <enchant val='0' order='0x0C' stat='sDef'/>
+  </for>
+</item>
+<item id='659' name="Shield of Summoning">
+  <for>
+    <sub val='8' order='0x10' stat='rEvas'/>
+    <set val='216' order='0x08' stat='sDef'/>
+    <set val='20' order='0x08' stat='rShld'/>
+    <enchant val='0' order='0x0C' stat='sDef'/>
+  </for>
+</item>
+<item id='660' name="Otherworldly Shield">
+  <for>
+    <sub val='8' order='0x10' stat='rEvas'/>
+    <set val='230' order='0x08' stat='sDef'/>
+    <set val='20' order='0x08' stat='rShld'/>
+    <enchant val='0' order='0x0C' stat='sDef'/>
+  </for>
+</item>
+<item id='661' name="Elemental Shield">
+  <for>
+    <sub val='8' order='0x10' stat='rEvas'/>
+    <set val='216' order='0x08' stat='sDef'/>
+    <set val='20' order='0x08' stat='rShld'/>
+    <enchant val='0' order='0x0C' stat='sDef'/>
+  </for>
+</item>
+<item id='662' name="Shield of Phantom">
+  <for>
+    <sub val='8' order='0x10' stat='rEvas'/>
+    <set val='230' order='0x08' stat='sDef'/>
+    <set val='20' order='0x08' stat='rShld'/>
+    <enchant val='0' order='0x0C' stat='sDef'/>
+  </for>
+</item>
+<item id='663' name="Shield of Grace">
+  <for>
+    <sub val='8' order='0x10' stat='rEvas'/>
+    <set val='216' order='0x08' stat='sDef'/>
+    <set val='20' order='0x08' stat='rShld'/>
+    <enchant val='0' order='0x0C' stat='sDef'/>
+  </for>
+</item>
+<item id='664' name="Shield of Holy Spirit">
+  <for>
+    <sub val='8' order='0x10' stat='rEvas'/>
+    <set val='230' order='0x08' stat='sDef'/>
+    <set val='20' order='0x08' stat='rShld'/>
+    <enchant val='0' order='0x0C' stat='sDef'/>
+  </for>
+</item>
+<item id='665' name="Phoenix Shield">
+  <for>
+    <sub val='8' order='0x10' stat='rEvas'/>
+    <set val='216' order='0x08' stat='sDef'/>
+    <set val='20' order='0x08' stat='rShld'/>
+    <enchant val='0' order='0x0C' stat='sDef'/>
+  </for>
+</item>
+<item id='666' name="Cerberus Shield">
+  <for>
+    <sub val='8' order='0x10' stat='rEvas'/>
+    <set val='230' order='0x08' stat='sDef'/>
+    <set val='20' order='0x08' stat='rShld'/>
+    <enchant val='0' order='0x0C' stat='sDef'/>
+  </for>
+</item>
+<item id='667' name="Shield of Aid">
+  <for>
+    <sub val='8' order='0x10' stat='rEvas'/>
+    <set val='216' order='0x08' stat='sDef'/>
+    <set val='20' order='0x08' stat='rShld'/>
+    <enchant val='0' order='0x0C' stat='sDef'/>
+  </for>
+</item>
+<item id='668' name="Shield of Blessing">
+  <for>
+    <sub val='8' order='0x10' stat='rEvas'/>
+    <set val='230' order='0x08' stat='sDef'/>
+    <set val='20' order='0x08' stat='rShld'/>
+    <enchant val='0' order='0x0C' stat='sDef'/>
+  </for>
+</item>
+<item id='669' name="Flame Shield">
+  <for>
+    <sub val='8' order='0x10' stat='rEvas'/>
+    <set val='216' order='0x08' stat='sDef'/>
+    <set val='20' order='0x08' stat='rShld'/>
+    <enchant val='0' order='0x0C' stat='sDef'/>
+  </for>
+</item>
+<item id='670' name="Shield of Bravery">
+  <for>
+    <sub val='8' order='0x10' stat='rEvas'/>
+    <set val='230' order='0x08' stat='sDef'/>
+    <set val='20' order='0x08' stat='rShld'/>
+    <enchant val='0' order='0x0C' stat='sDef'/>
+  </for>
+</item>
+<item id='671' name="Blood Shield">
+  <for>
+    <sub val='8' order='0x10' stat='rEvas'/>
+    <set val='216' order='0x08' stat='sDef'/>
+    <set val='20' order='0x08' stat='rShld'/>
+    <enchant val='0' order='0x0C' stat='sDef'/>
+  </for>
+</item>
+<item id='672' name="Absolute Shield">
+  <for>
+    <sub val='8' order='0x10' stat='rEvas'/>
+    <set val='230' order='0x08' stat='sDef'/>
+    <set val='20' order='0x08' stat='rShld'/>
+    <enchant val='0' order='0x0C' stat='sDef'/>
+  </for>
+</item>
+<item id='673' name="Avadon Shield">
+  <for>
+    <sub val='8' order='0x10' stat='rEvas'/>
+    <set val='216' order='0x08' stat='sDef'/>
+    <set val='20' order='0x08' stat='rShld'/>
+    <enchant val='0' order='0x0C' stat='sDef'/>
+  </for>
+</item>
+<item id='674' name="Divine Shield">
+  <for>
+    <sub val='8' order='0x10' stat='rEvas'/>
+    <set val='230' order='0x08' stat='sDef'/>
+    <set val='20' order='0x08' stat='rShld'/>
+    <enchant val='0' order='0x0C' stat='sDef'/>
+  </for>
+</item>
+</list>

@@ -1,0 +1,139 @@
+=================================================-[ LoginServer Configuration ]
+Loading: ./config/main/network.properties.
+Loading: ./config/main/security.properties.
+Loading: ./config/main/ban.properties.
+Loading: ./config/main/loginserver.properties.
+=================================================-[ LoginServer DataBase Load ]
+[INFO 2015-10-16 11:51:54]: L2DatabaseFactory: Connected to database server
+[INFO 2015-10-16 11:51:54]: ..................................................
+[INFO 2015-10-16 11:51:54]: System Time: 16-10-2015 11:51:54 AM
+[INFO 2015-10-16 11:51:54]: ..................................................
+[INFO 2015-10-16 11:51:54]: OS: Linux Build: 2.6.32-042stab108.5
+[INFO 2015-10-16 11:51:54]: OS Arch: amd64
+[INFO 2015-10-16 11:51:54]: ..................................................
+[INFO 2015-10-16 11:51:54]: ..................................................
+[INFO 2015-10-16 11:51:54]: Avaible CPU(s): 2
+[INFO 2015-10-16 11:51:54]: Processor(s) Identifier: null
+[INFO 2015-10-16 11:51:54]: ..................................................
+[INFO 2015-10-16 11:51:54]: ..................................................
+[INFO 2015-10-16 11:51:54]: Runtime Information
+[INFO 2015-10-16 11:51:54]: Current Free Heap Size: 117 mb
+[INFO 2015-10-16 11:51:54]: Current Heap Size: 123 mb
+[INFO 2015-10-16 11:51:54]: Maximum Heap Size: 910 mb
+[INFO 2015-10-16 11:51:54]: ..................................................
+[INFO 2015-10-16 11:51:54]: ..................................................
+[INFO 2015-10-16 11:51:54]: Java Platform Information
+[INFO 2015-10-16 11:51:54]: Java Runtime  Name: Java(TM) SE Runtime Environment
+[INFO 2015-10-16 11:51:54]: Java Version: 1.7.0_80
+[INFO 2015-10-16 11:51:54]: Java Class Version: 51.0
+[INFO 2015-10-16 11:51:54]: ..................................................
+[INFO 2015-10-16 11:51:54]: ..................................................
+[INFO 2015-10-16 11:51:54]: Virtual Machine Information (JVM)
+[INFO 2015-10-16 11:51:54]: JVM Name: Java HotSpot(TM) 64-Bit Server VM
+[INFO 2015-10-16 11:51:54]: JVM installation directory: /usr/lib/jvm/java-7-oracle/jre
+[INFO 2015-10-16 11:51:54]: JVM version: 24.80-b11
+[INFO 2015-10-16 11:51:54]: JVM Vendor: Oracle Corporation
+[INFO 2015-10-16 11:51:54]: JVM Info: mixed mode
+[INFO 2015-10-16 11:51:54]: ..................................................
+[INFO 2015-10-16 11:51:54]: ..................................................
+[INFO 2015-10-16 11:51:54]: GameServerManager: Loaded 127 server name(s)
+[INFO 2015-10-16 11:51:54]: GameServerManager: Loaded 1 server(s)
+[INFO 2015-10-16 11:51:56]: Cached 10 RSA keys for Game Server communication.
+[INFO 2015-10-16 11:51:56]: DDoS-Proof: Started client manager for 100 sessions
+[INFO 2015-10-16 11:51:56]: DDoS-Proof: Session time set to 15 seconds
+[INFO 2015-10-16 11:51:56]: LoginManager initiating
+[INFO 2015-10-16 11:51:56]: Cached 10 KeyPairs for RSA communication
+[INFO 2015-10-16 11:51:57]: Stored 20 keys for Blowfish communication
+[INFO 2015-10-16 11:51:57]: BanManager: Loaded 3 banned ip/subnet(s).
+[INFO 2015-10-16 11:51:57]: Listening for GameServers on 127.0.0.1:9014
+===============================================================-[ Server Info ]
+[INFO 2015-10-16 11:51:57]: Token-based brut-proof enabled
+[INFO 2015-10-16 11:51:57]: Free memory: 890 Mb of 910 Mb
+[INFO 2015-10-16 11:51:57]: Ready on IP: 0.0.0.0:2106.
+[INFO 2015-10-16 11:51:57]: Load time: 2 Seconds.
+===============================================================-[ Server Info ]
+[INFO 2015-10-16 11:51:57]: Login Server successfully started.
+[INFO 2015-10-16 11:52:50]: Updated Gameserver [1] Bartz IP's:
+[INFO 2015-10-16 11:52:50]: localhost (127.0.0.1)
+[INFO 2015-10-16 11:52:50]: 5.196.110.45
+[INFO 2015-10-16 11:53:36]: User promik connected from 134.249.149.11
+[INFO 2015-10-16 11:53:53]: User iicux connected from 85.132.87.11
+[INFO 2015-10-16 11:54:36]: User khlj78prk connected from 79.141.55.211
+[INFO 2015-10-16 11:54:36]: User erysev71 connected from 178.44.86.242
+[WARN 2015-10-16 11:54:44]: account missing for user qwe from ip 193.201.105.6
+[WARN 2015-10-16 11:54:52]: account missing for user 123123 from ip 193.201.105.6
+[INFO 2015-10-16 11:54:57]: User erysev71 connected from 178.44.86.242
+[INFO 2015-10-16 11:55:02]: User teragos connected from 193.201.105.6
+[INFO 2015-10-16 11:56:15]: User erysev71 connected from 178.44.86.242
+[INFO 2015-10-16 11:56:44]: User shatun1986 connected from 94.178.195.101
+[INFO 2015-10-16 11:57:58]: User shatunp connected from 94.178.195.101
+[INFO 2015-10-16 12:03:28]: login failed for user : 'polo123' 37.54.33.49
+[INFO 2015-10-16 12:03:29]: User polo123 connected from 37.54.33.49
+[INFO 2015-10-16 12:03:30]: Updated Gameserver [1] Bartz IP's:
+[INFO 2015-10-16 12:03:30]: localhost (127.0.0.1)
+[INFO 2015-10-16 12:03:30]: 5.196.110.45
+[INFO 2015-10-16 12:04:41]: User 11kehu1992 connected from 178.125.229.41
+[INFO 2015-10-16 12:08:16]: User nogano connected from 95.78.27.54
+[INFO 2015-10-16 12:08:42]: User nogano connected from 95.78.27.54
+[INFO 2015-10-16 12:08:46]: User nogano connected from 95.78.27.54
+[INFO 2015-10-16 12:09:16]: User nogano connected from 95.78.27.54
+[INFO 2015-10-16 12:09:17]: User nogano connected from 95.78.27.54
+[INFO 2015-10-16 12:09:33]: User shnurrr1988 connected from 109.61.241.59
+[INFO 2015-10-16 12:09:51]: User kraft1988 connected from 109.61.241.59
+[INFO 2015-10-16 12:14:21]: User wils4 connected from 95.153.131.95
+[INFO 2015-10-16 12:14:22]: Updated Gameserver [1] Bartz IP's:
+[INFO 2015-10-16 12:14:22]: localhost (127.0.0.1)
+[INFO 2015-10-16 12:14:22]: 5.196.110.45
+[INFO 2015-10-16 12:14:34]: User wils1 connected from 95.153.131.95
+[INFO 2015-10-16 12:14:48]: User wils3 connected from 95.153.131.95
+[INFO 2015-10-16 12:15:06]: User xkor connected from 91.226.138.70
+[INFO 2015-10-16 12:16:14]: User wils5 connected from 95.153.131.95
+[INFO 2015-10-16 12:17:42]: User khlj78prk connected from 79.141.55.211
+[INFO 2015-10-16 12:18:00]: User 98306923 connected from 212.107.224.105
+[INFO 2015-10-16 12:18:02]: User kexa connected from 91.226.138.70
+[INFO 2015-10-16 12:22:34]: User lookoniss connected from 91.224.17.36
+[INFO 2015-10-16 12:23:48]: User noize connected from 195.158.28.21
+[INFO 2015-10-16 12:33:20]: User iicux connected from 85.132.87.11
+[INFO 2015-10-16 12:33:21]: Updated Gameserver [1] Bartz IP's:
+[INFO 2015-10-16 12:33:21]: localhost (127.0.0.1)
+[INFO 2015-10-16 12:33:21]: 5.196.110.45
+[INFO 2015-10-16 12:36:44]: User seregaelsukov connected from 5.141.194.46
+[INFO 2015-10-16 12:37:10]: User xenium1985 connected from 95.139.87.151
+[WARN 2015-10-16 12:38:55]: account missing for user 8wzfrigo12345 from ip 92.112.255.94
+[INFO 2015-10-16 12:39:43]: User xkor connected from 91.226.138.70
+[INFO 2015-10-16 12:41:15]: User iicux connected from 85.132.87.11
+[INFO 2015-10-16 12:54:24]: User imbaq1992 connected from 80.92.25.21
+[INFO 2015-10-16 12:54:24]: Updated Gameserver [1] Bartz IP's:
+[INFO 2015-10-16 12:54:24]: localhost (127.0.0.1)
+[INFO 2015-10-16 12:54:24]: 5.196.110.45
+[WARN 2015-10-16 12:55:26]: account missing for user 8wzfrigo12345 from ip 92.112.255.94
+[INFO 2015-10-16 12:55:44]: User nimfetka connected from 195.158.28.21
+[WARN 2015-10-16 13:08:11]: account missing for user 8wzfrigo12345 from ip 92.112.255.94
+[INFO 2015-10-16 13:17:05]: User smileydevil connected from 93.183.217.204
+[INFO 2015-10-16 13:17:05]: Updated Gameserver [1] Bartz IP's:
+[INFO 2015-10-16 13:17:05]: localhost (127.0.0.1)
+[INFO 2015-10-16 13:17:05]: 5.196.110.45
+[INFO 2015-10-16 13:18:31]: User erysev71 connected from 178.44.86.242
+[WARN 2015-10-16 13:19:20]: account missing for user 8wzfrigo12345 from ip 92.112.255.94
+[WARN 2015-10-16 13:25:47]: account missing for user 8wzfrigo12345 from ip 92.112.255.94
+[INFO 2015-10-16 13:27:04]: User erysev71 connected from 178.44.86.242
+[INFO 2015-10-16 13:27:12]: User erysev7116 connected from 178.44.86.242
+[INFO 2015-10-16 13:27:12]: Updated Gameserver [1] Bartz IP's:
+[INFO 2015-10-16 13:27:12]: localhost (127.0.0.1)
+[INFO 2015-10-16 13:27:12]: 5.196.110.45
+[INFO 2015-10-16 13:28:15]: User erysev7116 connected from 178.44.86.242
+[INFO 2015-10-16 13:29:13]: User erysev71 connected from 178.44.86.242
+[INFO 2015-10-16 13:30:13]: User erysev71 connected from 178.44.86.242
+[INFO 2015-10-16 13:30:30]: User erysev71 connected from 178.44.86.242
+[INFO 2015-10-16 13:34:07]: User seregaelsukov connected from 5.141.194.46
+[INFO 2015-10-16 13:38:35]: User erysev71 connected from 178.44.86.242
+[INFO 2015-10-16 13:38:36]: Updated Gameserver [1] Bartz IP's:
+[INFO 2015-10-16 13:38:36]: localhost (127.0.0.1)
+[INFO 2015-10-16 13:38:36]: 5.196.110.45
+[INFO 2015-10-16 13:39:10]: User seregaelsukov connected from 5.141.194.46
+[INFO 2015-10-16 13:40:54]: User erysev71 connected from 178.44.86.242
+[INFO 2015-10-16 13:55:14]: User harvestor connected from 194.135.16.137
+[INFO 2015-10-16 13:55:16]: Updated Gameserver [1] Bartz IP's:
+[INFO 2015-10-16 13:55:16]: localhost (127.0.0.1)
+[INFO 2015-10-16 13:55:16]: 5.196.110.45
+[INFO 2015-10-16 13:56:14]: Login server shutting down

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<list>
+  <armor id="8210" name="Monster Only (Monk Warrior Shield)" armorType="Shield" >
+   <set icon="icon.weapon_monster_i00"/>
+   <set bodyPart="LHAND" grade="NONE"/>
+   <set crystallizable="false" />
+   <set weight="4800" />
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <stats>
+    <sub stat="rEvas" order="0x40" val="8"/>
+    <set stat="sDef" order="0x8" val="230"/>
+    <set stat="rShld" order="0x8" val="20"/>
+   </stats>
+  </armor>
+  <armor id="8541" name="Little Harness" armorType="Pet" >
+   <set icon="icon.etc_pet_armor_little_harness_i00"/>
+   <set bodyPart="CHEST" grade="NONE"/>
+   <set crystallizable="false" />
+   <set weight="160" price="216666"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <stats>
+    <add stat="mDef" order="0x10" val="10"/>
+    <add stat="pDef" order="0x10" val="25"/>
+   </stats>
+  </armor>
+</list>

@@ -1,0 +1,210 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+<item id='8622' name="Elixir of Life (No Grade)">
+  <!-- <skill id="2287" lvl="1"/> -->
+  <cond msgId="1902">
+    <player grade="0"/>
+  </cond>
+  <cond msgId="1508">
+    <player olympiad="false"/>
+  </cond>
+  <for>
+  </for>
+</item>
+<item id='8623' name="Elixir of Life (D-Grade)">
+  <!-- <skill id="2287" lvl="2"/> -->
+  <cond msgId="1902">
+    <player grade="1"/>
+  </cond>
+  <cond msgId="1508">
+    <player olympiad="false"/>
+  </cond>
+  <for>
+  </for>
+</item>
+<item id='8624' name="Elixir of Life (C-Grade)">
+  <!-- <skill id="2287" lvl="3"/> -->
+  <cond msgId="1902">
+    <player grade="2"/>
+  </cond>
+  <cond msgId="1508">
+    <player olympiad="false"/>
+  </cond>
+  <for>
+  </for>
+</item>
+<item id='8625' name="Elixir of Life (B-Grade)">
+  <!-- <skill id="2287" lvl="4"/> -->
+  <cond msgId="1902">
+    <player grade="3"/>
+  </cond>
+  <cond msgId="1508">
+    <player olympiad="false"/>
+  </cond>
+  <for>
+  </for>
+</item>
+<item id='8626' name="Elixir of Life (A-Grade)">
+  <!-- <skill id="2287" lvl="5"/> -->
+  <cond msgId="1902">
+    <player grade="4"/>
+  </cond>
+  <cond msgId="1508">
+    <player olympiad="false"/>
+  </cond>
+  <for>
+  </for>
+</item>
+<item id='8627' name="Elixir of Life (S-Grade)">
+  <!-- <skill id="2287" lvl="6"/> -->
+  <cond msgId="1902">
+    <or>
+      <player grade="5"/>
+      <player grade="6"/>
+    </or>
+  </cond>
+  <cond msgId="1508">
+    <player olympiad="false"/>
+  </cond>
+  <for>
+  </for>
+</item>
+<item id='8628' name="Elixir of Mental Strength (No Grade)">
+  <!-- <skill id="2288" lvl="1"/> -->
+  <cond msgId="1902">
+      <player grade="0"/>
+  </cond>
+  <cond msgId="1508">
+    <player olympiad="false"/>
+  </cond>
+  <for>
+  </for>
+</item>
+<item id='8629' name="Elixir of Mental Strength (D-Grade)">
+  <!-- <skill id="2288" lvl="2"/> -->
+  <cond msgId="1902">
+    <player grade="1"/>
+  </cond>
+  <cond msgId="1508">
+    <player olympiad="false"/>
+  </cond>
+  <for>
+  </for>
+</item>
+<item id='8630' name="Elixir of Mental Strength (C-Grade)">
+  <!-- <skill id="2288" lvl="3"/> -->
+  <cond msgId="1902">
+    <player grade="2"/>
+  </cond>
+  <cond msgId="1508">
+    <player olympiad="false"/>
+  </cond>
+  <for>
+  </for>
+</item>
+<item id='8631' name="Elixir of Mental Strength (B-Grade)">
+  <!-- <skill id="2288" lvl="4"/> -->
+  <cond msgId="1902">
+    <player grade="3"/>
+  </cond>
+  <cond msgId="1508">
+    <player olympiad="false"/>
+  </cond>
+  <for>
+  </for>
+</item>
+<item id='8632' name="Elixir of Mental Strength (A-Grade)">
+  <!-- <skill id="2288" lvl="5"/> -->
+  <cond msgId="1902">
+    <player grade="4"/>
+  </cond>
+  <cond msgId="1508">
+    <player olympiad="false"/>
+  </cond>
+  <for>
+  </for>
+</item>
+<item id='8633' name="Elixir of Mental Strength (S-Grade)">
+  <!-- <skill id="2288" lvl="6"/> -->
+  <cond msgId="1902">
+    <or>
+      <player grade="5"/>
+      <player grade="6"/>
+    </or>
+  </cond>
+  <cond msgId="1508">
+    <player olympiad="false"/>
+  </cond>
+  <for>
+  </for>
+</item>
+<item id='8634' name="Elixir of CP (No Grade)">
+  <!-- <skill id="2289" lvl="1"/> -->
+  <cond msgId="1902">
+    <player grade="0"/>
+  </cond>
+  <cond msgId="1508">
+    <player olympiad="false"/>
+  </cond>
+  <for>
+  </for>
+</item>
+<item id='8635' name="Elixir of CP (D-Grade)">
+  <!-- <skill id="2289" lvl="2"/> -->
+  <cond msgId="1902">
+    <player grade="1"/>
+  </cond>
+  <cond msgId="1508">
+    <player olympiad="false"/>
+  </cond>
+  <for>
+  </for>
+</item>
+<item id='8636' name="Elixir of CP (C-Grade)">
+  <!-- <skill id="2289" lvl="3"/> -->
+  <cond msgId="1902">
+    <player grade="2"/>
+  </cond>
+  <cond msgId="1508">
+    <player olympiad="false"/>
+  </cond>
+  <for>
+  </for>
+</item>
+<item id='8637' name="Elixir of CP (B-Grade)">
+  <!-- <skill id="2289" lvl="4"/> -->
+  <cond msgId="1902">
+    <player grade="3"/>
+  </cond>
+  <cond msgId="1508">
+    <player olympiad="false"/>
+  </cond>
+  <for>
+  </for>
+</item>
+<item id='8638' name="Elixir of CP (A-Grade)">
+  <!-- <skill id="2289" lvl="5"/> -->
+  <cond msgId="1902">
+    <player grade="4"/>
+  </cond>
+  <cond msgId="1508">
+    <player olympiad="false"/>
+  </cond>
+  <for>
+  </for>
+</item>
+<item id='8639' name="Elixir of CP (S-Grade)">
+  <!-- <skill id="2289" lvl="6"/> -->
+  <cond msgId="1902">
+    <or>
+      <player grade="5"/>
+      <player grade="6"/>
+    </or>
+  </cond>
+  <cond msgId="1508">
+    <player olympiad="false"/>
+  </cond>
+  <for>
+  </for>
+</item>
+</list>

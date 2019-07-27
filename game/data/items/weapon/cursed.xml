@@ -1,0 +1,40 @@
+<?xml version="1.0" ?>
+<list>
+  <cursed id="8190" name="Demonic Sword Zariche" weaponType="BigSword" >
+   <set bodyPart="LRHAND" grade="NONE"/>
+   <set crystallizable="true" crystal_count="0" />
+   <set weight="1840" />
+   <set canUnequip="false"/>
+   <set sellable="false" tradeable="false" />
+   <set dropable="false" destroyable="false"/>
+
+   <stats>
+    <set stat="pAtk" val="361" order="0x08" />
+    <set stat="mAtk" val="137" order="0x08" />
+    <set stat="rCrit" val="12" order="0x08" />
+    <add stat="accCombat" order="0x10" />
+    <set stat="pAtkSpd" val="325" order="0x08" />
+    <enchant stat="pAtk" order="0x0c" />
+    <enchant stat="mAtk" order="0x0c" />
+   </stats>
+  </cursed>
+
+  <cursed id="8689" name="Blood Sword Akamanah" weaponType="DualSword" >
+   <set bodyPart="LRHAND" grade="NONE"/>
+   <set crystallizable="true" crystal_count="2157" />
+   <set weight="1840" price="26970000"/>
+   <set sellable="false" tradeable="false" />
+   <set dropable="false" destroyable="false"/>
+   <set canUnequip="false"/>
+   <stats>
+    <set stat="pAtk" val="361" order="0x08" />
+    <set stat="mAtk" val="137" order="0x08" />
+    <set stat="rCrit" val="8" order="0x08" />
+    <add stat="accCombat" order="0x10" />
+    <set stat="pAtkSpd" val="325" order="0x08" />
+    <enchant stat="pAtk" order="0x0c" />
+    <enchant stat="mAtk" order="0x0c" />
+   </stats>
+  </cursed>
+
+</list>

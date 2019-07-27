@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+  <zone id="1" name="Giran Trade Zone">
+    <settings trade="true"/>
+    <shape type="Rect" zMin="-3500" zMax="-3400">
+      <point x="82715" y="147907"/>
+      <point x="81150" y="149317"/>
+    </shape>
+  </zone>
+  <zone id="2" name="Oren Trade Zone">
+    <settings trade="true"/>
+    <shape type="Rect" zMin="-1600" zMax="-1400">
+      <point x="83000" y="54286"/>
+      <point x="81931" y="53340"/>
+    </shape>
+  </zone>
+  <zone id="3" name="Rune Trade Zone">
+    <settings trade="true"/>
+    <shape type="Rect" zMin="-850" zMax="-750">
+      <point x="44708" y="-47761"/>
+      <point x="43099" y="-48408"/>
+    </shape>
+  </zone>
+  <zone id="4" name="Glidio Trade Zone">
+    <settings trade="true"/>
+    <shape type="Rect" zMin="-3200" zMax="-3100">
+      <point x="-14072" y="122511"/>
+      <point x="-14708" y="123811"/>
+    </shape>
+  </zone>
+  <zone id="5" name="Dion Trade Zone">
+    <settings trade="true"/>
+    <shape type="Rect" zMin="-3300" zMax="-2739">
+      <point x="19544" y="145779"/>
+      <point x="15978" y="143105"/>
+    </shape>
+  </zone>
+  <zone id="6" name="Aden Trade Zone">
+    <settings trade="true"/>
+    <shape type="Rect" zMin="-2300" zMax="-2200">
+      <point x="148420" y="26690"/>
+      <point x="146585" y="28535"/>
+    </shape>
+  </zone>
+  <zone id="7" name="Shuttgart Trade Zone">
+    <settings trade="true"/>
+    <shape type="Rect" zMin="-1300" zMax="-1350">
+      <point x="87702" y="-141421"/>
+      <point x="87047" y="-142605"/>
+    </shape>
+  </zone>
+  <zone id="8" name="Goddard Trade Zone">
+    <settings trade="true"/>
+    <shape type="Rect" zMin="-2800" zMax="-2750">
+      <point x="147378" y="-57255"/>
+      <point x="147976" y="-56138"/>
+    </shape>
+  </zone>
+  <zone id="9" name="Heine Trade Zone">
+    <settings trade="true"/>
+    <shape type="Rect" zMin="-3700" zMax="-3600">
+      <point x="112137" y="219712"/>
+      <point x="110679" y="220641"/>
+    </shape>
+  </zone>
+    <zone id="10" name="Giran Trade Zone Taurin">
+    <settings trade="true"/>
+    <shape type="Rect" zMin="-3541" zMax="-3538">
+      <point x="81194" y="146360"/>
+      <point x="80230" y="147431"/>
+    </shape>
+  </zone>
+    <zone id="11" name="Aden Trade Zone Gatekeeper">
+    <settings trade="true"/>
+    <shape type="Rect" zMin="-2040" zMax="-2018">
+      <point x="148721" y="25966"/>
+      <point x="147007" y="25634"/>
+    </shape>
+  </zone>
+</list>

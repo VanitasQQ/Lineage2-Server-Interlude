@@ -1,0 +1,31 @@
+<html><title>L2Emu Fishing Skills Menu</title><body>
+<table width=260>
+<tr>
+<td width=40><button value="Main" action="bypass -h admin_admin" width=40 height=19 back="sek.cbui94" fore="sek.cbui94"></td>
+<td width=180><center>Fishing Skills Panel</center></td>
+<td width=40><button value="Back" action="bypass -h admin_show_skills" width=40 height=19 back="sek.cbui94" fore="sek.cbui94"></td>
+</tr>
+</table>
+<br><br>
+<table width=200>
+<tr><td><a action="bypass -h admin_help skills/fishing/F_Fishing.htm"><font color="LEVEL">Fishing</font></a></td></tr>
+<tr><td><a action="bypass -h admin_help skills/fishing/F_Pumping.htm"><font color="LEVEL">Pumping</font></a></td></tr>
+<tr><td><a action="bypass -h admin_help skills/fishing/F_Reeling.htm"><font color="LEVEL">Reeling</font></a></td></tr>
+<tr><td><a action="bypass -h admin_help skills/fishing/F_Fishing_Expertise.htm"><font color="LEVEL">Fishing Expertise</font></a></td></tr>
+<tr><td><a action="bypass -h admin_help skills/fishing/F_Expand_Common_Craft.htm"><font color="LEVEL">Expand Common Craft</font></a></td></tr>
+<tr><td><a action="bypass -h admin_help skills/fishing/F_Expand_Trade.htm"><font color="LEVEL">Expand Trade</font></a></td></tr>
+<tr><td><a action="bypass -h admin_help skills/fishing/F_Expand_Storage.htm"><font color="LEVEL">Expand Storage</font></a></td></tr>
+<tr><td><a action="bypass -h admin_help skills/fishing/F_Expand_Inventory.htm"><font color="LEVEL">Expand Inventory</font></a></td></tr>
+<tr><td><a action="bypass -h admin_help skills/fishing/F_Expand_Dwarven_Craft.htm"><font color="LEVEL">Expand Dwarven Craft</font></a></td></tr>
+</table>
+<br>
+<center>
+Add Skill through ID:
+</center>
+<br>
+<center>
+<table>
+<tr><td>Id:<edit var="id" width=40></td><td>Level:<edit var="level" width=40></td><td>&nbsp;<button value="Add" action="bypass -h admin_add_skill $id $level" width=40 height=19 back="sek.cbui94" fore="sek.cbui94"></td></tr>
+</table>
+</center>
+</body></html>

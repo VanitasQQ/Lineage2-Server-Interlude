@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+
+<!-- Created with Lineage II - Multisell Manager -->
+<!-- © 2007 by tReXpert -->
+
+<list maintainEnchantment="true">
+
+  <!-- Event - Glittering Medal -->
+  <item id="1">
+    <ingredient id="6392" count="10"/>
+    <production id="6393" count="1"/>
+  </item>
+
+  <!-- Event - Medal -->
+  <item id="2">
+    <ingredient id="6393" count="1"/>
+    <production id="6392" count="10"/>
+  </item>
+
+
+</list>

@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+<item id='5803' name="Lucky Charm: D-Grade">
+  <cond msgId="1902">
+    <player grade="1"/>
+  </cond>
+  <cond msgId="1508">
+    <player olympiad="false"/>
+  </cond>
+  <for>
+  </for>
+</item>
+<item id='5804' name="Lucky Charm: C-Grade">
+  <cond msgId="1902">
+    <player grade="2"/>
+  </cond>
+  <cond msgId="1508">
+    <player olympiad="false"/>
+  </cond>
+  <for>
+  </for>
+</item>
+<item id='5805' name="Lucky Charm: B-Grade">
+  <cond msgId="1902">
+    <player grade="3"/>
+  </cond>
+  <cond msgId="1508">
+    <player olympiad="false"/>
+  </cond>
+  <for>
+  </for>
+</item>
+<item id='5806' name="Lucky Charm: A-Grade">
+  <cond msgId="1902">
+    <player grade="4"/>
+  </cond>
+  <cond msgId="1508">
+    <player olympiad="false"/>
+  </cond>
+  <for>
+  </for>
+</item>
+<item id='5807' name="Lucky Charm: S Grade">
+  <cond msgId="1902">
+    <or>
+      <player grade="5"/>
+      <player grade="6"/>
+    </or>
+  </cond>
+  <cond msgId="1508">
+    <player olympiad="false"/>
+  </cond>
+  <for>
+  </for>
+</item>
+</list>

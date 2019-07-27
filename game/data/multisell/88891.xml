@@ -1,0 +1,19 @@
+ <list>
+
+ <!-- TT -->
+  
+   <item id="1">
+    <ingredient id="4037" count="5"/>
+    <production id="920" count="1"/>
+  </item>
+  
+     <item id="2">
+    <ingredient id="4037" count="4"/>
+    <production id="858" count="1"/>
+  </item>
+  
+     <item id="3">
+    <ingredient id="4037" count="4"/>
+    <production id="889" count="1"/>
+  </item>
+  </list>

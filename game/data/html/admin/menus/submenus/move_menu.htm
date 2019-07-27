@@ -1,0 +1,64 @@
+<html><title>Панель управления сервером</title><body>
+<center>
+<!-- top menu -->
+<table width=240>
+<tr>
+<td><button value="Главная" action="bypass -h admin_admin" width=60 height=21 back="sek.cbui94" fore="sek.cbui94"></td>
+<td><button value="Игровая" action="bypass -h admin_gamemenu" width=60 height=21 back="sek.cbui94" fore="sek.cbui94"></td>
+<td><button value="Эфекты" action="bypass -h admin_effects" width=60 height=21 back="sek.cbui94" fore="sek.cbui94"></td>
+<td><button value="Эвенты" action="bypass -h admin_events" width=60 height=21 back="sek.cbui94" fore="sek.cbui94"></td>
+</tr>
+<tr>
+<td><button value="Сервер" action="bypass -h admin_server" width=60 height=21 back="sek.cbui94" fore="sek.cbui94"></td>
+<td><button value="Контроль" action="bypass -h admin_control" width=60 height=21 back="sek.cbui94" fore="sek.cbui94"></td>
+<td><button value="Игроки" action="bypass -h admin_players" width=60 height=21 back="sek.cbui94" fore="sek.cbui94"></td>
+<td><button value="Конфиги" action="bypass -h admin_config" width=60 height=21 back="sek.cbui94" fore="sek.cbui94"></td>
+</tr>
+</table>
+
+<font color="LEVEL">Меню перемещения</font>
+<table>
+<tr><td width=70></td>
+<td><button value="Вверх" action="bypass -h admin_go up $offset" width=70 height=17 back="sek.cbui94" fore="sek.cbui94"></td>
+<td width=70></td></tr>
+<tr><td width=70></td>
+<td><button value="Север" action="bypass -h admin_go north $offset" width=70 height=17 back="sek.cbui94" fore="sek.cbui94"></td>
+<td width=70></td></tr>
+<tr><td><button value="Запад" action="bypass -h admin_go west $offset" width=70 height=17 back="sek.cbui94" fore="sek.cbui94"></td>
+<td><edit var="offset" width=70></td>
+<td><button value="Восток" action="bypass -h admin_go east $offset" width=70 height=17 back="sek.cbui94" fore="sek.cbui94"></td></tr>
+<tr><td width=70></td>
+<td><button value="Юг" action="bypass -h admin_go south $offset" width=70 height=17 back="sek.cbui94" fore="sek.cbui94"></td>
+<td width=70></td></tr>
+<tr><td width=70></td>
+<td><button value="Вниз" action="bypass -h admin_go down $offset" width=70 height=17 back="sek.cbui94" fore="sek.cbui94"></td>
+<td width=70></td></tr>
+</table>
+
+<br><font color="LEVEL">Режимы перемещения</font>
+<table width=190><tr>
+<td><button value="Ходьба" action="bypass -h admin_telemode norm" width=90 height=17 back="sek.cbui94" fore="sek.cbui94"></td>
+<td><button value="Прыжки" action="bypass -h admin_telemode demon" width=90 height=17 back="sek.cbui94" fore="sek.cbui94"></td>
+</tr></table>
+
+<br><font color="LEVEL">Скорость перемещения</font>
+<table width=260><tr>
+<td><button value="1" action="bypass -h admin_gmspeed 1" width=40 height=17 back="sek.cbui94" fore="sek.cbui94"></td>
+<td><button value="2" action="bypass -h admin_gmspeed 2" width=40 height=17 back="sek.cbui94" fore="sek.cbui94"></td>
+<td><button value="3" action="bypass -h admin_gmspeed 3" width=40 height=17 back="sek.cbui94" fore="sek.cbui94"></td>
+<td><button value="4" action="bypass -h admin_gmspeed 4" width=40 height=17 back="sek.cbui94" fore="sek.cbui94"></td>
+<td><button value="Off" action="bypass -h admin_gmspeed 0" width=40 height=17 back="sek.cbui94" fore="sek.cbui94"></td>
+</tr></table>
+
+<br><font color="LEVEL">Координаты перемещения</font>
+<table width=260>
+<tr>
+<td width=5>X</td><td><edit var="char_cord_x" width=42></td>
+<td width=5>Y</td><td><edit var="char_cord_y" width=42></td>
+<td width=5>Z</td><td><edit var="char_cord_z" width=42></td>
+<td><button value="Tele" action="bypass -h admin_move_to $char_cord_x $char_cord_y $char_cord_z" width=40 height=17 back="sek.cbui94" fore="sek.cbui94"></td>
+<td><button value="Walk" action="bypass -h admin_walk $char_cord_x $char_cord_y $char_cord_z" width=40 height=17 back="sek.cbui94" fore="sek.cbui94"></td>
+</tr>
+</table>
+
+</center></body></html>

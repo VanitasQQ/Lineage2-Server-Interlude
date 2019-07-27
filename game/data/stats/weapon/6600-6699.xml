@@ -1,0 +1,305 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE list SYSTEM "weapons.dtd">
+<list>
+<item id='6600' name="Saint Spear - Guidance">
+  <for>
+    <set val='281' order='0x08' stat='pAtk'/>
+    <set val='132' order='0x08' stat='mAtk'/>
+    <set val='8' order='0x08' stat='rCrit'/>
+    <set val='66' order='0x08' stat='pAtkRange'/>
+    <add val='-3' order='0x10' stat='accCombat'/>
+    <set val='325' order='0x08' stat='pAtkSpd'/>
+    <enchant val='0' order='0x0C' stat='pAtk'/>
+    <enchant val='0' order='0x0C' stat='mAtk'/>
+    <!-- Enhances damage to target during PvP -->
+    <mul val='1.05' order='0x30' stat='pvpPhysDmg'/>
+    <mul val='1.05' order='0x30' stat='pvpMagicalDmg'/>
+  </for>
+</item>
+<item id='6601' name="Saint Spear - Haste">
+  <for>
+    <set val='281' order='0x08' stat='pAtk'/>
+    <set val='132' order='0x08' stat='mAtk'/>
+    <set val='8' order='0x08' stat='rCrit'/>
+    <set val='66' order='0x08' stat='pAtkRange'/>
+    <add val='-3' order='0x10' stat='accCombat'/>
+    <set val='325' order='0x08' stat='pAtkSpd'/>
+    <enchant val='0' order='0x0C' stat='pAtk'/>
+    <enchant val='0' order='0x0C' stat='mAtk'/>
+  </for>
+</item>
+<item id='6602' name="Demon Splinter - Focus">
+  <for>
+    <set val='342' order='0x08' stat='pAtk'/>
+    <set val='132' order='0x08' stat='mAtk'/>
+    <set val='4' order='0x08' stat='rCrit'/>
+    <add val='4' order='0x10' stat='accCombat'/>
+    <set val='325' order='0x08' stat='pAtkSpd'/>
+    <enchant val='0' order='0x0C' stat='pAtk'/>
+    <enchant val='0' order='0x0C' stat='mAtk'/>
+  </for>
+</item>
+<item id='6603' name="Demon Splinter - Health">
+  <for>
+    <set val='342' order='0x08' stat='pAtk'/>
+    <set val='132' order='0x08' stat='mAtk'/>
+    <set val='4' order='0x08' stat='rCrit'/>
+    <add val='4' order='0x10' stat='accCombat'/>
+    <set val='325' order='0x08' stat='pAtkSpd'/>
+    <enchant val='0' order='0x0C' stat='pAtk'/>
+    <enchant val='0' order='0x0C' stat='mAtk'/>
+  </for>
+</item>
+<item id='6604' name="Demon Splinter - Critical Stun">
+  <for>
+    <set val='342' order='0x08' stat='pAtk'/>
+    <set val='132' order='0x08' stat='mAtk'/>
+    <set val='4' order='0x08' stat='rCrit'/>
+    <add val='4' order='0x10' stat='accCombat'/>
+    <set val='325' order='0x08' stat='pAtkSpd'/>
+    <enchant val='0' order='0x0C' stat='pAtk'/>
+    <enchant val='0' order='0x0C' stat='mAtk'/>
+    <!-- Enhances damage to target during PvP -->
+    <mul val='1.05' order='0x30' stat='pvpPhysDmg'/>
+    <mul val='1.05' order='0x30' stat='pvpMagicalDmg'/>
+  </for>
+</item>
+<item id='6605' name="Heavens Divider - Haste">
+  <for>
+    <set val='342' order='0x08' stat='pAtk'/>
+    <set val='132' order='0x08' stat='mAtk'/>
+    <set val='8' order='0x08' stat='rCrit'/>
+    <add val='0' order='0x10' stat='accCombat'/>
+    <set val='325' order='0x08' stat='pAtkSpd'/>
+    <enchant val='0' order='0x0C' stat='pAtk'/>
+    <enchant val='0' order='0x0C' stat='mAtk'/>
+  </for>
+</item>
+<item id='6606' name="Heavens Divider - Health">
+  <for>
+    <set val='342' order='0x08' stat='pAtk'/>
+    <set val='132' order='0x08' stat='mAtk'/>
+    <set val='8' order='0x08' stat='rCrit'/>
+    <add val='0' order='0x10' stat='accCombat'/>
+    <set val='325' order='0x08' stat='pAtkSpd'/>
+    <enchant val='0' order='0x0C' stat='pAtk'/>
+    <enchant val='0' order='0x0C' stat='mAtk'/>
+  </for>
+</item>
+<item id='6607' name="Heavens Divider - Focus">
+  <for>
+    <set val='342' order='0x08' stat='pAtk'/>
+    <set val='132' order='0x08' stat='mAtk'/>
+    <set val='8' order='0x08' stat='rCrit'/>
+    <add val='0' order='0x10' stat='accCombat'/>
+    <set val='325' order='0x08' stat='pAtkSpd'/>
+    <enchant val='0' order='0x0C' stat='pAtk'/>
+    <enchant val='0' order='0x0C' stat='mAtk'/>
+  </for>
+</item>
+<item id='6608' name="Arcana Mace - Acumen">
+  <for>
+    <set val='225' order='0x08' stat='pAtk'/>
+    <set val='175' order='0x08' stat='mAtk'/>
+    <set val='4' order='0x08' stat='rCrit'/>
+    <add val='4' order='0x10' stat='accCombat'/>
+    <set val='379' order='0x08' stat='pAtkSpd'/>
+    <enchant val='0' order='0x0C' stat='pAtk'/>
+    <enchant val='0' order='0x0C' stat='mAtk'/>
+  </for>
+</item>
+<item id='6609' name="Arcana Mace - MP Regeneration">
+  <for>
+    <set val='225' order='0x08' stat='pAtk'/>
+    <set val='175' order='0x08' stat='mAtk'/>
+    <set val='4' order='0x08' stat='rCrit'/>
+    <add val='4' order='0x10' stat='accCombat'/>
+    <set val='379' order='0x08' stat='pAtkSpd'/>
+    <enchant val='0' order='0x0C' stat='pAtk'/>
+    <enchant val='0' order='0x0C' stat='mAtk'/>
+    <!-- Enhances damage to target during PvP -->
+    <mul val='1.05' order='0x30' stat='pvpPhysDmg'/>
+    <mul val='1.05' order='0x30' stat='pvpMagicalDmg'/> 
+  </for>
+</item>
+<item id='6610' name="Arcana Mace - Mana Up">
+  <for>
+    <set val='225' order='0x08' stat='pAtk'/>
+    <set val='175' order='0x08' stat='mAtk'/>
+    <set val='4' order='0x08' stat='rCrit'/>
+    <add val='4' order='0x10' stat='accCombat'/>
+    <set val='379' order='0x08' stat='pAtkSpd'/>
+    <enchant val='0' order='0x0C' stat='pAtk'/>
+    <enchant val='0' order='0x0C' stat='mAtk'/>
+  </for>
+</item>
+<item id='6611' name="Infinity Blade">
+  <cond msgId="1508">
+    <player olympiad="false"/>
+  </cond>
+  <for>
+    <set val='379' order='0x08' stat='pAtk'/>
+    <set val='169' order='0x08' stat='mAtk'/>
+    <set val='8' order='0x08' stat='rCrit'/>
+    <add val='0' order='0x10' stat='accCombat'/>
+    <set val='379' order='0x08' stat='pAtkSpd'/>
+    <enchant val='0' order='0x0C' stat='pAtk'/>
+    <enchant val='0' order='0x0C' stat='mAtk'/>
+  </for>
+</item>
+<item id='6612' name="Infinity Cleaver">
+  <cond msgId="1508">
+    <player olympiad="false"/>
+  </cond>
+  <for>
+    <set val='461' order='0x08' stat='pAtk'/>
+    <set val='169' order='0x08' stat='mAtk'/>
+    <set val='8' order='0x08' stat='rCrit'/>
+    <add val='0' order='0x10' stat='accCombat'/>
+    <set val='325' order='0x08' stat='pAtkSpd'/>
+    <enchant val='0' order='0x0C' stat='pAtk'/>
+    <enchant val='0' order='0x0C' stat='mAtk'/>
+  </for>
+</item>
+<item id='6613' name="Infinity Axe">
+  <cond msgId="1508">
+    <player olympiad="false"/>
+  </cond>
+  <for>
+    <set val='397' order='0x08' stat='pAtk'/>
+    <set val='169' order='0x08' stat='mAtk'/>
+    <set val='4' order='0x08' stat='rCrit'/>
+    <add val='4' order='0x10' stat='accCombat'/>
+    <set val='379' order='0x08' stat='pAtkSpd'/>
+    <enchant val='0' order='0x0C' stat='pAtk'/>
+    <enchant val='0' order='0x0C' stat='mAtk'/>
+  </for>
+</item>
+<item id='6614' name="Infinity Rod">
+  <cond msgId="1508">
+    <player olympiad="false"/>
+  </cond>
+  <for>
+    <set val='303' order='0x08' stat='pAtk'/>
+    <set val='226' order='0x08' stat='mAtk'/>
+    <set val='4' order='0x08' stat='rCrit'/>
+    <add val='4' order='0x10' stat='accCombat'/>
+    <set val='379' order='0x08' stat='pAtkSpd'/>
+    <enchant val='0' order='0x0C' stat='pAtk'/>
+    <enchant val='0' order='0x0C' stat='mAtk'/>
+  </for>
+</item>
+<item id='6615' name="Infinity Crusher">
+  <cond msgId="1508">
+    <player olympiad="false"/>
+  </cond>
+  <for>
+    <set val='461' order='0x08' stat='pAtk'/>
+    <set val='169' order='0x08' stat='mAtk'/>
+    <set val='4' order='0x08' stat='rCrit'/>
+    <add val='4' order='0x10' stat='accCombat'/>
+    <set val='325' order='0x08' stat='pAtkSpd'/>
+    <enchant val='0' order='0x0C' stat='pAtk'/>
+    <enchant val='0' order='0x0C' stat='mAtk'/>
+  </for>
+</item>
+<item id='6616' name="Infinity Scepter">
+  <cond msgId="1508">
+    <player olympiad="false"/>
+  </cond>
+  <for>
+    <set val='369' order='0x08' stat='pAtk'/>
+    <set val='226' order='0x08' stat='mAtk'/>
+    <set val='4' order='0x08' stat='rCrit'/>
+    <add val='4' order='0x10' stat='accCombat'/>
+    <set val='325' order='0x08' stat='pAtkSpd'/>
+    <enchant val='0' order='0x0C' stat='pAtk'/>
+    <enchant val='0' order='0x0C' stat='mAtk'/>
+  </for>
+</item>
+<item id='6617' name="Infinity Stinger">
+  <cond msgId="1508">
+    <player olympiad="false"/>
+  </cond>
+  <for>
+    <set val='332' order='0x08' stat='pAtk'/>
+    <set val='169' order='0x08' stat='mAtk'/>
+    <set val='12' order='0x08' stat='rCrit'/>
+    <add val='-3' order='0x10' stat='accCombat'/>
+    <set val='433' order='0x08' stat='pAtkSpd'/>
+    <enchant val='0' order='0x0C' stat='pAtk'/>
+    <enchant val='0' order='0x0C' stat='mAtk'/>
+  </for>
+</item>
+<item id='6618' name="Infinity Fang">
+  <cond msgId="1508">
+    <player olympiad="false"/>
+  </cond>
+  <for>
+    <set val='461' order='0x08' stat='pAtk'/>
+    <set val='169' order='0x08' stat='mAtk'/>
+    <set val='4' order='0x08' stat='rCrit'/>
+    <add val='4' order='0x10' stat='accCombat'/>
+    <set val='325' order='0x08' stat='pAtkSpd'/>
+    <enchant val='0' order='0x0C' stat='pAtk'/>
+    <enchant val='0' order='0x0C' stat='mAtk'/>
+  </for>
+</item>
+<item id='6619' name="Infinity Bow">
+  <cond msgId="1508">
+    <player olympiad="false"/>
+  </cond>
+  <for>
+    <set val='707' order='0x08' stat='pAtk'/>
+    <set val='169' order='0x08' stat='mAtk'/>
+    <set val='12' order='0x08' stat='rCrit'/>
+    <add val='-3' order='0x10' stat='accCombat'/>
+    <set val='293' order='0x08' stat='pAtkSpd'/>
+    <enchant val='0' order='0x0C' stat='pAtk'/>
+    <enchant val='0' order='0x0C' stat='mAtk'/>
+    <set val='1' order='0x08' stat='MpConsume'>
+      <and>
+        <game chance="26"/>
+        <player skill="false"/>
+      </and>
+    </set>
+  </for>
+</item>
+<item id='6620' name="Infinity Wing">
+  <cond msgId="1508">
+    <player olympiad="false"/>
+  </cond>
+  <for>
+    <set val='461' order='0x08' stat='pAtk'/>
+    <set val='169' order='0x08' stat='mAtk'/>
+    <set val='8' order='0x08' stat='rCrit'/>
+    <add val='0' order='0x10' stat='accCombat'/>
+    <set val='325' order='0x08' stat='pAtkSpd'/>
+    <enchant val='0' order='0x0C' stat='pAtk'/>
+    <enchant val='0' order='0x0C' stat='mAtk'/>
+  </for>
+</item>
+<item id='6621' name="Infinity Spear">
+  <cond msgId="1508">
+    <player olympiad="false"/>
+  </cond>
+  <for>
+    <set val='379' order='0x08' stat='pAtk'/>
+    <set val='169' order='0x08' stat='mAtk'/>
+    <set val='8' order='0x08' stat='rCrit'/>
+    <set val='66' order='0x08' stat='pAtkRange'/>
+    <add val='-3' order='0x10' stat='accCombat'/>
+    <set val='325' order='0x08' stat='pAtkSpd'/>
+    <enchant val='0' order='0x0C' stat='pAtk'/>
+    <enchant val='0' order='0x0C' stat='mAtk'/>
+  </for>
+</item>
+<item id='6678' name="Sealed Imperial Crusader Shield">
+  <for>
+    <sub val='8' order='0x10' stat='rEvas'/>
+    <set val='276' order='0x08' stat='sDef'/>
+    <set val='20' order='0x08' stat='rShld'/>
+    <enchant val='0' order='0x0C' stat='sDef'/>
+  </for>
+</item>
+</list>

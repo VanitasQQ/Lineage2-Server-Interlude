@@ -1,0 +1,396 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- TODO: C5/Interlude fishing zones -->
+<list>
+  <zone id="1" name="Fishing_1" type="Fishing"> <!-- used for L2JDP zone 11401 -->
+    <shape type="Poly" zMin="-3634" zMax="-3586">
+      <point x="141249" y="-109636"/>
+      <point x="141473" y="-109798"/>
+      <point x="141739" y="-109821"/>
+      <point x="141924" y="-109669"/>
+      <point x="142038" y="-109397"/>
+      <point x="141852" y="-109130"/>
+      <point x="141604" y="-109051"/>
+      <point x="141321" y="-109091"/>
+      <point x="141213" y="-109266"/>
+    </shape>
+  </zone>
+  <zone id="2" name="Fishing_2" type="Fishing">
+    <shape type="Poly" zMin="-3634" zMax="-3434">
+      <point x="141249" y="-109636"/>
+      <point x="141473" y="-109798"/>
+      <point x="141739" y="-109821"/>
+      <point x="141924" y="-109669"/>
+      <point x="142038" y="-109397"/>
+      <point x="141852" y="-109130"/>
+      <point x="141604" y="-109051"/>
+      <point x="141321" y="-109091"/>
+      <point x="141213" y="-109266"/>
+    </shape>
+  </zone>
+  <zone id="3" name="Fishing_3" type="Fishing"> <!-- used for L2JDP zone 11403 -->
+    <shape type="Poly" zMin="-3668" zMax="-3620">
+      <point x="140174" y="-105832"/>
+      <point x="140490" y="-105875"/>
+      <point x="140962" y="-105738"/>
+      <point x="141039" y="-105378"/>
+      <point x="140872" y="-105119"/>
+      <point x="140081" y="-105295"/>
+    </shape>
+  </zone>
+  <zone id="4" name="Fishing_4" type="Fishing"> <!-- used for L2JDP zone 11404 -->
+    <shape type="Poly" zMin="-3724" zMax="-3677">
+      <point x="144927" y="-105193"/>
+      <point x="145226" y="-105412"/>
+      <point x="145576" y="-105344"/>
+      <point x="145819" y="-104976"/>
+      <point x="145575" y="-104555"/>
+      <point x="145217" y="-104490"/>
+      <point x="144935" y="-104684"/>
+      <point x="144832" y="-104959"/>
+    </shape>
+  </zone>
+  <zone id="5" name="Fishing_5" type="Fishing"> <!-- used for L2JDP zone 11405 -->
+    <shape type="Poly" zMin="-2871" zMax="-2806">
+      <point x="152081" y="-108262"/>
+      <point x="152455" y="-108588"/>
+      <point x="152835" y="-108448"/>
+      <point x="152992" y="-108120"/>
+      <point x="152817" y="-107670"/>
+      <point x="152310" y="-107632"/>
+      <point x="152069" y="-107905"/>
+    </shape>
+  </zone>
+  <zone id="6" name="Fishing_6" type="Fishing"> <!-- used for L2JDP zone 11406 -->
+    <shape type="Poly" zMin="-2787" zMax="-2749">
+      <point x="155279" y="-105735"/>
+      <point x="155448" y="-105880"/>
+      <point x="155992" y="-105963"/>
+      <point x="156201" y="-105790"/>
+      <point x="156133" y="-105320"/>
+      <point x="155896" y="-105229"/>
+      <point x="155459" y="-105254"/>
+      <point x="155283" y="-105478"/>
+    </shape>
+  </zone>
+  <zone id="7" name="Fishing_7" type="Fishing"> <!-- used for L2JDP zone 11407 -->
+    <shape type="Poly" zMin="-2717" zMax="-2663">
+      <point x="156838" y="-109948"/>
+      <point x="157133" y="-110046"/>
+      <point x="157436" y="-109918"/>
+      <point x="157491" y="-109405"/>
+      <point x="157197" y="-109197"/>
+      <point x="156843" y="-109261"/>
+      <point x="156683" y="-109569"/>
+    </shape>
+  </zone>
+  <zone id="8" name="Fishing_8" type="Fishing"> <!-- used for L2JDP zone 11408 -->
+    <shape type="Poly" zMin="-1609" zMax="-1569">
+      <point x="152063" y="-116732"/>
+      <point x="152505" y="-116982"/>
+      <point x="152904" y="-116927"/>
+      <point x="153020" y="-116469"/>
+      <point x="152881" y="-116221"/>
+      <point x="152555" y="-116100"/>
+      <point x="152285" y="-116160"/>
+      <point x="152099" y="-116415"/>
+    </shape>
+  </zone>
+  <zone id="9" name="Fishing_9" type="Fishing"> <!-- used for L2JDP zone 11409 -->
+    <shape type="Poly" zMin="-1694" zMax="-1651">
+      <point x="152683" y="-112829"/>
+      <point x="152796" y="-113129"/>
+      <point x="153125" y="-113339"/>
+      <point x="153557" y="-113190"/>
+      <point x="153649" y="-112721"/>
+      <point x="153344" y="-112385"/>
+      <point x="152937" y="-112409"/>
+    </shape>
+  </zone>
+  <zone id="10" name="Fishing_10" type="Fishing"> <!-- used for L2JDP zone 11410 -->
+    <shape type="Poly" zMin="-1979" zMax="-1906">
+      <point x="157444" y="-115790"/>
+      <point x="157774" y="-115907"/>
+      <point x="158174" y="-115759"/>
+      <point x="158017" y="-114971"/>
+      <point x="157625" y="-114984"/>
+      <point x="157439" y="-115101"/>
+    </shape>
+  </zone>
+  <zone id="11" name="Fishing_11" type="Fishing"> <!-- used for L2JDP zone 11411 -->
+    <shape type="Poly" zMin="-2152" zMax="-2113">
+      <point x="147182" y="-113255"/>
+      <point x="147194" y="-113430"/>
+      <point x="147312" y="-113584"/>
+      <point x="147467" y="-113630"/>
+      <point x="147748" y="-113523"/>
+      <point x="147816" y="-113273"/>
+      <point x="147723" y="-113074"/>
+      <point x="147512" y="-112956"/>
+      <point x="147258" y="-113048"/>
+    </shape>
+  </zone>
+  <zone id="12" name="Fishing_12" type="Fishing"> <!-- used for L2JDP zone 11412 -->
+    <shape type="Poly" zMin="-4388" zMax="-1388">
+      <point x="35360" y="70052"/>
+      <point x="54640" y="70780"/>
+      <point x="58104" y="89528"/>
+      <point x="38900" y="91644"/>
+    </shape>
+  </zone>
+  <zone id="13" name="Fishing_13" type="Fishing"> <!-- used for L2JDP zone 11413 -->
+    <shape type="Poly" zMin="-4916" zMax="-1916">
+      <point x="-99139" y="207208"/>
+      <point x="-65905" y="254858"/>
+      <point x="-65905" y="261841"/>
+      <point x="-124577" y="261607"/>
+      <point x="-128220" y="215665"/>
+    </shape>
+  </zone>
+  <zone id="14" name="Fishing_14" type="Fishing"> <!-- used for L2JDP zone 11414 -->
+    <shape type="Poly" zMin="-4640" zMax="-1640">
+      <point x="134452" y="66180"/>
+      <point x="170228" y="67184"/>
+      <point x="172464" y="97052"/>
+      <point x="136188" y="94940"/>
+    </shape>
+  </zone>
+  <zone id="15" name="Fishing_15" type="Fishing"> <!-- used for L2JDP zone 11415 -->
+    <shape type="Poly" zMin="-4216" zMax="-1216">
+      <point x="135800" y="35476"/>
+      <point x="162960" y="35364"/>
+      <point x="161056" y="64920"/>
+      <point x="136496" y="65092"/>
+    </shape>
+  </zone>
+  <zone id="16" name="Fishing_16" type="Fishing"> <!-- used for L2JDP zone 11416 -->
+    <shape type="Poly" zMin="-2568" zMax="1432">
+      <point x="97311" y="-229576"/>
+      <point x="201955" y="-229291"/>
+      <point x="201926" y="-163450"/>
+      <point x="97636" y="-164202"/>
+    </shape>
+  </zone>
+  <zone id="17" name="Fishing_17" type="Fishing"> <!-- used for L2JDP zone 11417 -->
+    <shape type="Poly" zMin="-7356" zMax="-1356">
+      <point x="89909" y="158343"/>
+      <point x="130731" y="153447"/>
+      <point x="130741" y="261840"/>
+      <point x="65549" y="262183"/>
+      <point x="65612" y="189166"/>
+    </shape>
+  </zone>
+  <zone id="18" name="Fishing_18" type="Fishing"> <!-- used for L2JDP zone 11418 -->
+    <shape type="Poly" zMin="-3892" zMax="-892">
+      <point x="81328" y="136658"/>
+      <point x="139003" y="123356"/>
+      <point x="138584" y="145204"/>
+      <point x="121150" y="155944"/>
+      <point x="80807" y="160436"/>
+    </shape>
+  </zone>
+  <zone id="19" name="Fishing_19" type="Fishing"> <!-- used for L2JDP zone 11419 -->
+    <shape type="Poly" zMin="-4684" zMax="-1684">
+      <point x="67326" y="160359"/>
+      <point x="86813" y="160109"/>
+      <point x="64159" y="189723"/>
+      <point x="42375" y="183029"/>
+    </shape>
+  </zone>
+  <zone id="20" name="Fishing_20" type="Fishing"> <!-- used for L2JDP zone 11420 -->
+    <shape type="Poly" zMin="-4874" zMax="-1874">
+      <point x="30606" y="184275"/>
+      <point x="40957" y="182824"/>
+      <point x="62226" y="189792"/>
+      <point x="62509" y="228946"/>
+      <point x="30706" y="228846"/>
+    </shape>
+  </zone>
+  <zone id="21" name="Fishing_21" type="Fishing"> <!-- used for L2JDP zone 11421 -->
+    <shape type="Poly" zMin="-4372" zMax="-1372">
+      <point x="65472" y="71452"/>
+      <point x="86420" y="82248"/>
+      <point x="97656" y="93300"/>
+      <point x="97692" y="98032"/>
+      <point x="64528" y="97660"/>
+    </shape>
+  </zone>
+  <zone id="22" name="Fishing_22" type="Fishing"> <!-- used for L2JDP zone 11422 -->
+    <shape type="Poly" zMin="-4328" zMax="-1328">
+      <point x="66204" y="3448"/>
+      <point x="121052" y="30384"/>
+      <point x="87064" y="56664"/>
+      <point x="69484" y="31724"/>
+    </shape>
+  </zone>
+  <zone id="23" name="Fishing_23" type="Fishing"> <!-- used for L2JDP zone 11423 -->
+    <shape type="Poly" zMin="-4096" zMax="-1096">
+      <point x="4721" y="99932"/>
+      <point x="60654" y="99812"/>
+      <point x="60606" y="158582"/>
+      <point x="40546" y="154557"/>
+      <point x="3147" y="123027"/>
+    </shape>
+  </zone>
+  <zone id="24" name="Fishing_24" type="Fishing"> <!-- used for L2JDP zone 11424 -->
+    <shape type="Poly" zMin="-4724" zMax="-1724">
+      <point x="36902" y="-98025"/>
+      <point x="9543" y="-42544"/>
+      <point x="54988" y="-7732"/>
+      <point x="96957" y="-65614"/>
+    </shape>
+  </zone>
+  <zone id="25" name="Fishing_25" type="Fishing"> <!-- used for L2JDP zone 11425 -->
+    <shape type="Poly" zMin="-4764" zMax="-1764">
+      <point x="436" y="128216"/>
+      <point x="10168" y="128584"/>
+      <point x="42184" y="182056"/>
+      <point x="31996" y="197312"/>
+      <point x="680" y="197804"/>
+    </shape>
+  </zone>
+  <zone id="26" name="Fishing_26" type="Fishing"> <!-- used for L2JDP zone 11426 -->
+    <shape type="Poly" zMin="-3900" zMax="-900">
+      <point x="35960" y="34780"/>
+      <point x="61228" y="52232"/>
+      <point x="61704" y="77128"/>
+      <point x="43360" y="66444"/>
+      <point x="32924" y="37972"/>
+    </shape>
+  </zone>
+  <zone id="27" name="Fishing_27" type="Fishing"> <!-- used for L2JDP zone 11427 -->
+    <shape type="Poly" zMin="-4004" zMax="-1004">
+      <point x="11764" y="36204"/>
+      <point x="42092" y="63036"/>
+      <point x="44408" y="69824"/>
+      <point x="444" y="75320"/>
+      <point x="2780" y="51824"/>
+    </shape>
+  </zone>
+  <zone id="28" name="Fishing_28" type="Fishing"> <!-- used for L2JDP zone 11428 -->
+    <shape type="Poly" zMin="-3856" zMax="-856">
+      <point x="148" y="77464"/>
+      <point x="4116" y="80668"/>
+      <point x="4816" y="95352"/>
+      <point x="460" y="94180"/>
+    </shape>
+  </zone>
+  <zone id="29" name="Fishing_29" type="Fishing"> <!-- used for L2JDP zone 11429 -->
+    <shape type="Poly" zMin="-4848" zMax="-1848">
+      <point x="-37560" y="16423"/>
+      <point x="-8388" y="126"/>
+      <point x="50773" y="98"/>
+      <point x="35243" y="16780"/>
+      <point x="-76016" y="81087"/>
+      <point x="-75777" y="65779"/>
+    </shape>
+  </zone>
+  <zone id="30" name="Fishing_30" type="Fishing"> <!-- used for L2JDP zone 11430 -->
+    <shape type="Poly" zMin="-4044" zMax="-1044">
+      <point x="-27548" y="90040"/>
+      <point x="3188" y="95180"/>
+      <point x="1816" y="117348"/>
+      <point x="-1732" y="130032"/>
+      <point x="-25952" y="130540"/>
+    </shape>
+  </zone>
+  <zone id="31" name="Fishing_31" type="Fishing"> <!-- used for L2JDP zone 11431 -->
+    <shape type="Poly" zMin="-4084" zMax="-1084">
+      <point x="-13628" y="57148"/>
+      <point x="-428" y="57856"/>
+      <point x="3668" y="90204"/>
+      <point x="-21376" y="89884"/>
+      <point x="-26808" y="87940"/>
+    </shape>
+  </zone>
+  <zone id="32" name="Fishing_32" type="Fishing"> <!-- used for L2JDP zone 11432 -->
+    <shape type="Poly" zMin="-4880" zMax="-1880">
+      <point x="-64990" y="-109438"/>
+      <point x="32369" y="-96091"/>
+      <point x="31964" y="-83063"/>
+      <point x="4840" y="-60901"/>
+      <point x="-30730" y="-68637"/>
+    </shape>
+  </zone>
+  <zone id="33" name="Fishing_33" type="Fishing"> <!-- used for L2JDP zone 11433 -->
+    <shape type="Poly" zMin="-4828" zMax="-1828">
+      <point x="-65739" y="186145"/>
+      <point x="-188" y="193188"/>
+      <point x="-470" y="213105"/>
+      <point x="-22923" y="225218"/>
+      <point x="-58597" y="224836"/>
+    </shape>
+  </zone>
+  <zone id="34" name="Fishing_34" type="Fishing"> <!-- used for L2JDP zone 11434 -->
+    <shape type="Poly" zMin="-3772" zMax="-772">
+      <point x="-62980" y="111764"/>
+      <point x="-50756" y="126392"/>
+      <point x="-63940" y="140572"/>
+      <point x="-71220" y="133792"/>
+      <point x="-69448" y="120784"/>
+    </shape>
+  </zone>
+  <zone id="35" name="Fishing_35" type="Fishing"> <!-- used for L2JDP zone 11435 -->
+    <shape type="Poly" zMin="-4892" zMax="-1892">
+      <point x="-111370" y="100078"/>
+      <point x="-77020" y="67100"/>
+      <point x="-65711" y="190964"/>
+      <point x="-99937" y="150239"/>
+    </shape>
+  </zone>
+  <zone id="36" name="Fishing_36" type="Fishing">
+    <!-- Done by FireBlade -->
+    <shape type="Poly" zMin="-3840" zMax="-3683">
+      <point x="9005" y="-14650"/>
+      <point x="8503" y="-14300"/>
+      <point x="7676" y="-13393"/>
+      <point x="7417" y="-12987"/>
+      <point x="6952" y="-12245"/>
+      <point x="6980" y="-11149"/>
+      <point x="8179" y="-10197"/>
+    </shape>
+  </zone>
+  <zone id="37" name="Fishing_37" type="Fishing">
+    <!-- Done by FireBlade -->
+    <shape type="Rect" zMin="-3902" zMax="-3648">
+      <point x="9195" y="-14456"/>
+      <point x="8941" y="-13355"/>
+    </shape>
+  </zone>
+  <zone id="38" name="Fishing_38" type="Fishing">
+    <!-- Done by FireBlade -->
+    <shape type="Poly" zMin="-4376" zMax="-3707">
+      <point x="12280" y="-24884"/>
+      <point x="11225" y="-25309"/>
+      <point x="10033" y="-24997"/>
+      <point x="9828" y="-24401"/>
+      <point x="9359" y="-24025"/>
+      <point x="8221" y="-23856"/>
+      <point x="6202" y="-24225"/>
+      <point x="4462" y="-23358"/>
+      <point x="4144" y="-23088"/>
+      <point x="3600" y="-24947"/>
+      <point x="12744" y="-25790"/>
+    </shape>
+  </zone>
+  <zone id="39" name="Fishing_39" type="Fishing">
+    <!-- Done by FireBlade -->
+    <shape type="Rect" zMin="-4248" zMax="-3630">
+      <point x="10561" y="-25297"/>
+      <point x="10305" y="-27068"/>
+    </shape>
+  </zone>
+  <zone id="40" name="Fishing_40" type="Fishing">
+    <shape type="Cylinder" radius="500" zMin="-4810" zMax="-1580">
+      <point x="152560" y="-116498"/>
+    </shape>
+    <shape type="Cylinder" radius="450" zMin="-4810" zMax="-1660">
+      <point x="153156" y="-112906"/>
+    </shape>
+    <shape type="Cylinder" radius="450" zMin="-4810" zMax="-1910">
+      <point x="157709" y="-115400"/>
+    </shape>
+    <shape type="Cylinder" radius="450" zMin="-4810" zMax="-2120">
+      <point x="147488" y="-113273"/>
+    </shape>
+  </zone>
+</list>

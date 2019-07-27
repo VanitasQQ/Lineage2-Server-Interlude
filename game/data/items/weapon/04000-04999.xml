@@ -1,0 +1,4850 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<list>
+  <weapon id="4027" name="Bouquet" weaponType="Sword" >
+   <set icon="icon.etc_plan_i00"/>
+   <set bodyPart="RHAND" grade="NONE"/>
+   <set crystallizable="false" />
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <stats>
+    <set stat="pAtk" order="0x8" val="8"/>
+    <set stat="mAtk" order="0x8" val="6"/>
+    <set stat="rCrit" order="0x8" val="8"/>
+    <add stat="accCombat" order="0x10" val="0"/>
+    <set stat="pAtkSpd" order="0x8" val="379"/>
+    <enchant stat="pAtk" order="0xc" val="0"/>
+    <enchant stat="mAtk" order="0xc" val="0"/>
+   </stats>
+  </weapon>
+  <weapon id="4028" name="Giant Cannon" weaponType="Dagger" >
+   <set icon="icon.weapon_monster_i00"/>
+   <set bodyPart="RHAND" grade="D"/>
+   <set crystallizable="true" crystal_count="744" />
+   <set weight="300" price="409000"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <stats>
+    <set stat="pAtk" order="0x8" val="5"/>
+    <set stat="mAtk" order="0x8" val="5"/>
+    <set stat="rCrit" order="0x8" val="12"/>
+    <add stat="accCombat" order="0x10" val="-3"/>
+    <set stat="pAtkSpd" order="0x8" val="433"/>
+    <enchant stat="pAtk" order="0xc" val="0"/>
+    <enchant stat="mAtk" order="0xc" val="0"/>
+   </stats>
+  </weapon>
+  <weapon id="4202" name="Chrono Cithara" weaponType="Sword" >
+   <set icon="icon.weapon_chrono_cithara_i00"/>
+   <set bodyPart="RHAND" grade="NONE"/>
+   <set crystallizable="false" />
+   <set sellable="true" tradeable="true" />
+   <set dropable="false" destroyable="true"/>
+
+   <stats>
+    <set stat="pAtk" order="0x8" val="1"/>
+    <set stat="mAtk" order="0x8" val="1"/>
+    <set stat="rCrit" order="0x8" val="8"/>
+    <add stat="accCombat" order="0x10" val="0"/>
+    <set stat="pAtkSpd" order="0x8" val="379"/>
+    <enchant stat="pAtk" order="0xc" val="0"/>
+    <enchant stat="mAtk" order="0xc" val="0"/>
+   </stats>
+  </weapon>
+  <weapon id="4219" name="Dream Sword" weaponType="Sword" >
+   <set icon="icon.weapon_knights_sword_i00"/>
+   <set bodyPart="RHAND" grade="NONE"/>
+   <set crystallizable="true" crystal_count="0" />
+   <set weight="1530" price="244000"/>
+   <set sellable="false" tradeable="false" />
+   <set dropable="false" destroyable="false"/>
+
+   <stats>
+    <set stat="pAtk" order="0x8" val="31"/>
+    <set stat="mAtk" order="0x8" val="21"/>
+    <set stat="rCrit" order="0x8" val="8"/>
+    <add stat="accCombat" order="0x10" val="0"/>
+    <set stat="pAtkSpd" order="0x8" val="379"/>
+    <enchant stat="pAtk" order="0xc" val="0"/>
+    <enchant stat="mAtk" order="0xc" val="0"/>
+   </stats>
+  </weapon>
+  <weapon id="4220" name="Dream Knife" weaponType="Dagger" >
+   <set icon="icon.weapon_assassin_knife_i00"/>
+   <set bodyPart="RHAND" grade="NONE"/>
+   <set crystallizable="true" crystal_count="0" />
+   <set weight="1110" price="244000"/>
+   <set sellable="false" tradeable="false" />
+   <set dropable="false" destroyable="false"/>
+
+   <stats>
+    <set stat="pAtk" order="0x8" val="27"/>
+    <set stat="mAtk" order="0x8" val="21"/>
+    <set stat="rCrit" order="0x8" val="12"/>
+    <add stat="accCombat" order="0x10" val="-3"/>
+    <set stat="pAtkSpd" order="0x8" val="433"/>
+    <enchant stat="pAtk" order="0xc" val="0"/>
+    <enchant stat="mAtk" order="0xc" val="0"/>
+   </stats>
+  </weapon>
+  <weapon id="4221" name="Ubiquitous Axe" weaponType="Blunt" >
+   <set icon="icon.weapon_tomahawk_i00"/>
+   <set bodyPart="RHAND" grade="NONE"/>
+   <set crystallizable="true" crystal_count="0" />
+   <set weight="1850" price="244000"/>
+   <set sellable="false" tradeable="false" />
+   <set dropable="false" destroyable="false"/>
+
+   <stats>
+    <set stat="pAtk" order="0x8" val="31"/>
+    <set stat="mAtk" order="0x8" val="21"/>
+    <set stat="rCrit" order="0x8" val="4"/>
+    <add stat="accCombat" order="0x10" val="4"/>
+    <set stat="pAtkSpd" order="0x8" val="379"/>
+    <enchant stat="pAtk" order="0xc" val="0"/>
+    <enchant stat="mAtk" order="0xc" val="0"/>
+   </stats>
+  </weapon>
+  <weapon id="4233" name="Knuckle Duster" weaponType="DualFist" >
+   <set icon="icon.weapon_knuckle_dust_i00"/>
+   <set bodyPart="LRHAND" grade="C"/>
+   <set crystallizable="true" crystal_count="884" />
+   <set weight="1490" price="2209700"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <stats>
+    <set stat="pAtk" order="0x8" val="148"/>
+    <set stat="mAtk" order="0x8" val="68"/>
+    <set stat="rCrit" order="0x8" val="4"/>
+    <add stat="accCombat" order="0x10" val="4"/>
+    <set stat="pAtkSpd" order="0x8" val="325"/>
+    <enchant stat="pAtk" order="0xc" val="0"/>
+    <enchant stat="mAtk" order="0xc" val="0"/>
+   </stats>
+  </weapon>
+  <weapon id="4237" name="Hatchling's Level 65 Weapon" weaponType="Pet" >
+   <set icon="icon.etc_pet_arms_i04"/>
+   <set bodyPart="RHAND" grade="NONE"/>
+   <set crystallizable="false" />
+   <set weight="100" />
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <stats>
+    <add stat="pAtk" order="0x10" val="24"/>
+    <add stat="mAtk" order="0x10" val="32"/>
+    <set stat="rCrit" order="0x8" val="80"/>
+    <set stat="pAtkSpd" order="0x8" val="304"/>
+   </stats>
+  </weapon>
+  <weapon id="4238" name="Hatchling's Level 75 Weapon" weaponType="Pet" >
+   <set icon="icon.etc_pet_arms_i04"/>
+   <set bodyPart="RHAND" grade="NONE"/>
+   <set crystallizable="false" />
+   <set weight="100" />
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <stats>
+    <add stat="pAtk" order="0x10" val="31"/>
+    <add stat="mAtk" order="0x10" val="43"/>
+    <set stat="rCrit" order="0x8" val="80"/>
+    <set stat="pAtkSpd" order="0x8" val="304"/>
+   </stats>
+  </weapon>
+  <weapon id="4665" name="Pipette Knife" weaponType="Dagger" >
+   <set icon="icon.weapon_knife_i00"/>
+   <set bodyPart="RHAND" grade="NONE"/>
+   <set crystallizable="false" />
+   <set weight="1140" />
+   <set sellable="false" tradeable="false" />
+   <set dropable="false" destroyable="false"/>
+
+   <stats>
+    <set stat="pAtk" order="0x8" val="10"/>
+    <set stat="mAtk" order="0x8" val="9"/>
+    <set stat="rCrit" order="0x8" val="12"/>
+    <add stat="accCombat" order="0x10" val="-3"/>
+    <set stat="pAtkSpd" order="0x8" val="433"/>
+    <enchant stat="pAtk" order="0xc" val="0"/>
+    <enchant stat="mAtk" order="0xc" val="0"/>
+   </stats>
+  </weapon>
+  <weapon id="4681" name="Stormbringer - Critical Anger" weaponType="Sword" >
+   <set icon="icon.weapon_stormbringer_i01"/>
+   <set bodyPart="RHAND" grade="C"/>
+   <set crystallizable="true" crystal_count="705" />
+   <set weight="1430" price="2290000"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <skills>
+      <skill id="3026" level="1"/>
+    </skills>
+
+   <stats>
+    <set stat="pAtk" order="0x8" val="107"/>
+    <set stat="mAtk" order="0x8" val="61"/>
+    <set stat="rCrit" order="0x8" val="8"/>
+    <add stat="accCombat" order="0x10" val="0"/>
+    <set stat="pAtkSpd" order="0x8" val="379"/>
+    <enchant stat="pAtk" order="0xc" val="0"/>
+    <enchant stat="mAtk" order="0xc" val="0"/>
+   </stats>
+  </weapon>
+  <weapon id="4682" name="Stormbringer - Focus" weaponType="Sword" >
+   <set icon="icon.weapon_stormbringer_i01"/>
+   <set bodyPart="RHAND" grade="C"/>
+   <set crystallizable="true" crystal_count="705" />
+   <set weight="1430" price="2290000"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <skills>
+      <skill id="3010" level="1"/>
+    </skills>
+
+   <stats>
+    <set stat="pAtk" order="0x8" val="107"/>
+    <set stat="mAtk" order="0x8" val="61"/>
+    <set stat="rCrit" order="0x8" val="8"/>
+    <add stat="accCombat" order="0x10" val="0"/>
+    <set stat="pAtkSpd" order="0x8" val="379"/>
+    <enchant stat="pAtk" order="0xc" val="0"/>
+    <enchant stat="mAtk" order="0xc" val="0"/>
+   </stats>
+  </weapon>
+  <weapon id="4683" name="Stormbringer - Light" weaponType="Sword" >
+   <set icon="icon.weapon_stormbringer_i01"/>
+   <set bodyPart="RHAND" grade="C"/>
+   <set crystallizable="true" crystal_count="705" />
+   <set weight="430" price="2290000"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <skills>
+      <skill id="3498" level="1"/>
+    </skills>
+
+   <stats>
+    <set stat="pAtk" order="0x8" val="107"/>
+    <set stat="mAtk" order="0x8" val="61"/>
+    <set stat="rCrit" order="0x8" val="8"/>
+    <add stat="accCombat" order="0x10" val="0"/>
+    <set stat="pAtkSpd" order="0x8" val="379"/>
+    <enchant stat="pAtk" order="0xc" val="0"/>
+    <enchant stat="mAtk" order="0xc" val="0"/>
+   </stats>
+  </weapon>
+  <weapon id="4684" name="Shamshir - Guidance" weaponType="Sword" >
+   <set icon="icon.weapon_shamshir_i01"/>
+   <set bodyPart="RHAND" grade="C"/>
+   <set crystallizable="true" crystal_count="884" />
+   <set weight="1420" price="2870000"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <skills>
+      <skill id="3007" level="2"/>
+    </skills>
+
+   <stats>
+    <set stat="pAtk" order="0x8" val="122"/>
+    <set stat="mAtk" order="0x8" val="68"/>
+    <set stat="rCrit" order="0x8" val="8"/>
+    <add stat="accCombat" order="0x10" val="0"/>
+    <set stat="pAtkSpd" order="0x8" val="379"/>
+    <enchant stat="pAtk" order="0xc" val="0"/>
+    <enchant stat="mAtk" order="0xc" val="0"/>
+   </stats>
+  </weapon>
+  <weapon id="4685" name="Shamshir - Back Blow" weaponType="Sword" >
+   <set icon="icon.weapon_shamshir_i01"/>
+   <set bodyPart="RHAND" grade="C"/>
+   <set crystallizable="true" crystal_count="884" />
+   <set weight="1420" price="2870000"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <skills>
+      <skill id="3018" level="2"/>
+    </skills>
+
+   <stats>
+    <set stat="pAtk" order="0x8" val="122"/>
+    <set stat="mAtk" order="0x8" val="68"/>
+    <set stat="rCrit" order="0x8" val="8"/>
+    <add stat="accCombat" order="0x10" val="0"/>
+    <set stat="pAtkSpd" order="0x8" val="379"/>
+    <enchant stat="pAtk" order="0xc" val="0"/>
+    <enchant stat="mAtk" order="0xc" val="0"/>
+   </stats>
+  </weapon>
+  <weapon id="4686" name="Shamshir - Rsk. Evasion" weaponType="Sword" >
+   <set icon="icon.weapon_shamshir_i01"/>
+   <set bodyPart="RHAND" grade="C"/>
+   <set crystallizable="true" crystal_count="884" />
+   <set weight="1420" price="2870000"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <skills>
+      <skill id="3028" level="5"/>
+    </skills>
+
+   <stats>
+    <set stat="pAtk" order="0x8" val="122"/>
+    <set stat="mAtk" order="0x8" val="68"/>
+    <set stat="rCrit" order="0x8" val="8"/>
+    <add stat="accCombat" order="0x10" val="0"/>
+    <set stat="pAtkSpd" order="0x8" val="379"/>
+    <enchant stat="pAtk" order="0xc" val="0"/>
+    <enchant stat="mAtk" order="0xc" val="0"/>
+   </stats>
+  </weapon>
+  <weapon id="4687" name="Katana - Focus" weaponType="Sword" >
+   <set icon="icon.weapon_katana_i01"/>
+   <set bodyPart="RHAND" grade="C"/>
+   <set crystallizable="true" crystal_count="884" />
+   <set weight="1420" price="2870000"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <skills>
+      <skill id="3010" level="2"/>
+    </skills>
+
+   <stats>
+    <set stat="pAtk" order="0x8" val="122"/>
+    <set stat="mAtk" order="0x8" val="68"/>
+    <set stat="rCrit" order="0x8" val="8"/>
+    <add stat="accCombat" order="0x10" val="0"/>
+    <set stat="pAtkSpd" order="0x8" val="379"/>
+    <enchant stat="pAtk" order="0xc" val="0"/>
+    <enchant stat="mAtk" order="0xc" val="0"/>
+   </stats>
+  </weapon>
+  <weapon id="4688" name="Katana - Critical Damage" weaponType="Sword" >
+   <set icon="icon.weapon_katana_i01"/>
+   <set bodyPart="RHAND" grade="C"/>
+   <set crystallizable="true" crystal_count="884" />
+   <set weight="1420" price="2870000"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <skills>
+      <skill id="3023" level="2"/>
+    </skills>
+
+   <stats>
+    <set stat="pAtk" order="0x8" val="122"/>
+    <set stat="mAtk" order="0x8" val="68"/>
+    <set stat="rCrit" order="0x8" val="8"/>
+    <add stat="accCombat" order="0x10" val="0"/>
+    <set stat="pAtkSpd" order="0x8" val="379"/>
+    <enchant stat="pAtk" order="0xc" val="0"/>
+    <enchant stat="mAtk" order="0xc" val="0"/>
+   </stats>
+  </weapon>
+  <weapon id="4689" name="Katana - Haste" weaponType="Sword" >
+   <set icon="icon.weapon_katana_i01"/>
+   <set bodyPart="RHAND" grade="C"/>
+   <set crystallizable="true" crystal_count="884" />
+   <set weight="1420" price="2870000"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <skills>
+      <skill id="3036" level="2"/>
+    </skills>
+
+   <stats>
+    <set stat="pAtk" order="0x8" val="122"/>
+    <set stat="mAtk" order="0x8" val="68"/>
+    <set stat="rCrit" order="0x8" val="8"/>
+    <add stat="accCombat" order="0x10" val="0"/>
+    <set stat="pAtkSpd" order="0x8" val="379"/>
+    <enchant stat="pAtk" order="0xc" val="0"/>
+    <enchant stat="mAtk" order="0xc" val="0"/>
+   </stats>
+  </weapon>
+  <weapon id="4690" name="Spirit Sword - Critical Damage" weaponType="Sword" >
+   <set icon="icon.weapon_spirits_sword_i01"/>
+   <set bodyPart="RHAND" grade="C"/>
+   <set crystallizable="true" crystal_count="884" />
+   <set weight="1420" price="2870000"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <skills>
+      <skill id="3023" level="2"/>
+    </skills>
+
+   <stats>
+    <set stat="pAtk" order="0x8" val="122"/>
+    <set stat="mAtk" order="0x8" val="68"/>
+    <set stat="rCrit" order="0x8" val="8"/>
+    <add stat="accCombat" order="0x10" val="0"/>
+    <set stat="pAtkSpd" order="0x8" val="379"/>
+    <enchant stat="pAtk" order="0xc" val="0"/>
+    <enchant stat="mAtk" order="0xc" val="0"/>
+   </stats>
+  </weapon>
+  <weapon id="4691" name="Spirit Sword - Critical Poison" weaponType="Sword" >
+   <set icon="icon.weapon_spirits_sword_i01"/>
+   <set bodyPart="RHAND" grade="C"/>
+   <set crystallizable="true" crystal_count="884" />
+   <set weight="1420" price="2870000"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <stats>
+    <set stat="pAtk" order="0x8" val="122"/>
+    <set stat="mAtk" order="0x8" val="68"/>
+    <set stat="rCrit" order="0x8" val="8"/>
+    <add stat="accCombat" order="0x10" val="0"/>
+    <set stat="pAtkSpd" order="0x8" val="379"/>
+    <enchant stat="pAtk" order="0xc" val="0"/>
+    <enchant stat="mAtk" order="0xc" val="0"/>
+   </stats>
+  </weapon>
+  <weapon id="4692" name="Spirit Sword - Haste" weaponType="Sword" >
+   <set icon="icon.weapon_spirits_sword_i01"/>
+   <set bodyPart="RHAND" grade="C"/>
+   <set crystallizable="true" crystal_count="884" />
+   <set weight="1420" price="2870000"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <skills>
+      <skill id="3036" level="2"/>
+    </skills>
+
+   <stats>
+    <set stat="pAtk" order="0x8" val="122"/>
+    <set stat="mAtk" order="0x8" val="68"/>
+    <set stat="rCrit" order="0x8" val="8"/>
+    <add stat="accCombat" order="0x10" val="0"/>
+    <set stat="pAtkSpd" order="0x8" val="379"/>
+    <enchant stat="pAtk" order="0xc" val="0"/>
+    <enchant stat="mAtk" order="0xc" val="0"/>
+   </stats>
+  </weapon>
+  <weapon id="4693" name="Raid Sword - Focus" weaponType="Sword" >
+   <set icon="icon.weapon_raid_sword_i01"/>
+   <set bodyPart="RHAND" grade="C"/>
+   <set crystallizable="true" crystal_count="884" />
+   <set weight="1420" price="2870000"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <skills>
+      <skill id="3010" level="2"/>
+    </skills>
+
+   <stats>
+    <set stat="pAtk" order="0x8" val="122"/>
+    <set stat="mAtk" order="0x8" val="68"/>
+    <set stat="rCrit" order="0x8" val="8"/>
+    <add stat="accCombat" order="0x10" val="0"/>
+    <set stat="pAtkSpd" order="0x8" val="379"/>
+    <enchant stat="pAtk" order="0xc" val="0"/>
+    <enchant stat="mAtk" order="0xc" val="0"/>
+   </stats>
+  </weapon>
+  <weapon id="4694" name="Raid Sword - Critical Drain" weaponType="Sword" >
+   <set icon="icon.weapon_raid_sword_i01"/>
+   <set bodyPart="RHAND" grade="C"/>
+   <set crystallizable="true" crystal_count="884" />
+   <set weight="1420" price="2870000"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <stats>
+    <set stat="pAtk" order="0x8" val="122"/>
+    <set stat="mAtk" order="0x8" val="68"/>
+    <set stat="rCrit" order="0x8" val="8"/>
+    <add stat="accCombat" order="0x10" val="0"/>
+    <set stat="pAtkSpd" order="0x8" val="379"/>
+    <enchant stat="pAtk" order="0xc" val="0"/>
+    <enchant stat="mAtk" order="0xc" val="0"/>
+   </stats>
+  </weapon>
+  <weapon id="4695" name="Raid Sword - Critical Poison" weaponType="Sword" >
+   <set icon="icon.weapon_raid_sword_i01"/>
+   <set bodyPart="RHAND" grade="C"/>
+   <set crystallizable="true" crystal_count="884" />
+   <set weight="1420" price="2870000"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <stats>
+    <set stat="pAtk" order="0x8" val="122"/>
+    <set stat="mAtk" order="0x8" val="68"/>
+    <set stat="rCrit" order="0x8" val="8"/>
+    <add stat="accCombat" order="0x10" val="0"/>
+    <set stat="pAtkSpd" order="0x8" val="379"/>
+    <enchant stat="pAtk" order="0xc" val="0"/>
+    <enchant stat="mAtk" order="0xc" val="0"/>
+   </stats>
+  </weapon>
+  <weapon id="4696" name="Caliburs - Guidance" weaponType="Sword" >
+   <set icon="icon.weapon_caliburs_i01"/>
+   <set bodyPart="RHAND" grade="C"/>
+   <set crystallizable="true" crystal_count="1322" />
+   <set weight="1400" price="4300000"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <skills>
+      <skill id="3007" level="3"/>
+    </skills>
+
+   <stats>
+    <set stat="pAtk" order="0x8" val="139"/>
+    <set stat="mAtk" order="0x8" val="76"/>
+    <set stat="rCrit" order="0x8" val="8"/>
+    <add stat="accCombat" order="0x10" val="0"/>
+    <set stat="pAtkSpd" order="0x8" val="379"/>
+    <enchant stat="pAtk" order="0xc" val="0"/>
+    <enchant stat="mAtk" order="0xc" val="0"/>
+   </stats>
+  </weapon>
+  <weapon id="4697" name="Caliburs - Focus" weaponType="Sword" >
+   <set icon="icon.weapon_caliburs_i01"/>
+   <set bodyPart="RHAND" grade="C"/>
+   <set crystallizable="true" crystal_count="1322" />
+   <set weight="1400" price="4300000"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <skills>
+      <skill id="3010" level="3"/>
+    </skills>
+
+   <stats>
+    <set stat="pAtk" order="0x8" val="139"/>
+    <set stat="mAtk" order="0x8" val="76"/>
+    <set stat="rCrit" order="0x8" val="8"/>
+    <add stat="accCombat" order="0x10" val="0"/>
+    <set stat="pAtkSpd" order="0x8" val="379"/>
+    <enchant stat="pAtk" order="0xc" val="0"/>
+    <enchant stat="mAtk" order="0xc" val="0"/>
+   </stats>
+  </weapon>
+  <weapon id="4698" name="Caliburs - Critical Damage" weaponType="Sword" >
+   <set icon="icon.weapon_caliburs_i01"/>
+   <set bodyPart="RHAND" grade="C"/>
+   <set crystallizable="true" crystal_count="1322" />
+   <set weight="1400" price="4300000"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <skills>
+      <skill id="3023" level="3"/>
+    </skills>
+
+   <stats>
+    <set stat="pAtk" order="0x8" val="139"/>
+    <set stat="mAtk" order="0x8" val="76"/>
+    <set stat="rCrit" order="0x8" val="8"/>
+    <add stat="accCombat" order="0x10" val="0"/>
+    <set stat="pAtkSpd" order="0x8" val="379"/>
+    <enchant stat="pAtk" order="0xc" val="0"/>
+    <enchant stat="mAtk" order="0xc" val="0"/>
+   </stats>
+  </weapon>
+  <weapon id="4699" name="Sword of Delusion - Focus" weaponType="Sword" >
+   <set icon="icon.weapon_sword_of_delusion_i01"/>
+   <set bodyPart="RHAND" grade="C"/>
+   <set crystallizable="true" crystal_count="1322" />
+   <set weight="1400" price="4300000"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <skills>
+      <skill id="3010" level="3"/>
+    </skills>
+
+   <stats>
+    <set stat="pAtk" order="0x8" val="139"/>
+    <set stat="mAtk" order="0x8" val="76"/>
+    <set stat="rCrit" order="0x8" val="8"/>
+    <add stat="accCombat" order="0x10" val="0"/>
+    <set stat="pAtkSpd" order="0x8" val="379"/>
+    <enchant stat="pAtk" order="0xc" val="0"/>
+    <enchant stat="mAtk" order="0xc" val="0"/>
+   </stats>
+  </weapon>
+  <weapon id="4700" name="Sword of Delusion - Health" weaponType="Sword" >
+   <set icon="icon.weapon_sword_of_delusion_i01"/>
+   <set bodyPart="RHAND" grade="C"/>
+   <set crystallizable="true" crystal_count="1322" />
+   <set weight="1400" price="4300000"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <skills>
+      <skill id="3013" level="1"/>
+    </skills>
+
+   <stats>
+    <set stat="pAtk" order="0x8" val="139"/>
+    <set stat="mAtk" order="0x8" val="76"/>
+    <set stat="rCrit" order="0x8" val="8"/>
+    <add stat="accCombat" order="0x10" val="0"/>
+    <set stat="pAtkSpd" order="0x8" val="379"/>
+    <enchant stat="pAtk" order="0xc" val="0"/>
+    <enchant stat="mAtk" order="0xc" val="0"/>
+   </stats>
+  </weapon>
+  <weapon id="4701" name="Sword of Delusion - Rsk. Haste" weaponType="Sword" >
+   <set icon="icon.weapon_sword_of_delusion_i01"/>
+   <set bodyPart="RHAND" grade="C"/>
+   <set crystallizable="true" crystal_count="1322" />
+   <set weight="1400" price="4300000"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <skills>
+      <skill id="3032" level="3"/>
+    </skills>
+
+   <stats>
+    <set stat="pAtk" order="0x8" val="139"/>
+    <set stat="mAtk" order="0x8" val="76"/>
+    <set stat="rCrit" order="0x8" val="8"/>
+    <add stat="accCombat" order="0x10" val="0"/>
+    <set stat="pAtkSpd" order="0x8" val="379"/>
+    <enchant stat="pAtk" order="0xc" val="0"/>
+    <enchant stat="mAtk" order="0xc" val="0"/>
+   </stats>
+  </weapon>
+  <weapon id="4702" name="Tsurugi - Focus" weaponType="Sword" >
+   <set icon="icon.weapon_tsurugi_i01"/>
+   <set bodyPart="RHAND" grade="C"/>
+   <set crystallizable="true" crystal_count="1322" />
+   <set weight="1400" price="4300000"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <skills>
+      <skill id="3010" level="3"/>
+    </skills>
+
+   <stats>
+    <set stat="pAtk" order="0x8" val="139"/>
+    <set stat="mAtk" order="0x8" val="76"/>
+    <set stat="rCrit" order="0x8" val="8"/>
+    <add stat="accCombat" order="0x10" val="0"/>
+    <set stat="pAtkSpd" order="0x8" val="379"/>
+    <enchant stat="pAtk" order="0xc" val="0"/>
+    <enchant stat="mAtk" order="0xc" val="0"/>
+   </stats>
+  </weapon>
+  <weapon id="4703" name="Tsurugi - Critical Damage" weaponType="Sword" >
+   <set icon="icon.weapon_tsurugi_i01"/>
+   <set bodyPart="RHAND" grade="C"/>
+   <set crystallizable="true" crystal_count="1322" />
+   <set weight="1400" price="4300000"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <skills>
+      <skill id="3023" level="3"/>
+    </skills>
+
+   <stats>
+    <set stat="pAtk" order="0x8" val="139"/>
+    <set stat="mAtk" order="0x8" val="76"/>
+    <set stat="rCrit" order="0x8" val="8"/>
+    <add stat="accCombat" order="0x10" val="0"/>
+    <set stat="pAtkSpd" order="0x8" val="379"/>
+    <enchant stat="pAtk" order="0xc" val="0"/>
+    <enchant stat="mAtk" order="0xc" val="0"/>
+   </stats>
+  </weapon>
+  <weapon id="4704" name="Tsurugi - Haste" weaponType="Sword" >
+   <set icon="icon.weapon_tsurugi_i01"/>
+   <set bodyPart="RHAND" grade="C"/>
+   <set crystallizable="true" crystal_count="1322" />
+   <set weight="1400" price="4300000"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <skills>
+      <skill id="3036" level="3"/>
+    </skills>
+
+   <stats>
+    <set stat="pAtk" order="0x8" val="139"/>
+    <set stat="mAtk" order="0x8" val="76"/>
+    <set stat="rCrit" order="0x8" val="8"/>
+    <add stat="accCombat" order="0x10" val="0"/>
+    <set stat="pAtkSpd" order="0x8" val="379"/>
+    <enchant stat="pAtk" order="0xc" val="0"/>
+    <enchant stat="mAtk" order="0xc" val="0"/>
+   </stats>
+  </weapon>
+  <weapon id="4705" name="Sword of Nightmare - Health" weaponType="Sword" >
+   <set icon="icon.weapon_sword_of_nightmare_i01"/>
+   <set bodyPart="RHAND" grade="C"/>
+   <set crystallizable="true" crystal_count="1322" />
+   <set weight="1400" price="4300000"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <skills>
+      <skill id="3013" level="1"/>
+    </skills>
+
+   <stats>
+    <set stat="pAtk" order="0x8" val="139"/>
+    <set stat="mAtk" order="0x8" val="76"/>
+    <set stat="rCrit" order="0x8" val="8"/>
+    <add stat="accCombat" order="0x10" val="0"/>
+    <set stat="pAtkSpd" order="0x8" val="379"/>
+    <enchant stat="pAtk" order="0xc" val="0"/>
+    <enchant stat="mAtk" order="0xc" val="0"/>
+   </stats>
+  </weapon>
+  <weapon id="4706" name="Sword of Nightmare - Focus" weaponType="Sword" >
+   <set icon="icon.weapon_sword_of_nightmare_i01"/>
+   <set bodyPart="RHAND" grade="C"/>
+   <set crystallizable="true" crystal_count="1322" />
+   <set weight="1400" price="4300000"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <skills>
+      <skill id="3010" level="3"/>
+    </skills>
+
+   <stats>
+    <set stat="pAtk" order="0x8" val="139"/>
+    <set stat="mAtk" order="0x8" val="76"/>
+    <set stat="rCrit" order="0x8" val="8"/>
+    <add stat="accCombat" order="0x10" val="0"/>
+    <set stat="pAtkSpd" order="0x8" val="379"/>
+    <enchant stat="pAtk" order="0xc" val="0"/>
+    <enchant stat="mAtk" order="0xc" val="0"/>
+   </stats>
+  </weapon>
+  <weapon id="4707" name="Sword of Nightmare - Light" weaponType="Sword" >
+   <set icon="icon.weapon_sword_of_nightmare_i01"/>
+   <set bodyPart="RHAND" grade="C"/>
+   <set crystallizable="true" crystal_count="1322" />
+   <set weight="1400" price="4300000"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <skills>
+      <skill id="3498" level="1"/>
+    </skills>
+
+   <stats>
+    <set stat="pAtk" order="0x8" val="139"/>
+    <set stat="mAtk" order="0x8" val="76"/>
+    <set stat="rCrit" order="0x8" val="8"/>
+    <add stat="accCombat" order="0x10" val="0"/>
+    <set stat="pAtkSpd" order="0x8" val="379"/>
+    <enchant stat="pAtk" order="0xc" val="0"/>
+    <enchant stat="mAtk" order="0xc" val="0"/>
+   </stats>
+  </weapon>
+  <weapon id="4708" name="Samurai Longsword - Focus" weaponType="Sword" >
+   <set icon="icon.weapon_samurai_longsword_i01"/>
+   <set bodyPart="RHAND" grade="C"/>
+   <set crystallizable="true" crystal_count="1885" />
+   <set weight="1380" price="6130000"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <skills>
+      <skill id="3010" level="4"/>
+    </skills>
+
+   <stats>
+    <set stat="pAtk" order="0x8" val="156"/>
+    <set stat="mAtk" order="0x8" val="83"/>
+    <set stat="rCrit" order="0x8" val="8"/>
+    <add stat="accCombat" order="0x10" val="0"/>
+    <set stat="pAtkSpd" order="0x8" val="379"/>
+    <enchant stat="pAtk" order="0xc" val="0"/>
+    <enchant stat="mAtk" order="0xc" val="0"/>
+   </stats>
+  </weapon>
+  <weapon id="4709" name="Samurai Longsword - Critical Damage" weaponType="Sword" >
+   <set icon="icon.weapon_samurai_longsword_i01"/>
+   <set bodyPart="RHAND" grade="C"/>
+   <set crystallizable="true" crystal_count="1885" />
+   <set weight="1380" price="6130000"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <skills>
+      <skill id="3023" level="4"/>
+    </skills>
+
+   <stats>
+    <set stat="pAtk" order="0x8" val="156"/>
+    <set stat="mAtk" order="0x8" val="83"/>
+    <set stat="rCrit" order="0x8" val="8"/>
+    <add stat="accCombat" order="0x10" val="0"/>
+    <set stat="pAtkSpd" order="0x8" val="379"/>
+    <enchant stat="pAtk" order="0xc" val="0"/>
+    <enchant stat="mAtk" order="0xc" val="0"/>
+   </stats>
+  </weapon>
+  <weapon id="4710" name="Samurai Longsword - Haste" weaponType="Sword" >
+   <set icon="icon.weapon_samurai_longsword_i01"/>
+   <set bodyPart="RHAND" grade="C"/>
+   <set crystallizable="true" crystal_count="1885" />
+   <set weight="1380" price="6130000"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <skills>
+      <skill id="3036" level="4"/>
+    </skills>
+
+   <stats>
+    <set stat="pAtk" order="0x8" val="156"/>
+    <set stat="mAtk" order="0x8" val="83"/>
+    <set stat="rCrit" order="0x8" val="8"/>
+    <add stat="accCombat" order="0x10" val="0"/>
+    <set stat="pAtkSpd" order="0x8" val="379"/>
+    <enchant stat="pAtk" order="0xc" val="0"/>
+    <enchant stat="mAtk" order="0xc" val="0"/>
+   </stats>
+  </weapon>
+  <weapon id="4711" name="Flamberge - Critical Damage" weaponType="BigSword" >
+   <set icon="icon.weapon_flamberge_i01"/>
+   <set bodyPart="LRHAND" grade="C"/>
+   <set crystallizable="true" crystal_count="705" />
+   <set weight="2010" price="2290000"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <skills>
+      <skill id="3023" level="1"/>
+    </skills>
+
+   <stats>
+    <set stat="pAtk" order="0x8" val="130"/>
+    <set stat="mAtk" order="0x8" val="61"/>
+    <set stat="rCrit" order="0x8" val="8"/>
+    <add stat="accCombat" order="0x10" val="0"/>
+    <set stat="pAtkSpd" order="0x8" val="325"/>
+    <enchant stat="pAtk" order="0xc" val="0"/>
+    <enchant stat="mAtk" order="0xc" val="0"/>
+   </stats>
+  </weapon>
+  <weapon id="4712" name="Flamberge - Focus" weaponType="BigSword" >
+   <set icon="icon.weapon_flamberge_i01"/>
+   <set bodyPart="LRHAND" grade="C"/>
+   <set crystallizable="true" crystal_count="705" />
+   <set weight="2010" price="2290000"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <skills>
+      <skill id="3010" level="1"/>
+    </skills>
+
+   <stats>
+    <set stat="pAtk" order="0x8" val="130"/>
+    <set stat="mAtk" order="0x8" val="61"/>
+    <set stat="rCrit" order="0x8" val="8"/>
+    <add stat="accCombat" order="0x10" val="0"/>
+    <set stat="pAtkSpd" order="0x8" val="325"/>
+    <enchant stat="pAtk" order="0xc" val="0"/>
+    <enchant stat="mAtk" order="0xc" val="0"/>
+   </stats>
+  </weapon>
+  <weapon id="4713" name="Flamberge - Light" weaponType="BigSword" >
+   <set icon="icon.weapon_flamberge_i01"/>
+   <set bodyPart="LRHAND" grade="C"/>
+   <set crystallizable="true" crystal_count="705" />
+   <set weight="2010" price="2290000"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <skills>
+      <skill id="3498" level="1"/>
+    </skills>
+
+   <stats>
+    <set stat="pAtk" order="0x8" val="130"/>
+    <set stat="mAtk" order="0x8" val="61"/>
+    <set stat="rCrit" order="0x8" val="8"/>
+    <add stat="accCombat" order="0x10" val="0"/>
+    <set stat="pAtkSpd" order="0x8" val="325"/>
+    <enchant stat="pAtk" order="0xc" val="0"/>
+    <enchant stat="mAtk" order="0xc" val="0"/>
+   </stats>
+  </weapon>
+  <weapon id="4714" name="Keshanberk - Guidance" weaponType="Sword" >
+   <set icon="icon.weapon_kshanberk_i01"/>
+   <set bodyPart="RHAND" grade="B"/>
+   <set crystallizable="true" crystal_count="891" />
+   <set weight="1370" price="8680000"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <skills>
+      <skill id="3007" level="5"/>
+    </skills>
+
+   <stats>
+    <set stat="pAtk" order="0x8" val="175"/>
+    <set stat="mAtk" order="0x8" val="91"/>
+    <set stat="rCrit" order="0x8" val="8"/>
+    <add stat="accCombat" order="0x10" val="0"/>
+    <set stat="pAtkSpd" order="0x8" val="379"/>
+    <enchant stat="pAtk" order="0xc" val="0"/>
+    <enchant stat="mAtk" order="0xc" val="0"/>
+   </stats>
+  </weapon>
+  <weapon id="4715" name="Keshanberk - Focus" weaponType="Sword" >
+   <set icon="icon.weapon_kshanberk_i01"/>
+   <set bodyPart="RHAND" grade="B"/>
+   <set crystallizable="true" crystal_count="891" />
+   <set weight="1370" price="8680000"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <skills>
+      <skill id="3010" level="5"/>
+    </skills>
+
+   <stats>
+    <set stat="pAtk" order="0x8" val="175"/>
+    <set stat="mAtk" order="0x8" val="91"/>
+    <set stat="rCrit" order="0x8" val="8"/>
+    <add stat="accCombat" order="0x10" val="0"/>
+    <set stat="pAtkSpd" order="0x8" val="379"/>
+    <enchant stat="pAtk" order="0xc" val="0"/>
+    <enchant stat="mAtk" order="0xc" val="0"/>
+   </stats>
+  </weapon>
+  <weapon id="4716" name="Keshanberk - Back Blow" weaponType="Sword" >
+   <set icon="icon.weapon_kshanberk_i01"/>
+   <set bodyPart="RHAND" grade="B"/>
+   <set crystallizable="true" crystal_count="891" />
+   <set weight="1370" price="8680000"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <skills>
+      <skill id="3018" level="5"/>
+    </skills>
+
+   <stats>
+    <set stat="pAtk" order="0x8" val="175"/>
+    <set stat="mAtk" order="0x8" val="91"/>
+    <set stat="rCrit" order="0x8" val="8"/>
+    <add stat="accCombat" order="0x10" val="0"/>
+    <set stat="pAtkSpd" order="0x8" val="379"/>
+    <enchant stat="pAtk" order="0xc" val="0"/>
+    <enchant stat="mAtk" order="0xc" val="0"/>
+   </stats>
+  </weapon>
+  <weapon id="4717" name="Sword of Damascus - Focus" weaponType="Sword" >
+   <set icon="icon.weapon_sword_of_damascus_i01"/>
+   <set bodyPart="RHAND" grade="B"/>
+   <set crystallizable="true" crystal_count="1346" />
+   <set weight="1350" price="13100000"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <skills>
+      <skill id="3010" level="6"/>
+    </skills>
+
+   <stats>
+    <set stat="pAtk" order="0x8" val="194"/>
+    <set stat="mAtk" order="0x8" val="99"/>
+    <set stat="rCrit" order="0x8" val="8"/>
+    <add stat="accCombat" order="0x10" val="0"/>
+    <set stat="pAtkSpd" order="0x8" val="379"/>
+    <enchant stat="pAtk" order="0xc" val="0"/>
+    <enchant stat="mAtk" order="0xc" val="0"/>
+   </stats>
+  </weapon>
+  <weapon id="4718" name="Sword of Damascus - Critical Damage" weaponType="Sword" >
+   <set icon="icon.weapon_sword_of_damascus_i01"/>
+   <set bodyPart="RHAND" grade="B"/>
+   <set crystallizable="true" crystal_count="1346" />
+   <set weight="1350" price="13100000"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <skills>
+      <skill id="3023" level="6"/>
+    </skills>
+
+   <stats>
+    <set stat="pAtk" order="0x8" val="194"/>
+    <set stat="mAtk" order="0x8" val="99"/>
+    <set stat="rCrit" order="0x8" val="8"/>
+    <add stat="accCombat" order="0x10" val="0"/>
+    <set stat="pAtkSpd" order="0x8" val="379"/>
+    <enchant stat="pAtk" order="0xc" val="0"/>
+    <enchant stat="mAtk" order="0xc" val="0"/>
+   </stats>
+  </weapon>
+  <weapon id="4719" name="Sword of Damascus - Haste" weaponType="Sword" >
+   <set icon="icon.weapon_sword_of_damascus_i01"/>
+   <set bodyPart="RHAND" grade="B"/>
+   <set crystallizable="true" crystal_count="1346" />
+   <set weight="1350" price="13100000"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <skills>
+      <skill id="3036" level="6"/>
+    </skills>
+
+   <stats>
+    <set stat="pAtk" order="0x8" val="194"/>
+    <set stat="mAtk" order="0x8" val="99"/>
+    <set stat="rCrit" order="0x8" val="8"/>
+    <add stat="accCombat" order="0x10" val="0"/>
+    <set stat="pAtkSpd" order="0x8" val="379"/>
+    <enchant stat="pAtk" order="0xc" val="0"/>
+    <enchant stat="mAtk" order="0xc" val="0"/>
+   </stats>
+  </weapon>
+  <weapon id="4720" name="Tallum Blade - Health" weaponType="Sword" >
+   <set icon="icon.weapon_tallum_blade_i01"/>
+   <set bodyPart="RHAND" grade="A"/>
+   <set crystallizable="true" crystal_count="1128" />
+   <set weight="1330" price="18300000"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <skills>
+      <skill id="3013" level="1"/>
+    </skills>
+
+   <stats>
+    <set stat="pAtk" order="0x8" val="213"/>
+    <set stat="mAtk" order="0x8" val="107"/>
+    <set stat="rCrit" order="0x8" val="8"/>
+    <add stat="accCombat" order="0x10" val="0"/>
+    <set stat="pAtkSpd" order="0x8" val="379"/>
+    <enchant stat="pAtk" order="0xc" val="0"/>
+    <enchant stat="mAtk" order="0xc" val="0"/>
+   </stats>
+  </weapon>
+  <weapon id="4721" name="Tallum Blade - Rsk. Evasion" weaponType="Sword" >
+   <set icon="icon.weapon_tallum_blade_i01"/>
+   <set bodyPart="RHAND" grade="A"/>
+   <set crystallizable="true" crystal_count="1128" />
+   <set weight="1330" price="18300000"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <skills>
+      <skill id="3028" level="1"/>
+    </skills>
+
+   <stats>
+    <set stat="pAtk" order="0x8" val="213"/>
+    <set stat="mAtk" order="0x8" val="107"/>
+    <set stat="rCrit" order="0x8" val="8"/>
+    <add stat="accCombat" order="0x10" val="0"/>
+    <set stat="pAtkSpd" order="0x8" val="379"/>
+    <enchant stat="pAtk" order="0xc" val="0"/>
+    <enchant stat="mAtk" order="0xc" val="0"/>
+   </stats>
+  </weapon>
+  <weapon id="4722" name="Tallum Blade - Rsk. Haste" weaponType="Sword" >
+   <set icon="icon.weapon_tallum_blade_i01"/>
+   <set bodyPart="RHAND" grade="A"/>
+   <set crystallizable="true" crystal_count="1128" />
+   <set weight="1330" price="18300000"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <skills>
+      <skill id="3032" level="4"/>
+    </skills>
+
+   <stats>
+    <set stat="pAtk" order="0x8" val="213"/>
+    <set stat="mAtk" order="0x8" val="107"/>
+    <set stat="rCrit" order="0x8" val="8"/>
+    <add stat="accCombat" order="0x10" val="0"/>
+    <set stat="pAtkSpd" order="0x8" val="379"/>
+    <enchant stat="pAtk" order="0xc" val="0"/>
+    <enchant stat="mAtk" order="0xc" val="0"/>
+   </stats>
+  </weapon>
+  <weapon id="4723" name="Great Sword - Health" weaponType="BigSword" >
+   <set icon="icon.weapon_great_sword_i01"/>
+   <set bodyPart="LRHAND" grade="B"/>
+   <set crystallizable="true" crystal_count="891" />
+   <set weight="1930" price="8680000"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <skills>
+      <skill id="3013" level="1"/>
+    </skills>
+
+   <stats>
+    <set stat="pAtk" order="0x8" val="213"/>
+    <set stat="mAtk" order="0x8" val="91"/>
+    <set stat="rCrit" order="0x8" val="8"/>
+    <add stat="accCombat" order="0x10" val="0"/>
+    <set stat="pAtkSpd" order="0x8" val="325"/>
+    <enchant stat="pAtk" order="0xc" val="0"/>
+    <enchant stat="mAtk" order="0xc" val="0"/>
+   </stats>
+  </weapon>
+  <weapon id="4724" name="Great Sword - Critical Damage" weaponType="BigSword" >
+   <set icon="icon.weapon_great_sword_i01"/>
+   <set bodyPart="LRHAND" grade="B"/>
+   <set crystallizable="true" crystal_count="891" />
+   <set weight="1930" price="8680000"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <skills>
+      <skill id="3023" level="5"/>
+    </skills>
+
+   <stats>
+    <set stat="pAtk" order="0x8" val="213"/>
+    <set stat="mAtk" order="0x8" val="91"/>
+    <set stat="rCrit" order="0x8" val="8"/>
+    <add stat="accCombat" order="0x10" val="0"/>
+    <set stat="pAtkSpd" order="0x8" val="325"/>
+    <enchant stat="pAtk" order="0xc" val="0"/>
+    <enchant stat="mAtk" order="0xc" val="0"/>
+   </stats>
+  </weapon>
+  <weapon id="4725" name="Great Sword - Focus" weaponType="BigSword" >
+   <set icon="icon.weapon_great_sword_i01"/>
+   <set bodyPart="LRHAND" grade="B"/>
+   <set crystallizable="true" crystal_count="891" />
+   <set weight="1930" price="8680000"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <skills>
+      <skill id="3010" level="5"/>
+    </skills>
+
+   <stats>
+    <set stat="pAtk" order="0x8" val="213"/>
+    <set stat="mAtk" order="0x8" val="91"/>
+    <set stat="rCrit" order="0x8" val="8"/>
+    <add stat="accCombat" order="0x10" val="0"/>
+    <set stat="pAtkSpd" order="0x8" val="325"/>
+    <enchant stat="pAtk" order="0xc" val="0"/>
+    <enchant stat="mAtk" order="0xc" val="0"/>
+   </stats>
+  </weapon>
+  <weapon id="4726" name="Big Hammer - Health" weaponType="Blunt" >
+   <set icon="icon.weapon_big_hammer_i01"/>
+   <set bodyPart="RHAND" grade="C"/>
+   <set crystallizable="true" crystal_count="705" />
+   <set weight="1710" price="2290000"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <skills>
+      <skill id="3013" level="1"/>
+    </skills>
+
+   <stats>
+    <set stat="pAtk" order="0x8" val="107"/>
+    <set stat="mAtk" order="0x8" val="61"/>
+    <set stat="rCrit" order="0x8" val="4"/>
+    <add stat="accCombat" order="0x10" val="4"/>
+    <set stat="pAtkSpd" order="0x8" val="379"/>
+    <enchant stat="pAtk" order="0xc" val="0"/>
+    <enchant stat="mAtk" order="0xc" val="0"/>
+   </stats>
+  </weapon>
+  <weapon id="4727" name="Big Hammer - Rsk.Focus" weaponType="Blunt" >
+   <set icon="icon.weapon_big_hammer_i01"/>
+   <set bodyPart="RHAND" grade="C"/>
+   <set crystallizable="true" crystal_count="705" />
+   <set weight="1710" price="2290000"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <skills>
+      <skill id="3027" level="1"/>
+    </skills>
+
+   <stats>
+    <set stat="pAtk" order="0x8" val="107"/>
+    <set stat="mAtk" order="0x8" val="61"/>
+    <set stat="rCrit" order="0x8" val="4"/>
+    <add stat="accCombat" order="0x10" val="4"/>
+    <set stat="pAtkSpd" order="0x8" val="379"/>
+    <enchant stat="pAtk" order="0xc" val="0"/>
+    <enchant stat="mAtk" order="0xc" val="0"/>
+   </stats>
+  </weapon>
+  <weapon id="4728" name="Big Hammer - Haste" weaponType="Blunt" >
+   <set icon="icon.weapon_big_hammer_i01"/>
+   <set bodyPart="RHAND" grade="C"/>
+   <set crystallizable="true" crystal_count="705" />
+   <set weight="1710" price="2290000"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <skills>
+      <skill id="3036" level="1"/>
+    </skills>
+
+   <stats>
+    <set stat="pAtk" order="0x8" val="107"/>
+    <set stat="mAtk" order="0x8" val="61"/>
+    <set stat="rCrit" order="0x8" val="4"/>
+    <add stat="accCombat" order="0x10" val="4"/>
+    <set stat="pAtkSpd" order="0x8" val="379"/>
+    <enchant stat="pAtk" order="0xc" val="0"/>
+    <enchant stat="mAtk" order="0xc" val="0"/>
+   </stats>
+  </weapon>
+  <weapon id="4729" name="Battle Axe - Anger" weaponType="Blunt" >
+   <set icon="icon.weapon_battle_axe_i01"/>
+   <set bodyPart="RHAND" grade="C"/>
+   <set crystallizable="true" crystal_count="705" />
+   <set weight="1720" price="2290000"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <skills>
+      <skill id="3012" level="1"/>
+    </skills>
+
+   <stats>
+    <set stat="pAtk" order="0x8" val="107"/>
+    <set stat="mAtk" order="0x8" val="61"/>
+    <set stat="rCrit" order="0x8" val="4"/>
+    <add stat="accCombat" order="0x10" val="4"/>
+    <set stat="pAtkSpd" order="0x8" val="379"/>
+    <enchant stat="pAtk" order="0xc" val="0"/>
+    <enchant stat="mAtk" order="0xc" val="0"/>
+   </stats>
+  </weapon>
+  <weapon id="4730" name="Battle Axe - Rsk.Focus" weaponType="Blunt" >
+   <set icon="icon.weapon_battle_axe_i01"/>
+   <set bodyPart="RHAND" grade="C"/>
+   <set crystallizable="true" crystal_count="705" />
+   <set weight="1720" price="2290000"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <skills>
+      <skill id="3027" level="1"/>
+    </skills>
+
+   <stats>
+    <set stat="pAtk" order="0x8" val="107"/>
+    <set stat="mAtk" order="0x8" val="61"/>
+    <set stat="rCrit" order="0x8" val="4"/>
+    <add stat="accCombat" order="0x10" val="4"/>
+    <set stat="pAtkSpd" order="0x8" val="379"/>
+    <enchant stat="pAtk" order="0xc" val="0"/>
+    <enchant stat="mAtk" order="0xc" val="0"/>
+   </stats>
+  </weapon>
+  <weapon id="4731" name="Battle Axe - Haste" weaponType="Blunt" >
+   <set icon="icon.weapon_battle_axe_i01"/>
+   <set bodyPart="RHAND" grade="C"/>
+   <set crystallizable="true" crystal_count="705" />
+   <set weight="1720" price="2290000"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <skills>
+      <skill id="3036" level="1"/>
+    </skills>
+
+   <stats>
+    <set stat="pAtk" order="0x8" val="107"/>
+    <set stat="mAtk" order="0x8" val="61"/>
+    <set stat="rCrit" order="0x8" val="4"/>
+    <add stat="accCombat" order="0x10" val="4"/>
+    <set stat="pAtkSpd" order="0x8" val="379"/>
+    <enchant stat="pAtk" order="0xc" val="0"/>
+    <enchant stat="mAtk" order="0xc" val="0"/>
+   </stats>
+  </weapon>
+  <weapon id="4732" name="Silver Axe - Anger" weaponType="Blunt" >
+   <set icon="icon.weapon_war_pick_i01"/>
+   <set bodyPart="RHAND" grade="C"/>
+   <set crystallizable="true" crystal_count="705" />
+   <set weight="1690" price="2290000"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <skills>
+      <skill id="3012" level="1"/>
+    </skills>
+
+   <stats>
+    <set stat="pAtk" order="0x8" val="107"/>
+    <set stat="mAtk" order="0x8" val="61"/>
+    <set stat="rCrit" order="0x8" val="4"/>
+    <add stat="accCombat" order="0x10" val="4"/>
+    <set stat="pAtkSpd" order="0x8" val="379"/>
+    <enchant stat="pAtk" order="0xc" val="0"/>
+    <enchant stat="mAtk" order="0xc" val="0"/>
+   </stats>
+  </weapon>
+  <weapon id="4733" name="Silver Axe - Rsk.Focus" weaponType="Blunt" >
+   <set icon="icon.weapon_war_pick_i01"/>
+   <set bodyPart="RHAND" grade="C"/>
+   <set crystallizable="true" crystal_count="705" />
+   <set weight="1690" price="2290000"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <skills>
+      <skill id="3027" level="1"/>
+    </skills>
+
+   <stats>
+    <set stat="pAtk" order="0x8" val="107"/>
+    <set stat="mAtk" order="0x8" val="61"/>
+    <set stat="rCrit" order="0x8" val="4"/>
+    <add stat="accCombat" order="0x10" val="4"/>
+    <set stat="pAtkSpd" order="0x8" val="379"/>
+    <enchant stat="pAtk" order="0xc" val="0"/>
+    <enchant stat="mAtk" order="0xc" val="0"/>
+   </stats>
+  </weapon>
+  <weapon id="4734" name="Silver Axe - Haste" weaponType="Blunt" >
+   <set icon="icon.weapon_war_pick_i01"/>
+   <set bodyPart="RHAND" grade="C"/>
+   <set crystallizable="true" crystal_count="705" />
+   <set weight="1690" price="2290000"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <skills>
+      <skill id="3036" level="1"/>
+    </skills>
+
+   <stats>
+    <set stat="pAtk" order="0x8" val="107"/>
+    <set stat="mAtk" order="0x8" val="61"/>
+    <set stat="rCrit" order="0x8" val="4"/>
+    <add stat="accCombat" order="0x10" val="4"/>
+    <set stat="pAtkSpd" order="0x8" val="379"/>
+    <enchant stat="pAtk" order="0xc" val="0"/>
+    <enchant stat="mAtk" order="0xc" val="0"/>
+   </stats>
+  </weapon>
+  <weapon id="4735" name="Skull Graver - Anger" weaponType="Blunt" >
+   <set icon="icon.weapon_skull_graver_i01"/>
+   <set bodyPart="RHAND" grade="C"/>
+   <set crystallizable="true" crystal_count="705" />
+   <set weight="1640" price="2290000"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <skills>
+      <skill id="3012" level="1"/>
+    </skills>
+
+   <stats>
+    <set stat="pAtk" order="0x8" val="107"/>
+    <set stat="mAtk" order="0x8" val="61"/>
+    <set stat="rCrit" order="0x8" val="4"/>
+    <add stat="accCombat" order="0x10" val="4"/>
+    <set stat="pAtkSpd" order="0x8" val="379"/>
+    <enchant stat="pAtk" order="0xc" val="0"/>
+    <enchant stat="mAtk" order="0xc" val="0"/>
+   </stats>
+  </weapon>
+  <weapon id="4736" name="Skull Graver - Health" weaponType="Blunt" >
+   <set icon="icon.weapon_skull_graver_i01"/>
+   <set bodyPart="RHAND" grade="C"/>
+   <set crystallizable="true" crystal_count="705" />
+   <set weight="1640" price="2290000"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <skills>
+      <skill id="3013" level="1"/>
+    </skills>
+
+   <stats>
+    <set stat="pAtk" order="0x8" val="107"/>
+    <set stat="mAtk" order="0x8" val="61"/>
+    <set stat="rCrit" order="0x8" val="4"/>
+    <add stat="accCombat" order="0x10" val="4"/>
+    <set stat="pAtkSpd" order="0x8" val="379"/>
+    <enchant stat="pAtk" order="0xc" val="0"/>
+    <enchant stat="mAtk" order="0xc" val="0"/>
+   </stats>
+  </weapon>
+  <weapon id="4737" name="Skull Graver - Rsk.Focus" weaponType="Blunt" >
+   <set icon="icon.weapon_skull_graver_i01"/>
+   <set bodyPart="RHAND" grade="C"/>
+   <set crystallizable="true" crystal_count="705" />
+   <set weight="1640" price="2290000"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <skills>
+      <skill id="3027" level="1"/>
+    </skills>
+
+   <stats>
+    <set stat="pAtk" order="0x8" val="107"/>
+    <set stat="mAtk" order="0x8" val="61"/>
+    <set stat="rCrit" order="0x8" val="4"/>
+    <add stat="accCombat" order="0x10" val="4"/>
+    <set stat="pAtkSpd" order="0x8" val="379"/>
+    <enchant stat="pAtk" order="0xc" val="0"/>
+    <enchant stat="mAtk" order="0xc" val="0"/>
+   </stats>
+  </weapon>
+  <weapon id="4738" name="Dwarven War Hammer - Anger" weaponType="Blunt" >
+   <set icon="icon.weapon_dwarven_warhammer_i01"/>
+   <set bodyPart="RHAND" grade="C"/>
+   <set crystallizable="true" crystal_count="884" />
+   <set weight="1670" price="2870000"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <skills>
+      <skill id="3012" level="2"/>
+    </skills>
+
+   <stats>
+    <set stat="pAtk" order="0x8" val="122"/>
+    <set stat="mAtk" order="0x8" val="68"/>
+    <set stat="rCrit" order="0x8" val="4"/>
+    <add stat="accCombat" order="0x10" val="4"/>
+    <set stat="pAtkSpd" order="0x8" val="379"/>
+    <enchant stat="pAtk" order="0xc" val="0"/>
+    <enchant stat="mAtk" order="0xc" val="0"/>
+   </stats>
+  </weapon>
+  <weapon id="4739" name="Dwarven War Hammer - Health" weaponType="Blunt" >
+   <set icon="icon.weapon_dwarven_warhammer_i01"/>
+   <set bodyPart="RHAND" grade="C"/>
+   <set crystallizable="true" crystal_count="884" />
+   <set weight="1670" price="2870000"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <skills>
+      <skill id="3013" level="1"/>
+    </skills>
+
+   <stats>
+    <set stat="pAtk" order="0x8" val="122"/>
+    <set stat="mAtk" order="0x8" val="68"/>
+    <set stat="rCrit" order="0x8" val="4"/>
+    <add stat="accCombat" order="0x10" val="4"/>
+    <set stat="pAtkSpd" order="0x8" val="379"/>
+    <enchant stat="pAtk" order="0xc" val="0"/>
+    <enchant stat="mAtk" order="0xc" val="0"/>
+   </stats>
+  </weapon>
+  <weapon id="4740" name="Dwarven War Hammer - Haste" weaponType="Blunt" >
+   <set icon="icon.weapon_dwarven_warhammer_i01"/>
+   <set bodyPart="RHAND" grade="C"/>
+   <set crystallizable="true" crystal_count="884" />
+   <set weight="1670" price="2870000"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <skills>
+      <skill id="3036" level="2"/>
+    </skills>
+
+   <stats>
+    <set stat="pAtk" order="0x8" val="122"/>
+    <set stat="mAtk" order="0x8" val="68"/>
+    <set stat="rCrit" order="0x8" val="4"/>
+    <add stat="accCombat" order="0x10" val="4"/>
+    <set stat="pAtkSpd" order="0x8" val="379"/>
+    <enchant stat="pAtk" order="0xc" val="0"/>
+    <enchant stat="mAtk" order="0xc" val="0"/>
+   </stats>
+  </weapon>
+  <weapon id="4741" name="War Axe - Anger" weaponType="Blunt" >
+   <set icon="icon.weapon_war_axe_i01"/>
+   <set bodyPart="RHAND" grade="C"/>
+   <set crystallizable="true" crystal_count="1322" />
+   <set weight="1660" price="4300000"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <skills>
+      <skill id="3012" level="3"/>
+    </skills>
+
+   <stats>
+    <set stat="pAtk" order="0x8" val="139"/>
+    <set stat="mAtk" order="0x8" val="76"/>
+    <set stat="rCrit" order="0x8" val="4"/>
+    <add stat="accCombat" order="0x10" val="4"/>
+    <set stat="pAtkSpd" order="0x8" val="379"/>
+    <enchant stat="pAtk" order="0xc" val="0"/>
+    <enchant stat="mAtk" order="0xc" val="0"/>
+   </stats>
+  </weapon>
+  <weapon id="4742" name="War Axe - Health" weaponType="Blunt" >
+   <set icon="icon.weapon_war_axe_i01"/>
+   <set bodyPart="RHAND" grade="C"/>
+   <set crystallizable="true" crystal_count="1322" />
+   <set weight="1660" price="4300000"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <skills>
+      <skill id="3013" level="1"/>
+    </skills>
+
+   <stats>
+    <set stat="pAtk" order="0x8" val="139"/>
+    <set stat="mAtk" order="0x8" val="76"/>
+    <set stat="rCrit" order="0x8" val="4"/>
+    <add stat="accCombat" order="0x10" val="4"/>
+    <set stat="pAtkSpd" order="0x8" val="379"/>
+    <enchant stat="pAtk" order="0xc" val="0"/>
+    <enchant stat="mAtk" order="0xc" val="0"/>
+   </stats>
+  </weapon>
+  <weapon id="4743" name="War Axe - Haste" weaponType="Blunt" >
+   <set icon="icon.weapon_war_axe_i01"/>
+   <set bodyPart="RHAND" grade="C"/>
+   <set crystallizable="true" crystal_count="1322" />
+   <set weight="1660" price="4300000"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <skills>
+      <skill id="3036" level="3"/>
+    </skills>
+
+   <stats>
+    <set stat="pAtk" order="0x8" val="139"/>
+    <set stat="mAtk" order="0x8" val="76"/>
+    <set stat="rCrit" order="0x8" val="4"/>
+    <add stat="accCombat" order="0x10" val="4"/>
+    <set stat="pAtkSpd" order="0x8" val="379"/>
+    <enchant stat="pAtk" order="0xc" val="0"/>
+    <enchant stat="mAtk" order="0xc" val="0"/>
+   </stats>
+  </weapon>
+  <weapon id="4744" name="Yaksa Mace - Anger" weaponType="Blunt" >
+   <set icon="icon.weapon_yaksa_mace_i01"/>
+   <set bodyPart="RHAND" grade="C"/>
+   <set crystallizable="true" crystal_count="1885" />
+   <set weight="1640" price="6130000"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <skills>
+      <skill id="3012" level="4"/>
+    </skills>
+
+   <stats>
+    <set stat="pAtk" order="0x8" val="156"/>
+    <set stat="mAtk" order="0x8" val="83"/>
+    <set stat="rCrit" order="0x8" val="4"/>
+    <add stat="accCombat" order="0x10" val="4"/>
+    <set stat="pAtkSpd" order="0x8" val="379"/>
+    <enchant stat="pAtk" order="0xc" val="0"/>
+    <enchant stat="mAtk" order="0xc" val="0"/>
+   </stats>
+  </weapon>
+  <weapon id="4745" name="Yaksa Mace - Health" weaponType="Blunt" >
+   <set icon="icon.weapon_yaksa_mace_i01"/>
+   <set bodyPart="RHAND" grade="C"/>
+   <set crystallizable="true" crystal_count="1885" />
+   <set weight="1640" price="6130000"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <skills>
+      <skill id="3013" level="1"/>
+    </skills>
+
+   <stats>
+    <set stat="pAtk" order="0x8" val="156"/>
+    <set stat="mAtk" order="0x8" val="83"/>
+    <set stat="rCrit" order="0x8" val="4"/>
+    <add stat="accCombat" order="0x10" val="4"/>
+    <set stat="pAtkSpd" order="0x8" val="379"/>
+    <enchant stat="pAtk" order="0xc" val="0"/>
+    <enchant stat="mAtk" order="0xc" val="0"/>
+   </stats>
+  </weapon>
+  <weapon id="4746" name="Yaksa Mace - Rsk. Focus" weaponType="Blunt" >
+   <set icon="icon.weapon_yaksa_mace_i01"/>
+   <set bodyPart="RHAND" grade="C"/>
+   <set crystallizable="true" crystal_count="1885" />
+   <set weight="1640" price="6130000"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <skills>
+      <skill id="3027" level="4"/>
+    </skills>
+
+   <stats>
+    <set stat="pAtk" order="0x8" val="156"/>
+    <set stat="mAtk" order="0x8" val="83"/>
+    <set stat="rCrit" order="0x8" val="4"/>
+    <add stat="accCombat" order="0x10" val="4"/>
+    <set stat="pAtkSpd" order="0x8" val="379"/>
+    <enchant stat="pAtk" order="0xc" val="0"/>
+    <enchant stat="mAtk" order="0xc" val="0"/>
+   </stats>
+  </weapon>
+  <weapon id="4747" name="Heavy War Axe - Anger" weaponType="Blunt" >
+   <set icon="icon.weapon_heavy_war_axe_i01"/>
+   <set bodyPart="RHAND" grade="B"/>
+   <set crystallizable="true" crystal_count="891" />
+   <set weight="1620" price="8680000"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <skills>
+      <skill id="3012" level="5"/>
+    </skills>
+
+   <stats>
+    <set stat="pAtk" order="0x8" val="175"/>
+    <set stat="mAtk" order="0x8" val="91"/>
+    <set stat="rCrit" order="0x8" val="4"/>
+    <add stat="accCombat" order="0x10" val="4"/>
+    <set stat="pAtkSpd" order="0x8" val="379"/>
+    <enchant stat="pAtk" order="0xc" val="0"/>
+    <enchant stat="mAtk" order="0xc" val="0"/>
+   </stats>
+  </weapon>
+  <weapon id="4748" name="Heavy War Axe - Health" weaponType="Blunt" >
+   <set icon="icon.weapon_heavy_war_axe_i01"/>
+   <set bodyPart="RHAND" grade="B"/>
+   <set crystallizable="true" crystal_count="891" />
+   <set weight="1620" price="8680000"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <skills>
+      <skill id="3013" level="1"/>
+    </skills>
+
+   <stats>
+    <set stat="pAtk" order="0x8" val="175"/>
+    <set stat="mAtk" order="0x8" val="91"/>
+    <set stat="rCrit" order="0x8" val="4"/>
+    <add stat="accCombat" order="0x10" val="4"/>
+    <set stat="pAtkSpd" order="0x8" val="379"/>
+    <enchant stat="pAtk" order="0xc" val="0"/>
+    <enchant stat="mAtk" order="0xc" val="0"/>
+   </stats>
+  </weapon>
+  <weapon id="4749" name="Heavy War Axe - Rsk. Focus" weaponType="Blunt" >
+   <set icon="icon.weapon_heavy_war_axe_i01"/>
+   <set bodyPart="RHAND" grade="B"/>
+   <set crystallizable="true" crystal_count="891" />
+   <set weight="1620" price="8680000"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <skills>
+      <skill id="3027" level="5"/>
+    </skills>
+
+   <stats>
+    <set stat="pAtk" order="0x8" val="175"/>
+    <set stat="mAtk" order="0x8" val="91"/>
+    <set stat="rCrit" order="0x8" val="4"/>
+    <add stat="accCombat" order="0x10" val="4"/>
+    <set stat="pAtkSpd" order="0x8" val="379"/>
+    <enchant stat="pAtk" order="0xc" val="0"/>
+    <enchant stat="mAtk" order="0xc" val="0"/>
+   </stats>
+  </weapon>
+  <weapon id="4750" name="Deadman's Glory - Anger" weaponType="Blunt" >
+   <set icon="icon.weapon_deadmans_glory_i01"/>
+   <set bodyPart="RHAND" grade="B"/>
+   <set crystallizable="true" crystal_count="1346" />
+   <set weight="1600" price="13100000"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <skills>
+      <skill id="3012" level="6"/>
+    </skills>
+
+   <stats>
+    <set stat="pAtk" order="0x8" val="194"/>
+    <set stat="mAtk" order="0x8" val="99"/>
+    <set stat="rCrit" order="0x8" val="4"/>
+    <add stat="accCombat" order="0x10" val="4"/>
+    <set stat="pAtkSpd" order="0x8" val="379"/>
+    <enchant stat="pAtk" order="0xc" val="0"/>
+    <enchant stat="mAtk" order="0xc" val="0"/>
+   </stats>
+  </weapon>
+  <weapon id="4751" name="Deadman's Glory - Health" weaponType="Blunt" >
+   <set icon="icon.weapon_deadmans_glory_i01"/>
+   <set bodyPart="RHAND" grade="B"/>
+   <set crystallizable="true" crystal_count="1346" />
+   <set weight="1600" price="13100000"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <skills>
+      <skill id="3013" level="1"/>
+    </skills>
+
+   <stats>
+    <set stat="pAtk" order="0x8" val="194"/>
+    <set stat="mAtk" order="0x8" val="99"/>
+    <set stat="rCrit" order="0x8" val="4"/>
+    <add stat="accCombat" order="0x10" val="4"/>
+    <set stat="pAtkSpd" order="0x8" val="379"/>
+    <enchant stat="pAtk" order="0xc" val="0"/>
+    <enchant stat="mAtk" order="0xc" val="0"/>
+   </stats>
+  </weapon>
+  <weapon id="4752" name="Deadman's Glory - Haste" weaponType="Blunt" >
+   <set icon="icon.weapon_deadmans_glory_i01"/>
+   <set bodyPart="RHAND" grade="B"/>
+   <set crystallizable="true" crystal_count="1346" />
+   <set weight="1600" price="13100000"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <skills>
+      <skill id="3036" level="6"/>
+    </skills>
+
+   <stats>
+    <set stat="pAtk" order="0x8" val="194"/>
+    <set stat="mAtk" order="0x8" val="99"/>
+    <set stat="rCrit" order="0x8" val="4"/>
+    <add stat="accCombat" order="0x10" val="4"/>
+    <set stat="pAtkSpd" order="0x8" val="379"/>
+    <enchant stat="pAtk" order="0xc" val="0"/>
+    <enchant stat="mAtk" order="0xc" val="0"/>
+   </stats>
+  </weapon>
+  <weapon id="4753" name="Art of Battle Axe - Health" weaponType="Blunt" >
+   <set icon="icon.weapon_art_of_battle_axe_i01"/>
+   <set bodyPart="RHAND" grade="B"/>
+   <set crystallizable="true" crystal_count="1346" />
+   <set weight="1570" price="13100000"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <skills>
+      <skill id="3013" level="1"/>
+    </skills>
+
+   <stats>
+    <set stat="pAtk" order="0x8" val="194"/>
+    <set stat="mAtk" order="0x8" val="99"/>
+    <set stat="rCrit" order="0x8" val="4"/>
+    <add stat="accCombat" order="0x10" val="4"/>
+    <set stat="pAtkSpd" order="0x8" val="379"/>
+    <enchant stat="pAtk" order="0xc" val="0"/>
+    <enchant stat="mAtk" order="0xc" val="0"/>
+   </stats>
+  </weapon>
+  <weapon id="4754" name="Art of Battle Axe - Rsk. Focus" weaponType="Blunt" >
+   <set icon="icon.weapon_art_of_battle_axe_i01"/>
+   <set bodyPart="RHAND" grade="B"/>
+   <set crystallizable="true" crystal_count="1346" />
+   <set weight="1570" price="13100000"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <skills>
+      <skill id="3027" level="6"/>
+    </skills>
+
+   <stats>
+    <set stat="pAtk" order="0x8" val="194"/>
+    <set stat="mAtk" order="0x8" val="99"/>
+    <set stat="rCrit" order="0x8" val="4"/>
+    <add stat="accCombat" order="0x10" val="4"/>
+    <set stat="pAtkSpd" order="0x8" val="379"/>
+    <enchant stat="pAtk" order="0xc" val="0"/>
+    <enchant stat="mAtk" order="0xc" val="0"/>
+   </stats>
+  </weapon>
+  <weapon id="4755" name="Art of Battle Axe - Haste" weaponType="Blunt" >
+   <set icon="icon.weapon_art_of_battle_axe_i01"/>
+   <set bodyPart="RHAND" grade="B"/>
+   <set crystallizable="true" crystal_count="1346" />
+   <set weight="1570" price="13100000"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <skills>
+      <skill id="3036" level="6"/>
+    </skills>
+
+   <stats>
+    <set stat="pAtk" order="0x8" val="194"/>
+    <set stat="mAtk" order="0x8" val="99"/>
+    <set stat="rCrit" order="0x8" val="4"/>
+    <add stat="accCombat" order="0x10" val="4"/>
+    <set stat="pAtkSpd" order="0x8" val="379"/>
+    <enchant stat="pAtk" order="0xc" val="0"/>
+    <enchant stat="mAtk" order="0xc" val="0"/>
+   </stats>
+  </weapon>
+  <weapon id="4756" name="Meteor Shower - Health" weaponType="Blunt" >
+   <set icon="icon.weapon_meteor_shower_i01"/>
+   <set bodyPart="RHAND" grade="A"/>
+   <set crystallizable="true" crystal_count="1128" />
+   <set weight="1600" price="18300000"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <skills>
+      <skill id="3013" level="1"/>
+    </skills>
+
+   <stats>
+    <set stat="pAtk" order="0x8" val="213"/>
+    <set stat="mAtk" order="0x8" val="107"/>
+    <set stat="rCrit" order="0x8" val="4"/>
+    <add stat="accCombat" order="0x10" val="4"/>
+    <set stat="pAtkSpd" order="0x8" val="379"/>
+    <enchant stat="pAtk" order="0xc" val="0"/>
+    <enchant stat="mAtk" order="0xc" val="0"/>
+   </stats>
+  </weapon>
+  <weapon id="4757" name="Meteor Shower - Focus" weaponType="Blunt" >
+   <set icon="icon.weapon_meteor_shower_i01"/>
+   <set bodyPart="RHAND" grade="A"/>
+   <set crystallizable="true" crystal_count="1128" />
+   <set weight="1600" price="18300000"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <skills>
+      <skill id="3050" level="1"/>
+    </skills>
+
+   <stats>
+    <set stat="pAtk" order="0x8" val="213"/>
+    <set stat="mAtk" order="0x8" val="107"/>
+    <set stat="rCrit" order="0x8" val="4"/>
+    <add stat="accCombat" order="0x10" val="4"/>
+    <set stat="pAtkSpd" order="0x8" val="379"/>
+    <enchant stat="pAtk" order="0xc" val="0"/>
+    <enchant stat="mAtk" order="0xc" val="0"/>
+   </stats>
+  </weapon>
+  <weapon id="4758" name="Meteor Shower - P.Focus" weaponType="Blunt" >
+   <set icon="icon.weapon_meteor_shower_i01"/>
+   <set bodyPart="RHAND" grade="A"/>
+   <set crystallizable="true" crystal_count="1128" />
+   <set weight="1600" price="18300000"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <skills>
+      <skill id="3010" level="1"/>
+    </skills>
+
+   <stats>
+    <set stat="pAtk" order="0x8" val="213"/>
+    <set stat="mAtk" order="0x8" val="107"/>
+    <set stat="rCrit" order="0x8" val="4"/>
+    <add stat="accCombat" order="0x10" val="4"/>
+    <set stat="pAtkSpd" order="0x8" val="379"/>
+    <enchant stat="pAtk" order="0xc" val="0"/>
+    <enchant stat="mAtk" order="0xc" val="0"/>
+   </stats>
+  </weapon>
+  <weapon id="4759" name="Cursed Dagger - Critical Bleed" weaponType="Dagger" >
+   <set icon="icon.weapon_cursed_dagger_i01"/>
+   <set bodyPart="RHAND" grade="C"/>
+   <set crystallizable="true" crystal_count="705" />
+   <set weight="1040" price="2290000"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <stats>
+    <set stat="pAtk" order="0x8" val="94"/>
+    <set stat="mAtk" order="0x8" val="61"/>
+    <set stat="rCrit" order="0x8" val="12"/>
+    <add stat="accCombat" order="0x10" val="-3"/>
+    <set stat="pAtkSpd" order="0x8" val="433"/>
+    <enchant stat="pAtk" order="0xc" val="0"/>
+    <enchant stat="mAtk" order="0xc" val="0"/>
+   </stats>
+  </weapon>
+  <weapon id="4760" name="Cursed Dagger - Critical Poison" weaponType="Dagger" >
+   <set icon="icon.weapon_cursed_dagger_i01"/>
+   <set bodyPart="RHAND" grade="C"/>
+   <set crystallizable="true" crystal_count="705" />
+   <set weight="1040" price="2290000"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <stats>
+    <set stat="pAtk" order="0x8" val="94"/>
+    <set stat="mAtk" order="0x8" val="61"/>
+    <set stat="rCrit" order="0x8" val="12"/>
+    <add stat="accCombat" order="0x10" val="-3"/>
+    <set stat="pAtkSpd" order="0x8" val="433"/>
+    <enchant stat="pAtk" order="0xc" val="0"/>
+    <enchant stat="mAtk" order="0xc" val="0"/>
+   </stats>
+  </weapon>
+  <weapon id="4761" name="Cursed Dagger - Rsk. Haste" weaponType="Dagger" >
+   <set icon="icon.weapon_cursed_dagger_i01"/>
+   <set bodyPart="RHAND" grade="C"/>
+   <set crystallizable="true" crystal_count="705" />
+   <set weight="1040" price="2290000"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <skills>
+      <skill id="3033" level="1"/>
+    </skills>
+
+   <stats>
+    <set stat="pAtk" order="0x8" val="94"/>
+    <set stat="mAtk" order="0x8" val="61"/>
+    <set stat="rCrit" order="0x8" val="12"/>
+    <add stat="accCombat" order="0x10" val="-3"/>
+    <set stat="pAtkSpd" order="0x8" val="433"/>
+    <enchant stat="pAtk" order="0xc" val="0"/>
+    <enchant stat="mAtk" order="0xc" val="0"/>
+   </stats>
+  </weapon>
+  <weapon id="4762" name="Dark Elven Dagger - Focus" weaponType="Dagger" >
+   <set icon="icon.weapon_darkelven_dagger_i01"/>
+   <set bodyPart="RHAND" grade="C"/>
+   <set crystallizable="true" crystal_count="705" />
+   <set weight="1050" price="2290000"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <skills>
+      <skill id="3011" level="1"/>
+    </skills>
+
+   <stats>
+    <set stat="pAtk" order="0x8" val="94"/>
+    <set stat="mAtk" order="0x8" val="61"/>
+    <set stat="rCrit" order="0x8" val="12"/>
+    <add stat="accCombat" order="0x10" val="-3"/>
+    <set stat="pAtkSpd" order="0x8" val="433"/>
+    <enchant stat="pAtk" order="0xc" val="0"/>
+    <enchant stat="mAtk" order="0xc" val="0"/>
+   </stats>
+  </weapon>
+  <weapon id="4763" name="Dark Elven Dagger - Back Blow" weaponType="Dagger" >
+   <set icon="icon.weapon_darkelven_dagger_i01"/>
+   <set bodyPart="RHAND" grade="C"/>
+   <set crystallizable="true" crystal_count="705" />
+   <set weight="1050" price="2290000"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <skills>
+      <skill id="3019" level="1"/>
+    </skills>
+
+   <stats>
+    <set stat="pAtk" order="0x8" val="94"/>
+    <set stat="mAtk" order="0x8" val="61"/>
+    <set stat="rCrit" order="0x8" val="12"/>
+    <add stat="accCombat" order="0x10" val="-3"/>
+    <set stat="pAtkSpd" order="0x8" val="433"/>
+    <enchant stat="pAtk" order="0xc" val="0"/>
+    <enchant stat="mAtk" order="0xc" val="0"/>
+   </stats>
+  </weapon>
+  <weapon id="4764" name="Dark Elven Dagger - Mortal Strike" weaponType="Dagger" >
+   <set icon="icon.weapon_darkelven_dagger_i01"/>
+   <set bodyPart="RHAND" grade="C"/>
+   <set crystallizable="true" crystal_count="705" />
+   <set weight="1050" price="2290000"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <skills>
+      <skill id="3035" level="1"/>
+    </skills>
+
+   <stats>
+    <set stat="pAtk" order="0x8" val="94"/>
+    <set stat="mAtk" order="0x8" val="61"/>
+    <set stat="rCrit" order="0x8" val="12"/>
+    <add stat="accCombat" order="0x10" val="-3"/>
+    <set stat="pAtkSpd" order="0x8" val="433"/>
+    <enchant stat="pAtk" order="0xc" val="0"/>
+    <enchant stat="mAtk" order="0xc" val="0"/>
+   </stats>
+  </weapon>
+  <weapon id="4765" name="Stiletto - Critical Bleed" weaponType="Dagger" >
+   <set icon="icon.weapon_stiletto_i01"/>
+   <set bodyPart="RHAND" grade="C"/>
+   <set crystallizable="true" crystal_count="884" />
+   <set weight="1030" price="2870000"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <stats>
+    <set stat="pAtk" order="0x8" val="107"/>
+    <set stat="mAtk" order="0x8" val="68"/>
+    <set stat="rCrit" order="0x8" val="12"/>
+    <add stat="accCombat" order="0x10" val="-3"/>
+    <set stat="pAtkSpd" order="0x8" val="433"/>
+    <enchant stat="pAtk" order="0xc" val="0"/>
+    <enchant stat="mAtk" order="0xc" val="0"/>
+   </stats>
+  </weapon>
+  <weapon id="4766" name="Stiletto - Critical Poison" weaponType="Dagger" >
+   <set icon="icon.weapon_stiletto_i01"/>
+   <set bodyPart="RHAND" grade="C"/>
+   <set crystallizable="true" crystal_count="884" />
+   <set weight="1030" price="2870000"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <stats>
+    <set stat="pAtk" order="0x8" val="107"/>
+    <set stat="mAtk" order="0x8" val="68"/>
+    <set stat="rCrit" order="0x8" val="12"/>
+    <add stat="accCombat" order="0x10" val="-3"/>
+    <set stat="pAtkSpd" order="0x8" val="433"/>
+    <enchant stat="pAtk" order="0xc" val="0"/>
+    <enchant stat="mAtk" order="0xc" val="0"/>
+   </stats>
+  </weapon>
+  <weapon id="4767" name="Stiletto - Mortal Strike" weaponType="Dagger" >
+   <set icon="icon.weapon_stiletto_i01"/>
+   <set bodyPart="RHAND" grade="C"/>
+   <set crystallizable="true" crystal_count="884" />
+   <set weight="1030" price="2870000"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <skills>
+      <skill id="3035" level="2"/>
+    </skills>
+
+   <stats>
+    <set stat="pAtk" order="0x8" val="107"/>
+    <set stat="mAtk" order="0x8" val="68"/>
+    <set stat="rCrit" order="0x8" val="12"/>
+    <add stat="accCombat" order="0x10" val="-3"/>
+    <set stat="pAtkSpd" order="0x8" val="433"/>
+    <enchant stat="pAtk" order="0xc" val="0"/>
+    <enchant stat="mAtk" order="0xc" val="0"/>
+   </stats>
+  </weapon>
+  <weapon id="4768" name="Grace Dagger - Evasion" weaponType="Dagger" >
+   <set icon="icon.weapon_grace_dagger_i01"/>
+   <set bodyPart="RHAND" grade="C"/>
+   <set crystallizable="true" crystal_count="1322" />
+   <set weight="1020" price="4300000"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <skills>
+      <skill id="3009" level="3"/>
+    </skills>
+
+   <stats>
+    <set stat="pAtk" order="0x8" val="122"/>
+    <set stat="mAtk" order="0x8" val="76"/>
+    <set stat="rCrit" order="0x8" val="12"/>
+    <add stat="accCombat" order="0x10" val="-3"/>
+    <set stat="pAtkSpd" order="0x8" val="433"/>
+    <enchant stat="pAtk" order="0xc" val="0"/>
+    <enchant stat="mAtk" order="0xc" val="0"/>
+   </stats>
+  </weapon>
+  <weapon id="4769" name="Grace Dagger - Focus" weaponType="Dagger" >
+   <set icon="icon.weapon_grace_dagger_i01"/>
+   <set bodyPart="RHAND" grade="C"/>
+   <set crystallizable="true" crystal_count="1322" />
+   <set weight="1020" price="4300000"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <skills>
+      <skill id="3011" level="3"/>
+    </skills>
+
+   <stats>
+    <set stat="pAtk" order="0x8" val="122"/>
+    <set stat="mAtk" order="0x8" val="76"/>
+    <set stat="rCrit" order="0x8" val="12"/>
+    <add stat="accCombat" order="0x10" val="-3"/>
+    <set stat="pAtkSpd" order="0x8" val="433"/>
+    <enchant stat="pAtk" order="0xc" val="0"/>
+    <enchant stat="mAtk" order="0xc" val="0"/>
+   </stats>
+  </weapon>
+  <weapon id="4770" name="Grace Dagger - Back Blow" weaponType="Dagger" >
+   <set icon="icon.weapon_grace_dagger_i01"/>
+   <set bodyPart="RHAND" grade="C"/>
+   <set crystallizable="true" crystal_count="1322" />
+   <set weight="1020" price="4300000"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <skills>
+      <skill id="3019" level="3"/>
+    </skills>
+
+   <stats>
+    <set stat="pAtk" order="0x8" val="122"/>
+    <set stat="mAtk" order="0x8" val="76"/>
+    <set stat="rCrit" order="0x8" val="12"/>
+    <add stat="accCombat" order="0x10" val="-3"/>
+    <set stat="pAtkSpd" order="0x8" val="433"/>
+    <enchant stat="pAtk" order="0xc" val="0"/>
+    <enchant stat="mAtk" order="0xc" val="0"/>
+   </stats>
+  </weapon>
+  <weapon id="4771" name="Dark Screamer - Evasion" weaponType="Dagger" >
+   <set icon="icon.weapon_dark_screamer_i01"/>
+   <set bodyPart="RHAND" grade="C"/>
+   <set crystallizable="true" crystal_count="1322" />
+   <set weight="1010" price="4300000"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <skills>
+      <skill id="3009" level="3"/>
+    </skills>
+
+   <stats>
+    <set stat="pAtk" order="0x8" val="122"/>
+    <set stat="mAtk" order="0x8" val="76"/>
+    <set stat="rCrit" order="0x8" val="12"/>
+    <add stat="accCombat" order="0x10" val="-3"/>
+    <set stat="pAtkSpd" order="0x8" val="433"/>
+    <enchant stat="pAtk" order="0xc" val="0"/>
+    <enchant stat="mAtk" order="0xc" val="0"/>
+   </stats>
+  </weapon>
+  <weapon id="4772" name="Dark Screamer - Focus" weaponType="Dagger" >
+   <set icon="icon.weapon_dark_screamer_i01"/>
+   <set bodyPart="RHAND" grade="C"/>
+   <set crystallizable="true" crystal_count="1322" />
+   <set weight="1010" price="4300000"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <skills>
+      <skill id="3011" level="3"/>
+    </skills>
+
+   <stats>
+    <set stat="pAtk" order="0x8" val="122"/>
+    <set stat="mAtk" order="0x8" val="76"/>
+    <set stat="rCrit" order="0x8" val="12"/>
+    <add stat="accCombat" order="0x10" val="-3"/>
+    <set stat="pAtkSpd" order="0x8" val="433"/>
+    <enchant stat="pAtk" order="0xc" val="0"/>
+    <enchant stat="mAtk" order="0xc" val="0"/>
+   </stats>
+  </weapon>
+  <weapon id="4773" name="Dark Screamer - Critical Bleed" weaponType="Dagger" >
+   <set icon="icon.weapon_dark_screamer_i01"/>
+   <set bodyPart="RHAND" grade="C"/>
+   <set crystallizable="true" crystal_count="1322" />
+   <set weight="1010" price="4300000"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <stats>
+    <set stat="pAtk" order="0x8" val="122"/>
+    <set stat="mAtk" order="0x8" val="76"/>
+    <set stat="rCrit" order="0x8" val="12"/>
+    <add stat="accCombat" order="0x10" val="-3"/>
+    <set stat="pAtkSpd" order="0x8" val="433"/>
+    <enchant stat="pAtk" order="0xc" val="0"/>
+    <enchant stat="mAtk" order="0xc" val="0"/>
+   </stats>
+  </weapon>
+  <weapon id="4774" name="Crystal Dagger - Critical Bleed" weaponType="Dagger" >
+   <set icon="icon.weapon_crystal_dagger_i01"/>
+   <set bodyPart="RHAND" grade="C"/>
+   <set crystallizable="true" crystal_count="1885" />
+   <set weight="1000" price="6130000"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <stats>
+    <set stat="pAtk" order="0x8" val="136"/>
+    <set stat="mAtk" order="0x8" val="83"/>
+    <set stat="rCrit" order="0x8" val="12"/>
+    <add stat="accCombat" order="0x10" val="-3"/>
+    <set stat="pAtkSpd" order="0x8" val="433"/>
+    <enchant stat="pAtk" order="0xc" val="0"/>
+    <enchant stat="mAtk" order="0xc" val="0"/>
+   </stats>
+  </weapon>
+  <weapon id="4775" name="Crystal Dagger - Critical Poison" weaponType="Dagger" >
+   <set icon="icon.weapon_crystal_dagger_i01"/>
+   <set bodyPart="RHAND" grade="C"/>
+   <set crystallizable="true" crystal_count="1885" />
+   <set weight="1000" price="6130000"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <stats>
+    <set stat="pAtk" order="0x8" val="136"/>
+    <set stat="mAtk" order="0x8" val="83"/>
+    <set stat="rCrit" order="0x8" val="12"/>
+    <add stat="accCombat" order="0x10" val="-3"/>
+    <set stat="pAtkSpd" order="0x8" val="433"/>
+    <enchant stat="pAtk" order="0xc" val="0"/>
+    <enchant stat="mAtk" order="0xc" val="0"/>
+   </stats>
+  </weapon>
+  <weapon id="4776" name="Crystal Dagger - Mortal Strike" weaponType="Dagger" >
+   <set icon="icon.weapon_crystal_dagger_i01"/>
+   <set bodyPart="RHAND" grade="C"/>
+   <set crystallizable="true" crystal_count="1885" />
+   <set weight="1000" price="6130000"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <skills>
+      <skill id="3035" level="4"/>
+    </skills>
+
+   <stats>
+    <set stat="pAtk" order="0x8" val="136"/>
+    <set stat="mAtk" order="0x8" val="83"/>
+    <set stat="rCrit" order="0x8" val="12"/>
+    <add stat="accCombat" order="0x10" val="-3"/>
+    <set stat="pAtkSpd" order="0x8" val="433"/>
+    <enchant stat="pAtk" order="0xc" val="0"/>
+    <enchant stat="mAtk" order="0xc" val="0"/>
+   </stats>
+  </weapon>
+  <weapon id="4777" name="Kris - Evasion" weaponType="Dagger" >
+   <set icon="icon.weapon_kris_i01"/>
+   <set bodyPart="RHAND" grade="B"/>
+   <set crystallizable="true" crystal_count="891" />
+   <set weight="980" price="8680000"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <skills>
+      <skill id="3009" level="5"/>
+    </skills>
+
+   <stats>
+    <set stat="pAtk" order="0x8" val="153"/>
+    <set stat="mAtk" order="0x8" val="91"/>
+    <set stat="rCrit" order="0x8" val="12"/>
+    <add stat="accCombat" order="0x10" val="-3"/>
+    <set stat="pAtkSpd" order="0x8" val="433"/>
+    <enchant stat="pAtk" order="0xc" val="0"/>
+    <enchant stat="mAtk" order="0xc" val="0"/>
+   </stats>
+  </weapon>
+  <weapon id="4778" name="Kris - Focus" weaponType="Dagger" >
+   <set icon="icon.weapon_kris_i01"/>
+   <set bodyPart="RHAND" grade="B"/>
+   <set crystallizable="true" crystal_count="891" />
+   <set weight="980" price="8680000"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <skills>
+      <skill id="3011" level="5"/>
+    </skills>
+
+   <stats>
+    <set stat="pAtk" order="0x8" val="153"/>
+    <set stat="mAtk" order="0x8" val="91"/>
+    <set stat="rCrit" order="0x8" val="12"/>
+    <add stat="accCombat" order="0x10" val="-3"/>
+    <set stat="pAtkSpd" order="0x8" val="433"/>
+    <enchant stat="pAtk" order="0xc" val="0"/>
+    <enchant stat="mAtk" order="0xc" val="0"/>
+   </stats>
+  </weapon>
+  <weapon id="4779" name="Kris - Back Blow" weaponType="Dagger" >
+   <set icon="icon.weapon_kris_i01"/>
+   <set bodyPart="RHAND" grade="B"/>
+   <set crystallizable="true" crystal_count="891" />
+   <set weight="980" price="8680000"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <skills>
+      <skill id="3019" level="5"/>
+    </skills>
+
+   <stats>
+    <set stat="pAtk" order="0x8" val="153"/>
+    <set stat="mAtk" order="0x8" val="91"/>
+    <set stat="rCrit" order="0x8" val="12"/>
+    <add stat="accCombat" order="0x10" val="-3"/>
+    <set stat="pAtkSpd" order="0x8" val="433"/>
+    <enchant stat="pAtk" order="0xc" val="0"/>
+    <enchant stat="mAtk" order="0xc" val="0"/>
+   </stats>
+  </weapon>
+  <weapon id="4780" name="Demon Dagger - Critical Bleed" weaponType="Dagger" >
+   <set icon="icon.weapon_demons_sword_i01"/>
+   <set bodyPart="RHAND" grade="B"/>
+   <set crystallizable="true" crystal_count="1346" />
+   <set weight="970" price="13100000"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <stats>
+    <set stat="pAtk" order="0x8" val="170"/>
+    <set stat="mAtk" order="0x8" val="99"/>
+    <set stat="rCrit" order="0x8" val="12"/>
+    <add stat="accCombat" order="0x10" val="-3"/>
+    <set stat="pAtkSpd" order="0x8" val="433"/>
+    <enchant stat="pAtk" order="0xc" val="0"/>
+    <enchant stat="mAtk" order="0xc" val="0"/>
+   </stats>
+  </weapon>
+  <weapon id="4781" name="Demon Dagger - Critical Poison" weaponType="Dagger" >
+   <set icon="icon.weapon_demons_sword_i01"/>
+   <set bodyPart="RHAND" grade="B"/>
+   <set crystallizable="true" crystal_count="1346" />
+   <set weight="970" price="13100000"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <stats>
+    <set stat="pAtk" order="0x8" val="170"/>
+    <set stat="mAtk" order="0x8" val="99"/>
+    <set stat="rCrit" order="0x8" val="12"/>
+    <add stat="accCombat" order="0x10" val="-3"/>
+    <set stat="pAtkSpd" order="0x8" val="433"/>
+    <enchant stat="pAtk" order="0xc" val="0"/>
+    <enchant stat="mAtk" order="0xc" val="0"/>
+   </stats>
+  </weapon>
+  <weapon id="4782" name="Demon Dagger - Mortal Strike" weaponType="Dagger" >
+   <set icon="icon.weapon_demons_sword_i01"/>
+   <set bodyPart="RHAND" grade="B"/>
+   <set crystallizable="true" crystal_count="1346" />
+   <set weight="970" price="13100000"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <skills>
+      <skill id="3035" level="6"/>
+    </skills>
+
+   <stats>
+    <set stat="pAtk" order="0x8" val="170"/>
+    <set stat="mAtk" order="0x8" val="99"/>
+    <set stat="rCrit" order="0x8" val="12"/>
+    <add stat="accCombat" order="0x10" val="-3"/>
+    <set stat="pAtkSpd" order="0x8" val="433"/>
+    <enchant stat="pAtk" order="0xc" val="0"/>
+    <enchant stat="mAtk" order="0xc" val="0"/>
+   </stats>
+  </weapon>
+  <weapon id="4783" name="Bloody Orchid - Evasion" weaponType="Dagger" >
+   <set icon="icon.weapon_bloody_orchid_i01"/>
+   <set bodyPart="RHAND" grade="A"/>
+   <set crystallizable="true" crystal_count="1128" />
+   <set weight="960" price="18300000"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <skills>
+      <skill id="3009" level="6"/>
+    </skills>
+
+   <stats>
+    <set stat="pAtk" order="0x8" val="186"/>
+    <set stat="mAtk" order="0x8" val="107"/>
+    <set stat="rCrit" order="0x8" val="12"/>
+    <add stat="accCombat" order="0x10" val="-3"/>
+    <set stat="pAtkSpd" order="0x8" val="433"/>
+    <enchant stat="pAtk" order="0xc" val="0"/>
+    <enchant stat="mAtk" order="0xc" val="0"/>
+   </stats>
+  </weapon>
+  <weapon id="4784" name="Bloody Orchid - Focus" weaponType="Dagger" >
+   <set icon="icon.weapon_bloody_orchid_i01"/>
+   <set bodyPart="RHAND" grade="A"/>
+   <set crystallizable="true" crystal_count="1128" />
+   <set weight="960" price="18300000"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <skills>
+      <skill id="3011" level="6"/>
+    </skills>
+
+   <stats>
+    <set stat="pAtk" order="0x8" val="186"/>
+    <set stat="mAtk" order="0x8" val="107"/>
+    <set stat="rCrit" order="0x8" val="12"/>
+    <add stat="accCombat" order="0x10" val="-3"/>
+    <set stat="pAtkSpd" order="0x8" val="433"/>
+    <enchant stat="pAtk" order="0xc" val="0"/>
+    <enchant stat="mAtk" order="0xc" val="0"/>
+   </stats>
+  </weapon>
+  <weapon id="4785" name="Bloody Orchid - Back Blow" weaponType="Dagger" >
+   <set icon="icon.weapon_bloody_orchid_i01"/>
+   <set bodyPart="RHAND" grade="A"/>
+   <set crystallizable="true" crystal_count="1128" />
+   <set weight="960" price="18300000"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <skills>
+      <skill id="3063" level="1"/>
+    </skills>
+
+   <stats>
+    <set stat="pAtk" order="0x8" val="186"/>
+    <set stat="mAtk" order="0x8" val="107"/>
+    <set stat="rCrit" order="0x8" val="12"/>
+    <add stat="accCombat" order="0x10" val="-3"/>
+    <set stat="pAtkSpd" order="0x8" val="433"/>
+    <enchant stat="pAtk" order="0xc" val="0"/>
+    <enchant stat="mAtk" order="0xc" val="0"/>
+   </stats>
+  </weapon>
+  <weapon id="4786" name="Hell Knife - Focus" weaponType="Dagger" >
+   <set icon="icon.weapon_hell_knife_i01"/>
+   <set bodyPart="RHAND" grade="B"/>
+   <set crystallizable="true" crystal_count="891" />
+   <set weight="740" price="8680000"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <skills>
+      <skill id="3011" level="5"/>
+    </skills>
+
+   <stats>
+    <set stat="pAtk" order="0x8" val="122"/>
+    <set stat="mAtk" order="0x8" val="122"/>
+    <set stat="rCrit" order="0x8" val="12"/>
+    <add stat="accCombat" order="0x10" val="-3"/>
+    <set stat="pAtkSpd" order="0x8" val="433"/>
+    <enchant stat="pAtk" order="0xc" val="0"/>
+    <enchant stat="mAtk" order="0xc" val="0"/>
+   </stats>
+  </weapon>
+  <weapon id="4787" name="Hell Knife - Back Blow" weaponType="Dagger" >
+   <set icon="icon.weapon_hell_knife_i01"/>
+   <set bodyPart="RHAND" grade="B"/>
+   <set crystallizable="true" crystal_count="891" />
+   <set weight="740" price="8680000"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <skills>
+      <skill id="3019" level="5"/>
+    </skills>
+
+   <stats>
+    <set stat="pAtk" order="0x8" val="122"/>
+    <set stat="mAtk" order="0x8" val="122"/>
+    <set stat="rCrit" order="0x8" val="12"/>
+    <add stat="accCombat" order="0x10" val="-3"/>
+    <set stat="pAtkSpd" order="0x8" val="433"/>
+    <enchant stat="pAtk" order="0xc" val="0"/>
+    <enchant stat="mAtk" order="0xc" val="0"/>
+   </stats>
+  </weapon>
+  <weapon id="4788" name="Hell Knife - Mortal Strike" weaponType="Dagger" >
+   <set icon="icon.weapon_hell_knife_i01"/>
+   <set bodyPart="RHAND" grade="B"/>
+   <set crystallizable="true" crystal_count="891" />
+   <set weight="740" price="8680000"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <skills>
+      <skill id="3035" level="5"/>
+    </skills>
+
+   <stats>
+    <set stat="pAtk" order="0x8" val="122"/>
+    <set stat="mAtk" order="0x8" val="122"/>
+    <set stat="rCrit" order="0x8" val="12"/>
+    <add stat="accCombat" order="0x10" val="-3"/>
+    <set stat="pAtkSpd" order="0x8" val="433"/>
+    <enchant stat="pAtk" order="0xc" val="0"/>
+    <enchant stat="mAtk" order="0xc" val="0"/>
+   </stats>
+  </weapon>
+  <weapon id="4789" name="Chakram - Critical Drain" weaponType="DualFist" >
+   <set icon="icon.weapon_chakram_i01"/>
+   <set bodyPart="LRHAND" grade="C"/>
+   <set crystallizable="true" crystal_count="705" />
+   <set weight="1490" price="2290000"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <stats>
+    <set stat="pAtk" order="0x8" val="130"/>
+    <set stat="mAtk" order="0x8" val="61"/>
+    <set stat="rCrit" order="0x8" val="4"/>
+    <add stat="accCombat" order="0x10" val="4"/>
+    <set stat="pAtkSpd" order="0x8" val="325"/>
+    <enchant stat="pAtk" order="0xc" val="0"/>
+    <enchant stat="mAtk" order="0xc" val="0"/>
+   </stats>
+  </weapon>
+  <weapon id="4790" name="Chakram - Critical Poison" weaponType="DualFist" >
+   <set icon="icon.weapon_chakram_i01"/>
+   <set bodyPart="LRHAND" grade="C"/>
+   <set crystallizable="true" crystal_count="705" />
+   <set weight="1490" price="2290000"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <stats>
+    <set stat="pAtk" order="0x8" val="130"/>
+    <set stat="mAtk" order="0x8" val="61"/>
+    <set stat="rCrit" order="0x8" val="4"/>
+    <add stat="accCombat" order="0x10" val="4"/>
+    <set stat="pAtkSpd" order="0x8" val="325"/>
+    <enchant stat="pAtk" order="0xc" val="0"/>
+    <enchant stat="mAtk" order="0xc" val="0"/>
+   </stats>
+  </weapon>
+  <weapon id="4791" name="Chakram - Rsk. Haste" weaponType="DualFist" >
+   <set icon="icon.weapon_chakram_i01"/>
+   <set bodyPart="LRHAND" grade="C"/>
+   <set crystallizable="true" crystal_count="705" />
+   <set weight="1490" price="2290000"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <skills>
+      <skill id="3034" level="1"/>
+    </skills>
+
+   <stats>
+    <set stat="pAtk" order="0x8" val="130"/>
+    <set stat="mAtk" order="0x8" val="61"/>
+    <set stat="rCrit" order="0x8" val="4"/>
+    <add stat="accCombat" order="0x10" val="4"/>
+    <set stat="pAtkSpd" order="0x8" val="325"/>
+    <enchant stat="pAtk" order="0xc" val="0"/>
+    <enchant stat="mAtk" order="0xc" val="0"/>
+   </stats>
+  </weapon>
+  <weapon id="4792" name="Fisted Blade - Rsk. Evasion" weaponType="DualFist" >
+   <set icon="icon.weapon_fist_blade_i01"/>
+   <set bodyPart="LRHAND" grade="C"/>
+   <set crystallizable="true" crystal_count="1322" />
+   <set weight="1480" price="4300000"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <skills>
+      <skill id="3030" level="3"/>
+    </skills>
+
+   <stats>
+    <set stat="pAtk" order="0x8" val="169"/>
+    <set stat="mAtk" order="0x8" val="76"/>
+    <set stat="rCrit" order="0x8" val="4"/>
+    <add stat="accCombat" order="0x10" val="4"/>
+    <set stat="pAtkSpd" order="0x8" val="325"/>
+    <enchant stat="pAtk" order="0xc" val="0"/>
+    <enchant stat="mAtk" order="0xc" val="0"/>
+   </stats>
+  </weapon>
+  <weapon id="4793" name="Fisted Blade - Rsk. Haste" weaponType="DualFist" >
+   <set icon="icon.weapon_fist_blade_i01"/>
+   <set bodyPart="LRHAND" grade="C"/>
+   <set crystallizable="true" crystal_count="1322" />
+   <set weight="1480" price="4300000"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <skills>
+      <skill id="3034" level="3"/>
+    </skills>
+
+   <stats>
+    <set stat="pAtk" order="0x8" val="169"/>
+    <set stat="mAtk" order="0x8" val="76"/>
+    <set stat="rCrit" order="0x8" val="4"/>
+    <add stat="accCombat" order="0x10" val="4"/>
+    <set stat="pAtkSpd" order="0x8" val="325"/>
+    <enchant stat="pAtk" order="0xc" val="0"/>
+    <enchant stat="mAtk" order="0xc" val="0"/>
+   </stats>
+  </weapon>
+  <weapon id="4794" name="Fisted Blade - Haste" weaponType="DualFist" >
+   <set icon="icon.weapon_fist_blade_i01"/>
+   <set bodyPart="LRHAND" grade="C"/>
+   <set crystallizable="true" crystal_count="1322" />
+   <set weight="1480" price="4300000"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <skills>
+      <skill id="3037" level="3"/>
+    </skills>
+
+   <stats>
+    <set stat="pAtk" order="0x8" val="169"/>
+    <set stat="mAtk" order="0x8" val="76"/>
+    <set stat="rCrit" order="0x8" val="4"/>
+    <add stat="accCombat" order="0x10" val="4"/>
+    <set stat="pAtkSpd" order="0x8" val="325"/>
+    <enchant stat="pAtk" order="0xc" val="0"/>
+    <enchant stat="mAtk" order="0xc" val="0"/>
+   </stats>
+  </weapon>
+  <weapon id="4795" name="Great Pata - Critical Drain" weaponType="DualFist" >
+   <set icon="icon.weapon_great_pata_i01"/>
+   <set bodyPart="LRHAND" grade="C"/>
+   <set crystallizable="true" crystal_count="1885" />
+   <set weight="1460" price="6130000"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <stats>
+    <set stat="pAtk" order="0x8" val="190"/>
+    <set stat="mAtk" order="0x8" val="83"/>
+    <set stat="rCrit" order="0x8" val="4"/>
+    <add stat="accCombat" order="0x10" val="4"/>
+    <set stat="pAtkSpd" order="0x8" val="325"/>
+    <enchant stat="pAtk" order="0xc" val="0"/>
+    <enchant stat="mAtk" order="0xc" val="0"/>
+   </stats>
+  </weapon>
+  <weapon id="4796" name="Great Pata - Critical Poison" weaponType="DualFist" >
+   <set icon="icon.weapon_great_pata_i01"/>
+   <set bodyPart="LRHAND" grade="C"/>
+   <set crystallizable="true" crystal_count="1885" />
+   <set weight="1460" price="6130000"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <stats>
+    <set stat="pAtk" order="0x8" val="190"/>
+    <set stat="mAtk" order="0x8" val="83"/>
+    <set stat="rCrit" order="0x8" val="4"/>
+    <add stat="accCombat" order="0x10" val="4"/>
+    <set stat="pAtkSpd" order="0x8" val="325"/>
+    <enchant stat="pAtk" order="0xc" val="0"/>
+    <enchant stat="mAtk" order="0xc" val="0"/>
+   </stats>
+  </weapon>
+  <weapon id="4797" name="Great Pata - Rsk. Haste" weaponType="DualFist" >
+   <set icon="icon.weapon_great_pata_i01"/>
+   <set bodyPart="LRHAND" grade="C"/>
+   <set crystallizable="true" crystal_count="1885" />
+   <set weight="1460" price="6130000"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <skills>
+      <skill id="3034" level="4"/>
+    </skills>
+
+   <stats>
+    <set stat="pAtk" order="0x8" val="190"/>
+    <set stat="mAtk" order="0x8" val="83"/>
+    <set stat="rCrit" order="0x8" val="4"/>
+    <add stat="accCombat" order="0x10" val="4"/>
+    <set stat="pAtkSpd" order="0x8" val="325"/>
+    <enchant stat="pAtk" order="0xc" val="0"/>
+    <enchant stat="mAtk" order="0xc" val="0"/>
+   </stats>
+  </weapon>
+  <weapon id="4798" name="Knuckle Duster - Rsk. Evasion" weaponType="DualFist" >
+   <set icon="icon.weapon_knuckle_dust_i01"/>
+   <set bodyPart="LRHAND" grade="C"/>
+   <set crystallizable="true" crystal_count="884" />
+   <set weight="1490" price="2870000"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <skills>
+      <skill id="3030" level="2"/>
+    </skills>
+
+   <stats>
+    <set stat="pAtk" order="0x8" val="148"/>
+    <set stat="mAtk" order="0x8" val="68"/>
+    <set stat="rCrit" order="0x8" val="4"/>
+    <add stat="accCombat" order="0x10" val="4"/>
+    <set stat="pAtkSpd" order="0x8" val="325"/>
+    <enchant stat="pAtk" order="0xc" val="0"/>
+    <enchant stat="mAtk" order="0xc" val="0"/>
+   </stats>
+  </weapon>
+  <weapon id="4799" name="Knuckle Duster - Rsk. Haste" weaponType="DualFist" >
+   <set icon="icon.weapon_knuckle_dust_i01"/>
+   <set bodyPart="LRHAND" grade="C"/>
+   <set crystallizable="true" crystal_count="884" />
+   <set weight="1490" price="2870000"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <skills>
+      <skill id="3034" level="2"/>
+    </skills>
+
+   <stats>
+    <set stat="pAtk" order="0x8" val="148"/>
+    <set stat="mAtk" order="0x8" val="68"/>
+    <set stat="rCrit" order="0x8" val="4"/>
+    <add stat="accCombat" order="0x10" val="4"/>
+    <set stat="pAtkSpd" order="0x8" val="325"/>
+    <enchant stat="pAtk" order="0xc" val="0"/>
+    <enchant stat="mAtk" order="0xc" val="0"/>
+   </stats>
+  </weapon>
+  <weapon id="4800" name="Knuckle Duster - Haste" weaponType="DualFist" >
+   <set icon="icon.weapon_knuckle_dust_i01"/>
+   <set bodyPart="LRHAND" grade="C"/>
+   <set crystallizable="true" crystal_count="884" />
+   <set weight="1490" price="2870000"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <skills>
+      <skill id="3037" level="2"/>
+    </skills>
+
+   <stats>
+    <set stat="pAtk" order="0x8" val="148"/>
+    <set stat="mAtk" order="0x8" val="68"/>
+    <set stat="rCrit" order="0x8" val="4"/>
+    <add stat="accCombat" order="0x10" val="4"/>
+    <set stat="pAtkSpd" order="0x8" val="325"/>
+    <enchant stat="pAtk" order="0xc" val="0"/>
+    <enchant stat="mAtk" order="0xc" val="0"/>
+   </stats>
+  </weapon>
+  <weapon id="4801" name="Arthro Nail - Critical Poison" weaponType="DualFist" >
+   <set icon="icon.weapon_arthro_nail_i01"/>
+   <set bodyPart="LRHAND" grade="B"/>
+   <set crystallizable="true" crystal_count="891" />
+   <set weight="1420" price="8680000"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <stats>
+    <set stat="pAtk" order="0x8" val="213"/>
+    <set stat="mAtk" order="0x8" val="91"/>
+    <set stat="rCrit" order="0x8" val="4"/>
+    <add stat="accCombat" order="0x10" val="4"/>
+    <set stat="pAtkSpd" order="0x8" val="325"/>
+    <enchant stat="pAtk" order="0xc" val="0"/>
+    <enchant stat="mAtk" order="0xc" val="0"/>
+   </stats>
+  </weapon>
+  <weapon id="4802" name="Arthro Nail - Rsk. Evasion" weaponType="DualFist" >
+   <set icon="icon.weapon_arthro_nail_i01"/>
+   <set bodyPart="LRHAND" grade="B"/>
+   <set crystallizable="true" crystal_count="891" />
+   <set weight="1420" price="8680000"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <skills>
+      <skill id="3030" level="5"/>
+    </skills>
+
+   <stats>
+    <set stat="pAtk" order="0x8" val="213"/>
+    <set stat="mAtk" order="0x8" val="91"/>
+    <set stat="rCrit" order="0x8" val="4"/>
+    <add stat="accCombat" order="0x10" val="4"/>
+    <set stat="pAtkSpd" order="0x8" val="325"/>
+    <enchant stat="pAtk" order="0xc" val="0"/>
+    <enchant stat="mAtk" order="0xc" val="0"/>
+   </stats>
+  </weapon>
+  <weapon id="4803" name="Arthro Nail - Rsk. Haste" weaponType="DualFist" >
+   <set icon="icon.weapon_arthro_nail_i01"/>
+   <set bodyPart="LRHAND" grade="B"/>
+   <set crystallizable="true" crystal_count="891" />
+   <set weight="1420" price="8680000"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <skills>
+      <skill id="3034" level="5"/>
+    </skills>
+
+   <stats>
+    <set stat="pAtk" order="0x8" val="213"/>
+    <set stat="mAtk" order="0x8" val="91"/>
+    <set stat="rCrit" order="0x8" val="4"/>
+    <add stat="accCombat" order="0x10" val="4"/>
+    <set stat="pAtkSpd" order="0x8" val="325"/>
+    <enchant stat="pAtk" order="0xc" val="0"/>
+    <enchant stat="mAtk" order="0xc" val="0"/>
+   </stats>
+  </weapon>
+  <weapon id="4804" name="Bellion Cestus - Critical Drain" weaponType="DualFist" >
+   <set icon="icon.weapon_bellion_cestus_i01"/>
+   <set bodyPart="LRHAND" grade="B"/>
+   <set crystallizable="true" crystal_count="1346" />
+   <set weight="1390" price="13100000"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <stats>
+    <set stat="pAtk" order="0x8" val="236"/>
+    <set stat="mAtk" order="0x8" val="99"/>
+    <set stat="rCrit" order="0x8" val="4"/>
+    <add stat="accCombat" order="0x10" val="4"/>
+    <set stat="pAtkSpd" order="0x8" val="325"/>
+    <enchant stat="pAtk" order="0xc" val="0"/>
+    <enchant stat="mAtk" order="0xc" val="0"/>
+   </stats>
+  </weapon>
+  <weapon id="4805" name="Bellion Cestus - Critical Poison" weaponType="DualFist" >
+   <set icon="icon.weapon_bellion_cestus_i01"/>
+   <set bodyPart="LRHAND" grade="B"/>
+   <set crystallizable="true" crystal_count="1346" />
+   <set weight="1390" price="13100000"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <stats>
+    <set stat="pAtk" order="0x8" val="236"/>
+    <set stat="mAtk" order="0x8" val="99"/>
+    <set stat="rCrit" order="0x8" val="4"/>
+    <add stat="accCombat" order="0x10" val="4"/>
+    <set stat="pAtkSpd" order="0x8" val="325"/>
+    <enchant stat="pAtk" order="0xc" val="0"/>
+    <enchant stat="mAtk" order="0xc" val="0"/>
+   </stats>
+  </weapon>
+  <weapon id="4806" name="Bellion Cestus - Rsk. Haste" weaponType="DualFist" >
+   <set icon="icon.weapon_bellion_cestus_i01"/>
+   <set bodyPart="LRHAND" grade="B"/>
+   <set crystallizable="true" crystal_count="1346" />
+   <set weight="1390" price="13100000"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <skills>
+      <skill id="3034" level="6"/>
+    </skills>
+
+   <stats>
+    <set stat="pAtk" order="0x8" val="236"/>
+    <set stat="mAtk" order="0x8" val="99"/>
+    <set stat="rCrit" order="0x8" val="4"/>
+    <add stat="accCombat" order="0x10" val="4"/>
+    <set stat="pAtkSpd" order="0x8" val="325"/>
+    <enchant stat="pAtk" order="0xc" val="0"/>
+    <enchant stat="mAtk" order="0xc" val="0"/>
+   </stats>
+  </weapon>
+  <weapon id="4807" name="Blood Tornado - Critical Drain" weaponType="DualFist" >
+   <set icon="icon.weapon_blood_tornado_i01"/>
+   <set bodyPart="LRHAND" grade="A"/>
+   <set crystallizable="true" crystal_count="1128" />
+   <set weight="1370" price="18300000"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <stats>
+    <set stat="pAtk" order="0x8" val="259"/>
+    <set stat="mAtk" order="0x8" val="107"/>
+    <set stat="rCrit" order="0x8" val="4"/>
+    <add stat="accCombat" order="0x10" val="4"/>
+    <set stat="pAtkSpd" order="0x8" val="325"/>
+    <enchant stat="pAtk" order="0xc" val="0"/>
+    <enchant stat="mAtk" order="0xc" val="0"/>
+   </stats>
+  </weapon>
+  <weapon id="4808" name="Blood Tornado - Rsk. Evasion" weaponType="DualFist" >
+   <set icon="icon.weapon_blood_tornado_i01"/>
+   <set bodyPart="LRHAND" grade="A"/>
+   <set crystallizable="true" crystal_count="1128" />
+   <set weight="1370" price="18300000"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <skills>
+      <skill id="3030" level="1"/>
+    </skills>
+
+   <stats>
+    <set stat="pAtk" order="0x8" val="259"/>
+    <set stat="mAtk" order="0x8" val="107"/>
+    <set stat="rCrit" order="0x8" val="4"/>
+    <add stat="accCombat" order="0x10" val="4"/>
+    <set stat="pAtkSpd" order="0x8" val="325"/>
+    <enchant stat="pAtk" order="0xc" val="0"/>
+    <enchant stat="mAtk" order="0xc" val="0"/>
+   </stats>
+  </weapon>
+  <weapon id="4809" name="Blood Tornado - Haste" weaponType="DualFist" >
+   <set icon="icon.weapon_blood_tornado_i01"/>
+   <set bodyPart="LRHAND" grade="A"/>
+   <set crystallizable="true" crystal_count="1128" />
+   <set weight="1370" price="18300000"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <skills>
+      <skill id="3068" level="2"/>
+    </skills>
+
+   <stats>
+    <set stat="pAtk" order="0x8" val="259"/>
+    <set stat="mAtk" order="0x8" val="107"/>
+    <set stat="rCrit" order="0x8" val="4"/>
+    <add stat="accCombat" order="0x10" val="4"/>
+    <set stat="pAtkSpd" order="0x8" val="325"/>
+    <enchant stat="pAtk" order="0xc" val="0"/>
+    <enchant stat="mAtk" order="0xc" val="0"/>
+   </stats>
+  </weapon>
+  <weapon id="4810" name="Crystallized Ice Bow - Guidance" weaponType="Bow" >
+   <set icon="icon.weapon_crystallized_ice_bow_i01"/>
+   <set bodyPart="LRHAND" grade="C"/>
+   <set crystallizable="true" crystal_count="705" />
+   <set weight="1790" price="2290000"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <skills>
+      <skill id="3008" level="1"/>
+    </skills>
+
+   <stats>
+    <set stat="pAtk" order="0x8" val="220"/>
+    <set stat="mAtk" order="0x8" val="61"/>
+    <set stat="rCrit" order="0x8" val="12"/>
+    <add stat="accCombat" order="0x10" val="-3"/>
+    <set stat="pAtkSpd" order="0x8" val="293"/>
+    <enchant stat="pAtk" order="0xc" val="0"/>
+    <enchant stat="mAtk" order="0xc" val="0"/>
+   </stats>
+  </weapon>
+  <weapon id="4811" name="Crystallized Ice Bow - Evasion" weaponType="Bow" >
+   <set icon="icon.weapon_crystallized_ice_bow_i01"/>
+   <set bodyPart="LRHAND" grade="C"/>
+   <set crystallizable="true" crystal_count="705" />
+   <set weight="1790" price="2290000"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <skills>
+      <skill id="3009" level="1"/>
+    </skills>
+
+   <stats>
+    <set stat="pAtk" order="0x8" val="220"/>
+    <set stat="mAtk" order="0x8" val="61"/>
+    <set stat="rCrit" order="0x8" val="12"/>
+    <add stat="accCombat" order="0x10" val="-3"/>
+    <set stat="pAtkSpd" order="0x8" val="293"/>
+    <enchant stat="pAtk" order="0xc" val="0"/>
+    <enchant stat="mAtk" order="0xc" val="0"/>
+   </stats>
+  </weapon>
+  <weapon id="4812" name="Crystallized Ice Bow - Quick Recovery" weaponType="Bow" >
+   <set icon="icon.weapon_crystallized_ice_bow_i01"/>
+   <set bodyPart="LRHAND" grade="C"/>
+   <set crystallizable="true" crystal_count="705" />
+   <set weight="1790" price="2290000"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <stats>
+    <set stat="pAtk" order="0x8" val="220"/>
+    <set stat="mAtk" order="0x8" val="61"/>
+    <set stat="rCrit" order="0x8" val="12"/>
+    <add stat="accCombat" order="0x10" val="-3"/>
+    <set stat="pAtkSpd" order="0x8" val="293"/>
+    <enchant stat="pAtk" order="0xc" val="0"/>
+    <enchant stat="mAtk" order="0xc" val="0"/>
+   </stats>
+  </weapon>
+  <weapon id="4813" name="Elemental Bow - Guidance" weaponType="Bow" >
+   <set icon="icon.weapon_elemental_bow_i01"/>
+   <set bodyPart="LRHAND" grade="C"/>
+   <set crystallizable="true" crystal_count="884" />
+   <set weight="1770" price="2870000"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <skills>
+      <skill id="3008" level="2"/>
+    </skills>
+
+   <stats>
+    <set stat="pAtk" order="0x8" val="277"/>
+    <set stat="mAtk" order="0x8" val="75"/>
+    <set stat="rCrit" order="0x8" val="12"/>
+    <add stat="accCombat" order="0x10" val="-3"/>
+    <set stat="pAtkSpd" order="0x8" val="227"/>
+    <enchant stat="pAtk" order="0xc" val="0"/>
+    <enchant stat="mAtk" order="0xc" val="0"/>
+   </stats>
+  </weapon>
+  <weapon id="4814" name="Elemental Bow - Miser" weaponType="Bow" >
+   <set icon="icon.weapon_elemental_bow_i01"/>
+   <set bodyPart="LRHAND" grade="C"/>
+   <set crystallizable="true" crystal_count="884" />
+   <set weight="1770" price="2870000"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <stats>
+    <set stat="pAtk" order="0x8" val="277"/>
+    <set stat="mAtk" order="0x8" val="75"/>
+    <set stat="rCrit" order="0x8" val="12"/>
+    <add stat="accCombat" order="0x10" val="-3"/>
+    <set stat="pAtkSpd" order="0x8" val="227"/>
+    <enchant stat="pAtk" order="0xc" val="0"/>
+    <enchant stat="mAtk" order="0xc" val="0"/>
+   </stats>
+  </weapon>
+  <weapon id="4815" name="Elemental Bow - Quick Recovery" weaponType="Bow" >
+   <set icon="icon.weapon_elemental_bow_i01"/>
+   <set bodyPart="LRHAND" grade="C"/>
+   <set crystallizable="true" crystal_count="884" />
+   <set weight="1770" price="2870000"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <stats>
+    <set stat="pAtk" order="0x8" val="277"/>
+    <set stat="mAtk" order="0x8" val="75"/>
+    <set stat="rCrit" order="0x8" val="12"/>
+    <add stat="accCombat" order="0x10" val="-3"/>
+    <set stat="pAtkSpd" order="0x8" val="227"/>
+    <enchant stat="pAtk" order="0xc" val="0"/>
+    <enchant stat="mAtk" order="0xc" val="0"/>
+   </stats>
+  </weapon>
+  <weapon id="4816" name="Elven Bow of Nobility - Evasion" weaponType="Bow" >
+   <set icon="icon.weapon_noble_elven_bow_i01"/>
+   <set bodyPart="LRHAND" grade="C"/>
+   <set crystallizable="true" crystal_count="884" />
+   <set weight="1760" price="2870000"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <skills>
+      <skill id="3009" level="2"/>
+    </skills>
+
+   <stats>
+    <set stat="pAtk" order="0x8" val="252"/>
+    <set stat="mAtk" order="0x8" val="68"/>
+    <set stat="rCrit" order="0x8" val="12"/>
+    <add stat="accCombat" order="0x10" val="-3"/>
+    <set stat="pAtkSpd" order="0x8" val="293"/>
+    <enchant stat="pAtk" order="0xc" val="0"/>
+    <enchant stat="mAtk" order="0xc" val="0"/>
+   </stats>
+  </weapon>
+  <weapon id="4817" name="Elven Bow of Nobility - Miser" weaponType="Bow" >
+   <set icon="icon.weapon_noble_elven_bow_i01"/>
+   <set bodyPart="LRHAND" grade="C"/>
+   <set crystallizable="true" crystal_count="884" />
+   <set weight="1760" price="2870000"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <stats>
+    <set stat="pAtk" order="0x8" val="252"/>
+    <set stat="mAtk" order="0x8" val="68"/>
+    <set stat="rCrit" order="0x8" val="12"/>
+    <add stat="accCombat" order="0x10" val="-3"/>
+    <set stat="pAtkSpd" order="0x8" val="293"/>
+    <enchant stat="pAtk" order="0xc" val="0"/>
+    <enchant stat="mAtk" order="0xc" val="0"/>
+   </stats>
+  </weapon>
+  <weapon id="4818" name="Elven Bow of Nobility - Cheap Shot" weaponType="Bow" >
+   <set icon="icon.weapon_noble_elven_bow_i01"/>
+   <set bodyPart="LRHAND" grade="C"/>
+   <set crystallizable="true" crystal_count="884" />
+   <set weight="1760" price="2870000"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <skills>
+      <skill id="3360" level="1"/>
+    </skills>
+
+   <stats>
+    <set stat="pAtk" order="0x8" val="252"/>
+    <set stat="mAtk" order="0x8" val="68"/>
+    <set stat="rCrit" order="0x8" val="12"/>
+    <add stat="accCombat" order="0x10" val="-3"/>
+    <set stat="pAtkSpd" order="0x8" val="293"/>
+    <enchant stat="pAtk" order="0xc" val="0"/>
+    <enchant stat="mAtk" order="0xc" val="0"/>
+   </stats>
+  </weapon>
+  <weapon id="4819" name="Akat Long Bow - Guidance" weaponType="Bow" >
+   <set icon="icon.weapon_akat_long_bow_i01"/>
+   <set bodyPart="LRHAND" grade="C"/>
+   <set crystallizable="true" crystal_count="1322" />
+   <set weight="1740" price="4300000"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <skills>
+      <skill id="3008" level="3"/>
+    </skills>
+
+   <stats>
+    <set stat="pAtk" order="0x8" val="316"/>
+    <set stat="mAtk" order="0x8" val="84"/>
+    <set stat="rCrit" order="0x8" val="12"/>
+    <add stat="accCombat" order="0x10" val="-3"/>
+    <set stat="pAtkSpd" order="0x8" val="227"/>
+    <enchant stat="pAtk" order="0xc" val="0"/>
+    <enchant stat="mAtk" order="0xc" val="0"/>
+   </stats>
+  </weapon>
+  <weapon id="4820" name="Akat Long Bow - Evasion" weaponType="Bow" >
+   <set icon="icon.weapon_akat_long_bow_i01"/>
+   <set bodyPart="LRHAND" grade="C"/>
+   <set crystallizable="true" crystal_count="1322" />
+   <set weight="1740" price="4300000"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <skills>
+      <skill id="3009" level="3"/>
+    </skills>
+
+   <stats>
+    <set stat="pAtk" order="0x8" val="316"/>
+    <set stat="mAtk" order="0x8" val="84"/>
+    <set stat="rCrit" order="0x8" val="12"/>
+    <add stat="accCombat" order="0x10" val="-3"/>
+    <set stat="pAtkSpd" order="0x8" val="227"/>
+    <enchant stat="pAtk" order="0xc" val="0"/>
+    <enchant stat="mAtk" order="0xc" val="0"/>
+   </stats>
+  </weapon>
+  <weapon id="4821" name="Akat Long Bow - Miser" weaponType="Bow" >
+   <set icon="icon.weapon_akat_long_bow_i01"/>
+   <set bodyPart="LRHAND" grade="C"/>
+   <set crystallizable="true" crystal_count="1322" />
+   <set weight="1740" price="4300000"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <stats>
+    <set stat="pAtk" order="0x8" val="316"/>
+    <set stat="mAtk" order="0x8" val="84"/>
+    <set stat="rCrit" order="0x8" val="12"/>
+    <add stat="accCombat" order="0x10" val="-3"/>
+    <set stat="pAtkSpd" order="0x8" val="227"/>
+    <enchant stat="pAtk" order="0xc" val="0"/>
+    <enchant stat="mAtk" order="0xc" val="0"/>
+   </stats>
+  </weapon>
+  <weapon id="4822" name="Eminence Bow - Guidance" weaponType="Bow" >
+   <set icon="icon.weapon_eminence_bow_i01"/>
+   <set bodyPart="LRHAND" grade="C"/>
+   <set crystallizable="true" crystal_count="1885" />
+   <set weight="1720" price="6130000"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <skills>
+      <skill id="3008" level="4"/>
+    </skills>
+
+   <stats>
+    <set stat="pAtk" order="0x8" val="323"/>
+    <set stat="mAtk" order="0x8" val="83"/>
+    <set stat="rCrit" order="0x8" val="12"/>
+    <add stat="accCombat" order="0x10" val="-3"/>
+    <set stat="pAtkSpd" order="0x8" val="293"/>
+    <enchant stat="pAtk" order="0xc" val="0"/>
+    <enchant stat="mAtk" order="0xc" val="0"/>
+   </stats>
+  </weapon>
+  <weapon id="4823" name="Eminence Bow - Miser" weaponType="Bow" >
+   <set icon="icon.weapon_eminence_bow_i01"/>
+   <set bodyPart="LRHAND" grade="C"/>
+   <set crystallizable="true" crystal_count="1885" />
+   <set weight="1720" price="6130000"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <stats>
+    <set stat="pAtk" order="0x8" val="323"/>
+    <set stat="mAtk" order="0x8" val="83"/>
+    <set stat="rCrit" order="0x8" val="12"/>
+    <add stat="accCombat" order="0x10" val="-3"/>
+    <set stat="pAtkSpd" order="0x8" val="293"/>
+    <enchant stat="pAtk" order="0xc" val="0"/>
+    <enchant stat="mAtk" order="0xc" val="0"/>
+   </stats>
+  </weapon>
+  <weapon id="4824" name="Eminence Bow - Cheap Shot" weaponType="Bow" >
+   <set icon="icon.weapon_eminence_bow_i01"/>
+   <set bodyPart="LRHAND" grade="C"/>
+   <set crystallizable="true" crystal_count="1885" />
+   <set weight="1720" price="6130000"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <skills>
+      <skill id="3360" level="1"/>
+    </skills>
+
+   <stats>
+    <set stat="pAtk" order="0x8" val="323"/>
+    <set stat="mAtk" order="0x8" val="83"/>
+    <set stat="rCrit" order="0x8" val="12"/>
+    <add stat="accCombat" order="0x10" val="-3"/>
+    <set stat="pAtkSpd" order="0x8" val="293"/>
+    <enchant stat="pAtk" order="0xc" val="0"/>
+    <enchant stat="mAtk" order="0xc" val="0"/>
+   </stats>
+  </weapon>
+  <weapon id="4825" name="Dark Elven Long Bow - Evasion" weaponType="Bow" >
+   <set icon="icon.weapon_dark_elven_long_bow_i01"/>
+   <set bodyPart="LRHAND" grade="B"/>
+   <set crystallizable="true" crystal_count="891" />
+   <set weight="1720" price="8680000"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <skills>
+      <skill id="3009" level="5"/>
+    </skills>
+
+   <stats>
+    <set stat="pAtk" order="0x8" val="397"/>
+    <set stat="mAtk" order="0x8" val="100"/>
+    <set stat="rCrit" order="0x8" val="12"/>
+    <add stat="accCombat" order="0x10" val="-3"/>
+    <set stat="pAtkSpd" order="0x8" val="227"/>
+    <enchant stat="pAtk" order="0xc" val="0"/>
+    <enchant stat="mAtk" order="0xc" val="0"/>
+   </stats>
+  </weapon>
+  <weapon id="4826" name="Dark Elven Long Bow - Critical Bleed" weaponType="Bow" >
+   <set icon="icon.weapon_dark_elven_long_bow_i01"/>
+   <set bodyPart="LRHAND" grade="B"/>
+   <set crystallizable="true" crystal_count="891" />
+   <set weight="1720" price="8680000"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <stats>
+    <set stat="pAtk" order="0x8" val="397"/>
+    <set stat="mAtk" order="0x8" val="100"/>
+    <set stat="rCrit" order="0x8" val="12"/>
+    <add stat="accCombat" order="0x10" val="-3"/>
+    <set stat="pAtkSpd" order="0x8" val="227"/>
+    <enchant stat="pAtk" order="0xc" val="0"/>
+    <enchant stat="mAtk" order="0xc" val="0"/>
+   </stats>
+  </weapon>
+  <weapon id="4827" name="Dark Elven Long Bow - Miser" weaponType="Bow" >
+   <set icon="icon.weapon_dark_elven_long_bow_i01"/>
+   <set bodyPart="LRHAND" grade="B"/>
+   <set crystallizable="true" crystal_count="891" />
+   <set weight="1720" price="8680000"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <stats>
+    <set stat="pAtk" order="0x8" val="397"/>
+    <set stat="mAtk" order="0x8" val="100"/>
+    <set stat="rCrit" order="0x8" val="12"/>
+    <add stat="accCombat" order="0x10" val="-3"/>
+    <set stat="pAtkSpd" order="0x8" val="227"/>
+    <enchant stat="pAtk" order="0xc" val="0"/>
+    <enchant stat="mAtk" order="0xc" val="0"/>
+   </stats>
+  </weapon>
+  <weapon id="4828" name="Bow of Peril - Guidance" weaponType="Bow" >
+   <set icon="icon.weapon_hazard_bow_i01"/>
+   <set bodyPart="LRHAND" grade="B"/>
+   <set crystallizable="true" crystal_count="1346" />
+   <set weight="1700" price="13100000"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <skills>
+      <skill id="3008" level="6"/>
+    </skills>
+
+   <stats>
+    <set stat="pAtk" order="0x8" val="400"/>
+    <set stat="mAtk" order="0x8" val="99"/>
+    <set stat="rCrit" order="0x8" val="12"/>
+    <add stat="accCombat" order="0x10" val="-3"/>
+    <set stat="pAtkSpd" order="0x8" val="293"/>
+    <enchant stat="pAtk" order="0xc" val="0"/>
+    <enchant stat="mAtk" order="0xc" val="0"/>
+   </stats>
+  </weapon>
+  <weapon id="4829" name="Bow of Peril - Quick Recovery" weaponType="Bow" >
+   <set icon="icon.weapon_hazard_bow_i01"/>
+   <set bodyPart="LRHAND" grade="B"/>
+   <set crystallizable="true" crystal_count="1346" />
+   <set weight="1700" price="13100000"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <stats>
+    <set stat="pAtk" order="0x8" val="400"/>
+    <set stat="mAtk" order="0x8" val="99"/>
+    <set stat="rCrit" order="0x8" val="12"/>
+    <add stat="accCombat" order="0x10" val="-3"/>
+    <set stat="pAtkSpd" order="0x8" val="293"/>
+    <enchant stat="pAtk" order="0xc" val="0"/>
+    <enchant stat="mAtk" order="0xc" val="0"/>
+   </stats>
+  </weapon>
+  <weapon id="4830" name="Bow of Peril - Cheap Shot" weaponType="Bow" >
+   <set icon="icon.weapon_hazard_bow_i01"/>
+   <set bodyPart="LRHAND" grade="B"/>
+   <set crystallizable="true" crystal_count="1346" />
+   <set weight="1700" price="13100000"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <skills>
+      <skill id="3360" level="1"/>
+    </skills>
+
+   <stats>
+    <set stat="pAtk" order="0x8" val="400"/>
+    <set stat="mAtk" order="0x8" val="99"/>
+    <set stat="rCrit" order="0x8" val="12"/>
+    <add stat="accCombat" order="0x10" val="-3"/>
+    <set stat="pAtkSpd" order="0x8" val="293"/>
+    <enchant stat="pAtk" order="0xc" val="0"/>
+    <enchant stat="mAtk" order="0xc" val="0"/>
+   </stats>
+  </weapon>
+  <weapon id="4831" name="Carnage Bow - Critical Bleed" weaponType="Bow" >
+   <set icon="icon.weapon_carnium_bow_i01"/>
+   <set bodyPart="LRHAND" grade="A"/>
+   <set crystallizable="true" crystal_count="1128" />
+   <set weight="1670" price="18300000"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <stats>
+    <set stat="pAtk" order="0x8" val="440"/>
+    <set stat="mAtk" order="0x8" val="107"/>
+    <set stat="rCrit" order="0x8" val="12"/>
+    <add stat="accCombat" order="0x10" val="-3"/>
+    <set stat="pAtkSpd" order="0x8" val="293"/>
+    <enchant stat="pAtk" order="0xc" val="0"/>
+    <enchant stat="mAtk" order="0xc" val="0"/>
+   </stats>
+  </weapon>
+  <weapon id="4832" name="Carnage Bow - Mana Up" weaponType="Bow" >
+   <set icon="icon.weapon_carnium_bow_i01"/>
+   <set bodyPart="LRHAND" grade="A"/>
+   <set crystallizable="true" crystal_count="1128" />
+   <set weight="1670" price="18300000"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <skills>
+      <skill id="3014" level="2"/>
+    </skills>
+
+   <stats>
+    <set stat="pAtk" order="0x8" val="440"/>
+    <set stat="mAtk" order="0x8" val="107"/>
+    <set stat="rCrit" order="0x8" val="12"/>
+    <add stat="accCombat" order="0x10" val="-3"/>
+    <set stat="pAtkSpd" order="0x8" val="293"/>
+    <enchant stat="pAtk" order="0xc" val="0"/>
+    <enchant stat="mAtk" order="0xc" val="0"/>
+   </stats>
+  </weapon>
+  <weapon id="4833" name="Carnage Bow - Quick Recovery" weaponType="Bow" >
+   <set icon="icon.weapon_carnium_bow_i01"/>
+   <set bodyPart="LRHAND" grade="A"/>
+   <set crystallizable="true" crystal_count="1128" />
+   <set weight="1670" price="18300000"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <stats>
+    <set stat="pAtk" order="0x8" val="440"/>
+    <set stat="mAtk" order="0x8" val="107"/>
+    <set stat="rCrit" order="0x8" val="12"/>
+    <add stat="accCombat" order="0x10" val="-3"/>
+    <set stat="pAtkSpd" order="0x8" val="293"/>
+    <enchant stat="pAtk" order="0xc" val="0"/>
+    <enchant stat="mAtk" order="0xc" val="0"/>
+   </stats>
+  </weapon>
+  <weapon id="4834" name="Scythe - Anger" weaponType="Pole" >
+   <set icon="icon.weapon_scythe_i01"/>
+   <set bodyPart="LRHAND" grade="C"/>
+   <set crystallizable="true" crystal_count="705" />
+   <set weight="2040" price="2290000"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <skills>
+      <skill id="3600" level="1"/>
+    </skills>
+
+   <stats>
+    <set stat="pAtk" order="0x8" val="107"/>
+    <set stat="mAtk" order="0x8" val="61"/>
+    <set stat="rCrit" order="0x8" val="8"/>
+    <set stat="pAtkRange" order="0x8" val="66"/>
+    <add stat="accCombat" order="0x10" val="-3"/>
+    <set stat="pAtkSpd" order="0x8" val="325"/>
+    <enchant stat="pAtk" order="0xc" val="0"/>
+    <enchant stat="mAtk" order="0xc" val="0"/>
+   </stats>
+  </weapon>
+  <weapon id="4835" name="Scythe - Critical Stun" weaponType="Pole" >
+   <set icon="icon.weapon_scythe_i01"/>
+   <set bodyPart="LRHAND" grade="C"/>
+   <set crystallizable="true" crystal_count="705" />
+   <set weight="2040" price="2290000"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <stats>
+    <set stat="pAtk" order="0x8" val="107"/>
+    <set stat="mAtk" order="0x8" val="61"/>
+    <set stat="rCrit" order="0x8" val="8"/>
+    <set stat="pAtkRange" order="0x8" val="66"/>
+    <add stat="accCombat" order="0x10" val="-3"/>
+    <set stat="pAtkSpd" order="0x8" val="325"/>
+    <enchant stat="pAtk" order="0xc" val="0"/>
+    <enchant stat="mAtk" order="0xc" val="0"/>
+   </stats>
+  </weapon>
+  <weapon id="4836" name="Scythe - Light" weaponType="Pole" >
+   <set icon="icon.weapon_scythe_i01"/>
+   <set bodyPart="LRHAND" grade="C"/>
+   <set crystallizable="true" crystal_count="705" />
+   <set weight="2040" price="2290000"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <skills>
+      <skill id="3498" level="1"/>
+    </skills>
+
+   <stats>
+    <set stat="pAtk" order="0x8" val="107"/>
+    <set stat="mAtk" order="0x8" val="61"/>
+    <set stat="rCrit" order="0x8" val="8"/>
+    <set stat="pAtkRange" order="0x8" val="66"/>
+    <add stat="accCombat" order="0x10" val="-3"/>
+    <set stat="pAtkSpd" order="0x8" val="325"/>
+    <enchant stat="pAtk" order="0xc" val="0"/>
+    <enchant stat="mAtk" order="0xc" val="0"/>
+   </stats>
+  </weapon>
+  <weapon id="4837" name="Orcish Glaive - Anger" weaponType="Pole" >
+   <set icon="icon.weapon_orcish_glaive_i01"/>
+   <set bodyPart="LRHAND" grade="C"/>
+   <set crystallizable="true" crystal_count="705" />
+   <set weight="2030" price="2290000"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <skills>
+      <skill id="3600" level="1"/>
+    </skills>
+
+   <stats>
+    <set stat="pAtk" order="0x8" val="107"/>
+    <set stat="mAtk" order="0x8" val="61"/>
+    <set stat="rCrit" order="0x8" val="8"/>
+    <set stat="pAtkRange" order="0x8" val="66"/>
+    <add stat="accCombat" order="0x10" val="-3"/>
+    <set stat="pAtkSpd" order="0x8" val="325"/>
+    <enchant stat="pAtk" order="0xc" val="0"/>
+    <enchant stat="mAtk" order="0xc" val="0"/>
+   </stats>
+  </weapon>
+  <weapon id="4838" name="Orcish Glaive - Critical Stun" weaponType="Pole" >
+   <set icon="icon.weapon_orcish_glaive_i01"/>
+   <set bodyPart="LRHAND" grade="C"/>
+   <set crystallizable="true" crystal_count="705" />
+   <set weight="2030" price="2290000"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <stats>
+    <set stat="pAtk" order="0x8" val="107"/>
+    <set stat="mAtk" order="0x8" val="61"/>
+    <set stat="rCrit" order="0x8" val="8"/>
+    <set stat="pAtkRange" order="0x8" val="66"/>
+    <add stat="accCombat" order="0x10" val="-3"/>
+    <set stat="pAtkSpd" order="0x8" val="325"/>
+    <enchant stat="pAtk" order="0xc" val="0"/>
+    <enchant stat="mAtk" order="0xc" val="0"/>
+   </stats>
+  </weapon>
+  <weapon id="4839" name="Orcish Glaive - Towering Blow" weaponType="Pole" >
+   <set icon="icon.weapon_orcish_glaive_i01"/>
+   <set bodyPart="LRHAND" grade="C"/>
+   <set crystallizable="true" crystal_count="705" />
+   <set weight="2030" price="2290000"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <skills>
+      <skill id="3599" level="1"/>
+    </skills>
+
+   <stats>
+    <set stat="pAtk" order="0x8" val="107"/>
+    <set stat="mAtk" order="0x8" val="61"/>
+    <set stat="rCrit" order="0x8" val="8"/>
+    <set stat="pAtkRange" order="0x8" val="80"/>
+    <add stat="accCombat" order="0x10" val="-3"/>
+    <set stat="pAtkSpd" order="0x8" val="325"/>
+    <enchant stat="pAtk" order="0xc" val="0"/>
+    <enchant stat="mAtk" order="0xc" val="0"/>
+   </stats>
+  </weapon>
+  <weapon id="4840" name="Body Slasher - Critical Stun" weaponType="Pole" >
+   <set icon="icon.weapon_body_slasher_i01"/>
+   <set bodyPart="LRHAND" grade="C"/>
+   <set crystallizable="true" crystal_count="705" />
+   <set weight="2030" price="2290000"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <stats>
+    <set stat="pAtk" order="0x8" val="107"/>
+    <set stat="mAtk" order="0x8" val="61"/>
+    <set stat="rCrit" order="0x8" val="8"/>
+    <set stat="pAtkRange" order="0x8" val="66"/>
+    <add stat="accCombat" order="0x10" val="-3"/>
+    <set stat="pAtkSpd" order="0x8" val="325"/>
+    <enchant stat="pAtk" order="0xc" val="0"/>
+    <enchant stat="mAtk" order="0xc" val="0"/>
+   </stats>
+  </weapon>
+  <weapon id="4841" name="Body Slasher - Towering Blow" weaponType="Pole" >
+   <set icon="icon.weapon_body_slasher_i01"/>
+   <set bodyPart="LRHAND" grade="C"/>
+   <set crystallizable="true" crystal_count="705" />
+   <set weight="2030" price="2290000"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <skills>
+      <skill id="3599" level="1"/>
+    </skills>
+
+   <stats>
+    <set stat="pAtk" order="0x8" val="107"/>
+    <set stat="mAtk" order="0x8" val="61"/>
+    <set stat="rCrit" order="0x8" val="8"/>
+    <set stat="pAtkRange" order="0x8" val="66"/>
+    <add stat="accCombat" order="0x10" val="-3"/>
+    <set stat="pAtkSpd" order="0x8" val="325"/>
+    <enchant stat="pAtk" order="0xc" val="0"/>
+    <enchant stat="mAtk" order="0xc" val="0"/>
+   </stats>
+  </weapon>
+  <weapon id="4842" name="Body Slasher - Wide Blow" weaponType="Pole" >
+   <set icon="icon.weapon_body_slasher_i01"/>
+   <set bodyPart="LRHAND" grade="C"/>
+   <set crystallizable="true" crystal_count="705" />
+   <set weight="2030" price="2290000"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <skills>
+      <skill id="3599" level="1"/>
+    </skills>
+
+   <stats>
+    <set stat="pAtk" order="0x8" val="107"/>
+    <set stat="mAtk" order="0x8" val="61"/>
+    <set stat="rCrit" order="0x8" val="8"/>
+    <set stat="pAtkRange" order="0x8" val="66"/>
+    <add stat="accCombat" order="0x10" val="-3"/>
+    <set stat="pAtkSpd" order="0x8" val="325"/>
+    <set stat="pAtkAngle" order="0x8" val="180"/>
+    <enchant stat="pAtk" order="0xc" val="0"/>
+    <enchant stat="mAtk" order="0xc" val="0"/>
+   </stats>
+  </weapon>
+  <weapon id="4843" name="Bec de Corbin - Critical Stun" weaponType="Pole" >
+   <set icon="icon.weapon_bech_de_corbin_i01"/>
+   <set bodyPart="LRHAND" grade="C"/>
+   <set crystallizable="true" crystal_count="884" />
+   <set weight="2020" price="2870000"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <stats>
+    <set stat="pAtk" order="0x8" val="122"/>
+    <set stat="mAtk" order="0x8" val="68"/>
+    <set stat="rCrit" order="0x8" val="8"/>
+    <set stat="pAtkRange" order="0x8" val="66"/>
+    <add stat="accCombat" order="0x10" val="-3"/>
+    <set stat="pAtkSpd" order="0x8" val="325"/>
+    <enchant stat="pAtk" order="0xc" val="0"/>
+    <enchant stat="mAtk" order="0xc" val="0"/>
+   </stats>
+  </weapon>
+  <weapon id="4844" name="Bec de Corbin - Towering Blow" weaponType="Pole" >
+   <set icon="icon.weapon_bech_de_corbin_i01"/>
+   <set bodyPart="LRHAND" grade="C"/>
+   <set crystallizable="true" crystal_count="884" />
+   <set weight="2020" price="2870000"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <skills>
+      <skill id="3599" level="1"/>
+    </skills>
+
+   <stats>
+    <set stat="pAtk" order="0x8" val="122"/>
+    <set stat="mAtk" order="0x8" val="68"/>
+    <set stat="rCrit" order="0x8" val="8"/>
+    <set stat="pAtkRange" order="0x8" val="80"/>
+    <add stat="accCombat" order="0x10" val="-3"/>
+    <set stat="pAtkSpd" order="0x8" val="325"/>
+    <enchant stat="pAtk" order="0xc" val="0"/>
+    <enchant stat="mAtk" order="0xc" val="0"/>
+   </stats>
+  </weapon>
+  <weapon id="4845" name="Bec de Corbin - Light" weaponType="Pole" >
+   <set icon="icon.weapon_bech_de_corbin_i01"/>
+   <set bodyPart="LRHAND" grade="C"/>
+   <set crystallizable="true" crystal_count="884" />
+   <set weight="2020" price="2870000"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <skills>
+      <skill id="3498" level="1"/>
+    </skills>
+
+   <stats>
+    <set stat="pAtk" order="0x8" val="122"/>
+    <set stat="mAtk" order="0x8" val="68"/>
+    <set stat="rCrit" order="0x8" val="8"/>
+    <set stat="pAtkRange" order="0x8" val="66"/>
+    <add stat="accCombat" order="0x10" val="-3"/>
+    <set stat="pAtkSpd" order="0x8" val="325"/>
+    <enchant stat="pAtk" order="0xc" val="0"/>
+    <enchant stat="mAtk" order="0xc" val="0"/>
+   </stats>
+  </weapon>
+  <weapon id="4846" name="Scorpion - Anger" weaponType="Pole" >
+   <set icon="icon.weapon_scorpion_i01"/>
+   <set bodyPart="LRHAND" grade="C"/>
+   <set crystallizable="true" crystal_count="1471" />
+   <set weight="1990" price="4780000"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <skills>
+      <skill id="3600" level="3"/>
+    </skills>
+
+   <stats>
+    <set stat="pAtk" order="0x8" val="144"/>
+    <set stat="mAtk" order="0x8" val="78"/>
+    <set stat="rCrit" order="0x8" val="8"/>
+    <set stat="pAtkRange" order="0x8" val="66"/>
+    <add stat="accCombat" order="0x10" val="-3"/>
+    <set stat="pAtkSpd" order="0x8" val="325"/>
+    <enchant stat="pAtk" order="0xc" val="0"/>
+    <enchant stat="mAtk" order="0xc" val="0"/>
+   </stats>
+  </weapon>
+  <weapon id="4847" name="Scorpion - Critical Stun" weaponType="Pole" >
+   <set icon="icon.weapon_scorpion_i01"/>
+   <set bodyPart="LRHAND" grade="C"/>
+   <set crystallizable="true" crystal_count="1471" />
+   <set weight="1990" price="4780000"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <stats>
+    <set stat="pAtk" order="0x8" val="144"/>
+    <set stat="mAtk" order="0x8" val="78"/>
+    <set stat="rCrit" order="0x8" val="8"/>
+    <add stat="accCombat" order="0x10" val="-3"/>
+    <set stat="pAtkSpd" order="0x8" val="325"/>
+    <enchant stat="pAtk" order="0xc" val="0"/>
+    <enchant stat="mAtk" order="0xc" val="0"/>
+   </stats>
+  </weapon>
+  <weapon id="4848" name="Scorpion - Towering Blow" weaponType="Pole" >
+   <set icon="icon.weapon_scorpion_i01"/>
+   <set bodyPart="LRHAND" grade="C"/>
+   <set crystallizable="true" crystal_count="1471" />
+   <set weight="1990" price="4780000"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <skills>
+      <skill id="3599" level="1"/>
+    </skills>
+
+   <stats>
+    <set stat="pAtk" order="0x8" val="144"/>
+    <set stat="mAtk" order="0x8" val="78"/>
+    <set stat="rCrit" order="0x8" val="8"/>
+    <set stat="pAtkRange" order="0x8" val="80"/>
+    <add stat="accCombat" order="0x10" val="-3"/>
+    <set stat="pAtkSpd" order="0x8" val="325"/>
+    <enchant stat="pAtk" order="0xc" val="0"/>
+    <enchant stat="mAtk" order="0xc" val="0"/>
+   </stats>
+  </weapon>
+  <weapon id="4849" name="Widow Maker - Critical Stun" weaponType="Pole" >
+   <set icon="icon.weapon_widow_maker_i01"/>
+   <set bodyPart="LRHAND" grade="C"/>
+   <set crystallizable="true" crystal_count="1471" />
+   <set weight="1980" price="4780000"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <stats>
+    <set stat="pAtk" order="0x8" val="144"/>
+    <set stat="mAtk" order="0x8" val="78"/>
+    <set stat="rCrit" order="0x8" val="8"/>
+    <set stat="pAtkRange" order="0x8" val="66"/>
+    <add stat="accCombat" order="0x10" val="-3"/>
+    <set stat="pAtkSpd" order="0x8" val="325"/>
+    <enchant stat="pAtk" order="0xc" val="0"/>
+    <enchant stat="mAtk" order="0xc" val="0"/>
+   </stats>
+  </weapon>
+  <weapon id="4850" name="Widow Maker - Towering Blow" weaponType="Pole" >
+   <set icon="icon.weapon_widow_maker_i01"/>
+   <set bodyPart="LRHAND" grade="C"/>
+   <set crystallizable="true" crystal_count="1471" />
+   <set weight="1980" price="4780000"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <skills>
+      <skill id="3599" level="1"/>
+    </skills>
+
+   <stats>
+    <set stat="pAtk" order="0x8" val="144"/>
+    <set stat="mAtk" order="0x8" val="78"/>
+    <set stat="rCrit" order="0x8" val="8"/>
+    <set stat="pAtkRange" order="0x8" val="80"/>
+    <add stat="accCombat" order="0x10" val="-3"/>
+    <set stat="pAtkSpd" order="0x8" val="325"/>
+    <enchant stat="pAtk" order="0xc" val="0"/>
+    <enchant stat="mAtk" order="0xc" val="0"/>
+   </stats>
+  </weapon>
+  <weapon id="4851" name="Widow Maker - Wide Blow" weaponType="Pole" >
+   <set icon="icon.weapon_widow_maker_i01"/>
+   <set bodyPart="LRHAND" grade="C"/>
+   <set crystallizable="true" crystal_count="1471" />
+   <set weight="1980" price="4780000"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <skills>
+      <skill id="3599" level="1"/>
+    </skills>
+
+   <stats>
+    <set stat="pAtk" order="0x8" val="144"/>
+    <set stat="mAtk" order="0x8" val="78"/>
+    <set stat="rCrit" order="0x8" val="8"/>
+    <set stat="pAtkRange" order="0x8" val="66"/>
+    <add stat="accCombat" order="0x10" val="-3"/>
+    <set stat="pAtkSpd" order="0x8" val="325"/>
+    <set stat="pAtkAngle" order="0x8" val="180"/>
+    <enchant stat="pAtk" order="0xc" val="0"/>
+    <enchant stat="mAtk" order="0xc" val="0"/>
+   </stats>
+  </weapon>
+  <weapon id="4852" name="Orcish Poleaxe - Critical Stun" weaponType="Pole" >
+   <set icon="icon.weapon_orcish_poleaxe_i01"/>
+   <set bodyPart="LRHAND" grade="C"/>
+   <set crystallizable="true" crystal_count="1885" />
+   <set weight="1950" price="6130000"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <stats>
+    <set stat="pAtk" order="0x8" val="156"/>
+    <set stat="mAtk" order="0x8" val="83"/>
+    <set stat="rCrit" order="0x8" val="8"/>
+    <set stat="pAtkRange" order="0x8" val="66"/>
+    <add stat="accCombat" order="0x10" val="-3"/>
+    <set stat="pAtkSpd" order="0x8" val="325"/>
+    <enchant stat="pAtk" order="0xc" val="0"/>
+    <enchant stat="mAtk" order="0xc" val="0"/>
+   </stats>
+  </weapon>
+  <weapon id="4853" name="Orcish Poleaxe - Towering Blow" weaponType="Pole" >
+   <set icon="icon.weapon_orcish_poleaxe_i01"/>
+   <set bodyPart="LRHAND" grade="C"/>
+   <set crystallizable="true" crystal_count="1885" />
+   <set weight="1950" price="6130000"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <skills>
+      <skill id="3599" level="1"/>
+    </skills>
+
+   <stats>
+    <set stat="pAtk" order="0x8" val="156"/>
+    <set stat="mAtk" order="0x8" val="83"/>
+    <set stat="rCrit" order="0x8" val="8"/>
+    <set stat="pAtkRange" order="0x8" val="80"/>
+    <add stat="accCombat" order="0x10" val="-3"/>
+    <set stat="pAtkSpd" order="0x8" val="325"/>
+    <enchant stat="pAtk" order="0xc" val="0"/>
+    <enchant stat="mAtk" order="0xc" val="0"/>
+   </stats>
+  </weapon>
+  <weapon id="4854" name="Orcish Poleaxe - Wide Blow" weaponType="Pole" >
+   <set icon="icon.weapon_orcish_poleaxe_i01"/>
+   <set bodyPart="LRHAND" grade="C"/>
+   <set crystallizable="true" crystal_count="1885" />
+   <set weight="1950" price="6130000"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <skills>
+      <skill id="3599" level="1"/>
+    </skills>
+
+   <stats>
+    <set stat="pAtk" order="0x8" val="156"/>
+    <set stat="mAtk" order="0x8" val="83"/>
+    <set stat="rCrit" order="0x8" val="8"/>
+    <set stat="pAtkRange" order="0x8" val="66"/>
+    <add stat="accCombat" order="0x10" val="-3"/>
+    <set stat="pAtkSpd" order="0x8" val="325"/>
+    <set stat="pAtkAngle" order="0x8" val="180"/>
+    <enchant stat="pAtk" order="0xc" val="0"/>
+    <enchant stat="mAtk" order="0xc" val="0"/>
+   </stats>
+  </weapon>
+  <weapon id="4855" name="Great Axe - Anger" weaponType="Pole" >
+   <set icon="icon.weapon_great_axe_i01"/>
+   <set bodyPart="LRHAND" grade="B"/>
+   <set crystallizable="true" crystal_count="891" />
+   <set weight="1940" price="8680000"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <skills>
+      <skill id="3600" level="5"/>
+    </skills>
+
+   <stats>
+    <set stat="pAtk" order="0x8" val="175"/>
+    <set stat="mAtk" order="0x8" val="91"/>
+    <set stat="rCrit" order="0x8" val="8"/>
+    <set stat="pAtkRange" order="0x8" val="66"/>
+    <add stat="accCombat" order="0x10" val="-3"/>
+    <set stat="pAtkSpd" order="0x8" val="325"/>
+    <enchant stat="pAtk" order="0xc" val="0"/>
+    <enchant stat="mAtk" order="0xc" val="0"/>
+   </stats>
+  </weapon>
+  <weapon id="4856" name="Great Axe - Critical Stun" weaponType="Pole" >
+   <set icon="icon.weapon_great_axe_i01"/>
+   <set bodyPart="LRHAND" grade="B"/>
+   <set crystallizable="true" crystal_count="891" />
+   <set weight="1940" price="8680000"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <stats>
+    <set stat="pAtk" order="0x8" val="175"/>
+    <set stat="mAtk" order="0x8" val="91"/>
+    <set stat="rCrit" order="0x8" val="8"/>
+    <set stat="pAtkRange" order="0x8" val="66"/>
+    <add stat="accCombat" order="0x10" val="-3"/>
+    <set stat="pAtkSpd" order="0x8" val="325"/>
+    <enchant stat="pAtk" order="0xc" val="0"/>
+    <enchant stat="mAtk" order="0xc" val="0"/>
+   </stats>
+  </weapon>
+  <weapon id="4857" name="Great Axe - Light" weaponType="Pole" >
+   <set icon="icon.weapon_great_axe_i01"/>
+   <set bodyPart="LRHAND" grade="B"/>
+   <set crystallizable="true" crystal_count="891" />
+   <set weight="1940" price="8680000"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <skills>
+      <skill id="3498" level="1"/>
+    </skills>
+
+   <stats>
+    <set stat="pAtk" order="0x8" val="175"/>
+    <set stat="mAtk" order="0x8" val="91"/>
+    <set stat="rCrit" order="0x8" val="8"/>
+    <set stat="pAtkRange" order="0x8" val="66"/>
+    <add stat="accCombat" order="0x10" val="-3"/>
+    <set stat="pAtkSpd" order="0x8" val="325"/>
+    <enchant stat="pAtk" order="0xc" val="0"/>
+    <enchant stat="mAtk" order="0xc" val="0"/>
+   </stats>
+  </weapon>
+  <weapon id="4858" name="Lance - Anger" weaponType="Pole" >
+   <set icon="icon.weapon_lancia_i01"/>
+   <set bodyPart="LRHAND" grade="B"/>
+   <set crystallizable="true" crystal_count="1346" />
+   <set weight="1920" price="13100000"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <skills>
+      <skill id="3600" level="6"/>
+    </skills>
+
+   <stats>
+    <set stat="pAtk" order="0x8" val="194"/>
+    <set stat="mAtk" order="0x8" val="99"/>
+    <set stat="rCrit" order="0x8" val="8"/>
+    <set stat="pAtkRange" order="0x8" val="66"/>
+    <add stat="accCombat" order="0x10" val="-3"/>
+    <set stat="pAtkSpd" order="0x8" val="325"/>
+    <enchant stat="pAtk" order="0xc" val="0"/>
+    <enchant stat="mAtk" order="0xc" val="0"/>
+   </stats>
+  </weapon>
+  <weapon id="4859" name="Lance - Critical Stun" weaponType="Pole" >
+   <set icon="icon.weapon_lancia_i01"/>
+   <set bodyPart="LRHAND" grade="B"/>
+   <set crystallizable="true" crystal_count="1346" />
+   <set weight="1920" price="13100000"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <stats>
+    <set stat="pAtk" order="0x8" val="194"/>
+    <set stat="mAtk" order="0x8" val="99"/>
+    <set stat="rCrit" order="0x8" val="8"/>
+    <set stat="pAtkRange" order="0x8" val="66"/>
+    <add stat="accCombat" order="0x10" val="-3"/>
+    <set stat="pAtkSpd" order="0x8" val="325"/>
+    <enchant stat="pAtk" order="0xc" val="0"/>
+    <enchant stat="mAtk" order="0xc" val="0"/>
+   </stats>
+  </weapon>
+  <weapon id="4860" name="Lance - Towering Blow" weaponType="Pole" >
+   <set icon="icon.weapon_lancia_i01"/>
+   <set bodyPart="LRHAND" grade="B"/>
+   <set crystallizable="true" crystal_count="1346" />
+   <set weight="1920" price="13100000"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <skills>
+      <skill id="3599" level="1"/>
+    </skills>
+
+   <stats>
+    <set stat="pAtk" order="0x8" val="194"/>
+    <set stat="mAtk" order="0x8" val="99"/>
+    <set stat="rCrit" order="0x8" val="8"/>
+    <set stat="pAtkRange" order="0x8" val="80"/>
+    <add stat="accCombat" order="0x10" val="-3"/>
+    <set stat="pAtkSpd" order="0x8" val="325"/>
+    <enchant stat="pAtk" order="0xc" val="0"/>
+    <enchant stat="mAtk" order="0xc" val="0"/>
+   </stats>
+  </weapon>
+  <weapon id="4861" name="Halberd - Critical Stun" weaponType="Pole" >
+   <set icon="icon.weapon_halbard_i01"/>
+   <set bodyPart="LRHAND" grade="A"/>
+   <set crystallizable="true" crystal_count="1128" />
+   <set weight="1900" price="18300000"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <stats>
+    <set stat="pAtk" order="0x8" val="213"/>
+    <set stat="mAtk" order="0x8" val="107"/>
+    <set stat="rCrit" order="0x8" val="8"/>
+    <set stat="pAtkRange" order="0x8" val="66"/>
+    <add stat="accCombat" order="0x10" val="-3"/>
+    <set stat="pAtkSpd" order="0x8" val="325"/>
+    <enchant stat="pAtk" order="0xc" val="0"/>
+    <enchant stat="mAtk" order="0xc" val="0"/>
+   </stats>
+  </weapon>
+  <weapon id="4862" name="Halberd - Towering Blow" weaponType="Pole" >
+   <set icon="icon.weapon_halbard_i01"/>
+   <set bodyPart="LRHAND" grade="A"/>
+   <set crystallizable="true" crystal_count="1128" />
+   <set weight="1900" price="18300000"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <skills>
+      <skill id="3599" level="1"/>
+    </skills>
+
+   <stats>
+    <set stat="pAtk" order="0x8" val="213"/>
+    <set stat="mAtk" order="0x8" val="107"/>
+    <set stat="rCrit" order="0x8" val="8"/>
+    <set stat="pAtkRange" order="0x8" val="80"/>
+    <add stat="accCombat" order="0x10" val="-3"/>
+    <set stat="pAtkSpd" order="0x8" val="325"/>
+    <enchant stat="pAtk" order="0xc" val="0"/>
+    <enchant stat="mAtk" order="0xc" val="0"/>
+   </stats>
+  </weapon>
+  <weapon id="4863" name="Halberd - Wide Blow" weaponType="Pole" >
+   <set icon="icon.weapon_halbard_i01"/>
+   <set bodyPart="LRHAND" grade="A"/>
+   <set crystallizable="true" crystal_count="1128" />
+   <set weight="1900" price="18300000"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <skills>
+      <skill id="3599" level="1"/>
+    </skills>
+
+   <stats>
+    <set stat="pAtk" order="0x8" val="213"/>
+    <set stat="mAtk" order="0x8" val="107"/>
+    <set stat="rCrit" order="0x8" val="8"/>
+    <set stat="pAtkRange" order="0x8" val="66"/>
+    <add stat="accCombat" order="0x10" val="-3"/>
+    <set stat="pAtkSpd" order="0x8" val="325"/>
+    <set stat="pAtkAngle" order="0x8" val="180"/>
+    <enchant stat="pAtk" order="0xc" val="0"/>
+    <enchant stat="mAtk" order="0xc" val="0"/>
+   </stats>
+  </weapon>
+  <weapon id="4864" name="Heavy Doom Hammer - Magic Regeneration" weaponType="BigBlunt" >
+   <set icon="icon.weapon_heavy_doom_hammer_i01"/>
+   <set bodyPart="LRHAND" grade="C"/>
+   <set crystallizable="true" crystal_count="705" />
+   <set weight="1020" price="2290000"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <stats>
+    <set stat="pAtk" order="0x8" val="103"/>
+    <set stat="mAtk" order="0x8" val="81"/>
+    <set stat="rCrit" order="0x8" val="4"/>
+    <add stat="accCombat" order="0x10" val="4"/>
+    <set stat="pAtkSpd" order="0x8" val="325"/>
+    <enchant stat="pAtk" order="0xc" val="0"/>
+    <enchant stat="mAtk" order="0xc" val="0"/>
+   </stats>
+  </weapon>
+  <weapon id="4865" name="Heavy Doom Hammer - Mental Shield" weaponType="BigBlunt" >
+   <set icon="icon.weapon_heavy_doom_hammer_i01"/>
+   <set bodyPart="LRHAND" grade="C"/>
+   <set crystallizable="true" crystal_count="705" />
+   <set weight="1020" price="2290000"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <stats>
+    <set stat="pAtk" order="0x8" val="103"/>
+    <set stat="mAtk" order="0x8" val="81"/>
+    <set stat="rCrit" order="0x8" val="4"/>
+    <add stat="accCombat" order="0x10" val="4"/>
+    <set stat="pAtkSpd" order="0x8" val="325"/>
+    <enchant stat="pAtk" order="0xc" val="0"/>
+    <enchant stat="mAtk" order="0xc" val="0"/>
+   </stats>
+  </weapon>
+  <weapon id="4866" name="Heavy Doom Hammer - Magic Hold" weaponType="BigBlunt" >
+   <set icon="icon.weapon_heavy_doom_hammer_i01"/>
+   <set bodyPart="LRHAND" grade="C"/>
+   <set crystallizable="true" crystal_count="705" />
+   <set weight="1020" price="2290000"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <stats>
+    <set stat="pAtk" order="0x8" val="103"/>
+    <set stat="mAtk" order="0x8" val="81"/>
+    <set stat="rCrit" order="0x8" val="4"/>
+    <add stat="accCombat" order="0x10" val="4"/>
+    <set stat="pAtkSpd" order="0x8" val="325"/>
+    <enchant stat="pAtk" order="0xc" val="0"/>
+    <enchant stat="mAtk" order="0xc" val="0"/>
+   </stats>
+  </weapon>
+  <weapon id="4867" name="Crystal Staff - Rsk. Evasion" weaponType="BigBlunt" >
+   <set icon="icon.weapon_crystal_staff_i01"/>
+   <set bodyPart="LRHAND" grade="C"/>
+   <set crystallizable="true" crystal_count="705" />
+   <set weight="1020" price="2290000"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <skills>
+      <skill id="3031" level="1"/>
+    </skills>
+
+   <stats>
+    <set stat="pAtk" order="0x8" val="103"/>
+    <set stat="mAtk" order="0x8" val="81"/>
+    <set stat="rCrit" order="0x8" val="4"/>
+    <add stat="accCombat" order="0x10" val="4"/>
+    <set stat="pAtkSpd" order="0x8" val="325"/>
+    <enchant stat="pAtk" order="0xc" val="0"/>
+    <enchant stat="mAtk" order="0xc" val="0"/>
+   </stats>
+  </weapon>
+  <weapon id="4868" name="Crystal Staff - Mana Up" weaponType="BigBlunt" >
+   <set icon="icon.weapon_crystal_staff_i01"/>
+   <set bodyPart="LRHAND" grade="C"/>
+   <set crystallizable="true" crystal_count="705" />
+   <set weight="1020" price="2290000"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <skills>
+      <skill id="3014" level="1"/>
+    </skills>
+
+   <stats>
+    <set stat="pAtk" order="0x8" val="103"/>
+    <set stat="mAtk" order="0x8" val="81"/>
+    <set stat="rCrit" order="0x8" val="4"/>
+    <add stat="accCombat" order="0x10" val="4"/>
+    <set stat="pAtkSpd" order="0x8" val="325"/>
+    <enchant stat="pAtk" order="0xc" val="0"/>
+    <enchant stat="mAtk" order="0xc" val="0"/>
+   </stats>
+  </weapon>
+  <weapon id="4869" name="Crystal Staff - Blessed Body" weaponType="BigBlunt" >
+   <set icon="icon.weapon_crystal_staff_i01"/>
+   <set bodyPart="LRHAND" grade="C"/>
+   <set crystallizable="true" crystal_count="705" />
+   <set weight="1020" price="2290000"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <stats>
+    <set stat="pAtk" order="0x8" val="103"/>
+    <set stat="mAtk" order="0x8" val="81"/>
+    <set stat="rCrit" order="0x8" val="4"/>
+    <add stat="accCombat" order="0x10" val="4"/>
+    <set stat="pAtkSpd" order="0x8" val="325"/>
+    <enchant stat="pAtk" order="0xc" val="0"/>
+    <enchant stat="mAtk" order="0xc" val="0"/>
+   </stats>
+  </weapon>
+  <weapon id="4870" name="Heavy Doom Axe - Magic Poison" weaponType="BigBlunt" >
+   <set icon="icon.weapon_heavy_doom_axe_i01"/>
+   <set bodyPart="LRHAND" grade="C"/>
+   <set crystallizable="true" crystal_count="705" />
+   <set weight="1010" price="2290000"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <stats>
+    <set stat="pAtk" order="0x8" val="103"/>
+    <set stat="mAtk" order="0x8" val="81"/>
+    <set stat="rCrit" order="0x8" val="4"/>
+    <add stat="accCombat" order="0x10" val="4"/>
+    <set stat="pAtkSpd" order="0x8" val="325"/>
+    <enchant stat="pAtk" order="0xc" val="0"/>
+    <enchant stat="mAtk" order="0xc" val="0"/>
+   </stats>
+  </weapon>
+  <weapon id="4871" name="Heavy Doom Axe - Magic Weakness" weaponType="BigBlunt" >
+   <set icon="icon.weapon_heavy_doom_axe_i01"/>
+   <set bodyPart="LRHAND" grade="C"/>
+   <set crystallizable="true" crystal_count="705" />
+   <set weight="1010" price="2290000"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <stats>
+    <set stat="pAtk" order="0x8" val="103"/>
+    <set stat="mAtk" order="0x8" val="81"/>
+    <set stat="rCrit" order="0x8" val="4"/>
+    <add stat="accCombat" order="0x10" val="4"/>
+    <set stat="pAtkSpd" order="0x8" val="325"/>
+    <enchant stat="pAtk" order="0xc" val="0"/>
+    <enchant stat="mAtk" order="0xc" val="0"/>
+   </stats>
+  </weapon>
+  <weapon id="4872" name="Heavy Doom Axe - Magic Chaos" weaponType="BigBlunt" >
+   <set icon="icon.weapon_heavy_doom_axe_i01"/>
+   <set bodyPart="LRHAND" grade="C"/>
+   <set crystallizable="true" crystal_count="705" />
+   <set weight="1010" price="2290000"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <stats>
+    <set stat="pAtk" order="0x8" val="103"/>
+    <set stat="mAtk" order="0x8" val="81"/>
+    <set stat="rCrit" order="0x8" val="4"/>
+    <add stat="accCombat" order="0x10" val="4"/>
+    <set stat="pAtkSpd" order="0x8" val="325"/>
+    <enchant stat="pAtk" order="0xc" val="0"/>
+    <enchant stat="mAtk" order="0xc" val="0"/>
+   </stats>
+  </weapon>
+  <weapon id="4873" name="Cursed Staff - Magic Hold" weaponType="BigBlunt" >
+   <set icon="icon.weapon_cursed_staff_i01"/>
+   <set bodyPart="LRHAND" grade="C"/>
+   <set crystallizable="true" crystal_count="884" />
+   <set weight="1000" price="2870000"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <stats>
+    <set stat="pAtk" order="0x8" val="119"/>
+    <set stat="mAtk" order="0x8" val="91"/>
+    <set stat="rCrit" order="0x8" val="4"/>
+    <add stat="accCombat" order="0x10" val="4"/>
+    <set stat="pAtkSpd" order="0x8" val="325"/>
+    <enchant stat="pAtk" order="0xc" val="0"/>
+    <enchant stat="mAtk" order="0xc" val="0"/>
+   </stats>
+  </weapon>
+  <weapon id="4874" name="Cursed Staff - Magic Poison" weaponType="BigBlunt" >
+   <set icon="icon.weapon_cursed_staff_i01"/>
+   <set bodyPart="LRHAND" grade="C"/>
+   <set crystallizable="true" crystal_count="884" />
+   <set weight="1000" price="2870000"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <stats>
+    <set stat="pAtk" order="0x8" val="119"/>
+    <set stat="mAtk" order="0x8" val="91"/>
+    <set stat="rCrit" order="0x8" val="4"/>
+    <add stat="accCombat" order="0x10" val="4"/>
+    <set stat="pAtkSpd" order="0x8" val="325"/>
+    <enchant stat="pAtk" order="0xc" val="0"/>
+    <enchant stat="mAtk" order="0xc" val="0"/>
+   </stats>
+  </weapon>
+  <weapon id="4875" name="Cursed Staff - Magic Weakness" weaponType="BigBlunt" >
+   <set icon="icon.weapon_cursed_staff_i01"/>
+   <set bodyPart="LRHAND" grade="C"/>
+   <set crystallizable="true" crystal_count="884" />
+   <set weight="1000" price="2870000"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <stats>
+    <set stat="pAtk" order="0x8" val="119"/>
+    <set stat="mAtk" order="0x8" val="91"/>
+    <set stat="rCrit" order="0x8" val="4"/>
+    <add stat="accCombat" order="0x10" val="4"/>
+    <set stat="pAtkSpd" order="0x8" val="325"/>
+    <enchant stat="pAtk" order="0xc" val="0"/>
+    <enchant stat="mAtk" order="0xc" val="0"/>
+   </stats>
+  </weapon>
+  <weapon id="4876" name="Paradia Staff - Magic Regeneration" weaponType="BigBlunt" >
+   <set icon="icon.weapon_paradia_staff_i01"/>
+   <set bodyPart="LRHAND" grade="C"/>
+   <set crystallizable="true" crystal_count="1322" />
+   <set weight="1010" price="4300000"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <stats>
+    <set stat="pAtk" order="0x8" val="135"/>
+    <set stat="mAtk" order="0x8" val="101"/>
+    <set stat="rCrit" order="0x8" val="4"/>
+    <add stat="accCombat" order="0x10" val="4"/>
+    <set stat="pAtkSpd" order="0x8" val="325"/>
+    <enchant stat="pAtk" order="0xc" val="0"/>
+    <enchant stat="mAtk" order="0xc" val="0"/>
+   </stats>
+  </weapon>
+  <weapon id="4877" name="Paradia Staff - Mental Shield" weaponType="BigBlunt" >
+   <set icon="icon.weapon_paradia_staff_i01"/>
+   <set bodyPart="LRHAND" grade="C"/>
+   <set crystallizable="true" crystal_count="1322" />
+   <set weight="1010" price="4300000"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <stats>
+    <set stat="pAtk" order="0x8" val="135"/>
+    <set stat="mAtk" order="0x8" val="101"/>
+    <set stat="rCrit" order="0x8" val="4"/>
+    <add stat="accCombat" order="0x10" val="4"/>
+    <set stat="pAtkSpd" order="0x8" val="325"/>
+    <enchant stat="pAtk" order="0xc" val="0"/>
+    <enchant stat="mAtk" order="0xc" val="0"/>
+   </stats>
+  </weapon>
+  <weapon id="4878" name="Paradia Staff - Magic Hold" weaponType="BigBlunt" >
+   <set icon="icon.weapon_paradia_staff_i01"/>
+   <set bodyPart="LRHAND" grade="C"/>
+   <set crystallizable="true" crystal_count="1322" />
+   <set weight="1010" price="4300000"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <stats>
+    <set stat="pAtk" order="0x8" val="135"/>
+    <set stat="mAtk" order="0x8" val="101"/>
+    <set stat="rCrit" order="0x8" val="4"/>
+    <add stat="accCombat" order="0x10" val="4"/>
+    <set stat="pAtkSpd" order="0x8" val="325"/>
+    <enchant stat="pAtk" order="0xc" val="0"/>
+    <enchant stat="mAtk" order="0xc" val="0"/>
+   </stats>
+  </weapon>
+  <weapon id="4879" name="Pa'agrian Hammer - Rsk. Evasion" weaponType="BigBlunt" >
+   <set icon="icon.weapon_paagrio_hammer_i01"/>
+   <set bodyPart="LRHAND" grade="C"/>
+   <set crystallizable="true" crystal_count="1322" />
+   <set weight="1010" price="4300000"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <skills>
+      <skill id="3031" level="3"/>
+    </skills>
+
+   <stats>
+    <set stat="pAtk" order="0x8" val="135"/>
+    <set stat="mAtk" order="0x8" val="101"/>
+    <set stat="rCrit" order="0x8" val="4"/>
+    <add stat="accCombat" order="0x10" val="4"/>
+    <set stat="pAtkSpd" order="0x8" val="325"/>
+    <enchant stat="pAtk" order="0xc" val="0"/>
+    <enchant stat="mAtk" order="0xc" val="0"/>
+   </stats>
+  </weapon>
+  <weapon id="4880" name="Pa'agrian Hammer - Magic Poison" weaponType="BigBlunt" >
+   <set icon="icon.weapon_paagrio_hammer_i01"/>
+   <set bodyPart="LRHAND" grade="C"/>
+   <set crystallizable="true" crystal_count="1322" />
+   <set weight="1010" price="4300000"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <stats>
+    <set stat="pAtk" order="0x8" val="135"/>
+    <set stat="mAtk" order="0x8" val="101"/>
+    <set stat="rCrit" order="0x8" val="4"/>
+    <add stat="accCombat" order="0x10" val="4"/>
+    <set stat="pAtkSpd" order="0x8" val="325"/>
+    <enchant stat="pAtk" order="0xc" val="0"/>
+    <enchant stat="mAtk" order="0xc" val="0"/>
+   </stats>
+  </weapon>
+  <weapon id="4881" name="Pa'agrian Hammer - Magic Weakness" weaponType="BigBlunt" >
+   <set icon="icon.weapon_paagrio_hammer_i01"/>
+   <set bodyPart="LRHAND" grade="C"/>
+   <set crystallizable="true" crystal_count="1322" />
+   <set weight="1010" price="4300000"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <stats>
+    <set stat="pAtk" order="0x8" val="135"/>
+    <set stat="mAtk" order="0x8" val="101"/>
+    <set stat="rCrit" order="0x8" val="4"/>
+    <add stat="accCombat" order="0x10" val="4"/>
+    <set stat="pAtkSpd" order="0x8" val="325"/>
+    <enchant stat="pAtk" order="0xc" val="0"/>
+    <enchant stat="mAtk" order="0xc" val="0"/>
+   </stats>
+  </weapon>
+  <weapon id="4882" name="Sage's Staff - Magic Hold" weaponType="BigBlunt" >
+   <set icon="icon.weapon_sages_staff_i01"/>
+   <set bodyPart="LRHAND" grade="C"/>
+   <set crystallizable="true" crystal_count="1322" />
+   <set weight="1000" price="4300000"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <stats>
+    <set stat="pAtk" order="0x8" val="135"/>
+    <set stat="mAtk" order="0x8" val="101"/>
+    <set stat="rCrit" order="0x8" val="4"/>
+    <add stat="accCombat" order="0x10" val="4"/>
+    <set stat="pAtkSpd" order="0x8" val="325"/>
+    <enchant stat="pAtk" order="0xc" val="0"/>
+    <enchant stat="mAtk" order="0xc" val="0"/>
+   </stats>
+  </weapon>
+  <weapon id="4883" name="Sage's Staff - Magic Poison" weaponType="BigBlunt" >
+   <set icon="icon.weapon_sages_staff_i01"/>
+   <set bodyPart="LRHAND" grade="C"/>
+   <set crystallizable="true" crystal_count="1322" />
+   <set weight="1000" price="4300000"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <stats>
+    <set stat="pAtk" order="0x8" val="135"/>
+    <set stat="mAtk" order="0x8" val="101"/>
+    <set stat="rCrit" order="0x8" val="4"/>
+    <add stat="accCombat" order="0x10" val="4"/>
+    <set stat="pAtkSpd" order="0x8" val="325"/>
+    <enchant stat="pAtk" order="0xc" val="0"/>
+    <enchant stat="mAtk" order="0xc" val="0"/>
+   </stats>
+  </weapon>
+  <weapon id="4884" name="Sage's Staff - Magic Weakness" weaponType="BigBlunt" >
+   <set icon="icon.weapon_sages_staff_i01"/>
+   <set bodyPart="LRHAND" grade="C"/>
+   <set crystallizable="true" crystal_count="1322" />
+   <set weight="1000" price="4300000"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <stats>
+    <set stat="pAtk" order="0x8" val="135"/>
+    <set stat="mAtk" order="0x8" val="101"/>
+    <set stat="rCrit" order="0x8" val="4"/>
+    <add stat="accCombat" order="0x10" val="4"/>
+    <set stat="pAtkSpd" order="0x8" val="325"/>
+    <enchant stat="pAtk" order="0xc" val="0"/>
+    <enchant stat="mAtk" order="0xc" val="0"/>
+   </stats>
+  </weapon>
+  <weapon id="4885" name="Pa'agrian Axe - Mana Up" weaponType="BigBlunt" >
+   <set icon="icon.weapon_paagrio_axe_i01"/>
+   <set bodyPart="LRHAND" grade="C"/>
+   <set crystallizable="true" crystal_count="1471" />
+   <set weight="990" price="4780000"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <skills>
+      <skill id="3014" level="1"/>
+    </skills>
+
+   <stats>
+    <set stat="pAtk" order="0x8" val="141"/>
+    <set stat="mAtk" order="0x8" val="104"/>
+    <set stat="rCrit" order="0x8" val="4"/>
+    <add stat="accCombat" order="0x10" val="4"/>
+    <set stat="pAtkSpd" order="0x8" val="325"/>
+    <enchant stat="pAtk" order="0xc" val="0"/>
+    <enchant stat="mAtk" order="0xc" val="0"/>
+   </stats>
+  </weapon>
+  <weapon id="4886" name="Pa'agrian Axe - Magic Weakness" weaponType="BigBlunt" >
+   <set icon="icon.weapon_paagrio_axe_i01"/>
+   <set bodyPart="LRHAND" grade="C"/>
+   <set crystallizable="true" crystal_count="1471" />
+   <set weight="990" price="4780000"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <stats>
+    <set stat="pAtk" order="0x8" val="141"/>
+    <set stat="mAtk" order="0x8" val="104"/>
+    <set stat="rCrit" order="0x8" val="4"/>
+    <add stat="accCombat" order="0x10" val="4"/>
+    <set stat="pAtkSpd" order="0x8" val="325"/>
+    <enchant stat="pAtk" order="0xc" val="0"/>
+    <enchant stat="mAtk" order="0xc" val="0"/>
+   </stats>
+  </weapon>
+  <weapon id="4887" name="Pa'agrian Axe - Magic Chaos" weaponType="BigBlunt" >
+   <set icon="icon.weapon_paagrio_axe_i01"/>
+   <set bodyPart="LRHAND" grade="C"/>
+   <set crystallizable="true" crystal_count="1471" />
+   <set weight="990" price="4780000"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <stats>
+    <set stat="pAtk" order="0x8" val="141"/>
+    <set stat="mAtk" order="0x8" val="104"/>
+    <set stat="rCrit" order="0x8" val="4"/>
+    <add stat="accCombat" order="0x10" val="4"/>
+    <set stat="pAtkSpd" order="0x8" val="325"/>
+    <enchant stat="pAtk" order="0xc" val="0"/>
+    <enchant stat="mAtk" order="0xc" val="0"/>
+   </stats>
+  </weapon>
+  <weapon id="4888" name="Deadman's Staff - Magic Regeneration" weaponType="BigBlunt" >
+   <set icon="icon.weapon_deadmans_staff_i01"/>
+   <set bodyPart="LRHAND" grade="C"/>
+   <set crystallizable="true" crystal_count="1885" />
+   <set weight="1010" price="6130000"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <stats>
+    <set stat="pAtk" order="0x8" val="152"/>
+    <set stat="mAtk" order="0x8" val="111"/>
+    <set stat="rCrit" order="0x8" val="4"/>
+    <add stat="accCombat" order="0x10" val="4"/>
+    <set stat="pAtkSpd" order="0x8" val="325"/>
+    <enchant stat="pAtk" order="0xc" val="0"/>
+    <enchant stat="mAtk" order="0xc" val="0"/>
+   </stats>
+  </weapon>
+  <weapon id="4889" name="Deadman's Staff - Mental Shield" weaponType="BigBlunt" >
+   <set icon="icon.weapon_deadmans_staff_i01"/>
+   <set bodyPart="LRHAND" grade="C"/>
+   <set crystallizable="true" crystal_count="1885" />
+   <set weight="1010" price="6130000"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <stats>
+    <set stat="pAtk" order="0x8" val="152"/>
+    <set stat="mAtk" order="0x8" val="111"/>
+    <set stat="rCrit" order="0x8" val="4"/>
+    <add stat="accCombat" order="0x10" val="4"/>
+    <set stat="pAtkSpd" order="0x8" val="325"/>
+    <enchant stat="pAtk" order="0xc" val="0"/>
+    <enchant stat="mAtk" order="0xc" val="0"/>
+   </stats>
+  </weapon>
+  <weapon id="4890" name="Deadman's Staff - Magic Hold" weaponType="BigBlunt" >
+   <set icon="icon.weapon_deadmans_staff_i01"/>
+   <set bodyPart="LRHAND" grade="C"/>
+   <set crystallizable="true" crystal_count="1885" />
+   <set weight="1010" price="6130000"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <stats>
+    <set stat="pAtk" order="0x8" val="152"/>
+    <set stat="mAtk" order="0x8" val="111"/>
+    <set stat="rCrit" order="0x8" val="4"/>
+    <add stat="accCombat" order="0x10" val="4"/>
+    <set stat="pAtkSpd" order="0x8" val="325"/>
+    <enchant stat="pAtk" order="0xc" val="0"/>
+    <enchant stat="mAtk" order="0xc" val="0"/>
+   </stats>
+  </weapon>
+  <weapon id="4891" name="Ghoul's Staff - Rsk. Evasion" weaponType="BigBlunt" >
+   <set icon="icon.weapon_ghouls_staff_i01"/>
+   <set bodyPart="LRHAND" grade="C"/>
+   <set crystallizable="true" crystal_count="1885" />
+   <set weight="1000" price="6130000"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <skills>
+      <skill id="3031" level="4"/>
+    </skills>
+
+   <stats>
+    <set stat="pAtk" order="0x8" val="152"/>
+    <set stat="mAtk" order="0x8" val="111"/>
+    <set stat="rCrit" order="0x8" val="4"/>
+    <add stat="accCombat" order="0x10" val="4"/>
+    <set stat="pAtkSpd" order="0x8" val="325"/>
+    <enchant stat="pAtk" order="0xc" val="0"/>
+    <enchant stat="mAtk" order="0xc" val="0"/>
+   </stats>
+  </weapon>
+  <weapon id="4892" name="Ghoul's Staff - Mana Up" weaponType="BigBlunt" >
+   <set icon="icon.weapon_ghouls_staff_i01"/>
+   <set bodyPart="LRHAND" grade="C"/>
+   <set crystallizable="true" crystal_count="1885" />
+   <set weight="1000" price="6130000"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <skills>
+      <skill id="3014" level="1"/>
+    </skills>
+
+   <stats>
+    <set stat="pAtk" order="0x8" val="152"/>
+    <set stat="mAtk" order="0x8" val="111"/>
+    <set stat="rCrit" order="0x8" val="4"/>
+    <add stat="accCombat" order="0x10" val="4"/>
+    <set stat="pAtkSpd" order="0x8" val="325"/>
+    <enchant stat="pAtk" order="0xc" val="0"/>
+    <enchant stat="mAtk" order="0xc" val="0"/>
+   </stats>
+  </weapon>
+  <weapon id="4893" name="Ghoul's Staff - Blessed Body" weaponType="BigBlunt" >
+   <set icon="icon.weapon_ghouls_staff_i01"/>
+   <set bodyPart="LRHAND" grade="C"/>
+   <set crystallizable="true" crystal_count="1885" />
+   <set weight="1000" price="6130000"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <stats>
+    <set stat="pAtk" order="0x8" val="152"/>
+    <set stat="mAtk" order="0x8" val="111"/>
+    <set stat="rCrit" order="0x8" val="4"/>
+    <add stat="accCombat" order="0x10" val="4"/>
+    <set stat="pAtkSpd" order="0x8" val="325"/>
+    <enchant stat="pAtk" order="0xc" val="0"/>
+    <enchant stat="mAtk" order="0xc" val="0"/>
+   </stats>
+  </weapon>
+  <weapon id="4894" name="Demon's Staff - Magic Poison" weaponType="BigBlunt" >
+   <set icon="icon.weapon_demons_staff_i01"/>
+   <set bodyPart="LRHAND" grade="C"/>
+   <set crystallizable="true" crystal_count="1885" />
+   <set weight="990" price="6130000"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <stats>
+    <set stat="pAtk" order="0x8" val="152"/>
+    <set stat="mAtk" order="0x8" val="111"/>
+    <set stat="rCrit" order="0x8" val="4"/>
+    <add stat="accCombat" order="0x10" val="4"/>
+    <set stat="pAtkSpd" order="0x8" val="325"/>
+    <enchant stat="pAtk" order="0xc" val="0"/>
+    <enchant stat="mAtk" order="0xc" val="0"/>
+   </stats>
+  </weapon>
+  <weapon id="4895" name="Demon's Staff - Magic Weakness" weaponType="BigBlunt" >
+   <set icon="icon.weapon_demons_staff_i01"/>
+   <set bodyPart="LRHAND" grade="C"/>
+   <set crystallizable="true" crystal_count="1885" />
+   <set weight="990" price="6130000"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <stats>
+    <set stat="pAtk" order="0x8" val="152"/>
+    <set stat="mAtk" order="0x8" val="111"/>
+    <set stat="rCrit" order="0x8" val="4"/>
+    <add stat="accCombat" order="0x10" val="4"/>
+    <set stat="pAtkSpd" order="0x8" val="325"/>
+    <enchant stat="pAtk" order="0xc" val="0"/>
+    <enchant stat="mAtk" order="0xc" val="0"/>
+   </stats>
+  </weapon>
+  <weapon id="4896" name="Demon's Staff - Magic Chaos" weaponType="BigBlunt" >
+   <set icon="icon.weapon_demons_staff_i01"/>
+   <set bodyPart="LRHAND" grade="C"/>
+   <set crystallizable="true" crystal_count="1885" />
+   <set weight="990" price="6130000"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <stats>
+    <set stat="pAtk" order="0x8" val="152"/>
+    <set stat="mAtk" order="0x8" val="111"/>
+    <set stat="rCrit" order="0x8" val="4"/>
+    <add stat="accCombat" order="0x10" val="4"/>
+    <set stat="pAtkSpd" order="0x8" val="325"/>
+    <enchant stat="pAtk" order="0xc" val="0"/>
+    <enchant stat="mAtk" order="0xc" val="0"/>
+   </stats>
+  </weapon>
+  <weapon id="4897" name="Sprite's Staff - Magic Regeneration" weaponType="BigBlunt" >
+   <set icon="icon.weapon_sprites_staff_i01"/>
+   <set bodyPart="LRHAND" grade="B"/>
+   <set crystallizable="true" crystal_count="891" />
+   <set weight="960" price="8680000"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <stats>
+    <set stat="pAtk" order="0x8" val="170"/>
+    <set stat="mAtk" order="0x8" val="122"/>
+    <set stat="rCrit" order="0x8" val="4"/>
+    <add stat="accCombat" order="0x10" val="4"/>
+    <set stat="pAtkSpd" order="0x8" val="325"/>
+    <enchant stat="pAtk" order="0xc" val="0"/>
+    <enchant stat="mAtk" order="0xc" val="0"/>
+   </stats>
+  </weapon>
+  <weapon id="4898" name="Sprite's Staff - Mental Shield" weaponType="BigBlunt" >
+   <set icon="icon.weapon_sprites_staff_i01"/>
+   <set bodyPart="LRHAND" grade="B"/>
+   <set crystallizable="true" crystal_count="891" />
+   <set weight="960" price="8680000"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <stats>
+    <set stat="pAtk" order="0x8" val="170"/>
+    <set stat="mAtk" order="0x8" val="122"/>
+    <set stat="rCrit" order="0x8" val="4"/>
+    <add stat="accCombat" order="0x10" val="4"/>
+    <set stat="pAtkSpd" order="0x8" val="325"/>
+    <enchant stat="pAtk" order="0xc" val="0"/>
+    <enchant stat="mAtk" order="0xc" val="0"/>
+   </stats>
+  </weapon>
+  <weapon id="4899" name="Sprite's Staff - Magic Hold" weaponType="BigBlunt" >
+   <set icon="icon.weapon_sprites_staff_i01"/>
+   <set bodyPart="LRHAND" grade="B"/>
+   <set crystallizable="true" crystal_count="891" />
+   <set weight="960" price="8680000"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <stats>
+    <set stat="pAtk" order="0x8" val="170"/>
+    <set stat="mAtk" order="0x8" val="122"/>
+    <set stat="rCrit" order="0x8" val="4"/>
+    <add stat="accCombat" order="0x10" val="4"/>
+    <set stat="pAtkSpd" order="0x8" val="325"/>
+    <enchant stat="pAtk" order="0xc" val="0"/>
+    <enchant stat="mAtk" order="0xc" val="0"/>
+   </stats>
+  </weapon>
+  <weapon id="4900" name="Staff of Evil Spirits - Magic Focus" weaponType="BigBlunt" >
+   <set icon="icon.weapon_staff_of_evil_sprit_i01"/>
+   <set bodyPart="LRHAND" grade="B"/>
+   <set crystallizable="true" crystal_count="1346" />
+   <set weight="930" price="13100000"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <stats>
+    <set stat="pAtk" order="0x8" val="189"/>
+    <set stat="mAtk" order="0x8" val="132"/>
+    <set stat="rCrit" order="0x8" val="4"/>
+    <add stat="accCombat" order="0x10" val="4"/>
+    <set stat="pAtkSpd" order="0x8" val="325"/>
+    <enchant stat="pAtk" order="0xc" val="0"/>
+    <enchant stat="mAtk" order="0xc" val="0"/>
+   </stats>
+  </weapon>
+  <weapon id="4901" name="Staff of Evil Spirits - Blessed Body" weaponType="BigBlunt" >
+   <set icon="icon.weapon_staff_of_evil_sprit_i01"/>
+   <set bodyPart="LRHAND" grade="B"/>
+   <set crystallizable="true" crystal_count="1346" />
+   <set weight="930" price="13100000"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <stats>
+    <set stat="pAtk" order="0x8" val="189"/>
+    <set stat="mAtk" order="0x8" val="132"/>
+    <set stat="rCrit" order="0x8" val="4"/>
+    <add stat="accCombat" order="0x10" val="4"/>
+    <set stat="pAtkSpd" order="0x8" val="325"/>
+    <enchant stat="pAtk" order="0xc" val="0"/>
+    <enchant stat="mAtk" order="0xc" val="0"/>
+   </stats>
+  </weapon>
+  <weapon id="4902" name="Staff of Evil Spirits - Magic Poison" weaponType="BigBlunt" >
+   <set icon="icon.weapon_staff_of_evil_sprit_i01"/>
+   <set bodyPart="LRHAND" grade="B"/>
+   <set crystallizable="true" crystal_count="1346" />
+   <set weight="930" price="13100000"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <stats>
+    <set stat="pAtk" order="0x8" val="189"/>
+    <set stat="mAtk" order="0x8" val="132"/>
+    <set stat="rCrit" order="0x8" val="4"/>
+    <add stat="accCombat" order="0x10" val="4"/>
+    <set stat="pAtkSpd" order="0x8" val="325"/>
+    <enchant stat="pAtk" order="0xc" val="0"/>
+    <enchant stat="mAtk" order="0xc" val="0"/>
+   </stats>
+  </weapon>
+  <weapon id="4903" name="Dasparion's Staff" weaponType="BigBlunt" >
+   <set icon="icon.weapon_dasparions_staff_i01"/>
+   <set bodyPart="LRHAND" grade="A"/>
+   <set crystallizable="true" crystal_count="1128" />
+   <set weight="920" price="18300000"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <stats>
+    <set stat="pAtk" order="0x8" val="207"/>
+    <set stat="mAtk" order="0x8" val="143"/>
+    <set stat="rCrit" order="0x8" val="4"/>
+    <add stat="accCombat" order="0x10" val="4"/>
+    <set stat="pAtkSpd" order="0x8" val="325"/>
+    <enchant stat="pAtk" order="0xc" val="0"/>
+    <enchant stat="mAtk" order="0xc" val="0"/>
+   </stats>
+  </weapon>
+  <weapon id="4904" name="Dasparion's Staff" weaponType="BigBlunt" >
+   <set icon="icon.weapon_dasparions_staff_i01"/>
+   <set bodyPart="LRHAND" grade="A"/>
+   <set crystallizable="true" crystal_count="1128" />
+   <set weight="920" price="18300000"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <stats>
+    <set stat="pAtk" order="0x8" val="207"/>
+    <set stat="mAtk" order="0x8" val="143"/>
+    <set stat="rCrit" order="0x8" val="4"/>
+    <add stat="accCombat" order="0x10" val="4"/>
+    <set stat="pAtkSpd" order="0x8" val="325"/>
+    <enchant stat="pAtk" order="0xc" val="0"/>
+    <enchant stat="mAtk" order="0xc" val="0"/>
+   </stats>
+  </weapon>
+  <weapon id="4905" name="Dasparion's Staff" weaponType="BigBlunt" >
+   <set icon="icon.weapon_dasparions_staff_i01"/>
+   <set bodyPart="LRHAND" grade="A"/>
+   <set crystallizable="true" crystal_count="1128" />
+   <set weight="920" price="18300000"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <stats>
+    <set stat="pAtk" order="0x8" val="207"/>
+    <set stat="mAtk" order="0x8" val="143"/>
+    <set stat="rCrit" order="0x8" val="4"/>
+    <add stat="accCombat" order="0x10" val="4"/>
+    <set stat="pAtkSpd" order="0x8" val="325"/>
+    <enchant stat="pAtk" order="0xc" val="0"/>
+    <enchant stat="mAtk" order="0xc" val="0"/>
+   </stats>
+  </weapon>
+</list>

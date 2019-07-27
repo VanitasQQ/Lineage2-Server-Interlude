@@ -1,0 +1,857 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<list>
+  <jewelry id="116" name="Magic Ring"  >
+   <set icon="icon.accessary_magic_ring_i00"/>
+   <set bodyPart="LFINGER,RFINGER" grade="NONE"/>
+   <set crystallizable="false" />
+   <set weight="150" price="33"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <stats>
+    <add stat="mDef" order="0x10" val="7"/>
+   </stats>
+  </jewelry>
+  <jewelry id="117" name="Ring of Mana"  >
+   <set icon="icon.accessary_ring_of_mana_i00"/>
+   <set bodyPart="LFINGER,RFINGER" grade="B"/>
+   <set crystallizable="true" crystal_count="54" />
+   <set weight="150" price="404000"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <stats>
+    <add stat="mDef" order="0x10" val="34"/>
+    <enchant stat="mDef" order="0xc" val="0"/>
+   </stats>
+  </jewelry>
+  <jewelry id="118" name="Necklace of Magic"  >
+   <set icon="icon.accessary_necklace_of_magic_i00"/>
+   <set bodyPart="NECK" grade="NONE"/>
+   <set crystallizable="false" />
+   <set weight="150" price="66"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <stats>
+    <add stat="mDef" order="0x10" val="15"/>
+   </stats>
+  </jewelry>
+  <jewelry id="119" name="Necklace of Binding"  >
+   <set icon="icon.accessary_necklace_of_binding_i00"/>
+   <set bodyPart="NECK" grade="C"/>
+   <set crystallizable="true" crystal_count="174" />
+   <set weight="150" price="434399"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <stats>
+    <add stat="mDef" order="0x10" val="64"/>
+    <enchant stat="mDef" order="0xc" val="0"/>
+   </stats>
+  </jewelry>
+  <jewelry id="875" name="Ring of Knowledge"  >
+   <set icon="icon.accessary_ring_of_knowledge_i00"/>
+   <set bodyPart="LFINGER,RFINGER" grade="NONE"/>
+   <set crystallizable="false" />
+   <set weight="150" price="540"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <stats>
+    <add stat="mDef" order="0x10" val="9"/>
+   </stats>
+  </jewelry>
+  <jewelry id="876" name="Ring of Anguish"  >
+   <set icon="icon.accessary_ring_of_anguish_i00"/>
+   <set bodyPart="LFINGER,RFINGER" grade="NONE"/>
+   <set crystallizable="false" />
+   <set weight="150" price="2340"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <stats>
+    <add stat="mDef" order="0x10" val="11"/>
+   </stats>
+  </jewelry>
+  <jewelry id="877" name="Ring of Wisdom"  >
+   <set icon="icon.accessary_ring_of_wisdom_i00"/>
+   <set bodyPart="LFINGER,RFINGER" grade="NONE"/>
+   <set crystallizable="false" />
+   <set weight="150" price="4560"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <stats>
+    <add stat="mDef" order="0x10" val="12"/>
+   </stats>
+  </jewelry>
+  <jewelry id="878" name="Blue Coral Ring"  >
+   <set icon="icon.accessary_blue_coral_ring_i00"/>
+   <set bodyPart="LFINGER,RFINGER" grade="NONE"/>
+   <set crystallizable="false" />
+   <set weight="150" price="8200"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <stats>
+    <add stat="mDef" order="0x10" val="14"/>
+   </stats>
+  </jewelry>
+  <jewelry id="879" name="Enchanted Ring"  >
+   <set icon="icon.accessary_enchanted_ring_i00"/>
+   <set bodyPart="LFINGER,RFINGER" grade="D"/>
+   <set crystallizable="true" crystal_count="40" />
+   <set weight="150" price="21800"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <stats>
+    <add stat="mDef" order="0x10" val="18"/>
+    <enchant stat="mDef" order="0xc" val="0"/>
+   </stats>
+  </jewelry>
+  <jewelry id="880" name="Black Pearl Ring"  >
+   <set icon="icon.accessary_black_pearl_ring_i00"/>
+   <set bodyPart="LFINGER,RFINGER" grade="D"/>
+   <set crystallizable="true" crystal_count="61" />
+   <set weight="150" price="33000"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <stats>
+    <add stat="mDef" order="0x10" val="20"/>
+    <enchant stat="mDef" order="0xc" val="0"/>
+   </stats>
+  </jewelry>
+  <jewelry id="881" name="Elven Ring"  >
+   <set icon="icon.accessary_elven_ring_i00"/>
+   <set bodyPart="LFINGER,RFINGER" grade="D"/>
+   <set crystallizable="true" crystal_count="88" />
+   <set weight="150" price="47900"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <stats>
+    <add stat="mDef" order="0x10" val="22"/>
+    <enchant stat="mDef" order="0xc" val="0"/>
+   </stats>
+  </jewelry>
+  <jewelry id="882" name="Mithril Ring"  >
+   <set icon="icon.accessary_mithril_ring_i00"/>
+   <set bodyPart="LFINGER,RFINGER" grade="D"/>
+   <set crystallizable="true" crystal_count="115" />
+   <set weight="150" price="62200"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <stats>
+    <add stat="mDef" order="0x10" val="24"/>
+    <enchant stat="mDef" order="0xc" val="0"/>
+   </stats>
+  </jewelry>
+  <jewelry id="883" name="Aquastone Ring"  >
+   <set icon="icon.accessary_aquastone_ring_i00"/>
+   <set bodyPart="LFINGER,RFINGER" grade="C"/>
+   <set crystallizable="true" crystal_count="32" />
+   <set weight="150" price="79500"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <stats>
+    <add stat="mDef" order="0x10" val="26"/>
+    <enchant stat="mDef" order="0xc" val="0"/>
+   </stats>
+  </jewelry>
+  <jewelry id="884" name="Ring of Protection"  >
+   <set icon="icon.accessary_ring_of_protection_i00"/>
+   <set bodyPart="LFINGER,RFINGER" grade="C"/>
+   <set crystallizable="true" crystal_count="40" />
+   <set weight="150" price="100299"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <stats>
+    <add stat="mDef" order="0x10" val="28"/>
+    <enchant stat="mDef" order="0xc" val="0"/>
+   </stats>
+  </jewelry>
+  <jewelry id="885" name="Ring of Ages"  >
+   <set icon="icon.accessary_ring_of_ages_i00"/>
+   <set bodyPart="LFINGER,RFINGER" grade="C"/>
+   <set crystallizable="true" crystal_count="60" />
+   <set weight="150" price="151100"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <stats>
+    <add stat="mDef" order="0x10" val="30"/>
+    <enchant stat="mDef" order="0xc" val="0"/>
+   </stats>
+  </jewelry>
+  <jewelry id="886" name="Ring of Binding"  >
+   <set icon="icon.accessary_ring_of_binding_i00"/>
+   <set bodyPart="LFINGER,RFINGER" grade="C"/>
+   <set crystallizable="true" crystal_count="87" />
+   <set weight="150" price="217199"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <stats>
+    <add stat="mDef" order="0x10" val="32"/>
+    <enchant stat="mDef" order="0xc" val="0"/>
+   </stats>
+  </jewelry>
+  <jewelry id="887" name="Adamantite Ring"  >
+   <set icon="icon.accessary_adamantite_ring_i00"/>
+   <set bodyPart="LFINGER,RFINGER" grade="B"/>
+   <set crystallizable="true" crystal_count="41" />
+   <set weight="150" price="404000"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <stats>
+    <add stat="mDef" order="0x10" val="34"/>
+    <enchant stat="mDef" order="0xc" val="0"/>
+   </stats>
+  </jewelry>
+  <jewelry id="888" name="Blessed Ring"  >
+   <set icon="icon.accessary_blessed_ring_i00"/>
+   <set bodyPart="LFINGER,RFINGER" grade="C"/>
+   <set crystallizable="true" crystal_count="113" />
+   <set weight="150" price="282000"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <stats>
+    <add stat="mDef" order="0x10" val="32"/>
+    <enchant stat="mDef" order="0xc" val="0"/>
+   </stats>
+  </jewelry>
+  <jewelry id="889" name="Tateossian Ring"  >
+   <set icon="icon.accessory_tateossian_ring_i00"/>
+   <set bodyPart="LFINGER,RFINGER" grade="S"/>
+   <set crystallizable="true" crystal_count="105" />
+   <set weight="150" price="2960000"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <stats>
+    <add stat="mDef" order="0x10" val="48"/>
+    <add stat="maxMp" order="0x10" val="21"/>
+    <enchant stat="mDef" order="0xc" val="0"/>
+   </stats>
+  </jewelry>
+  <jewelry id="890" name="Ring of Devotion"  >
+   <set icon="icon.accessary_ring_of_devotion_i00"/>
+   <set bodyPart="LFINGER,RFINGER" grade="D"/>
+   <set crystallizable="true" crystal_count="25" />
+   <set weight="150" price="13800"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <stats>
+    <add stat="mDef" order="0x10" val="16"/>
+    <enchant stat="mDef" order="0xc" val="0"/>
+   </stats>
+  </jewelry>
+  <jewelry id="891" name="Sage's Ring"  >
+   <set icon="icon.accessary_sages_ring_i00"/>
+   <set bodyPart="LFINGER,RFINGER" grade="B"/>
+   <set crystallizable="true" crystal_count="82" />
+   <set weight="150" price="616000"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <stats>
+    <add stat="mDef" order="0x10" val="36"/>
+    <enchant stat="mDef" order="0xc" val="0"/>
+   </stats>
+  </jewelry>
+  <jewelry id="892" name="Paradia Ring"  >
+   <set icon="icon.accessary_paradia_ring_i00"/>
+   <set bodyPart="LFINGER,RFINGER" grade="B"/>
+   <set crystallizable="true" crystal_count="82" />
+   <set weight="150" price="616000"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <stats>
+    <add stat="mDef" order="0x10" val="36"/>
+    <enchant stat="mDef" order="0xc" val="0"/>
+   </stats>
+  </jewelry>
+  <jewelry id="893" name="Majestic Ring"  >
+   <set icon="icon.accessary_inferno_ring_i00"/>
+   <set bodyPart="LFINGER,RFINGER" grade="A"/>
+   <set crystallizable="true" crystal_count="80" />
+   <set weight="150" price="1730000"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <stats>
+    <add stat="mDef" order="0x10" val="42"/>
+    <add stat="maxMp" order="0x10" val="17"/>
+    <enchant stat="mDef" order="0xc" val="0"/>
+   </stats>
+  </jewelry>
+  <jewelry id="894" name="Ring of Solar Eclipse"  >
+   <set icon="icon.accessary_ring_of_sola_eclipse_i00"/>
+   <set bodyPart="LFINGER,RFINGER" grade="B"/>
+   <set crystallizable="true" crystal_count="54" />
+   <set weight="150" price="404000"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <stats>
+    <add stat="mDef" order="0x10" val="34"/>
+    <enchant stat="mDef" order="0xc" val="0"/>
+   </stats>
+  </jewelry>
+  <jewelry id="895" name="Ring of Black Ore"  >
+   <set icon="icon.accessary_ring_of_black_ore_i00"/>
+   <set bodyPart="LFINGER,RFINGER" grade="B"/>
+   <set crystallizable="true" crystal_count="63" />
+   <set weight="150" price="616000"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <stats>
+    <add stat="mDef" order="0x10" val="36"/>
+    <enchant stat="mDef" order="0xc" val="0"/>
+   </stats>
+  </jewelry>
+  <jewelry id="896" name="Ring of Summoning"  >
+   <set icon="icon.accessary_ring_of_summons_i00"/>
+   <set bodyPart="LFINGER,RFINGER" grade="B"/>
+   <set crystallizable="true" crystal_count="54" />
+   <set weight="150" price="404000"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <stats>
+    <add stat="mDef" order="0x10" val="34"/>
+    <enchant stat="mDef" order="0xc" val="0"/>
+   </stats>
+  </jewelry>
+  <jewelry id="897" name="Otherworldly Ring"  >
+   <set icon="icon.accessary_another_worlds_ring_i00"/>
+   <set bodyPart="LFINGER,RFINGER" grade="B"/>
+   <set crystallizable="true" crystal_count="82" />
+   <set weight="150" price="616000"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <stats>
+    <add stat="mDef" order="0x10" val="36"/>
+    <enchant stat="mDef" order="0xc" val="0"/>
+   </stats>
+  </jewelry>
+  <jewelry id="898" name="Elemental Ring"  >
+   <set icon="icon.accessary_elemental_ring_i00"/>
+   <set bodyPart="LFINGER,RFINGER" grade="B"/>
+   <set crystallizable="true" crystal_count="82" />
+   <set weight="150" price="616000"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <stats>
+    <add stat="mDef" order="0x10" val="36"/>
+    <enchant stat="mDef" order="0xc" val="0"/>
+   </stats>
+  </jewelry>
+  <jewelry id="899" name="Ring of Phantom"  >
+   <set icon="icon.accessary_ring_of_phantom_i00"/>
+   <set bodyPart="LFINGER,RFINGER" grade="A"/>
+   <set crystallizable="true" crystal_count="104" />
+   <set weight="150" price="1300000"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <stats>
+    <add stat="mDef" order="0x10" val="40"/>
+    <enchant stat="mDef" order="0xc" val="0"/>
+   </stats>
+  </jewelry>
+  <jewelry id="900" name="Ring of Grace"  >
+   <set icon="icon.accessary_ring_of_grace_i00"/>
+   <set bodyPart="LFINGER,RFINGER" grade="B"/>
+   <set crystallizable="true" crystal_count="54" />
+   <set weight="150" price="404000"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <stats>
+    <add stat="mDef" order="0x10" val="34"/>
+    <enchant stat="mDef" order="0xc" val="0"/>
+   </stats>
+  </jewelry>
+  <jewelry id="901" name="Ring of Holy Spirit"  >
+   <set icon="icon.accessary_ring_of_holy_spirit_i00"/>
+   <set bodyPart="LFINGER,RFINGER" grade="B"/>
+   <set crystallizable="true" crystal_count="82" />
+   <set weight="150" price="616000"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <stats>
+    <add stat="mDef" order="0x10" val="36"/>
+    <enchant stat="mDef" order="0xc" val="0"/>
+   </stats>
+  </jewelry>
+  <jewelry id="902" name="Phoenix Ring"  >
+   <set icon="icon.accessary_phoenixs_ring_i00"/>
+   <set bodyPart="LFINGER,RFINGER" grade="A"/>
+   <set crystallizable="true" crystal_count="54" />
+   <set weight="150" price="1300000"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <stats>
+    <add stat="mDef" order="0x10" val="40"/>
+    <add stat="maxMp" order="0x10" val="13"/>
+    <enchant stat="mDef" order="0xc" val="0"/>
+   </stats>
+  </jewelry>
+  <jewelry id="903" name="Cerberus Ring"  >
+   <set icon="icon.accessary_cerberuss_ring_i00"/>
+   <set bodyPart="LFINGER,RFINGER" grade="A"/>
+   <set crystallizable="true" crystal_count="104" />
+   <set weight="150" price="1300000"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <stats>
+    <add stat="mDef" order="0x10" val="40"/>
+    <enchant stat="mDef" order="0xc" val="0"/>
+   </stats>
+  </jewelry>
+  <jewelry id="904" name="Ring of Aid"  >
+   <set icon="icon.accessary_ring_of_assistance_i00"/>
+   <set bodyPart="LFINGER,RFINGER" grade="B"/>
+   <set crystallizable="true" crystal_count="54" />
+   <set weight="150" price="404000"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <stats>
+    <add stat="mDef" order="0x10" val="34"/>
+    <enchant stat="mDef" order="0xc" val="0"/>
+   </stats>
+  </jewelry>
+  <jewelry id="905" name="Ring of Blessing"  >
+   <set icon="icon.accessary_ring_of_blessing_i00"/>
+   <set bodyPart="LFINGER,RFINGER" grade="B"/>
+   <set crystallizable="true" crystal_count="54" />
+   <set weight="150" price="404000"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <stats>
+    <add stat="mDef" order="0x10" val="34"/>
+    <enchant stat="mDef" order="0xc" val="0"/>
+   </stats>
+  </jewelry>
+  <jewelry id="906" name="Necklace of Knowledge"  >
+   <set icon="icon.accessary_necklace_of_knowledge_i00"/>
+   <set bodyPart="NECK" grade="NONE"/>
+   <set crystallizable="false" />
+   <set weight="150" price="1080"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <stats>
+    <add stat="mDef" order="0x10" val="18"/>
+   </stats>
+  </jewelry>
+  <jewelry id="907" name="Necklace of Anguish"  >
+   <set icon="icon.accessary_necklace_of_anguish_i00"/>
+   <set bodyPart="NECK" grade="NONE"/>
+   <set crystallizable="false" />
+   <set weight="150" price="4680"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <stats>
+    <add stat="mDef" order="0x10" val="21"/>
+   </stats>
+  </jewelry>
+  <jewelry id="908" name="Necklace of Wisdom"  >
+   <set icon="icon.accessary_necklace_of_wisdom_i00"/>
+   <set bodyPart="NECK" grade="NONE"/>
+   <set crystallizable="false" />
+   <set weight="150" price="9120"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <stats>
+    <add stat="mDef" order="0x10" val="25"/>
+   </stats>
+  </jewelry>
+  <jewelry id="909" name="Blue Diamond Necklace"  >
+   <set icon="icon.accessary_blue_diamond_necklace_i00"/>
+   <set bodyPart="NECK" grade="NONE"/>
+   <set crystallizable="false" />
+   <set weight="150" price="16400"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <stats>
+    <add stat="mDef" order="0x10" val="28"/>
+   </stats>
+  </jewelry>
+  <jewelry id="910" name="Necklace of Devotion"  >
+   <set icon="icon.accessary_necklace_of_devotion_i00"/>
+   <set bodyPart="NECK" grade="D"/>
+   <set crystallizable="true" crystal_count="51" />
+   <set weight="150" price="27600"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <stats>
+    <add stat="mDef" order="0x10" val="32"/>
+    <enchant stat="mDef" order="0xc" val="0"/>
+   </stats>
+  </jewelry>
+  <jewelry id="911" name="Enchanted Necklace"  >
+   <set icon="icon.accessary_enchanted_necklace_i00"/>
+   <set bodyPart="NECK" grade="D"/>
+   <set crystallizable="true" crystal_count="81" />
+   <set weight="150" price="43700"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <stats>
+    <add stat="mDef" order="0x10" val="36"/>
+    <enchant stat="mDef" order="0xc" val="0"/>
+   </stats>
+  </jewelry>
+  <jewelry id="912" name="Near Forest Necklace"  >
+   <set icon="icon.accessary_near_forest_necklace_i00"/>
+   <set bodyPart="NECK" grade="D"/>
+   <set crystallizable="true" crystal_count="122" />
+   <set weight="150" price="65900"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <stats>
+    <add stat="mDef" order="0x10" val="40"/>
+    <enchant stat="mDef" order="0xc" val="0"/>
+   </stats>
+  </jewelry>
+  <jewelry id="913" name="Elven Necklace"  >
+   <set icon="icon.accessary_elven_necklace_i00"/>
+   <set bodyPart="NECK" grade="D"/>
+   <set crystallizable="true" crystal_count="177" />
+   <set weight="150" price="95800"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <stats>
+    <add stat="mDef" order="0x10" val="45"/>
+    <enchant stat="mDef" order="0xc" val="0"/>
+   </stats>
+  </jewelry>
+  <jewelry id="914" name="Necklace of Darkness"  >
+   <set icon="icon.accessary_necklace_of_darkness_i00"/>
+   <set bodyPart="NECK" grade="D"/>
+   <set crystallizable="true" crystal_count="230" />
+   <set weight="150" price="124400"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <stats>
+    <add stat="mDef" order="0x10" val="48"/>
+    <enchant stat="mDef" order="0xc" val="0"/>
+   </stats>
+  </jewelry>
+  <jewelry id="915" name="Aquastone Necklace"  >
+   <set icon="icon.accessary_aquastone_necklace_i00"/>
+   <set bodyPart="NECK" grade="C"/>
+   <set crystallizable="true" crystal_count="64" />
+   <set weight="150" price="159000"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <stats>
+    <add stat="mDef" order="0x10" val="52"/>
+    <enchant stat="mDef" order="0xc" val="0"/>
+   </stats>
+  </jewelry>
+  <jewelry id="916" name="Necklace of Protection"  >
+   <set icon="icon.accessary_necklace_of_protection_i00"/>
+   <set bodyPart="NECK" grade="C"/>
+   <set crystallizable="true" crystal_count="80" />
+   <set weight="150" price="200599"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <stats>
+    <add stat="mDef" order="0x10" val="56"/>
+    <enchant stat="mDef" order="0xc" val="0"/>
+   </stats>
+  </jewelry>
+  <jewelry id="917" name="Necklace of Mermaid"  >
+   <set icon="icon.accessary_necklace_of_mermaid_i00"/>
+   <set bodyPart="NECK" grade="C"/>
+   <set crystallizable="true" crystal_count="121" />
+   <set weight="150" price="302100"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <stats>
+    <add stat="mDef" order="0x10" val="60"/>
+    <enchant stat="mDef" order="0xc" val="0"/>
+   </stats>
+  </jewelry>
+  <jewelry id="918" name="Adamantite Necklace"  >
+   <set icon="icon.accessary_adamantite_necklace_i00"/>
+   <set bodyPart="NECK" grade="B"/>
+   <set crystallizable="true" crystal_count="83" />
+   <set weight="150" price="808000"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <stats>
+    <add stat="mDef" order="0x10" val="68"/>
+    <enchant stat="mDef" order="0xc" val="0"/>
+   </stats>
+  </jewelry>
+  <jewelry id="919" name="Blessed Necklace"  >
+   <set icon="icon.accessary_blessed_necklace_i00"/>
+   <set bodyPart="NECK" grade="C"/>
+   <set crystallizable="true" crystal_count="226" />
+   <set weight="150" price="565000"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <stats>
+    <add stat="mDef" order="0x10" val="64"/>
+    <enchant stat="mDef" order="0xc" val="0"/>
+   </stats>
+  </jewelry>
+  <jewelry id="920" name="Tateossian Necklace"  >
+   <set icon="icon.accessory_tateossian_necklace_i00"/>
+   <set bodyPart="NECK" grade="S"/>
+   <set crystallizable="true" crystal_count="209" />
+   <set weight="150" price="5920000"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <stats>
+    <add stat="mDef" order="0x10" val="95"/>
+    <add stat="maxMp" order="0x10" val="42"/>
+    <enchant stat="mDef" order="0xc" val="0"/>
+   </stats>
+  </jewelry>
+  <jewelry id="921" name="Necklace of Mana"  >
+   <set icon="icon.accessary_necklace_of_mana_i00"/>
+   <set bodyPart="NECK" grade="B"/>
+   <set crystallizable="true" crystal_count="108" />
+   <set weight="150" price="808000"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <stats>
+    <add stat="mDef" order="0x10" val="72"/>
+    <enchant stat="mDef" order="0xc" val="0"/>
+   </stats>
+  </jewelry>
+  <jewelry id="922" name="Sage's Necklace"  >
+   <set icon="icon.accessary_sages_necklace_i00"/>
+   <set bodyPart="NECK" grade="B"/>
+   <set crystallizable="true" crystal_count="164" />
+   <set weight="150" price="1230000"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <stats>
+    <add stat="mDef" order="0x10" val="72"/>
+    <enchant stat="mDef" order="0xc" val="0"/>
+   </stats>
+  </jewelry>
+  <jewelry id="923" name="Paradia Necklace"  >
+   <set icon="icon.accessary_paradia_necklace_i00"/>
+   <set bodyPart="NECK" grade="B"/>
+   <set crystallizable="true" crystal_count="164" />
+   <set weight="150" price="1230000"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <stats>
+    <add stat="mDef" order="0x10" val="72"/>
+    <enchant stat="mDef" order="0xc" val="0"/>
+   </stats>
+  </jewelry>
+  <jewelry id="924" name="Majestic Necklace"  >
+   <set icon="icon.accessary_inferno_necklace_i00"/>
+   <set bodyPart="NECK" grade="A"/>
+   <set crystallizable="true" crystal_count="160" />
+   <set weight="150" price="3450000"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <stats>
+    <add stat="mDef" order="0x10" val="85"/>
+    <add stat="maxMp" order="0x10" val="33"/>
+    <enchant stat="mDef" order="0xc" val="0"/>
+   </stats>
+  </jewelry>
+  <jewelry id="925" name="Necklace of Solar Eclipse"  >
+   <set icon="icon.accessary_necklace_of_sola_eclipse_i00"/>
+   <set bodyPart="NECK" grade="B"/>
+   <set crystallizable="true" crystal_count="108" />
+   <set weight="150" price="808000"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <stats>
+    <add stat="mDef" order="0x10" val="68"/>
+    <enchant stat="mDef" order="0xc" val="0"/>
+   </stats>
+  </jewelry>
+  <jewelry id="926" name="Necklace of Black Ore"  >
+   <set icon="icon.accessary_necklace_of_black_ore_i00"/>
+   <set bodyPart="NECK" grade="B"/>
+   <set crystallizable="true" crystal_count="126" />
+   <set weight="150" price="1230000"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <stats>
+    <add stat="mDef" order="0x10" val="72"/>
+    <enchant stat="mDef" order="0xc" val="0"/>
+   </stats>
+  </jewelry>
+  <jewelry id="927" name="Necklace of Summoning"  >
+   <set icon="icon.accessary_necklace_of_summons_i00"/>
+   <set bodyPart="NECK" grade="B"/>
+   <set crystallizable="true" crystal_count="108" />
+   <set weight="150" price="808000"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <stats>
+    <add stat="mDef" order="0x10" val="68"/>
+    <enchant stat="mDef" order="0xc" val="0"/>
+   </stats>
+  </jewelry>
+  <jewelry id="928" name="Otherworldly Necklace"  >
+   <set icon="icon.accessary_another_worlds_necklace_i00"/>
+   <set bodyPart="NECK" grade="B"/>
+   <set crystallizable="true" crystal_count="164" />
+   <set weight="150" price="1230000"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <stats>
+    <add stat="mDef" order="0x10" val="72"/>
+    <enchant stat="mDef" order="0xc" val="0"/>
+   </stats>
+  </jewelry>
+  <jewelry id="929" name="Elemental Necklace"  >
+   <set icon="icon.accessary_elemental_necklace_i00"/>
+   <set bodyPart="NECK" grade="B"/>
+   <set crystallizable="true" crystal_count="164" />
+   <set weight="150" price="1230000"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <stats>
+    <add stat="mDef" order="0x10" val="72"/>
+    <enchant stat="mDef" order="0xc" val="0"/>
+   </stats>
+  </jewelry>
+  <jewelry id="930" name="Necklace of Phantom"  >
+   <set icon="icon.accessary_necklace_of_phantom_i00"/>
+   <set bodyPart="NECK" grade="A"/>
+   <set crystallizable="true" crystal_count="208" />
+   <set weight="150" price="2600000"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <stats>
+    <add stat="mDef" order="0x10" val="80"/>
+    <enchant stat="mDef" order="0xc" val="0"/>
+   </stats>
+  </jewelry>
+  <jewelry id="931" name="Necklace of Grace"  >
+   <set icon="icon.accessary_necklace_of_grace_i00"/>
+   <set bodyPart="NECK" grade="B"/>
+   <set crystallizable="true" crystal_count="108" />
+   <set weight="150" price="808000"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <stats>
+    <add stat="mDef" order="0x10" val="68"/>
+    <enchant stat="mDef" order="0xc" val="0"/>
+   </stats>
+  </jewelry>
+  <jewelry id="932" name="Necklace of Holy Spirit"  >
+   <set icon="icon.accessary_necklace_of_holy_spirit_i00"/>
+   <set bodyPart="NECK" grade="B"/>
+   <set crystallizable="true" crystal_count="164" />
+   <set weight="150" price="1230000"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <stats>
+    <add stat="mDef" order="0x10" val="72"/>
+    <enchant stat="mDef" order="0xc" val="0"/>
+   </stats>
+  </jewelry>
+  <jewelry id="933" name="Phoenix Necklace"  >
+   <set icon="icon.accessary_phoenixs_necklace_i00"/>
+   <set bodyPart="NECK" grade="A"/>
+   <set crystallizable="true" crystal_count="107" />
+   <set weight="150" price="2600000"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <stats>
+    <add stat="mDef" order="0x10" val="80"/>
+    <add stat="maxMp" order="0x10" val="26"/>
+    <enchant stat="mDef" order="0xc" val="0"/>
+   </stats>
+  </jewelry>
+  <jewelry id="934" name="Cerberus Necklace"  >
+   <set icon="icon.accessary_cerberuss_necklace_i00"/>
+   <set bodyPart="NECK" grade="A"/>
+   <set crystallizable="true" crystal_count="208" />
+   <set weight="150" price="2600000"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <stats>
+    <add stat="mDef" order="0x10" val="80"/>
+    <enchant stat="mDef" order="0xc" val="0"/>
+   </stats>
+  </jewelry>
+  <jewelry id="935" name="Necklace of Aid"  >
+   <set icon="icon.accessary_necklace_of_assistance_i00"/>
+   <set bodyPart="NECK" grade="B"/>
+   <set crystallizable="true" crystal_count="108" />
+   <set weight="150" price="808000"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <stats>
+    <add stat="mDef" order="0x10" val="68"/>
+    <enchant stat="mDef" order="0xc" val="0"/>
+   </stats>
+  </jewelry>
+  <jewelry id="936" name="Necklace of Blessing"  >
+   <set icon="icon.accessary_necklace_of_blessing_i00"/>
+   <set bodyPart="NECK" grade="B"/>
+   <set crystallizable="true" crystal_count="108" />
+   <set weight="150" price="808000"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <stats>
+    <add stat="mDef" order="0x10" val="68"/>
+    <enchant stat="mDef" order="0xc" val="0"/>
+   </stats>
+  </jewelry>
+</list>

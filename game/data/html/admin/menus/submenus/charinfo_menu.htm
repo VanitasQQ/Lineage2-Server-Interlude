@@ -1,0 +1,94 @@
+<html><title>Панель управления сервером</title><body>
+<center>
+<table width=270>
+<tr>
+<td width=45><button value="Main" action="bypass -h admin_admin" width=45 height=19 back="sek.cbui94" fore="sek.cbui94"></td>
+<td width=180><center><font color="LEVEL">Игрок: %name%</font></center></td>
+<td width=45><button value="Back" action="bypass -h admin_players" width=45 height=19 back="sek.cbui94" fore="sek.cbui94"></td>
+</tr>
+</table>
+
+<table width=270>
+<tr>
+<td><button value="Go To" action="bypass -h admin_teleportto %name%" width=65 height=18 back="sek.cbui94" fore="sek.cbui94"></td>
+<td><button value="Kick" action="bypass -h admin_kick %name%" width=65 height=18 back="sek.cbui94" fore="sek.cbui94"></td>
+<td><button value="Ban Acc" action="bypass -h admin_ban %name%" width=65 height=18 back="sek.cbui94" fore="sek.cbui94"></td>
+<td><button value="Ban Chr" action="bypass -h admin_banchar %name%" width=65 height=18 back="sek.cbui94" fore="sek.cbui94"></td>
+</tr>
+<tr>
+<td><button value="Recall" action="bypass -h admin_recall %name%" width=65 height=18 back="sek.cbui94" fore="sek.cbui94"></td>
+<td><button value="Skills" action="bypass -h admin_show_skills" width=65 height=18 back="sek.cbui94" fore="sek.cbui94"></td>
+<td><button value="Edit" action="bypass -h admin_edit_char" width=65 height=18 back="sek.cbui94" fore="sek.cbui94"></td>
+<td><button value="Class" action="bypass -h admin_setclass" width=65 height=18 back="sek.cbui94" fore="sek.cbui94"></td>
+</tr>
+<tr>
+<td></td>
+<td><button value="Exp/Sp" action="bypass -h admin_add_exp_sp_to_character" width=65 height=18 back="sek.cbui94" fore="sek.cbui94"></td>
+<td><button value="Refresh" action="bypass -h admin_current_player" width=65 height=18 back="sek.cbui94" fore="sek.cbui94"></td>
+<td></td>
+</tr>
+</table>
+
+<table width=210>
+<tr>
+<td width=135><center><font color="LEVEL">Account name</font></center></td>
+<td width=135><center><font color="LEVEL">Network address</font></center></td>
+</tr>
+<tr>
+<td><button value="%account%" action="bypass -h admin_find_account %name%" width=100 height=19 back="sek.cbui94" fore="sek.cbui94"></td>
+<td><button value="%ip%" action="bypass -h admin_find_ip %ip%" width=100 height=19 back="sek.cbui94" fore="sek.cbui94"></td>
+</tr>
+</table>
+
+<br><font color="LEVEL">Основная информация персонажа</font>
+<table width=270 bgcolor="666666">
+<tr>
+	<td width=135><font color="87CEFA">Name:</font> %name%</td>
+	<td width=135><font color="87CEFA">Cp:</font> %currentcp% / %maxcp%</td>
+</tr>
+<tr>
+	<td width=135><font color="87CEFA">Clan:</font> %clan%</td>
+	<td width=135><font color="87CEFA">Hp:</font> %currenthp% / %maxhp%</td>
+</tr>
+<tr>
+	<td width=135><font color="87CEFA">Class:</font> %class%</td>
+	<td width=135><font color="87CEFA">Mp:</font> %currentmp% / %maxmp%</td>
+</tr>
+<tr>
+	<td width=135><font color="87CEFA">Level:</font> %level%</td>
+	<td width=135><font color="87CEFA">Pk:</font> %pkkills%</td>
+</tr>
+<tr>
+	<td width=135><font color="87CEFA">Karma:</font> %karma%</td>
+	<td width=135><font color="87CEFA">PvP:</font> %pvpkills%</td>
+</tr>
+<tr>
+	<td width=135><font color="87CEFA">Exp:</font>   %xp%</td>
+	<td width=135><font color="87CEFA">Sp:</font> %sp%</td>
+</tr>
+</table>
+
+<br><font color="LEVEL">Основные характеристики персонажа</font>
+<table width=270 bgcolor="666666">
+<tr>
+	<td width=135><font color="87CEFA">P.Atk:</font> %patk%</td>
+	<td width=135><font color="87CEFA">Acc:</font> %accuracy%</td>
+</tr>
+<tr>
+	<td width=135><font color="87CEFA">M.Atk:</font> %matk%</td>
+	<td width=135><font color="87CEFA">Evs:</font> %evasion%</td>
+</tr>
+<tr>
+	<td width=135><font color="87CEFA">P.Def:</font> %pdef%</td>
+	<td width=135><font color="87CEFA">Crt:</font> %critical%</td>
+</tr>
+<tr>
+	<td width=135><font color="87CEFA">M.Def:</font> %mdef%</td>
+	<td width=135><font color="87CEFA">Spd:</font> %runspeed%</td>
+</tr>
+<tr>
+	<td width=135><font color="87CEFA">A.Spd:</font> %patkspd%</td>
+	<td width=135><font color="87CEFA">C.Spd:</font> %matkspd%</td>
+</tr>
+</table>
+</center></body></html>

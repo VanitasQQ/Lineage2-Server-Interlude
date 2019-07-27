@@ -1,0 +1,28 @@
+﻿<html><head></head>
+<body>
+<center>
+<img src="L2UI_CH3.herotower_deco" width=256 height=32><br><br>
+<table width=220><tr>
+<td>Профиль: <font color="LEVEL">%profile%</font></td>
+</tr></table>
+<br>
+<table width=220><tr>
+<td>Внимание! Создавать пустой профиль нельзя!</td>
+</tr></table>
+<table width=170>
+<tr>
+<td><edit var="name" width=80 height=15 /></td>
+<td><button action="bypass -h Quest 50000_Buffer CreateProfile $name" value="Создать" width=75 height=21 back="L2UI_ch3.Btn1_normalOn" fore="L2UI_ch3.Btn1_normal"></td>
+</tr>
+</table>
+<font color="FF0000">%err%</font><br>
+<img src="L2UI_CH3.herotower_deco" width=256 height=32><br>
+Ваши профили
+<table width=220>
+%profilelist%
+</table><br>
+<button action="bypass -h Quest 50000_Buffer Chat 0" value="Back" width=75 height=21 back="L2UI_ch3.Btn1_normalOn" fore="L2UI_ch3.Btn1_normal"><br><br>
+<img src="L2UI_CH3.herotower_deco" width=256 height=32><br>
+</center>
+</body>
+</html>

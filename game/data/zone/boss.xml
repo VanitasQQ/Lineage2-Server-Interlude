@@ -1,0 +1,398 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+  <!-- Baium  zone -->
+<zone id="1" name="Lair of Baium" type="Boss">
+<settings boss="Baium" Baium="true"/>
+<shape type="Poly" zMin="10040" zMax="12480">
+<point y="14312" x="112987"/>
+<point y="14623" x="112507"/>
+<point y="15551" x="112129"/>
+<point y="16230" x="111890"/>
+<point y="16965" x="112067"/>
+<point y="17482" x="112496"/>
+<point y="18120" x="112863"/>
+<point y="18561" x="113453"/>
+<point y="18590" x="114135"/>
+<point y="18811" x="114815"/>
+<point y="18648" x="115549"/>
+<point y="18205" x="116074"/>
+<point y="17506" x="116776"/>
+<point y="17013" x="117255"/>
+<point y="16298" x="117371"/>
+<point y="15925" x="117405"/>
+<point y="15199" x="117236"/>
+<point y="14895" x="117158"/>
+<point y="14260" x="116784"/>
+<point y="13902" x="116096"/>
+<point y="13507" x="115159"/>
+<point y="13518" x="114135"/>
+<point y="13898" x="113203"/>
+    </shape>
+  </zone>
+
+<!-- TOI Summon -->
+  <zone id="2" name="Lair of Baium" type="Boss">
+
+    <shape type="Poly" zMin="8775" zMax="12480">
+      <point x="111700" y="16642"/>      
+      <point x="112987" y="14312"/>
+      <point x="112507" y="14623"/>
+      <point x="112129" y="15551"/>
+      <point x="111890" y="16230"/>
+      <point x="112067" y="16965"/>
+      <point x="112496" y="17482"/>
+      <point x="112863" y="18120"/>
+      <point x="113453" y="18561"/>
+      <point x="114135" y="18590"/>
+      <point x="114815" y="18811"/>
+      <point x="115549" y="18648"/>
+      <point x="116074" y="18205"/>
+      <point x="116776" y="17506"/>
+      <point x="117255" y="17013"/>
+      <point x="117371" y="16298"/>
+      <point x="117405" y="15925"/>
+      <point x="117236" y="15199"/>
+      <point x="117158" y="14895"/>
+      <point x="116784" y="14260"/>
+      <point x="116096" y="13902"/>
+      <point x="115159" y="13507"/>
+      <point x="114135" y="13518"/>
+      <point x="113203" y="13898"/>
+    </shape>
+  </zone>
+
+  <!-- Zaken Live zone: done by m095 /L2EmuRT/ -->
+  <zone id="3" name="Lair of Zaken" type="Boss">
+    <settings boss="Zaken" Zaken="true"/>
+    <shape type="Rect" zMin="-3775" zMax="-2690">
+      <point x="53182" y="216945"/>
+      <point x="57311" y="221151"/>
+    </shape>
+  </zone>
+
+  <!-- QueenAnt Live zone: done by m095 /L2EmuRT/ -->
+  <zone id="4" name="Lair of QueenAnt" type="Boss">
+    <settings boss="QueenAnt" QueenAnt="true"/>
+    <shape type="Poly" zMin="-4208" zMax="-5850">
+      <point x="-22369" y="183194"/>
+      <point x="-22932" y="183194"/>
+      <point x="-22932" y="178423"/>
+      <point x="-20327" y="178423"/>
+      <point x="-20327" y="183383"/>
+      <point x="-20925" y="183451"/>
+      <point x="-21332" y="183980"/>
+      <point x="-21835" y="183939"/>
+    </shape>
+  </zone>
+
+
+  <zone id="5" name="Lair of Anakim" type="Boss">
+    <settings boss="Anakim"/>
+    <shape type="Rect" zMin="-5500" zMax="-3895">
+      <point x="184008" y="-10681"/>
+      <point x="186107" y="-8589"/>
+    </shape>
+  </zone>
+
+  <zone id="6" name="Lair of Lilith" type="Boss">
+    <settings boss="Lilith"/>
+    <shape type="Rect" zMin="-5500" zMax="-3895">
+      <point x="183986" y="-13716"/>
+      <point x="186097" y="-11532"/>
+    </shape>
+  </zone>
+
+  <zone id="7" name="Lair of Antharas" type="Boss">
+    <settings boss="Antharas" noLanding="true"/>
+    <shape type="Rect" zMin="-8220" zMax="-4870">
+      <point x="173439" y="110176"/>
+      <point x="187346" y="119469"/>
+    </shape>
+  </zone>
+
+  <zone id="8" name="Lair of Sailren" type="Boss">
+    <settings boss="Sailren"/>
+    <shape type="Rect" zMin="-2050" zMax="-1900">
+      <point x="26095" y="-8084"/>
+      <point x="28987" y="-5295"/>
+    </shape>
+  </zone>
+
+  <zone id="9" name="Lair of Valakas" type="Boss">
+    <settings boss="Valakas" noLanding="true"/>
+    <shape type="Rect" zMin="-1640" zMax="9880">
+      <point x="199755" y="-124724"/>
+      <point x="224677" y="-103211"/>
+    </shape>
+  </zone>
+
+  <zone id="10" name="Altar of Sacrifice" type="Boss">
+    <settings boss="VanHalter"/>
+    <shape type="Rect" zMin="-10730" zMax="-10290">
+      <point x="-18176" y="-54972"/>
+      <point x="-14614" y="-51620"/>
+    </shape>
+  </zone>
+  <zone id="11" name="Lair of Scarlet van Halisha" type="Boss">
+    <settings boss="Frintezza"/>
+    <shape type="Cylinder" radius="2200" zMin="-5300" zMax="-2319">
+      <point x="174234" y="-88015"/>
+    </shape>
+  </zone>
+  <zone id="12" name="Last Imperial Tomb" type="Boss">
+    <settings boss="LastImperialTomb" noLanding="true"/>
+    <shape type="Rect" zMin="-5300" zMax="-3600">
+      <point x="172176" y="-74106"/>
+      <point x="175984" y="-86027"/>
+    </shape>
+  </zone>
+  <zone id="13" name="Core Damage Zone" type="Damage">
+    <settings exitOnDeath="true" buffRepeat="true" affected="playable"/>
+    <skill applyEnter="4243,1" removeExit="4243"/>
+    <shape type="Poly" zMin="-6519" zMax="-6319">
+      <point x="18195" y="108723"/>
+      <point x="18190" y="109112"/>
+      <point x="17921" y="109381"/>
+      <point x="17539" y="109384"/>
+      <point x="17262" y="109106"/>
+      <point x="17263" y="108735"/>
+      <point x="17528" y="108462"/>
+      <point x="17904" y="108454"/>
+    </shape>
+  </zone>
+
+  <zone id="14" name="Orfen Poison Zone" type="Dynamic">
+    <settings exitOnDeath="true" buffRepeat="true" affected="playable"/>
+    <skill applyEnter="4035,4" removeExit="4035"/>
+    <shape type="Poly" zMin="-4468" zMax="-4118">
+      <point x="43084" y="15944"/>
+      <point x="45140" y="15816"/>
+      <point x="45748" y="17200"/>
+      <point x="44504" y="18780"/>
+      <point x="43284" y="18952"/>
+      <point x="42476" y="18164"/>
+      <point x="42480" y="16448"/>
+    </shape>
+  </zone>
+
+  <zone id="15" name="Orfen Slow Zone"  type="Dynamic">
+    <settings exitOnDeath="true" buffRepeat="true" affected="playable"/>
+    <shape type="Poly" zMin="-4468" zMax="-4118">
+      <point x="43084" y="15944"/>
+      <point x="45140" y="15816"/>
+      <point x="45748" y="17200"/>
+      <point x="44504" y="18780"/>
+      <point x="43284" y="18952"/>
+      <point x="42476" y="18164"/>
+      <point x="42480" y="16448"/>
+    </shape>
+  </zone>
+
+  <zone id="16" name="Valakas Lava Zone" type="Dynamic">
+    <settings exitOnDeath="true" buffRepeat="true" affected="playable"/>
+    <skill applyEnter="4150,12" removeExit="4150"/>
+    <shape type="Poly" zMin="-1645" zMax="-1620">
+      <point x="213284" y="-113079"/>
+      <point x="214188" y="-114809"/>
+      <point x="213902" y="-115566"/>
+      <point x="213051" y="-116060"/>
+      <point x="211998" y="-115593"/>
+      <point x="211661" y="-114373"/>
+      <point x="212280" y="-113505"/>
+    </shape>
+    <shape type="Poly" zMin="-1645" zMax="-1620">
+      <point x="211932" y="-113368"/>
+      <point x="211623" y="-113541"/>
+      <point x="211263" y="-113359"/>
+      <point x="211281" y="-112850"/>
+    </shape>
+    <shape type="Poly" zMin="-1645" zMax="-1620">
+      <point x="211249" y="-112370"/>
+      <point x="211301" y="-112508"/>
+      <point x="211105" y="-112806"/>
+      <point x="210791" y="-112881"/>
+      <point x="211056" y="-113171"/>
+      <point x="210857" y="-113464"/>
+      <point x="209989" y="-113339"/>
+      <point x="209969" y="-112993"/>
+      <point x="210292" y="-112786"/>
+      <point x="210558" y="-112547"/>
+    </shape>
+    <shape type="Poly" zMin="-1645" zMax="-1620">
+      <point x="210991" y="-116395"/>
+      <point x="211607" y="-115940"/>
+      <point x="212009" y="-116056"/>
+      <point x="212026" y="-116544"/>
+      <point x="211542" y="-117129"/>
+    </shape>
+    <shape type="Poly" zMin="-1645" zMax="-1620">
+      <point x="211456" y="-112239"/>
+      <point x="211618" y="-112325"/>
+      <point x="211707" y="-112547"/>
+      <point x="211871" y="-112712"/>
+      <point x="211969" y="-112620"/>
+      <point x="212014" y="-112521"/>
+      <point x="212084" y="-112486"/>
+      <point x="212160" y="-112359"/>
+      <point x="212175" y="-112236"/>
+      <point x="212273" y="-112189"/>
+      <point x="212361" y="-112302"/>
+      <point x="212458" y="-112321"/>
+      <point x="212597" y="-112180"/>
+      <point x="212614" y="-111993"/>
+      <point x="212802" y="-111971"/>
+      <point x="212853" y="-111912"/>
+      <point x="212720" y="-111870"/>
+      <point x="212499" y="-111645"/>
+      <point x="211775" y="-111607"/>
+      <point x="211498" y="-111863"/>
+    </shape>
+    <shape type="Poly" zMin="-1645" zMax="-1620">
+      <point x="212648" y="-112439"/>
+      <point x="212811" y="-112557"/>
+      <point x="212917" y="-112719"/>
+      <point x="212901" y="-112809"/>
+      <point x="212703" y="-112945"/>
+      <point x="212596" y="-112912"/>
+      <point x="212421" y="-113046"/>
+      <point x="212261" y="-113015"/>
+      <point x="212128" y="-112795"/>
+      <point x="212131" y="-112654"/>
+      <point x="212268" y="-112506"/>
+      <point x="212433" y="-112515"/>
+    </shape>
+    <shape type="Poly" zMin="-1645" zMax="-1620">
+      <point x="213995" y="-111644"/>
+      <point x="213723" y="-111666"/>
+      <point x="213643" y="-112536"/>
+      <point x="214195" y="-112372"/>
+      <point x="214290" y="-112222"/>
+      <point x="214443" y="-112230"/>
+      <point x="214549" y="-112051"/>
+      <point x="214702" y="-112031"/>
+      <point x="214817" y="-111805"/>
+    </shape>
+    <shape type="Poly" zMin="-1645" zMax="-1620">
+      <point x="210625" y="-114474"/>
+      <point x="210994" y="-114618"/>
+      <point x="211146" y="-114583"/>
+      <point x="211248" y="-114356"/>
+      <point x="211028" y="-114121"/>
+      <point x="210727" y="-114116"/>
+      <point x="210579" y="-114313"/>
+    </shape>
+    <shape type="Poly" zMin="-1645" zMax="-1620">
+      <point x="210325" y="-115786"/>
+      <point x="210796" y="-115602"/>
+      <point x="211016" y="-115751"/>
+      <point x="211016" y="-116232"/>
+    </shape>
+    <shape type="Poly" zMin="-1645" zMax="-1620">
+      <point x="211651" y="-117203"/>
+      <point x="212241" y="-116787"/>
+      <point x="212509" y="-116769"/>
+      <point x="212804" y="-117036"/>
+      <point x="212848" y="-117471"/>
+      <point x="213011" y="-117386"/>
+      <point x="213259" y="-117554"/>
+      <point x="213249" y="-117951"/>
+    </shape>
+    <shape type="Poly" zMin="-1645" zMax="-1620">
+      <point x="213224" y="-117346"/>
+      <point x="212911" y="-117210"/>
+      <point x="212829" y="-116736"/>
+      <point x="213044" y="-116436"/>
+      <point x="213463" y="-116573"/>
+      <point x="213508" y="-117091"/>
+      <point x="213411" y="-117323"/>
+    </shape>
+    <shape type="Poly" zMin="-1645" zMax="-1620">
+      <point x="212650" y="-116678"/>
+      <point x="212469" y="-116698"/>
+      <point x="212209" y="-116581"/>
+      <point x="212176" y="-116331"/>
+      <point x="212300" y="-116180"/>
+      <point x="212641" y="-116148"/>
+      <point x="212834" y="-116367"/>
+    </shape>
+    <shape type="Poly" zMin="-1645" zMax="-1620">
+      <point x="214086" y="-116181"/>
+      <point x="214025" y="-116666"/>
+      <point x="214209" y="-116771"/>
+      <point x="214544" y="-116714"/>
+      <point x="214650" y="-116552"/>
+      <point x="214485" y="-116228"/>
+      <point x="214181" y="-116094"/>
+    </shape>
+    <shape type="Poly" zMin="-1645" zMax="-1620">
+      <point x="215486" y="-116484"/>
+      <point x="215353" y="-116313"/>
+      <point x="214891" y="-114743"/>
+      <point x="214937" y="-114658"/>
+      <point x="215154" y="-114544"/>
+      <point x="215429" y="-114692"/>
+      <point x="215899" y="-114617"/>
+    </shape>
+    <shape type="Poly" zMin="-1645" zMax="-1620">
+      <point x="215921" y="-114504"/>
+      <point x="215540" y="-114441"/>
+      <point x="215393" y="-114291"/>
+      <point x="214942" y="-114201"/>
+      <point x="215136" y="-113876"/>
+      <point x="215420" y="-113628"/>
+      <point x="214449" y="-113445"/>
+      <point x="214653" y="-112966"/>
+      <point x="215141" y="-112575"/>
+      <point x="215733" y="-112815"/>
+    </shape>
+    <shape type="Poly" zMin="-1645" zMax="-1620">
+      <point x="214583" y="-113568"/>
+      <point x="214203" y="-113866"/>
+      <point x="214313" y="-114140"/>
+      <point x="214631" y="-114316"/>
+      <point x="214977" y="-113878"/>
+    </shape>
+    <shape type="Poly" zMin="-1645" zMax="-1620">
+      <point x="214657" y="-114788"/>
+      <point x="214436" y="-114815"/>
+      <point x="214348" y="-115112"/>
+      <point x="214334" y="-115331"/>
+      <point x="214482" y="-115499"/>
+      <point x="214805" y="-115551"/>
+      <point x="214984" y="-115233"/>
+      <point x="214752" y="-115007"/>
+    </shape>
+  </zone>
+
+  <zone id="17" name="Zaken Area" type="Boss">
+    <settings boss="Zaken" noLanding="true"/>
+    <shape type="Poly" zMin="-4830" zMax="-2182">
+      <point x="40732" y="197679"/>
+      <point x="36790" y="198938"/>
+      <point x="36113" y="207092"/>
+      <point x="36570" y="213329"/>
+      <point x="38272" y="226444"/>
+      <point x="51533" y="224059"/>
+      <point x="59216" y="222361"/>
+      <point x="59641" y="218140"/>
+	  <point x="59769" y="207493"/>
+	  <point x="56712" y="201509"/>
+	  <point x="53650" y="200735"/>
+    </shape>
+  </zone>
+	<zone id="18" name="Ant Queen Hight Level" type="Boss">
+	  <settings boss="QueenAnt" QueenAnt="true"/>
+	  <shape type="Poly" zMin="-5834" zMax="-4062">
+		<point x="-6265" y="175216"/>
+		<point x="-11332" y="171095"/>
+		<point x="-19062" y="169633"/>
+		<point x="-29085" y="169711"/>
+		<point x="-30486" y="176765"/>
+		<point x="-31577" y="196498"/>
+		<point x="-22944" y="197679"/>
+		<point x="-11409" y="196064"/>
+		<point x="-9281" y="187596"/>
+		<point x="-7206" y="179555"/>
+	</shape>
+  </zone>
+</list>

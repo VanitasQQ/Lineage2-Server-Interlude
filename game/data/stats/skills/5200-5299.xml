@@ -1,0 +1,302 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE list SYSTEM "skills.dtd">
+<list>
+<skill id="5200" levels="8" name="Pet Recharge">
+  <table name="#mpConsume"> 120 124 128 132 136 140 144 148 </table> <!-- Need retail values -->
+  <table name="#power"> 120 124 128 132 136 140 144 148 </table> <!-- Need retail values -->
+  <table name="#aggro"> 604 617 630 643 656 669 682 695 </table>
+  <set name="mpConsume" val="#mpConsume"/>
+  <set name="power" val="#power"/>
+  <set name="target" val="TARGET_OWNER_PET"/>
+  <set name="reuseDelay" val="8000"/>
+  <set name="hitTime" val="4000"/>
+  <set name="skillType" val="MANARECHARGE"/>
+  <set name="isMagic" val="true"/>
+  <set name="operateType" val="OP_ACTIVE"/>
+  <set name="castRange" val="600"/>
+  <set name="effectRange" val="1100"/>
+  <set name="aggroPoints" val="#aggro"/>
+</skill>
+<skill id="5201" levels="6" name="Pet Concentration">
+  <table name="#mpConsume"> 20 27 39 48 55 64 </table>
+  <table name="#cancel"> 18 25 36 42 48 53 </table>
+  <table name="#aggro"> 204 285 418 495 566 624 </table>
+  <table name="#effect"> 1 2 3 4 5 6 </table>
+  <set name="mpConsume" val="#mpConsume"/>
+  <set name="target" val="TARGET_OWNER_PET"/>
+  <set name="reuseDelay" val="6000"/>
+  <set name="hitTime" val="4000"/>
+  <set name="coolTime" val="2666"/>
+  <set name="skillType" val="BUFF"/>
+  <set name="isMagic" val="true"/>
+  <set name="operateType" val="OP_ACTIVE"/>
+  <set name="castRange" val="400"/>
+  <set name="effectRange" val="900"/>
+  <set name="aggroPoints" val="#aggro"/>
+  <for>
+    <effect count="1" name="Buff" time="1200" val="0" stackOrder="#effect" stackType="Concentration">
+      <sub order="0x40" stat="cancel" val="#cancel"/>
+    </effect>
+  </for>
+</skill>
+<skill id="5202" levels="12" name="Stun">
+  <table name="#mpConsume"> 24 39 53 70 90 110 130 138 145 150 153 155 </table>
+  <set name="mpConsume" val="#mpConsume"/>
+  <set name="power" val="80"/>
+  <set name="lvlDepend" val="2"/>
+  <set name="target" val="TARGET_ONE"/>
+  <set name="reuseDelay" val="12000"/>
+  <set name="hitTime" val="1200"/>
+  <set name="coolTime" val="300"/>
+  <set name="skillType" val="STUN"/>
+  <set name="operateType" val="OP_ACTIVE"/>
+  <set name="castRange" val="40"/>
+  <set name="effectRange" val="400"/>
+  <set name="isDebuff" val="true"/>
+  <for>
+    <effect count="1" name="Stun" time="12" val="0" stackOrder="1" stackType="Stun"/>
+  </for>
+</skill>
+<skill id="5203" levels="12" name="Fear">
+  <table name="#mpConsume"> 24 39 53 70 90 110 130 138 145 150 153 155 </table>
+  <table name="#power"> 20 22 24 26 28 30 32 34 36 38 40 42 </table>
+  <set name="mpConsume" val="#mpConsume"/>
+  <set name="power" val="#power"/>
+  <set name="target" val="TARGET_ONE"/>
+  <set name="reuseDelay" val="120000"/>
+  <set name="hitTime" val="3000"/>
+  <set name="skillType" val="FEAR"/>
+  <set name="isMagic" val="true"/>
+  <set name="operateType" val="OP_ACTIVE"/>
+  <set name="isDebuff" val="true"/>
+  <set name="castRange" val="600"/>
+  <set name="effectRange" val="1100"/>
+  <for>
+    <effect count="6" name="Fear" time="2" val="0"/>
+  </for>
+</skill>
+<skill id="5204" levels="1" name="Production-First Gigantic Pig Combination">
+  <set name="target" val="TARGET_SELF"/> <!-- Needs to be checked -->
+  <set name="skillType" val="BUFF"/>
+  <set name="hitTime" val="5800"/>
+  <set name="operateType" val="OP_ACTIVE"/>
+</skill>
+<skill id="5205" levels="1" name="Boss Regeneration">
+  <set name="target" val="TARGET_NONE"/>
+  <set name="skillType" val="NOTDONE"/>
+  <set name="operateType" val="OP_PASSIVE"/>
+</skill>
+<skill id="5206" levels="1" name="Decrease Speed">
+  <set name="power" val="542"/>
+  <set name="target" val="TARGET_ONE"/>
+  <set name="reuseDelay" val="2000"/>
+  <set name="hitTime" val="2000"/>
+  <set name="coolTime" val="1332"/>
+  <set name="skillType" val="PDAM"/>
+  <set name="operateType" val="OP_ACTIVE"/>
+  <set name="isMagic" val="true"/>
+  <set name="isDebuff" val="true"/>
+  <set name="castRange" val="500"/>
+  <set name="effectRange" val="1000"/>
+  <set name="effectType" val="DEBUFF"/>
+  <set name="effectPower" val="70"/>
+  <for>
+    <effect count="1" name="Debuff" time="30" val="0" stackOrder="0.5" stackType="RunSpeedDown">
+      <mul order="0x30" stat="runSpd" val="0.5"/>
+    </effect>
+  </for>
+</skill>
+<skill id="5207" levels="1" name="Decrease Atk. Spd.">
+  <set name="lvlDepend" val="1"/>
+  <set name="power" val="10"/>
+  <set name="mpInitialConsume" val="15"/>
+  <set name="mpConsume" val="62"/>
+  <set name="target" val="TARGET_ONE"/>
+  <set name="reuseDelay" val="1000"/>
+  <set name="coolTime" val="666"/>
+  <set name="skillType" val="DEBUFF"/>
+  <set name="operateType" val="OP_ACTIVE"/>
+  <set name="isDebuff" val="true"/>
+  <set name="isMagic" val="true"/>
+  <set name="hitTime" val="1500"/>
+  <set name="castRange" val="600"/>
+  <set name="effectRange" val="1100"/>
+  <for>
+    <effect count="1" name="Debuff" time="15" val="0" stackOrder="0.77" stackType="attack_time_up">
+      <mul order="0x30" stat="pAtkSpd" val="0.77"/>
+    </effect>
+  </for>
+</skill>
+<skill id="5208" levels="1" name="Event Wind walk">
+  <set name="target" val="TARGET_ONE"/>
+  <set name="skillType" val="BUFF"/>
+  <set name="isMagic" val="true"/>
+  <set name="operateType" val="OP_ACTIVE"/>
+  <set name="castRange" val="400"/>
+  <set name="effectRange" val="900"/>
+  <for>
+    <effect count="1" name="Buff" time="3600" val="0" stackOrder="33" stackType="speed_up">
+      <add order="0x40" stat="runSpd" val="33"/>
+    </effect>
+  </for>
+</skill>
+<skill id="5209" levels="1" name="Event Shield">
+  <set name="target" val="TARGET_ONE"/>
+  <set name="skillType" val="BUFF"/>
+  <set name="isMagic" val="true"/>
+  <set name="operateType" val="OP_ACTIVE"/>
+  <set name="castRange" val="400"/>
+  <set name="effectRange" val="900"/>
+  <for>
+    <effect count="1" name="Buff" time="3600" val="0" stackOrder="4" stackType="pd_up">
+      <mul order="0x30" stat="pDef" val="1.15"/>
+    </effect>
+  </for>
+</skill>
+<skill id="5210" levels="1" name="Event Bless the body">
+  <set name="target" val="TARGET_ONE"/>
+  <set name="skillType" val="BUFF"/>
+  <set name="isMagic" val="true"/>
+  <set name="operateType" val="OP_ACTIVE"/>
+  <set name="castRange" val="400"/>
+  <set name="effectRange" val="900"/>
+  <for>
+    <effect count="1" name="Buff" time="3600" val="0" stackOrder="1.35" stackType="max_hp_up">
+      <mul order="0x30" stat="maxHp" val="1.35"/>
+    </effect>
+  </for>
+</skill>
+<skill id="5211" levels="1" name="Event Vampiric rage">
+  <set name="target" val="TARGET_ONE"/>
+  <set name="skillType" val="BUFF"/>
+  <set name="operateType" val="OP_ACTIVE"/>
+  <set name="castRange" val="400"/>
+  <set name="effectRange" val="900"/>
+  <for>
+    <effect count="1" name="Buff" time="3600" val="0" stackOrder="7" stackType="vampRage">
+      <add order="0x40" stat="absorbDam" val="9"/>
+    </effect>
+  </for>
+</skill>
+<skill id="5212" levels="1" name="Event Regeneration">
+  <set name="target" val="TARGET_ONE"/>
+  <set name="skillType" val="BUFF"/>
+  <set name="isMagic" val="true"/>
+  <set name="operateType" val="OP_ACTIVE"/>
+  <set name="castRange" val="400"/>
+  <set name="effectRange" val="900"/>
+  <for>
+    <effect count="1" name="Buff" time="3600" val="0" stackOrder="1.20" stackType="hp_regen_up">
+      <mul order="0x30" stat="regHp" val="1.2"/>
+    </effect>
+  </for>
+</skill>
+<skill id="5213" levels="1" name="Event Haste">
+  <set name="target" val="TARGET_ONE"/>
+  <set name="skillType" val="BUFF"/>
+  <set name="isMagic" val="true"/>
+  <set name="operateType" val="OP_ACTIVE"/>
+  <set name="castRange" val="400"/>
+  <set name="effectRange" val="900"/>
+  <for>
+    <effect count="1" name="Buff" time="3600" val="0" stackOrder="1.15" stackType="attack_time_down">
+      <mul order="0x30" stat="pAtkSpd" val="1.15"/>
+    </effect>
+  </for>
+</skill>
+<skill id="5214" levels="1" name="Event Bless the Soul">
+  <set name="target" val="TARGET_ONE"/>
+  <set name="skillType" val="BUFF"/>
+  <set name="isMagic" val="true"/>
+  <set name="operateType" val="OP_ACTIVE"/>
+  <set name="castRange" val="400"/>
+  <set name="effectRange" val="900"/>
+  <for>
+    <effect count="1" name="Buff" time="3600" val="0" stackOrder="1.35" stackType="max_mp_up">
+      <mul order="0x30" stat="maxMp" val="1.35"/>
+    </effect>
+  </for>
+</skill>
+<skill id="5215" levels="1" name="Event Acumen">
+  <set name="target" val="TARGET_ONE"/>
+  <set name="skillType" val="BUFF"/>
+  <set name="isMagic" val="true"/>
+  <set name="operateType" val="OP_ACTIVE"/>
+  <set name="castRange" val="400"/>
+  <set name="effectRange" val="900"/>
+  <for>
+    <effect count="1" name="Buff" time="3600" val="0" stackOrder="4" stackType="casting_time_down">
+      <mul order="0x30" stat="mAtkSpd" val="1.3"/>
+    </effect>
+  </for>
+</skill>
+<skill id="5216" levels="1" name="Event Concentration">
+  <set name="target" val="TARGET_ONE"/>
+  <set name="skillType" val="BUFF"/>
+  <set name="isMagic" val="true"/>
+  <set name="operateType" val="OP_ACTIVE"/>
+  <set name="castRange" val="400"/>
+  <set name="effectRange" val="900"/>
+  <for>
+    <effect count="1" name="Buff" time="3600" val="0" stackOrder="18" stackType="Concentration">
+      <sub order="0x40" stat="cancel" val="18"/>
+    </effect>
+  </for>
+</skill>
+<skill id="5217" levels="1" name="Event Empower">
+  <set name="target" val="TARGET_ONE"/>
+  <set name="skillType" val="BUFF"/>
+  <set name="isMagic" val="true"/>
+  <set name="operateType" val="OP_ACTIVE"/>
+  <set name="castRange" val="400"/>
+  <set name="effectRange" val="900"/>
+  <for>
+    <effect count="1" name="Buff" time="3600" val="0" stackOrder="1.55" stackType="ma_up">
+      <mul order="0x30" stat="mAtk" val="1.55"/>
+    </effect>
+  </for>
+</skill>
+<skill id="5218" levels="1" name="Production: Event Teleport">
+  <set name="target" val="TARGET_ONE"/>
+  <set name="skillType" val="BUFF"/>
+  <set name="hitTime" val="2000"/>
+  <set name="operateType" val="OP_ACTIVE"/>
+  <set name="castRange" val="400"/>
+  <set name="effectRange" val="900"/>
+</skill>
+<skill id="5219" levels="1" name="Stun of giant mutated animal">
+  <set name="magicLvl" val="99"/>
+  <set name="lvlDepend" val="1"/>
+  <set name="power" val="47895"/>
+  <set name="mpConsume" val="43"/>
+  <set name="hitTime" val="6000"/>
+  <set name="target" val="TARGET_ONE"/>
+  <set name="skillType" val="PDAM"/>
+  <set name="operateType" val="OP_ACTIVE"/>
+  <set name="isDebuff" val="true"/>
+  <set name="castRange" val="600"/>
+  <set name="effectRange" val="1100"/>
+  <set name="effectType" val="STUN"/>
+  <set name="effectPower" val="80"/>
+  <for>
+	<effect count="1" name="Stun" time="5" val="0" stackOrder="1" stackType="Stun"/>
+  </for>
+</skill>
+<skill id="5220" levels="1" name="Fear of giant mutated animal">
+  <set name="mpConsume" val="43"/>
+  <set name="power" val="40"/>
+  <set name="target" val="TARGET_ONE"/>
+  <set name="hitTime" val="6000"/>
+  <set name="reuseDelay" val="20000"/>
+  <set name="skillType" val="FEAR"/>
+  <set name="isDebuff" val="true"/>
+  <set name="isMagic" val="true"/>
+  <set name="operateType" val="OP_ACTIVE"/>
+  <set name="castRange" val="600"/>
+  <set name="effectRange" val="1100"/>
+  <for>
+    <effect count="8" name="Fear" time="2" val="0"/>
+  </for>
+</skill>
+
+</list>

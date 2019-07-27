@@ -1,0 +1,31 @@
+﻿<html><title>Панель управления сервером</title><body>
+<center>
+<table width=270>
+<tr>
+<td width=45><button value="Main" action="bypass -h admin_admin" width=45 height=19 back="sek.cbui94" fore="sek.cbui94"></td>
+<td width=180><center><font color="LEVEL">Список расс</font></center></td>
+<td width=45><button value="Back" action="bypass -h admin_current_player" width=45 height=19 back="sek.cbui94" fore="sek.cbui94"></td>
+</tr>
+</table>
+
+<br>Пожалуйста, выберите тип:<br><br>
+<table width=200>
+<tr><td><a action="bypass -h admin_skills H_"><font color="LEVEL">Скиллы Людей</font></a></td></tr>
+<tr><td><a action="bypass -h admin_skills E_"><font color="LEVEL">Скиллы Эльфов</font></a></td></tr>
+<tr><td><a action="bypass -h admin_skills DE_"><font color="LEVEL">Скиллы Тёмных Эльфов</font></a></td></tr>
+<tr><td><a action="bypass -h admin_skills O_"><font color="LEVEL">Скиллы Орков</font></a></td></tr>
+<tr><td><a action="bypass -h admin_skills D_"><font color="LEVEL">Cкиллы Гномов</font></a></td></tr>
+<tr><td>Дополнительные скиллы</td></tr>
+<tr><td><a action="bypass -h admin_help skills/specials/hero_skills.htm"><font color="LEVEL">Скилы Героев</font></a></td></tr>
+<tr><td><a action="bypass -h admin_help skills/specials/noblesse_skills.htm"><font color="LEVEL">Скилы Дворянина</font></a></td></tr>
+<tr><td><a action="bypass -h admin_help skills/specials/clan_skills.htm"><font color="LEVEL">Клановые Скилы</font></a></td></tr>
+<tr><td><a action="bypass -h admin_help skills/specials/gm_skills.htm"><font color="LEVEL">Скилы ГМа</font></a></td></tr>
+<tr><td><a action="bypass -h admin_help skills/specials/common_skills.htm"><font color="LEVEL">Общие Скилы</font></a></td></tr>
+<tr><td><a action="bypass -h admin_help skills/fishing/Fishing_Skills.htm"><font color="LEVEL">Скилы Рыболова</font></a></td></tr>
+</table><br><center>
+Добавить скил по ID:
+</center><br>
+<center><table>
+<tr><td>Id:<edit var="id" width=40></td><td>Level:<edit var="level" width=40></td><td>&nbsp;<button value="Add" action="bypass -h admin_add_skill $id $level" width=40 height=19 back="sek.cbui94" fore="sek.cbui94"></td></tr>
+</table></center>
+</body></html>

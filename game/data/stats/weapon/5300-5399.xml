@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE list SYSTEM "weapons.dtd">
+<list>
+<item id='5315' name="Sealed Shield of Nightmare">
+  <for>
+    <sub val='8' order='0x10' stat='rEvas'/>
+    <set val='256' order='0x08' stat='sDef'/>
+    <set val='20' order='0x08' stat='rShld'/>
+    <enchant val='0' order='0x0C' stat='sDef'/>
+  </for>
+</item>
+</list>

@@ -1,0 +1,1164 @@
+[25.12.17 15:37:39] L2DatabaseFactory: Connected to database server
+[25.12.17 15:37:39] GameServerManager: Loaded 127 server name(s)
+[25.12.17 15:37:40] GameServerManager: Loaded 0 server(s)
+[25.12.17 15:37:40] Cached 10 RSA keys for Game Server communication.
+[25.12.17 15:38:11] L2DatabaseFactory: Connected to database server
+[25.12.17 15:38:11] ..................................................
+[25.12.17 15:38:11] System Time: 25-12-2017 03:38:11 PM
+[25.12.17 15:38:11] ..................................................
+[25.12.17 15:38:11] OS: Windows 7 Build: 6.1
+[25.12.17 15:38:11] OS Arch: x86
+[25.12.17 15:38:11] ..................................................
+[25.12.17 15:38:11] ..................................................
+[25.12.17 15:38:11] Avaible CPU(s): 2
+[25.12.17 15:38:11] Processor(s) Identifier: AMD64 Family 21 Model 19 Stepping 1, AuthenticAMD
+[25.12.17 15:38:11] ..................................................
+[25.12.17 15:38:11] ..................................................
+[25.12.17 15:38:11] Runtime Information
+[25.12.17 15:38:11] Current Free Heap Size: 13 mb
+[25.12.17 15:38:11] Current Heap Size: 15 mb
+[25.12.17 15:38:11] Maximum Heap Size: 989 mb
+[25.12.17 15:38:11] ..................................................
+[25.12.17 15:38:11] ..................................................
+[25.12.17 15:38:11] Java Platform Information
+[25.12.17 15:38:11] Java Runtime  Name: Java(TM) SE Runtime Environment
+[25.12.17 15:38:11] Java Version: 1.8.0_151
+[25.12.17 15:38:11] Java Class Version: 52.0
+[25.12.17 15:38:11] ..................................................
+[25.12.17 15:38:11] ..................................................
+[25.12.17 15:38:11] Virtual Machine Information (JVM)
+[25.12.17 15:38:11] JVM Name: Java HotSpot(TM) Client VM
+[25.12.17 15:38:11] JVM installation directory: C:\Program Files (x86)\Java\jre1.8.0_151
+[25.12.17 15:38:11] JVM version: 25.151-b12
+[25.12.17 15:38:11] JVM Vendor: Oracle Corporation
+[25.12.17 15:38:11] JVM Info: mixed mode
+[25.12.17 15:38:11] ..................................................
+[25.12.17 15:38:11] ..................................................
+[25.12.17 15:38:11] GameServerManager: Loaded 127 server name(s)
+[25.12.17 15:38:11] GameServerManager: Loaded 1 server(s)
+[25.12.17 15:38:11] Cached 10 RSA keys for Game Server communication.
+[25.12.17 15:38:11] DDoS-Proof: Started client manager for 100 sessions
+[25.12.17 15:38:11] DDoS-Proof: Session time set to 15 seconds
+[25.12.17 15:38:11] LoginManager initiating
+[25.12.17 15:38:14] Cached 10 KeyPairs for RSA communication
+[25.12.17 15:38:14] Stored 20 keys for Blowfish communication
+[25.12.17 15:38:14] BanManager: Loaded 3 banned ip/subnet(s).
+[25.12.17 15:38:14] Listening for GameServers on 127.0.0.1:9014
+[25.12.17 15:38:14] Token-based brut-proof enabled
+[25.12.17 15:38:14] Free memory: 981 Mb of 989 Mb
+[25.12.17 15:38:14] Ready on IP: 0.0.0.0:2106.
+[25.12.17 15:38:14] Load time: 3 Seconds.
+[25.12.17 15:38:14] Login Server successfully started.
+[25.12.17 15:39:40] Updated Gameserver [1] Bartz IP's:
+[25.12.17 15:39:40] 192.168.0.100
+[25.12.17 15:39:41] l2chel.ddns.net (188.127.237.62)
+[25.12.17 15:46:57] L2DatabaseFactory: Connected to database server
+[25.12.17 15:46:57] ..................................................
+[25.12.17 15:46:57] System Time: 25-12-2017 03:46:57 PM
+[25.12.17 15:46:57] ..................................................
+[25.12.17 15:46:57] OS: Windows 7 Build: 6.1
+[25.12.17 15:46:57] OS Arch: x86
+[25.12.17 15:46:57] ..................................................
+[25.12.17 15:46:57] ..................................................
+[25.12.17 15:46:57] Avaible CPU(s): 2
+[25.12.17 15:46:57] Processor(s) Identifier: AMD64 Family 21 Model 19 Stepping 1, AuthenticAMD
+[25.12.17 15:46:57] ..................................................
+[25.12.17 15:46:57] ..................................................
+[25.12.17 15:46:57] Runtime Information
+[25.12.17 15:46:57] Current Free Heap Size: 13 mb
+[25.12.17 15:46:57] Current Heap Size: 15 mb
+[25.12.17 15:46:57] Maximum Heap Size: 989 mb
+[25.12.17 15:46:57] ..................................................
+[25.12.17 15:46:57] ..................................................
+[25.12.17 15:46:57] Java Platform Information
+[25.12.17 15:46:57] Java Runtime  Name: Java(TM) SE Runtime Environment
+[25.12.17 15:46:57] Java Version: 1.8.0_151
+[25.12.17 15:46:57] Java Class Version: 52.0
+[25.12.17 15:46:57] ..................................................
+[25.12.17 15:46:57] ..................................................
+[25.12.17 15:46:57] Virtual Machine Information (JVM)
+[25.12.17 15:46:57] JVM Name: Java HotSpot(TM) Client VM
+[25.12.17 15:46:57] JVM installation directory: C:\Program Files (x86)\Java\jre1.8.0_151
+[25.12.17 15:46:57] JVM version: 25.151-b12
+[25.12.17 15:46:57] JVM Vendor: Oracle Corporation
+[25.12.17 15:46:57] JVM Info: mixed mode
+[25.12.17 15:46:57] ..................................................
+[25.12.17 15:46:57] ..................................................
+[25.12.17 15:46:57] GameServerManager: Loaded 127 server name(s)
+[25.12.17 15:46:58] GameServerManager: Loaded 1 server(s)
+[25.12.17 15:46:58] Cached 10 RSA keys for Game Server communication.
+[25.12.17 15:46:58] DDoS-Proof: Started client manager for 100 sessions
+[25.12.17 15:46:58] DDoS-Proof: Session time set to 15 seconds
+[25.12.17 15:46:58] LoginManager initiating
+[25.12.17 15:47:01] Cached 10 KeyPairs for RSA communication
+[25.12.17 15:47:01] Stored 20 keys for Blowfish communication
+[25.12.17 15:47:01] BanManager: Loaded 3 banned ip/subnet(s).
+[25.12.17 15:47:01] Listening for GameServers on 127.0.0.1:9014
+[25.12.17 15:47:01] Token-based brut-proof enabled
+[25.12.17 15:47:01] Free memory: 980 Mb of 989 Mb
+[25.12.17 15:47:01] Ready on IP: 0.0.0.0:2106.
+[25.12.17 15:47:01] Load time: 4 Seconds.
+[25.12.17 15:47:01] Login Server successfully started.
+[25.12.17 15:47:46] Updated Gameserver [1] Bartz IP's:
+[25.12.17 15:47:46] 192.168.0.100
+[25.12.17 15:47:48] Couldn't resolve hostname "*"
+[25.12.17 16:00:45] L2DatabaseFactory: Connected to database server
+[25.12.17 16:00:45] ..................................................
+[25.12.17 16:00:45] System Time: 25-12-2017 04:00:45 PM
+[25.12.17 16:00:45] ..................................................
+[25.12.17 16:00:45] OS: Windows 7 Build: 6.1
+[25.12.17 16:00:45] OS Arch: x86
+[25.12.17 16:00:45] ..................................................
+[25.12.17 16:00:45] ..................................................
+[25.12.17 16:00:45] Avaible CPU(s): 2
+[25.12.17 16:00:45] Processor(s) Identifier: AMD64 Family 21 Model 19 Stepping 1, AuthenticAMD
+[25.12.17 16:00:45] ..................................................
+[25.12.17 16:00:45] ..................................................
+[25.12.17 16:00:45] Runtime Information
+[25.12.17 16:00:45] Current Free Heap Size: 13 mb
+[25.12.17 16:00:45] Current Heap Size: 15 mb
+[25.12.17 16:00:45] Maximum Heap Size: 989 mb
+[25.12.17 16:00:45] ..................................................
+[25.12.17 16:00:45] ..................................................
+[25.12.17 16:00:45] Java Platform Information
+[25.12.17 16:00:45] Java Runtime  Name: Java(TM) SE Runtime Environment
+[25.12.17 16:00:45] Java Version: 1.8.0_151
+[25.12.17 16:00:45] Java Class Version: 52.0
+[25.12.17 16:00:45] ..................................................
+[25.12.17 16:00:45] ..................................................
+[25.12.17 16:00:45] Virtual Machine Information (JVM)
+[25.12.17 16:00:45] JVM Name: Java HotSpot(TM) Client VM
+[25.12.17 16:00:45] JVM installation directory: C:\Program Files (x86)\Java\jre1.8.0_151
+[25.12.17 16:00:45] JVM version: 25.151-b12
+[25.12.17 16:00:45] JVM Vendor: Oracle Corporation
+[25.12.17 16:00:45] JVM Info: mixed mode
+[25.12.17 16:00:45] ..................................................
+[25.12.17 16:00:45] ..................................................
+[25.12.17 16:00:45] GameServerManager: Loaded 127 server name(s)
+[25.12.17 16:00:45] GameServerManager: Loaded 1 server(s)
+[25.12.17 16:00:46] Cached 10 RSA keys for Game Server communication.
+[25.12.17 16:00:46] DDoS-Proof: Started client manager for 100 sessions
+[25.12.17 16:00:46] DDoS-Proof: Session time set to 15 seconds
+[25.12.17 16:00:46] LoginManager initiating
+[25.12.17 16:00:48] Cached 10 KeyPairs for RSA communication
+[25.12.17 16:00:48] Stored 20 keys for Blowfish communication
+[25.12.17 16:00:48] BanManager: Loaded 3 banned ip/subnet(s).
+[25.12.17 16:00:48] Listening for GameServers on 127.0.0.1:9014
+[25.12.17 16:00:48] Token-based brut-proof enabled
+[25.12.17 16:00:48] Free memory: 980 Mb of 989 Mb
+[25.12.17 16:00:48] Ready on IP: 0.0.0.0:2106.
+[25.12.17 16:00:48] Load time: 3 Seconds.
+[25.12.17 16:00:48] Login Server successfully started.
+[25.12.17 16:01:16] Updated Gameserver [1] Bartz IP's:
+[25.12.17 16:01:16] 0.0.0.0
+[25.12.17 16:01:16] 0.0.0.0
+[25.12.17 16:03:10] GameServer [1] Bartz: Connection lost: Connection reset
+[25.12.17 16:03:10] Server [1] Bartz is now set as disconnected
+[25.12.17 16:06:00] L2DatabaseFactory: Connected to database server
+[25.12.17 16:06:00] ..................................................
+[25.12.17 16:06:00] System Time: 25-12-2017 04:06:00 PM
+[25.12.17 16:06:00] ..................................................
+[25.12.17 16:06:00] OS: Windows 7 Build: 6.1
+[25.12.17 16:06:00] OS Arch: x86
+[25.12.17 16:06:00] ..................................................
+[25.12.17 16:06:00] ..................................................
+[25.12.17 16:06:00] Avaible CPU(s): 2
+[25.12.17 16:06:00] Processor(s) Identifier: AMD64 Family 21 Model 19 Stepping 1, AuthenticAMD
+[25.12.17 16:06:00] ..................................................
+[25.12.17 16:06:00] ..................................................
+[25.12.17 16:06:00] Runtime Information
+[25.12.17 16:06:00] Current Free Heap Size: 13 mb
+[25.12.17 16:06:00] Current Heap Size: 15 mb
+[25.12.17 16:06:00] Maximum Heap Size: 989 mb
+[25.12.17 16:06:00] ..................................................
+[25.12.17 16:06:00] ..................................................
+[25.12.17 16:06:00] Java Platform Information
+[25.12.17 16:06:00] Java Runtime  Name: Java(TM) SE Runtime Environment
+[25.12.17 16:06:00] Java Version: 1.8.0_151
+[25.12.17 16:06:00] Java Class Version: 52.0
+[25.12.17 16:06:00] ..................................................
+[25.12.17 16:06:00] ..................................................
+[25.12.17 16:06:00] Virtual Machine Information (JVM)
+[25.12.17 16:06:00] JVM Name: Java HotSpot(TM) Client VM
+[25.12.17 16:06:00] JVM installation directory: C:\Program Files (x86)\Java\jre1.8.0_151
+[25.12.17 16:06:00] JVM version: 25.151-b12
+[25.12.17 16:06:00] JVM Vendor: Oracle Corporation
+[25.12.17 16:06:00] JVM Info: mixed mode
+[25.12.17 16:06:00] ..................................................
+[25.12.17 16:06:00] ..................................................
+[25.12.17 16:06:00] GameServerManager: Loaded 127 server name(s)
+[25.12.17 16:06:00] GameServerManager: Loaded 1 server(s)
+[25.12.17 16:06:01] Cached 10 RSA keys for Game Server communication.
+[25.12.17 16:06:01] DDoS-Proof: Started client manager for 100 sessions
+[25.12.17 16:06:01] DDoS-Proof: Session time set to 15 seconds
+[25.12.17 16:06:01] LoginManager initiating
+[25.12.17 16:06:04] Cached 10 KeyPairs for RSA communication
+[25.12.17 16:06:05] Stored 20 keys for Blowfish communication
+[25.12.17 16:06:05] BanManager: Loaded 3 banned ip/subnet(s).
+[25.12.17 16:06:05] Listening for GameServers on 127.0.0.1:9014
+[25.12.17 16:06:05] Token-based brut-proof enabled
+[25.12.17 16:06:05] Free memory: 982 Mb of 989 Mb
+[25.12.17 16:06:05] Ready on IP: 0.0.0.0:2106.
+[25.12.17 16:06:05] Load time: 5 Seconds.
+[25.12.17 16:06:05] Login Server successfully started.
+[25.12.17 16:06:26] Updated Gameserver [1] Bartz IP's:
+[25.12.17 16:06:26] 0.0.0.0
+[25.12.17 16:06:26] 0.0.0.0
+[25.12.17 16:06:45] GameServer [1] Bartz: Connection lost: Connection reset
+[25.12.17 16:06:45] Server [1] Bartz is now set as disconnected
+[25.12.17 16:07:17] L2DatabaseFactory: Connected to database server
+[25.12.17 16:07:17] ..................................................
+[25.12.17 16:07:17] System Time: 25-12-2017 04:07:17 PM
+[25.12.17 16:07:17] ..................................................
+[25.12.17 16:07:17] OS: Windows 7 Build: 6.1
+[25.12.17 16:07:17] OS Arch: x86
+[25.12.17 16:07:17] ..................................................
+[25.12.17 16:07:17] ..................................................
+[25.12.17 16:07:17] Avaible CPU(s): 2
+[25.12.17 16:07:17] Processor(s) Identifier: AMD64 Family 21 Model 19 Stepping 1, AuthenticAMD
+[25.12.17 16:07:17] ..................................................
+[25.12.17 16:07:17] ..................................................
+[25.12.17 16:07:17] Runtime Information
+[25.12.17 16:07:17] Current Free Heap Size: 13 mb
+[25.12.17 16:07:17] Current Heap Size: 15 mb
+[25.12.17 16:07:17] Maximum Heap Size: 989 mb
+[25.12.17 16:07:17] ..................................................
+[25.12.17 16:07:17] ..................................................
+[25.12.17 16:07:17] Java Platform Information
+[25.12.17 16:07:17] Java Runtime  Name: Java(TM) SE Runtime Environment
+[25.12.17 16:07:17] Java Version: 1.8.0_151
+[25.12.17 16:07:17] Java Class Version: 52.0
+[25.12.17 16:07:17] ..................................................
+[25.12.17 16:07:17] ..................................................
+[25.12.17 16:07:17] Virtual Machine Information (JVM)
+[25.12.17 16:07:17] JVM Name: Java HotSpot(TM) Client VM
+[25.12.17 16:07:17] JVM installation directory: C:\Program Files (x86)\Java\jre1.8.0_151
+[25.12.17 16:07:17] JVM version: 25.151-b12
+[25.12.17 16:07:17] JVM Vendor: Oracle Corporation
+[25.12.17 16:07:17] JVM Info: mixed mode
+[25.12.17 16:07:17] ..................................................
+[25.12.17 16:07:17] ..................................................
+[25.12.17 16:07:17] GameServerManager: Loaded 127 server name(s)
+[25.12.17 16:07:18] GameServerManager: Loaded 1 server(s)
+[25.12.17 16:07:18] Cached 10 RSA keys for Game Server communication.
+[25.12.17 16:07:18] DDoS-Proof: Started client manager for 100 sessions
+[25.12.17 16:07:18] DDoS-Proof: Session time set to 15 seconds
+[25.12.17 16:07:18] LoginManager initiating
+[25.12.17 16:07:21] Cached 10 KeyPairs for RSA communication
+[25.12.17 16:07:22] Stored 20 keys for Blowfish communication
+[25.12.17 16:07:22] BanManager: Loaded 3 banned ip/subnet(s).
+[25.12.17 16:07:22] Listening for GameServers on 127.0.0.1:9014
+[25.12.17 16:07:22] Token-based brut-proof enabled
+[25.12.17 16:07:22] Free memory: 980 Mb of 989 Mb
+[25.12.17 16:07:22] Ready on IP: 192.168.0.100:2106.
+[25.12.17 16:07:22] Load time: 4 Seconds.
+[25.12.17 16:07:22] Login Server successfully started.
+[25.12.17 16:07:45] Updated Gameserver [1] Bartz IP's:
+[25.12.17 16:07:45] 192.168.0.100
+[25.12.17 16:07:45] 192.168.0.100
+[26.12.17 16:51:18] L2DatabaseFactory: Connected to database server
+[26.12.17 16:51:18] ..................................................
+[26.12.17 16:51:18] System Time: 26-12-2017 04:51:18 PM
+[26.12.17 16:51:18] ..................................................
+[26.12.17 16:51:18] OS: Windows 7 Build: 6.1
+[26.12.17 16:51:18] OS Arch: x86
+[26.12.17 16:51:18] ..................................................
+[26.12.17 16:51:18] ..................................................
+[26.12.17 16:51:18] Avaible CPU(s): 2
+[26.12.17 16:51:18] Processor(s) Identifier: AMD64 Family 21 Model 19 Stepping 1, AuthenticAMD
+[26.12.17 16:51:18] ..................................................
+[26.12.17 16:51:18] ..................................................
+[26.12.17 16:51:18] Runtime Information
+[26.12.17 16:51:18] Current Free Heap Size: 12 mb
+[26.12.17 16:51:18] Current Heap Size: 15 mb
+[26.12.17 16:51:18] Maximum Heap Size: 989 mb
+[26.12.17 16:51:18] ..................................................
+[26.12.17 16:51:18] ..................................................
+[26.12.17 16:51:18] Java Platform Information
+[26.12.17 16:51:18] Java Runtime  Name: Java(TM) SE Runtime Environment
+[26.12.17 16:51:18] Java Version: 1.8.0_151
+[26.12.17 16:51:18] Java Class Version: 52.0
+[26.12.17 16:51:18] ..................................................
+[26.12.17 16:51:18] ..................................................
+[26.12.17 16:51:18] Virtual Machine Information (JVM)
+[26.12.17 16:51:18] JVM Name: Java HotSpot(TM) Client VM
+[26.12.17 16:51:18] JVM installation directory: C:\Program Files (x86)\Java\jre1.8.0_151
+[26.12.17 16:51:18] JVM version: 25.151-b12
+[26.12.17 16:51:18] JVM Vendor: Oracle Corporation
+[26.12.17 16:51:18] JVM Info: mixed mode
+[26.12.17 16:51:18] ..................................................
+[26.12.17 16:51:18] ..................................................
+[26.12.17 16:51:18] GameServerManager: Loaded 127 server name(s)
+[26.12.17 16:51:18] GameServerManager: Loaded 1 server(s)
+[26.12.17 16:51:19] Cached 10 RSA keys for Game Server communication.
+[26.12.17 16:51:19] DDoS-Proof: Started client manager for 100 sessions
+[26.12.17 16:51:19] DDoS-Proof: Session time set to 15 seconds
+[26.12.17 16:51:19] LoginManager initiating
+[26.12.17 16:51:21] Cached 10 KeyPairs for RSA communication
+[26.12.17 16:51:21] Stored 20 keys for Blowfish communication
+[26.12.17 16:51:21] BanManager: Loaded 3 banned ip/subnet(s).
+[26.12.17 16:51:21] Listening for GameServers on 127.0.0.1:9014
+[26.12.17 16:51:21] Token-based brut-proof enabled
+[26.12.17 16:51:21] Free memory: 980 Mb of 989 Mb
+[26.12.17 16:51:21] Ready on IP: 192.168.0.100:2106.
+[26.12.17 16:51:21] Load time: 3 Seconds.
+[26.12.17 16:51:21] Login Server successfully started.
+[26.12.17 16:51:55] L2DatabaseFactory: Connected to database server
+[26.12.17 16:51:55] ..................................................
+[26.12.17 16:51:55] System Time: 26-12-2017 04:51:55 PM
+[26.12.17 16:51:55] ..................................................
+[26.12.17 16:51:55] OS: Windows 7 Build: 6.1
+[26.12.17 16:51:55] OS Arch: x86
+[26.12.17 16:51:55] ..................................................
+[26.12.17 16:51:55] ..................................................
+[26.12.17 16:51:55] Avaible CPU(s): 2
+[26.12.17 16:51:55] Processor(s) Identifier: AMD64 Family 21 Model 19 Stepping 1, AuthenticAMD
+[26.12.17 16:51:55] ..................................................
+[26.12.17 16:51:55] ..................................................
+[26.12.17 16:51:55] Runtime Information
+[26.12.17 16:51:55] Current Free Heap Size: 13 mb
+[26.12.17 16:51:55] Current Heap Size: 15 mb
+[26.12.17 16:51:55] Maximum Heap Size: 249 mb
+[26.12.17 16:51:55] ..................................................
+[26.12.17 16:51:55] ..................................................
+[26.12.17 16:51:55] Java Platform Information
+[26.12.17 16:51:55] Java Runtime  Name: Java(TM) SE Runtime Environment
+[26.12.17 16:51:55] Java Version: 1.8.0_151
+[26.12.17 16:51:55] Java Class Version: 52.0
+[26.12.17 16:51:55] ..................................................
+[26.12.17 16:51:55] ..................................................
+[26.12.17 16:51:55] Virtual Machine Information (JVM)
+[26.12.17 16:51:55] JVM Name: Java HotSpot(TM) Client VM
+[26.12.17 16:51:55] JVM installation directory: C:\Program Files (x86)\Java\jre1.8.0_151
+[26.12.17 16:51:55] JVM version: 25.151-b12
+[26.12.17 16:51:55] JVM Vendor: Oracle Corporation
+[26.12.17 16:51:55] JVM Info: mixed mode
+[26.12.17 16:51:55] ..................................................
+[26.12.17 16:51:55] ..................................................
+[26.12.17 16:51:55] GameServerManager: Loaded 127 server name(s)
+[26.12.17 16:51:55] GameServerManager: Loaded 1 server(s)
+[26.12.17 16:51:56] Cached 10 RSA keys for Game Server communication.
+[26.12.17 16:51:56] DDoS-Proof: Started client manager for 100 sessions
+[26.12.17 16:51:56] DDoS-Proof: Session time set to 15 seconds
+[26.12.17 16:51:56] LoginManager initiating
+[26.12.17 16:51:58] Cached 10 KeyPairs for RSA communication
+[26.12.17 16:51:58] Stored 20 keys for Blowfish communication
+[26.12.17 16:51:58] BanManager: Loaded 3 banned ip/subnet(s).
+[26.12.17 16:51:58] Listening for GameServers on 127.0.0.1:9014
+[26.12.17 16:51:58] Token-based brut-proof enabled
+[26.12.17 16:51:58] Free memory: 241 Mb of 249 Mb
+[26.12.17 16:51:58] Ready on IP: 192.168.0.100:2106.
+[26.12.17 16:51:58] Load time: 3 Seconds.
+[26.12.17 16:51:58] Login Server successfully started.
+[26.12.17 16:52:44] Updated Gameserver [1] Bartz IP's:
+[26.12.17 16:52:44] 192.168.0.100
+[26.12.17 16:52:44] 192.168.0.100
+[26.12.17 19:49:38] L2DatabaseFactory: Connected to database server
+[26.12.17 19:49:39] ..................................................
+[26.12.17 19:49:39] System Time: 26-12-2017 07:49:39 PM
+[26.12.17 19:49:39] ..................................................
+[26.12.17 19:49:39] OS: Windows 7 Build: 6.1
+[26.12.17 19:49:39] OS Arch: x86
+[26.12.17 19:49:39] ..................................................
+[26.12.17 19:49:39] ..................................................
+[26.12.17 19:49:39] Avaible CPU(s): 2
+[26.12.17 19:49:39] Processor(s) Identifier: AMD64 Family 21 Model 19 Stepping 1, AuthenticAMD
+[26.12.17 19:49:39] ..................................................
+[26.12.17 19:49:39] ..................................................
+[26.12.17 19:49:39] Runtime Information
+[26.12.17 19:49:39] Current Free Heap Size: 12 mb
+[26.12.17 19:49:39] Current Heap Size: 15 mb
+[26.12.17 19:49:39] Maximum Heap Size: 249 mb
+[26.12.17 19:49:39] ..................................................
+[26.12.17 19:49:39] ..................................................
+[26.12.17 19:49:39] Java Platform Information
+[26.12.17 19:49:39] Java Runtime  Name: Java(TM) SE Runtime Environment
+[26.12.17 19:49:39] Java Version: 1.8.0_151
+[26.12.17 19:49:39] Java Class Version: 52.0
+[26.12.17 19:49:39] ..................................................
+[26.12.17 19:49:39] ..................................................
+[26.12.17 19:49:39] Virtual Machine Information (JVM)
+[26.12.17 19:49:39] JVM Name: Java HotSpot(TM) Client VM
+[26.12.17 19:49:39] JVM installation directory: C:\Program Files (x86)\Java\jre1.8.0_151
+[26.12.17 19:49:39] JVM version: 25.151-b12
+[26.12.17 19:49:39] JVM Vendor: Oracle Corporation
+[26.12.17 19:49:39] JVM Info: mixed mode
+[26.12.17 19:49:39] ..................................................
+[26.12.17 19:49:39] ..................................................
+[26.12.17 19:49:39] GameServerManager: Loaded 127 server name(s)
+[26.12.17 19:49:41] GameServerManager: Loaded 1 server(s)
+[26.12.17 19:49:42] Cached 10 RSA keys for Game Server communication.
+[26.12.17 19:49:42] DDoS-Proof: Started client manager for 100 sessions
+[26.12.17 19:49:42] DDoS-Proof: Session time set to 15 seconds
+[26.12.17 19:49:42] LoginManager initiating
+[26.12.17 19:49:45] Cached 10 KeyPairs for RSA communication
+[26.12.17 19:49:46] Stored 20 keys for Blowfish communication
+[26.12.17 19:49:46] BanManager: Loaded 3 banned ip/subnet(s).
+[26.12.17 19:49:46] Listening for GameServers on 127.0.0.1:9014
+[26.12.17 19:49:46] Token-based brut-proof enabled
+[26.12.17 19:49:46] Free memory: 241 Mb of 249 Mb
+[26.12.17 19:49:46] Ready on IP: 10.11.72.3:2106.
+[26.12.17 19:49:46] Load time: 8 Seconds.
+[26.12.17 19:49:46] Login Server successfully started.
+[26.12.17 19:50:30] Updated Gameserver [1] Bartz IP's:
+[26.12.17 19:50:30] 10.11.72.3
+[26.12.17 19:50:30] 10.11.72.3
+[26.12.17 20:25:04] Updated Gameserver [1] Bartz IP's:
+[26.12.17 20:25:04] 10.11.72.3
+[26.12.17 20:25:04] 10.11.72.3
+[26.12.17 21:45:47] GameServer [1] Bartz: Connection lost: Connection reset
+[26.12.17 21:45:47] Server [1] Bartz is now set as disconnected
+[27.12.17 13:22:51] L2DatabaseFactory: Connected to database server
+[27.12.17 13:22:51] ..................................................
+[27.12.17 13:22:51] System Time: 27-12-2017 01:22:51 PM
+[27.12.17 13:22:51] ..................................................
+[27.12.17 13:22:51] OS: Windows 7 Build: 6.1
+[27.12.17 13:22:51] OS Arch: x86
+[27.12.17 13:22:51] ..................................................
+[27.12.17 13:22:51] ..................................................
+[27.12.17 13:22:51] Avaible CPU(s): 2
+[27.12.17 13:22:51] Processor(s) Identifier: AMD64 Family 21 Model 19 Stepping 1, AuthenticAMD
+[27.12.17 13:22:51] ..................................................
+[27.12.17 13:22:51] ..................................................
+[27.12.17 13:22:51] Runtime Information
+[27.12.17 13:22:51] Current Free Heap Size: 13 mb
+[27.12.17 13:22:51] Current Heap Size: 15 mb
+[27.12.17 13:22:51] Maximum Heap Size: 249 mb
+[27.12.17 13:22:51] ..................................................
+[27.12.17 13:22:51] ..................................................
+[27.12.17 13:22:51] Java Platform Information
+[27.12.17 13:22:51] Java Runtime  Name: Java(TM) SE Runtime Environment
+[27.12.17 13:22:51] Java Version: 1.8.0_151
+[27.12.17 13:22:51] Java Class Version: 52.0
+[27.12.17 13:22:51] ..................................................
+[27.12.17 13:22:51] ..................................................
+[27.12.17 13:22:51] Virtual Machine Information (JVM)
+[27.12.17 13:22:51] JVM Name: Java HotSpot(TM) Client VM
+[27.12.17 13:22:51] JVM installation directory: C:\Program Files (x86)\Java\jre1.8.0_151
+[27.12.17 13:22:51] JVM version: 25.151-b12
+[27.12.17 13:22:51] JVM Vendor: Oracle Corporation
+[27.12.17 13:22:51] JVM Info: mixed mode
+[27.12.17 13:22:51] ..................................................
+[27.12.17 13:22:51] ..................................................
+[27.12.17 13:22:51] GameServerManager: Loaded 127 server name(s)
+[27.12.17 13:22:52] GameServerManager: Loaded 1 server(s)
+[27.12.17 13:22:53] Cached 10 RSA keys for Game Server communication.
+[27.12.17 13:22:53] DDoS-Proof: Started client manager for 100 sessions
+[27.12.17 13:22:53] DDoS-Proof: Session time set to 15 seconds
+[27.12.17 13:22:53] LoginManager initiating
+[27.12.17 13:22:55] Cached 10 KeyPairs for RSA communication
+[27.12.17 13:22:56] Stored 20 keys for Blowfish communication
+[27.12.17 13:22:57] BanManager: Loaded 3 banned ip/subnet(s).
+[27.12.17 13:22:57] Listening for GameServers on 127.0.0.1:9014
+[27.12.17 13:22:57] FATAL: Failed to open server socket. Reason: Cannot assign requested address: bind
+java.net.BindException: Cannot assign requested address: bind
+	at sun.nio.ch.Net.bind0(Native Method)
+	at sun.nio.ch.Net.bind(Unknown Source)
+	at sun.nio.ch.Net.bind(Unknown Source)
+	at sun.nio.ch.ServerSocketChannelImpl.bind(Unknown Source)
+	at sun.nio.ch.ServerSocketAdaptor.bind(Unknown Source)
+	at sun.nio.ch.ServerSocketAdaptor.bind(Unknown Source)
+	at ru.catssoftware.loginserver.mmocore.SelectorThread.openServerSocket(SelectorThread.java:93)
+	at ru.catssoftware.loginserver.L2LoginServer.startServer(L2LoginServer.java:143)
+	at ru.catssoftware.loginserver.L2LoginServer.<init>(L2LoginServer.java:116)
+	at ru.catssoftware.loginserver.L2LoginServer.main(L2LoginServer.java:52)
+[27.12.17 13:22:57] Login server shutting down
+[27.12.17 13:26:38] L2DatabaseFactory: Connected to database server
+[27.12.17 13:26:38] ..................................................
+[27.12.17 13:26:38] System Time: 27-12-2017 01:26:38 PM
+[27.12.17 13:26:38] ..................................................
+[27.12.17 13:26:38] OS: Windows 7 Build: 6.1
+[27.12.17 13:26:38] OS Arch: x86
+[27.12.17 13:26:38] ..................................................
+[27.12.17 13:26:38] ..................................................
+[27.12.17 13:26:38] Avaible CPU(s): 2
+[27.12.17 13:26:38] Processor(s) Identifier: AMD64 Family 21 Model 19 Stepping 1, AuthenticAMD
+[27.12.17 13:26:38] ..................................................
+[27.12.17 13:26:38] ..................................................
+[27.12.17 13:26:38] Runtime Information
+[27.12.17 13:26:38] Current Free Heap Size: 13 mb
+[27.12.17 13:26:38] Current Heap Size: 15 mb
+[27.12.17 13:26:38] Maximum Heap Size: 249 mb
+[27.12.17 13:26:38] ..................................................
+[27.12.17 13:26:38] ..................................................
+[27.12.17 13:26:38] Java Platform Information
+[27.12.17 13:26:38] Java Runtime  Name: Java(TM) SE Runtime Environment
+[27.12.17 13:26:38] Java Version: 1.8.0_151
+[27.12.17 13:26:38] Java Class Version: 52.0
+[27.12.17 13:26:38] ..................................................
+[27.12.17 13:26:38] ..................................................
+[27.12.17 13:26:38] Virtual Machine Information (JVM)
+[27.12.17 13:26:38] JVM Name: Java HotSpot(TM) Client VM
+[27.12.17 13:26:38] JVM installation directory: C:\Program Files (x86)\Java\jre1.8.0_151
+[27.12.17 13:26:38] JVM version: 25.151-b12
+[27.12.17 13:26:38] JVM Vendor: Oracle Corporation
+[27.12.17 13:26:38] JVM Info: mixed mode
+[27.12.17 13:26:38] ..................................................
+[27.12.17 13:26:38] ..................................................
+[27.12.17 13:26:38] GameServerManager: Loaded 127 server name(s)
+[27.12.17 13:26:38] GameServerManager: Loaded 1 server(s)
+[27.12.17 13:26:39] Cached 10 RSA keys for Game Server communication.
+[27.12.17 13:26:39] DDoS-Proof: Started client manager for 100 sessions
+[27.12.17 13:26:39] DDoS-Proof: Session time set to 15 seconds
+[27.12.17 13:26:39] LoginManager initiating
+[27.12.17 13:26:42] Cached 10 KeyPairs for RSA communication
+[27.12.17 13:26:43] Stored 20 keys for Blowfish communication
+[27.12.17 13:26:43] BanManager: Loaded 3 banned ip/subnet(s).
+[27.12.17 13:26:43] Listening for GameServers on 127.0.0.1:9014
+[27.12.17 13:26:43] Token-based brut-proof enabled
+[27.12.17 13:26:43] Free memory: 241 Mb of 249 Mb
+[27.12.17 13:26:43] Ready on IP: 10.11.72.3:2106.
+[27.12.17 13:26:43] Load time: 4 Seconds.
+[27.12.17 13:26:43] Login Server successfully started.
+[27.12.17 13:27:57] Updated Gameserver [1] Bartz IP's:
+[27.12.17 13:27:57] 10.11.72.3
+[27.12.17 13:27:57] 10.11.72.3
+[27.12.17 14:50:23] Updated Gameserver [1] Bartz IP's:
+[27.12.17 14:50:23] 10.11.72.3
+[27.12.17 14:50:23] 10.11.72.3
+[27.12.17 15:05:24] GameServer [1] Bartz: Connection lost: Connection reset
+[27.12.17 15:05:24] Server [1] Bartz is now set as disconnected
+[27.12.17 15:06:13] Updated Gameserver [1] Bartz IP's:
+[27.12.17 15:06:13] 10.11.72.3
+[27.12.17 15:06:13] 10.11.72.3
+[27.12.17 15:29:44] GameServer [1] Bartz: Connection lost: Connection reset
+[27.12.17 15:29:44] Server [1] Bartz is now set as disconnected
+[27.12.17 15:30:16] Updated Gameserver [1] Bartz IP's:
+[27.12.17 15:30:16] 10.11.72.3
+[27.12.17 15:30:16] 10.11.72.3
+[27.12.17 15:30:30] login failed for user : 'toudzava' 10.11.72.2
+[27.12.17 17:56:28] L2DatabaseFactory: Connected to database server
+[27.12.17 17:56:28] ..................................................
+[27.12.17 17:56:28] System Time: 27-12-2017 05:56:28 PM
+[27.12.17 17:56:28] ..................................................
+[27.12.17 17:56:28] OS: Windows 7 Build: 6.1
+[27.12.17 17:56:28] OS Arch: x86
+[27.12.17 17:56:28] ..................................................
+[27.12.17 17:56:28] ..................................................
+[27.12.17 17:56:28] Avaible CPU(s): 2
+[27.12.17 17:56:28] Processor(s) Identifier: AMD64 Family 21 Model 19 Stepping 1, AuthenticAMD
+[27.12.17 17:56:28] ..................................................
+[27.12.17 17:56:28] ..................................................
+[27.12.17 17:56:28] Runtime Information
+[27.12.17 17:56:28] Current Free Heap Size: 12 mb
+[27.12.17 17:56:28] Current Heap Size: 15 mb
+[27.12.17 17:56:28] Maximum Heap Size: 249 mb
+[27.12.17 17:56:28] ..................................................
+[27.12.17 17:56:28] ..................................................
+[27.12.17 17:56:28] Java Platform Information
+[27.12.17 17:56:28] Java Runtime  Name: Java(TM) SE Runtime Environment
+[27.12.17 17:56:28] Java Version: 1.8.0_151
+[27.12.17 17:56:28] Java Class Version: 52.0
+[27.12.17 17:56:28] ..................................................
+[27.12.17 17:56:28] ..................................................
+[27.12.17 17:56:28] Virtual Machine Information (JVM)
+[27.12.17 17:56:28] JVM Name: Java HotSpot(TM) Client VM
+[27.12.17 17:56:28] JVM installation directory: C:\Program Files (x86)\Java\jre1.8.0_151
+[27.12.17 17:56:28] JVM version: 25.151-b12
+[27.12.17 17:56:28] JVM Vendor: Oracle Corporation
+[27.12.17 17:56:28] JVM Info: mixed mode
+[27.12.17 17:56:28] ..................................................
+[27.12.17 17:56:28] ..................................................
+[27.12.17 17:56:28] GameServerManager: Loaded 127 server name(s)
+[27.12.17 17:56:30] L2DatabaseFactory: Failed to retrieve database connection!
+org.apache.commons.dbcp.SQLNestedException: Cannot create PoolableConnectionFactory (Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.)
+	at org.apache.commons.dbcp.BasicDataSource.createPoolableConnectionFactory(BasicDataSource.java:1549)
+	at org.apache.commons.dbcp.BasicDataSource.createDataSource(BasicDataSource.java:1388)
+	at org.apache.commons.dbcp.BasicDataSource.getConnection(BasicDataSource.java:1044)
+	at ru.catssoftware.L2DatabaseFactory.getConnection(L2DatabaseFactory.java:140)
+	at ru.catssoftware.L2DatabaseFactory.getConnection(L2DatabaseFactory.java:131)
+	at ru.catssoftware.loginserver.manager.GameServerManager.load(GameServerManager.java:222)
+	at ru.catssoftware.loginserver.manager.GameServerManager.<init>(GameServerManager.java:125)
+	at ru.catssoftware.loginserver.manager.GameServerManager.getInstance(GameServerManager.java:88)
+	at ru.catssoftware.loginserver.L2LoginServer.<init>(L2LoginServer.java:102)
+	at ru.catssoftware.loginserver.L2LoginServer.main(L2LoginServer.java:52)
+Caused by: com.mysql.jdbc.exceptions.jdbc4.CommunicationsException: Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(Unknown Source)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(Unknown Source)
+	at java.lang.reflect.Constructor.newInstance(Unknown Source)
+	at com.mysql.jdbc.Util.handleNewInstance(Util.java:411)
+	at com.mysql.jdbc.SQLError.createCommunicationsException(SQLError.java:1129)
+	at com.mysql.jdbc.MysqlIO.<init>(MysqlIO.java:358)
+	at com.mysql.jdbc.ConnectionImpl.coreConnect(ConnectionImpl.java:2489)
+	at com.mysql.jdbc.ConnectionImpl.connectOneTryOnly(ConnectionImpl.java:2526)
+	at com.mysql.jdbc.ConnectionImpl.createNewIO(ConnectionImpl.java:2311)
+	at com.mysql.jdbc.ConnectionImpl.<init>(ConnectionImpl.java:834)
+	at com.mysql.jdbc.JDBC4Connection.<init>(JDBC4Connection.java:47)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(Unknown Source)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(Unknown Source)
+	at java.lang.reflect.Constructor.newInstance(Unknown Source)
+	at com.mysql.jdbc.Util.handleNewInstance(Util.java:411)
+	at com.mysql.jdbc.ConnectionImpl.getInstance(ConnectionImpl.java:416)
+	at com.mysql.jdbc.NonRegisteringDriver.connect(NonRegisteringDriver.java:347)
+	at org.apache.commons.dbcp.DriverConnectionFactory.createConnection(DriverConnectionFactory.java:38)
+	at org.apache.commons.dbcp.PoolableConnectionFactory.makeObject(PoolableConnectionFactory.java:582)
+	at org.apache.commons.dbcp.BasicDataSource.validateConnectionFactory(BasicDataSource.java:1556)
+	at org.apache.commons.dbcp.BasicDataSource.createPoolableConnectionFactory(BasicDataSource.java:1545)
+	... 9 more
+Caused by: java.net.ConnectException: Connection refused: connect
+	at java.net.DualStackPlainSocketImpl.connect0(Native Method)
+	at java.net.DualStackPlainSocketImpl.socketConnect(Unknown Source)
+	at java.net.AbstractPlainSocketImpl.doConnect(Unknown Source)
+	at java.net.AbstractPlainSocketImpl.connectToAddress(Unknown Source)
+	at java.net.AbstractPlainSocketImpl.connect(Unknown Source)
+	at java.net.PlainSocketImpl.connect(Unknown Source)
+	at java.net.SocksSocketImpl.connect(Unknown Source)
+	at java.net.Socket.connect(Unknown Source)
+	at java.net.Socket.connect(Unknown Source)
+	at java.net.Socket.<init>(Unknown Source)
+	at java.net.Socket.<init>(Unknown Source)
+	at com.mysql.jdbc.StandardSocketFactory.connect(StandardSocketFactory.java:256)
+	at com.mysql.jdbc.MysqlIO.<init>(MysqlIO.java:308)
+	... 25 more
+[27.12.17 17:56:32] L2DatabaseFactory: Failed to retrieve database connection!
+org.apache.commons.dbcp.SQLNestedException: Cannot create PoolableConnectionFactory (Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.)
+	at org.apache.commons.dbcp.BasicDataSource.createPoolableConnectionFactory(BasicDataSource.java:1549)
+	at org.apache.commons.dbcp.BasicDataSource.createDataSource(BasicDataSource.java:1388)
+	at org.apache.commons.dbcp.BasicDataSource.getConnection(BasicDataSource.java:1044)
+	at ru.catssoftware.L2DatabaseFactory.getConnection(L2DatabaseFactory.java:140)
+	at ru.catssoftware.L2DatabaseFactory.getConnection(L2DatabaseFactory.java:131)
+	at ru.catssoftware.loginserver.manager.GameServerManager.load(GameServerManager.java:222)
+	at ru.catssoftware.loginserver.manager.GameServerManager.<init>(GameServerManager.java:125)
+	at ru.catssoftware.loginserver.manager.GameServerManager.getInstance(GameServerManager.java:88)
+	at ru.catssoftware.loginserver.L2LoginServer.<init>(L2LoginServer.java:102)
+	at ru.catssoftware.loginserver.L2LoginServer.main(L2LoginServer.java:52)
+Caused by: com.mysql.jdbc.exceptions.jdbc4.CommunicationsException: Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(Unknown Source)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(Unknown Source)
+	at java.lang.reflect.Constructor.newInstance(Unknown Source)
+	at com.mysql.jdbc.Util.handleNewInstance(Util.java:411)
+	at com.mysql.jdbc.SQLError.createCommunicationsException(SQLError.java:1129)
+	at com.mysql.jdbc.MysqlIO.<init>(MysqlIO.java:358)
+	at com.mysql.jdbc.ConnectionImpl.coreConnect(ConnectionImpl.java:2489)
+	at com.mysql.jdbc.ConnectionImpl.connectOneTryOnly(ConnectionImpl.java:2526)
+	at com.mysql.jdbc.ConnectionImpl.createNewIO(ConnectionImpl.java:2311)
+	at com.mysql.jdbc.ConnectionImpl.<init>(ConnectionImpl.java:834)
+	at com.mysql.jdbc.JDBC4Connection.<init>(JDBC4Connection.java:47)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(Unknown Source)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(Unknown Source)
+	at java.lang.reflect.Constructor.newInstance(Unknown Source)
+	at com.mysql.jdbc.Util.handleNewInstance(Util.java:411)
+	at com.mysql.jdbc.ConnectionImpl.getInstance(ConnectionImpl.java:416)
+	at com.mysql.jdbc.NonRegisteringDriver.connect(NonRegisteringDriver.java:347)
+	at org.apache.commons.dbcp.DriverConnectionFactory.createConnection(DriverConnectionFactory.java:38)
+	at org.apache.commons.dbcp.PoolableConnectionFactory.makeObject(PoolableConnectionFactory.java:582)
+	at org.apache.commons.dbcp.BasicDataSource.validateConnectionFactory(BasicDataSource.java:1556)
+	at org.apache.commons.dbcp.BasicDataSource.createPoolableConnectionFactory(BasicDataSource.java:1545)
+	... 9 more
+Caused by: java.net.ConnectException: Connection refused: connect
+	at java.net.DualStackPlainSocketImpl.connect0(Native Method)
+	at java.net.DualStackPlainSocketImpl.socketConnect(Unknown Source)
+	at java.net.AbstractPlainSocketImpl.doConnect(Unknown Source)
+	at java.net.AbstractPlainSocketImpl.connectToAddress(Unknown Source)
+	at java.net.AbstractPlainSocketImpl.connect(Unknown Source)
+	at java.net.PlainSocketImpl.connect(Unknown Source)
+	at java.net.SocksSocketImpl.connect(Unknown Source)
+	at java.net.Socket.connect(Unknown Source)
+	at java.net.Socket.connect(Unknown Source)
+	at java.net.Socket.<init>(Unknown Source)
+	at java.net.Socket.<init>(Unknown Source)
+	at com.mysql.jdbc.StandardSocketFactory.connect(StandardSocketFactory.java:256)
+	at com.mysql.jdbc.MysqlIO.<init>(MysqlIO.java:308)
+	... 25 more
+[27.12.17 17:56:34] L2DatabaseFactory: Failed to retrieve database connection!
+org.apache.commons.dbcp.SQLNestedException: Cannot create PoolableConnectionFactory (Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.)
+	at org.apache.commons.dbcp.BasicDataSource.createPoolableConnectionFactory(BasicDataSource.java:1549)
+	at org.apache.commons.dbcp.BasicDataSource.createDataSource(BasicDataSource.java:1388)
+	at org.apache.commons.dbcp.BasicDataSource.getConnection(BasicDataSource.java:1044)
+	at ru.catssoftware.L2DatabaseFactory.getConnection(L2DatabaseFactory.java:140)
+	at ru.catssoftware.L2DatabaseFactory.getConnection(L2DatabaseFactory.java:131)
+	at ru.catssoftware.loginserver.manager.GameServerManager.load(GameServerManager.java:222)
+	at ru.catssoftware.loginserver.manager.GameServerManager.<init>(GameServerManager.java:125)
+	at ru.catssoftware.loginserver.manager.GameServerManager.getInstance(GameServerManager.java:88)
+	at ru.catssoftware.loginserver.L2LoginServer.<init>(L2LoginServer.java:102)
+	at ru.catssoftware.loginserver.L2LoginServer.main(L2LoginServer.java:52)
+Caused by: com.mysql.jdbc.exceptions.jdbc4.CommunicationsException: Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(Unknown Source)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(Unknown Source)
+	at java.lang.reflect.Constructor.newInstance(Unknown Source)
+	at com.mysql.jdbc.Util.handleNewInstance(Util.java:411)
+	at com.mysql.jdbc.SQLError.createCommunicationsException(SQLError.java:1129)
+	at com.mysql.jdbc.MysqlIO.<init>(MysqlIO.java:358)
+	at com.mysql.jdbc.ConnectionImpl.coreConnect(ConnectionImpl.java:2489)
+	at com.mysql.jdbc.ConnectionImpl.connectOneTryOnly(ConnectionImpl.java:2526)
+	at com.mysql.jdbc.ConnectionImpl.createNewIO(ConnectionImpl.java:2311)
+	at com.mysql.jdbc.ConnectionImpl.<init>(ConnectionImpl.java:834)
+	at com.mysql.jdbc.JDBC4Connection.<init>(JDBC4Connection.java:47)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(Unknown Source)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(Unknown Source)
+	at java.lang.reflect.Constructor.newInstance(Unknown Source)
+	at com.mysql.jdbc.Util.handleNewInstance(Util.java:411)
+	at com.mysql.jdbc.ConnectionImpl.getInstance(ConnectionImpl.java:416)
+	at com.mysql.jdbc.NonRegisteringDriver.connect(NonRegisteringDriver.java:347)
+	at org.apache.commons.dbcp.DriverConnectionFactory.createConnection(DriverConnectionFactory.java:38)
+	at org.apache.commons.dbcp.PoolableConnectionFactory.makeObject(PoolableConnectionFactory.java:582)
+	at org.apache.commons.dbcp.BasicDataSource.validateConnectionFactory(BasicDataSource.java:1556)
+	at org.apache.commons.dbcp.BasicDataSource.createPoolableConnectionFactory(BasicDataSource.java:1545)
+	... 9 more
+Caused by: java.net.ConnectException: Connection refused: connect
+	at java.net.DualStackPlainSocketImpl.connect0(Native Method)
+	at java.net.DualStackPlainSocketImpl.socketConnect(Unknown Source)
+	at java.net.AbstractPlainSocketImpl.doConnect(Unknown Source)
+	at java.net.AbstractPlainSocketImpl.connectToAddress(Unknown Source)
+	at java.net.AbstractPlainSocketImpl.connect(Unknown Source)
+	at java.net.PlainSocketImpl.connect(Unknown Source)
+	at java.net.SocksSocketImpl.connect(Unknown Source)
+	at java.net.Socket.connect(Unknown Source)
+	at java.net.Socket.connect(Unknown Source)
+	at java.net.Socket.<init>(Unknown Source)
+	at java.net.Socket.<init>(Unknown Source)
+	at com.mysql.jdbc.StandardSocketFactory.connect(StandardSocketFactory.java:256)
+	at com.mysql.jdbc.MysqlIO.<init>(MysqlIO.java:308)
+	... 25 more
+[27.12.17 17:56:36] L2DatabaseFactory: Failed to retrieve database connection!
+org.apache.commons.dbcp.SQLNestedException: Cannot create PoolableConnectionFactory (Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.)
+	at org.apache.commons.dbcp.BasicDataSource.createPoolableConnectionFactory(BasicDataSource.java:1549)
+	at org.apache.commons.dbcp.BasicDataSource.createDataSource(BasicDataSource.java:1388)
+	at org.apache.commons.dbcp.BasicDataSource.getConnection(BasicDataSource.java:1044)
+	at ru.catssoftware.L2DatabaseFactory.getConnection(L2DatabaseFactory.java:140)
+	at ru.catssoftware.L2DatabaseFactory.getConnection(L2DatabaseFactory.java:131)
+	at ru.catssoftware.loginserver.manager.GameServerManager.load(GameServerManager.java:222)
+	at ru.catssoftware.loginserver.manager.GameServerManager.<init>(GameServerManager.java:125)
+	at ru.catssoftware.loginserver.manager.GameServerManager.getInstance(GameServerManager.java:88)
+	at ru.catssoftware.loginserver.L2LoginServer.<init>(L2LoginServer.java:102)
+	at ru.catssoftware.loginserver.L2LoginServer.main(L2LoginServer.java:52)
+Caused by: com.mysql.jdbc.exceptions.jdbc4.CommunicationsException: Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(Unknown Source)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(Unknown Source)
+	at java.lang.reflect.Constructor.newInstance(Unknown Source)
+	at com.mysql.jdbc.Util.handleNewInstance(Util.java:411)
+	at com.mysql.jdbc.SQLError.createCommunicationsException(SQLError.java:1129)
+	at com.mysql.jdbc.MysqlIO.<init>(MysqlIO.java:358)
+	at com.mysql.jdbc.ConnectionImpl.coreConnect(ConnectionImpl.java:2489)
+	at com.mysql.jdbc.ConnectionImpl.connectOneTryOnly(ConnectionImpl.java:2526)
+	at com.mysql.jdbc.ConnectionImpl.createNewIO(ConnectionImpl.java:2311)
+	at com.mysql.jdbc.ConnectionImpl.<init>(ConnectionImpl.java:834)
+	at com.mysql.jdbc.JDBC4Connection.<init>(JDBC4Connection.java:47)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(Unknown Source)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(Unknown Source)
+	at java.lang.reflect.Constructor.newInstance(Unknown Source)
+	at com.mysql.jdbc.Util.handleNewInstance(Util.java:411)
+	at com.mysql.jdbc.ConnectionImpl.getInstance(ConnectionImpl.java:416)
+	at com.mysql.jdbc.NonRegisteringDriver.connect(NonRegisteringDriver.java:347)
+	at org.apache.commons.dbcp.DriverConnectionFactory.createConnection(DriverConnectionFactory.java:38)
+	at org.apache.commons.dbcp.PoolableConnectionFactory.makeObject(PoolableConnectionFactory.java:582)
+	at org.apache.commons.dbcp.BasicDataSource.validateConnectionFactory(BasicDataSource.java:1556)
+	at org.apache.commons.dbcp.BasicDataSource.createPoolableConnectionFactory(BasicDataSource.java:1545)
+	... 9 more
+Caused by: java.net.ConnectException: Connection refused: connect
+	at java.net.DualStackPlainSocketImpl.connect0(Native Method)
+	at java.net.DualStackPlainSocketImpl.socketConnect(Unknown Source)
+	at java.net.AbstractPlainSocketImpl.doConnect(Unknown Source)
+	at java.net.AbstractPlainSocketImpl.connectToAddress(Unknown Source)
+	at java.net.AbstractPlainSocketImpl.connect(Unknown Source)
+	at java.net.PlainSocketImpl.connect(Unknown Source)
+	at java.net.SocksSocketImpl.connect(Unknown Source)
+	at java.net.Socket.connect(Unknown Source)
+	at java.net.Socket.connect(Unknown Source)
+	at java.net.Socket.<init>(Unknown Source)
+	at java.net.Socket.<init>(Unknown Source)
+	at com.mysql.jdbc.StandardSocketFactory.connect(StandardSocketFactory.java:256)
+	at com.mysql.jdbc.MysqlIO.<init>(MysqlIO.java:308)
+	... 25 more
+[27.12.17 17:56:38] L2DatabaseFactory: Failed to retrieve database connection!
+org.apache.commons.dbcp.SQLNestedException: Cannot create PoolableConnectionFactory (Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.)
+	at org.apache.commons.dbcp.BasicDataSource.createPoolableConnectionFactory(BasicDataSource.java:1549)
+	at org.apache.commons.dbcp.BasicDataSource.createDataSource(BasicDataSource.java:1388)
+	at org.apache.commons.dbcp.BasicDataSource.getConnection(BasicDataSource.java:1044)
+	at ru.catssoftware.L2DatabaseFactory.getConnection(L2DatabaseFactory.java:140)
+	at ru.catssoftware.L2DatabaseFactory.getConnection(L2DatabaseFactory.java:131)
+	at ru.catssoftware.loginserver.manager.GameServerManager.load(GameServerManager.java:222)
+	at ru.catssoftware.loginserver.manager.GameServerManager.<init>(GameServerManager.java:125)
+	at ru.catssoftware.loginserver.manager.GameServerManager.getInstance(GameServerManager.java:88)
+	at ru.catssoftware.loginserver.L2LoginServer.<init>(L2LoginServer.java:102)
+	at ru.catssoftware.loginserver.L2LoginServer.main(L2LoginServer.java:52)
+Caused by: com.mysql.jdbc.exceptions.jdbc4.CommunicationsException: Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(Unknown Source)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(Unknown Source)
+	at java.lang.reflect.Constructor.newInstance(Unknown Source)
+	at com.mysql.jdbc.Util.handleNewInstance(Util.java:411)
+	at com.mysql.jdbc.SQLError.createCommunicationsException(SQLError.java:1129)
+	at com.mysql.jdbc.MysqlIO.<init>(MysqlIO.java:358)
+	at com.mysql.jdbc.ConnectionImpl.coreConnect(ConnectionImpl.java:2489)
+	at com.mysql.jdbc.ConnectionImpl.connectOneTryOnly(ConnectionImpl.java:2526)
+	at com.mysql.jdbc.ConnectionImpl.createNewIO(ConnectionImpl.java:2311)
+	at com.mysql.jdbc.ConnectionImpl.<init>(ConnectionImpl.java:834)
+	at com.mysql.jdbc.JDBC4Connection.<init>(JDBC4Connection.java:47)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(Unknown Source)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(Unknown Source)
+	at java.lang.reflect.Constructor.newInstance(Unknown Source)
+	at com.mysql.jdbc.Util.handleNewInstance(Util.java:411)
+	at com.mysql.jdbc.ConnectionImpl.getInstance(ConnectionImpl.java:416)
+	at com.mysql.jdbc.NonRegisteringDriver.connect(NonRegisteringDriver.java:347)
+	at org.apache.commons.dbcp.DriverConnectionFactory.createConnection(DriverConnectionFactory.java:38)
+	at org.apache.commons.dbcp.PoolableConnectionFactory.makeObject(PoolableConnectionFactory.java:582)
+	at org.apache.commons.dbcp.BasicDataSource.validateConnectionFactory(BasicDataSource.java:1556)
+	at org.apache.commons.dbcp.BasicDataSource.createPoolableConnectionFactory(BasicDataSource.java:1545)
+	... 9 more
+Caused by: java.net.ConnectException: Connection refused: connect
+	at java.net.DualStackPlainSocketImpl.connect0(Native Method)
+	at java.net.DualStackPlainSocketImpl.socketConnect(Unknown Source)
+	at java.net.AbstractPlainSocketImpl.doConnect(Unknown Source)
+	at java.net.AbstractPlainSocketImpl.connectToAddress(Unknown Source)
+	at java.net.AbstractPlainSocketImpl.connect(Unknown Source)
+	at java.net.PlainSocketImpl.connect(Unknown Source)
+	at java.net.SocksSocketImpl.connect(Unknown Source)
+	at java.net.Socket.connect(Unknown Source)
+	at java.net.Socket.connect(Unknown Source)
+	at java.net.Socket.<init>(Unknown Source)
+	at java.net.Socket.<init>(Unknown Source)
+	at com.mysql.jdbc.StandardSocketFactory.connect(StandardSocketFactory.java:256)
+	at com.mysql.jdbc.MysqlIO.<init>(MysqlIO.java:308)
+	... 25 more
+[27.12.17 17:56:40] L2DatabaseFactory: Failed to retrieve database connection!
+org.apache.commons.dbcp.SQLNestedException: Cannot create PoolableConnectionFactory (Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.)
+	at org.apache.commons.dbcp.BasicDataSource.createPoolableConnectionFactory(BasicDataSource.java:1549)
+	at org.apache.commons.dbcp.BasicDataSource.createDataSource(BasicDataSource.java:1388)
+	at org.apache.commons.dbcp.BasicDataSource.getConnection(BasicDataSource.java:1044)
+	at ru.catssoftware.L2DatabaseFactory.getConnection(L2DatabaseFactory.java:140)
+	at ru.catssoftware.L2DatabaseFactory.getConnection(L2DatabaseFactory.java:131)
+	at ru.catssoftware.loginserver.manager.GameServerManager.load(GameServerManager.java:222)
+	at ru.catssoftware.loginserver.manager.GameServerManager.<init>(GameServerManager.java:125)
+	at ru.catssoftware.loginserver.manager.GameServerManager.getInstance(GameServerManager.java:88)
+	at ru.catssoftware.loginserver.L2LoginServer.<init>(L2LoginServer.java:102)
+	at ru.catssoftware.loginserver.L2LoginServer.main(L2LoginServer.java:52)
+Caused by: com.mysql.jdbc.exceptions.jdbc4.CommunicationsException: Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(Unknown Source)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(Unknown Source)
+	at java.lang.reflect.Constructor.newInstance(Unknown Source)
+	at com.mysql.jdbc.Util.handleNewInstance(Util.java:411)
+	at com.mysql.jdbc.SQLError.createCommunicationsException(SQLError.java:1129)
+	at com.mysql.jdbc.MysqlIO.<init>(MysqlIO.java:358)
+	at com.mysql.jdbc.ConnectionImpl.coreConnect(ConnectionImpl.java:2489)
+	at com.mysql.jdbc.ConnectionImpl.connectOneTryOnly(ConnectionImpl.java:2526)
+	at com.mysql.jdbc.ConnectionImpl.createNewIO(ConnectionImpl.java:2311)
+	at com.mysql.jdbc.ConnectionImpl.<init>(ConnectionImpl.java:834)
+	at com.mysql.jdbc.JDBC4Connection.<init>(JDBC4Connection.java:47)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(Unknown Source)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(Unknown Source)
+	at java.lang.reflect.Constructor.newInstance(Unknown Source)
+	at com.mysql.jdbc.Util.handleNewInstance(Util.java:411)
+	at com.mysql.jdbc.ConnectionImpl.getInstance(ConnectionImpl.java:416)
+	at com.mysql.jdbc.NonRegisteringDriver.connect(NonRegisteringDriver.java:347)
+	at org.apache.commons.dbcp.DriverConnectionFactory.createConnection(DriverConnectionFactory.java:38)
+	at org.apache.commons.dbcp.PoolableConnectionFactory.makeObject(PoolableConnectionFactory.java:582)
+	at org.apache.commons.dbcp.BasicDataSource.validateConnectionFactory(BasicDataSource.java:1556)
+	at org.apache.commons.dbcp.BasicDataSource.createPoolableConnectionFactory(BasicDataSource.java:1545)
+	... 9 more
+Caused by: java.net.ConnectException: Connection refused: connect
+	at java.net.DualStackPlainSocketImpl.connect0(Native Method)
+	at java.net.DualStackPlainSocketImpl.socketConnect(Unknown Source)
+	at java.net.AbstractPlainSocketImpl.doConnect(Unknown Source)
+	at java.net.AbstractPlainSocketImpl.connectToAddress(Unknown Source)
+	at java.net.AbstractPlainSocketImpl.connect(Unknown Source)
+	at java.net.PlainSocketImpl.connect(Unknown Source)
+	at java.net.SocksSocketImpl.connect(Unknown Source)
+	at java.net.Socket.connect(Unknown Source)
+	at java.net.Socket.connect(Unknown Source)
+	at java.net.Socket.<init>(Unknown Source)
+	at java.net.Socket.<init>(Unknown Source)
+	at com.mysql.jdbc.StandardSocketFactory.connect(StandardSocketFactory.java:256)
+	at com.mysql.jdbc.MysqlIO.<init>(MysqlIO.java:308)
+	... 25 more
+[27.12.17 17:59:27] L2DatabaseFactory: Connected to database server
+[27.12.17 17:59:27] ..................................................
+[27.12.17 17:59:27] System Time: 27-12-2017 05:59:27 PM
+[27.12.17 17:59:27] ..................................................
+[27.12.17 17:59:27] OS: Windows 7 Build: 6.1
+[27.12.17 17:59:27] OS Arch: x86
+[27.12.17 17:59:27] ..................................................
+[27.12.17 17:59:27] ..................................................
+[27.12.17 17:59:27] Avaible CPU(s): 2
+[27.12.17 17:59:27] Processor(s) Identifier: AMD64 Family 21 Model 19 Stepping 1, AuthenticAMD
+[27.12.17 17:59:27] ..................................................
+[27.12.17 17:59:27] ..................................................
+[27.12.17 17:59:27] Runtime Information
+[27.12.17 17:59:27] Current Free Heap Size: 12 mb
+[27.12.17 17:59:27] Current Heap Size: 15 mb
+[27.12.17 17:59:27] Maximum Heap Size: 249 mb
+[27.12.17 17:59:27] ..................................................
+[27.12.17 17:59:27] ..................................................
+[27.12.17 17:59:27] Java Platform Information
+[27.12.17 17:59:27] Java Runtime  Name: Java(TM) SE Runtime Environment
+[27.12.17 17:59:27] Java Version: 1.8.0_151
+[27.12.17 17:59:27] Java Class Version: 52.0
+[27.12.17 17:59:27] ..................................................
+[27.12.17 17:59:27] ..................................................
+[27.12.17 17:59:27] Virtual Machine Information (JVM)
+[27.12.17 17:59:27] JVM Name: Java HotSpot(TM) Client VM
+[27.12.17 17:59:27] JVM installation directory: C:\Program Files (x86)\Java\jre1.8.0_151
+[27.12.17 17:59:27] JVM version: 25.151-b12
+[27.12.17 17:59:27] JVM Vendor: Oracle Corporation
+[27.12.17 17:59:27] JVM Info: mixed mode
+[27.12.17 17:59:27] ..................................................
+[27.12.17 17:59:27] ..................................................
+[27.12.17 17:59:27] GameServerManager: Loaded 127 server name(s)
+[27.12.17 17:59:27] GameServerManager: Loaded 1 server(s)
+[27.12.17 17:59:28] Cached 10 RSA keys for Game Server communication.
+[27.12.17 17:59:28] DDoS-Proof: Started client manager for 100 sessions
+[27.12.17 17:59:28] DDoS-Proof: Session time set to 15 seconds
+[27.12.17 17:59:28] LoginManager initiating
+[27.12.17 17:59:30] Cached 10 KeyPairs for RSA communication
+[27.12.17 17:59:31] Stored 20 keys for Blowfish communication
+[27.12.17 17:59:31] BanManager: Loaded 3 banned ip/subnet(s).
+[27.12.17 17:59:31] Listening for GameServers on 127.0.0.1:9014
+[27.12.17 17:59:31] FATAL: Failed to open server socket. Reason: Cannot assign requested address: bind
+java.net.BindException: Cannot assign requested address: bind
+	at sun.nio.ch.Net.bind0(Native Method)
+	at sun.nio.ch.Net.bind(Unknown Source)
+	at sun.nio.ch.Net.bind(Unknown Source)
+	at sun.nio.ch.ServerSocketChannelImpl.bind(Unknown Source)
+	at sun.nio.ch.ServerSocketAdaptor.bind(Unknown Source)
+	at sun.nio.ch.ServerSocketAdaptor.bind(Unknown Source)
+	at ru.catssoftware.loginserver.mmocore.SelectorThread.openServerSocket(SelectorThread.java:93)
+	at ru.catssoftware.loginserver.L2LoginServer.startServer(L2LoginServer.java:143)
+	at ru.catssoftware.loginserver.L2LoginServer.<init>(L2LoginServer.java:116)
+	at ru.catssoftware.loginserver.L2LoginServer.main(L2LoginServer.java:52)
+[27.12.17 17:59:31] Login server shutting down
+[27.12.17 18:00:54] L2DatabaseFactory: Connected to database server
+[27.12.17 18:00:54] ..................................................
+[27.12.17 18:00:54] System Time: 27-12-2017 06:00:54 PM
+[27.12.17 18:00:54] ..................................................
+[27.12.17 18:00:54] OS: Windows 7 Build: 6.1
+[27.12.17 18:00:54] OS Arch: x86
+[27.12.17 18:00:54] ..................................................
+[27.12.17 18:00:54] ..................................................
+[27.12.17 18:00:54] Avaible CPU(s): 2
+[27.12.17 18:00:54] Processor(s) Identifier: AMD64 Family 21 Model 19 Stepping 1, AuthenticAMD
+[27.12.17 18:00:54] ..................................................
+[27.12.17 18:00:54] ..................................................
+[27.12.17 18:00:54] Runtime Information
+[27.12.17 18:00:54] Current Free Heap Size: 12 mb
+[27.12.17 18:00:54] Current Heap Size: 15 mb
+[27.12.17 18:00:54] Maximum Heap Size: 249 mb
+[27.12.17 18:00:54] ..................................................
+[27.12.17 18:00:54] ..................................................
+[27.12.17 18:00:54] Java Platform Information
+[27.12.17 18:00:54] Java Runtime  Name: Java(TM) SE Runtime Environment
+[27.12.17 18:00:54] Java Version: 1.8.0_151
+[27.12.17 18:00:54] Java Class Version: 52.0
+[27.12.17 18:00:54] ..................................................
+[27.12.17 18:00:54] ..................................................
+[27.12.17 18:00:54] Virtual Machine Information (JVM)
+[27.12.17 18:00:54] JVM Name: Java HotSpot(TM) Client VM
+[27.12.17 18:00:54] JVM installation directory: C:\Program Files (x86)\Java\jre1.8.0_151
+[27.12.17 18:00:54] JVM version: 25.151-b12
+[27.12.17 18:00:54] JVM Vendor: Oracle Corporation
+[27.12.17 18:00:54] JVM Info: mixed mode
+[27.12.17 18:00:54] ..................................................
+[27.12.17 18:00:54] ..................................................
+[27.12.17 18:00:54] GameServerManager: Loaded 127 server name(s)
+[27.12.17 18:00:55] GameServerManager: Loaded 1 server(s)
+[27.12.17 18:00:56] Cached 10 RSA keys for Game Server communication.
+[27.12.17 18:00:56] DDoS-Proof: Started client manager for 100 sessions
+[27.12.17 18:00:56] DDoS-Proof: Session time set to 15 seconds
+[27.12.17 18:00:56] LoginManager initiating
+[27.12.17 18:00:58] Cached 10 KeyPairs for RSA communication
+[27.12.17 18:00:58] Stored 20 keys for Blowfish communication
+[27.12.17 18:00:58] BanManager: Loaded 3 banned ip/subnet(s).
+[27.12.17 18:00:58] Listening for GameServers on 127.0.0.1:9014
+[27.12.17 18:00:58] Token-based brut-proof enabled
+[27.12.17 18:00:58] Free memory: 241 Mb of 249 Mb
+[27.12.17 18:00:58] Ready on IP: 10.11.72.2:2106.
+[27.12.17 18:00:58] Load time: 3 Seconds.
+[27.12.17 18:00:58] Login Server successfully started.
+[27.12.17 18:02:25] Updated Gameserver [1] Bartz IP's:
+[27.12.17 18:02:25] 10.11.72.2
+[27.12.17 18:02:25] 10.11.72.2
+[27.12.17 18:46:51] GameServer [1] Bartz: Connection lost: Connection reset
+[27.12.17 18:46:51] Server [1] Bartz is now set as disconnected
+[29.12.17 16:54:32] L2DatabaseFactory: Connected to database server
+[29.12.17 16:54:33] ..................................................
+[29.12.17 16:54:33] System Time: 29-12-2017 04:54:33 PM
+[29.12.17 16:54:33] ..................................................
+[29.12.17 16:54:33] OS: Windows 7 Build: 6.1
+[29.12.17 16:54:33] OS Arch: x86
+[29.12.17 16:54:33] ..................................................
+[29.12.17 16:54:33] ..................................................
+[29.12.17 16:54:33] Avaible CPU(s): 2
+[29.12.17 16:54:33] Processor(s) Identifier: AMD64 Family 21 Model 19 Stepping 1, AuthenticAMD
+[29.12.17 16:54:33] ..................................................
+[29.12.17 16:54:33] ..................................................
+[29.12.17 16:54:33] Runtime Information
+[29.12.17 16:54:33] Current Free Heap Size: 12 mb
+[29.12.17 16:54:33] Current Heap Size: 15 mb
+[29.12.17 16:54:33] Maximum Heap Size: 249 mb
+[29.12.17 16:54:33] ..................................................
+[29.12.17 16:54:33] ..................................................
+[29.12.17 16:54:33] Java Platform Information
+[29.12.17 16:54:33] Java Runtime  Name: Java(TM) SE Runtime Environment
+[29.12.17 16:54:33] Java Version: 1.8.0_151
+[29.12.17 16:54:33] Java Class Version: 52.0
+[29.12.17 16:54:33] ..................................................
+[29.12.17 16:54:33] ..................................................
+[29.12.17 16:54:33] Virtual Machine Information (JVM)
+[29.12.17 16:54:33] JVM Name: Java HotSpot(TM) Client VM
+[29.12.17 16:54:33] JVM installation directory: C:\Program Files (x86)\Java\jre1.8.0_151
+[29.12.17 16:54:33] JVM version: 25.151-b12
+[29.12.17 16:54:33] JVM Vendor: Oracle Corporation
+[29.12.17 16:54:33] JVM Info: mixed mode
+[29.12.17 16:54:33] ..................................................
+[29.12.17 16:54:33] ..................................................
+[29.12.17 16:54:33] GameServerManager: Loaded 127 server name(s)
+[29.12.17 16:54:36] GameServerManager: Loaded 1 server(s)
+[29.12.17 16:54:37] Cached 10 RSA keys for Game Server communication.
+[29.12.17 16:54:37] DDoS-Proof: Started client manager for 100 sessions
+[29.12.17 16:54:37] DDoS-Proof: Session time set to 15 seconds
+[29.12.17 16:54:37] LoginManager initiating
+[29.12.17 16:54:41] Cached 10 KeyPairs for RSA communication
+[29.12.17 16:54:43] Stored 20 keys for Blowfish communication
+[29.12.17 16:54:43] BanManager: Loaded 3 banned ip/subnet(s).
+[29.12.17 16:54:43] Listening for GameServers on 127.0.0.1:9014
+[29.12.17 16:54:43] Token-based brut-proof enabled
+[29.12.17 16:54:43] Free memory: 241 Mb of 249 Mb
+[29.12.17 16:54:43] Ready on IP: 10.11.72.2:2106.
+[29.12.17 16:54:43] Load time: 11 Seconds.
+[29.12.17 16:54:43] Login Server successfully started.
+[29.12.17 16:55:50] Updated Gameserver [1] Bartz IP's:
+[29.12.17 16:55:50] 10.11.72.2
+[29.12.17 16:55:50] 10.11.72.2
+[29.12.17 17:59:13] GameServer [1] Bartz: Connection lost: Connection reset
+[29.12.17 17:59:14] Server [1] Bartz is now set as disconnected
+[31.12.17 10:48:17] L2DatabaseFactory: Connected to database server
+[31.12.17 10:48:17] ..................................................
+[31.12.17 10:48:17] System Time: 31-12-2017 10:48:17 AM
+[31.12.17 10:48:17] ..................................................
+[31.12.17 10:48:17] OS: Windows 7 Build: 6.1
+[31.12.17 10:48:17] OS Arch: x86
+[31.12.17 10:48:17] ..................................................
+[31.12.17 10:48:17] ..................................................
+[31.12.17 10:48:17] Avaible CPU(s): 2
+[31.12.17 10:48:17] Processor(s) Identifier: AMD64 Family 21 Model 19 Stepping 1, AuthenticAMD
+[31.12.17 10:48:17] ..................................................
+[31.12.17 10:48:17] ..................................................
+[31.12.17 10:48:17] Runtime Information
+[31.12.17 10:48:17] Current Free Heap Size: 13 mb
+[31.12.17 10:48:17] Current Heap Size: 15 mb
+[31.12.17 10:48:17] Maximum Heap Size: 249 mb
+[31.12.17 10:48:17] ..................................................
+[31.12.17 10:48:17] ..................................................
+[31.12.17 10:48:17] Java Platform Information
+[31.12.17 10:48:17] Java Runtime  Name: Java(TM) SE Runtime Environment
+[31.12.17 10:48:17] Java Version: 1.8.0_151
+[31.12.17 10:48:17] Java Class Version: 52.0
+[31.12.17 10:48:17] ..................................................
+[31.12.17 10:48:17] ..................................................
+[31.12.17 10:48:17] Virtual Machine Information (JVM)
+[31.12.17 10:48:17] JVM Name: Java HotSpot(TM) Client VM
+[31.12.17 10:48:17] JVM installation directory: C:\Program Files (x86)\Java\jre1.8.0_151
+[31.12.17 10:48:17] JVM version: 25.151-b12
+[31.12.17 10:48:17] JVM Vendor: Oracle Corporation
+[31.12.17 10:48:17] JVM Info: mixed mode
+[31.12.17 10:48:17] ..................................................
+[31.12.17 10:48:17] ..................................................
+[31.12.17 10:48:17] GameServerManager: Loaded 127 server name(s)
+[31.12.17 10:48:18] GameServerManager: Loaded 1 server(s)
+[31.12.17 10:48:19] Cached 10 RSA keys for Game Server communication.
+[31.12.17 10:48:19] DDoS-Proof: Started client manager for 100 sessions
+[31.12.17 10:48:19] DDoS-Proof: Session time set to 15 seconds
+[31.12.17 10:48:19] LoginManager initiating
+[31.12.17 10:48:21] Cached 10 KeyPairs for RSA communication
+[31.12.17 10:48:22] Stored 20 keys for Blowfish communication
+[31.12.17 10:48:22] BanManager: Loaded 3 banned ip/subnet(s).
+[31.12.17 10:48:22] Listening for GameServers on 127.0.0.1:9014
+[31.12.17 10:48:22] Token-based brut-proof enabled
+[31.12.17 10:48:22] Free memory: 241 Mb of 249 Mb
+[31.12.17 10:48:22] Ready on IP: 10.11.72.2:2106.
+[31.12.17 10:48:22] Load time: 5 Seconds.
+[31.12.17 10:48:22] Login Server successfully started.
+[31.12.17 10:49:58] Updated Gameserver [1] Bartz IP's:
+[31.12.17 10:49:58] 10.11.72.2
+[31.12.17 10:49:58] 10.11.72.2
+[31.12.17 11:42:47] Updated Gameserver [1] Bartz IP's:
+[31.12.17 11:42:47] 10.11.72.2
+[31.12.17 11:42:47] 10.11.72.2
+[31.12.17 12:24:14] GameServer [1] Bartz: Connection lost: Connection reset
+[31.12.17 12:24:14] Server [1] Bartz is now set as disconnected
+[31.12.17 21:14:32] L2DatabaseFactory: Connected to database server
+[31.12.17 21:14:32] ..................................................
+[31.12.17 21:14:32] System Time: 31-12-2017 09:14:32 PM
+[31.12.17 21:14:32] ..................................................
+[31.12.17 21:14:32] OS: Windows 7 Build: 6.1
+[31.12.17 21:14:32] OS Arch: x86
+[31.12.17 21:14:32] ..................................................
+[31.12.17 21:14:32] ..................................................
+[31.12.17 21:14:32] Avaible CPU(s): 2
+[31.12.17 21:14:32] Processor(s) Identifier: AMD64 Family 21 Model 19 Stepping 1, AuthenticAMD
+[31.12.17 21:14:32] ..................................................
+[31.12.17 21:14:32] ..................................................
+[31.12.17 21:14:32] Runtime Information
+[31.12.17 21:14:32] Current Free Heap Size: 12 mb
+[31.12.17 21:14:32] Current Heap Size: 15 mb
+[31.12.17 21:14:32] Maximum Heap Size: 249 mb
+[31.12.17 21:14:32] ..................................................
+[31.12.17 21:14:32] ..................................................
+[31.12.17 21:14:32] Java Platform Information
+[31.12.17 21:14:32] Java Runtime  Name: Java(TM) SE Runtime Environment
+[31.12.17 21:14:32] Java Version: 1.8.0_151
+[31.12.17 21:14:32] Java Class Version: 52.0
+[31.12.17 21:14:32] ..................................................
+[31.12.17 21:14:32] ..................................................
+[31.12.17 21:14:32] Virtual Machine Information (JVM)
+[31.12.17 21:14:32] JVM Name: Java HotSpot(TM) Client VM
+[31.12.17 21:14:32] JVM installation directory: C:\Program Files (x86)\Java\jre1.8.0_151
+[31.12.17 21:14:32] JVM version: 25.151-b12
+[31.12.17 21:14:32] JVM Vendor: Oracle Corporation
+[31.12.17 21:14:32] JVM Info: mixed mode
+[31.12.17 21:14:32] ..................................................
+[31.12.17 21:14:32] ..................................................
+[31.12.17 21:14:32] GameServerManager: Loaded 127 server name(s)
+[31.12.17 21:14:36] GameServerManager: Loaded 1 server(s)
+[31.12.17 21:14:38] Cached 10 RSA keys for Game Server communication.
+[31.12.17 21:14:38] DDoS-Proof: Started client manager for 100 sessions
+[31.12.17 21:14:38] DDoS-Proof: Session time set to 15 seconds
+[31.12.17 21:14:38] LoginManager initiating
+[31.12.17 21:14:42] Cached 10 KeyPairs for RSA communication
+[31.12.17 21:14:44] Stored 20 keys for Blowfish communication
+[31.12.17 21:14:44] BanManager: Loaded 3 banned ip/subnet(s).
+[31.12.17 21:14:46] Listening for GameServers on 127.0.0.1:9014
+[31.12.17 21:14:46] Token-based brut-proof enabled
+[31.12.17 21:14:46] Free memory: 241 Mb of 249 Mb
+[31.12.17 21:14:46] Ready on IP: 10.11.72.2:2106.
+[31.12.17 21:14:46] Load time: 15 Seconds.
+[31.12.17 21:14:46] Login Server successfully started.
+[31.12.17 21:15:39] Updated Gameserver [1] Bartz IP's:
+[31.12.17 21:15:39] 10.11.72.2
+[31.12.17 21:15:39] 10.11.72.2
+[31.12.17 21:30:21] GameServer [1] Bartz: Connection lost: Connection reset
+[31.12.17 21:30:21] Server [1] Bartz is now set as disconnected

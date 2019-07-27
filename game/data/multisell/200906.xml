@@ -1,0 +1,169 @@
+<?xml version='1.0' encoding='utf-8'?>
+
+<!-- Created with Lineage II - Multisell Manager -->
+<!-- © 2007 by tReXpert -->
+
+<list maintainEnchantment="true">
+
+  <!-- Рецепт: Leather -->
+  <item id="1">
+    <ingredient id="57" count="10000000"/>
+    <production id="1814" count="1"/>
+  </item>
+
+  <!-- Рецепт: Braided Hemp -->
+  <item id="2">
+    <ingredient id="57" count="10000000"/>
+    <production id="2135" count="1"/>
+  </item>
+
+  <!-- Рецепт: Cokes -->
+  <item id="3">
+    <ingredient id="57" count="10000000"/>
+    <production id="2136" count="1"/>
+  </item>
+
+  <!-- Рецепт: Steel -->
+  <item id="4">
+    <ingredient id="57" count="10000000"/>
+    <production id="2137" count="1"/>
+  </item>
+
+  <!-- Рецепт: Coarse Bone Powder -->
+  <item id="5">
+    <ingredient id="57" count="10000000"/>
+    <production id="2138" count="1"/>
+  </item>
+
+  <!-- Рецепт: Cord -->
+  <item id="6">
+    <ingredient id="57" count="10000000"/>
+    <production id="1817" count="1"/>
+  </item>
+
+  <!-- Рецепт: Steel Mold -->
+  <item id="7">
+    <ingredient id="57" count="10000000"/>
+    <production id="2139" count="1"/>
+  </item>
+  
+    <!-- Рецепт: Maestro Holder -->
+  <item id="8">
+    <ingredient id="57" count="10000000"/>
+    <production id="4122" count="1"/>
+  </item>
+
+  <!-- Рецепт: High Grade Suede -->
+  <item id="9">
+    <ingredient id="57" count="10000000"/>
+    <production id="2140" count="1"/>
+  </item>
+
+  <!-- Рецепт: Varnish of Purity -->
+  <item id="10">
+    <ingredient id="57" count="10000000"/>
+    <production id="2142" count="1"/>
+  </item>
+
+  <!-- Рецепт: Synthetic Cokes -->
+  <item id="11">
+    <ingredient id="57" count="10000000"/>
+    <production id="2143" count="1"/>
+  </item>
+
+  <!-- Рецепт: Compound Braid -->
+  <item id="12">
+    <ingredient id="57" count="10000000"/>
+    <production id="2144" count="1"/>
+  </item>
+
+  <!-- Рецепт: Oriharukon -->
+  <item id="13">
+    <ingredient id="57" count="10000000"/>
+    <production id="1825" count="1"/>
+  </item>
+
+  <!-- Рецепт: Silver Mold -->
+  <item id="14">
+    <ingredient id="57" count="10000000"/>
+    <production id="2141" count="1"/>
+  </item>
+
+  <!-- Рецепт: Mithril Alloy -->
+  <item id="15">
+    <ingredient id="57" count="10000000"/>
+    <production id="2145" count="1"/>
+  </item>
+
+  <!-- Рецепт: Metallic Thread(100%) -->
+  <item id="16">
+    <ingredient id="57" count="10000000"/>
+    <production id="5472" count="1"/>
+  </item>
+
+  <!-- Рецепт: Artisan's frame -->
+  <item id="17">
+    <ingredient id="57" count="10000000"/>
+    <production id="2146" count="1"/>
+  </item>
+
+  <!-- Рецепт: Blacksmith's frame -->
+  <item id="18">
+    <ingredient id="57" count="10000000"/>
+    <production id="2147" count="1"/>
+  </item>
+
+  <!-- Рецепт: Crafted Leather -->
+  <item id="19">
+    <ingredient id="57" count="10000000"/>
+    <production id="2148" count="1"/>
+  </item>
+
+  <!-- Рецепт: Metallic Fiber -->
+  <item id="20">
+    <ingredient id="57" count="10000000"/>
+    <production id="2149" count="1"/>
+  </item>
+
+  <!-- Рецепт: Durable Metal Plate(100%) -->
+  <item id="21">
+    <ingredient id="57" count="10000000"/>
+    <production id="5473" count="1"/>
+  </item>
+
+  <!-- Рецепт: Maestro Anvil Lock -->
+  <item id="22">
+    <ingredient id="57" count="10000000"/>
+    <production id="4123" count="1"/>
+  </item>
+
+  <!-- Рецепт: Craftsman Mold -->
+  <item id="23">
+    <ingredient id="57" count="10000000"/>
+    <production id="4124" count="1"/>
+  </item>
+
+  <!-- Рецепт: Maestro Mold -->
+  <item id="24">
+    <ingredient id="57" count="10000000"/>
+    <production id="4125" count="1"/>
+  </item>
+
+  <!-- Рецепт: Warsmith's Mold(100%) -->
+  <item id="25">
+    <ingredient id="57" count="10000000"/>
+    <production id="5475" count="1"/>
+  </item>
+
+  <!-- Рецепт: Arcsmith's Anvil(100%) -->
+  <item id="26">
+    <ingredient id="57" count="10000000"/>
+    <production id="5476" count="1"/>
+  </item>
+
+  <!-- Рецепт: Warsmith's Holder(100%) -->
+  <item id="27">
+    <ingredient id="57" count="10000000"/>
+    <production id="5477" count="1"/>
+  </item>
+  </list>

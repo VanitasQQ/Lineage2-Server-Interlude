@@ -1,0 +1,254 @@
+<?xml version='1.0' encoding='utf-8'?>
+
+
+<list>
+
+  <item id="1">
+    <ingredient id="57" count="260" enchant="0"/>
+    <production id="1463" count="1" enchant="0"/>
+  </item>
+  
+  <item id="2">
+    <ingredient id="57" count="260" enchant="0"/>
+    <production id="1464" count="1" enchant="0"/>
+  </item>
+  
+  <item id="3">
+    <ingredient id="57" count="260" enchant="0"/>
+    <production id="1465" count="1" enchant="0"/>
+  </item>
+  
+  <item id="4">
+    <ingredient id="57" count="320" enchant="0"/>
+    <production id="1466" count="1" enchant="0"/>
+  </item>
+
+  <item id="5">
+    <ingredient id="57" count="400" enchant="0"/>
+    <production id="1467" count="1" enchant="0"/>
+  </item>  
+
+  <item id="6">
+    <ingredient id="57" count="150" enchant="0"/>
+    <production id="3948" count="1" enchant="0"/>
+  </item>  
+
+  <item id="7">
+    <ingredient id="57" count="260" enchant="0"/>
+    <production id="3949" count="1" enchant="0"/>
+  </item> 
+  
+  <item id="8">
+    <ingredient id="57" count="400" enchant="0"/>
+    <production id="3950" count="1" enchant="0"/>
+  </item> 
+  
+  <item id="9">
+    <ingredient id="57" count="520" enchant="0"/>
+    <production id="3951" count="1" enchant="0"/>
+  </item> 
+  
+  <item id="10">
+    <ingredient id="57" count="640" enchant="0"/>
+    <production id="3952" count="1" enchant="0"/>
+  </item>
+  <item id="11">
+    <ingredient id="57" count="150" enchant="0"/>
+    <production id="2510" count="1" enchant="0"/>
+  </item>  
+
+  <item id="12">
+    <ingredient id="57" count="260" enchant="0"/>
+    <production id="2511" count="1" enchant="0"/>
+  </item> 
+  
+  <item id="13">
+    <ingredient id="57" count="500" enchant="0"/>
+    <production id="2512" count="1" enchant="0"/>
+  </item> 
+  
+  <item id="14">
+    <ingredient id="57" count="550" enchant="0"/>
+    <production id="2513" count="1" enchant="0"/>
+  </item> 
+  
+  <item id="15">
+    <ingredient id="57" count="700" enchant="0"/>
+    <production id="2514" count="1" enchant="0"/>
+  </item>
+
+  <item id="16">
+    <ingredient id="57" count="200" enchant="0"/>
+    <production id="1341" count="1" enchant="0"/>
+  </item>
+  
+  <item id="17">
+    <ingredient id="57" count="300" enchant="0"/>
+    <production id="1342" count="1" enchant="0"/>
+  </item>
+  
+  <item id="18">
+    <ingredient id="57" count="600" enchant="0"/>
+    <production id="1343" count="1" enchant="0"/>
+  </item>
+  
+  <item id="19">
+    <ingredient id="57" count="300" enchant="0"/>
+    <production id="1344" count="1" enchant="0"/>
+  </item>
+
+  <item id="20">
+    <ingredient id="57" count="400" enchant="0"/>
+    <production id="1345" count="1" enchant="0"/>
+  </item>  
+
+  <item id="21">
+    <ingredient id="57" count="1000000" enchant="0"/>
+    <production id="2508" count="1000" enchant="0"/>
+  </item>
+  
+  <item id="22">
+    <ingredient id="57" count="35000" enchant="0"/>
+    <production id="8615" count="1" enchant="0"/>
+  </item>
+  
+  <item id="23">
+    <ingredient id="57" count="400" enchant="0"/>
+    <production id="3031" count="1" enchant="0"/>
+  </item>
+  
+  <item id="24">
+    <ingredient id="57" count="250" enchant="0"/>
+    <production id="1785" count="1" enchant="0"/>
+  </item>
+  
+  <item id="25">
+    <ingredient id="57" count="2000" enchant="0"/>
+    <production id="737" count="1" enchant="0"/>
+  </item>
+  
+  <item id="26">
+    <ingredient id="57" count="400" enchant="0"/>
+    <production id="736" count="1" enchant="0"/>
+  </item>
+  
+  <item id="27">
+    <ingredient id="57" count="10000" enchant="0"/>
+    <production id="728" count="1" enchant="0"/>
+  </item>
+  
+  <item id="28">
+    <ingredient id="57" count="5000" enchant="0"/>
+    <production id="1539" count="1" enchant="0"/>
+  </item>
+
+  <item id="29">
+    <ingredient id="57" count="1000" enchant="0"/>
+    <production id="1458" count="1" enchant="0"/>
+  </item>
+  
+  <item id="30">
+    <ingredient id="57" count="8000" enchant="0"/>
+    <production id="1459" count="1" enchant="0"/>
+  </item>
+  
+  <item id="31">
+    <ingredient id="57" count="100000000" enchant="0"/>
+    <production id="5126" count="1" enchant="0"/>
+  </item>
+  
+  <item id="32">
+    <ingredient id="57" count="26000" enchant="0"/>
+    <production id="8874" count="1" enchant="0"/>
+  </item>
+  
+  <item id="33">
+    <ingredient id="57" count="26000" enchant="0"/>
+    <production id="8873" count="1" enchant="0"/>
+  </item>
+  
+  <item id="34">
+    <ingredient id="57" count="16000" enchant="0"/>
+    <production id="1460" count="1" enchant="0"/>
+  </item>
+  
+  <item id="35">
+    <ingredient id="57" count="20000000" enchant="0"/>
+    <production id="4639" count="1" enchant="0"/>
+  </item>
+  
+  <item id="36">
+    <ingredient id="57" count="20000000" enchant="0"/>
+    <production id="4650" count="1" enchant="0"/>
+  </item>
+  
+  <item id="37">
+    <ingredient id="57" count="20000000" enchant="0"/>
+    <production id="4661" count="1" enchant="0"/>
+  </item>
+  
+  <item id="38">
+    <ingredient id="57" count="1000" enchant="0"/>
+    <production id="2130" count="1" enchant="0"/>
+  </item>
+  
+  <item id="39">
+    <ingredient id="57" count="3000" enchant="0"/>
+    <production id="2131" count="1" enchant="0"/>
+  </item>
+  
+  <item id="40">
+    <ingredient id="57" count="10000" enchant="0"/>
+    <production id="2132" count="1" enchant="0"/>
+  </item>  
+  
+  <item id="41">
+    <ingredient id="57" count="2000" enchant="0"/>
+    <production id="8594" count="1" enchant="0"/>
+  </item>
+    
+  <item id="42">
+    <ingredient id="57" count="4800" enchant="0"/>
+    <production id="8595" count="1" enchant="0"/>
+  </item>
+    
+  <item id="43">
+    <ingredient id="57" count="14000" enchant="0"/>
+    <production id="8596" count="1" enchant="0"/>
+  </item>
+    
+  <item id="44">
+    <ingredient id="57" count="28000" enchant="0"/>
+    <production id="8597" count="1" enchant="0"/>
+  </item>
+    
+  <item id="45">
+    <ingredient id="57" count="48000" enchant="0"/>
+    <production id="8598" count="1" enchant="0"/>
+  </item>
+   
+  <item id="46">
+    <ingredient id="57" count="80000" enchant="0"/>
+    <production id="8599" count="1" enchant="0"/>
+  </item>
+  
+  <item id="47">
+    <ingredient id="57" count="10000000" enchant="0"/>
+    <production id="951" count="1" enchant="0"/>
+  </item>
+  
+  <item id="48">
+    <ingredient id="57" count="5000000" enchant="0"/>
+    <production id="952" count="1" enchant="0"/>
+  </item>
+  
+  <item id="49">
+    <ingredient id="57" count="15000000" enchant="0"/>
+    <production id="947" count="1" enchant="0"/>
+  </item>
+  
+  <item id="50">
+    <ingredient id="57" count="10000000" enchant="0"/>
+    <production id="948" count="1" enchant="0"/>
+  </item>
+</list>

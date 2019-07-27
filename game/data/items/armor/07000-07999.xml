@@ -1,0 +1,426 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<list>
+  <armor id="7014" name="Monster Only (Shield of Dark Dragon)" armorType="Shield" >
+   <set icon="icon.weapon_monster_i00"/>
+   <set bodyPart="LHAND" grade="NONE"/>
+   <set crystallizable="false" />
+   <set weight="4800" price="845000"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <stats>
+    <sub stat="rEvas" order="0x10" val="8"/>
+    <set stat="sDef" order="0x8" val="230"/>
+    <set stat="rShld" order="0x8" val="20"/>
+    <enchant stat="sDef" order="0xc" val="0"/>
+   </stats>
+  </armor>
+  <armor id="7015" name="Shield of Castle Pledge" armorType="Shield" >
+   <set icon="icon.shield_pledge_shield_i00"/>
+   <set bodyPart="LHAND" grade="NONE"/>
+   <set crystallizable="false" />
+   <set weight="1380" price="12900"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <stats>
+    <sub stat="rEvas" order="0x10" val="8"/>
+    <set stat="sDef" order="0x8" val="90"/>
+    <set stat="rShld" order="0x8" val="20"/>
+    <enchant stat="sDef" order="0xc" val="0"/>
+   </stats>
+  </armor>
+  <armor id="7850" name="Clan Oath Helm" armorType="None" >
+   <set icon="icon.armor_helmet_i00"/>
+   <set bodyPart="HEAD" grade="D"/>
+   <set crystallizable="true" crystal_count="108" />
+   <set weight="640" price="76200"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <stats>
+    <add stat="pDef" order="0x10" val="37"/>
+    <enchant stat="pDef" order="0xc" val="0"/>
+   </stats>
+  </armor>
+  <armor id="7851" name="Clan Oath Armor" armorType="Heavy" >
+   <set icon="icon.armor_t1001_ul_i00"/>
+   <set bodyPart="FULLARMOR" grade="D"/>
+   <set crystallizable="true" crystal_count="469" />
+   <set weight="9870" price="330000"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <stats>
+    <add stat="pDef" order="0x10" val="158"/>
+    <enchant stat="pDef" order="0xc" val="0"/>
+   </stats>
+  </armor>
+  <armor id="7852" name="Clan Oath Gauntlets - Heavy Armor" armorType="None" >
+   <set icon="icon.armor_t1001_g_i00"/>
+   <set bodyPart="GLOVES" grade="D"/>
+   <set crystallizable="true" crystal_count="72" />
+   <set weight="640" price="50800"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <stats>
+    <add stat="pDef" order="0x10" val="24"/>
+    <enchant stat="pDef" order="0xc" val="0"/>
+   </stats>
+  </armor>
+  <armor id="7853" name="Clan Oath Sabaton - Heavy Armor" armorType="None" >
+   <set icon="icon.armor_t1001_b_i00"/>
+   <set bodyPart="FEET" grade="D"/>
+   <set crystallizable="true" crystal_count="72" />
+   <set weight="1280" price="50800"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <stats>
+    <add stat="pDef" order="0x10" val="24"/>
+    <enchant stat="pDef" order="0xc" val="0"/>
+   </stats>
+  </armor>
+  <armor id="7854" name="Clan Oath Brigandine" armorType="Light" >
+   <set icon="icon.armor_t1002_ul_i00"/>
+   <set bodyPart="FULLARMOR" grade="D"/>
+   <set crystallizable="true" crystal_count="352" />
+   <set weight="5400" price="247000"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <stats>
+    <add stat="pDef" order="0x10" val="119"/>
+    <enchant stat="pDef" order="0xc" val="0"/>
+   </stats>
+  </armor>
+  <armor id="7855" name="Clan Oath Leather Gloves - Light Armor" armorType="None" >
+   <set icon="icon.armor_t1002_g_i00"/>
+   <set bodyPart="GLOVES" grade="D"/>
+   <set crystallizable="true" crystal_count="72" />
+   <set weight="640" price="50800"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <stats>
+    <add stat="pDef" order="0x10" val="24"/>
+    <enchant stat="pDef" order="0xc" val="0"/>
+   </stats>
+  </armor>
+  <armor id="7856" name="Clan Oath Boots - Light Armor" armorType="None" >
+   <set icon="icon.armor_t1002_b_i00"/>
+   <set bodyPart="FEET" grade="D"/>
+   <set crystallizable="true" crystal_count="72" />
+   <set weight="1280" price="50800"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <stats>
+    <add stat="pDef" order="0x10" val="24"/>
+    <enchant stat="pDef" order="0xc" val="0"/>
+   </stats>
+  </armor>
+  <armor id="7857" name="Clan Oath Aketon" armorType="Magic" >
+   <set icon="icon.armor_t1003_ul_i00"/>
+   <set bodyPart="FULLARMOR" grade="D"/>
+   <set crystallizable="true" crystal_count="357" />
+   <set weight="2450" price="247000"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <stats>
+    <add stat="pDef" order="0x10" val="79"/>
+    <add stat="maxMp" order="0x40" val="239"/>
+    <enchant stat="pDef" order="0xc" val="0"/>
+   </stats>
+  </armor>
+  <armor id="7858" name="Clan Oath Padded Gloves - Robe" armorType="None" >
+   <set icon="icon.armor_t1003_g_i00"/>
+   <set bodyPart="GLOVES" grade="D"/>
+   <set crystallizable="true" crystal_count="72" />
+   <set weight="640" price="50800"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <stats>
+    <add stat="pDef" order="0x10" val="24"/>
+    <enchant stat="pDef" order="0xc" val="0"/>
+   </stats>
+  </armor>
+  <armor id="7859" name="Clan Oath Sandals - Robe" armorType="None" >
+   <set icon="icon.armor_t1003_b_i00"/>
+   <set bodyPart="FEET" grade="D"/>
+   <set crystallizable="true" crystal_count="72" />
+   <set weight="1280" price="50800"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <stats>
+    <add stat="pDef" order="0x10" val="24"/>
+    <enchant stat="pDef" order="0xc" val="0"/>
+   </stats>
+  </armor>
+  <armor id="7860" name="Apella Helm" armorType="None" >
+   <set icon="icon.armor_helmet_i00"/>
+   <set bodyPart="HEAD" grade="A"/>
+   <set crystallizable="true" crystal_count="107" />
+   <set weight="570" price="1340000"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <stats>
+    <add stat="pDef" order="0x10" val="69"/>
+    <enchant stat="pDef" order="0xc" val="0"/>
+   </stats>
+  </armor>
+  <armor id="7861" name="Apella Plate Armor" armorType="Heavy" >
+   <set icon="icon.armor_t1004_ul_i00"/>
+   <set bodyPart="FULLARMOR" grade="A"/>
+   <set crystallizable="true" crystal_count="463" />
+   <set weight="9780" price="6770000"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <stats>
+    <add stat="pDef" order="0x10" val="278"/>
+    <enchant stat="pDef" order="0xc" val="0"/>
+   </stats>
+  </armor>
+  <armor id="7862" name="Apella Gauntlet - Heavy Armor" armorType="None" >
+   <set icon="icon.armor_t1004_g_i00"/>
+   <set bodyPart="GLOVES" grade="A"/>
+   <set crystallizable="true" crystal_count="71" />
+   <set weight="580" price="1160000"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <stats>
+    <add stat="pDef" order="0x10" val="46"/>
+    <enchant stat="pDef" order="0xc" val="0"/>
+   </stats>
+  </armor>
+  <armor id="7863" name="Apella Solleret - Heavy Armor" armorType="None" >
+   <set icon="icon.armor_t1004_b_i00"/>
+   <set bodyPart="FEET" grade="A"/>
+   <set crystallizable="true" crystal_count="71" />
+   <set weight="1130" price="1160000"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <stats>
+    <add stat="pDef" order="0x10" val="46"/>
+    <enchant stat="pDef" order="0xc" val="0"/>
+   </stats>
+  </armor>
+  <armor id="7864" name="Apella Brigandine" armorType="Light" >
+   <set icon="icon.armor_t1005_ul_i00"/>
+   <set bodyPart="FULLARMOR" grade="A"/>
+   <set crystallizable="true" crystal_count="347" />
+   <set weight="5400" price="5080000"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <stats>
+    <add stat="pDef" order="0x10" val="209"/>
+    <enchant stat="pDef" order="0xc" val="0"/>
+   </stats>
+  </armor>
+  <armor id="7865" name="Apella Leather Gloves - Light Armor" armorType="None" >
+   <set icon="icon.armor_t1005_g_i00"/>
+   <set bodyPart="GLOVES" grade="A"/>
+   <set crystallizable="true" crystal_count="71" />
+   <set weight="580" price="1160000"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <stats>
+    <add stat="pDef" order="0x10" val="46"/>
+    <enchant stat="pDef" order="0xc" val="0"/>
+   </stats>
+  </armor>
+  <armor id="7866" name="Apella Boots - Light Armor" armorType="None" >
+   <set icon="icon.armor_t1005_b_i00"/>
+   <set bodyPart="FEET" grade="A"/>
+   <set crystallizable="true" crystal_count="71" />
+   <set weight="1130" price="1160000"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <stats>
+    <add stat="pDef" order="0x10" val="46"/>
+    <enchant stat="pDef" order="0xc" val="0"/>
+   </stats>
+  </armor>
+  <armor id="7867" name="Apella Doublet" armorType="Magic" >
+   <set icon="icon.armor_t1006_ul_i00"/>
+   <set bodyPart="FULLARMOR" grade="A"/>
+   <set crystallizable="true" crystal_count="347" />
+   <set weight="2450" price="4340000"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <stats>
+    <add stat="pDef" order="0x10" val="139"/>
+    <add stat="maxMp" order="0x40" val="665"/>
+    <enchant stat="pDef" order="0xc" val="0"/>
+   </stats>
+  </armor>
+  <armor id="7868" name="Apella Silk Gloves - Robe" armorType="None" >
+   <set icon="icon.armor_t1006_g_i00"/>
+   <set bodyPart="GLOVES" grade="A"/>
+   <set crystallizable="true" crystal_count="71" />
+   <set weight="580" price="1160000"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <stats>
+    <add stat="pDef" order="0x10" val="46"/>
+    <enchant stat="pDef" order="0xc" val="0"/>
+   </stats>
+  </armor>
+  <armor id="7869" name="Apella Sandals - Robe" armorType="None" >
+   <set icon="icon.armor_t1006_b_i00"/>
+   <set bodyPart="FEET" grade="A"/>
+   <set crystallizable="true" crystal_count="71" />
+   <set weight="1130" price="1160000"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <stats>
+    <add stat="pDef" order="0x10" val="46"/>
+    <enchant stat="pDef" order="0xc" val="0"/>
+   </stats>
+  </armor>
+  <armor id="7870" name="Sealed Apella Helm" armorType="None" >
+   <set icon="icon.armor_helmet_i02"/>
+   <set bodyPart="HEAD" grade="A"/>
+   <set crystallizable="true" crystal_count="107" />
+   <set weight="570" price="1340000"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <stats>
+    <add stat="pDef" order="0x10" val="69"/>
+    <enchant stat="pDef" order="0xc" val="0"/>
+   </stats>
+  </armor>
+  <armor id="7871" name="Sealed Apella Plate Armor" armorType="Heavy" >
+   <set icon="icon.armor_t1004_ul_i02"/>
+   <set bodyPart="FULLARMOR" grade="A"/>
+   <set crystallizable="true" crystal_count="463" />
+   <set weight="9780" price="6770000"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <stats>
+    <add stat="pDef" order="0x10" val="278"/>
+    <enchant stat="pDef" order="0xc" val="0"/>
+   </stats>
+  </armor>
+  <armor id="7872" name="Sealed Apella Gauntlet" armorType="None" >
+   <set icon="icon.armor_t1004_g_i02"/>
+   <set bodyPart="GLOVES" grade="A"/>
+   <set crystallizable="true" crystal_count="71" />
+   <set weight="580" price="1160000"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <stats>
+    <add stat="pDef" order="0x10" val="46"/>
+    <enchant stat="pDef" order="0xc" val="0"/>
+   </stats>
+  </armor>
+  <armor id="7873" name="Sealed Apella Solleret" armorType="None" >
+   <set icon="icon.armor_t1004_b_i02"/>
+   <set bodyPart="FEET" grade="A"/>
+   <set crystallizable="true" crystal_count="71" />
+   <set weight="1130" price="1160000"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <stats>
+    <add stat="pDef" order="0x10" val="46"/>
+    <enchant stat="pDef" order="0xc" val="0"/>
+   </stats>
+  </armor>
+  <armor id="7874" name="Sealed Apella Brigandine" armorType="Light" >
+   <set icon="icon.armor_t1005_ul_i02"/>
+   <set bodyPart="FULLARMOR" grade="A"/>
+   <set crystallizable="true" crystal_count="347" />
+   <set weight="5400" price="5080000"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <stats>
+    <add stat="pDef" order="0x10" val="209"/>
+    <enchant stat="pDef" order="0xc" val="0"/>
+   </stats>
+  </armor>
+  <armor id="7875" name="Sealed Apella Leather Gloves" armorType="None" >
+   <set icon="icon.armor_t1005_g_i02"/>
+   <set bodyPart="GLOVES" grade="A"/>
+   <set crystallizable="true" crystal_count="71" />
+   <set weight="580" price="1160000"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <stats>
+    <add stat="pDef" order="0x10" val="46"/>
+    <enchant stat="pDef" order="0xc" val="0"/>
+   </stats>
+  </armor>
+  <armor id="7876" name="Sealed Apella Boots" armorType="None" >
+   <set icon="icon.armor_t1005_b_i02"/>
+   <set bodyPart="FEET" grade="A"/>
+   <set crystallizable="true" crystal_count="71" />
+   <set weight="1130" price="1160000"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <stats>
+    <add stat="pDef" order="0x10" val="46"/>
+    <enchant stat="pDef" order="0xc" val="0"/>
+   </stats>
+  </armor>
+  <armor id="7877" name="Sealed Apella Doublet" armorType="Magic" >
+   <set icon="icon.armor_t1006_ul_i02"/>
+   <set bodyPart="FULLARMOR" grade="A"/>
+   <set crystallizable="true" crystal_count="347" />
+   <set weight="2450" price="4340000"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <stats>
+    <add stat="pDef" order="0x10" val="139"/>
+    <add stat="maxMp" order="0x40" val="665"/>
+    <enchant stat="pDef" order="0xc" val="0"/>
+   </stats>
+  </armor>
+  <armor id="7878" name="Sealed Apella Silk Gloves" armorType="None" >
+   <set icon="icon.armor_t1006_g_i02"/>
+   <set bodyPart="GLOVES" grade="A"/>
+   <set crystallizable="true" crystal_count="71" />
+   <set weight="580" price="1160000"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <stats>
+    <add stat="pDef" order="0x10" val="46"/>
+    <enchant stat="pDef" order="0xc" val="0"/>
+   </stats>
+  </armor>
+  <armor id="7879" name="Sealed Apella Sandals" armorType="None" >
+   <set icon="icon.armor_t1006_b_i02"/>
+   <set bodyPart="FEET" grade="A"/>
+   <set crystallizable="true" crystal_count="71" />
+   <set weight="1130" price="1160000"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <stats>
+    <add stat="pDef" order="0x10" val="46"/>
+    <enchant stat="pDef" order="0xc" val="0"/>
+   </stats>
+  </armor>
+</list>

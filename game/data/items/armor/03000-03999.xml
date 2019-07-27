@@ -1,0 +1,237 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<list>
+  <armor id="3891" name="Wolf's Hide Armor" armorType="Pet" >
+   <set icon="icon.etc_pet_armor_i00"/>
+   <set bodyPart="CHEST" grade="NONE"/>
+   <set crystallizable="false" />
+   <set weight="160" price="16900"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <stats>
+    <add stat="pDef" order="0x10" val="13"/>
+    <add stat="mDef" order="0x10" val="16"/>
+   </stats>
+  </armor>
+  <armor id="3892" name="Wolf's Hard Leather Mail" armorType="Pet" >
+   <set icon="icon.etc_pet_armor_i00"/>
+   <set bodyPart="CHEST" grade="NONE"/>
+   <set crystallizable="false" />
+   <set weight="160" price="30766"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <stats>
+    <add stat="pDef" order="0x10" val="16"/>
+    <add stat="mDef" order="0x10" val="18"/>
+   </stats>
+  </armor>
+  <armor id="3893" name="Wolf's Wooden Armor" armorType="Pet" >
+   <set icon="icon.etc_pet_armor_i01"/>
+   <set bodyPart="CHEST" grade="NONE"/>
+   <set crystallizable="false" />
+   <set weight="160" price="52216"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <stats>
+    <add stat="pDef" order="0x10" val="19"/>
+    <add stat="mDef" order="0x10" val="20"/>
+   </stats>
+  </armor>
+  <armor id="3894" name="Wolf's Ring Mail" armorType="Pet" >
+   <set icon="icon.etc_pet_armor_i01"/>
+   <set bodyPart="CHEST" grade="NONE"/>
+   <set crystallizable="false" />
+   <set weight="160" price="83308"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <stats>
+    <add stat="pDef" order="0x10" val="22"/>
+    <add stat="mDef" order="0x10" val="23"/>
+   </stats>
+  </armor>
+  <armor id="3895" name="Wolf's Bone Armor" armorType="Pet" >
+   <set icon="icon.etc_pet_armor_i01"/>
+   <set bodyPart="CHEST" grade="NONE"/>
+   <set crystallizable="false" />
+   <set weight="160" price="126750"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <stats>
+    <add stat="pDef" order="0x10" val="26"/>
+    <add stat="mDef" order="0x10" val="26"/>
+   </stats>
+  </armor>
+  <armor id="3896" name="Wolf's Scale Male" armorType="Pet" >
+   <set icon="icon.etc_pet_armor_i01"/>
+   <set bodyPart="CHEST" grade="NONE"/>
+   <set crystallizable="false" />
+   <set weight="160" price="186333"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <stats>
+    <add stat="pDef" order="0x10" val="30"/>
+    <add stat="mDef" order="0x10" val="29"/>
+   </stats>
+  </armor>
+  <armor id="3897" name="Wof's Bronze Armor" armorType="Pet" >
+   <set icon="icon.etc_pet_armor_i01"/>
+   <set bodyPart="CHEST" grade="NONE"/>
+   <set crystallizable="false" />
+   <set weight="160" price="260000"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <stats>
+    <add stat="pDef" order="0x10" val="33"/>
+    <add stat="mDef" order="0x10" val="31"/>
+   </stats>
+  </armor>
+  <armor id="3898" name="Wolf's Plate Mail" armorType="Pet" >
+   <set icon="icon.etc_pet_armor_i02"/>
+   <set bodyPart="CHEST" grade="NONE"/>
+   <set crystallizable="false" />
+   <set weight="160" price="330000"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <stats>
+    <add stat="pDef" order="0x10" val="37"/>
+    <add stat="mDef" order="0x10" val="33"/>
+   </stats>
+  </armor>
+  <armor id="3899" name="Wolf's Steel Armor" armorType="Pet" >
+   <set icon="icon.etc_pet_armor_i02"/>
+   <set bodyPart="CHEST" grade="NONE"/>
+   <set crystallizable="false" />
+   <set weight="160" price="420000"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <stats>
+    <add stat="pDef" order="0x10" val="40"/>
+    <add stat="mDef" order="0x10" val="36"/>
+   </stats>
+  </armor>
+  <armor id="3900" name="Wolf's Luxury Plate" armorType="Pet" >
+   <set icon="icon.etc_pet_armor_i02"/>
+   <set bodyPart="CHEST" grade="NONE"/>
+   <set crystallizable="false" />
+   <set weight="160" price="640000"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <stats>
+    <add stat="pDef" order="0x10" val="43"/>
+    <add stat="mDef" order="0x10" val="38"/>
+   </stats>
+  </armor>
+  <armor id="3901" name="Wolf's Mithril Armor" armorType="Pet" >
+   <set icon="icon.etc_pet_armor_i02"/>
+   <set bodyPart="CHEST" grade="NONE"/>
+   <set crystallizable="false" />
+   <set weight="160" price="940000"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <stats>
+    <add stat="pDef" order="0x10" val="47"/>
+    <add stat="mDef" order="0x10" val="41"/>
+   </stats>
+  </armor>
+  <armor id="3912" name="Hatchling's Soft Leather" armorType="Pet" >
+   <set icon="icon.etc_pet_armor_i03"/>
+   <set bodyPart="CHEST" grade="NONE"/>
+   <set crystallizable="false" />
+   <set weight="160" price="200000"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <stats>
+    <add stat="pDef" order="0x10" val="26"/>
+    <add stat="mDef" order="0x10" val="26"/>
+   </stats>
+  </armor>
+  <armor id="3913" name="Hatchling's Scale Mail" armorType="Pet" >
+   <set icon="icon.etc_pet_armor_i03"/>
+   <set bodyPart="CHEST" grade="NONE"/>
+   <set crystallizable="false" />
+   <set weight="160" price="186333"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <stats>
+    <add stat="pDef" order="0x10" val="29"/>
+    <add stat="mDef" order="0x10" val="29"/>
+   </stats>
+  </armor>
+  <armor id="3914" name="Hatchling's Brigandine" armorType="Pet" >
+   <set icon="icon.etc_pet_armor_i03"/>
+   <set bodyPart="CHEST" grade="NONE"/>
+   <set crystallizable="false" />
+   <set weight="160" price="244833"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <stats>
+    <add stat="pDef" order="0x10" val="31"/>
+    <add stat="mDef" order="0x10" val="31"/>
+   </stats>
+  </armor>
+  <armor id="3915" name="Hatchling's Bronze Coat" armorType="Pet" >
+   <set icon="icon.etc_pet_armor_i04"/>
+   <set bodyPart="CHEST" grade="NONE"/>
+   <set crystallizable="false" />
+   <set weight="160" price="315250"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <stats>
+    <add stat="pDef" order="0x10" val="33"/>
+    <add stat="mDef" order="0x10" val="33"/>
+   </stats>
+  </armor>
+  <armor id="3916" name="Hatchling's Steel Coat" armorType="Pet" >
+   <set icon="icon.etc_pet_armor_i04"/>
+   <set bodyPart="CHEST" grade="NONE"/>
+   <set crystallizable="false" />
+   <set weight="160" price="403000"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <stats>
+    <add stat="pDef" order="0x10" val="36"/>
+    <add stat="mDef" order="0x10" val="36"/>
+   </stats>
+  </armor>
+  <armor id="3917" name="Hatchling's Shadowplate" armorType="Pet" >
+   <set icon="icon.etc_pet_armor_i04"/>
+   <set bodyPart="CHEST" grade="NONE"/>
+   <set crystallizable="false" />
+   <set weight="160" price="1100000"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <stats>
+    <add stat="pDef" order="0x10" val="38"/>
+    <add stat="mDef" order="0x10" val="38"/>
+   </stats>
+  </armor>
+  <armor id="3918" name="Hatchling's Mithril Coat" armorType="Pet" >
+   <set icon="icon.etc_pet_armor_i04"/>
+   <set bodyPart="CHEST" grade="NONE"/>
+   <set crystallizable="false" />
+   <set weight="160" price="1600000"/>
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+
+   <stats>
+    <add stat="pDef" order="0x10" val="41"/>
+    <add stat="mDef" order="0x10" val="41"/>
+   </stats>
+  </armor>
+</list>

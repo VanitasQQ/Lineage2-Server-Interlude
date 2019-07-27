@@ -1,0 +1,294 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE list SYSTEM "armors.dtd">
+<list>
+<item id='7836' name="Santa's Hat">
+  <for>
+    <add val='0' order='0x10' stat='pDef'/>
+  </for>
+</item>
+<item id='7837' name="Sayha's White Mask">
+  <for>
+    <add val='0' order='0x10' stat='pDef'/>
+  </for>
+</item>
+<item id='7839' name="Gran Kain's Black Mask">
+  <for>
+    <add val='0' order='0x10' stat='pDef'/>
+  </for>
+</item>
+<item id='7840' name="Rabbit Ears (Event)">
+  <for>
+    <add val='0' order='0x10' stat='pDef'/>
+  </for>
+</item>
+<item id='7841' name="Racoon Ears (Event)">
+  <for>
+    <add val='0' order='0x10' stat='pDef'/>
+  </for>
+</item>
+<item id='7842' name="Cat Ears (Event)">
+  <for>
+    <add val='0' order='0x10' stat='pDef'/>
+  </for>
+</item>
+<item id='7843' name="Pirate's Eyepatch (Event)">
+  <for>
+    <add val='0' order='0x10' stat='pDef'/>
+  </for>
+</item>
+<item id='7844' name="Monocle (Event)">
+  <for>
+    <add val='0' order='0x10' stat='pDef'/>
+  </for>
+</item>
+<item id='7845' name="Outlaw's Eyepatch (Event)">
+  <for>
+    <add val='0' order='0x10' stat='pDef'/>
+  </for>
+</item>
+<item id='7846' name="Lady's Hairpin (Event)">
+  <cond msgId="1518">
+    <player sex="1"/>
+  </cond>
+  <for>
+    <add val='0' order='0x10' stat='pDef'/>
+  </for>
+</item>
+<item id='7847' name="Noblewoman's Hairpin (Event)">
+  <cond msgId="1518">
+    <player sex="1"/>
+  </cond>
+  <for>
+    <add val='0' order='0x10' stat='pDef'/>
+  </for>
+</item>
+<item id='7848' name="Forget-me-not Hairpin (Event)">
+  <cond msgId="1518">
+    <player sex="1"/>
+  </cond>
+  <for>
+    <add val='0' order='0x10' stat='pDef'/>
+  </for>
+</item>
+<item id='7849' name="Daisy Hairpin (Event)">
+  <cond msgId="1518">
+    <player sex="1"/>
+  </cond>
+  <for>
+    <add val='0' order='0x10' stat='pDef'/>
+  </for>
+</item>
+<item id='7850' name="Clan Oath Helm">
+  <cond msgId="1518">
+    <player pledgeClass="1"/>
+  </cond>
+  <for>
+    <add val='37' order='0x10' stat='pDef'/>
+    <enchant val='0' order='0x0C' stat='pDef'/>
+  </for>
+</item>
+<item id='7851' name="Clan Oath Armor">
+  <cond msgId="1518">
+    <player pledgeClass="1"/>
+  </cond>
+  <for>
+    <add val='158' order='0x10' stat='pDef'/>
+    <enchant val='0' order='0x0C' stat='pDef'/>
+  </for>
+</item>
+<item id='7852' name="Clan Oath Gauntlets - Heavy Armor">
+  <cond msgId="1518">
+    <player pledgeClass="1"/>
+  </cond>
+  <for>
+    <add val='24' order='0x10' stat='pDef'/>
+    <enchant val='0' order='0x0C' stat='pDef'/>
+  </for>
+</item>
+<item id='7853' name="Clan Oath Sabaton - Heavy Armor">
+  <cond msgId="1518">
+    <player pledgeClass="1"/>
+  </cond>
+  <for>
+    <add val='24' order='0x10' stat='pDef'/>
+    <enchant val='0' order='0x0C' stat='pDef'/>
+  </for>
+</item>
+<item id='7854' name="Clan Oath Brigandine">
+  <cond msgId="1518">
+    <player pledgeClass="1"/>
+  </cond>
+  <for>
+    <add val='119' order='0x10' stat='pDef'/>
+    <enchant val='0' order='0x0C' stat='pDef'/>
+  </for>
+</item>
+<item id='7855' name="Clan Oath Leather Gloves - Light Armor">
+  <cond msgId="1518">
+    <player pledgeClass="1"/>
+  </cond>
+  <for>
+    <add val='24' order='0x10' stat='pDef'/>
+    <enchant val='0' order='0x0C' stat='pDef'/>
+  </for>
+</item>
+<item id='7856' name="Clan Oath Boots - Light Armor">
+  <cond msgId="1518">
+    <player pledgeClass="1"/>
+  </cond>
+  <for>
+    <add val='24' order='0x10' stat='pDef'/>
+    <enchant val='0' order='0x0C' stat='pDef'/>
+  </for>
+</item>
+<item id='7857' name="Clan Oath Aketon">
+  <cond msgId="1518">
+    <player pledgeClass="1"/>
+  </cond>
+  <for>
+    <add val='79' order='0x10' stat='pDef'/>
+    <add val='239' order='0x40' stat='maxMp'/>
+    <enchant val='0' order='0x0C' stat='pDef'/>
+  </for>
+</item>
+<item id='7858' name="Clan Oath Padded Gloves - Robe">
+  <cond msgId="1518">
+    <player pledgeClass="1"/>
+  </cond>
+  <for>
+    <add val='24' order='0x10' stat='pDef'/>
+    <enchant val='0' order='0x0C' stat='pDef'/>
+  </for>
+</item>
+<item id='7859' name="Clan Oath Sandals - Robe">
+  <cond msgId="1518">
+    <player pledgeClass="1"/>
+  </cond>
+  <for>
+    <add val='24' order='0x10' stat='pDef'/>
+    <enchant val='0' order='0x0C' stat='pDef'/>
+  </for>
+</item>
+<item id='7860' name="Apella Helm">
+  <for>
+    <add val='69' order='0x10' stat='pDef'/>
+    <enchant val='0' order='0x0C' stat='pDef'/>
+  </for>
+</item>
+<item id='7861' name="Apella Plate Armor">
+  <for>
+    <add val='278' order='0x10' stat='pDef'/>
+    <enchant val='0' order='0x0C' stat='pDef'/>
+  </for>
+</item>
+<item id='7862' name="Apella Gauntlet - Heavy Armor">
+  <for>
+    <add val='46' order='0x10' stat='pDef'/>
+    <enchant val='0' order='0x0C' stat='pDef'/>
+  </for>
+</item>
+<item id='7863' name="Apella Solleret - Heavy Armor">
+  <for>
+    <add val='46' order='0x10' stat='pDef'/>
+    <enchant val='0' order='0x0C' stat='pDef'/>
+  </for>
+</item>
+<item id='7864' name="Apella Brigandine">
+  <for>
+    <add val='209' order='0x10' stat='pDef'/>
+    <enchant val='0' order='0x0C' stat='pDef'/>
+  </for>
+</item>
+<item id='7865' name="Apella Leather Gloves - Light Armor">
+  <for>
+    <add val='46' order='0x10' stat='pDef'/>
+    <enchant val='0' order='0x0C' stat='pDef'/>
+  </for>
+</item>
+<item id='7866' name="Apella Boots - Light Armor">
+  <for>
+    <add val='46' order='0x10' stat='pDef'/>
+    <enchant val='0' order='0x0C' stat='pDef'/>
+  </for>
+</item>
+<item id='7867' name="Apella Doublet">
+  <for>
+    <add val='139' order='0x10' stat='pDef'/>
+    <add val='665' order='0x40' stat='maxMp'/>
+    <enchant val='0' order='0x0C' stat='pDef'/>
+  </for>
+</item>
+<item id='7868' name="Apella Silk Gloves - Robe">
+  <for>
+    <add val='46' order='0x10' stat='pDef'/>
+    <enchant val='0' order='0x0C' stat='pDef'/>
+  </for>
+</item>
+<item id='7869' name="Apella Sandals - Robe">
+  <for>
+    <add val='46' order='0x10' stat='pDef'/>
+    <enchant val='0' order='0x0C' stat='pDef'/>
+  </for>
+</item>
+<item id='7870' name="Sealed Apella Helmet">
+  <for>
+    <add val='69' order='0x10' stat='pDef'/>
+    <enchant val='0' order='0x0C' stat='pDef'/>
+  </for>
+</item>
+<item id='7871' name="Sealed Apella Plate Armor">
+  <for>
+    <add val='278' order='0x10' stat='pDef'/>
+    <enchant val='0' order='0x0C' stat='pDef'/>
+  </for>
+</item>
+<item id='7872' name="Sealed Apella Gauntlet - Heavy Armor">
+  <for>
+    <add val='46' order='0x10' stat='pDef'/>
+    <enchant val='0' order='0x0C' stat='pDef'/>
+  </for>
+</item>
+<item id='7873' name="Sealed Apella Solleret - Heavy Armor">
+  <for>
+    <add val='46' order='0x10' stat='pDef'/>
+    <enchant val='0' order='0x0C' stat='pDef'/>
+  </for>
+</item>
+<item id='7874' name="Sealed Apella Brigandine">
+  <for>
+    <add val='209' order='0x10' stat='pDef'/>
+    <enchant val='0' order='0x0C' stat='pDef'/>
+  </for>
+</item>
+<item id='7875' name="Sealed Apella Leather Gloves - Light Armor">
+  <for>
+    <add val='46' order='0x10' stat='pDef'/>
+    <enchant val='0' order='0x0C' stat='pDef'/>
+  </for>
+</item>
+<item id='7876' name="Sealed Apella Boots - Light Armor">
+  <for>
+    <add val='46' order='0x10' stat='pDef'/>
+    <enchant val='0' order='0x0C' stat='pDef'/>
+  </for>
+</item>
+<item id='7877' name="Sealed Apella Doublet">
+  <for>
+    <add val='139' order='0x10' stat='pDef'/>
+    <add val='665' order='0x40' stat='maxMp'/>
+    <enchant val='0' order='0x0C' stat='pDef'/>
+  </for>
+</item>
+<item id='7878' name="Sealed Apella Silk Gloves - Robe">
+  <for>
+    <add val='46' order='0x10' stat='pDef'/>
+    <enchant val='0' order='0x0C' stat='pDef'/>
+  </for>
+</item>
+<item id='7879' name="Sealed Apella Sandals - Robe">
+  <for>
+    <add val='46' order='0x10' stat='pDef'/>
+    <enchant val='0' order='0x0C' stat='pDef'/>
+  </for>
+</item>
+</list>

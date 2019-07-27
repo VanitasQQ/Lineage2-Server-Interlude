@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE list SYSTEM "weapons.dtd">
+<list>
+<item id='9441' name="Dynasty Shield">
+  <for>
+   <sub val='8' order='0x10' stat='rEvas'/>
+   <set val='321' order='0x08' stat='sDef'/>
+   <set val='20' order='0x08' stat='rShld'/>
+   <enchant val='0' order='0x0C' stat='sDef'/>
+  </for>
+</item>
+<item id='9442' name="Dynasty Sword">
+  <for>
+   <set val='333' order='0x08' stat='pAtk'/>
+   <set val='151' order='0x08' stat='mAtk'/>
+   <set val='8' order='0x08' stat='rCrit'/>
+   <set val='379' order='0x08' stat='pAtkSpd'/>
+   <enchant val='0' order='0x0C' stat='pAtk'/>
+   <enchant val='0' order='0x0C' stat='mAtk'/>
+  </for>
+</item>
+<item id='9443' name="Dynasty Blade">
+  <for>
+   <set val='405' order='0x08' stat='pAtk'/>
+   <set val='151' order='0x08' stat='mAtk'/>
+   <set val='8' order='0x08' stat='rCrit'/>
+   <set val='325' order='0x08' stat='pAtkSpd'/>
+   <enchant val='0' order='0x0C' stat='pAtk'/>
+   <enchant val='0' order='0x0C' stat='mAtk'/>
+  </for>
+</item>
+<item id='9444' name="Dynasty Phantom">
+  <for>
+   <set val='267' order='0x08' stat='pAtk'/>
+   <set val='202' order='0x08' stat='mAtk'/>
+   <set val='8' order='0x08' stat='rCrit'/>
+   <set val='379' order='0x08' stat='pAtkSpd'/>
+   <enchant val='0' order='0x0C' stat='pAtk'/>
+   <enchant val='0' order='0x0C' stat='mAtk'/>
+  </for>
+</item>
+<item id='9445' name="Dynasty Bow">
+  <for>
+   <set val='654' order='0x08' stat='pAtk'/>
+   <set val='151' order='0x08' stat='mAtk'/>
+   <set val='12' order='0x08' stat='rCrit'/>
+   <set val='293' order='0x08' stat='pAtkSpd'/>
+   <enchant val='0' order='0x0C' stat='pAtk'/>
+   <enchant val='0' order='0x0C' stat='mAtk'/>
+  </for>
+</item>
+<item id='9446' name="Dynasty Knife">
+  <for>
+   <set val='291' order='0x08' stat='pAtk'/>
+   <set val='151' order='0x08' stat='mAtk'/>
+   <set val='12' order='0x08' stat='rCrit'/>
+   <set val='433' order='0x08' stat='pAtkSpd'/>
+   <enchant val='0' order='0x0C' stat='pAtk'/>
+   <enchant val='0' order='0x0C' stat='mAtk'/>
+  </for>
+</item>
+<item id='9447' name="Dynasty Halberd">
+  <for>
+   <set val='333' order='0x08' stat='pAtk'/>
+   <set val='151' order='0x08' stat='mAtk'/>
+   <set val='8' order='0x08' stat='rCrit'/>
+   <set val='325' order='0x08' stat='pAtkSpd'/>
+   <enchant val='0' order='0x0C' stat='pAtk'/>
+   <enchant val='0' order='0x0C' stat='mAtk'/>
+  </for>
+</item>
+<item id='9448' name="Dynasty Cudgel">
+  <for>
+   <set val='333' order='0x08' stat='pAtk'/>
+   <set val='151' order='0x08' stat='mAtk'/>
+   <set val='4' order='0x08' stat='rCrit'/>
+   <add val='4' order='0x10' stat='accCombat'/>
+   <set val='379' order='0x08' stat='pAtkSpd'/>
+   <enchant val='0' order='0x0C' stat='pAtk'/>
+   <enchant val='0' order='0x0C' stat='mAtk'/>
+  </for>
+</item>
+<item id='9449' name="Dynasty Mace">
+  <for>
+   <set val='267' order='0x08' stat='pAtk'/>
+   <set val='202' order='0x08' stat='mAtk'/>
+   <set val='4' order='0x08' stat='rCrit'/>
+   <add val='4' order='0x10' stat='accCombat'/>
+   <set val='379' order='0x08' stat='pAtkSpd'/>
+   <enchant val='0' order='0x0C' stat='pAtk'/>
+   <enchant val='0' order='0x0C' stat='mAtk'/>
+  </for>
+</item>
+<item id='9450' name="Dynasty Bagh-Nakh">
+  <for>
+   <set val='405' order='0x08' stat='pAtk'/>
+   <set val='151' order='0x08' stat='mAtk'/>
+   <set val='4' order='0x08' stat='rCrit'/>
+   <add val='4' order='0x10' stat='accCombat'/>
+   <set val='325' order='0x08' stat='pAtkSpd'/>
+   <enchant val='0' order='0x0C' stat='pAtk'/>
+   <enchant val='0' order='0x0C' stat='mAtk'/>
+  </for>
+</item>
+</list>

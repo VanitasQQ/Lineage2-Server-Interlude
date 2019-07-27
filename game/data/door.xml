@@ -1,0 +1,1118 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<list>
+	<door id="17220001" name="gludin_clanhall_001">
+	  <position x="-84495" y="155209" z="-3150"/>
+	  <range XMin="-84497" XMax="-84494" YMin="155208"  YMax="155246" ZMin="-3192" ZMax="-2742"/>
+	  <stat hp="158250" pdef="644" mdef="518" unlockable="false" isOpen="false" />
+	</door>
+	<door id="17220002" name="gludin_clanhall_002">
+	  <position x="-84495" y="155286" z="-3150"/>
+	  <range XMin="-84496" XMax="-84494" YMin="155248"  YMax="155286" ZMin="-3192" ZMax="-2742"/>
+	  <stat hp="158250" pdef="644" mdef="518" unlockable="false" isOpen="false" />
+	</door>
+	<door id="17220003" name="gludin_clanhall_003">
+	  <position x="-83961" y="155258" z="-3150"/>
+	  <range XMin="-83962" XMax="-83960" YMin="155218"  YMax="155257" ZMin="-3191" ZMax="-2741"/>
+	  <stat hp="158250" pdef="644" mdef="518" unlockable="false" isOpen="false" />
+	</door>
+	<door id="17220004" name="gludin_clanhall_004">
+	  <position x="-83961" y="155180" z="-3150"/>
+	  <range XMin="-83962" XMax="-83960" YMin="155180"  YMax="155219" ZMin="-3191" ZMax="-2741"/>
+	  <stat hp="158250" pdef="644" mdef="518" unlockable="false" isOpen="false" />
+	</door>
+	<door id="17220005" name="gludin_clanhall_005">
+	  <position x="-83879" y="153064" z="-3149"/>
+	  <range XMin="-83917" XMax="-83878" YMin="153062"  YMax="153064" ZMin="-3149" ZMax="-2699"/>
+	  <stat hp="158250" pdef="644" mdef="518" unlockable="false" isOpen="false" />
+	</door>
+	<door id="17220006" name="gludin_clanhall_006">
+	  <position x="-83956" y="153064" z="-3149"/>
+	  <range XMin="-83955" XMax="-83916" YMin="153061"  YMax="153065" ZMin="-3149" ZMax="-2699"/>
+	  <stat hp="158250" pdef="644" mdef="518" unlockable="false" isOpen="false" />
+	</door>
+	<door id="17220007" name="gludin_clanhall_007">
+	  <position x="-83927" y="153598" z="-3149"/>
+	  <range XMin="-83927" XMax="-83889" YMin="153597"  YMax="153599" ZMin="-3190" ZMax="-2740"/>
+	  <stat hp="158250" pdef="644" mdef="518" unlockable="false" isOpen="false" />
+	</door>
+	<door id="17220008" name="gludin_clanhall_008">
+	  <position x="-83850" y="153598" z="-3149"/>
+	  <range XMin="-83889" XMax="-83850" YMin="153597"  YMax="153599" ZMin="-3190" ZMax="-2740"/>
+	  <stat hp="158250" pdef="644" mdef="518" unlockable="false" isOpen="false" />
+	</door>
+	<door id="17220009" name="gludin_clanhall_009">
+	  <position x="-83971" y="151880" z="-3112"/>
+	  <range XMin="-84009" XMax="-83971" YMin="151879"  YMax="151882" ZMin="-3152" ZMax="-2702"/>
+	  <stat hp="158250" pdef="644" mdef="518" unlockable="false" isOpen="false" />
+	</door>
+	<door id="17220010" name="gludin_clanhall_010">
+	  <position x="-84047" y="151880" z="-3112"/>
+	  <range XMin="-84046" XMax="-84008" YMin="151879"  YMax="151881" ZMin="-3152" ZMax="-2702"/>
+	  <stat hp="158250" pdef="644" mdef="518" unlockable="false" isOpen="false" />
+	</door>
+	<door id="17220011" name="gludin_einhasad_001">
+	  <position x="-79737" y="150063" z="-3027"/>
+	  <range XMin="-79737" XMax="-79735" YMin="150062"  YMax="150100" ZMin="-3067" ZMax="-2617"/>
+	  <stat hp="158250" pdef="644" mdef="518" unlockable="false" isOpen="false" />
+	</door>
+	<door id="17220012" name="gludin_einhasad_002">
+	  <position x="-79737" y="150138" z="-3027"/>
+	  <range XMin="-79737" XMax="-79735" YMin="150099"  YMax="150138" ZMin="-3067" ZMax="-2617"/>
+	  <stat hp="158250" pdef="644" mdef="518" unlockable="false" isOpen="false" />
+	</door>
+	<door id="17220013" name="gludin_einhasad_003">
+	  <position x="-79740" y="151522" z="-3027"/>
+	  <range XMin="-79742" XMax="-79738" YMin="151522"  YMax="151562" ZMin="-3068" ZMax="-3068"/>
+	  <stat hp="158250" pdef="644" mdef="518" unlockable="false" isOpen="false" />
+	</door>
+	<door id="17220014" name="gludin_einhasad_004">
+	  <position x="-79740" y="151598" z="-3027"/>
+	  <range XMin="-79740" XMax="-79738" YMin="151558"  YMax="151597" ZMin="-3068" ZMax="-2618"/>
+	  <stat hp="158250" pdef="644" mdef="518" unlockable="false" isOpen="false" />
+	</door>
+	<door id="19160001" name="Temple_Gate">
+	  <position x="-16369" y="-36806" z="-10725"/>
+	  <range XMin="-16654" XMax="-16080" YMin="-36864"  YMax="-36735" ZMin="-10759" ZMax="-10535"/>
+	  <stat hp="158250" pdef="644" mdef="518" unlockable="false" isOpen="false" />
+	</door>
+	<door id="19160002" name="Anteroom_Door001">
+	  <position x="-14868" y="-38977" z="-10725"/>
+	  <range XMin="-14982" XMax="-14764" YMin="-38989"  YMax="-38936" ZMin="-10760" ZMax="-10394"/>
+	  <stat hp="158250" pdef="644" mdef="518" unlockable="false" isOpen="false" />
+	</door>
+	<door id="19160003" name="Anteroom_Door002">
+	  <position x="-14595" y="-39831" z="-10725"/>
+	  <range XMin="-14618" XMax="-14562" YMin="-39924"  YMax="-39710" ZMin="-10760" ZMax="-10394"/>
+	  <stat hp="158250" pdef="644" mdef="518" unlockable="false" isOpen="false" />
+	</door>
+	<door id="19160004" name="Anteroom_Door003">
+	  <position x="-14618" y="-41675" z="-10725"/>
+	  <range XMin="-14618" XMax="-14562" YMin="-41789"  YMax="-41575" ZMin="-10759" ZMax="-10393"/>
+	  <stat hp="158250" pdef="644" mdef="518" unlockable="false" isOpen="false" />
+	</door>
+	<door id="19160005" name="Anteroom_Door004">
+	  <position x="-14867" y="-42518" z="-10725"/>
+	  <range XMin="-14982" XMax="-14764" YMin="-42573"  YMax="-42521" ZMin="-10759" ZMax="-10395"/>
+	  <stat hp="158250" pdef="644" mdef="518" unlockable="false" isOpen="false" />
+	</door>
+	<door id="19160006" name="Anteroom_Door005">
+	  <position x="-17855" y="-42547" z="-10725"/>
+	  <range XMin="-17974" XMax="-17756" YMin="-42573"  YMax="-42521" ZMin="-10759" ZMax="-10395"/>
+	  <stat hp="158250" pdef="644" mdef="518" unlockable="false" isOpen="false" />
+	</door>
+	<door id="19160007" name="Anteroom_Door006">
+	  <position x="-18140" y="-41692" z="-10725"/>
+	  <range XMin="-18170" XMax="-18114" YMin="-41797"  YMax="-41582" ZMin="-10759" ZMax="-10393"/>
+	  <stat hp="158250" pdef="644" mdef="518" unlockable="false" isOpen="false" />
+	</door>
+	<door id="19160008" name="Anteroom_Door007">
+	  <position x="-18140" y="-39825" z="-10725"/>
+	  <range XMin="-18170" XMax="-18115" YMin="-39931"  YMax="-39720" ZMin="-10760" ZMax="-10394"/>
+	  <stat hp="158250" pdef="644" mdef="518" unlockable="false" isOpen="false" />
+	</door>
+	<door id="19160009" name="Anteroom_Door008">
+	  <position x="-17872" y="-38967" z="-10725"/>
+	  <range XMin="-17970" XMax="-17752" YMin="-38989"  YMax="-38936" ZMin="-10759" ZMax="-10393"/>
+	  <stat hp="158250" pdef="644" mdef="518" unlockable="false" isOpen="false" />
+	</door>
+	<door id="19160010" name="Chapel_Door001">
+	  <position x="-16148" y="-44158" z="-10725"/>
+	  <range XMin="-16654" XMax="-16080" YMin="-44235"  YMax="-44081" ZMin="-10880" ZMax="-10385"/>
+	  <stat hp="158250" pdef="644" mdef="518" unlockable="false" isOpen="false" />
+	</door>
+	<door id="19160011" name="Chapel_Door002">
+	  <position x="-16582" y="-44156" z="-10725"/>
+	  <range XMin="-16654" XMax="-16079" YMin="-44235"  YMax="-44082" ZMin="-10880" ZMax="-10382"/>
+	  <stat hp="158250" pdef="644" mdef="518" unlockable="false" isOpen="false" />
+	</door>
+	<door id="19160012" name="Door_of_Darkness001">
+	  <position x="-14513" y="-52490" z="-11013"/>
+	  <range XMin="-14560" XMax="-14495" YMin="-52657"  YMax="-52307" ZMin="-11053" ZMax="-10813"/>
+	  <stat hp="158250" pdef="644" mdef="518" unlockable="false" isOpen="false" />
+	</door>
+	<door id="19160013" name="Door_of_Darkness002">
+	  <position x="-18278" y="-52474" z="-11013"/>
+	  <range XMin="-18303" XMax="-18224" YMin="-52657"  YMax="-52305" ZMin="-11053" ZMax="-10813"/>
+	  <stat hp="158250" pdef="644" mdef="518" unlockable="false" isOpen="false" />
+	</door>
+	<door id="19160014" name="Altar_Entrance001">
+	  <position x="-14829" y="-54967" z="-10603"/>
+	  <range XMin="-14965" XMax="-14696" YMin="-54986"  YMax="-54962" ZMin="-10635" ZMax="-10361"/>
+	  <stat hp="158250" pdef="644" mdef="518" unlockable="false" isOpen="false" />
+	</door>
+	<door id="19160015" name="Altar_Entrance002">
+	  <position x="-17959" y="-54973" z="-10603"/>
+	  <range XMin="-18097" XMax="-17824" YMin="-54990"  YMax="-54958" ZMin="-10635" ZMax="-10361"/>
+	  <stat hp="158250" pdef="644" mdef="518" unlockable="false" isOpen="false" />
+	</door>
+	<door id="19160016" name="Altar_Entrance001">
+	  <position x="-15362" y="-54835" z="-10449"/>
+	  <range XMin="-15388" XMax="-15339" YMin="-55020"  YMax="-54697" ZMin="-10487" ZMax="-10323"/>
+	  <stat hp="158250" pdef="644" mdef="518" unlockable="false" isOpen="false" />
+	</door>
+	<door id="19160017" name="Altar_Entrance002">
+	  <position x="-17420" y="-54835" z="-10449"/>
+	  <range XMin="-17449" XMax="-17400" YMin="-55020"  YMax="-54696" ZMin="-10487" ZMax="-10325"/>
+	  <stat hp="158250" pdef="644" mdef="518" unlockable="false" isOpen="false" />
+	</door>
+	<door id="19210011" name="gludio_clanhall_001">
+	  <position x="-14790" y="125633" z="-3123"/>
+	  <range XMin="-14791" XMax="-14789" YMin="125595"  YMax="125632" ZMin="-3158" ZMax="-2708"/>
+	  <stat hp="158250" pdef="644" mdef="518" unlockable="false" isOpen="false" />
+	</door>
+	<door id="19210012" name="gludio_clanhall_002">
+	  <position x="-14790" y="125557" z="-3123"/>
+	  <range XMin="-14791" XMax="-14789" YMin="125557"  YMax="125594" ZMin="-3158" ZMax="-2708"/>
+	  <stat hp="158250" pdef="644" mdef="518" unlockable="false" isOpen="false" />
+	</door>
+	<door id="19210013" name="gludio_clanhall_003">
+	  <position x="-14116" y="125602" z="-3122"/>
+	  <range XMin="-14117" XMax="-14115" YMin="125602"  YMax="125639" ZMin="-3157" ZMax="-2707"/>
+	  <stat hp="158250" pdef="644" mdef="518" unlockable="false" isOpen="false" />
+	</door>
+	<door id="19210014" name="gludio_clanhall_004">
+	  <position x="-14116" y="125677" z="-3122"/>
+	  <range XMin="-14117" XMax="-14115" YMin="125640"  YMax="125677" ZMin="-3157" ZMax="-2707"/>
+	  <stat hp="158250" pdef="644" mdef="518" unlockable="false" isOpen="false" />
+	</door>
+	<door id="19210015" name="gludio_clanhall_005">
+	  <position x="-12601" y="123885" z="-3096"/>
+	  <range XMin="-12637" XMax="-12600" YMin="123884"  YMax="123886" ZMin="-3131" ZMax="-2681"/>
+	  <stat hp="158250" pdef="644" mdef="518" unlockable="false" isOpen="false" />
+	</door>
+	<door id="19210016" name="gludio_clanhall_006">
+	  <position x="-12676" y="123885" z="-3096"/>
+	  <range XMin="-12676" XMax="-12639" YMin="123884"  YMax="123886" ZMin="-3131" ZMax="-2681"/>
+	  <stat hp="158250" pdef="644" mdef="518" unlockable="false" isOpen="false" />
+	</door>
+	<door id="19210017" name="gludio_clanhall_007">
+	  <position x="-15981" y="123747" z="-3096"/>
+	  <range XMin="-15981" XMax="-15945" YMin="123734"  YMax="123747" ZMin="-3131" ZMax="-2681"/>
+	  <stat hp="158250" pdef="644" mdef="518" unlockable="false" isOpen="false" />
+	</door>
+	<door id="19210018" name="gludio_clanhall_008">
+	  <position x="-15909" y="123725" z="-3096"/>
+	  <range XMin="-15945" XMax="-15909" YMin="123723"  YMax="123736" ZMin="-3131" ZMax="-2681"/>
+	  <stat hp="158250" pdef="644" mdef="518" unlockable="false" isOpen="false" />
+	</door>
+	<door id="20210001" name="cruma_001">
+	  <position x="17624" y="112427" z="-6456"/>
+	  <range XMin="17506" XMax="17741" YMin="112402"  YMax="112452" ZMin="-6625" ZMax="-6287"/>
+	  <stat hp="150000" pdef="476" mdef="383" unlockable="true" isOpen="false" />
+	</door>
+	<door id="20210002" name="cruma_002">
+	  <position x="17820" y="112427" z="-6456"/>
+	  <range XMin="17705" XMax="17938" YMin="112402"  YMax="112452" ZMin="-6627" ZMax="-6289"/>
+	  <stat hp="150000" pdef="476" mdef="383" unlockable="true" isOpen="false" />
+	</door>
+	<door id="20210003" name="cruma_003">
+	  <position x="17721" y="112427" z="-6579"/>
+	  <range XMin="17623" XMax="17819" YMin="112396"  YMax="112459" ZMin="-6628" ZMax="-6530"/>
+	  <stat hp="150000" pdef="476" mdef="383" unlockable="true" isOpen="false" />
+	</door>
+	<door id="20220011" name="H_Door_MV_01">
+	  <position x="18879" y="143353" z="-2998"/>
+	  <range XMin="18874" XMax="18880" YMin="143315"  YMax="143353" ZMin="-3039" ZMax="-2589"/>
+	  <stat hp="158250" pdef="644" mdef="518" unlockable="false" isOpen="false" />
+	</door>
+	<door id="20220012" name="H_Door_MV_01">
+	  <position x="18872" y="143278" z="-2998"/>
+	  <range XMin="18871" XMax="18877" YMin="143278"  YMax="143316" ZMin="-3039" ZMax="-2589"/>
+	  <stat hp="158250" pdef="644" mdef="518" unlockable="false" isOpen="false" />
+	</door>
+	<door id="20220013" name="H_Door_MV_01">
+	  <position x="17616" y="145184" z="-3025"/>
+	  <range XMin="17616" XMax="17648" YMin="145183"  YMax="145206" ZMin="-3066" ZMax="-2616"/>
+	  <stat hp="158250" pdef="644" mdef="518" unlockable="false" isOpen="false" />
+	</door>
+	<door id="20220014" name="H_Door_MV_01">
+	  <position x="17678" y="145226" z="-3025"/>
+	  <range XMin="17646" XMax="17679" YMin="145204"  YMax="145227" ZMin="-3066" ZMax="-2616"/>
+	  <stat hp="158250" pdef="644" mdef="518" unlockable="false" isOpen="false" />
+	</door>
+	<door id="20220015" name="H_Door_MV_01">
+	  <position x="20118" y="145994" z="-3099"/>
+	  <range XMin="20118" XMax="20155" YMin="145992"  YMax="145996" ZMin="-3140" ZMax="-2690"/>
+	  <stat hp="158250" pdef="644" mdef="518" unlockable="false" isOpen="false" />
+	</door>
+	<door id="20220016" name="H_Door_MV_01">
+	  <position x="20193" y="145994" z="-3099"/>
+	  <range XMin="20156" XMax="20193" YMin="145993"  YMax="145995" ZMin="-3140" ZMax="-2690"/>
+	  <stat hp="158250" pdef="644" mdef="518" unlockable="false" isOpen="false" />
+	</door>
+	<door id="21150001" name="Wild_beast_reserve_Door002">
+	  <position x="59974" y="-94123" z="-1350"/>
+	  <range XMin="59945" XMax="59985" YMin="-94178"  YMax="-94114" ZMin="-1382" ZMax="-1226"/>
+	  <stat hp="158250" pdef="644" mdef="518" unlockable="false" isOpen="false" />
+	</door>
+	<door id="21150002" name="Wild_beast_reserve_Door001">
+	  <position x="59922" y="-94221" z="-1350"/>
+	  <range XMin="59917" XMax="59957" YMin="-94231"  YMax="-94166" ZMin="-1382" ZMax="-1226"/>
+	  <stat hp="158250" pdef="644" mdef="518" unlockable="false" isOpen="false" />
+	</door>
+	<door id="21150003" name="Wild_beast_reserve_Gate001">
+	  <position x="55320" y="-93265" z="-1360"/>
+	  <range XMin="55294" XMax="55338" YMin="-93274"  YMax="-93143" ZMin="-1396" ZMax="-1138"/>
+	  <stat hp="158250" pdef="644" mdef="518" unlockable="false" isOpen="false" />
+	</door>
+	<door id="21150004" name="Wild_beast_reserve_Gate002">
+	  <position x="55260" y="-93052" z="-1360"/>
+	  <range XMin="55257" XMax="55304" YMin="-93158"  YMax="-93031" ZMin="-1396" ZMax="-1138"/>
+	  <stat hp="158250" pdef="644" mdef="518" unlockable="false" isOpen="false" />
+	</door>
+	<door id="21150005" name="Wild_beast_reserve_Fence001">
+	  <position x="58474" y="-93976" z="-1360"/>
+	  <range XMin="58304" XMax="58685" YMin="-94077"  YMax="-93846" ZMin="-1391" ZMax="-1369"/>
+	  <stat hp="158250" pdef="644" mdef="518" unlockable="false" isOpen="false" />
+	</door>
+	<door id="21150006" name="Wild_beast_reserve_Fence002">
+	  <position x="56858" y="-93648" z="-1364"/>
+	  <range XMin="56697" XMax="57010" YMin="-93815"  YMax="-93497" ZMin="-1394" ZMax="-1372"/>
+	  <stat hp="158250" pdef="644" mdef="518" unlockable="false" isOpen="false" />
+	</door>
+	<door id="21150007" name="Wild_beast_reserve_Fence003">
+	  <position x="56634" y="-91988" z="-1360"/>
+	  <range XMin="56516" XMax="56731" YMin="-92178"  YMax="-91807" ZMin="-1391" ZMax="-1369"/>
+	  <stat hp="158250" pdef="644" mdef="518" unlockable="false" isOpen="false" />
+	</door>
+	<door id="21150008" name="Wild_beast_reserve_Fence004">
+	  <position x="58167" y="-91263" z="-1360"/>
+	  <range XMin="57979" XMax="58373" YMin="-91316"  YMax="-91198" ZMin="-1391" ZMax="-1369"/>
+	  <stat hp="158250" pdef="644" mdef="518" unlockable="false" isOpen="false" />
+	</door>
+	<door id="21150009" name="Wild_beast_reserve_Fence005">
+	  <position x="59303" y="-92530" z="-1360"/>
+	  <range XMin="59264" XMax="59368" YMin="-92718"  YMax="-92322" ZMin="-1391" ZMax="-1369"/>
+	  <stat hp="158250" pdef="644" mdef="518" unlockable="false" isOpen="false" />
+	</door>
+	<door id="21160001" name="rune_clan_hall_01">
+	  <position x="37748" y="-50417" z="899"/>
+	  <range XMin="37681" XMax="37735" YMin="-50451"  YMax="-50397" ZMin="900" ZMax="1350"/>
+	  <stat hp="158250" pdef="644" mdef="518" unlockable="false" isOpen="false" />
+	</door>
+	<door id="21160002" name="rune_clan_hall_02">
+	  <position x="37701" y="-50416" z="899"/>
+	  <range XMin="37716" XMax="37770" YMin="-50451"  YMax="-50397" ZMin="900" ZMax="1350"/>
+	  <stat hp="158250" pdef="644" mdef="518" unlockable="false" isOpen="false" />
+	</door>
+	<door id="21160003" name="rune_clan_hall_03">
+	  <position x="38580" y="-50107" z="899"/>
+	  <range XMin="38523" XMax="38577" YMin="-50167"  YMax="-50113" ZMin="900" ZMax="1350"/>
+	  <stat hp="158250" pdef="644" mdef="518" unlockable="false" isOpen="false" />
+	</door>
+	<door id="21160004" name="rune_clan_hall_04">
+	  <position x="38538" y="-50126" z="898"/>
+	  <range XMin="38558" XMax="38612" YMin="-50150"  YMax="-50096" ZMin="900" ZMax="1350"/>
+	  <stat hp="158250" pdef="644" mdef="518" unlockable="false" isOpen="false" />
+	</door>
+	<door id="21160005" name="rune_clan_hall_05">
+	  <position x="39141" y="-49474" z="899"/>
+	  <range XMin="39103" XMax="39157" YMin="-49542"  YMax="-49488" ZMin="900" ZMax="1350"/>
+	  <stat hp="158250" pdef="644" mdef="518" unlockable="false" isOpen="false" />
+	</door>
+	<door id="21160006" name="rune_clan_hall_06">
+	  <position x="39116" y="-49513" z="899"/>
+	  <range XMin="39121" XMax="39175" YMin="-49509"  YMax="-49455" ZMin="900" ZMax="1350"/>
+	  <stat hp="158250" pdef="644" mdef="518" unlockable="false" isOpen="false" />
+	</door>
+	<door id="21160007" name="rune_clan_hall_07">
+	  <position x="39328" y="-48225" z="897"/>
+	  <range XMin="39311" XMax="39365" YMin="-48293"  YMax="-48239" ZMin="898" ZMax="1348"/>
+	  <stat hp="158250" pdef="644" mdef="518" unlockable="false" isOpen="false" />
+	</door>
+	<door id="21160008" name="rune_clan_hall_08">
+	  <position x="39326" y="-48267" z="895"/>
+	  <range XMin="39311" XMax="39365" YMin="-48249"  YMax="-48195" ZMin="898" ZMax="1348"/>
+	  <stat hp="158250" pdef="644" mdef="518" unlockable="false" isOpen="false" />
+	</door>
+	<door id="21160009" name="rune_clan_hall_09">
+	  <position x="39130" y="-46972" z="899"/>
+	  <range XMin="39134" XMax="39188" YMin="-47028"  YMax="-46974" ZMin="900" ZMax="1350"/>
+	  <stat hp="158250" pdef="644" mdef="518" unlockable="false" isOpen="false" />
+	</door>
+	<door id="21160010" name="rune_clan_hall_10">
+	  <position x="39148" y="-47009" z="899"/>
+	  <range XMin="39113" XMax="39167" YMin="-46996"  YMax="-46942" ZMin="900" ZMax="1350"/>
+	  <stat hp="158250" pdef="644" mdef="518" unlockable="false" isOpen="false" />
+	</door>
+	<door id="21160011" name="rune_clan_hall_11">
+	  <position x="38559" y="-46356" z="899"/>
+	  <range XMin="38574" XMax="38628" YMin="-46387"  YMax="-46333" ZMin="900" ZMax="1350"/>
+	  <stat hp="158250" pdef="644" mdef="518" unlockable="false" isOpen="false" />
+	</door>
+	<door id="21160012" name="rune_clan_hall_12">
+	  <position x="38600" y="-46378" z="899"/>
+	  <range XMin="38535" XMax="38589" YMin="-46374"  YMax="-46320" ZMin="900" ZMax="1350"/>
+	  <stat hp="158250" pdef="644" mdef="518" unlockable="false" isOpen="false" />
+	</door>
+	<door id="21160013" name="rune_clan_hall_13">
+	  <position x="37718" y="-46058" z="899"/>
+	  <range XMin="37735" XMax="37789" YMin="-46076"  YMax="-46022" ZMin="900" ZMax="1350"/>
+	  <stat hp="158250" pdef="644" mdef="518" unlockable="false" isOpen="false" />
+	</door>
+	<door id="21160014" name="rune_clan_hall_14">
+	  <position x="37766" y="-46060" z="899"/>
+	  <range XMin="37691" XMax="37745" YMin="-46073"  YMax="-46019" ZMin="900" ZMax="1350"/>
+	  <stat hp="158250" pdef="644" mdef="518" unlockable="false" isOpen="false" />
+	</door>
+	<door id="21210001" name="partisan001">
+	  <position x="43643" y="108908" z="-1970"/>
+	  <range XMin="43643" XMax="43651" YMin="108840"  YMax="108915" ZMin="-2015" ZMax="-1565"/>
+	  <stat hp="158250" pdef="644" mdef="518" unlockable="false" isOpen="false" />
+	</door>
+	<door id="21210002" name="partisan002">
+	  <position x="43643" y="108783" z="-1970"/>
+	  <range XMin="43643" XMax="43651" YMin="108778"  YMax="108853" ZMin="-2015" ZMax="-1565"/>
+	  <stat hp="158250" pdef="644" mdef="518" unlockable="false" isOpen="false" />
+	</door>
+	<door id="21240001" name="pirate_isle_001">
+	  <position x="42001" y="208378" z="-3666"/>
+	  <range XMin="41864" XMax="42006" YMin="208287"  YMax="208383" ZMin="-3785" ZMax="-3540"/>
+	  <stat hp="187500" pdef="100000" mdef="10000" unlockable="true" isOpen="false" />
+	</door>
+	<door id="21240002" name="pirate_isle_002">
+	  <position x="43745" y="212594" z="-3623"/>
+	  <range XMin="43741" XMax="43749" YMin="212433"  YMax="212600" ZMin="-3742" ZMax="-3497"/>
+	  <stat hp="187500" pdef="100000" mdef="10000" unlockable="true" isOpen="false" />
+	</door>
+	<door id="21240003" name="pirate_isle_003">
+	  <position x="42167" y="213285" z="-3643"/>
+	  <range XMin="42085" XMax="42247" YMin="213285"  YMax="213286" ZMin="-3760" ZMax="-3515"/>
+	  <stat hp="187500" pdef="476" mdef="383" unlockable="true" isOpen="false" />
+	</door>
+	<door id="21240004" name="pirate_isle_004">
+	  <position x="51111" y="206106" z="-3912"/>
+	  <range XMin="51105" XMax="51270" YMin="206102"  YMax="206110" ZMin="-4031" ZMax="-3786"/>
+	  <stat hp="187500" pdef="476" mdef="383" unlockable="true" isOpen="false" />
+	</door>
+	<door id="21240005" name="pirate_isle_005">
+	  <position x="52910" y="206720" z="-3692"/>
+	  <range XMin="52910" XMax="52910" YMin="206637"  YMax="206801" ZMin="-3808" ZMax="-3563"/>
+	  <stat hp="187500" pdef="476" mdef="383" unlockable="true" isOpen="false" />
+	</door>
+	<door id="21240006" name="pirate_isle_006">
+	  <position x="52423" y="219103" z="-3209"/>
+	  <range XMin="52423" XMax="52423" YMin="219032"  YMax="219174" ZMin="-3312" ZMax="-3067"/>
+	  <stat hp="187500" pdef="1000000" mdef="383" unlockable="false" isOpen="false" />
+	</door>
+	<door id="22130017" name="schuttgart_clan_hall_1">
+	  <position x="86119" y="-143216" z="-1325"/>
+	  <range XMin="86098" XMax="86114" YMin="-143241"  YMax="-143190" ZMin="-1353" ZMax="-903"/>
+	  <stat hp="158250" pdef="644" mdef="518" unlockable="false" isOpen="false" />
+	</door>
+	<door id="22130018" name="schuttgart_clan_hall_2">
+	  <position x="86124" y="-143169" z="-1325"/>
+	  <range XMin="86104" XMax="86120" YMin="-143196"  YMax="-143144" ZMin="-1352" ZMax="-902"/>
+	  <stat hp="158250" pdef="644" mdef="518" unlockable="false" isOpen="false" />
+	</door>
+	<door id="22130019" name="schuttgart_clan_hall_4">
+	  <position x="86797" y="-142207" z="-1325"/>
+	  <range XMin="86725" XMax="86775" YMin="-142232"  YMax="-142199" ZMin="-1352" ZMax="-902"/>
+	  <stat hp="158250" pdef="644" mdef="518" unlockable="false" isOpen="false" />
+	</door>
+	<door id="22130020" name="schuttgart_clan_hall_3">
+	  <position x="86755" y="-142227" z="-1325"/>
+	  <range XMin="86765" XMax="86814" YMin="-142211"  YMax="-142177" ZMin="-1352" ZMax="-902"/>
+	  <stat hp="158250" pdef="644" mdef="518" unlockable="false" isOpen="false" />
+	</door>
+	<door id="22130021" name="schuttgart_clan_hall_6">
+	  <position x="87934" y="-142214" z="-1325"/>
+	  <range XMin="87915" XMax="87964" YMin="-142218"  YMax="-142186" ZMin="-1352" ZMax="-902"/>
+	  <stat hp="158250" pdef="644" mdef="518" unlockable="false" isOpen="false" />
+	</door>
+	<door id="22130022" name="schuttgart_clan_hall_5">
+	  <position x="87970" y="-142235" z="-1325"/>
+	  <range XMin="87955" XMax="88004" YMin="-142239"  YMax="-142207" ZMin="-1352" ZMax="-902"/>
+	  <stat hp="158250" pdef="644" mdef="518" unlockable="false" isOpen="false" />
+	</door>
+	<door id="22130023" name="schuttgart_clan_hall_8">
+	  <position x="88618" y="-143224" z="-1325"/>
+	  <range XMin="88615" XMax="88633" YMin="-143205"  YMax="-143153" ZMin="-1352" ZMax="-902"/>
+	  <stat hp="158250" pdef="644" mdef="518" unlockable="false" isOpen="false" />
+	</door>
+	<door id="22130024" name="schuttgart_clan_hall_7">
+	  <position x="88611" y="-143182" z="-1325"/>
+	  <range XMin="88621" XMax="88639" YMin="-143249"  YMax="-143197" ZMin="-1353" ZMax="-903"/>
+	  <stat hp="158250" pdef="644" mdef="518" unlockable="false" isOpen="false" />
+	</door>
+	<door id="22170001" name="bandit_outer_001">
+	  <position x="85621" y="-18127" z="-1670"/>
+	  <range XMin="85411" XMax="85633" YMin="-18299"  YMax="-18118" ZMin="-1821" ZMax="-1471"/>
+	  <stat hp="158250" pdef="644" mdef="518" unlockable="false" isOpen="false" />
+	</door>
+	<door id="22170002" name="bandit_outer_002">
+	  <position x="85213" y="-18458" z="-1670"/>
+	  <range XMin="85206" XMax="85425" YMin="-18466"  YMax="-18288" ZMin="-1821" ZMax="-1471"/>
+	  <stat hp="158250" pdef="644" mdef="518" unlockable="false" isOpen="false" />
+	</door>
+	<door id="22170003" name="bandit_inner_003">
+	  <position x="80818" y="-15357" z="-1762"/>
+	  <range XMin="80815" XMax="80821" YMin="-15445"  YMax="-15349" ZMin="-1829" ZMax="-1379"/>
+	  <stat hp="158250" pdef="644" mdef="518" unlockable="false" isOpen="false" />
+	</door>
+	<door id="22170004" name="bandit_inner_004">
+	  <position x="80818" y="-15518" z="-1762"/>
+	  <range XMin="80815" XMax="80820" YMin="-15525"  YMax="-15431" ZMin="-1829" ZMax="-1379"/>
+	  <stat hp="158250" pdef="644" mdef="518" unlockable="false" isOpen="false" />
+	</door>
+	<door id="22220003" name="giran_clanhall_009">
+	  <position x="81873" y="151842" z="-3488"/>
+	  <range XMin="81870" XMax="81877" YMin="151892"  YMax="151944" ZMin="-3545" ZMax="-3095"/>
+	  <stat hp="126600" pdef="644" mdef="518" unlockable="false" isOpen="false" />
+	</door>
+	<door id="22220004" name="giran_clanhall_010">
+	  <position x="81873" y="151842" z="-3488"/>
+	  <range XMin="81870" XMax="81877" YMin="151842"  YMax="151894" ZMin="-3545" ZMax="-3095"/>
+	  <stat hp="126600" pdef="644" mdef="518" unlockable="false" isOpen="false" />
+	</door>
+	<door id="22220005" name="giran_clanhall_007">
+	  <position x="81196" y="151657" z="-3490"/>
+	  <range XMin="81192" XMax="81200" YMin="151605"  YMax="151658" ZMin="-3546" ZMax="-3096"/>
+	  <stat hp="158250" pdef="644" mdef="518" unlockable="false" isOpen="false" />
+	</door>
+	<door id="22220006" name="giran_clanhall_008">
+	  <position x="81196" y="151657" z="-3490"/>
+	  <range XMin="81192" XMax="81200" YMin="151555"  YMax="151607" ZMin="-3546" ZMax="-3096"/>
+	  <stat hp="158250" pdef="644" mdef="518" unlockable="false" isOpen="false" />
+	</door>
+	<door id="22220007" name="giran_clanhall_006">
+	  <position x="78521" y="148327" z="-3553"/>
+	  <range XMin="78570" XMax="78623" YMin="148323"  YMax="148331" ZMin="-3614" ZMax="-3164"/>
+	  <stat hp="158250" pdef="644" mdef="518" unlockable="false" isOpen="false" />
+	</door>
+	<door id="22220008" name="giran_clanhall_005">
+	  <position x="78521" y="148327" z="-3553"/>
+	  <range XMin="78520" XMax="78572" YMin="148323"  YMax="148331" ZMin="-3614" ZMax="-3164"/>
+	  <stat hp="158250" pdef="644" mdef="518" unlockable="false" isOpen="false" />
+	</door>
+	<door id="22220009" name="giran_clanhall_003">
+	  <position x="81831" y="145267" z="-3489"/>
+	  <range XMin="81827" XMax="81835" YMin="145316"  YMax="145369" ZMin="-3546" ZMax="-3096"/>
+	  <stat hp="158250" pdef="644" mdef="518" unlockable="false" isOpen="false" />
+	</door>
+	<door id="22220010" name="giran_clanhall_004">
+	  <position x="81831" y="145267" z="-3489"/>
+	  <range XMin="81828" XMax="81835" YMin="145265"  YMax="145319" ZMin="-3546" ZMax="-3096"/>
+	  <stat hp="158250" pdef="644" mdef="518" unlockable="false" isOpen="false" />
+	</door>
+	<door id="22220011" name="giran_clanhall_002">
+	  <position x="83618" y="145382" z="-3360"/>
+	  <range XMin="83614" XMax="83623" YMin="145330"  YMax="145383" ZMin="-3417" ZMax="-2967"/>
+	  <stat hp="158250" pdef="644" mdef="518" unlockable="false" isOpen="false" />
+	</door>
+	<door id="22220012" name="giran_clanhall_001">
+	  <position x="83618" y="145382" z="-3360"/>
+	  <range XMin="83614" XMax="83622" YMin="145280"  YMax="145332" ZMin="-3417" ZMax="-2967"/>
+	  <stat hp="158250" pdef="644" mdef="518" unlockable="false" isOpen="false" />
+	</door>
+	<door id="22250001" name="goe_001">
+	  <position x="86226" y="247063" z="-8584"/>
+	  <range XMin="86085" XMax="86364" YMin="246961"  YMax="247162" ZMin="-8845" ZMax="-8333"/>
+	  <stat hp="187500" pdef="476" mdef="383" unlockable="false" isOpen="false" />
+	</door>
+	<door id="22250002" name="goe_002">
+	  <position x="88491" y="253871" z="-8584"/>
+	  <range XMin="88436" XMax="88546" YMin="253707"  YMax="254031" ZMin="-8845" ZMax="-8333"/>
+	  <stat hp="187500" pdef="476" mdef="383" unlockable="false" isOpen="false" />
+	</door>
+	<door id="22250003" name="goe_003">
+	  <position x="76873" y="253954" z="-8584"/>
+	  <range XMin="76816" XMax="76928" YMin="253788"  YMax="254118" ZMin="-8856" ZMax="-8344"/>
+	  <stat hp="187500" pdef="476" mdef="383" unlockable="false" isOpen="false" />
+	</door>
+	<door id="22250004" name="goe_004">
+	  <position x="79033" y="247128" z="-8584"/>
+	  <range XMin="78897" XMax="79164" YMin="247031"  YMax="247228" ZMin="-8838" ZMax="-8326"/>
+	  <stat hp="187500" pdef="476" mdef="383" unlockable="false" isOpen="false" />
+	</door>
+	<door id="22250005" name="goe_005">
+	  <position x="82738" y="246603" z="-9093"/>
+	  <range XMin="82574" XMax="82901" YMin="246603"  YMax="246603" ZMin="-9359" ZMax="-8847"/>
+	  <stat hp="187500" pdef="476" mdef="383" unlockable="false" isOpen="false" />
+	</door>
+	<door id="22250006" name="goe_006">
+	  <position x="87902" y="250378" z="-9093"/>
+	  <range XMin="87845" XMax="87963" YMin="250218"  YMax="250540" ZMin="-9361" ZMax="-8849"/>
+	  <stat hp="187500" pdef="476" mdef="383" unlockable="false" isOpen="false" />
+	</door>
+	<door id="22250007" name="goe_007">
+	  <position x="85914" y="256377" z="-9093"/>
+	  <range XMin="85778" XMax="86047" YMin="256278"  YMax="256477" ZMin="-9352" ZMax="-8840"/>
+	  <stat hp="187500" pdef="476" mdef="383" unlockable="false" isOpen="false" />
+	</door>
+	<door id="22250008" name="goe_008">
+	  <position x="79561" y="256348" z="-9093"/>
+	  <range XMin="79427" XMax="79699" YMin="256253"  YMax="256447" ZMin="-9348" ZMax="-8836"/>
+	  <stat hp="187500" pdef="476" mdef="383" unlockable="false" isOpen="false" />
+	</door>
+	<door id="22250009" name="goe_009">
+	  <position x="77616" y="250361" z="-9093"/>
+	  <range XMin="77560" XMax="77671" YMin="250195"  YMax="250525" ZMin="-9360" ZMax="-8848"/>
+	  <stat hp="187500" pdef="476" mdef="383" unlockable="false" isOpen="false" />
+	</door>
+	<door id="22250010" name="goe_010">
+	  <position x="80102" y="248387" z="-9611"/>
+	  <range XMin="79968" XMax="80233" YMin="248290"  YMax="248485" ZMin="-9883" ZMax="-9371"/>
+	  <stat hp="187500" pdef="476" mdef="383" unlockable="false" isOpen="false" />
+	</door>
+	<door id="22250011" name="goe_011">
+	  <position x="85343" y="248344" z="-9611"/>
+	  <range XMin="85204" XMax="85481" YMin="248243"  YMax="248443" ZMin="-9869" ZMax="-9357"/>
+	  <stat hp="187500" pdef="476" mdef="383" unlockable="false" isOpen="false" />
+	</door>
+	<door id="22250012" name="goe_012">
+	  <position x="87018" y="253389" z="-9611"/>
+	  <range XMin="86965" XMax="87076" YMin="253223"  YMax="253544" ZMin="-9875" ZMax="-9363"/>
+	  <stat hp="187500" pdef="476" mdef="383" unlockable="false" isOpen="false" />
+	</door>
+	<door id="22250013" name="goe_013">
+	  <position x="82768" y="256485" z="-9611"/>
+	  <range XMin="82603" XMax="82932" YMin="256484"  YMax="256486" ZMin="-9873" ZMax="-9361"/>
+	  <stat hp="187500" pdef="476" mdef="383" unlockable="false" isOpen="false" />
+	</door>
+	<door id="22250014" name="goe_014">
+	  <position x="78490" y="253391" z="-9611"/>
+	  <range XMin="78435" XMax="78548" YMin="253230"  YMax="253551" ZMin="-9884" ZMax="-9372"/>
+	  <stat hp="187500" pdef="476" mdef="383" unlockable="false" isOpen="false" />
+	</door>
+	<door id="22250015" name="goe_015">
+	  <position x="79253" y="253097" z="-10118"/>
+	  <range XMin="79196" XMax="79308" YMin="252936"  YMax="253256" ZMin="-10386" ZMax="-9874"/>
+	  <stat hp="187500" pdef="476" mdef="383" unlockable="false" isOpen="false" />
+	</door>
+	<door id="22250016" name="goe_016">
+	  <position x="79276" y="250856" z="-10118"/>
+	  <range XMin="79220" XMax="79328" YMin="250697"  YMax="251017" ZMin="-10386" ZMax="-9874"/>
+	  <stat hp="187500" pdef="476" mdef="383" unlockable="false" isOpen="false" />
+	</door>
+	<door id="22250017" name="goe_017">
+	  <position x="80601" y="249046" z="-10118"/>
+	  <range XMin="80464" XMax="80735" YMin="248949"  YMax="249143" ZMin="-10370" ZMax="-9858"/>
+	  <stat hp="187500" pdef="476" mdef="383" unlockable="false" isOpen="false" />
+	</door>
+	<door id="22250018" name="goe_018">
+	  <position x="82836" y="248341" z="-10118"/>
+	  <range XMin="82672" XMax="82999" YMin="248340"  YMax="248341" ZMin="-10391" ZMax="-9879"/>
+	  <stat hp="187500" pdef="476" mdef="383" unlockable="false" isOpen="false" />
+	</door>
+	<door id="22250019" name="goe_019">
+	  <position x="84906" y="249034" z="-10116"/>
+	  <range XMin="84761" XMax="85050" YMin="248927"  YMax="249141" ZMin="-10379" ZMax="-9867"/>
+	  <stat hp="187500" pdef="476" mdef="383" unlockable="false" isOpen="false" />
+	</door>
+	<door id="22250020" name="goe_020">
+	  <position x="86247" y="250888" z="-10118"/>
+	  <range XMin="86186" XMax="86307" YMin="250724"  YMax="251048" ZMin="-10368" ZMax="-9856"/>
+	  <stat hp="187500" pdef="476" mdef="383" unlockable="false" isOpen="false" />
+	</door>
+	<door id="22250021" name="goe_021">
+	  <position x="86213" y="253197" z="-10118"/>
+	  <range XMin="86157" XMax="86268" YMin="253034"  YMax="253360" ZMin="-10380" ZMax="-9868"/>
+	  <stat hp="187500" pdef="476" mdef="383" unlockable="false" isOpen="false" />
+	</door>
+	<door id="22250022" name="goe_022">
+	  <position x="84889" y="254973" z="-10118"/>
+	  <range XMin="84750" XMax="85027" YMin="254873"  YMax="255073" ZMin="-10376" ZMax="-9864"/>
+	  <stat hp="187500" pdef="476" mdef="383" unlockable="false" isOpen="false" />
+	</door>
+	<door id="22250023" name="goe_023">
+	  <position x="82726" y="255659" z="-10118"/>
+	  <range XMin="82560" XMax="82892" YMin="255658"  YMax="255660" ZMin="-10387" ZMax="-9875"/>
+	  <stat hp="187500" pdef="476" mdef="383" unlockable="false" isOpen="false" />
+	</door>
+	<door id="22250024" name="goe_024">
+	  <position x="80590" y="254950" z="-10118"/>
+	  <range XMin="80454" XMax="80727" YMin="254851"  YMax="255050" ZMin="-10372" ZMax="-9860"/>
+	  <stat hp="187500" pdef="476" mdef="383" unlockable="false" isOpen="false" />
+	</door>
+	<door id="22250025" name="goe_025">
+	  <position x="81959" y="255493" z="-10734"/>
+	  <range XMin="81657" XMax="82264" YMin="255478"  YMax="255508" ZMin="-10888" ZMax="-10376"/>
+	  <stat hp="187500" pdef="476" mdef="383" unlockable="true" isOpen="false" />
+	</door>
+	<door id="22250026" name="goe_026">
+	  <position x="83496" y="255494" z="-10734"/>
+	  <range XMin="83194" XMax="83795" YMin="255479"  YMax="255511" ZMin="-10891" ZMax="-10379"/>
+	  <stat hp="187500" pdef="476" mdef="383" unlockable="true" isOpen="false" />
+	</door>
+	<door id="22250027" name="goe_027">
+	  <position x="83549" y="248505" z="-10734"/>
+	  <range XMin="83247" XMax="83848" YMin="248490"  YMax="248523" ZMin="-10886" ZMax="-10374"/>
+	  <stat hp="187500" pdef="476" mdef="383" unlockable="true" isOpen="false" />
+	</door>
+	<door id="22250028" name="goe_028">
+	  <position x="82012" y="248506" z="-10734"/>
+	  <range XMin="81713" XMax="82312" YMin="248490"  YMax="248521" ZMin="-10888" ZMax="-10376"/>
+	  <stat hp="187500" pdef="476" mdef="383" unlockable="true" isOpen="false" />
+	</door>
+	<door id="22250029" name="goe_029">
+	  <position x="82560" y="254715" z="-10880"/>
+	  <range XMin="82395" XMax="82727" YMin="254712"  YMax="254719" ZMin="-11183" ZMax="-10577"/>
+	  <stat hp="187500" pdef="476" mdef="383" unlockable="true" isOpen="false" />
+	</door>
+	<door id="23140001" name="Ice_Wall001">
+	  <position x="115272" y="-125752" z="-3458"/>
+	  <range XMin="113857" XMax="114018" YMin="-126163"  YMax="-125900" ZMin="-3665" ZMax="-3283"/>
+	  <stat hp="158250" pdef="644" mdef="518" unlockable="false" isOpen="false" />
+	</door>
+	<door id="23140002" name="Ice_Wall002">
+	  <position x="113934" y="-126025" z="-3457"/>
+	  <range XMin="115218" XMax="115377" YMin="-125871"  YMax="-125612" ZMin="-3664" ZMax="-3282"/>
+	  <stat hp="158250" pdef="644" mdef="518" unlockable="false" isOpen="false" />
+	</door>
+	<door id="23150001" name="Secret_Door001">
+	  <position x="110714" y="-81562" z="-1589"/>
+	  <range XMin="110610" XMax="110826" YMin="-81591"  YMax="-81545" ZMin="-1618" ZMax="-1454"/>
+	  <stat hp="158250" pdef="644" mdef="518" unlockable="true" isOpen="false" />
+	</door>
+	<door id="23150002" name="Secret_Door002">
+	  <position x="114877" y="-71466" z="-549"/>
+	  <range XMin="114782" XMax="114981" YMin="-71474"  YMax="-71425" ZMin="-578" ZMax="-414"/>
+	  <stat hp="158250" pdef="644" mdef="518" unlockable="true" isOpen="false" />
+	</door>
+	<door id="23150003" name="Gate_of_Splendor001">
+	  <position x="112690" y="-78084" z="59"/>
+	  <range XMin="112641" XMax="112816" YMin="-78096"  YMax="-78064" ZMin="22" ZMax="638"/>
+	  <stat hp="158250" pdef="644" mdef="518" unlockable="false" isOpen="false" />
+	</door>
+	<door id="23150004" name="Gate_of_Splendor002">
+	  <position x="112910" y="-78084" z="59"/>
+	  <range XMin="112782" XMax="112958" YMin="-78096"  YMax="-78064" ZMin="22" ZMax="638"/>
+	  <stat hp="158250" pdef="644" mdef="518" unlockable="false" isOpen="false" />
+	</door>
+	<door id="23180001" name="aden_tower_of_hubris">
+	  <position x="113876" y="16953" z="-1979"/>
+	  <range XMin="113814" XMax="113937" YMin="16890"  YMax="17013" ZMin="-2156" ZMax="-1801"/>
+	  <stat hp="187500" pdef="476" mdef="383" unlockable="false" isOpen="false" />
+	</door>
+	<door id="23180002" name="aden_tower_of_hubris">
+	  <position x="113771" y="16849" z="-1979"/>
+	  <range XMin="113710" XMax="113833" YMin="16788"  YMax="16910" ZMin="-2156" ZMax="-1801"/>
+	  <stat hp="187500" pdef="476" mdef="383" unlockable="false" isOpen="false" />
+	</door>
+	<door id="23180003" name="aden_tower_of_hubris">
+	  <position x="113252" y="15914" z="4115"/>
+	  <range XMin="113178" XMax="113326" YMin="15874"  YMax="15954" ZMin="3937" ZMax="4292"/>
+	  <stat hp="187500" pdef="476" mdef="383" unlockable="false" isOpen="false" />
+	</door>
+	<door id="23180004" name="aden_tower_of_hubris">
+	  <position x="113117" y="15970" z="4115"/>
+	  <range XMin="113043" XMax="113191" YMin="15930"  YMax="16010" ZMin="3938" ZMax="4293"/>
+	  <stat hp="187500" pdef="476" mdef="383" unlockable="false" isOpen="false" />
+	</door>
+	<door id="23180005" name="aden_tower_of_hubris">
+	  <position x="113263" y="15764" z="7145"/>
+	  <range XMin="113201" XMax="113325" YMin="15703"  YMax="15826" ZMin="6968" ZMax="7323"/>
+	  <stat hp="187500" pdef="476" mdef="383" unlockable="false" isOpen="false" />
+	</door>
+	<door id="23180006" name="aden_tower_of_hubris">
+	  <position x="113367" y="15868" z="7145"/>
+	  <range XMin="113305" XMax="113429" YMin="15806"  YMax="15930" ZMin="6968" ZMax="7323"/>
+	  <stat hp="187500" pdef="476" mdef="383" unlockable="false" isOpen="false" />
+	</door>
+	<door id="24140001" name="godad_ElmoreDoor_001">
+	  <position x="140728" y="-124477" z="-1894"/>
+	  <range XMin="140725" XMax="140754" YMin="-124478"  YMax="-124437" ZMin="-1913" ZMax="-1463"/>
+	  <stat hp="158250" pdef="644" mdef="518" unlockable="false" isOpen="false" />
+	</door>
+	<door id="24140002" name="godad_ElmoreDoor_002">
+	  <position x="140778" y="-124402" z="-1894"/>
+	  <range XMin="140750" XMax="140779" YMin="-124440"  YMax="-124399" ZMin="-1923" ZMax="-1473"/>
+	  <stat hp="158250" pdef="644" mdef="518" unlockable="false" isOpen="false" />
+	</door>
+	<door id="24140003" name="godad_ElmoreDoor_003">
+	  <position x="141149" y="-124310" z="-1894"/>
+	  <range XMin="141146" XMax="141187" YMin="-124336"  YMax="-124306" ZMin="-1921" ZMax="-1471"/>
+	  <stat hp="158250" pdef="644" mdef="518" unlockable="false" isOpen="false" />
+	</door>
+	<door id="24140004" name="godad_ElmoreDoor_004">
+	  <position x="141224" y="-124360" z="-1894"/>
+	  <range XMin="141184" XMax="141225" YMin="-124361"  YMax="-124332" ZMin="-1920" ZMax="-1470"/>
+	  <stat hp="158250" pdef="644" mdef="518" unlockable="false" isOpen="false" />
+	</door>
+	<door id="24140005" name="godad_ElmoreDoor_005">
+	  <position x="141281" y="-124738" z="-1894"/>
+	  <range XMin="141253" XMax="141282" YMin="-124777"  YMax="-124735" ZMin="-1949" ZMax="-1499"/>
+	  <stat hp="158250" pdef="644" mdef="518" unlockable="false" isOpen="false" />
+	</door>
+	<door id="24140006" name="godad_ElmoreDoor_006">
+	  <position x="141231" y="-124813" z="-1894"/>
+	  <range XMin="141228" XMax="141258" YMin="-124814"  YMax="-124772" ZMin="-1947" ZMax="-1497"/>
+	  <stat hp="158250" pdef="644" mdef="518" unlockable="false" isOpen="false" />
+	</door>
+	<door id="24140007" name="godad_ElmoreDoor_007">
+	  <position x="140702" y="-123836" z="-1932"/>
+	  <range XMin="140700" XMax="140715" YMin="-123886"  YMax="-123835" ZMin="-1942" ZMax="-1492"/>
+	  <stat hp="158250" pdef="644" mdef="518" unlockable="false" isOpen="false" />
+	</door>
+	<door id="24140008" name="godad_ElmoreDoor_008">
+	  <position x="140722" y="-123934" z="-1932"/>
+	  <range XMin="140709" XMax="140723" YMin="-123935"  YMax="-123884" ZMin="-1941" ZMax="-1491"/>
+	  <stat hp="158250" pdef="644" mdef="518" unlockable="false" isOpen="false" />
+	</door>
+	<door id="24160001" name="goddard_clanhall_001">
+	  <position x="146438" y="-55458" z="-2792"/>
+	  <range XMin="146432" XMax="146450" YMin="-55506"  YMax="-55453" ZMin="-2821" ZMax="-2371"/>
+	  <stat hp="158250" pdef="644" mdef="518" unlockable="false" isOpen="false" />
+	</door>
+	<door id="24160002" name="goddard_clanhall_002">
+	  <position x="146449" y="-55547" z="-2792"/>
+	  <range XMin="146437" XMax="146455" YMin="-55552"  YMax="-55497" ZMin="-2819" ZMax="-2369"/>
+	  <stat hp="158250" pdef="644" mdef="518" unlockable="false" isOpen="false" />
+	</door>
+	<door id="24160003" name="goddard_clanhall_003">
+	  <position x="147071" y="-56472" z="-2792"/>
+	  <range XMin="147065" XMax="147117" YMin="-56500"  YMax="-56465" ZMin="-2815" ZMax="-2365"/>
+	  <stat hp="158250" pdef="644" mdef="518" unlockable="false" isOpen="false" />
+	</door>
+	<door id="24160004" name="goddard_clanhall_004">
+	  <position x="147151" y="-56514" z="-2792"/>
+	  <range XMin="147105" XMax="147158" YMin="-56522"  YMax="-56486" ZMin="-2818" ZMax="-2368"/>
+	  <stat hp="158250" pdef="644" mdef="518" unlockable="false" isOpen="false" />
+	</door>
+	<door id="24160005" name="goddard_clanhall_005">
+	  <position x="148262" y="-56520" z="-2792"/>
+	  <range XMin="148255" XMax="148310" YMin="-56529"  YMax="-56490" ZMin="-2823" ZMax="-2373"/>
+	  <stat hp="158250" pdef="644" mdef="518" unlockable="false" isOpen="false" />
+	</door>
+	<door id="24160006" name="goddard_clanhall_006">
+	  <position x="148342" y="-56478" z="-2792"/>
+	  <range XMin="148296" XMax="148348" YMin="-56508"  YMax="-56470" ZMin="-2824" ZMax="-2374"/>
+	  <stat hp="158250" pdef="644" mdef="518" unlockable="false" isOpen="false" />
+	</door>
+	<door id="24160007" name="goddard_clanhall_007">
+	  <position x="148971" y="-55557" z="-2792"/>
+	  <range XMin="148965" XMax="148982" YMin="-55561"  YMax="-55509" ZMin="-2812" ZMax="-2362"/>
+	  <stat hp="158250" pdef="644" mdef="518" unlockable="false" isOpen="false" />
+	</door>
+	<door id="24160008" name="goddard_clanhall_008">
+	  <position x="148982" y="-55468" z="-2792"/>
+	  <range XMin="148970" XMax="148988" YMin="-55520"  YMax="-55464" ZMin="-2821" ZMax="-2371"/>
+	  <stat hp="158250" pdef="644" mdef="518" unlockable="false" isOpen="false" />
+	</door>
+	<door id="24180022" name="aden_clanhall_001">
+	  <position x="145358" y="25385" z="-2090"/>
+	  <range XMin="145356" XMax="145360" YMin="25343"  YMax="25385" ZMin="-2142" ZMax="-1692"/>
+	  <stat hp="158250" pdef="644" mdef="518" unlockable="false" isOpen="false" />
+	</door>
+	<door id="24180023" name="aden_clanhall_002">
+	  <position x="145358" y="25304" z="-2090"/>
+	  <range XMin="145356" XMax="145360" YMin="25304"  YMax="25345" ZMin="-2142" ZMax="-1692"/>
+	  <stat hp="158250" pdef="644" mdef="518" unlockable="false" isOpen="false" />
+	</door>
+	<door id="24180024" name="aden_clanhall_003">
+	  <position x="149438" y="23177" z="-2101"/>
+	  <range XMin="149437" XMax="149439" YMin="23135"  YMax="23176" ZMin="-2152" ZMax="-1702"/>
+	  <stat hp="158250" pdef="644" mdef="518" unlockable="false" isOpen="false" />
+	</door>
+	<door id="24180025" name="aden_clanhall_004">
+	  <position x="149438" y="23095" z="-2101"/>
+	  <range XMin="149437" XMax="149439" YMin="23095"  YMax="23136" ZMin="-2152" ZMax="-1702"/>
+	  <stat hp="158250" pdef="644" mdef="518" unlockable="false" isOpen="false" />
+	</door>
+	<door id="24180026" name="aden_clanhall_005">
+	  <position x="150299" y="23695" z="-2090"/>
+	  <range XMin="150297" XMax="150301" YMin="23653"  YMax="23695" ZMin="-2141" ZMax="-1691"/>
+	  <stat hp="158250" pdef="644" mdef="518" unlockable="false" isOpen="false" />
+	</door>
+	<door id="24180027" name="aden_clanhall_006">
+	  <position x="150299" y="23614" z="-2090"/>
+	  <range XMin="150297" XMax="150301" YMin="23614"  YMax="23656" ZMin="-2141" ZMax="-1691"/>
+	  <stat hp="158250" pdef="644" mdef="518" unlockable="false" isOpen="false" />
+	</door>
+	<door id="24180028" name="aden_clanhall_007">
+	  <position x="150444" y="26584" z="-2226"/>
+	  <range XMin="150443" XMax="150446" YMin="26542"  YMax="26583" ZMin="-2278" ZMax="-1828"/>
+	  <stat hp="158250" pdef="644" mdef="518" unlockable="false" isOpen="false" />
+	</door>
+	<door id="24180029" name="aden_clanhall_008">
+	  <position x="150444" y="26502" z="-2226"/>
+	  <range XMin="150443" XMax="150445" YMin="26502"  YMax="26543" ZMin="-2278" ZMax="-1828"/>
+	  <stat hp="158250" pdef="644" mdef="518" unlockable="false" isOpen="false" />
+	</door>
+	<door id="24180030" name="aden_clanhall_009">
+	  <position x="144359" y="28239" z="-2218"/>
+	  <range XMin="144357" XMax="144359" YMin="28197"  YMax="28238" ZMin="-2270" ZMax="-1820"/>
+	  <stat hp="158250" pdef="644" mdef="518" unlockable="false" isOpen="false" />
+	</door>
+	<door id="24180031" name="aden_clanhall_010">
+	  <position x="144359" y="28158" z="-2218"/>
+	  <range XMin="144357" XMax="144359" YMin="28157"  YMax="28198" ZMin="-2270" ZMax="-1820"/>
+	  <stat hp="158250" pdef="644" mdef="518" unlockable="false" isOpen="false" />
+	</door>
+	<door id="24180032" name="aden_clanhall_011">
+	  <position x="144294" y="27131" z="-2228"/>
+	  <range XMin="144293" XMax="144295" YMin="27089"  YMax="27130" ZMin="-2280" ZMax="-1830"/>
+	  <stat hp="158250" pdef="644" mdef="518" unlockable="false" isOpen="false" />
+	</door>
+	<door id="24180033" name="aden_clanhall_012">
+	  <position x="144294" y="27049" z="-2228"/>
+	  <range XMin="144293" XMax="144295" YMin="27049"  YMax="27090" ZMin="-2280" ZMax="-1830"/>
+	  <stat hp="158250" pdef="644" mdef="518" unlockable="false" isOpen="false" />
+	</door>
+	<door id="24190001" name="aden_colosseum_outer_001">
+	  <position x="147086" y="46721" z="-3289"/>
+	  <range XMin="147075" XMax="147099" YMin="46641"  YMax="46800" ZMin="-3434" ZMax="-3178"/>
+	  <stat hp="687500" pdef="644" mdef="518" unlockable="false" isOpen="true" />
+	</door>
+	<door id="24190002" name="aden_colosseum_inner_001">
+	  <position x="148045" y="46721" z="-3289"/>
+	  <range XMin="148034" XMax="148057" YMin="46642"  YMax="46800" ZMin="-3435" ZMax="-3179"/>
+	  <stat hp="687500" pdef="644" mdef="518" unlockable="false" isOpen="true" />
+	</door>
+	<door id="24190003" name="aden_colosseum_inner_002">
+	  <position x="150951" y="46721" z="-3289"/>
+	  <range XMin="150939" XMax="150961" YMin="46640"  YMax="46797" ZMin="-3435" ZMax="-3179"/>
+	  <stat hp="687500" pdef="644" mdef="518" unlockable="false" isOpen="true" />
+	</door>
+	<door id="24190004" name="aden_colosseum_outer_002">
+	  <position x="151911" y="46721" z="-3289"/>
+	  <range XMin="151903" XMax="151918" YMin="46644"  YMax="46798" ZMin="-3435" ZMax="-3179"/>
+	  <stat hp="687500" pdef="644" mdef="518" unlockable="false" isOpen="true" />
+	</door>
+	<door id="24210004" name="godad_DCDoor_001">
+	  <position x="190918" y="-115529" z="-1529"/>
+	  <range XMin="190891" XMax="190944" YMin="-115626"  YMax="-115430" ZMin="-1619" ZMax="-1363"/>
+	  <stat hp="158250" pdef="644" mdef="518" unlockable="false" isOpen="false" />
+	</door>
+	<door id="24210005" name="godad_DCDoor1F_002a">
+	  <position x="189480" y="-108511" z="-964"/>
+	  <range XMin="189380" XMax="189579" YMin="-108551"  YMax="-108473" ZMin="-1056" ZMax="-800"/>
+	  <stat hp="158250" pdef="644" mdef="518" unlockable="false" isOpen="false" />
+	</door>
+	<door id="24210006" name="godad_DCDoor2F_003a">
+	  <position x="191458" y="-108107" z="-962"/>
+	  <range XMin="191357" XMax="191557" YMin="-108153"  YMax="-108058" ZMin="-1058" ZMax="-802"/>
+	  <stat hp="158250" pdef="644" mdef="518" unlockable="false" isOpen="false" />
+	</door>
+	<door id="25150001" name="ent_ruler">
+	  <position x="179516" y="-88988" z="-7068"/>
+	  <range XMin="179440" XMax="179712" YMin="-89155"  YMax="-88805" ZMin="-7253" ZMax="-6997"/>
+	  <stat hp="158250" pdef="644" mdef="518" unlockable="false" isOpen="false" />
+	</door>
+	<door id="25150002" name="vs_hall_2">
+	  <position x="181251" y="-88979" z="-7069"/>
+	  <range XMin="181240" XMax="181304" YMin="-89155"  YMax="-88804" ZMin="-7254" ZMax="-6998"/>
+	  <stat hp="158250" pdef="644" mdef="518" unlockable="false" isOpen="false" />
+	</door>
+	<door id="25150003" name="ct_ahll_2">
+	  <position x="183055" y="-88979" z="-7065"/>
+	  <range XMin="183038" XMax="183120" YMin="-89166"  YMax="-88796" ZMin="-7261" ZMax="-7005"/>
+	  <stat hp="158250" pdef="644" mdef="518" unlockable="false" isOpen="false" />
+	</door>
+	<door id="25150004" name="mr_hall_2">
+	  <position x="184881" y="-88969" z="-7068"/>
+	  <range XMin="184871" XMax="184946" YMin="-89148"  YMax="-88790" ZMin="-7243" ZMax="-6987"/>
+	  <stat hp="158250" pdef="644" mdef="518" unlockable="false" isOpen="false" />
+	</door>
+	<door id="25150005" name="dk_hall_2">
+	  <position x="186685" y="-88965" z="-7064"/>
+	  <range XMin="186678" XMax="186742" YMin="-89151"  YMax="-88788" ZMin="-7261" ZMax="-7005"/>
+	  <stat hp="158250" pdef="644" mdef="518" unlockable="false" isOpen="false" />
+	</door>
+	<door id="25150006" name="em_grav_2">
+	  <position x="188474" y="-88968" z="-7066"/>
+	  <range XMin="188463" XMax="188527" YMin="-89147"  YMax="-88793" ZMin="-7261" ZMax="-7005"/>
+	  <stat hp="158250" pdef="644" mdef="518" unlockable="false" isOpen="false" />
+	</door>
+	<door id="25150011" name="conq_mos">
+	  <position x="181195" y="-85594" z="-7064"/>
+	  <range XMin="181184" XMax="181256" YMin="-85775"  YMax="-85412" ZMin="-7261" ZMax="-7005"/>
+	  <stat hp="158250" pdef="644" mdef="518" unlockable="false" isOpen="false" />
+	</door>
+	<door id="25150012" name="visc_hall_gate">
+	  <position x="182981" y="-85580" z="-7067"/>
+	  <range XMin="182970" XMax="183045" YMin="-85759"  YMax="-85399" ZMin="-7259" ZMax="-7003"/>
+	  <stat hp="158250" pdef="644" mdef="518" unlockable="false" isOpen="false" />
+	</door>
+	<door id="25150013" name="count_hall_gate">
+	  <position x="184798" y="-85582" z="-7064"/>
+	  <range XMin="184787" XMax="184857" YMin="-85759"  YMax="-85401" ZMin="-7259" ZMax="-7003"/>
+	  <stat hp="158250" pdef="644" mdef="518" unlockable="false" isOpen="false" />
+	</door>
+	<door id="25150014" name="marquis_hall_gate">
+	  <position x="186575" y="-85576" z="-7066"/>
+	  <range XMin="186560" XMax="186643" YMin="-85758"  YMax="-85390" ZMin="-7265" ZMax="-7009"/>
+	  <stat hp="158250" pdef="644" mdef="518" unlockable="false" isOpen="false" />
+	</door>
+	<door id="25150015" name="duke_hall_gate">
+	  <position x="188361" y="-85576" z="-7066"/>
+	  <range XMin="188344" XMax="188426" YMin="-85772"  YMax="-85383" ZMin="-7259" ZMax="-7003"/>
+	  <stat hp="158250" pdef="644" mdef="518" unlockable="false" isOpen="false" />
+	</door>
+	<door id="25150016" name="imp_grave_gate">
+	  <position x="190191" y="-85576" z="-7064"/>
+	  <range XMin="190151" XMax="190232" YMin="-85760"  YMax="-85393" ZMin="-7265" ZMax="-7009"/>
+	  <stat hp="158250" pdef="644" mdef="518" unlockable="false" isOpen="false" />
+	</door>
+	<door id="25150021" name="ent_judge">
+	  <position x="175610" y="-82701" z="-7057"/>
+	  <range XMin="175429" XMax="175790" YMin="-82761"  YMax="-82691" ZMin="-7251" ZMax="-6995"/>
+	  <stat hp="158250" pdef="644" mdef="518" unlockable="false" isOpen="false" />
+	</door>
+	<door id="25150022" name="vs_hall_4">
+	  <position x="175606" y="-80956" z="-7075"/>
+	  <range XMin="175421" XMax="175805" YMin="-81024"  YMax="-80937" ZMin="-7260" ZMax="-7004"/>
+	  <stat hp="158250" pdef="644" mdef="518" unlockable="false" isOpen="false" />
+	</door>
+	<door id="25150023" name="ct_ahll_4">
+	  <position x="175602" y="-79162" z="-7071"/>
+	  <range XMin="175426" XMax="175777" YMin="-79217"  YMax="-79155" ZMin="-7259" ZMax="-7003"/>
+	  <stat hp="158250" pdef="644" mdef="518" unlockable="false" isOpen="false" />
+	</door>
+	<door id="25150024" name="mr_hall_4">
+	  <position x="175602" y="-77330" z="-7074"/>
+	  <range XMin="175425" XMax="175778" YMin="-77387"  YMax="-77319" ZMin="-7265" ZMax="-7009"/>
+	  <stat hp="158250" pdef="644" mdef="518" unlockable="false" isOpen="false" />
+	</door>
+	<door id="25150025" name="dk_hall_4">
+	  <position x="175597" y="-75538" z="-7061"/>
+	  <range XMin="175415" XMax="175777" YMin="-75595"  YMax="-75529" ZMin="-7258" ZMax="-7002"/>
+	  <stat hp="158250" pdef="644" mdef="518" unlockable="false" isOpen="false" />
+	</door>
+	<door id="25150026" name="em_grav_4">
+	  <position x="175592" y="-73721" z="-7063"/>
+	  <range XMin="175401" XMax="175767" YMin="-73781"  YMax="-73712" ZMin="-7257" ZMax="-7001"/>
+	  <stat hp="158250" pdef="644" mdef="518" unlockable="false" isOpen="false" />
+	</door>
+	<door id="25150031" name="ent_grtsage">
+	  <position x="173218" y="-86614" z="-7076"/>
+	  <range XMin="173033" XMax="173400" YMin="-86673"  YMax="-86604" ZMin="-7268" ZMax="-7012"/>
+	  <stat hp="158250" pdef="644" mdef="518" unlockable="false" isOpen="false" />
+	</door>
+	<door id="25150032" name="vs_hall_3">
+	  <position x="173218" y="-84780" z="-7072"/>
+	  <range XMin="173032" XMax="173404" YMin="-84846"  YMax="-84768" ZMin="-7268" ZMax="-7012"/>
+	  <stat hp="158250" pdef="644" mdef="518" unlockable="false" isOpen="false" />
+	</door>
+	<door id="25150033" name="ct_ahll_3">
+	  <position x="173214" y="-82974" z="-7072"/>
+	  <range XMin="173034" XMax="173388" YMin="-83033"  YMax="-82966" ZMin="-7259" ZMax="-7003"/>
+	  <stat hp="158250" pdef="644" mdef="518" unlockable="false" isOpen="false" />
+	</door>
+	<door id="25150034" name="mr_hall_3">
+	  <position x="173212" y="-81165" z="-7066"/>
+	  <range XMin="173034" XMax="173388" YMin="-81221"  YMax="-81152" ZMin="-7254" ZMax="-6998"/>
+	  <stat hp="158250" pdef="644" mdef="518" unlockable="false" isOpen="false" />
+	</door>
+	<door id="25150035" name="dk_hall_3">
+	  <position x="173208" y="-79393" z="-7061"/>
+	  <range XMin="173035" XMax="173391" YMin="-79450"  YMax="-79384" ZMin="-7253" ZMax="-6997"/>
+	  <stat hp="158250" pdef="644" mdef="518" unlockable="false" isOpen="false" />
+	</door>
+	<door id="25150036" name="em_grav_3">
+	  <position x="173198" y="-77563" z="-7063"/>
+	  <range XMin="173019" XMax="173369" YMin="-77621"  YMax="-77558" ZMin="-7253" ZMax="-6997"/>
+	  <stat hp="158250" pdef="644" mdef="518" unlockable="false" isOpen="false" />
+	</door>
+	<door id="25150042" name="Mausoleum_Gate002">
+	  <position x="174064" y="-77591" z="-4968"/>
+	  <range XMin="173885" XMax="174242" YMin="-77648"  YMax="-77585" ZMin="-5160" ZMax="-4776"/>
+	  <stat hp="158250" pdef="644" mdef="518" unlockable="false" isOpen="false" />
+	</door>
+	<door id="25150043" name="Mausoleum_Gate001">
+	  <position x="174063" y="-80203" z="-4968"/>
+	  <range XMin="173884" XMax="174241" YMin="-80260"  YMax="-80197" ZMin="-5160" ZMax="-4776"/>
+	  <stat hp="158250" pdef="644" mdef="518" unlockable="false" isOpen="false" />
+	</door>
+	<door id="25150045" name="Mausoleum_Gate001">
+	  <position x="174063" y="-83355" z="-4961"/>
+	  <range XMin="173884" XMax="174241" YMin="-83412"  YMax="-83349" ZMin="-5153" ZMax="-4769"/>
+	  <stat hp="158250" pdef="644" mdef="518" unlockable="false" isOpen="false" />
+	</door>
+	<door id="25150046" name="Mausoleum_Gate003">
+	  <position x="174237" y="-86037" z="-4923"/>
+	  <range XMin="173998" XMax="174475" YMin="-86081"  YMax="-85991" ZMin="-5153" ZMax="-4693"/>
+	  <stat hp="158250" pdef="644" mdef="518" unlockable="false" isOpen="false" />
+	</door>
+	<door id="25150051" name="Gate_of_Errors001">
+	  <position x="173133" y="-76024" z="-4884"/>
+	  <range XMin="173055" XMax="173219" YMin="-76456"  YMax="-75593" ZMin="-5166" ZMax="-4602"/>
+	  <stat hp="158250" pdef="644" mdef="518" unlockable="false" isOpen="false" />
+	</door>
+	<door id="25150052" name="Gate_of_Errors002">
+	  <position x="173402" y="-76721" z="-4884"/>
+	  <range XMin="173214" XMax="173616" YMin="-77040"  YMax="-76477" ZMin="-5166" ZMax="-4602"/>
+	  <stat hp="158250" pdef="644" mdef="518" unlockable="false" isOpen="false" />
+	</door>
+	<door id="25150053" name="Gate_of_Errors003">
+	  <position x="174100" y="-77007" z="-4884"/>
+	  <range XMin="173672" XMax="174532" YMin="-77063"  YMax="-76941" ZMin="-5166" ZMax="-4602"/>
+	  <stat hp="158250" pdef="644" mdef="518" unlockable="false" isOpen="false" />
+	</door>
+	<door id="25150054" name="Gate_of_Errors004">
+	  <position x="174792" y="-76730" z="-4884"/>
+	  <range XMin="174474" XMax="175130" YMin="-77073"  YMax="-76423" ZMin="-5166" ZMax="-4602"/>
+	  <stat hp="158250" pdef="644" mdef="518" unlockable="false" isOpen="false" />
+	</door>
+	<door id="25150055" name="Gate_of_Errors005">
+	  <position x="175076" y="-76037" z="-4884"/>
+	  <range XMin="175011" XMax="175135" YMin="-76464"  YMax="-75608" ZMin="-5166" ZMax="-4602"/>
+	  <stat hp="158250" pdef="644" mdef="518" unlockable="false" isOpen="false" />
+	</door>
+	<door id="25150056" name="Gate_of_Errors006">
+	  <position x="174805" y="-75336" z="-4884"/>
+	  <range XMin="174592" XMax="175021" YMin="-75558"  YMax="-75541" ZMin="-5166" ZMax="-4602"/>
+	  <stat hp="158250" pdef="644" mdef="518" unlockable="false" isOpen="false" />
+	</door>
+	<door id="25150057" name="Gate_of_Errors007">
+	  <position x="174108" y="-75056" z="-4884"/>
+	  <range XMin="173673" XMax="174548" YMin="-75126"  YMax="-74988" ZMin="-5166" ZMax="-4602"/>
+	  <stat hp="158250" pdef="644" mdef="518" unlockable="false" isOpen="false" />
+	</door>
+	<door id="25150058" name="Gate_of_Errors008">
+	  <position x="173416" y="-75326" z="-4884"/>
+	  <range XMin="173071" XMax="173737" YMin="-75649"  YMax="-74984" ZMin="-5166" ZMax="-4602"/>
+	  <stat hp="158250" pdef="644" mdef="518" unlockable="false" isOpen="false" />
+	</door>
+	<door id="25150061" name="Gate_of_Errors">
+	  <position x="174507" y="-83018" z="-4891"/>
+	  <range XMin="174447" XMax="174566" YMin="-83266"  YMax="-82752" ZMin="-5160" ZMax="-4622"/>
+	  <stat hp="158250" pdef="644" mdef="518" unlockable="false" isOpen="false" />
+	</door>
+	<door id="25150062" name="Gate_of_Errors">
+	  <position x="174631" y="-82513" z="-4891"/>
+	  <range XMin="174423" XMax="174845" YMin="-82819"  YMax="-82143" ZMin="-5157" ZMax="-4625"/>
+	  <stat hp="158250" pdef="644" mdef="518" unlockable="false" isOpen="false" />
+	</door>
+	<door id="25150063" name="Gate_of_Errors">
+	  <position x="174766" y="-81794" z="-4877"/>
+	  <range XMin="174701" XMax="174833" YMin="-82220"  YMax="-81379" ZMin="-5159" ZMax="-4595"/>
+	  <stat hp="158250" pdef="644" mdef="518" unlockable="false" isOpen="false" />
+	</door>
+	<door id="25150064" name="Gate_of_Errors">
+	  <position x="174641" y="-81073" z="-4891"/>
+	  <range XMin="174508" XMax="174695" YMin="-81269"  YMax="-80834" ZMin="-5158" ZMax="-4624"/>
+	  <stat hp="158250" pdef="644" mdef="518" unlockable="false" isOpen="false" />
+	</door>
+	<door id="25150065" name="Gate_of_Errors">
+	  <position x="174508" y="-80552" z="-4891"/>
+	  <range XMin="174450" XMax="174569" YMin="-80821"  YMax="-80304" ZMin="-5160" ZMax="-4622"/>
+	  <stat hp="158250" pdef="644" mdef="518" unlockable="false" isOpen="false" />
+	</door>
+	<door id="25150066" name="Gate_of_Errors">
+	  <position x="173635" y="-80552" z="-4891"/>
+	  <range XMin="173581" XMax="173691" YMin="-80807"  YMax="-80297" ZMin="-5160" ZMax="-4622"/>
+	  <stat hp="158250" pdef="644" mdef="518" unlockable="false" isOpen="false" />
+	</door>
+	<door id="25150067" name="Gate_of_Errors">
+	  <position x="173511" y="-81056" z="-4891"/>
+	  <range XMin="173319" XMax="173709" YMin="-81421"  YMax="-80766" ZMin="-5168" ZMax="-4614"/>
+	  <stat hp="158250" pdef="644" mdef="518" unlockable="false" isOpen="false" />
+	</door>
+	<door id="25150068" name="Gate_of_Errors">
+	  <position x="173376" y="-81776" z="-4877"/>
+	  <range XMin="173308" XMax="173449" YMin="-82196"  YMax="-81386" ZMin="-5161" ZMax="-4593"/>
+	  <stat hp="158250" pdef="644" mdef="518" unlockable="false" isOpen="false" />
+	</door>
+	<door id="25150069" name="Gate_of_Errors">
+	  <position x="173501" y="-82497" z="-4891"/>
+	  <range XMin="173442" XMax="173616" YMin="-82736"  YMax="-82179" ZMin="-5158" ZMax="-4624"/>
+	  <stat hp="158250" pdef="644" mdef="518" unlockable="false" isOpen="false" />
+	</door>
+	<door id="25150070" name="Gate_of_Errors">
+	  <position x="173634" y="-83018" z="-4891"/>
+	  <range XMin="173574" XMax="173692" YMin="-83268"  YMax="-82763" ZMin="-5160" ZMax="-4622"/>
+	  <stat hp="158250" pdef="644" mdef="518" unlockable="false" isOpen="false" />
+	</door>
+</list>

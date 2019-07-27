@@ -1,0 +1,415 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<list>
+  <accessorie id="9138" name="Santa's Hat"  >
+   <set icon="icon.accessory_santas_cap_i00"/>
+   <set bodyPart="HAIRALL" grade="NONE"/>
+   <set crystallizable="false" />
+   <set weight="10" />
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </accessorie>
+  <accessorie id="9145" name="Little Angel Wings (Event)"  >
+   <set icon="icon.accessory_hair_ring_i00"/>
+   <set bodyPart="HAIR" grade="NONE"/>
+   <set crystallizable="false" />
+   <set weight="10" />
+   <set sellable="false" tradeable="false" />
+   <set dropable="false" destroyable="true"/>
+  </accessorie>
+  <accessorie id="9158" name="Golden Circlet of Redemption"  >
+   <set icon="icon.Accessary_gold_circlet_i00"/>
+   <set bodyPart="HAIRALL" grade="NONE"/>
+   <set crystallizable="false" />
+   <set weight="10" />
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </accessorie>
+  <accessorie id="9159" name="Silver Circlet of Salvation"  >
+   <set icon="icon.Accessary_gold_circlet_i01"/>
+   <set bodyPart="HAIRALL" grade="NONE"/>
+   <set crystallizable="false" />
+   <set weight="10" />
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </accessorie>
+  <accessorie id="9160" name="Pig Wrangler's Cap"  >
+   <set icon="icon.Accessary_middle_ages_i00"/>
+   <set bodyPart="HAIRALL" grade="NONE"/>
+   <set crystallizable="false" />
+   <set weight="10" />
+   <set sellable="true" tradeable="true" />
+   <set dropable="true" destroyable="true"/>
+  </accessorie>
+  <accessorie id="9177" name="Shadow Item - Teddy Bear Hat - Resurrection"  >
+   <set icon="icon.accessory_bear_cap_i00"/>
+   <set bodyPart="HAIRALL" grade="NONE"/>
+   <set crystallizable="false" />
+   <set weight="10" />
+   <set mana="360"/>
+   <set sellable="false" tradeable="false" />
+   <set dropable="false" destroyable="true"/>
+
+   <skills>
+      <skill id="3160" level="5"/>
+    </skills>
+  </accessorie>
+  <accessorie id="9178" name="Shadow Item - Piggy Hat - Resurrection"  >
+   <set icon="icon.accessory_pig_cap_i00"/>
+   <set bodyPart="HAIRALL" grade="NONE"/>
+   <set crystallizable="false" />
+   <set weight="10" />
+   <set mana="360"/>
+   <set sellable="false" tradeable="false" />
+   <set dropable="false" destroyable="true"/>
+
+   <skills>
+      <skill id="3160" level="5"/>
+    </skills>
+  </accessorie>
+  <accessorie id="9179" name="Shadow Item - Jester Hat - Resurrection"  >
+   <set icon="icon.accessory_jester_cap_i00"/>
+   <set bodyPart="HAIRALL" grade="NONE"/>
+   <set crystallizable="false" />
+   <set weight="10" />
+   <set mana="360"/>
+   <set sellable="false" tradeable="false" />
+   <set dropable="false" destroyable="true"/>
+
+   <skills>
+      <skill id="3160" level="5"/>
+    </skills>
+  </accessorie>
+  <accessorie id="9180" name="Shadow Item - Wizard Hat - Resurrection"  >
+   <set icon="icon.accessory_magic_cap_i00"/>
+   <set bodyPart="HAIRALL" grade="NONE"/>
+   <set crystallizable="false" />
+   <set weight="10" />
+   <set mana="360"/>
+   <set sellable="false" tradeable="false" />
+   <set dropable="false" destroyable="true"/>
+
+   <skills>
+      <skill id="3160" level="5"/>
+    </skills>
+  </accessorie>
+  <accessorie id="9181" name="Shadow Item - Dapper Cap - Resurrection"  >
+   <set icon="icon.accessory_dandy_cap_i00"/>
+   <set bodyPart="HAIRALL" grade="NONE"/>
+   <set crystallizable="false" />
+   <set weight="10" />
+   <set mana="360"/>
+   <set sellable="false" tradeable="false" />
+   <set dropable="false" destroyable="true"/>
+
+   <skills>
+      <skill id="3160" level="5"/>
+    </skills>
+  </accessorie>
+  <accessorie id="9182" name="Shadow Item - Romantic Chapeau - Resurrection"  >
+   <set icon="icon.accessory_romantic_chaperon_i00"/>
+   <set bodyPart="HAIRALL" grade="NONE"/>
+   <set crystallizable="false" />
+   <set weight="10" />
+   <set mana="360"/>
+   <set sellable="false" tradeable="false" />
+   <set dropable="false" destroyable="true"/>
+
+   <skills>
+      <skill id="3160" level="5"/>
+    </skills>
+  </accessorie>
+  <accessorie id="9183" name="Shadow Item - Iron Circlet - Resurrection"  >
+   <set icon="icon.accessory_iron_circlet_i00"/>
+   <set bodyPart="HAIRALL" grade="NONE"/>
+   <set crystallizable="false" />
+   <set weight="10" />
+   <set mana="360"/>
+   <set sellable="false" tradeable="false" />
+   <set dropable="false" destroyable="true"/>
+
+   <skills>
+      <skill id="3160" level="5"/>
+    </skills>
+  </accessorie>
+  <accessorie id="9184" name="Shadow Item - Teddy Bear Hat - Escape"  >
+   <set icon="icon.accessory_bear_cap_i00"/>
+   <set bodyPart="HAIRALL" grade="NONE"/>
+   <set crystallizable="false" />
+   <set weight="10" />
+   <set mana="360"/>
+   <set sellable="false" tradeable="false" />
+   <set dropable="false" destroyable="true"/>
+
+   <skills>
+      <skill id="3146" level="1"/>
+    </skills>
+  </accessorie>
+  <accessorie id="9185" name="Shadow Item - Piggy Hat - Escape"  >
+   <set icon="icon.accessory_pig_cap_i00"/>
+   <set bodyPart="HAIRALL" grade="NONE"/>
+   <set crystallizable="false" />
+   <set weight="10" />
+   <set mana="360"/>
+   <set sellable="false" tradeable="false" />
+   <set dropable="false" destroyable="true"/>
+
+   <skills>
+      <skill id="3146" level="1"/>
+    </skills>
+  </accessorie>
+  <accessorie id="9186" name="Shadow Item - Jester Hat - Escape"  >
+   <set icon="icon.accessory_jester_cap_i00"/>
+   <set bodyPart="HAIRALL" grade="NONE"/>
+   <set crystallizable="false" />
+   <set weight="10" />
+   <set mana="360"/>
+   <set sellable="false" tradeable="false" />
+   <set dropable="false" destroyable="true"/>
+
+   <skills>
+      <skill id="3146" level="1"/>
+    </skills>
+  </accessorie>
+  <accessorie id="9187" name="Shadow Item - Wizard Hat - Escape"  >
+   <set icon="icon.accessory_magic_cap_i00"/>
+   <set bodyPart="HAIRALL" grade="NONE"/>
+   <set crystallizable="false" />
+   <set weight="10" />
+   <set mana="360"/>
+   <set sellable="false" tradeable="false" />
+   <set dropable="false" destroyable="true"/>
+
+   <skills>
+      <skill id="3146" level="1"/>
+    </skills>
+  </accessorie>
+  <accessorie id="9188" name="Shadow Item - Dapper Cap - Escape"  >
+   <set icon="icon.accessory_dandy_cap_i00"/>
+   <set bodyPart="HAIRALL" grade="NONE"/>
+   <set crystallizable="false" />
+   <set weight="10" />
+   <set mana="360"/>
+   <set sellable="false" tradeable="false" />
+   <set dropable="false" destroyable="true"/>
+
+   <skills>
+      <skill id="3146" level="1"/>
+    </skills>
+  </accessorie>
+  <accessorie id="9189" name="Shadow Item - Romantic Chapeau - Escape"  >
+   <set icon="icon.accessory_romantic_chaperon_i00"/>
+   <set bodyPart="HAIRALL" grade="NONE"/>
+   <set crystallizable="false" />
+   <set weight="10" />
+   <set mana="360"/>
+   <set sellable="false" tradeable="false" />
+   <set dropable="false" destroyable="true"/>
+
+   <skills>
+      <skill id="3146" level="1"/>
+    </skills>
+  </accessorie>
+  <accessorie id="9190" name="Shadow Item - Iron Circlet - Escape"  >
+   <set icon="icon.accessory_iron_circlet_i00"/>
+   <set bodyPart="HAIRALL" grade="NONE"/>
+   <set crystallizable="false" />
+   <set weight="10" />
+   <set mana="360"/>
+   <set sellable="false" tradeable="false" />
+   <set dropable="false" destroyable="true"/>
+
+   <skills>
+      <skill id="3146" level="1"/>
+    </skills>
+  </accessorie>
+  <accessorie id="9191" name="Shadow Item - Teddy Bear Hat - Big Head"  >
+   <set icon="icon.accessory_bear_cap_i00"/>
+   <set bodyPart="HAIRALL" grade="NONE"/>
+   <set crystallizable="false" />
+   <set weight="10" />
+   <set mana="360"/>
+   <set sellable="false" tradeable="false" />
+   <set dropable="false" destroyable="true"/>
+
+   <skills>
+      <skill id="3203" level="1"/>
+    </skills>
+  </accessorie>
+  <accessorie id="9192" name="Shadow Item - Piggy Hat - Big Head"  >
+   <set icon="icon.accessory_pig_cap_i00"/>
+   <set bodyPart="HAIRALL" grade="NONE"/>
+   <set crystallizable="false" />
+   <set weight="10" />
+   <set mana="360"/>
+   <set sellable="false" tradeable="false" />
+   <set dropable="false" destroyable="true"/>
+
+   <skills>
+      <skill id="3203" level="1"/>
+    </skills>
+  </accessorie>
+  <accessorie id="9193" name="Shadow Item - Jester Hat - Big Head"  >
+   <set icon="icon.accessory_jester_cap_i00"/>
+   <set bodyPart="HAIRALL" grade="NONE"/>
+   <set crystallizable="false" />
+   <set weight="10" />
+   <set mana="360"/>
+   <set sellable="false" tradeable="false" />
+   <set dropable="false" destroyable="true"/>
+
+   <skills>
+      <skill id="3203" level="1"/>
+    </skills>
+  </accessorie>
+  <accessorie id="9194" name="Shadow Item - Wizard Hat - Big Head"  >
+   <set icon="icon.accessory_magic_cap_i00"/>
+   <set bodyPart="HAIRALL" grade="NONE"/>
+   <set crystallizable="false" />
+   <set weight="10" />
+   <set mana="360"/>
+   <set sellable="false" tradeable="false" />
+   <set dropable="false" destroyable="true"/>
+
+   <skills>
+      <skill id="3203" level="1"/>
+    </skills>
+  </accessorie>
+  <accessorie id="9195" name="Shadow Item - Dapper Cap - Big Head"  >
+   <set icon="icon.accessory_dandy_cap_i00"/>
+   <set bodyPart="HAIRALL" grade="NONE"/>
+   <set crystallizable="false" />
+   <set weight="10" />
+   <set mana="360"/>
+   <set sellable="false" tradeable="false" />
+   <set dropable="false" destroyable="true"/>
+
+   <skills>
+      <skill id="3203" level="1"/>
+    </skills>
+  </accessorie>
+  <accessorie id="9196" name="Shadow Item - Romantic Chapeau - Big Head"  >
+   <set icon="icon.accessory_romantic_chaperon_i00"/>
+   <set bodyPart="HAIRALL" grade="NONE"/>
+   <set crystallizable="false" />
+   <set weight="10" />
+   <set mana="360"/>
+   <set sellable="false" tradeable="false" />
+   <set dropable="false" destroyable="true"/>
+
+   <skills>
+      <skill id="3203" level="1"/>
+    </skills>
+  </accessorie>
+  <accessorie id="9197" name="Shadow Item - Iron Circlet - Big Head"  >
+   <set icon="icon.accessory_iron_circlet_i00"/>
+   <set bodyPart="HAIRALL" grade="NONE"/>
+   <set crystallizable="false" />
+   <set weight="10" />
+   <set mana="360"/>
+   <set sellable="false" tradeable="false" />
+   <set dropable="false" destroyable="true"/>
+
+   <skills>
+      <skill id="3203" level="1"/>
+    </skills>
+  </accessorie>
+  <accessorie id="9198" name="Shadow Item - Teddy Bear Hat - Firework"  >
+   <set icon="icon.accessory_bear_cap_i00"/>
+   <set bodyPart="HAIRALL" grade="NONE"/>
+   <set crystallizable="false" />
+   <set weight="10" />
+   <set mana="360"/>
+   <set sellable="false" tradeable="false" />
+   <set dropable="false" destroyable="true"/>
+
+   <skills>
+      <skill id="3156" level="1"/>
+    </skills>
+  </accessorie>
+  <accessorie id="9199" name="Shadow Item - Piggy Hat - Firework"  >
+   <set icon="icon.accessory_pig_cap_i00"/>
+   <set bodyPart="HAIRALL" grade="NONE"/>
+   <set crystallizable="false" />
+   <set weight="10" />
+   <set mana="360"/>
+   <set sellable="false" tradeable="false" />
+   <set dropable="false" destroyable="true"/>
+
+   <skills>
+      <skill id="3156" level="1"/>
+    </skills>
+  </accessorie>
+  <accessorie id="9200" name="Shadow Item - Jester Hat - Firework"  >
+   <set icon="icon.accessory_jester_cap_i00"/>
+   <set bodyPart="HAIRALL" grade="NONE"/>
+   <set crystallizable="false" />
+   <set weight="10" />
+   <set mana="360"/>
+   <set sellable="false" tradeable="false" />
+   <set dropable="false" destroyable="true"/>
+
+   <skills>
+      <skill id="3156" level="1"/>
+    </skills>
+  </accessorie>
+  <accessorie id="9201" name="Shadow Item - Wizard Hat - Firework"  >
+   <set icon="icon.accessory_magic_cap_i00"/>
+   <set bodyPart="HAIRALL" grade="NONE"/>
+   <set crystallizable="false" />
+   <set weight="10" />
+   <set mana="360"/>
+   <set sellable="false" tradeable="false" />
+   <set dropable="false" destroyable="true"/>
+
+   <skills>
+      <skill id="3156" level="1"/>
+    </skills>
+  </accessorie>
+  <accessorie id="9202" name="Shadow Item - Dapper Cap - Firework"  >
+   <set icon="icon.accessory_dandy_cap_i00"/>
+   <set bodyPart="HAIRALL" grade="NONE"/>
+   <set crystallizable="false" />
+   <set weight="10" />
+   <set mana="360"/>
+   <set sellable="false" tradeable="false" />
+   <set dropable="false" destroyable="true"/>
+
+   <skills>
+      <skill id="3156" level="1"/>
+    </skills>
+  </accessorie>
+  <accessorie id="9203" name="Shadow Item - Romantic Chapeau - Firework"  >
+   <set icon="icon.accessory_romantic_chaperon_i00"/>
+   <set bodyPart="HAIRALL" grade="NONE"/>
+   <set crystallizable="false" />
+   <set weight="10" />
+   <set mana="360"/>
+   <set sellable="false" tradeable="false" />
+   <set dropable="false" destroyable="true"/>
+
+   <skills>
+      <skill id="3156" level="1"/>
+    </skills>
+  </accessorie>
+  <accessorie id="9204" name="Shadow Item - Iron Circlet - Firework"  >
+   <set icon="icon.accessory_iron_circlet_i00"/>
+   <set bodyPart="HAIRALL" grade="NONE"/>
+   <set crystallizable="false" />
+   <set weight="10" />
+   <set mana="360"/>
+   <set sellable="false" tradeable="false" />
+   <set dropable="false" destroyable="true"/>
+
+   <skills>
+      <skill id="3156" level="1"/>
+    </skills>
+  </accessorie>
+  <accessorie id="9208" name="Phantom Mask (Event)"  >
+   <set icon="icon.accessary_mask_of_chaotic_i00"/>
+   <set bodyPart="HAIRALL" grade="NONE"/>
+   <set crystallizable="false" />
+   <set weight="10" />
+   <set sellable="false" tradeable="false" />
+   <set dropable="false" destroyable="true"/>
+  </accessorie>
+</list>

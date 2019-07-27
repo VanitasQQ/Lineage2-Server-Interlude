@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE list SYSTEM "weapons.dtd">
+<list>
+<item id='9901' name="Improved Falchion">
+  <for>
+   <set val='31' order='0x08' stat='pAtk'/>
+   <set val='21' order='0x08' stat='mAtk'/>
+   <set val='8' order='0x08' stat='rCrit'/>
+   <set val='379' order='0x08' stat='pAtkSpd'/>
+   <enchant val='0' order='0x0C' stat='pAtk'/>
+   <enchant val='0' order='0x0C' stat='mAtk'/>
+  </for>
+</item>
+<item id='9902' name="Improved Great Spear">
+  <for>
+   <set val='31' order='0x08' stat='pAtk'/>
+   <set val='21' order='0x08' stat='mAtk'/>
+   <set val='8' order='0x08' stat='rCrit'/>
+   <set val='325' order='0x08' stat='pAtkSpd'/>
+   <enchant val='0' order='0x0C' stat='pAtk'/>
+   <enchant val='0' order='0x0C' stat='mAtk'/>
+  </for>
+</item>
+<item id='9903' name="Improved Iron Hammer">
+  <for>
+   <set val='31' order='0x08' stat='pAtk'/>
+   <set val='21' order='0x08' stat='mAtk'/>
+   <set val='4' order='0x08' stat='rCrit'/>
+   <add val='4' order='0x10' stat='accCombat'/>
+   <set val='379' order='0x08' stat='pAtkSpd'/>
+   <enchant val='0' order='0x0C' stat='pAtk'/>
+   <enchant val='0' order='0x0C' stat='mAtk'/>
+  </for>
+</item>
+<item id='9904' name="Improved Sword Breaker">
+  <for>
+   <set val='27' order='0x08' stat='pAtk'/>
+   <set val='21' order='0x08' stat='mAtk'/>
+   <set val='12' order='0x08' stat='rCrit'/>
+   <set val='433' order='0x08' stat='pAtkSpd'/>
+   <enchant val='0' order='0x0C' stat='pAtk'/>
+   <enchant val='0' order='0x0C' stat='mAtk'/>
+  </for>
+</item>
+<item id='9905' name="Improved Viper Fang">
+  <for>
+   <set val='38' order='0x08' stat='pAtk'/>
+   <set val='21' order='0x08' stat='mAtk'/>
+   <set val='4' order='0x08' stat='rCrit'/>
+   <add val='4' order='0x10' stat='accCombat'/>
+   <set val='325' order='0x08' stat='pAtkSpd'/>
+   <enchant val='0' order='0x0C' stat='pAtk'/>
+   <enchant val='0' order='0x0C' stat='mAtk'/>
+  </for>
+</item>
+<item id='9906' name="Improved Composite Bow">
+  <for>
+   <set val='64' order='0x08' stat='pAtk'/>
+   <set val='21' order='0x08' stat='mAtk'/>
+   <set val='12' order='0x08' stat='rCrit'/>
+   <set val='293' order='0x08' stat='pAtkSpd'/>
+   <enchant val='0' order='0x0C' stat='pAtk'/>
+   <enchant val='0' order='0x0C' stat='mAtk'/>
+  </for>
+</item>
+<item id='9907' name="Improved Flanged Mace">
+  <for>
+   <set val='31' order='0x08' stat='pAtk'/>
+   <set val='21' order='0x08' stat='mAtk'/>
+   <set val='4' order='0x08' stat='rCrit'/>
+   <add val='4' order='0x10' stat='accCombat'/>
+   <set val='379' order='0x08' stat='pAtkSpd'/>
+   <enchant val='0' order='0x0C' stat='pAtk'/>
+   <enchant val='0' order='0x0C' stat='mAtk'/>
+  </for>
+</item>
+<item id='9908' name="Improved Mage Staff">
+  <for>
+   <set val='30' order='0x08' stat='pAtk'/>
+   <set val='28' order='0x08' stat='mAtk'/>
+   <set val='4' order='0x08' stat='rCrit'/>
+   <add val='4' order='0x10' stat='accCombat'/>
+   <set val='325' order='0x08' stat='pAtkSpd'/>
+   <enchant val='0' order='0x0C' stat='pAtk'/>
+   <enchant val='0' order='0x0C' stat='mAtk'/>
+  </for>
+</item>
+<item id='9995' name="Hand Crossbow">
+  <for>
+   <set val='64' order='0x08' stat='pAtk'/>
+   <set val='32' order='0x08' stat='mAtk'/>
+   <set val='10' order='0x08' stat='rCrit'/>
+   <set val='303' order='0x08' stat='pAtkSpd'/>
+   <enchant val='0' order='0x0C' stat='pAtk'/>
+   <enchant val='0' order='0x0C' stat='mAtk'/>
+  </for>
+</item>
+<item id='9996' name="Hand Crossbow">
+  <for>
+   <set val='64' order='0x08' stat='pAtk'/>
+   <set val='32' order='0x08' stat='mAtk'/>
+   <set val='10' order='0x08' stat='rCrit'/>
+   <set val='303' order='0x08' stat='pAtkSpd'/>
+   <enchant val='0' order='0x0C' stat='pAtk'/>
+   <enchant val='0' order='0x0C' stat='mAtk'/>
+  </for>
+</item>
+</list>

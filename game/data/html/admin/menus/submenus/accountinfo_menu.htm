@@ -1,0 +1,26 @@
+<html><title>Панель управления сервером</title><body>
+<center>
+<table width=270>
+<tr>
+<td width=45><button value="Main" action="bypass -h admin_admin" width=45 height=19 back="sek.cbui94" fore="sek.cbui94"></td>
+<td width=180><center><font color="LEVEL">Аккаунт %account%</font></center></td>
+<td width=45><button value="Back" action="bypass -h admin_current_player" width=45 height=19 back="sek.cbui94" fore="sek.cbui94"></td>
+</tr>
+</table>
+
+<br><font color="LEVEL">Действия с аккаунтом</font>
+<table width=270>
+<tr>
+<td><button value="Забанить" action="bypass -h admin_ban %account%" width=90 height=19 back="sek.cbui94" fore="sek.cbui94"></td>
+<td><button value="Разбанить" action="bypass -h admin_unban %account%" width=90 height=19 back="sek.cbui94" fore="sek.cbui94"></td>
+<td><button value="Дать GM'а" action="bypass -h admin_gmacc %account%x" width=90 height=19 back="sek.cbui94" fore="sek.cbui94"></td>
+</tr>
+</table>
+
+<br><font color="LEVEL">Персонажи на аккаунте</font>
+<img src="L2UI.SquareWhite" width=270 height=1>
+<img src="L2UI.SquareBlank" width=1 height=3>
+%characters%
+<img src="L2UI.SquareBlank" width=1 height=3>
+<img src="L2UI.SquareWhite" width=270 height=1>
+</body></html>

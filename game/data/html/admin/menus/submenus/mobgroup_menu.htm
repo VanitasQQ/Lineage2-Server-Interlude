@@ -1,0 +1,44 @@
+<html><title>Панель управления сервером</title><body>
+<center>
+<table width=270>
+<tr>
+<td width=45><button value="Main" action="bypass -h admin_admin" width=45 height=19 back="sek.cbui94" fore="sek.cbui94"></td>
+<td width=180><center><font color="LEVEL">Группы</font></center></td>
+<td width=45><button value="Back" action="bypass -h admin_effects" width=45 height=19 back="sek.cbui94" fore="sek.cbui94"></td>
+</tr>
+</table>
+
+<br><font color="LEVEL">Ввод данных</font>
+<table width=260>
+<tr>
+<td width=50><font color="LEVEL">Text- </font></td>
+<td width=160><edit var="qbox" width=160 height=19></td>
+<td width=50><font color="LEVEL"> -Text</font></td>
+</tr>
+</table>
+
+<br><font color="LEVEL">Управление группами</font>
+<table width=260><tr>
+<td><button value="Create" action="bypass -h admin_mobgroup_create $qbox" width=55 height=19 back="sek.cbui94" fore="sek.cbui94"></td>
+<td><button value="Spawn" action="bypass -h admin_mobgroup_spawn $qbox" width=55 height=19 back="sek.cbui94" fore="sek.cbui94"></td>
+<td><button value="Unspawn" action="bypass -h admin_mobgroup_unspawn $qbox" width=55 height=19 back="sek.cbui94" fore="sek.cbui94"></td>
+<td><button value="Rem/Del" action="bypass -h admin_mobgroup_remove $qbox"  width=55 height=19 back="sek.cbui94" fore="sek.cbui94"></td>
+</tr><tr>
+<td><button value="List" action="bypass -h admin_mobgroup_list $qbox" width=55 height=19 back="sek.cbui94" fore="sek.cbui94"></td>
+<td><button value="AtkTrgt" action="bypass -h admin_mobgroup_attack $qbox" width=55 height=19 back="sek.cbui94" fore="sek.cbui94"></td>
+<td><button value="AtkGrp" action="bypass -h admin_mobgroup_attackgrp $qbox" width=55 height=19 back="sek.cbui94" fore="sek.cbui94"></td>
+<td><button value="AtkRnd" action="bypass -h admin_mobgroup_rnd $qbox" width=55 height=19 back="sek.cbui94" fore="sek.cbui94"></td>
+</tr></table><br>
+<table width=240>
+<tr>
+<td><button value="Return" action="bypass -h admin_mobgroup_return $qbox" width=55 height=19 back="sek.cbui94" fore="sek.cbui94"></td>
+<td><button value="Follow" action="bypass -h admin_mobgroup_follow $qbox" width=55 height=19 back="sek.cbui94" fore="sek.cbui94"></td>
+<td><button value="Teleport" action="bypass -h admin_mobgroup_teleport $qbox" width=55 height=19 back="sek.cbui94" fore="sek.cbui94"></td>
+<td><button value="Kill" action="bypass -h admin_mobgroup_kill $qbox" width=55 height=19 back="sek.cbui94" fore="sek.cbui94"></td>
+</tr><tr>
+<td><button value="Invul" action="bypass -h admin_mobgroup_invul $qbox" width=55 height=19 back="sek.cbui94" fore="sek.cbui94"></td>
+<td><button value="Idle" action="bypass -h admin_mobgroup_idle $qbox" width=55 height=19 back="sek.cbui94" fore="sek.cbui94"></td>
+<td><button value="No/Move" action="bypass -h admin_mobgroup_nomove $qbox" width=55 height=19 back="sek.cbui94" fore="sek.cbui94"></td>
+<td><button value="CastOnly" action="bypass -h admin_mobgroup_casting $qbox" width=55 height=19 back="sek.cbui94" fore="sek.cbui94"></td>
+</tr></table>
+</center></body></html>
