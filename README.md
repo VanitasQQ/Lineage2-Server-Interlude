@@ -1,5 +1,5 @@
 # Lineage2 Server Interlude (Multicraft x100)
-Полностью готовый сервер Lineage 2 Interlude. Ядро сервера было отвязанно от привязанного к нему IP (Dynamic IP) и готов к работе на любом сервере. За основу взято ядро на Java. (Если память мне не изменяет, то ядро l2jLovely. Сервер полностью настроен и готов к работе. 
+Готовый cервер Lineage 2 Interlude. За основу взято ядро на Java. (Если память мне не изменяет, то ядро l2jLovely)
 
 ## Требования:
 - Система: Linux (Ubuntu/Debian/ArchLinux), Windows Xp и выше.
