@@ -1,15 +1,15 @@
 # Lineage2 Server Interlude (Multicraft x100)
-Готовый cервер Lineage 2 Interlude. За основу взято ядро на Java. (Если память мне не изменяет, то ядро l2jLovely)
+Ready-made Lineage 2 Interlude server. It is based on the Java kernel. (If memory serves me correctly, the kernel is l2jLovely)
 
-## Требования:
-- Система: Linux (Ubuntu/Debian/ArchLinux), Windows Xp и выше.
-- Процессор: 2-ух ядерный 2.7 ГГц.
-- Оперативная память: For Linux [400 MB] For Windows [1GB]
-- Java: 7-я версия и выше.
+## Requirements:
+- System: Linux (Ubuntu/Debian/ArchLinux), Windows Xp and higher.
+- Processor: 2-core 2.7 GHz.
+- RAM: For Linux [400 MB] For Windows [1GB]
+- Java: Version 7 and higher.
 
-## Установка:
-- Залить backup БД через Navicat. (Создать 2 базы [la2_login] и [la2_game]
-- Прописать пароль к root пользователю в конфигах GameServer'a и LoginServer'a
-- Регистрируем GamerServer (создаем hexid файл), и закидуем его в: ~\game\config\network
-- Запускаем LoginServer, и после запуска LoginServer'a запускаем GamerServer.
-- P.S. В комплекте L2_EDIT для изменения l2.ini файла. 
+## Install:
+- Upload the backup database via Navicat. (Create 2 databases [la2_login] and [la2_game]
+- Write the password to the root user in the configs of gameserver and LoginServer
+- Register GamerServer (create a hexid file), and throw it in: ~ \ game\config\network
+- Launch LoginServer, and after launching LoginServer, launch GamerServer.
+- P.S. Included is L2_EDIT for changing the l2.ini file.
