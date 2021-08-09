@@ -1,5 +1,5 @@
 # Lineage2 Server Interlude (Multicraft x100)
-Ready-made Lineage 2 Interlude server. It is based on the Java kernel. (If memory serves me correctly, the kernel is l2jLovely)
+Ready-made Lineage 2 Interlude server. It is based on the Java kernel. (If memory serves me correctly, the kernel is l2jLovely. The server language is Russian.)
 
 ## Requirements:
 - System: Linux (Ubuntu/Debian/ArchLinux), Windows Xp and higher.
